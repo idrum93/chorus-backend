@@ -1,0 +1,101 @@
+{
+  "_note": "Sector labels come from the publication, not from keywords. A Utility Dive article is utilities coverage by definition. Feeds marked uncertain may 404 - run --probe and delete whatever fails. GDELT entries provide free backfill over a rolling window; newsapi_ai entries stay dormant unless NEWSAPI_AI_KEY is set.",
+
+  "sectors": [
+    {
+      "name": "Utilities",
+      "sources": [
+        { "type": "rss", "url": "https://www.utilitydive.com/feeds/news/", "publisher": "Utility Dive" },
+        { "type": "rss", "url": "https://www.eia.gov/rss/todayinenergy.xml", "publisher": "EIA Today in Energy" },
+        { "type": "gdelt", "query": "\"power grid\" OR \"electric utility\" OR \"interconnection queue\"" }
+      ]
+    },
+    {
+      "name": "Energy",
+      "sources": [
+        { "type": "rss", "url": "https://oilprice.com/rss/main", "publisher": "OilPrice" },
+        { "type": "rss", "url": "https://www.rechargenews.com/rss", "publisher": "Recharge", "uncertain": true },
+        { "type": "gdelt", "query": "\"power generation\" OR \"energy supply\" OR \"nuclear reactor\"" }
+      ]
+    },
+    {
+      "name": "Technology",
+      "sources": [
+        { "type": "rss", "url": "https://www.ciodive.com/feeds/news/", "publisher": "CIO Dive" },
+        { "type": "rss", "url": "https://feeds.arstechnica.com/arstechnica/index", "publisher": "Ars Technica" },
+        { "type": "rss", "url": "https://www.theregister.com/headlines.atom", "publisher": "The Register" },
+        { "type": "rss", "url": "https://semiengineering.com/feed/", "publisher": "Semiconductor Engineering", "uncertain": true },
+        { "type": "gdelt", "query": "\"data center\" OR semiconductor OR hyperscaler" }
+      ]
+    },
+    {
+      "name": "Industrials",
+      "sources": [
+        { "type": "rss", "url": "https://www.manufacturingdive.com/feeds/news/", "publisher": "Manufacturing Dive" },
+        { "type": "rss", "url": "https://www.constructiondive.com/feeds/news/", "publisher": "Construction Dive" },
+        { "type": "gdelt", "query": "\"lead times\" OR \"order backlog\" OR \"manufacturing capacity\"" }
+      ]
+    },
+    {
+      "name": "Supply chain",
+      "sources": [
+        { "type": "rss", "url": "https://www.supplychaindive.com/feeds/news/", "publisher": "Supply Chain Dive" },
+        { "type": "gdelt", "query": "\"supply chain\" OR \"freight rates\" OR \"port congestion\"" }
+      ]
+    },
+    {
+      "name": "Materials",
+      "sources": [
+        { "type": "rss", "url": "https://www.mining.com/feed/", "publisher": "Mining.com" },
+        { "type": "rss", "url": "https://www.packagingdive.com/feeds/news/", "publisher": "Packaging Dive", "uncertain": true },
+        { "type": "gdelt", "query": "\"rare earth\" OR \"critical minerals\" OR smelter OR refining" }
+      ]
+    },
+    {
+      "name": "Autos",
+      "sources": [
+        { "type": "rss", "url": "https://www.automotivedive.com/feeds/news/", "publisher": "Automotive Dive", "uncertain": true },
+        { "type": "gdelt", "query": "\"automotive supplier\" OR \"vehicle production\" OR drivetrain" }
+      ]
+    },
+    {
+      "name": "Healthcare",
+      "sources": [
+        { "type": "rss", "url": "https://www.healthcaredive.com/feeds/news/", "publisher": "Healthcare Dive" },
+        { "type": "rss", "url": "https://www.medtechdive.com/feeds/news/", "publisher": "MedTech Dive", "uncertain": true },
+        { "type": "gdelt", "query": "\"health system\" OR \"medical device\" OR \"drug shortage\"" }
+      ]
+    },
+    {
+      "name": "Consumer",
+      "sources": [
+        { "type": "rss", "url": "https://www.retaildive.com/feeds/news/", "publisher": "Retail Dive" },
+        { "type": "rss", "url": "https://www.grocerydive.com/feeds/news/", "publisher": "Grocery Dive", "uncertain": true },
+        { "type": "gdelt", "query": "\"consumer spending\" OR \"input costs\" OR \"pricing power\"" }
+      ]
+    },
+    {
+      "name": "Finance",
+      "sources": [
+        { "type": "rss", "url": "https://www.bankingdive.com/feeds/news/", "publisher": "Banking Dive" },
+        { "type": "rss", "url": "https://www.cfodive.com/feeds/news/", "publisher": "CFO Dive", "uncertain": true },
+        { "type": "rss", "url": "https://www.federalreserve.gov/feeds/press_all.xml", "publisher": "Federal Reserve" },
+        { "type": "gdelt", "query": "\"credit conditions\" OR \"loan growth\" OR \"capital requirements\"" }
+      ]
+    },
+    {
+      "name": "Real estate",
+      "sources": [
+        { "type": "rss", "url": "https://www.constructiondive.com/feeds/news/", "publisher": "Construction Dive" },
+        { "type": "gdelt", "query": "\"industrial real estate\" OR \"warehouse leasing\" OR \"site selection\"" }
+      ]
+    },
+    {
+      "name": "Policy",
+      "sources": [
+        { "type": "rss", "url": "https://www.esgdive.com/feeds/news/", "publisher": "ESG Dive", "uncertain": true },
+        { "type": "gdelt", "query": "tariff OR \"export controls\" OR \"permitting reform\" OR \"trade policy\"" }
+      ]
+    }
+  ]
+}
