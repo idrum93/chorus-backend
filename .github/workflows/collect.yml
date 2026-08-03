@@ -14,7 +14,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: collect
+  group: crosstalk-write
   cancel-in-progress: false
 
 jobs:
@@ -75,11 +75,20 @@ jobs:
           git diff --staged --quiet && echo "nothing changed" && exit 0
           git commit -m "collect $(date -u +'%Y-%m-%d %H:%M')"
           if git push; then
-            echo "Saved. History will accumulate."
-          else
-            echo "::error::PUSH DENIED — the database was NOT saved, so the next run"
-            echo "::error::starts from empty and no history ever builds."
-            echo "::error::Fix: Settings > Actions > General > Workflow permissions"
-            echo "::error::     select 'Read and write permissions' and Save."
-            exit 1
+            echo "Saved."
+            exit 0
           fi
+          echo "Push rejected. Checking whether the remote moved..."
+          git fetch origin main
+          BEHIND=$(git rev-list --count HEAD..origin/main)
+          if [ "$BEHIND" -gt 0 ]; then
+            echo "::error::PUSH REJECTED — another workflow committed while this one ran"
+            echo "::error::($BEHIND commits ahead). This run's data was NOT saved."
+            echo "::error::Re-run it; the workflows now share a concurrency group so"
+            echo "::error::they should no longer overlap."
+          else
+            echo "::error::PUSH DENIED and the remote has not moved, so this is"
+            echo "::error::permissions. Settings > Actions > General > Workflow"
+            echo "::error::permissions > Read and write permissions > Save."
+          fi
+          exit 1
