@@ -1,9 +1,763 @@
 {
- "generated": "2026-08-03T06:16:20.166189+00:00",
+ "generated": "2026-08-03T06:34:00.153582+00:00",
  "prices": {},
+ "companies": [
+  {
+   "ticker": "AMZN",
+   "name": "Amazon",
+   "sector": "Technology",
+   "articles": 12,
+   "articles14d": 12,
+   "terms": [
+    {
+     "term": "data center",
+     "articles": 4,
+     "sectors": 6,
+     "direction": "rising"
+    },
+    {
+     "term": "clean air",
+     "articles": 1,
+     "sectors": 4,
+     "direction": "rising"
+    },
+    {
+     "term": "strong performance",
+     "articles": 1,
+     "sectors": 2,
+     "direction": "new"
+    },
+    {
+     "term": "clean air act",
+     "articles": 1,
+     "sectors": 2,
+     "direction": "steady"
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "Retail Dive",
+     "title": "Amazon Prime Day details elusive as AWS takes centerstage",
+     "url": "https://www.retaildive.com/news/amazon-prime-day-details-aws-Q2/826694/",
+     "sector": "Consumer"
+    },
+    {
+     "publisher": "Just Auto",
+     "title": "Amazon's Zoox cleared for paid rides in steering-wheel-free robotaxis",
+     "url": "https://www.just-auto.com/news/zoox-steering-wheel-free-robotaxis/",
+     "sector": "Autos"
+    },
+    {
+     "publisher": "Supply Chain Dive",
+     "title": "Amazon\u2019s 2025 emissions jump as AI brings \u2018momentum and complexity\u2019: report",
+     "url": "https://www.supplychaindive.com/news/amazon-2025-emissions-jump-as-ai-brings-momentum-and-complexity-report/826171/",
+     "sector": "Supply chain"
+    },
+    {
+     "publisher": "Grocery Dive",
+     "title": "The Friday Checkout: Amazon finally moves the needle in grocery",
+     "url": "https://www.grocerydive.com/news/the-friday-checkout-amazon-grocery-delivery-expansion-market-share/826642/",
+     "sector": "Consumer"
+    }
+   ]
+  },
+  {
+   "ticker": "DUK",
+   "name": "Duke Energy",
+   "sector": "Utilities",
+   "articles": 3,
+   "articles14d": 1,
+   "terms": [
+    {
+     "term": "data center",
+     "articles": 3,
+     "sectors": 6,
+     "direction": "rising"
+    },
+    {
+     "term": "clean air",
+     "articles": 1,
+     "sectors": 4,
+     "direction": "rising"
+    },
+    {
+     "term": "clean air act",
+     "articles": 1,
+     "sectors": 2,
+     "direction": "steady"
+    },
+    {
+     "term": "clean energy",
+     "articles": 1,
+     "sectors": 2,
+     "direction": "rising"
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "Data Center Dynamics",
+     "title": "Amazon, Duke Energy accused of evading Clean Air Act at under-development data center in Hamlet, North Carolina",
+     "url": "https://www.datacenterdynamics.com/en/news/amazon-duke-energy-accused-of-evading-clean-air-act-at-under-development-data-center-in-hamlet-north-carolina/",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "Canary Media",
+     "title": "Duke Energy proposes special rules for data centers in North Carolina",
+     "url": "https://www.canarymedia.com/articles/data-centers/duke-energy-proposes-special-rules-for-data-centers-in-north-carolina",
+     "sector": "Energy"
+    },
+    {
+     "publisher": "Canary Media",
+     "title": "Data centers are key to fight over Duke electric rates in North Carolina",
+     "url": "https://www.canarymedia.com/articles/data-centers/duke-electric-rates-north-carolina",
+     "sector": "Energy"
+    }
+   ]
+  },
+  {
+   "ticker": "MSFT",
+   "name": "Microsoft",
+   "sector": "Technology",
+   "articles": 13,
+   "articles14d": 13,
+   "terms": [
+    {
+     "term": "data center",
+     "articles": 1,
+     "sectors": 6,
+     "direction": "rising"
+    },
+    {
+     "term": "artificial intelligence",
+     "articles": 1,
+     "sectors": 2,
+     "direction": "new"
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "The Register",
+     "title": "Microsoft says 8GB of RAM should be enough for anyone running Windows 11",
+     "url": "https://www.theregister.com/os-platforms/2026/08/03/microsoft-says-8gb-of-ram-should-be-enough-for-anyone-running-windows-11/5282153",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "The Register",
+     "title": "Meet the 'internet radical' who helped Microsoft get email and AT&T get online",
+     "url": "https://www.theregister.com/offbeat/2026/08/02/meet-the-internet-radical-who-helped-microsoft-get-email-and-att-get-online/5281281",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "The Register",
+     "title": "Unexpected item in the bagging area as Windows Activation error pops up at check-in",
+     "url": "https://www.theregister.com/offbeat/2026/08/01/unexpected-item-in-the-bagging-area-as-windows-activation-error-pops-up-at-check-in/5281946",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "The Register",
+     "title": "30 years ago, AT&T gave Internet Explorer the default advantage",
+     "url": "https://www.theregister.com/offbeat/2026/07/30/30-years-ago-att-gave-internet-explorer-the-default-advantage/5279373",
+     "sector": "Technology"
+    }
+   ]
+  },
+  {
+   "ticker": "MMM",
+   "name": "3M",
+   "sector": "Industrials",
+   "articles": 5,
+   "articles14d": 5,
+   "terms": [
+    {
+     "term": "real estate",
+     "articles": 1,
+     "sectors": 3,
+     "direction": "new"
+    },
+    {
+     "term": "clean energy",
+     "articles": 1,
+     "sectors": 2,
+     "direction": "rising"
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "Mining.com",
+     "title": "S\u00e9gu\u00e9la revamp sets up decade of 200,000\u2011oz production",
+     "url": "https://www.mining.com/seguela-revamp-sets-up-decade-of-200000%e2%80%91oz-production/",
+     "sector": "Materials"
+    },
+    {
+     "publisher": "Federal Register",
+     "title": "Pipeline Safety: Standards Update-ASTM A53/A53M",
+     "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15584/pipeline-safety-standards-update-astm-a53a53m",
+     "sector": "Policy"
+    },
+    {
+     "publisher": "Mining.com",
+     "title": "FAST Metals raises $4.3M, inks deal to process red\u2011mud stockpiles",
+     "url": "https://www.mining.com/fast-metals-raises-4-3m-inks-deal-to-process-red%e2%80%91mud-stockpiles/",
+     "sector": "Materials"
+    },
+    {
+     "publisher": "Banking Dive",
+     "title": "Banc of California sees surprise $251.3M loss",
+     "url": "https://www.bankingdive.com/news/banc-california-251-million-loss-cre-securities-subordinated-debt/826491/",
+     "sector": "Finance"
+    }
+   ]
+  },
+  {
+   "ticker": "CCJ",
+   "name": "Cameco",
+   "sector": "Energy",
+   "articles": 3,
+   "articles14d": 3,
+   "terms": [
+    {
+     "term": "nuclear technology",
+     "articles": 1,
+     "sectors": 3,
+     "direction": "new"
+    },
+    {
+     "term": "nuclear power",
+     "articles": 1,
+     "sectors": 3,
+     "direction": "rising"
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "Mining.com",
+     "title": "Cameco's Westinghouse nuclear power venture files for IPO",
+     "url": "https://www.mining.com/camecos-westinghouse-nuclear-power-venture-files-for-ipo/",
+     "sector": "Materials"
+    },
+    {
+     "publisher": "World Nuclear News",
+     "title": "Cameco announces IPO plan for Westinghouse",
+     "url": "https://www.world-nuclear-news.org/articles/cameco-announces-go-public-plans-for-westinghouse",
+     "sector": "Energy"
+    },
+    {
+     "publisher": "Northern Miner",
+     "title": "Cameco's Westinghouse nuclear unit files for IPO",
+     "url": "https://www.northernminer.com/news/camecos-westinghouse-nuclear-unit-files-for-ipo/1003893594/",
+     "sector": "Materials"
+    }
+   ]
+  },
+  {
+   "ticker": "TSLA",
+   "name": "Tesla",
+   "sector": "Autos",
+   "articles": 2,
+   "articles14d": 0,
+   "terms": [
+    {
+     "term": "power plant",
+     "articles": 2,
+     "sectors": 2,
+     "direction": "rising"
+    },
+    {
+     "term": "data center",
+     "articles": 1,
+     "sectors": 6,
+     "direction": "rising"
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "Canary Media",
+     "title": "Tesla, Sunrun, Renew Home team up on massive 16GW virtual power plant",
+     "url": "https://www.canarymedia.com/articles/virtual-power-plants/tesla-sunrun-renewhome-vpp",
+     "sector": "Energy"
+    },
+    {
+     "publisher": "Canary Media",
+     "title": "Tesla offers discounted home batteries in New England VPP push",
+     "url": "https://www.canarymedia.com/articles/batteries/tesla-home-batteries-new-england-vpp",
+     "sector": "Energy"
+    }
+   ]
+  },
+  {
+   "ticker": "GM",
+   "name": "General Motors",
+   "sector": "Autos",
+   "articles": 3,
+   "articles14d": 3,
+   "terms": [
+    {
+     "term": "supply chain",
+     "articles": 2,
+     "sectors": 5,
+     "direction": "new"
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "Supply Chain Dive",
+     "title": "General Motors drives toward supply chain resiliency",
+     "url": "https://www.supplychaindive.com/news/general-motors-drives-toward-supply-chain-resiliency/826542/",
+     "sector": "Supply chain"
+    },
+    {
+     "publisher": "Supply Chain Dive",
+     "title": "General Motors is driving toward supply chain resiliency",
+     "url": "https://www.supplychaindive.com/news/general-motors-is-driving-toward-supply-chain-resiliency/826542/",
+     "sector": "Supply chain"
+    },
+    {
+     "publisher": "Manufacturing Dive",
+     "title": "US Army awards prototype contracts to Ford, GM, BC Customs",
+     "url": "https://www.manufacturingdive.com/news/ford-industrial-platform-gm-defense-bc-customs-us-army-isv-h/826442/",
+     "sector": "Industrials"
+    }
+   ]
+  },
+  {
+   "ticker": "META",
+   "name": "Meta Platforms",
+   "sector": "Technology",
+   "articles": 3,
+   "articles14d": 3,
+   "terms": [
+    {
+     "term": "data center",
+     "articles": 1,
+     "sectors": 6,
+     "direction": "rising"
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "The Register",
+     "title": "Meta straps on a \u2018Kick Me' sign by mistakenly taking down video by India's prime minister",
+     "url": "https://www.theregister.com/public-sector/2026/08/03/meta-straps-on-a-kick-me-sign-by-mistakenly-taking-down-video-by-indias-prime-minister/5282130",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "Data Center Dynamics",
+     "title": "Meta boosts AI data center capex, forecasts $130-145bn spend",
+     "url": "https://www.datacenterdynamics.com/en/news/meta-boosts-ai-data-center-capex-forecasts-130-145bn-spend/",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "The Register",
+     "title": "Hims & Hers accused of sharing health secrets and hiding the cancel button",
+     "url": "https://www.theregister.com/legal/2026/07/30/ftc-sues-hims-hers-for-sharing-health-data-with-big-tech/5281092",
+     "sector": "Technology"
+    }
+   ]
+  },
+  {
+   "ticker": "UPS",
+   "name": "United Parcel Service",
+   "sector": "Supply chain",
+   "articles": 3,
+   "articles14d": 3,
+   "terms": [
+    {
+     "term": "strong performance",
+     "articles": 1,
+     "sectors": 2,
+     "direction": "new"
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "Supply Chain Dive",
+     "title": "UPS: Over two-thirds of US volume now handled by automated locations",
+     "url": "https://www.supplychaindive.com/news/ups-over-two-thirds-of-us-volume-now-handled-by-automated-locations/826477/",
+     "sector": "Supply chain"
+    },
+    {
+     "publisher": "FreightWaves",
+     "title": "UPS intensifies effort to attract small businesses",
+     "url": "https://www.freightwaves.com/news/ups-intensifies-effort-to-attract-small-businesses",
+     "sector": "Supply chain"
+    },
+    {
+     "publisher": "FreightWaves",
+     "title": "Trucking Earnings: Why UPS Is Falling Behind in a Robust Market",
+     "url": "https://www.freightwaves.com/news/trucking-earnings-why-ups-is-falling-behind-in-a-robust-market",
+     "sector": "Supply chain"
+    }
+   ]
+  },
+  {
+   "ticker": "V",
+   "name": "Visa Inc",
+   "sector": "Finance",
+   "articles": 3,
+   "articles14d": 3,
+   "terms": [
+    {
+     "term": "pilot program",
+     "articles": 1,
+     "sectors": 3,
+     "direction": "new"
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "Federal Register",
+     "title": "Visas: Visa Bond Program",
+     "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15726/visas-visa-bond-program",
+     "sector": "Policy"
+    },
+    {
+     "publisher": "Payments Dive",
+     "title": "Visa's revenue momentum slows",
+     "url": "https://www.paymentsdive.com/news/visas-revenue-momentum-slows/826475/",
+     "sector": "Finance"
+    },
+    {
+     "publisher": "Payments Dive",
+     "title": "Mastercard bolsters scam defense",
+     "url": "https://www.paymentsdive.com/news/mastercard-bolsters-scam-defense/826259/",
+     "sector": "Finance"
+    }
+   ]
+  },
+  {
+   "ticker": "KO",
+   "name": "Coca-Cola",
+   "sector": "Consumer",
+   "articles": 2,
+   "articles14d": 2,
+   "terms": [
+    {
+     "term": "world cup",
+     "articles": 1,
+     "sectors": 3,
+     "direction": "new"
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "Food Dive",
+     "title": "Coca-Cola's namesake soda won big at the World Cup",
+     "url": "https://www.fooddive.com/news/coca-cola-volume-growth-world-cup-powerade/826472/",
+     "sector": "Consumer"
+    },
+    {
+     "publisher": "Cybersecurity Dive",
+     "title": "Coca-Cola restores most production capacity at dairy unit after ransomware attack",
+     "url": "https://www.cybersecuritydive.com/news/coca-cola-restores-most-production-capacity-at-dairy-unit-after-ransomware/826250/",
+     "sector": "Technology"
+    }
+   ]
+  },
+  {
+   "ticker": "WMT",
+   "name": "Walmart",
+   "sector": "Consumer",
+   "articles": 2,
+   "articles14d": 2,
+   "terms": [
+    {
+     "term": "supply chain",
+     "articles": 1,
+     "sectors": 5,
+     "direction": "new"
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "Retail Dive",
+     "title": "How Walmart uses AI to limit weather disruptions in its supply chain",
+     "url": "https://www.retaildive.com/news/walmart-uses-ai-limit-weather-disruptions-in-supply-chain/826560/",
+     "sector": "Consumer"
+    },
+    {
+     "publisher": "Grocery Dive",
+     "title": "Kroger and Albertsons continue to see their market share contract",
+     "url": "https://www.grocerydive.com/news/kroger-albertsons-grocery-market-share-contract-numerator/826197/",
+     "sector": "Consumer"
+    }
+   ]
+  },
+  {
+   "ticker": "GOOGL",
+   "name": "Alphabet",
+   "sector": "Technology",
+   "articles": 9,
+   "articles14d": 8,
+   "terms": [],
+   "examples": [
+    {
+     "publisher": "Semiconductor Engineering",
+     "title": "Modular Verification of RTL Processors Against ISA Contracts (MIT, Google, UW)",
+     "url": "https://semiengineering.com/modular-verification-of-rtl-processors-against-isa-contracts-mit-google-uw/",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "Ars Technica",
+     "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+     "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "Ars Technica",
+     "title": "Google plans to exempt sanctioned nations from Android developer verification",
+     "url": "https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "Ars Technica",
+     "title": "Google Earth risked ruin with retracted AI tool for making fake satellite pics",
+     "url": "https://arstechnica.com/ai/2026/07/google-earth-releases-swiftly-retracts-ai-feature-to-make-fake-satellite-images/",
+     "sector": "Technology"
+    }
+   ]
+  },
+  {
+   "ticker": "F",
+   "name": "Ford Motor",
+   "sector": "Autos",
+   "articles": 4,
+   "articles14d": 4,
+   "terms": [],
+   "examples": [
+    {
+     "publisher": "Automotive Dive",
+     "title": "Ford recalls nearly 566K Bronco SUVs for engine fire risk",
+     "url": "https://www.wardsauto.com/news/ford-recalls-nearly-566k-bronco-suvs-for-engine-fire-risk/826593/",
+     "sector": "Autos"
+    },
+    {
+     "publisher": "Manufacturing Dive",
+     "title": "US Army awards prototype contracts to Ford, GM, BC Customs",
+     "url": "https://www.manufacturingdive.com/news/ford-industrial-platform-gm-defense-bc-customs-us-army-isv-h/826442/",
+     "sector": "Industrials"
+    },
+    {
+     "publisher": "Automotive Dive",
+     "title": "Ford raises guidance for 2026 as F-Series production recovers",
+     "url": "https://www.wardsauto.com/news/ford-raises-guidance-for-2026-as-f-series-production-recovers/826432/",
+     "sector": "Autos"
+    },
+    {
+     "publisher": "ESG Dive",
+     "title": "Google, Ford, others launch skilled trades workforce initiative",
+     "url": "https://www.esgdive.com/news/google-ford-others-launch-skilled-trades-workforce-initiative/826253/",
+     "sector": "Policy"
+    }
+   ]
+  },
+  {
+   "ticker": "CHRW",
+   "name": "CH Robinson",
+   "sector": "Supply chain",
+   "articles": 3,
+   "articles14d": 3,
+   "terms": [],
+   "examples": [
+    {
+     "publisher": "FreightWaves",
+     "title": "C.H. Robinson: Nuclear Verdict's Existential Threat to Brokers",
+     "url": "https://www.freightwaves.com/news/c-h-robinson-nuclear-verdicts-existential-threat-to-brokers",
+     "sector": "Supply chain"
+    },
+    {
+     "publisher": "FreightWaves",
+     "title": "Massive $600 Million Nuclear Verdict Hits C.H. Robinson & Brokerage Industry",
+     "url": "https://www.freightwaves.com/news/massive-600-million-nuclear-verdict-hits-c-h-robinson-brokerage-industry",
+     "sector": "Supply chain"
+    },
+    {
+     "publisher": "FreightWaves",
+     "title": "C.H. Robinson earnings call shifts to nuclear verdict as key topic",
+     "url": "https://www.freightwaves.com/news/c-h-robinson-earnings-call-shifts-to-nuclear-verdict-as-key-topic",
+     "sector": "Supply chain"
+    }
+   ]
+  },
+  {
+   "ticker": "BSX",
+   "name": "Boston Scientific",
+   "sector": "Healthcare",
+   "articles": 2,
+   "articles14d": 2,
+   "terms": [],
+   "examples": [
+    {
+     "publisher": "MedTech Dive",
+     "title": "Boston Scientific again cuts 2026 guidance",
+     "url": "https://www.medtechdive.com/news/boston-scientific-again-cuts-2026-guidance/826473/",
+     "sector": "Healthcare"
+    },
+    {
+     "publisher": "MedTech Dive",
+     "title": "Boston Scientific to restructure, taking up to $800M in charges",
+     "url": "https://www.medtechdive.com/news/boston-scientific-to-restructure-taking-up-to-800m-in-charges/826363/",
+     "sector": "Healthcare"
+    }
+   ]
+  },
+  {
+   "ticker": "CMG",
+   "name": "Chipotle",
+   "sector": "Consumer",
+   "articles": 2,
+   "articles14d": 2,
+   "terms": [],
+   "examples": [
+    {
+     "publisher": "Restaurant Dive",
+     "title": "Chipotle posts best quarterly same-store sales growth since 2024",
+     "url": "https://www.restaurantdive.com/news/chipotle-same-store-sales-up-2-percent-q2-2026/826562/",
+     "sector": "Consumer"
+    },
+    {
+     "publisher": "Restaurant Dive",
+     "title": "Chipotle's efforts to engage customers with rewards in-restaurant pay off",
+     "url": "https://www.restaurantdive.com/news/chipotles-efforts-to-engage-customers-with-rewards-in-restaurant-pay-off/826651/",
+     "sector": "Consumer"
+    }
+   ]
+  },
+  {
+   "ticker": "COF",
+   "name": "Capital One",
+   "sector": "Finance",
+   "articles": 2,
+   "articles14d": 2,
+   "terms": [],
+   "examples": [
+    {
+     "publisher": "Payments Dive",
+     "title": "Capital One provides Discover community investment update",
+     "url": "https://www.paymentsdive.com/news/capital-one-provides-discover-community-investment-update/826588/",
+     "sector": "Finance"
+    },
+    {
+     "publisher": "Banking Dive",
+     "title": "Capital One gives update on Discover community investment plan",
+     "url": "https://www.bankingdive.com/news/capital-one-discover-community-investment-benefit-plan-update/826610/",
+     "sector": "Finance"
+    }
+   ]
+  },
+  {
+   "ticker": "SBUX",
+   "name": "Starbucks",
+   "sector": "Consumer",
+   "articles": 2,
+   "articles14d": 2,
+   "terms": [],
+   "examples": [
+    {
+     "publisher": "Restaurant Dive",
+     "title": "Starbucks remodels, service tweaks are paying off",
+     "url": "https://www.restaurantdive.com/news/starbucks-q3-turnaround-gains-sales-momentum/826543/",
+     "sector": "Consumer"
+    },
+    {
+     "publisher": "Restaurant Dive",
+     "title": "Starbucks' experience refinements are \u2018turning engagement into rituals,' CEO says",
+     "url": "https://www.restaurantdive.com/news/starbucks-experience-refinements-turning-engagement-into-rituals/826655/",
+     "sector": "Consumer"
+    }
+   ]
+  },
+  {
+   "ticker": "TM",
+   "name": "Toyota",
+   "sector": "Autos",
+   "articles": 2,
+   "articles14d": 2,
+   "terms": [],
+   "examples": [
+    {
+     "publisher": "Just Auto",
+     "title": "Toyota's global sales down in H1",
+     "url": "https://www.just-auto.com/news/toyotas-global-sales-down-in-h1/",
+     "sector": "Autos"
+    },
+    {
+     "publisher": "Semiconductor Engineering",
+     "title": "Deployable 3D Structures from Wafer-Fabricated Precursors (U. of Houston, Toyota, Imperial College London)",
+     "url": "https://semiengineering.com/deployable-3d-structures-from-wafer-fabricated-precursors-u-of-houston-toyota-imperial-college-london/",
+     "sector": "Technology"
+    }
+   ]
+  },
+  {
+   "ticker": "UNP",
+   "name": "Union Pacific",
+   "sector": "Supply chain",
+   "articles": 2,
+   "articles14d": 2,
+   "terms": [],
+   "examples": [
+    {
+     "publisher": "FreightWaves",
+     "title": "Rail Merger: UP CEO Says it's BETTER for Consumers | FreightWaves Today",
+     "url": "https://www.freightwaves.com/news/rail-merger-up-ceo-says-its-better-for-consumers-freightwaves-today",
+     "sector": "Supply chain"
+    },
+    {
+     "publisher": "FreightWaves",
+     "title": "Unpacking Rail Earnings: How Volume Growth Fuels Merger Talks",
+     "url": "https://www.freightwaves.com/news/unpacking-rail-earnings-how-volume-growth-fuels-merger-talks",
+     "sector": "Supply chain"
+    }
+   ]
+  },
+  {
+   "ticker": "XPO",
+   "name": "XPO",
+   "sector": "Supply chain",
+   "articles": 2,
+   "articles14d": 2,
+   "terms": [],
+   "examples": [
+    {
+     "publisher": "FreightWaves",
+     "title": "The Unforeseen Pivot: XPO's Bold Asset-Heavy Acquisition",
+     "url": "https://www.freightwaves.com/news/the-unforeseen-pivot-xpos-bold-asset-heavy-acquisition",
+     "sector": "Supply chain"
+    },
+    {
+     "publisher": "FreightWaves",
+     "title": "XPO's Q2 earnings beat expectations behind strong LTL performance",
+     "url": "https://www.freightwaves.com/news/xpos-q2-earnings-beat-expectations-behind-strong-ltl-performance",
+     "sector": "Supply chain"
+    }
+   ]
+  },
+  {
+   "ticker": "GE",
+   "name": "GE Aerospace",
+   "sector": "Industrials",
+   "articles": 2,
+   "articles14d": 1,
+   "terms": [],
+   "examples": [
+    {
+     "publisher": "Supply Chain Dive",
+     "title": "GE Aerospace trims lead times by 60%",
+     "url": "https://www.supplychaindive.com/news/ge-aerospace-trims-lead-times-by-60/826607/",
+     "sector": "Supply chain"
+    },
+    {
+     "publisher": "Federal Register",
+     "title": "Airworthiness Directives; General Electric Company Engines",
+     "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14478/airworthiness-directives-general-electric-company-engines",
+     "sector": "Policy"
+    }
+   ]
+  }
+ ],
  "daysCollected": 46,
- "articlesStored": 896,
- "articlesLive": 896,
+ "articlesStored": 899,
+ "articlesLive": 899,
  "windowDays": 90,
  "terms": [
   {
@@ -480,7 +1234,7 @@
      "n": 0
     }
    ],
-   "specificity": 0.686,
+   "specificity": 0.688,
    "rank": 4.78
   },
   {
@@ -949,7 +1703,7 @@
      "n": 0
     }
    ],
-   "specificity": 0.857,
+   "specificity": 0.858,
    "rank": 4.54
   },
   {
@@ -1881,16 +2635,16 @@
    "sectorCount": 4,
    "newestSector": "Utilities",
    "daysSinceNewestSector": 0,
-   "articles14d": 11,
+   "articles14d": 12,
    "articlesPrior14d": 2,
    "publishers": 4,
    "sectors": [
     {
      "name": "Energy",
      "firstSeen": "2026-06-22",
-     "recent": 2,
-     "articles": 5,
-     "share": 0.182,
+     "recent": 3,
+     "articles": 6,
+     "share": 0.25,
      "adopt": 47
     },
     {
@@ -1898,7 +2652,7 @@
      "firstSeen": "2026-07-31",
      "recent": 1,
      "articles": 1,
-     "share": 0.091,
+     "share": 0.083,
      "adopt": 86
     },
     {
@@ -1906,7 +2660,7 @@
      "firstSeen": "2026-07-31",
      "recent": 1,
      "articles": 1,
-     "share": 0.091,
+     "share": 0.083,
      "adopt": 86
     },
     {
@@ -1914,11 +2668,19 @@
      "firstSeen": "2026-08-03",
      "recent": 7,
      "articles": 7,
-     "share": 0.636,
+     "share": 0.583,
      "adopt": 89
     }
    ],
    "cooc": [
+    [
+     "liquefied natural gas",
+     1.0
+    ],
+    [
+     "liquefied natural",
+     1.0
+    ],
     [
      "feet per",
      1.0
@@ -1934,17 +2696,15 @@
     [
      "natural gas production",
      0.67
-    ],
-    [
-     "lng export capacity",
-     0.67
-    ],
-    [
-     "lng export",
-     0.67
     ]
    ],
    "examples": [
+    {
+     "publisher": "OilPrice",
+     "title": "Greek LNG Ship Safely Clears Hormuz After Maritime Incident",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Greek-LNG-Ship-Safely-Clears-Hormuz-After-Maritime-Incident.html",
+     "sector": "Energy"
+    },
     {
      "publisher": "EIA Today in Energy",
      "title": "California natural gas prices reach historic lows in early 2026",
@@ -1961,12 +2721,6 @@
      "publisher": "EIA Today in Energy",
      "title": "Solar generation in CAISO surpassed natural gas in the first five months of 2026",
      "url": "https://www.eia.gov/todayinenergy/detail.php?id=67784",
-     "sector": "Utilities"
-    },
-    {
-     "publisher": "EIA Today in Energy",
-     "title": "Permian natural gas production increased faster than crude oil",
-     "url": "https://www.eia.gov/todayinenergy/detail.php?id=67785",
      "sector": "Utilities"
     }
    ],
@@ -2329,11 +3083,11 @@
     },
     {
      "day": "2026-08-03",
-     "n": 7
+     "n": 8
     }
    ],
-   "specificity": 0.895,
-   "rank": 3.73
+   "specificity": 0.886,
+   "rank": 3.7
   },
   {
    "id": "nuclear-technology",
@@ -2779,8 +3533,8 @@
      "n": 1
     }
    ],
-   "specificity": 0.971,
-   "rank": 2.94
+   "specificity": 0.972,
+   "rank": 2.95
   },
   {
    "id": "pilot-program",
@@ -3226,8 +3980,8 @@
      "n": 1
     }
    ],
-   "specificity": 0.971,
-   "rank": 2.94
+   "specificity": 0.972,
+   "rank": 2.95
   },
   {
    "id": "international-atomic-energy",
@@ -5038,7 +5792,7 @@
      "n": 0
     }
    ],
-   "specificity": 0.933,
+   "specificity": 0.934,
    "rank": 2.87
   },
   {
@@ -5491,8 +6245,447 @@
      "n": 1
     }
    ],
-   "specificity": 0.914,
+   "specificity": 0.915,
    "rank": 2.83
+  },
+  {
+   "id": "liquefied-natural-gas",
+   "term": "liquefied natural gas",
+   "direction": "new",
+   "sectorCount": 2,
+   "newestSector": "Utilities",
+   "daysSinceNewestSector": 0,
+   "articles14d": 3,
+   "articlesPrior14d": 0,
+   "publishers": 2,
+   "sectors": [
+    {
+     "name": "Utilities",
+     "firstSeen": "2026-08-03",
+     "recent": 2,
+     "articles": 2,
+     "share": 0.667,
+     "adopt": 89
+    },
+    {
+     "name": "Energy",
+     "firstSeen": "2026-08-03",
+     "recent": 1,
+     "articles": 1,
+     "share": 0.333,
+     "adopt": 89
+    }
+   ],
+   "cooc": [
+    [
+     "natural gas",
+     1.0
+    ],
+    [
+     "liquefied natural",
+     1.0
+    ],
+    [
+     "lng export capacity",
+     0.67
+    ],
+    [
+     "lng export",
+     0.67
+    ],
+    [
+     "gas lng",
+     0.67
+    ],
+    [
+     "feet per",
+     0.67
+    ]
+   ],
+   "examples": [
+    {
+     "publisher": "OilPrice",
+     "title": "Greek LNG Ship Safely Clears Hormuz After Maritime Incident",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Greek-LNG-Ship-Safely-Clears-Hormuz-After-Maritime-Incident.html",
+     "sector": "Energy"
+    },
+    {
+     "publisher": "EIA Today in Energy",
+     "title": "Global liquefied natural gas trade volumes reached record high in 2025",
+     "url": "https://www.eia.gov/todayinenergy/detail.php?id=67864",
+     "sector": "Utilities"
+    },
+    {
+     "publisher": "EIA Today in Energy",
+     "title": "Energia Costa Azul, Mexico's second LNG terminal, shipped first cargo",
+     "url": "https://www.eia.gov/todayinenergy/detail.php?id=67884",
+     "sector": "Utilities"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-05-06",
+     "n": 0
+    },
+    {
+     "day": "2026-05-07",
+     "n": 0
+    },
+    {
+     "day": "2026-05-08",
+     "n": 0
+    },
+    {
+     "day": "2026-05-09",
+     "n": 0
+    },
+    {
+     "day": "2026-05-10",
+     "n": 0
+    },
+    {
+     "day": "2026-05-11",
+     "n": 0
+    },
+    {
+     "day": "2026-05-12",
+     "n": 0
+    },
+    {
+     "day": "2026-05-13",
+     "n": 0
+    },
+    {
+     "day": "2026-05-14",
+     "n": 0
+    },
+    {
+     "day": "2026-05-15",
+     "n": 0
+    },
+    {
+     "day": "2026-05-16",
+     "n": 0
+    },
+    {
+     "day": "2026-05-17",
+     "n": 0
+    },
+    {
+     "day": "2026-05-18",
+     "n": 0
+    },
+    {
+     "day": "2026-05-19",
+     "n": 0
+    },
+    {
+     "day": "2026-05-20",
+     "n": 0
+    },
+    {
+     "day": "2026-05-21",
+     "n": 0
+    },
+    {
+     "day": "2026-05-22",
+     "n": 0
+    },
+    {
+     "day": "2026-05-23",
+     "n": 0
+    },
+    {
+     "day": "2026-05-24",
+     "n": 0
+    },
+    {
+     "day": "2026-05-25",
+     "n": 0
+    },
+    {
+     "day": "2026-05-26",
+     "n": 0
+    },
+    {
+     "day": "2026-05-27",
+     "n": 0
+    },
+    {
+     "day": "2026-05-28",
+     "n": 0
+    },
+    {
+     "day": "2026-05-29",
+     "n": 0
+    },
+    {
+     "day": "2026-05-30",
+     "n": 0
+    },
+    {
+     "day": "2026-05-31",
+     "n": 0
+    },
+    {
+     "day": "2026-06-01",
+     "n": 0
+    },
+    {
+     "day": "2026-06-02",
+     "n": 0
+    },
+    {
+     "day": "2026-06-03",
+     "n": 0
+    },
+    {
+     "day": "2026-06-04",
+     "n": 0
+    },
+    {
+     "day": "2026-06-05",
+     "n": 0
+    },
+    {
+     "day": "2026-06-06",
+     "n": 0
+    },
+    {
+     "day": "2026-06-07",
+     "n": 0
+    },
+    {
+     "day": "2026-06-08",
+     "n": 0
+    },
+    {
+     "day": "2026-06-09",
+     "n": 0
+    },
+    {
+     "day": "2026-06-10",
+     "n": 0
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 0
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 0
+    },
+    {
+     "day": "2026-06-16",
+     "n": 0
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 0
+    },
+    {
+     "day": "2026-06-19",
+     "n": 0
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 0
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-31",
+     "n": 0
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 3
+    }
+   ],
+   "specificity": 0.972,
+   "rank": 1.96
   },
   {
    "id": "international-energy",
@@ -5930,7 +7123,7 @@
      "n": 2
     }
    ],
-   "specificity": 0.971,
+   "specificity": 0.972,
    "rank": 1.96
   },
   {
@@ -6369,7 +7562,7 @@
      "n": 1
     }
    ],
-   "specificity": 0.971,
+   "specificity": 0.972,
    "rank": 1.96
   },
   {
@@ -6808,7 +8001,7 @@
      "n": 1
     }
    ],
-   "specificity": 0.971,
+   "specificity": 0.972,
    "rank": 1.96
   },
   {
@@ -7247,7 +8440,7 @@
      "n": 1
     }
    ],
-   "specificity": 0.971,
+   "specificity": 0.972,
    "rank": 1.96
   },
   {
@@ -7686,7 +8879,7 @@
      "n": 0
     }
    ],
-   "specificity": 0.971,
+   "specificity": 0.972,
    "rank": 1.96
   },
   {
@@ -8131,7 +9324,7 @@
      "n": 0
     }
    ],
-   "specificity": 0.971,
+   "specificity": 0.972,
    "rank": 1.96
   },
   {
@@ -8570,7 +9763,7 @@
      "n": 1
     }
    ],
-   "specificity": 0.971,
+   "specificity": 0.972,
    "rank": 1.96
   },
   {
@@ -8990,7 +10183,7 @@
      "n": 0
     }
    ],
-   "specificity": 0.971,
+   "specificity": 0.972,
    "rank": 1.96
   },
   {
@@ -9429,7 +10622,7 @@
      "n": 0
     }
    ],
-   "specificity": 0.971,
+   "specificity": 0.972,
    "rank": 1.96
   },
   {
@@ -9874,7 +11067,7 @@
      "n": 0
     }
    ],
-   "specificity": 0.971,
+   "specificity": 0.972,
    "rank": 1.96
   },
   {
@@ -10313,7 +11506,7 @@
      "n": 0
     }
    ],
-   "specificity": 0.971,
+   "specificity": 0.972,
    "rank": 1.96
   },
   {
@@ -10752,7 +11945,7 @@
      "n": 0
     }
    ],
-   "specificity": 0.971,
+   "specificity": 0.972,
    "rank": 1.96
   },
   {
@@ -11191,7 +12384,7 @@
      "n": 0
     }
    ],
-   "specificity": 0.971,
+   "specificity": 0.972,
    "rank": 1.96
   },
   {
@@ -11630,7 +12823,7 @@
      "n": 0
     }
    ],
-   "specificity": 0.971,
+   "specificity": 0.972,
    "rank": 1.96
   },
   {
@@ -12069,7 +13262,7 @@
      "n": 0
     }
    ],
-   "specificity": 0.971,
+   "specificity": 0.972,
    "rank": 1.96
   },
   {
@@ -12508,7 +13701,7 @@
      "n": 0
     }
    ],
-   "specificity": 0.971,
+   "specificity": 0.972,
    "rank": 1.96
   },
   {
@@ -15178,7 +16371,7 @@
      "n": 0
     }
    ],
-   "specificity": 0.952,
+   "specificity": 0.953,
    "rank": 1.94
   },
   {
@@ -15623,7 +16816,7 @@
      "n": 0
     }
    ],
-   "specificity": 0.952,
+   "specificity": 0.953,
    "rank": 1.94
   },
   {
@@ -17403,7 +18596,7 @@
      "n": 1
     }
    ],
-   "specificity": 0.914,
+   "specificity": 0.915,
    "rank": 1.89
   },
   {
@@ -17848,7 +19041,7 @@
      "n": 0
     }
    ],
-   "specificity": 0.914,
+   "specificity": 0.915,
    "rank": 1.89
   },
   {
@@ -18293,7 +19486,7 @@
      "n": 0
     }
    ],
-   "specificity": 0.914,
+   "specificity": 0.915,
    "rank": 1.89
   }
  ]
