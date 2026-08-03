@@ -27,7 +27,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: edgar
+  group: crosstalk-write
   cancel-in-progress: false
 
 jobs:
