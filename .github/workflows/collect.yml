@@ -36,6 +36,9 @@ jobs:
       # the article collection, which is the actual product.
       - name: Sector prices
         continue-on-error: true
+        env:
+          TWELVEDATA_KEY: ${{ secrets.TWELVEDATA_KEY }}
+          ALPHAVANTAGE_KEY: ${{ secrets.ALPHAVANTAGE_KEY }}
         run: python3 prices.py
 
       - name: Collect
