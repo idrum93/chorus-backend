@@ -1,0 +1,34 @@
+# Save as .github/workflows/edgar.yml
+#
+# One-off structure check. Run it from the Actions tab, read the summary,
+# send the output back. Nothing depends on this workflow.
+
+name: edgar
+
+on:
+  workflow_dispatch:
+    inputs:
+      phrase:
+        description: 'Phrase to search filings for (keep the quotes)'
+        required: false
+        default: '"data center"'
+
+jobs:
+  edgar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+
+      - name: Probe EDGAR
+        continue-on-error: true
+        env:
+          EDGAR_UA: ${{ secrets.EDGAR_UA }}
+        run: |
+          python3 edgar.py --probe --probe-sic --phrase '${{ github.event.inputs.phrase }}' 2>&1 | tee edgar.txt
+
+      - name: Report
+        if: always()
+        run: |
+          { echo "## EDGAR structure"; echo '```'; cat edgar.txt; echo '```'; } >> $GITHUB_STEP_SUMMARY
