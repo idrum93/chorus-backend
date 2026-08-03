@@ -32,6 +32,12 @@ jobs:
           NEWSAPI_AI_KEY: ${{ secrets.NEWSAPI_AI_KEY }}
         run: python3 collect.py --backfill --weeks ${{ github.event.inputs.backfill_weeks }}
 
+      # Prices are context, not a dependency. A failure here must never stop
+      # the article collection, which is the actual product.
+      - name: Sector prices
+        continue-on-error: true
+        run: python3 prices.py
+
       - name: Collect
         env:
           NEWSAPI_AI_KEY: ${{ secrets.NEWSAPI_AI_KEY }}
@@ -74,6 +80,3 @@ jobs:
             echo "::error::     select 'Read and write permissions' and Save."
             exit 1
           fi
-          git add chorus.db data.json
-          git diff --staged --quiet || git commit -m "collect $(date -u +'%Y-%m-%d %H:%M')"
-          git push
