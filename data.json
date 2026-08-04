@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-04T22:12:53.466273+00:00",
+ "generated": "2026-08-04T22:34:02.199646+00:00",
  "prices": {
   "Autos": [
    {
@@ -490,7 +490,7 @@
    },
    {
     "day": "2026-08-04",
-    "close": 87.56
+    "close": 87.93
    }
   ],
   "Materials": [
@@ -736,7 +736,7 @@
    },
    {
     "day": "2026-08-04",
-    "close": 52.01
+    "close": 52.0
    }
   ],
   "Energy": [
@@ -1228,7 +1228,7 @@
    },
    {
     "day": "2026-08-04",
-    "close": 57.86
+    "close": 57.88
    }
   ],
   "Industrials": [
@@ -1474,7 +1474,7 @@
    },
    {
     "day": "2026-08-04",
-    "close": 186.34
+    "close": 186.4
    }
   ],
   "Technology": [
@@ -1720,7 +1720,7 @@
    },
    {
     "day": "2026-08-04",
-    "close": 187.15
+    "close": 186.9
    }
   ],
   "Real estate": [
@@ -1966,7 +1966,7 @@
    },
    {
     "day": "2026-08-04",
-    "close": 45.16
+    "close": 45.17
    }
   ],
   "Utilities": [
@@ -2212,7 +2212,7 @@
    },
    {
     "day": "2026-08-04",
-    "close": 44.06
+    "close": 44.11
    }
   ],
   "Healthcare": [
@@ -3435,53 +3435,6 @@
    ]
   },
   {
-   "ticker": "TM",
-   "name": "Toyota",
-   "sector": "Autos",
-   "articles": 24,
-   "articles14d": 8,
-   "terms": [
-    {
-     "term": "rare earth",
-     "articles": 1,
-     "sectors": 3,
-     "direction": "rising"
-    },
-    {
-     "term": "commercial vehicle",
-     "articles": 1,
-     "sectors": 2,
-     "direction": "new"
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "Nikkei Asia Business",
-     "title": "Toyota's earnings increasingly tied to US market, Trump policy swings",
-     "url": "https://asia.nikkei.com/business/automobiles/toyota-s-earnings-increasingly-tied-to-us-market-trump-policy-swings",
-     "sector": "Technology"
-    },
-    {
-     "publisher": "Nikkei Asia Business",
-     "title": "Toyota raises full-year net profit forecast, helped by weak yen",
-     "url": "https://asia.nikkei.com/business/automobiles/toyota-raises-full-year-net-profit-forecast-helped-by-weak-yen",
-     "sector": "Technology"
-    },
-    {
-     "publisher": "Just Auto",
-     "title": "Toyota raises guidance as first quarter net income jumps 75.6%",
-     "url": "https://www.just-auto.com/news/toyota-raises-guidance-net-income/",
-     "sector": "Autos"
-    },
-    {
-     "publisher": "Just Auto",
-     "title": "Japan earthquake disrupts auto, parts production",
-     "url": "https://www.just-auto.com/news/japan-earthquake-disrupts-auto-parts-production/",
-     "sector": "Autos"
-    }
-   ]
-  },
-  {
    "ticker": "V",
    "name": "Visa Inc",
    "sector": "Finance",
@@ -3701,6 +3654,47 @@
      "title": "Partners : Dell Supply Chain Superiority Is Driving Sales Growth Versus Competitors",
      "url": "https://www.crn.com/news/data-center/2026/partners-dell-supply-chain-superiority-is-driving-sales-growth-versus-competitors",
      "sector": "Supply chain"
+    }
+   ]
+  },
+  {
+   "ticker": "TM",
+   "name": "Toyota",
+   "sector": "Autos",
+   "articles": 24,
+   "articles14d": 8,
+   "terms": [
+    {
+     "term": "rare earth",
+     "articles": 1,
+     "sectors": 3,
+     "direction": "rising"
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "Nikkei Asia Business",
+     "title": "Toyota's earnings increasingly tied to US market, Trump policy swings",
+     "url": "https://asia.nikkei.com/business/automobiles/toyota-s-earnings-increasingly-tied-to-us-market-trump-policy-swings",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "Nikkei Asia Business",
+     "title": "Toyota raises full-year net profit forecast, helped by weak yen",
+     "url": "https://asia.nikkei.com/business/automobiles/toyota-raises-full-year-net-profit-forecast-helped-by-weak-yen",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "Just Auto",
+     "title": "Toyota raises guidance as first quarter net income jumps 75.6%",
+     "url": "https://www.just-auto.com/news/toyota-raises-guidance-net-income/",
+     "sector": "Autos"
+    },
+    {
+     "publisher": "Just Auto",
+     "title": "Japan earthquake disrupts auto, parts production",
+     "url": "https://www.just-auto.com/news/japan-earthquake-disrupts-auto-parts-production/",
+     "sector": "Autos"
     }
    ]
   },
@@ -48988,8 +48982,8 @@
   ]
  },
  "daysCollected": 95,
- "articlesStored": 5339,
- "articlesLive": 1780,
+ "articlesStored": 5340,
+ "articlesLive": 1781,
  "windowDays": 90,
  "terms": [
   {
@@ -49334,9 +49328,9 @@
     [
      "data center buildout",
      0.22,
-     "rising",
+     "new",
      2,
-     1
+     0
     ]
    ],
    "examples": [
@@ -50707,16 +50701,16 @@
     [
      "global supply chain",
      1.0,
-     "falling",
+     "new",
      3,
-     6
+     0
     ],
     [
      "mineral supply chain",
      0.67,
-     "steady",
+     "rising",
      2,
-     2
+     1
     ],
     [
      "supply chain risk",
@@ -51921,9 +51915,9 @@
     [
      "middle east conflict",
      1.0,
-     "steady",
+     "rising",
      2,
-     2
+     1
     ],
     [
      "aluminum deficit prediction",
@@ -58427,9 +58421,9 @@
     [
      "clean energy transition",
      1.0,
-     "rising",
+     "new",
      2,
-     1
+     0
     ],
     [
      "coal mining",
@@ -58999,9 +58993,9 @@
     [
      "nuclear power plant",
      1.0,
-     "steady",
+     "rising",
      3,
-     3
+     2
     ],
     [
      "regulator rostekhnadzor earlier",
@@ -60215,16 +60209,16 @@
     [
      "industrial real estate",
      1.0,
-     "falling",
+     "rising",
      3,
-     6
+     2
     ],
     [
      "estate investment",
      0.67,
-     "rising",
+     "new",
      2,
-     1
+     0
     ],
     [
      "relationships outlast transaction",
@@ -74820,7 +74814,7 @@
    "sectorCount": 3,
    "newestSector": "Materials",
    "daysSinceNewestSector": 4,
-   "articles14d": 3,
+   "articles14d": 4,
    "articlesPrior14d": 0,
    "publishers": 3,
    "sectors": [
@@ -74829,15 +74823,15 @@
      "firstSeen": "2026-05-18",
      "recent": 1,
      "articles": 10,
-     "share": 0.333,
+     "share": 0.25,
      "adopt": 11
     },
     {
      "name": "Energy",
      "firstSeen": "2026-06-25",
-     "recent": 1,
-     "articles": 3,
-     "share": 0.333,
+     "recent": 2,
+     "articles": 4,
+     "share": 0.5,
      "adopt": 49
     },
     {
@@ -74845,12 +74839,17 @@
      "firstSeen": "2026-07-31",
      "recent": 1,
      "articles": 1,
-     "share": 0.333,
+     "share": 0.25,
      "adopt": 85
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     1
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -74901,7 +74900,7 @@
        0,
        0,
        1,
-       0
+       1
       ]
      },
      {
@@ -74962,6 +74961,12 @@
     ]
    ],
    "examples": [
+    {
+     "publisher": "Canary Media",
+     "title": "Microreactor startup Valar Atomics raises $1B",
+     "url": "https://www.canarymedia.com/articles/nuclear/microreactor-startup-valar-atomics-raises-1b",
+     "sector": "Energy"
+    },
     {
      "publisher": "economictimes.indiatimes.com",
      "title": "Donald Trump orders restrictions on export of critical minerals scrap , White House officials say",
@@ -75340,10 +75345,10 @@
     },
     {
      "day": "2026-08-04",
-     "n": 0
+     "n": 1
     }
    ],
-   "specificity": 0.995,
+   "specificity": 0.994,
    "rank": 2.99
   },
   {
@@ -76559,9 +76564,9 @@
     [
      "supply chain",
      1.0,
-     "falling",
+     "new",
      3,
-     6
+     0
     ],
     [
      "generic drug production",
@@ -80475,9 +80480,9 @@
     [
      "china rare earth",
      1.0,
-     "falling",
+     "rising",
      5,
-     10
+     3
     ],
     [
      "madagascar rare earth",
@@ -85004,6 +85009,463 @@
     {
      "day": "2026-08-04",
      "n": 1
+    }
+   ],
+   "specificity": 0.995,
+   "rank": 1.99
+  },
+  {
+   "id": "series-funding",
+   "term": "series funding",
+   "direction": "new",
+   "sectorCount": 2,
+   "newestSector": "Supply chain",
+   "daysSinceNewestSector": 0,
+   "articles14d": 3,
+   "articlesPrior14d": 0,
+   "publishers": 0,
+   "sectors": [
+    {
+     "name": "Energy",
+     "firstSeen": "2026-07-30",
+     "recent": 2,
+     "articles": 2,
+     "share": 0.667,
+     "adopt": 84
+    },
+    {
+     "name": "Supply chain",
+     "firstSeen": "2026-08-04",
+     "recent": 1,
+     "articles": 1,
+     "share": 0.333,
+     "adopt": 89
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "US",
+     1
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-05-07",
+     "2026-05-14",
+     "2026-05-21",
+     "2026-05-28",
+     "2026-06-04",
+     "2026-06-11",
+     "2026-06-18",
+     "2026-06-25",
+     "2026-07-02",
+     "2026-07-09",
+     "2026-07-16",
+     "2026-07-23",
+     "2026-07-30"
+    ],
+    "bands": [
+     {
+      "sector": "Energy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       2
+      ]
+     },
+     {
+      "sector": "Supply chain",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   "cooc": [],
+   "examples": [],
+   "daily": [
+    {
+     "day": "2026-05-07",
+     "n": 0
+    },
+    {
+     "day": "2026-05-08",
+     "n": 0
+    },
+    {
+     "day": "2026-05-09",
+     "n": 0
+    },
+    {
+     "day": "2026-05-10",
+     "n": 0
+    },
+    {
+     "day": "2026-05-11",
+     "n": 0
+    },
+    {
+     "day": "2026-05-12",
+     "n": 0
+    },
+    {
+     "day": "2026-05-13",
+     "n": 0
+    },
+    {
+     "day": "2026-05-14",
+     "n": 0
+    },
+    {
+     "day": "2026-05-15",
+     "n": 0
+    },
+    {
+     "day": "2026-05-16",
+     "n": 0
+    },
+    {
+     "day": "2026-05-17",
+     "n": 0
+    },
+    {
+     "day": "2026-05-18",
+     "n": 0
+    },
+    {
+     "day": "2026-05-19",
+     "n": 0
+    },
+    {
+     "day": "2026-05-20",
+     "n": 0
+    },
+    {
+     "day": "2026-05-21",
+     "n": 0
+    },
+    {
+     "day": "2026-05-22",
+     "n": 0
+    },
+    {
+     "day": "2026-05-23",
+     "n": 0
+    },
+    {
+     "day": "2026-05-24",
+     "n": 0
+    },
+    {
+     "day": "2026-05-25",
+     "n": 0
+    },
+    {
+     "day": "2026-05-26",
+     "n": 0
+    },
+    {
+     "day": "2026-05-27",
+     "n": 0
+    },
+    {
+     "day": "2026-05-28",
+     "n": 0
+    },
+    {
+     "day": "2026-05-29",
+     "n": 0
+    },
+    {
+     "day": "2026-05-30",
+     "n": 0
+    },
+    {
+     "day": "2026-05-31",
+     "n": 0
+    },
+    {
+     "day": "2026-06-01",
+     "n": 0
+    },
+    {
+     "day": "2026-06-02",
+     "n": 0
+    },
+    {
+     "day": "2026-06-03",
+     "n": 0
+    },
+    {
+     "day": "2026-06-04",
+     "n": 0
+    },
+    {
+     "day": "2026-06-05",
+     "n": 0
+    },
+    {
+     "day": "2026-06-06",
+     "n": 0
+    },
+    {
+     "day": "2026-06-07",
+     "n": 0
+    },
+    {
+     "day": "2026-06-08",
+     "n": 0
+    },
+    {
+     "day": "2026-06-09",
+     "n": 0
+    },
+    {
+     "day": "2026-06-10",
+     "n": 0
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 0
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 0
+    },
+    {
+     "day": "2026-06-16",
+     "n": 0
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 0
+    },
+    {
+     "day": "2026-06-19",
+     "n": 0
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 0
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 1
+    },
+    {
+     "day": "2026-07-31",
+     "n": 0
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 0
+    },
+    {
+     "day": "2026-08-04",
+     "n": 2
     }
    ],
    "specificity": 0.995,
@@ -92586,538 +93048,6 @@
     {
      "day": "2026-07-06",
      "n": 0
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 0
-    },
-    {
-     "day": "2026-07-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 0
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 3
-    },
-    {
-     "day": "2026-08-04",
-     "n": 0
-    }
-   ],
-   "specificity": 0.995,
-   "rank": 1.99
-  },
-  {
-   "id": "commercial-vehicle",
-   "term": "commercial vehicle",
-   "direction": "new",
-   "sectorCount": 2,
-   "newestSector": "Autos",
-   "daysSinceNewestSector": 1,
-   "articles14d": 3,
-   "articlesPrior14d": 0,
-   "publishers": 3,
-   "sectors": [
-    {
-     "name": "Supply chain",
-     "firstSeen": "2026-06-16",
-     "recent": 1,
-     "articles": 2,
-     "share": 0.333,
-     "adopt": 40
-    },
-    {
-     "name": "Autos",
-     "firstSeen": "2026-08-03",
-     "recent": 2,
-     "articles": 2,
-     "share": 0.667,
-     "adopt": 88
-    }
-   ],
-   "sinceStart": false,
-   "origins": [],
-   "flow": {
-    "weeks": [
-     "2026-05-07",
-     "2026-05-14",
-     "2026-05-21",
-     "2026-05-28",
-     "2026-06-04",
-     "2026-06-11",
-     "2026-06-18",
-     "2026-06-25",
-     "2026-07-02",
-     "2026-07-09",
-     "2026-07-16",
-     "2026-07-23",
-     "2026-07-30"
-    ],
-    "bands": [
-     {
-      "sector": "Consumer",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       3,
-       0,
-       1,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Supply chain",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1
-      ]
-     },
-     {
-      "sector": "Autos",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       2
-      ]
-     }
-    ]
-   },
-   "cooc": [
-    [
-     "inspection operations recently",
-     1.0,
-     "new",
-     1,
-     0
-    ],
-    [
-     "manufacturing incentive scheme",
-     1.0,
-     "new",
-     1,
-     0
-    ],
-    [
-     "operations recently generated",
-     1.0,
-     "new",
-     1,
-     0
-    ],
-    [
-     "battery electric passenger",
-     1.0,
-     "new",
-     1,
-     0
-    ],
-    [
-     "recently generated hundred",
-     1.0,
-     "new",
-     1,
-     0
-    ],
-    [
-     "accelerate hydrogen fuel",
-     1.0,
-     "new",
-     1,
-     0
-    ]
-   ],
-   "examples": [
-    {
-     "publisher": "FreightWaves",
-     "title": "Truck enforcement sweeps hit 32 drivers, 45 vehicles across US",
-     "url": "https://www.freightwaves.com/news/truck-enforcement-sweeps-hit-32-drivers-45-vehicles-across-us",
-     "sector": "Supply chain"
-    },
-    {
-     "publisher": "Just Auto",
-     "title": "Philippines unveils 60bn pesos EV manufacturing incentive scheme",
-     "url": "https://www.just-auto.com/news/philippines-ev-manufacturing-incentive-scheme/",
-     "sector": "Autos"
-    },
-    {
-     "publisher": "Automotive Dive",
-     "title": "Toyota to join Volvo, Daimler heavy-duty fuel-cell JV",
-     "url": "https://www.wardsauto.com/news/toyota-to-join-volvo-daimler-heavy-duty-fuel-cell-jv/826214/",
-     "sector": "Autos"
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-05-07",
-     "n": 0
-    },
-    {
-     "day": "2026-05-08",
-     "n": 0
-    },
-    {
-     "day": "2026-05-09",
-     "n": 0
-    },
-    {
-     "day": "2026-05-10",
-     "n": 0
-    },
-    {
-     "day": "2026-05-11",
-     "n": 0
-    },
-    {
-     "day": "2026-05-12",
-     "n": 0
-    },
-    {
-     "day": "2026-05-13",
-     "n": 0
-    },
-    {
-     "day": "2026-05-14",
-     "n": 0
-    },
-    {
-     "day": "2026-05-15",
-     "n": 0
-    },
-    {
-     "day": "2026-05-16",
-     "n": 0
-    },
-    {
-     "day": "2026-05-17",
-     "n": 0
-    },
-    {
-     "day": "2026-05-18",
-     "n": 0
-    },
-    {
-     "day": "2026-05-19",
-     "n": 0
-    },
-    {
-     "day": "2026-05-20",
-     "n": 0
-    },
-    {
-     "day": "2026-05-21",
-     "n": 0
-    },
-    {
-     "day": "2026-05-22",
-     "n": 0
-    },
-    {
-     "day": "2026-05-23",
-     "n": 0
-    },
-    {
-     "day": "2026-05-24",
-     "n": 0
-    },
-    {
-     "day": "2026-05-25",
-     "n": 0
-    },
-    {
-     "day": "2026-05-26",
-     "n": 0
-    },
-    {
-     "day": "2026-05-27",
-     "n": 0
-    },
-    {
-     "day": "2026-05-28",
-     "n": 0
-    },
-    {
-     "day": "2026-05-29",
-     "n": 0
-    },
-    {
-     "day": "2026-05-30",
-     "n": 0
-    },
-    {
-     "day": "2026-05-31",
-     "n": 0
-    },
-    {
-     "day": "2026-06-01",
-     "n": 0
-    },
-    {
-     "day": "2026-06-02",
-     "n": 0
-    },
-    {
-     "day": "2026-06-03",
-     "n": 0
-    },
-    {
-     "day": "2026-06-04",
-     "n": 0
-    },
-    {
-     "day": "2026-06-05",
-     "n": 0
-    },
-    {
-     "day": "2026-06-06",
-     "n": 0
-    },
-    {
-     "day": "2026-06-07",
-     "n": 0
-    },
-    {
-     "day": "2026-06-08",
-     "n": 0
-    },
-    {
-     "day": "2026-06-09",
-     "n": 0
-    },
-    {
-     "day": "2026-06-10",
-     "n": 0
-    },
-    {
-     "day": "2026-06-11",
-     "n": 0
-    },
-    {
-     "day": "2026-06-12",
-     "n": 0
-    },
-    {
-     "day": "2026-06-13",
-     "n": 0
-    },
-    {
-     "day": "2026-06-14",
-     "n": 0
-    },
-    {
-     "day": "2026-06-15",
-     "n": 0
-    },
-    {
-     "day": "2026-06-16",
-     "n": 1
-    },
-    {
-     "day": "2026-06-17",
-     "n": 0
-    },
-    {
-     "day": "2026-06-18",
-     "n": 3
-    },
-    {
-     "day": "2026-06-19",
-     "n": 0
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 1
     },
     {
      "day": "2026-07-07",
