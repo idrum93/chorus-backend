@@ -1,6 +1,6 @@
 # Crosstalk — week ending 04 August 2026
 
-*4,564 articles from 14 sectors over 89 days. Every figure is a count of articles read; nothing is modelled or forecast.*
+*4,967 articles from 14 sectors over 89 days. Every figure is a count of articles read; nothing is modelled or forecast.*
 
 ## Crossed into a new industry this week
 
@@ -32,7 +32,7 @@
   - [Turner tops out $64M New York trades education facility](https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/) · Construction Dive · real estate
   - [How Geothermal and Nuclear Could Help the U.S. Catch China in the Energy Race](https://oilprice.com/Energy/Energy-General/How-Geothermal-and-Nuclear-Could-Help-the-US-Catch-China-in-the-Energy-Race.html) · OilPrice · energy
 
-**natural gas** — now in 4 industries. **Utilities** picked it up 1d ago; it started in energy coverage on 2026-06-22.
+**natural gas** — now in 4 industries. **Utilities** picked it up 1d ago; it started in energy coverage on 2026-05-12.
   - [Trump's Iran Reversal Sends European Gas Prices Tumbling](https://oilprice.com/Latest-Energy-News/World-News/Trumps-Iran-Reversal-Sends-European-Gas-Prices-Tumbling.html) · OilPrice · energy
   - [Innovation Powers a Country's Energy Transition](https://www.powermag.com/innovation-powers-a-countrys-energy-transition/) · POWER Magazine · utilities
 
@@ -40,16 +40,16 @@
 
 | phrase | industries | articles | vs prior fortnight |
 |---|---|---|---|
+| natural gas | 4 | 15 | 5.0× |
 | rare earth | 3 | 62 | 4.8× |
-| artificial intelligence | 7 | 19 | 4.8× |
 | real estate | 4 | 23 | 4.6× |
-| nuclear power | 4 | 12 | 4.0× |
+| artificial intelligence | 7 | 19 | 3.8× |
 | supply chain | 6 | 32 | 3.2× |
 | clean air | 4 | 8 | 2.7× |
-| data center | 9 | 62 | 2.2× |
+| nuclear power | 4 | 15 | 2.1× |
 | renewable energy | 4 | 10 | 2.0× |
+| data center | 9 | 64 | 1.9× |
 | middle east | 3 | 5 | 1.7× |
-| clean energy | 4 | 11 | 1.6× |
 
 ---
 
