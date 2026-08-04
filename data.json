@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-04T17:36:36.056854+00:00",
+ "generated": "2026-08-04T18:19:06.546782+00:00",
  "prices": {
   "Autos": [
    {
@@ -490,7 +490,7 @@
    },
    {
     "day": "2026-08-04",
-    "close": 87.03
+    "close": 87.56
    }
   ],
   "Materials": [
@@ -736,7 +736,7 @@
    },
    {
     "day": "2026-08-04",
-    "close": 51.89
+    "close": 51.9
    }
   ],
   "Energy": [
@@ -982,7 +982,7 @@
    },
    {
     "day": "2026-08-04",
-    "close": 58.6
+    "close": 58.55
    }
   ],
   "Finance": [
@@ -1228,7 +1228,7 @@
    },
    {
     "day": "2026-08-04",
-    "close": 57.91
+    "close": 57.95
    }
   ],
   "Industrials": [
@@ -1474,7 +1474,7 @@
    },
    {
     "day": "2026-08-04",
-    "close": 186.34
+    "close": 186.27
    }
   ],
   "Technology": [
@@ -1720,7 +1720,7 @@
    },
    {
     "day": "2026-08-04",
-    "close": 185.11
+    "close": 187.15
    }
   ],
   "Real estate": [
@@ -1966,7 +1966,7 @@
    },
    {
     "day": "2026-08-04",
-    "close": 45.06
+    "close": 45.16
    }
   ],
   "Utilities": [
@@ -2212,7 +2212,7 @@
    },
    {
     "day": "2026-08-04",
-    "close": 43.9
+    "close": 44.06
    }
   ],
   "Healthcare": [
@@ -2704,7 +2704,7 @@
    },
    {
     "day": "2026-08-04",
-    "close": 118.46
+    "close": 118.36
    }
   ]
  },
@@ -3741,6 +3741,47 @@
    ]
   },
   {
+   "ticker": "WMT",
+   "name": "Walmart",
+   "sector": "Consumer",
+   "articles": 9,
+   "articles14d": 4,
+   "terms": [
+    {
+     "term": "supply chain",
+     "articles": 1,
+     "sectors": 7,
+     "direction": "rising"
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "Commercial Observer",
+     "title": "Walmart Development Set for Palm Beach County",
+     "url": "https://commercialobserver.com/2026/08/walmart-development-retail-palm-beach-county/",
+     "sector": "Real estate"
+    },
+    {
+     "publisher": "Supply Chain Dive",
+     "title": "Walmart, Wing launch drone delivery service in Florida",
+     "url": "https://www.supplychaindive.com/news/walmart-wing-launch-drone-delivery-service-in-florida/826520/",
+     "sector": "Supply chain"
+    },
+    {
+     "publisher": "Retail Dive",
+     "title": "How Walmart uses AI to limit weather disruptions in its supply chain",
+     "url": "https://www.retaildive.com/news/walmart-uses-ai-limit-weather-disruptions-in-supply-chain/826560/",
+     "sector": "Consumer"
+    },
+    {
+     "publisher": "Grocery Dive",
+     "title": "Kroger and Albertsons continue to see their market share contract",
+     "url": "https://www.grocerydive.com/news/kroger-albertsons-grocery-market-share-contract-numerator/826197/",
+     "sector": "Consumer"
+    }
+   ]
+  },
+  {
    "ticker": "TSM",
    "name": "TSMC",
    "sector": "Technology",
@@ -3819,47 +3860,6 @@
      "title": "Mark Zuckerberg Meta Is Putting Its In - House Iris AI Chip Into Production in September as Part of a Plan to Double Its Computing Capacity to 14 Gigawatts",
      "url": "https://www.fool.com/investing/2026/07/18/zuckerbergs-meta-iris-production-double-capacity/",
      "sector": "Technology"
-    }
-   ]
-  },
-  {
-   "ticker": "WMT",
-   "name": "Walmart",
-   "sector": "Consumer",
-   "articles": 8,
-   "articles14d": 3,
-   "terms": [
-    {
-     "term": "supply chain",
-     "articles": 1,
-     "sectors": 7,
-     "direction": "rising"
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "Supply Chain Dive",
-     "title": "Walmart, Wing launch drone delivery service in Florida",
-     "url": "https://www.supplychaindive.com/news/walmart-wing-launch-drone-delivery-service-in-florida/826520/",
-     "sector": "Supply chain"
-    },
-    {
-     "publisher": "Retail Dive",
-     "title": "How Walmart uses AI to limit weather disruptions in its supply chain",
-     "url": "https://www.retaildive.com/news/walmart-uses-ai-limit-weather-disruptions-in-supply-chain/826560/",
-     "sector": "Consumer"
-    },
-    {
-     "publisher": "Grocery Dive",
-     "title": "Kroger and Albertsons continue to see their market share contract",
-     "url": "https://www.grocerydive.com/news/kroger-albertsons-grocery-market-share-contract-numerator/826197/",
-     "sector": "Consumer"
-    },
-    {
-     "publisher": "foreignpolicyjournal.com",
-     "title": "TJX ( NYSE : TJX ), Costco ( NASDAQ : COST ) And Walmart ( NYSE : WMT ) Emerge As Top Blue - Chip Retail Picks Amid Market Turbulence",
-     "url": "https://www.foreignpolicyjournal.com/2026/07/09/tjx-nyse-tjx-costco-nasdaq-cost-and-walmart-nyse-wmt-emerge-as-top-blue-chip-retail-picks-amid-market-turbulence/",
-     "sector": "Consumer"
     }
    ]
   },
@@ -50563,8 +50563,8 @@
   ]
  },
  "daysCollected": 89,
- "articlesStored": 5164,
- "articlesLive": 1615,
+ "articlesStored": 5168,
+ "articlesLive": 1619,
  "windowDays": 90,
  "terms": [
   {
@@ -50908,9 +50908,9 @@
     [
      "data center buildout",
      0.22,
-     "rising",
+     "new",
      2,
-     1
+     0
     ]
    ],
    "examples": [
@@ -52279,16 +52279,16 @@
     [
      "global supply chain",
      1.0,
-     "falling",
+     "new",
      3,
-     6
+     0
     ],
     [
      "mineral supply chain",
      0.67,
-     "steady",
+     "rising",
      2,
-     2
+     1
     ],
     [
      "supply chain risk",
@@ -56410,9 +56410,9 @@
     [
      "middle east conflict",
      1.0,
-     "steady",
+     "rising",
      2,
-     2
+     1
     ],
     [
      "aluminum deficit prediction",
@@ -59998,9 +59998,9 @@
     [
      "clean energy transition",
      1.0,
-     "rising",
+     "new",
      2,
-     1
+     0
     ],
     [
      "coal mining",
@@ -60569,9 +60569,9 @@
     [
      "nuclear power plant",
      1.0,
-     "steady",
+     "rising",
      3,
-     3
+     2
     ],
     [
      "regulator rostekhnadzor earlier",
@@ -61783,16 +61783,16 @@
     [
      "industrial real estate",
      1.0,
-     "falling",
+     "rising",
      3,
-     6
+     2
     ],
     [
      "estate investment",
      0.67,
-     "rising",
+     "new",
      2,
-     1
+     0
     ],
     [
      "relationships outlast transaction",
@@ -62903,9 +62903,9 @@
     [
      "supply chain",
      1.0,
-     "falling",
+     "new",
      3,
-     6
+     0
     ],
     [
      "generic drug production",
@@ -67162,6 +67162,545 @@
     }
    ],
    "specificity": 0.995,
+   "rank": 2.99
+  },
+  {
+   "id": "fast-casual",
+   "term": "fast casual",
+   "direction": "new",
+   "sectorCount": 3,
+   "newestSector": "Real estate",
+   "daysSinceNewestSector": 0,
+   "articles14d": 4,
+   "articlesPrior14d": 0,
+   "publishers": 2,
+   "sectors": [
+    {
+     "name": "Finance",
+     "firstSeen": "2026-07-28",
+     "recent": 1,
+     "articles": 1,
+     "share": 0.25,
+     "adopt": 82
+    },
+    {
+     "name": "Consumer",
+     "firstSeen": "2026-07-30",
+     "recent": 2,
+     "articles": 2,
+     "share": 0.5,
+     "adopt": 84
+    },
+    {
+     "name": "Real estate",
+     "firstSeen": "2026-08-04",
+     "recent": 1,
+     "articles": 1,
+     "share": 0.25,
+     "adopt": 89
+    }
+   ],
+   "sinceStart": false,
+   "flow": {
+    "weeks": [
+     "2026-05-07",
+     "2026-05-14",
+     "2026-05-21",
+     "2026-05-28",
+     "2026-06-04",
+     "2026-06-11",
+     "2026-06-18",
+     "2026-06-25",
+     "2026-07-02",
+     "2026-07-09",
+     "2026-07-16",
+     "2026-07-23",
+     "2026-07-30"
+    ],
+    "bands": [
+     {
+      "sector": "Consumer",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       2
+      ]
+     },
+     {
+      "sector": "Finance",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0
+      ]
+     },
+     {
+      "sector": "Real estate",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   "cooc": [
+    [
+     "fast casual chain",
+     1.0,
+     "new",
+     2,
+     0
+    ],
+    [
+     "casual restaurant franchize",
+     0.5,
+     "new",
+     1,
+     0
+    ],
+    [
+     "grilled chicken restaurant",
+     0.5,
+     "new",
+     1,
+     0
+    ],
+    [
+     "casual grilled chicken",
+     0.5,
+     "new",
+     1,
+     0
+    ],
+    [
+     "fast casual restaurant",
+     0.5,
+     "new",
+     1,
+     0
+    ],
+    [
+     "ceo michael skipworth",
+     0.5,
+     "new",
+     1,
+     0
+    ]
+   ],
+   "examples": [
+    {
+     "publisher": "Restaurant Dive",
+     "title": "Panera to relocate HQ to Massachusetts",
+     "url": "https://www.restaurantdive.com/news/panera-headquarters-move-stlouis-weston-massachusetts/826635/",
+     "sector": "Consumer"
+    },
+    {
+     "publisher": "Restaurant Dive",
+     "title": "Wingstop same-store sales drop for 5th straight quarter",
+     "url": "https://www.restaurantdive.com/news/wingstop-same-store-sales-down-7-percent-fifth-consecutive-quarter/826506/",
+     "sector": "Consumer"
+    },
+    {
+     "publisher": "smallbiztrends.com",
+     "title": "Best Fast Casual Restaurant Franchises to Invest In",
+     "url": "https://smallbiztrends.com/best-fast-casual-restaurant-franchises/",
+     "sector": "Finance"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-05-07",
+     "n": 0
+    },
+    {
+     "day": "2026-05-08",
+     "n": 0
+    },
+    {
+     "day": "2026-05-09",
+     "n": 0
+    },
+    {
+     "day": "2026-05-10",
+     "n": 0
+    },
+    {
+     "day": "2026-05-11",
+     "n": 0
+    },
+    {
+     "day": "2026-05-12",
+     "n": 0
+    },
+    {
+     "day": "2026-05-13",
+     "n": 0
+    },
+    {
+     "day": "2026-05-14",
+     "n": 0
+    },
+    {
+     "day": "2026-05-15",
+     "n": 0
+    },
+    {
+     "day": "2026-05-16",
+     "n": 0
+    },
+    {
+     "day": "2026-05-17",
+     "n": 0
+    },
+    {
+     "day": "2026-05-18",
+     "n": 0
+    },
+    {
+     "day": "2026-05-19",
+     "n": 0
+    },
+    {
+     "day": "2026-05-20",
+     "n": 0
+    },
+    {
+     "day": "2026-05-21",
+     "n": 0
+    },
+    {
+     "day": "2026-05-22",
+     "n": 0
+    },
+    {
+     "day": "2026-05-23",
+     "n": 0
+    },
+    {
+     "day": "2026-05-24",
+     "n": 0
+    },
+    {
+     "day": "2026-05-25",
+     "n": 0
+    },
+    {
+     "day": "2026-05-26",
+     "n": 0
+    },
+    {
+     "day": "2026-05-27",
+     "n": 0
+    },
+    {
+     "day": "2026-05-28",
+     "n": 0
+    },
+    {
+     "day": "2026-05-29",
+     "n": 0
+    },
+    {
+     "day": "2026-05-30",
+     "n": 0
+    },
+    {
+     "day": "2026-05-31",
+     "n": 0
+    },
+    {
+     "day": "2026-06-01",
+     "n": 0
+    },
+    {
+     "day": "2026-06-02",
+     "n": 0
+    },
+    {
+     "day": "2026-06-03",
+     "n": 0
+    },
+    {
+     "day": "2026-06-04",
+     "n": 0
+    },
+    {
+     "day": "2026-06-05",
+     "n": 0
+    },
+    {
+     "day": "2026-06-06",
+     "n": 0
+    },
+    {
+     "day": "2026-06-07",
+     "n": 0
+    },
+    {
+     "day": "2026-06-08",
+     "n": 0
+    },
+    {
+     "day": "2026-06-09",
+     "n": 0
+    },
+    {
+     "day": "2026-06-10",
+     "n": 0
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 0
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 0
+    },
+    {
+     "day": "2026-06-16",
+     "n": 0
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 0
+    },
+    {
+     "day": "2026-06-19",
+     "n": 0
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 0
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 1
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 1
+    },
+    {
+     "day": "2026-07-31",
+     "n": 1
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 0
+    },
+    {
+     "day": "2026-08-04",
+     "n": 1
+    }
+   ],
+   "specificity": 0.993,
    "rank": 2.99
   },
   {
@@ -74921,9 +75460,9 @@
     [
      "china rare earth",
      1.0,
-     "falling",
+     "rising",
      5,
-     10
+     3
     ],
     [
      "madagascar rare earth",
@@ -84589,9 +85128,9 @@
     [
      "oil price",
      1.0,
-     "steady",
+     "new",
      1,
-     1
+     0
     ]
    ],
    "examples": [
@@ -93628,543 +94167,6 @@
     }
    ],
    "specificity": 0.995,
-   "rank": 1.99
-  },
-  {
-   "id": "solar-panel",
-   "term": "solar panel",
-   "direction": "new",
-   "sectorCount": 2,
-   "newestSector": "Finance",
-   "daysSinceNewestSector": 5,
-   "articles14d": 4,
-   "articlesPrior14d": 0,
-   "publishers": 2,
-   "sectors": [
-    {
-     "name": "Energy",
-     "firstSeen": "2026-06-12",
-     "recent": 3,
-     "articles": 6,
-     "share": 0.75,
-     "adopt": 36
-    },
-    {
-     "name": "Finance",
-     "firstSeen": "2026-07-30",
-     "recent": 1,
-     "articles": 1,
-     "share": 0.25,
-     "adopt": 84
-    }
-   ],
-   "sinceStart": false,
-   "flow": {
-    "weeks": [
-     "2026-05-07",
-     "2026-05-14",
-     "2026-05-21",
-     "2026-05-28",
-     "2026-06-04",
-     "2026-06-11",
-     "2026-06-18",
-     "2026-06-25",
-     "2026-07-02",
-     "2026-07-09",
-     "2026-07-16",
-     "2026-07-23",
-     "2026-07-30"
-    ],
-    "bands": [
-     {
-      "sector": "Energy",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       1,
-       0,
-       1,
-       0,
-       0,
-       2,
-       1
-      ]
-     },
-     {
-      "sector": "Utilities",
-      "n": [
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Finance",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1
-      ]
-     }
-    ]
-   },
-   "cooc": [
-    [
-     "maker aegeus technologie",
-     1.0,
-     "new",
-     1,
-     0
-    ],
-    [
-     "cleaning robot maker",
-     1.0,
-     "new",
-     1,
-     0
-    ],
-    [
-     "panel cleaning robot",
-     1.0,
-     "new",
-     1,
-     0
-    ],
-    [
-     "solar panel cleaning",
-     1.0,
-     "new",
-     1,
-     0
-    ],
-    [
-     "robot maker aegeus",
-     1.0,
-     "new",
-     1,
-     0
-    ],
-    [
-     "launch ipo",
-     1.0,
-     "new",
-     1,
-     0
-    ]
-   ],
-   "examples": [
-    {
-     "publisher": "Canary Media",
-     "title": "California was mostly solar-powered in May a global first",
-     "url": "https://www.canarymedia.com/articles/solar/california-solar-power-record-may",
-     "sector": "Energy"
-    },
-    {
-     "publisher": "moneycontrol.com",
-     "title": "Solar panel cleaning robot maker Aegeus Technologies to launch IPO on August 4",
-     "url": "https://www.moneycontrol.com/news/business/ipo/solar-panel-cleaning-robot-maker-aegeus-technologies-to-launch-ipo-on-august-4-13989310.html",
-     "sector": "Finance"
-    },
-    {
-     "publisher": "Canary Media",
-     "title": "Duh, solar power doesn't work at night but it excels during the day",
-     "url": "https://www.canarymedia.com/articles/solar/doe-solar-power-day-night-texas",
-     "sector": "Energy"
-    },
-    {
-     "publisher": "Canary Media",
-     "title": "Solar is booming in Indiana. Not everyone is happy about it.",
-     "url": "https://www.canarymedia.com/articles/solar/indiana-quietly-became-a-solar-giant-not-everyone-is-happy",
-     "sector": "Energy"
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-05-07",
-     "n": 0
-    },
-    {
-     "day": "2026-05-08",
-     "n": 0
-    },
-    {
-     "day": "2026-05-09",
-     "n": 0
-    },
-    {
-     "day": "2026-05-10",
-     "n": 0
-    },
-    {
-     "day": "2026-05-11",
-     "n": 0
-    },
-    {
-     "day": "2026-05-12",
-     "n": 0
-    },
-    {
-     "day": "2026-05-13",
-     "n": 0
-    },
-    {
-     "day": "2026-05-14",
-     "n": 0
-    },
-    {
-     "day": "2026-05-15",
-     "n": 0
-    },
-    {
-     "day": "2026-05-16",
-     "n": 0
-    },
-    {
-     "day": "2026-05-17",
-     "n": 0
-    },
-    {
-     "day": "2026-05-18",
-     "n": 0
-    },
-    {
-     "day": "2026-05-19",
-     "n": 0
-    },
-    {
-     "day": "2026-05-20",
-     "n": 0
-    },
-    {
-     "day": "2026-05-21",
-     "n": 0
-    },
-    {
-     "day": "2026-05-22",
-     "n": 0
-    },
-    {
-     "day": "2026-05-23",
-     "n": 0
-    },
-    {
-     "day": "2026-05-24",
-     "n": 0
-    },
-    {
-     "day": "2026-05-25",
-     "n": 0
-    },
-    {
-     "day": "2026-05-26",
-     "n": 0
-    },
-    {
-     "day": "2026-05-27",
-     "n": 0
-    },
-    {
-     "day": "2026-05-28",
-     "n": 0
-    },
-    {
-     "day": "2026-05-29",
-     "n": 0
-    },
-    {
-     "day": "2026-05-30",
-     "n": 0
-    },
-    {
-     "day": "2026-05-31",
-     "n": 0
-    },
-    {
-     "day": "2026-06-01",
-     "n": 0
-    },
-    {
-     "day": "2026-06-02",
-     "n": 1
-    },
-    {
-     "day": "2026-06-03",
-     "n": 0
-    },
-    {
-     "day": "2026-06-04",
-     "n": 0
-    },
-    {
-     "day": "2026-06-05",
-     "n": 0
-    },
-    {
-     "day": "2026-06-06",
-     "n": 0
-    },
-    {
-     "day": "2026-06-07",
-     "n": 0
-    },
-    {
-     "day": "2026-06-08",
-     "n": 0
-    },
-    {
-     "day": "2026-06-09",
-     "n": 0
-    },
-    {
-     "day": "2026-06-10",
-     "n": 0
-    },
-    {
-     "day": "2026-06-11",
-     "n": 0
-    },
-    {
-     "day": "2026-06-12",
-     "n": 1
-    },
-    {
-     "day": "2026-06-13",
-     "n": 0
-    },
-    {
-     "day": "2026-06-14",
-     "n": 0
-    },
-    {
-     "day": "2026-06-15",
-     "n": 0
-    },
-    {
-     "day": "2026-06-16",
-     "n": 0
-    },
-    {
-     "day": "2026-06-17",
-     "n": 0
-    },
-    {
-     "day": "2026-06-18",
-     "n": 0
-    },
-    {
-     "day": "2026-06-19",
-     "n": 1
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 1
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 0
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 1
-    },
-    {
-     "day": "2026-07-24",
-     "n": 1
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 0
-    },
-    {
-     "day": "2026-07-30",
-     "n": 1
-    },
-    {
-     "day": "2026-07-31",
-     "n": 1
-    },
-    {
-     "day": "2026-08-01",
-     "n": 0
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 0
-    },
-    {
-     "day": "2026-08-04",
-     "n": 0
-    }
-   ],
-   "specificity": 0.993,
    "rank": 1.99
   }
  ]
