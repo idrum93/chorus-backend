@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-04T07:28:34.658407+00:00",
+ "generated": "2026-08-04T10:22:30.983405+00:00",
  "prices": {
   "Autos": [
    {
@@ -482,7 +482,7 @@
    },
    {
     "day": "2026-08-03",
-    "close": 85.82
+    "close": 85.88
    }
   ],
   "Materials": [
@@ -2768,12 +2768,6 @@
      "direction": "new"
     },
     {
-     "term": "crude oil price",
-     "articles": 1,
-     "sectors": 2,
-     "direction": "new"
-    },
-    {
      "term": "gas price",
      "articles": 1,
      "sectors": 2,
@@ -2876,8 +2870,8 @@
    "ticker": "TSLA",
    "name": "Tesla",
    "sector": "Autos",
-   "articles": 13,
-   "articles14d": 6,
+   "articles": 14,
+   "articles14d": 7,
    "terms": [
     {
      "term": "data center",
@@ -2906,6 +2900,12 @@
    ],
    "examples": [
     {
+     "publisher": "The Register",
+     "title": "NASA puts astronauts' lives in the hands of Tesla's flaky Cybertruck",
+     "url": "https://www.theregister.com/science/2026/08/04/nasa-puts-astronauts-lives-in-the-hands-of-teslas-flaky-cybertruck/5282628",
+     "sector": "Technology"
+    },
+    {
      "publisher": "ibtimes.com.au",
      "title": "Musk Denies Report That Tesla Is Weighing a Sale of Its China Business Ahead of a SpaceX Merger Deal",
      "url": "https://www.ibtimes.com.au/tesla-china-business-separation-spacex-merger-1873333",
@@ -2921,12 +2921,6 @@
      "publisher": "cleantechnica.com",
      "title": "Report That Tesla Considering Sale of Chinese Business Reportedly Completely False",
      "url": "https://cleantechnica.com/2026/07/31/report-that-tesla-considering-sale-of-chinese-business-reportedly-completely-false/",
-     "sector": "Autos"
-    },
-    {
-     "publisher": "autonews.gasgoo.com",
-     "title": "E - Week Highlights : Ford and Geely Form Spanish Joint Venture ; Tesla Q2 Net Profit Slips 5 % to $1 . 1 Billion",
-     "url": "https://autonews.gasgoo.com/articles/news/e-week-highlights-ford-and-geely-form-spanish-joint-venture-tesla-q2-net-profit-slips-5-to-11-billion-2081951000880451585",
      "sector": "Autos"
     }
    ]
@@ -3112,8 +3106,8 @@
    "ticker": "CCJ",
    "name": "Cameco",
    "sector": "Energy",
-   "articles": 5,
-   "articles14d": 5,
+   "articles": 6,
+   "articles14d": 6,
    "terms": [
     {
      "term": "joint venture",
@@ -3136,6 +3130,12 @@
    ],
    "examples": [
     {
+     "publisher": "World Nuclear News",
+     "title": "Mid-year updates from major uranium producers",
+     "url": "https://www.world-nuclear-news.org/articles/mid-year-updates-from-major-uranium-producers",
+     "sector": "Energy"
+    },
+    {
      "publisher": "Mining.com",
      "title": "Cameco's Westinghouse nuclear power venture files for IPO",
      "url": "https://www.mining.com/camecos-westinghouse-nuclear-power-venture-files-for-ipo/",
@@ -3152,118 +3152,6 @@
      "title": "Cameco announces IPO plan for Westinghouse",
      "url": "https://www.world-nuclear-news.org/articles/cameco-announces-go-public-plans-for-westinghouse",
      "sector": "Energy"
-    },
-    {
-     "publisher": "Northern Miner",
-     "title": "Cameco's Westinghouse nuclear unit files for IPO",
-     "url": "https://www.northernminer.com/news/camecos-westinghouse-nuclear-unit-files-for-ipo/1003893594/",
-     "sector": "Materials"
-    }
-   ]
-  },
-  {
-   "ticker": "TSM",
-   "name": "TSMC",
-   "sector": "Technology",
-   "articles": 25,
-   "articles14d": 3,
-   "terms": [
-    {
-     "term": "artificial intelligence",
-     "articles": 2,
-     "sectors": 7,
-     "direction": "rising"
-    },
-    {
-     "term": "better buy",
-     "articles": 1,
-     "sectors": 3,
-     "direction": "rising"
-    },
-    {
-     "term": "lakh crore",
-     "articles": 1,
-     "sectors": 2,
-     "direction": "falling"
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "livemint.com",
-     "title": "Japan quake shakes Kumamoto , the city anchoring TSMC \u20b91 . 91 lakh crore expansion",
-     "url": "https://www.livemint.com/news/world/japans-quake-shakes-kumamoto-the-city-anchoring-tsmcs-1-91-lakh-crore-expansion-11785321206361.html",
-     "sector": "Autos"
-    },
-    {
-     "publisher": "finance.yahoo.com",
-     "title": "Better - Buy Chip Stock : Taiwan Semiconductor vs . Nvidia",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/better-buy-chip-stock-taiwan-204400649.html",
-     "sector": "Technology"
-    },
-    {
-     "publisher": "finance.yahoo.com",
-     "title": "Prediction : TSMC Stock Will Outperform the S & P 500 Over the Next Five Years",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-tsmc-stock-outperform-p-153025285.html",
-     "sector": "Technology"
-    },
-    {
-     "publisher": "djc.com",
-     "title": "Seattle DJC . com local business news and data - Business - Taiwan computer chipmaker TSMC pledges another $100B to expand US chipmaking capacity",
-     "url": "https://www.djc.com/news/bu/12176859.html",
-     "sector": "Industrials"
-    }
-   ]
-  },
-  {
-   "ticker": "XOM",
-   "name": "Exxon Mobil",
-   "sector": "Energy",
-   "articles": 4,
-   "articles14d": 3,
-   "terms": [
-    {
-     "term": "oil price",
-     "articles": 2,
-     "sectors": 4,
-     "direction": "rising"
-    },
-    {
-     "term": "iran war",
-     "articles": 1,
-     "sectors": 4,
-     "direction": "steady"
-    },
-    {
-     "term": "crude oil price",
-     "articles": 1,
-     "sectors": 2,
-     "direction": "new"
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "OilPrice",
-     "title": "Seven Months After Maduro's Fall, Big Oil Still Won't Commit To Venezuela",
-     "url": "https://oilprice.com/Energy/Crude-Oil/Seven-Months-After-Maduros-Fall-Big-Oil-Still-Wont-Commit-To-Venezuela.html",
-     "sector": "Energy"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Big Oil Warns Global Fuel Stocks Are Running Dangerously Low",
-     "url": "https://oilprice.com/Energy/Energy-General/Big-Oil-Warns-Global-Fuel-Stocks-Are-Running-Dangerously-Low.html",
-     "sector": "Energy"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Exxon and Chevron\u2019s $26.5 Billion Quarter Draws Trump\u2019s Ire",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Exxon-and-Chevrons-265-Billion-Quarter-Draws-Trumps-Ire.html",
-     "sector": "Energy"
-    },
-    {
-     "publisher": "finance.yahoo.com",
-     "title": "This Is the First Energy Stock I Plan to Buy in June ( Hint : It Not ExxonMobil )",
-     "url": "https://finance.yahoo.com/sectors/energy/articles/first-energy-stock-plan-buy-193200657.html",
-     "sector": "Utilities"
     }
    ]
   },
@@ -3324,8 +3212,8 @@
    "ticker": "GOOGL",
    "name": "Alphabet",
    "sector": "Technology",
-   "articles": 33,
-   "articles14d": 16,
+   "articles": 34,
+   "articles14d": 17,
    "terms": [
     {
      "term": "supply chain",
@@ -3343,6 +3231,12 @@
    "examples": [
     {
      "publisher": "The Register",
+     "title": "Google Earth's AI makeover survives for just one planetary rotation",
+     "url": "https://www.theregister.com/ai-and-ml/2026/08/03/google-earths-ai-makeover-survives-for-just-one-planetary-rotation/5282224",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "The Register",
      "title": "Google dev kit spurs first-ever agent-on-agent violence",
      "url": "https://www.theregister.com/security/2026/08/03/google-dev-kit-spurs-first-ever-agent-on-agent-violence/5282496",
      "sector": "Technology"
@@ -3357,12 +3251,6 @@
      "publisher": "The Register",
      "title": "Google Earth's AI makeover survives one trip around the Sun",
      "url": "https://www.theregister.com/ai-and-ml/2026/08/03/google-earths-ai-makeover-survives-one-trip-around-the-sun/5282224",
-     "sector": "Technology"
-    },
-    {
-     "publisher": "Semiconductor Engineering",
-     "title": "Modular Verification of RTL Processors Against ISA Contracts (MIT, Google, UW)",
-     "url": "https://semiengineering.com/modular-verification-of-rtl-processors-against-isa-contracts-mit-google-uw/",
      "sector": "Technology"
     }
    ]
@@ -3603,6 +3491,100 @@
    ]
   },
   {
+   "ticker": "TSM",
+   "name": "TSMC",
+   "sector": "Technology",
+   "articles": 25,
+   "articles14d": 3,
+   "terms": [
+    {
+     "term": "artificial intelligence",
+     "articles": 2,
+     "sectors": 7,
+     "direction": "rising"
+    },
+    {
+     "term": "better buy",
+     "articles": 1,
+     "sectors": 3,
+     "direction": "rising"
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "livemint.com",
+     "title": "Japan quake shakes Kumamoto , the city anchoring TSMC \u20b91 . 91 lakh crore expansion",
+     "url": "https://www.livemint.com/news/world/japans-quake-shakes-kumamoto-the-city-anchoring-tsmcs-1-91-lakh-crore-expansion-11785321206361.html",
+     "sector": "Autos"
+    },
+    {
+     "publisher": "finance.yahoo.com",
+     "title": "Better - Buy Chip Stock : Taiwan Semiconductor vs . Nvidia",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/better-buy-chip-stock-taiwan-204400649.html",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "finance.yahoo.com",
+     "title": "Prediction : TSMC Stock Will Outperform the S & P 500 Over the Next Five Years",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-tsmc-stock-outperform-p-153025285.html",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "djc.com",
+     "title": "Seattle DJC . com local business news and data - Business - Taiwan computer chipmaker TSMC pledges another $100B to expand US chipmaking capacity",
+     "url": "https://www.djc.com/news/bu/12176859.html",
+     "sector": "Industrials"
+    }
+   ]
+  },
+  {
+   "ticker": "XOM",
+   "name": "Exxon Mobil",
+   "sector": "Energy",
+   "articles": 4,
+   "articles14d": 3,
+   "terms": [
+    {
+     "term": "oil price",
+     "articles": 2,
+     "sectors": 4,
+     "direction": "rising"
+    },
+    {
+     "term": "iran war",
+     "articles": 1,
+     "sectors": 4,
+     "direction": "steady"
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "OilPrice",
+     "title": "Seven Months After Maduro's Fall, Big Oil Still Won't Commit To Venezuela",
+     "url": "https://oilprice.com/Energy/Crude-Oil/Seven-Months-After-Maduros-Fall-Big-Oil-Still-Wont-Commit-To-Venezuela.html",
+     "sector": "Energy"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Big Oil Warns Global Fuel Stocks Are Running Dangerously Low",
+     "url": "https://oilprice.com/Energy/Energy-General/Big-Oil-Warns-Global-Fuel-Stocks-Are-Running-Dangerously-Low.html",
+     "sector": "Energy"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Exxon and Chevron\u2019s $26.5 Billion Quarter Draws Trump\u2019s Ire",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Exxon-and-Chevrons-265-Billion-Quarter-Draws-Trumps-Ire.html",
+     "sector": "Energy"
+    },
+    {
+     "publisher": "finance.yahoo.com",
+     "title": "This Is the First Energy Stock I Plan to Buy in June ( Hint : It Not ExxonMobil )",
+     "url": "https://finance.yahoo.com/sectors/energy/articles/first-energy-stock-plan-buy-193200657.html",
+     "sector": "Utilities"
+    }
+   ]
+  },
+  {
    "ticker": "MS",
    "name": "Morgan Stanley",
    "sector": "Finance",
@@ -3646,6 +3628,53 @@
      "title": "Morgan Stanley Destroys Bear Case Against Nebius . Proves The 35 % Plunge Was a Huge Mistake",
      "url": "https://finance.yahoo.com/technology/ai/articles/morgan-stanley-destroys-bear-case-154949248.html",
      "sector": "Technology"
+    }
+   ]
+  },
+  {
+   "ticker": "AEP",
+   "name": "American Electric Power",
+   "sector": "Utilities",
+   "articles": 4,
+   "articles14d": 2,
+   "terms": [
+    {
+     "term": "data center",
+     "articles": 1,
+     "sectors": 9,
+     "direction": "rising"
+    },
+    {
+     "term": "world's largest",
+     "articles": 1,
+     "sectors": 2,
+     "direction": "new"
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "Utility Dive",
+     "title": "AEP secures 13 GW of gas turbines as generation \u2018central' to growth plans",
+     "url": "https://www.utilitydive.com/news/aep-secures-13-gw-of-gas-turbines-as-generation-central-to-growth-plans/826808/",
+     "sector": "Utilities"
+    },
+    {
+     "publisher": "POWER Magazine",
+     "title": "World's Largest Energy Lender Steers Federal Financing Toward Baseload, Transmission, and Nuclear",
+     "url": "https://www.powermag.com/worlds-largest-energy-lender-steers-federal-financing-toward-baseload-transmission-and-nuclear/",
+     "sector": "Utilities"
+    },
+    {
+     "publisher": "ideastream.org",
+     "title": "Ohio AG candidate files ethics complaint against JobsOhio chair and lobbyist connected to AEP",
+     "url": "https://www.ideastream.org/2026-06-26/ohio-ag-candidate-files-ethics-complaint-against-jobsohio-chair-and-lobbyist-connected-to-aep",
+     "sector": "Energy"
+    },
+    {
+     "publisher": "finance.yahoo.com",
+     "title": "Truist Says Data Center Expansion Could Drive Further Upside for American Electric Power ( AEP )",
+     "url": "https://finance.yahoo.com/markets/stocks/articles/truist-says-data-center-expansion-135313085.html",
+     "sector": "Utilities"
     }
    ]
   },
@@ -3769,6 +3798,47 @@
      "title": "Partners : Dell Supply Chain Superiority Is Driving Sales Growth Versus Competitors",
      "url": "https://www.crn.com/news/data-center/2026/partners-dell-supply-chain-superiority-is-driving-sales-growth-versus-competitors",
      "sector": "Supply chain"
+    }
+   ]
+  },
+  {
+   "ticker": "PLD",
+   "name": "Prologis",
+   "sector": "Real estate",
+   "articles": 15,
+   "articles14d": 5,
+   "terms": [
+    {
+     "term": "world's largest",
+     "articles": 1,
+     "sectors": 2,
+     "direction": "new"
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "themarketsdaily.com",
+     "title": "Head to Head Survey : FIBRA Prologis ( OTCMKTS : FBBPF ) & One Liberty Properties ( NYSE : OLP )",
+     "url": "https://www.themarketsdaily.com/2026/08/02/head-to-head-survey-fibra-prologis-otcmktsfbbpf-one-liberty-properties-nyseolp.html",
+     "sector": "Real estate"
+    },
+    {
+     "publisher": "dailypolitical.com",
+     "title": "Quantinno Capital Management LP Raises Stock Position in Prologis , Inc . $PLD",
+     "url": "https://www.dailypolitical.com/2026/08/01/quantinno-capital-management-lp-raises-stock-position-in-prologis-inc-pld.html",
+     "sector": "Real estate"
+    },
+    {
+     "publisher": "itnewsonline.com",
+     "title": "FIBRA Prologis Declares Quarterly Distribution",
+     "url": "https://www.itnewsonline.com/PRNewswire/FIBRA-Prologis-Declares-Quarterly-Distribution/1138796",
+     "sector": "Real estate"
+    },
+    {
+     "publisher": "dailypolitical.com",
+     "title": "Scotiabank Forecasts Strong Price Appreciation for Prologis ( NYSE : PLD ) Stock",
+     "url": "https://www.dailypolitical.com/2026/07/23/scotiabank-forecasts-strong-price-appreciation-for-prologis-nysepld-stock.html",
+     "sector": "Real estate"
     }
    ]
   },
@@ -4050,47 +4120,6 @@
      "title": "Why Oklo Stock Sank 27 % In The First Half of 2026",
      "url": "https://www.fool.com/investing/2026/07/11/why-oklo-stock-sank-27-in-the-first-half-of-2026/?source=iedfolrf0000001",
      "sector": "Energy"
-    }
-   ]
-  },
-  {
-   "ticker": "AEP",
-   "name": "American Electric Power",
-   "sector": "Utilities",
-   "articles": 4,
-   "articles14d": 2,
-   "terms": [
-    {
-     "term": "data center",
-     "articles": 1,
-     "sectors": 9,
-     "direction": "rising"
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "Utility Dive",
-     "title": "AEP secures 13 GW of gas turbines as generation \u2018central' to growth plans",
-     "url": "https://www.utilitydive.com/news/aep-secures-13-gw-of-gas-turbines-as-generation-central-to-growth-plans/826808/",
-     "sector": "Utilities"
-    },
-    {
-     "publisher": "POWER Magazine",
-     "title": "World's Largest Energy Lender Steers Federal Financing Toward Baseload, Transmission, and Nuclear",
-     "url": "https://www.powermag.com/worlds-largest-energy-lender-steers-federal-financing-toward-baseload-transmission-and-nuclear/",
-     "sector": "Utilities"
-    },
-    {
-     "publisher": "ideastream.org",
-     "title": "Ohio AG candidate files ethics complaint against JobsOhio chair and lobbyist connected to AEP",
-     "url": "https://www.ideastream.org/2026-06-26/ohio-ag-candidate-files-ethics-complaint-against-jobsohio-chair-and-lobbyist-connected-to-aep",
-     "sector": "Energy"
-    },
-    {
-     "publisher": "finance.yahoo.com",
-     "title": "Truist Says Data Center Expansion Could Drive Further Upside for American Electric Power ( AEP )",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/truist-says-data-center-expansion-135313085.html",
-     "sector": "Utilities"
     }
    ]
   },
@@ -4500,40 +4529,6 @@
      "title": "MP Materials COO increases shareholding",
      "url": "https://www.mining.com/mp-materials-coo-increases-shareholding/",
      "sector": "Materials"
-    }
-   ]
-  },
-  {
-   "ticker": "PLD",
-   "name": "Prologis",
-   "sector": "Real estate",
-   "articles": 14,
-   "articles14d": 5,
-   "terms": [],
-   "examples": [
-    {
-     "publisher": "themarketsdaily.com",
-     "title": "Head to Head Survey : FIBRA Prologis ( OTCMKTS : FBBPF ) & One Liberty Properties ( NYSE : OLP )",
-     "url": "https://www.themarketsdaily.com/2026/08/02/head-to-head-survey-fibra-prologis-otcmktsfbbpf-one-liberty-properties-nyseolp.html",
-     "sector": "Real estate"
-    },
-    {
-     "publisher": "dailypolitical.com",
-     "title": "Quantinno Capital Management LP Raises Stock Position in Prologis , Inc . $PLD",
-     "url": "https://www.dailypolitical.com/2026/08/01/quantinno-capital-management-lp-raises-stock-position-in-prologis-inc-pld.html",
-     "sector": "Real estate"
-    },
-    {
-     "publisher": "itnewsonline.com",
-     "title": "FIBRA Prologis Declares Quarterly Distribution",
-     "url": "https://www.itnewsonline.com/PRNewswire/FIBRA-Prologis-Declares-Quarterly-Distribution/1138796",
-     "sector": "Real estate"
-    },
-    {
-     "publisher": "dailypolitical.com",
-     "title": "Scotiabank Forecasts Strong Price Appreciation for Prologis ( NYSE : PLD ) Stock",
-     "url": "https://www.dailypolitical.com/2026/07/23/scotiabank-forecasts-strong-price-appreciation-for-prologis-nysepld-stock.html",
-     "sector": "Real estate"
     }
    ]
   },
@@ -15626,6 +15621,1808 @@
     "share": 0.03902
    }
   ],
+  "clean air": [
+   {
+    "q": "2016Q1",
+    "sector": "Autos",
+    "share": 0.015
+   },
+   {
+    "q": "2016Q1",
+    "sector": "Consumer",
+    "share": 0.01522
+   },
+   {
+    "q": "2016Q1",
+    "sector": "Energy",
+    "share": 0.10334
+   },
+   {
+    "q": "2016Q1",
+    "sector": "Finance",
+    "share": 0.00583
+   },
+   {
+    "q": "2016Q1",
+    "sector": "Healthcare",
+    "share": 0.00232
+   },
+   {
+    "q": "2016Q1",
+    "sector": "Materials",
+    "share": 0.06071
+   },
+   {
+    "q": "2016Q1",
+    "sector": "Real estate",
+    "share": 0.01207
+   },
+   {
+    "q": "2016Q1",
+    "sector": "Utilities",
+    "share": 0.14197
+   },
+   {
+    "q": "2016Q2",
+    "sector": "Autos",
+    "share": 0.04448
+   },
+   {
+    "q": "2016Q2",
+    "sector": "Consumer",
+    "share": 0.02122
+   },
+   {
+    "q": "2016Q2",
+    "sector": "Energy",
+    "share": 0.05784
+   },
+   {
+    "q": "2016Q2",
+    "sector": "Finance",
+    "share": 0.00828
+   },
+   {
+    "q": "2016Q2",
+    "sector": "Healthcare",
+    "share": 0.00224
+   },
+   {
+    "q": "2016Q2",
+    "sector": "Materials",
+    "share": 0.03053
+   },
+   {
+    "q": "2016Q2",
+    "sector": "Real estate",
+    "share": 0.01836
+   },
+   {
+    "q": "2016Q2",
+    "sector": "Supply chain",
+    "share": 0.07731
+   },
+   {
+    "q": "2016Q2",
+    "sector": "Technology",
+    "share": 0.00135
+   },
+   {
+    "q": "2016Q2",
+    "sector": "Utilities",
+    "share": 0.09867
+   },
+   {
+    "q": "2016Q3",
+    "sector": "Autos",
+    "share": 0.05044
+   },
+   {
+    "q": "2016Q3",
+    "sector": "Consumer",
+    "share": 0.01399
+   },
+   {
+    "q": "2016Q3",
+    "sector": "Energy",
+    "share": 0.06053
+   },
+   {
+    "q": "2016Q3",
+    "sector": "Finance",
+    "share": 0.01155
+   },
+   {
+    "q": "2016Q3",
+    "sector": "Healthcare",
+    "share": 0.00177
+   },
+   {
+    "q": "2016Q3",
+    "sector": "Materials",
+    "share": 0.03699
+   },
+   {
+    "q": "2016Q3",
+    "sector": "Real estate",
+    "share": 0.01707
+   },
+   {
+    "q": "2016Q3",
+    "sector": "Technology",
+    "share": 0.00157
+   },
+   {
+    "q": "2016Q3",
+    "sector": "Utilities",
+    "share": 0.09984
+   },
+   {
+    "q": "2016Q4",
+    "sector": "Autos",
+    "share": 0.02904
+   },
+   {
+    "q": "2016Q4",
+    "sector": "Energy",
+    "share": 0.06659
+   },
+   {
+    "q": "2016Q4",
+    "sector": "Finance",
+    "share": 0.01107
+   },
+   {
+    "q": "2016Q4",
+    "sector": "Healthcare",
+    "share": 0.00307
+   },
+   {
+    "q": "2016Q4",
+    "sector": "Materials",
+    "share": 0.03574
+   },
+   {
+    "q": "2016Q4",
+    "sector": "Real estate",
+    "share": 0.01519
+   },
+   {
+    "q": "2016Q4",
+    "sector": "Supply chain",
+    "share": 0.03077
+   },
+   {
+    "q": "2016Q4",
+    "sector": "Technology",
+    "share": 0.00339
+   },
+   {
+    "q": "2016Q4",
+    "sector": "Utilities",
+    "share": 0.0977
+   },
+   {
+    "q": "2017Q1",
+    "sector": "Autos",
+    "share": 0.07891
+   },
+   {
+    "q": "2017Q1",
+    "sector": "Consumer",
+    "share": 0.0075
+   },
+   {
+    "q": "2017Q1",
+    "sector": "Energy",
+    "share": 0.1145
+   },
+   {
+    "q": "2017Q1",
+    "sector": "Finance",
+    "share": 0.00487
+   },
+   {
+    "q": "2017Q1",
+    "sector": "Healthcare",
+    "share": 0.00346
+   },
+   {
+    "q": "2017Q1",
+    "sector": "Materials",
+    "share": 0.05863
+   },
+   {
+    "q": "2017Q1",
+    "sector": "Supply chain",
+    "share": 0.06743
+   },
+   {
+    "q": "2017Q1",
+    "sector": "Utilities",
+    "share": 0.13852
+   },
+   {
+    "q": "2017Q2",
+    "sector": "Energy",
+    "share": 0.05663
+   },
+   {
+    "q": "2017Q2",
+    "sector": "Finance",
+    "share": 0.00803
+   },
+   {
+    "q": "2017Q2",
+    "sector": "Healthcare",
+    "share": 0.00085
+   },
+   {
+    "q": "2017Q2",
+    "sector": "Materials",
+    "share": 0.01976
+   },
+   {
+    "q": "2017Q2",
+    "sector": "Real estate",
+    "share": 0.00791
+   },
+   {
+    "q": "2017Q2",
+    "sector": "Supply chain",
+    "share": 0.05077
+   },
+   {
+    "q": "2017Q2",
+    "sector": "Utilities",
+    "share": 0.11943
+   },
+   {
+    "q": "2017Q3",
+    "sector": "Consumer",
+    "share": 0.0069
+   },
+   {
+    "q": "2017Q3",
+    "sector": "Energy",
+    "share": 0.08762
+   },
+   {
+    "q": "2017Q3",
+    "sector": "Finance",
+    "share": 0.01419
+   },
+   {
+    "q": "2017Q3",
+    "sector": "Healthcare",
+    "share": 0.0013
+   },
+   {
+    "q": "2017Q3",
+    "sector": "Materials",
+    "share": 0.02354
+   },
+   {
+    "q": "2017Q3",
+    "sector": "Real estate",
+    "share": 0.0362
+   },
+   {
+    "q": "2017Q3",
+    "sector": "Technology",
+    "share": 0.00187
+   },
+   {
+    "q": "2017Q3",
+    "sector": "Utilities",
+    "share": 0.10513
+   },
+   {
+    "q": "2017Q4",
+    "sector": "Autos",
+    "share": 0.0377
+   },
+   {
+    "q": "2017Q4",
+    "sector": "Consumer",
+    "share": 0.03556
+   },
+   {
+    "q": "2017Q4",
+    "sector": "Energy",
+    "share": 0.05888
+   },
+   {
+    "q": "2017Q4",
+    "sector": "Finance",
+    "share": 0.00723
+   },
+   {
+    "q": "2017Q4",
+    "sector": "Healthcare",
+    "share": 0.00234
+   },
+   {
+    "q": "2017Q4",
+    "sector": "Materials",
+    "share": 0.02889
+   },
+   {
+    "q": "2017Q4",
+    "sector": "Real estate",
+    "share": 0.01084
+   },
+   {
+    "q": "2017Q4",
+    "sector": "Supply chain",
+    "share": 0.02326
+   },
+   {
+    "q": "2017Q4",
+    "sector": "Utilities",
+    "share": 0.10645
+   },
+   {
+    "q": "2018Q1",
+    "sector": "Autos",
+    "share": 0.05024
+   },
+   {
+    "q": "2018Q1",
+    "sector": "Consumer",
+    "share": 0.01044
+   },
+   {
+    "q": "2018Q1",
+    "sector": "Energy",
+    "share": 0.09644
+   },
+   {
+    "q": "2018Q1",
+    "sector": "Finance",
+    "share": 0.00581
+   },
+   {
+    "q": "2018Q1",
+    "sector": "Healthcare",
+    "share": 0.00132
+   },
+   {
+    "q": "2018Q1",
+    "sector": "Materials",
+    "share": 0.04918
+   },
+   {
+    "q": "2018Q1",
+    "sector": "Real estate",
+    "share": 0.01896
+   },
+   {
+    "q": "2018Q1",
+    "sector": "Technology",
+    "share": 0.00234
+   },
+   {
+    "q": "2018Q1",
+    "sector": "Utilities",
+    "share": 0.11089
+   },
+   {
+    "q": "2018Q2",
+    "sector": "Autos",
+    "share": 0.06504
+   },
+   {
+    "q": "2018Q2",
+    "sector": "Consumer",
+    "share": 0.00635
+   },
+   {
+    "q": "2018Q2",
+    "sector": "Energy",
+    "share": 0.05089
+   },
+   {
+    "q": "2018Q2",
+    "sector": "Finance",
+    "share": 0.00732
+   },
+   {
+    "q": "2018Q2",
+    "sector": "Healthcare",
+    "share": 0.00147
+   },
+   {
+    "q": "2018Q2",
+    "sector": "Materials",
+    "share": 0.03724
+   },
+   {
+    "q": "2018Q2",
+    "sector": "Real estate",
+    "share": 0.00773
+   },
+   {
+    "q": "2018Q2",
+    "sector": "Supply chain",
+    "share": 0.06126
+   },
+   {
+    "q": "2018Q2",
+    "sector": "Technology",
+    "share": 0.00137
+   },
+   {
+    "q": "2018Q2",
+    "sector": "Utilities",
+    "share": 0.08255
+   },
+   {
+    "q": "2018Q3",
+    "sector": "Autos",
+    "share": 0.04134
+   },
+   {
+    "q": "2018Q3",
+    "sector": "Consumer",
+    "share": 0.02135
+   },
+   {
+    "q": "2018Q3",
+    "sector": "Energy",
+    "share": 0.05526
+   },
+   {
+    "q": "2018Q3",
+    "sector": "Finance",
+    "share": 0.00961
+   },
+   {
+    "q": "2018Q3",
+    "sector": "Healthcare",
+    "share": 0.00444
+   },
+   {
+    "q": "2018Q3",
+    "sector": "Materials",
+    "share": 0.01711
+   },
+   {
+    "q": "2018Q3",
+    "sector": "Technology",
+    "share": 0.00376
+   },
+   {
+    "q": "2018Q3",
+    "sector": "Utilities",
+    "share": 0.11287
+   },
+   {
+    "q": "2018Q4",
+    "sector": "Autos",
+    "share": 0.03212
+   },
+   {
+    "q": "2018Q4",
+    "sector": "Consumer",
+    "share": 0.01708
+   },
+   {
+    "q": "2018Q4",
+    "sector": "Energy",
+    "share": 0.04461
+   },
+   {
+    "q": "2018Q4",
+    "sector": "Finance",
+    "share": 0.01008
+   },
+   {
+    "q": "2018Q4",
+    "sector": "Healthcare",
+    "share": 0.00416
+   },
+   {
+    "q": "2018Q4",
+    "sector": "Materials",
+    "share": 0.02203
+   },
+   {
+    "q": "2018Q4",
+    "sector": "Real estate",
+    "share": 0.01227
+   },
+   {
+    "q": "2018Q4",
+    "sector": "Supply chain",
+    "share": 0.032
+   },
+   {
+    "q": "2018Q4",
+    "sector": "Technology",
+    "share": 0.00209
+   },
+   {
+    "q": "2018Q4",
+    "sector": "Utilities",
+    "share": 0.13014
+   },
+   {
+    "q": "2019Q1",
+    "sector": "Autos",
+    "share": 0.03333
+   },
+   {
+    "q": "2019Q1",
+    "sector": "Energy",
+    "share": 0.09126
+   },
+   {
+    "q": "2019Q1",
+    "sector": "Finance",
+    "share": 0.00507
+   },
+   {
+    "q": "2019Q1",
+    "sector": "Healthcare",
+    "share": 0.00452
+   },
+   {
+    "q": "2019Q1",
+    "sector": "Materials",
+    "share": 0.04131
+   },
+   {
+    "q": "2019Q1",
+    "sector": "Utilities",
+    "share": 0.1314
+   },
+   {
+    "q": "2019Q2",
+    "sector": "Autos",
+    "share": 0.0256
+   },
+   {
+    "q": "2019Q2",
+    "sector": "Consumer",
+    "share": 0.02187
+   },
+   {
+    "q": "2019Q2",
+    "sector": "Energy",
+    "share": 0.03183
+   },
+   {
+    "q": "2019Q2",
+    "sector": "Finance",
+    "share": 0.00549
+   },
+   {
+    "q": "2019Q2",
+    "sector": "Healthcare",
+    "share": 0.0038
+   },
+   {
+    "q": "2019Q2",
+    "sector": "Materials",
+    "share": 0.02928
+   },
+   {
+    "q": "2019Q2",
+    "sector": "Real estate",
+    "share": 0.02737
+   },
+   {
+    "q": "2019Q2",
+    "sector": "Technology",
+    "share": 0.0031
+   },
+   {
+    "q": "2019Q2",
+    "sector": "Utilities",
+    "share": 0.0705
+   },
+   {
+    "q": "2019Q3",
+    "sector": "Consumer",
+    "share": 0.01333
+   },
+   {
+    "q": "2019Q3",
+    "sector": "Energy",
+    "share": 0.02966
+   },
+   {
+    "q": "2019Q3",
+    "sector": "Finance",
+    "share": 0.01121
+   },
+   {
+    "q": "2019Q3",
+    "sector": "Healthcare",
+    "share": 0.00333
+   },
+   {
+    "q": "2019Q3",
+    "sector": "Materials",
+    "share": 0.03405
+   },
+   {
+    "q": "2019Q3",
+    "sector": "Real estate",
+    "share": 0.00952
+   },
+   {
+    "q": "2019Q3",
+    "sector": "Supply chain",
+    "share": 0.02262
+   },
+   {
+    "q": "2019Q3",
+    "sector": "Technology",
+    "share": 0.00127
+   },
+   {
+    "q": "2019Q3",
+    "sector": "Utilities",
+    "share": 0.09546
+   },
+   {
+    "q": "2019Q4",
+    "sector": "Autos",
+    "share": 0.03472
+   },
+   {
+    "q": "2019Q4",
+    "sector": "Consumer",
+    "share": 0.02748
+   },
+   {
+    "q": "2019Q4",
+    "sector": "Energy",
+    "share": 0.03442
+   },
+   {
+    "q": "2019Q4",
+    "sector": "Finance",
+    "share": 0.01194
+   },
+   {
+    "q": "2019Q4",
+    "sector": "Healthcare",
+    "share": 0.0026
+   },
+   {
+    "q": "2019Q4",
+    "sector": "Materials",
+    "share": 0.01367
+   },
+   {
+    "q": "2019Q4",
+    "sector": "Real estate",
+    "share": 0.01015
+   },
+   {
+    "q": "2019Q4",
+    "sector": "Supply chain",
+    "share": 0.01256
+   },
+   {
+    "q": "2019Q4",
+    "sector": "Technology",
+    "share": 0.00137
+   },
+   {
+    "q": "2019Q4",
+    "sector": "Utilities",
+    "share": 0.08051
+   },
+   {
+    "q": "2020Q1",
+    "sector": "Autos",
+    "share": 0.05655
+   },
+   {
+    "q": "2020Q1",
+    "sector": "Energy",
+    "share": 0.09004
+   },
+   {
+    "q": "2020Q1",
+    "sector": "Finance",
+    "share": 0.00475
+   },
+   {
+    "q": "2020Q1",
+    "sector": "Healthcare",
+    "share": 0.00169
+   },
+   {
+    "q": "2020Q1",
+    "sector": "Materials",
+    "share": 0.04604
+   },
+   {
+    "q": "2020Q1",
+    "sector": "Real estate",
+    "share": 0.01088
+   },
+   {
+    "q": "2020Q1",
+    "sector": "Technology",
+    "share": 0.00294
+   },
+   {
+    "q": "2020Q1",
+    "sector": "Utilities",
+    "share": 0.07784
+   },
+   {
+    "q": "2020Q2",
+    "sector": "Autos",
+    "share": 0.02572
+   },
+   {
+    "q": "2020Q2",
+    "sector": "Consumer",
+    "share": 0.02423
+   },
+   {
+    "q": "2020Q2",
+    "sector": "Energy",
+    "share": 0.02996
+   },
+   {
+    "q": "2020Q2",
+    "sector": "Finance",
+    "share": 0.00493
+   },
+   {
+    "q": "2020Q2",
+    "sector": "Healthcare",
+    "share": 0.00043
+   },
+   {
+    "q": "2020Q2",
+    "sector": "Materials",
+    "share": 0.02857
+   },
+   {
+    "q": "2020Q2",
+    "sector": "Supply chain",
+    "share": 0.05772
+   },
+   {
+    "q": "2020Q2",
+    "sector": "Technology",
+    "share": 0.0018
+   },
+   {
+    "q": "2020Q2",
+    "sector": "Utilities",
+    "share": 0.05927
+   },
+   {
+    "q": "2020Q3",
+    "sector": "Consumer",
+    "share": 0.00771
+   },
+   {
+    "q": "2020Q3",
+    "sector": "Energy",
+    "share": 0.0277
+   },
+   {
+    "q": "2020Q3",
+    "sector": "Finance",
+    "share": 0.00695
+   },
+   {
+    "q": "2020Q3",
+    "sector": "Healthcare",
+    "share": 0.00234
+   },
+   {
+    "q": "2020Q3",
+    "sector": "Materials",
+    "share": 0.02201
+   },
+   {
+    "q": "2020Q3",
+    "sector": "Real estate",
+    "share": 0.01114
+   },
+   {
+    "q": "2020Q3",
+    "sector": "Technology",
+    "share": 0.00131
+   },
+   {
+    "q": "2020Q3",
+    "sector": "Utilities",
+    "share": 0.06785
+   },
+   {
+    "q": "2020Q4",
+    "sector": "Autos",
+    "share": 0.05295
+   },
+   {
+    "q": "2020Q4",
+    "sector": "Consumer",
+    "share": 0.0172
+   },
+   {
+    "q": "2020Q4",
+    "sector": "Energy",
+    "share": 0.04887
+   },
+   {
+    "q": "2020Q4",
+    "sector": "Finance",
+    "share": 0.00618
+   },
+   {
+    "q": "2020Q4",
+    "sector": "Healthcare",
+    "share": 0.00296
+   },
+   {
+    "q": "2020Q4",
+    "sector": "Materials",
+    "share": 0.02082
+   },
+   {
+    "q": "2020Q4",
+    "sector": "Technology",
+    "share": 0.00329
+   },
+   {
+    "q": "2020Q4",
+    "sector": "Utilities",
+    "share": 0.10209
+   },
+   {
+    "q": "2021Q1",
+    "sector": "Autos",
+    "share": 0.083
+   },
+   {
+    "q": "2021Q1",
+    "sector": "Energy",
+    "share": 0.09597
+   },
+   {
+    "q": "2021Q1",
+    "sector": "Finance",
+    "share": 0.00328
+   },
+   {
+    "q": "2021Q1",
+    "sector": "Healthcare",
+    "share": 0.00296
+   },
+   {
+    "q": "2021Q1",
+    "sector": "Materials",
+    "share": 0.02589
+   },
+   {
+    "q": "2021Q1",
+    "sector": "Real estate",
+    "share": 0.01204
+   },
+   {
+    "q": "2021Q1",
+    "sector": "Supply chain",
+    "share": 0.0918
+   },
+   {
+    "q": "2021Q1",
+    "sector": "Technology",
+    "share": 0.00394
+   },
+   {
+    "q": "2021Q1",
+    "sector": "Utilities",
+    "share": 0.1022
+   },
+   {
+    "q": "2021Q2",
+    "sector": "Autos",
+    "share": 0.02776
+   },
+   {
+    "q": "2021Q2",
+    "sector": "Consumer",
+    "share": 0.01007
+   },
+   {
+    "q": "2021Q2",
+    "sector": "Energy",
+    "share": 0.03371
+   },
+   {
+    "q": "2021Q2",
+    "sector": "Finance",
+    "share": 0.00696
+   },
+   {
+    "q": "2021Q2",
+    "sector": "Healthcare",
+    "share": 0.00202
+   },
+   {
+    "q": "2021Q2",
+    "sector": "Materials",
+    "share": 0.02493
+   },
+   {
+    "q": "2021Q2",
+    "sector": "Technology",
+    "share": 0.00228
+   },
+   {
+    "q": "2021Q2",
+    "sector": "Utilities",
+    "share": 0.07209
+   },
+   {
+    "q": "2021Q3",
+    "sector": "Autos",
+    "share": 0.04534
+   },
+   {
+    "q": "2021Q3",
+    "sector": "Consumer",
+    "share": 0.02025
+   },
+   {
+    "q": "2021Q3",
+    "sector": "Energy",
+    "share": 0.03422
+   },
+   {
+    "q": "2021Q3",
+    "sector": "Finance",
+    "share": 0.00697
+   },
+   {
+    "q": "2021Q3",
+    "sector": "Healthcare",
+    "share": 0.00332
+   },
+   {
+    "q": "2021Q3",
+    "sector": "Materials",
+    "share": 0.0155
+   },
+   {
+    "q": "2021Q3",
+    "sector": "Technology",
+    "share": 0.00834
+   },
+   {
+    "q": "2021Q3",
+    "sector": "Utilities",
+    "share": 0.07303
+   },
+   {
+    "q": "2021Q4",
+    "sector": "Autos",
+    "share": 0.03086
+   },
+   {
+    "q": "2021Q4",
+    "sector": "Energy",
+    "share": 0.04545
+   },
+   {
+    "q": "2021Q4",
+    "sector": "Finance",
+    "share": 0.00557
+   },
+   {
+    "q": "2021Q4",
+    "sector": "Healthcare",
+    "share": 0.00404
+   },
+   {
+    "q": "2021Q4",
+    "sector": "Materials",
+    "share": 0.0213
+   },
+   {
+    "q": "2021Q4",
+    "sector": "Real estate",
+    "share": 0.01019
+   },
+   {
+    "q": "2021Q4",
+    "sector": "Technology",
+    "share": 0.00805
+   },
+   {
+    "q": "2021Q4",
+    "sector": "Utilities",
+    "share": 0.06956
+   },
+   {
+    "q": "2022Q1",
+    "sector": "Autos",
+    "share": 0.04201
+   },
+   {
+    "q": "2022Q1",
+    "sector": "Energy",
+    "share": 0.09256
+   },
+   {
+    "q": "2022Q1",
+    "sector": "Finance",
+    "share": 0.00402
+   },
+   {
+    "q": "2022Q1",
+    "sector": "Healthcare",
+    "share": 0.0029
+   },
+   {
+    "q": "2022Q1",
+    "sector": "Materials",
+    "share": 0.04123
+   },
+   {
+    "q": "2022Q1",
+    "sector": "Real estate",
+    "share": 0.01533
+   },
+   {
+    "q": "2022Q1",
+    "sector": "Technology",
+    "share": 0.00384
+   },
+   {
+    "q": "2022Q1",
+    "sector": "Utilities",
+    "share": 0.11057
+   },
+   {
+    "q": "2022Q2",
+    "sector": "Autos",
+    "share": 0.03816
+   },
+   {
+    "q": "2022Q2",
+    "sector": "Energy",
+    "share": 0.03969
+   },
+   {
+    "q": "2022Q2",
+    "sector": "Finance",
+    "share": 0.00757
+   },
+   {
+    "q": "2022Q2",
+    "sector": "Healthcare",
+    "share": 0.00219
+   },
+   {
+    "q": "2022Q2",
+    "sector": "Materials",
+    "share": 0.03513
+   },
+   {
+    "q": "2022Q2",
+    "sector": "Supply chain",
+    "share": 0.08661
+   },
+   {
+    "q": "2022Q2",
+    "sector": "Technology",
+    "share": 0.00224
+   },
+   {
+    "q": "2022Q2",
+    "sector": "Utilities",
+    "share": 0.04815
+   },
+   {
+    "q": "2022Q3",
+    "sector": "Autos",
+    "share": 0.03821
+   },
+   {
+    "q": "2022Q3",
+    "sector": "Energy",
+    "share": 0.04375
+   },
+   {
+    "q": "2022Q3",
+    "sector": "Finance",
+    "share": 0.00621
+   },
+   {
+    "q": "2022Q3",
+    "sector": "Healthcare",
+    "share": 0.00338
+   },
+   {
+    "q": "2022Q3",
+    "sector": "Materials",
+    "share": 0.02096
+   },
+   {
+    "q": "2022Q3",
+    "sector": "Real estate",
+    "share": 0.01227
+   },
+   {
+    "q": "2022Q3",
+    "sector": "Technology",
+    "share": 0.00472
+   },
+   {
+    "q": "2022Q3",
+    "sector": "Utilities",
+    "share": 0.0793
+   },
+   {
+    "q": "2022Q4",
+    "sector": "Autos",
+    "share": 0.03073
+   },
+   {
+    "q": "2022Q4",
+    "sector": "Energy",
+    "share": 0.05101
+   },
+   {
+    "q": "2022Q4",
+    "sector": "Finance",
+    "share": 0.00711
+   },
+   {
+    "q": "2022Q4",
+    "sector": "Healthcare",
+    "share": 0.00403
+   },
+   {
+    "q": "2022Q4",
+    "sector": "Materials",
+    "share": 0.02826
+   },
+   {
+    "q": "2022Q4",
+    "sector": "Supply chain",
+    "share": 0.02956
+   },
+   {
+    "q": "2022Q4",
+    "sector": "Technology",
+    "share": 0.00367
+   },
+   {
+    "q": "2022Q4",
+    "sector": "Utilities",
+    "share": 0.11628
+   },
+   {
+    "q": "2023Q1",
+    "sector": "Autos",
+    "share": 0.03597
+   },
+   {
+    "q": "2023Q1",
+    "sector": "Consumer",
+    "share": 0.01225
+   },
+   {
+    "q": "2023Q1",
+    "sector": "Energy",
+    "share": 0.11242
+   },
+   {
+    "q": "2023Q1",
+    "sector": "Finance",
+    "share": 0.00354
+   },
+   {
+    "q": "2023Q1",
+    "sector": "Healthcare",
+    "share": 0.0036
+   },
+   {
+    "q": "2023Q1",
+    "sector": "Materials",
+    "share": 0.05364
+   },
+   {
+    "q": "2023Q1",
+    "sector": "Real estate",
+    "share": 0.00965
+   },
+   {
+    "q": "2023Q1",
+    "sector": "Supply chain",
+    "share": 0.0938
+   },
+   {
+    "q": "2023Q1",
+    "sector": "Technology",
+    "share": 0.00382
+   },
+   {
+    "q": "2023Q1",
+    "sector": "Utilities",
+    "share": 0.1145
+   },
+   {
+    "q": "2023Q2",
+    "sector": "Autos",
+    "share": 0.02424
+   },
+   {
+    "q": "2023Q2",
+    "sector": "Energy",
+    "share": 0.05464
+   },
+   {
+    "q": "2023Q2",
+    "sector": "Finance",
+    "share": 0.00452
+   },
+   {
+    "q": "2023Q2",
+    "sector": "Healthcare",
+    "share": 0.00314
+   },
+   {
+    "q": "2023Q2",
+    "sector": "Materials",
+    "share": 0.03667
+   },
+   {
+    "q": "2023Q2",
+    "sector": "Technology",
+    "share": 0.00276
+   },
+   {
+    "q": "2023Q2",
+    "sector": "Utilities",
+    "share": 0.09828
+   },
+   {
+    "q": "2023Q3",
+    "sector": "Autos",
+    "share": 0.02383
+   },
+   {
+    "q": "2023Q3",
+    "sector": "Energy",
+    "share": 0.03681
+   },
+   {
+    "q": "2023Q3",
+    "sector": "Finance",
+    "share": 0.00572
+   },
+   {
+    "q": "2023Q3",
+    "sector": "Healthcare",
+    "share": 0.00383
+   },
+   {
+    "q": "2023Q3",
+    "sector": "Materials",
+    "share": 0.02791
+   },
+   {
+    "q": "2023Q3",
+    "sector": "Technology",
+    "share": 0.00188
+   },
+   {
+    "q": "2023Q3",
+    "sector": "Utilities",
+    "share": 0.1
+   },
+   {
+    "q": "2023Q4",
+    "sector": "Autos",
+    "share": 0.03461
+   },
+   {
+    "q": "2023Q4",
+    "sector": "Consumer",
+    "share": 0.0098
+   },
+   {
+    "q": "2023Q4",
+    "sector": "Energy",
+    "share": 0.04219
+   },
+   {
+    "q": "2023Q4",
+    "sector": "Finance",
+    "share": 0.00453
+   },
+   {
+    "q": "2023Q4",
+    "sector": "Healthcare",
+    "share": 0.00295
+   },
+   {
+    "q": "2023Q4",
+    "sector": "Materials",
+    "share": 0.03297
+   },
+   {
+    "q": "2023Q4",
+    "sector": "Real estate",
+    "share": 0.01743
+   },
+   {
+    "q": "2023Q4",
+    "sector": "Technology",
+    "share": 0.00313
+   },
+   {
+    "q": "2023Q4",
+    "sector": "Utilities",
+    "share": 0.08602
+   },
+   {
+    "q": "2024Q1",
+    "sector": "Autos",
+    "share": 0.02374
+   },
+   {
+    "q": "2024Q1",
+    "sector": "Consumer",
+    "share": 0.00415
+   },
+   {
+    "q": "2024Q1",
+    "sector": "Energy",
+    "share": 0.09197
+   },
+   {
+    "q": "2024Q1",
+    "sector": "Finance",
+    "share": 0.00228
+   },
+   {
+    "q": "2024Q1",
+    "sector": "Healthcare",
+    "share": 0.00399
+   },
+   {
+    "q": "2024Q1",
+    "sector": "Materials",
+    "share": 0.05547
+   },
+   {
+    "q": "2024Q1",
+    "sector": "Utilities",
+    "share": 0.12416
+   },
+   {
+    "q": "2024Q2",
+    "sector": "Autos",
+    "share": 0.02434
+   },
+   {
+    "q": "2024Q2",
+    "sector": "Energy",
+    "share": 0.04875
+   },
+   {
+    "q": "2024Q2",
+    "sector": "Finance",
+    "share": 0.00337
+   },
+   {
+    "q": "2024Q2",
+    "sector": "Healthcare",
+    "share": 0.00235
+   },
+   {
+    "q": "2024Q2",
+    "sector": "Materials",
+    "share": 0.03292
+   },
+   {
+    "q": "2024Q2",
+    "sector": "Real estate",
+    "share": 0.00599
+   },
+   {
+    "q": "2024Q2",
+    "sector": "Technology",
+    "share": 0.00085
+   },
+   {
+    "q": "2024Q2",
+    "sector": "Utilities",
+    "share": 0.07905
+   },
+   {
+    "q": "2024Q3",
+    "sector": "Autos",
+    "share": 0.01714
+   },
+   {
+    "q": "2024Q3",
+    "sector": "Consumer",
+    "share": 0.00513
+   },
+   {
+    "q": "2024Q3",
+    "sector": "Energy",
+    "share": 0.05415
+   },
+   {
+    "q": "2024Q3",
+    "sector": "Finance",
+    "share": 0.00417
+   },
+   {
+    "q": "2024Q3",
+    "sector": "Healthcare",
+    "share": 0.00283
+   },
+   {
+    "q": "2024Q3",
+    "sector": "Materials",
+    "share": 0.02714
+   },
+   {
+    "q": "2024Q3",
+    "sector": "Technology",
+    "share": 0.00152
+   },
+   {
+    "q": "2024Q3",
+    "sector": "Utilities",
+    "share": 0.10035
+   },
+   {
+    "q": "2024Q4",
+    "sector": "Autos",
+    "share": 0.03166
+   },
+   {
+    "q": "2024Q4",
+    "sector": "Consumer",
+    "share": 0.00876
+   },
+   {
+    "q": "2024Q4",
+    "sector": "Energy",
+    "share": 0.04275
+   },
+   {
+    "q": "2024Q4",
+    "sector": "Finance",
+    "share": 0.00301
+   },
+   {
+    "q": "2024Q4",
+    "sector": "Healthcare",
+    "share": 0.00253
+   },
+   {
+    "q": "2024Q4",
+    "sector": "Materials",
+    "share": 0.02497
+   },
+   {
+    "q": "2024Q4",
+    "sector": "Technology",
+    "share": 0.00069
+   },
+   {
+    "q": "2024Q4",
+    "sector": "Utilities",
+    "share": 0.0894
+   },
+   {
+    "q": "2025Q1",
+    "sector": "Autos",
+    "share": 0.02083
+   },
+   {
+    "q": "2025Q1",
+    "sector": "Energy",
+    "share": 0.10833
+   },
+   {
+    "q": "2025Q1",
+    "sector": "Finance",
+    "share": 0.00287
+   },
+   {
+    "q": "2025Q1",
+    "sector": "Healthcare",
+    "share": 0.00419
+   },
+   {
+    "q": "2025Q1",
+    "sector": "Materials",
+    "share": 0.03865
+   },
+   {
+    "q": "2025Q1",
+    "sector": "Supply chain",
+    "share": 0.09667
+   },
+   {
+    "q": "2025Q1",
+    "sector": "Technology",
+    "share": 0.00258
+   },
+   {
+    "q": "2025Q1",
+    "sector": "Utilities",
+    "share": 0.11214
+   },
+   {
+    "q": "2025Q2",
+    "sector": "Autos",
+    "share": 0.0246
+   },
+   {
+    "q": "2025Q2",
+    "sector": "Consumer",
+    "share": 0.00806
+   },
+   {
+    "q": "2025Q2",
+    "sector": "Energy",
+    "share": 0.0631
+   },
+   {
+    "q": "2025Q2",
+    "sector": "Finance",
+    "share": 0.00292
+   },
+   {
+    "q": "2025Q2",
+    "sector": "Healthcare",
+    "share": 0.00301
+   },
+   {
+    "q": "2025Q2",
+    "sector": "Materials",
+    "share": 0.02887
+   },
+   {
+    "q": "2025Q2",
+    "sector": "Real estate",
+    "share": 0.01332
+   },
+   {
+    "q": "2025Q2",
+    "sector": "Supply chain",
+    "share": 0.05742
+   },
+   {
+    "q": "2025Q2",
+    "sector": "Technology",
+    "share": 0.00099
+   },
+   {
+    "q": "2025Q2",
+    "sector": "Utilities",
+    "share": 0.0842
+   },
+   {
+    "q": "2025Q3",
+    "sector": "Autos",
+    "share": 0.03834
+   },
+   {
+    "q": "2025Q3",
+    "sector": "Consumer",
+    "share": 0.00642
+   },
+   {
+    "q": "2025Q3",
+    "sector": "Energy",
+    "share": 0.04667
+   },
+   {
+    "q": "2025Q3",
+    "sector": "Finance",
+    "share": 0.00568
+   },
+   {
+    "q": "2025Q3",
+    "sector": "Healthcare",
+    "share": 0.00304
+   },
+   {
+    "q": "2025Q3",
+    "sector": "Materials",
+    "share": 0.01677
+   },
+   {
+    "q": "2025Q3",
+    "sector": "Real estate",
+    "share": 0.00758
+   },
+   {
+    "q": "2025Q3",
+    "sector": "Technology",
+    "share": 0.00055
+   },
+   {
+    "q": "2025Q3",
+    "sector": "Utilities",
+    "share": 0.07492
+   },
+   {
+    "q": "2025Q4",
+    "sector": "Autos",
+    "share": 0.03704
+   },
+   {
+    "q": "2025Q4",
+    "sector": "Consumer",
+    "share": 0.02462
+   },
+   {
+    "q": "2025Q4",
+    "sector": "Energy",
+    "share": 0.03526
+   },
+   {
+    "q": "2025Q4",
+    "sector": "Finance",
+    "share": 0.00353
+   },
+   {
+    "q": "2025Q4",
+    "sector": "Healthcare",
+    "share": 0.00201
+   },
+   {
+    "q": "2025Q4",
+    "sector": "Materials",
+    "share": 0.02856
+   },
+   {
+    "q": "2025Q4",
+    "sector": "Real estate",
+    "share": 0.01208
+   },
+   {
+    "q": "2025Q4",
+    "sector": "Technology",
+    "share": 0.00188
+   },
+   {
+    "q": "2025Q4",
+    "sector": "Utilities",
+    "share": 0.10034
+   },
+   {
+    "q": "2026Q1",
+    "sector": "Autos",
+    "share": 0.06977
+   },
+   {
+    "q": "2026Q1",
+    "sector": "Energy",
+    "share": 0.09699
+   },
+   {
+    "q": "2026Q1",
+    "sector": "Finance",
+    "share": 0.00207
+   },
+   {
+    "q": "2026Q1",
+    "sector": "Healthcare",
+    "share": 0.00295
+   },
+   {
+    "q": "2026Q1",
+    "sector": "Materials",
+    "share": 0.03951
+   },
+   {
+    "q": "2026Q1",
+    "sector": "Supply chain",
+    "share": 0.05777
+   },
+   {
+    "q": "2026Q1",
+    "sector": "Utilities",
+    "share": 0.11061
+   },
+   {
+    "q": "2026Q2",
+    "sector": "Autos",
+    "share": 0.04152
+   },
+   {
+    "q": "2026Q2",
+    "sector": "Energy",
+    "share": 0.05724
+   },
+   {
+    "q": "2026Q2",
+    "sector": "Finance",
+    "share": 0.00332
+   },
+   {
+    "q": "2026Q2",
+    "sector": "Healthcare",
+    "share": 0.00285
+   },
+   {
+    "q": "2026Q2",
+    "sector": "Materials",
+    "share": 0.0431
+   },
+   {
+    "q": "2026Q2",
+    "sector": "Supply chain",
+    "share": 0.04353
+   },
+   {
+    "q": "2026Q2",
+    "sector": "Technology",
+    "share": 0.00354
+   },
+   {
+    "q": "2026Q2",
+    "sector": "Utilities",
+    "share": 0.06815
+   },
+   {
+    "q": "2026Q3",
+    "sector": "Autos",
+    "share": 0.0473
+   },
+   {
+    "q": "2026Q3",
+    "sector": "Energy",
+    "share": 0.03556
+   },
+   {
+    "q": "2026Q3",
+    "sector": "Finance",
+    "share": 0.00469
+   },
+   {
+    "q": "2026Q3",
+    "sector": "Healthcare",
+    "share": 0.00364
+   },
+   {
+    "q": "2026Q3",
+    "sector": "Materials",
+    "share": 0.02195
+   },
+   {
+    "q": "2026Q3",
+    "sector": "Supply chain",
+    "share": 0.01818
+   },
+   {
+    "q": "2026Q3",
+    "sector": "Technology",
+    "share": 0.00273
+   },
+   {
+    "q": "2026Q3",
+    "sector": "Utilities",
+    "share": 0.07073
+   }
+  ],
   "joint venture": [
    {
     "q": "2016Q1",
@@ -19395,1808 +21192,6 @@
     "q": "2026Q3",
     "sector": "Utilities",
     "share": 0.32927
-   }
-  ],
-  "clean air": [
-   {
-    "q": "2016Q1",
-    "sector": "Autos",
-    "share": 0.015
-   },
-   {
-    "q": "2016Q1",
-    "sector": "Consumer",
-    "share": 0.01522
-   },
-   {
-    "q": "2016Q1",
-    "sector": "Energy",
-    "share": 0.10334
-   },
-   {
-    "q": "2016Q1",
-    "sector": "Finance",
-    "share": 0.00583
-   },
-   {
-    "q": "2016Q1",
-    "sector": "Healthcare",
-    "share": 0.00232
-   },
-   {
-    "q": "2016Q1",
-    "sector": "Materials",
-    "share": 0.06071
-   },
-   {
-    "q": "2016Q1",
-    "sector": "Real estate",
-    "share": 0.01207
-   },
-   {
-    "q": "2016Q1",
-    "sector": "Utilities",
-    "share": 0.14197
-   },
-   {
-    "q": "2016Q2",
-    "sector": "Autos",
-    "share": 0.04448
-   },
-   {
-    "q": "2016Q2",
-    "sector": "Consumer",
-    "share": 0.02122
-   },
-   {
-    "q": "2016Q2",
-    "sector": "Energy",
-    "share": 0.05784
-   },
-   {
-    "q": "2016Q2",
-    "sector": "Finance",
-    "share": 0.00828
-   },
-   {
-    "q": "2016Q2",
-    "sector": "Healthcare",
-    "share": 0.00224
-   },
-   {
-    "q": "2016Q2",
-    "sector": "Materials",
-    "share": 0.03053
-   },
-   {
-    "q": "2016Q2",
-    "sector": "Real estate",
-    "share": 0.01836
-   },
-   {
-    "q": "2016Q2",
-    "sector": "Supply chain",
-    "share": 0.07731
-   },
-   {
-    "q": "2016Q2",
-    "sector": "Technology",
-    "share": 0.00135
-   },
-   {
-    "q": "2016Q2",
-    "sector": "Utilities",
-    "share": 0.09867
-   },
-   {
-    "q": "2016Q3",
-    "sector": "Autos",
-    "share": 0.05044
-   },
-   {
-    "q": "2016Q3",
-    "sector": "Consumer",
-    "share": 0.01399
-   },
-   {
-    "q": "2016Q3",
-    "sector": "Energy",
-    "share": 0.06053
-   },
-   {
-    "q": "2016Q3",
-    "sector": "Finance",
-    "share": 0.01155
-   },
-   {
-    "q": "2016Q3",
-    "sector": "Healthcare",
-    "share": 0.00177
-   },
-   {
-    "q": "2016Q3",
-    "sector": "Materials",
-    "share": 0.03699
-   },
-   {
-    "q": "2016Q3",
-    "sector": "Real estate",
-    "share": 0.01707
-   },
-   {
-    "q": "2016Q3",
-    "sector": "Technology",
-    "share": 0.00157
-   },
-   {
-    "q": "2016Q3",
-    "sector": "Utilities",
-    "share": 0.09984
-   },
-   {
-    "q": "2016Q4",
-    "sector": "Autos",
-    "share": 0.02904
-   },
-   {
-    "q": "2016Q4",
-    "sector": "Energy",
-    "share": 0.06659
-   },
-   {
-    "q": "2016Q4",
-    "sector": "Finance",
-    "share": 0.01107
-   },
-   {
-    "q": "2016Q4",
-    "sector": "Healthcare",
-    "share": 0.00307
-   },
-   {
-    "q": "2016Q4",
-    "sector": "Materials",
-    "share": 0.03574
-   },
-   {
-    "q": "2016Q4",
-    "sector": "Real estate",
-    "share": 0.01519
-   },
-   {
-    "q": "2016Q4",
-    "sector": "Supply chain",
-    "share": 0.03077
-   },
-   {
-    "q": "2016Q4",
-    "sector": "Technology",
-    "share": 0.00339
-   },
-   {
-    "q": "2016Q4",
-    "sector": "Utilities",
-    "share": 0.0977
-   },
-   {
-    "q": "2017Q1",
-    "sector": "Autos",
-    "share": 0.07891
-   },
-   {
-    "q": "2017Q1",
-    "sector": "Consumer",
-    "share": 0.0075
-   },
-   {
-    "q": "2017Q1",
-    "sector": "Energy",
-    "share": 0.1145
-   },
-   {
-    "q": "2017Q1",
-    "sector": "Finance",
-    "share": 0.00487
-   },
-   {
-    "q": "2017Q1",
-    "sector": "Healthcare",
-    "share": 0.00346
-   },
-   {
-    "q": "2017Q1",
-    "sector": "Materials",
-    "share": 0.05863
-   },
-   {
-    "q": "2017Q1",
-    "sector": "Supply chain",
-    "share": 0.06743
-   },
-   {
-    "q": "2017Q1",
-    "sector": "Utilities",
-    "share": 0.13852
-   },
-   {
-    "q": "2017Q2",
-    "sector": "Energy",
-    "share": 0.05663
-   },
-   {
-    "q": "2017Q2",
-    "sector": "Finance",
-    "share": 0.00803
-   },
-   {
-    "q": "2017Q2",
-    "sector": "Healthcare",
-    "share": 0.00085
-   },
-   {
-    "q": "2017Q2",
-    "sector": "Materials",
-    "share": 0.01976
-   },
-   {
-    "q": "2017Q2",
-    "sector": "Real estate",
-    "share": 0.00791
-   },
-   {
-    "q": "2017Q2",
-    "sector": "Supply chain",
-    "share": 0.05077
-   },
-   {
-    "q": "2017Q2",
-    "sector": "Utilities",
-    "share": 0.11943
-   },
-   {
-    "q": "2017Q3",
-    "sector": "Consumer",
-    "share": 0.0069
-   },
-   {
-    "q": "2017Q3",
-    "sector": "Energy",
-    "share": 0.08762
-   },
-   {
-    "q": "2017Q3",
-    "sector": "Finance",
-    "share": 0.01419
-   },
-   {
-    "q": "2017Q3",
-    "sector": "Healthcare",
-    "share": 0.0013
-   },
-   {
-    "q": "2017Q3",
-    "sector": "Materials",
-    "share": 0.02354
-   },
-   {
-    "q": "2017Q3",
-    "sector": "Real estate",
-    "share": 0.0362
-   },
-   {
-    "q": "2017Q3",
-    "sector": "Technology",
-    "share": 0.00187
-   },
-   {
-    "q": "2017Q3",
-    "sector": "Utilities",
-    "share": 0.10513
-   },
-   {
-    "q": "2017Q4",
-    "sector": "Autos",
-    "share": 0.0377
-   },
-   {
-    "q": "2017Q4",
-    "sector": "Consumer",
-    "share": 0.03556
-   },
-   {
-    "q": "2017Q4",
-    "sector": "Energy",
-    "share": 0.05888
-   },
-   {
-    "q": "2017Q4",
-    "sector": "Finance",
-    "share": 0.00723
-   },
-   {
-    "q": "2017Q4",
-    "sector": "Healthcare",
-    "share": 0.00234
-   },
-   {
-    "q": "2017Q4",
-    "sector": "Materials",
-    "share": 0.02889
-   },
-   {
-    "q": "2017Q4",
-    "sector": "Real estate",
-    "share": 0.01084
-   },
-   {
-    "q": "2017Q4",
-    "sector": "Supply chain",
-    "share": 0.02326
-   },
-   {
-    "q": "2017Q4",
-    "sector": "Utilities",
-    "share": 0.10645
-   },
-   {
-    "q": "2018Q1",
-    "sector": "Autos",
-    "share": 0.05024
-   },
-   {
-    "q": "2018Q1",
-    "sector": "Consumer",
-    "share": 0.01044
-   },
-   {
-    "q": "2018Q1",
-    "sector": "Energy",
-    "share": 0.09644
-   },
-   {
-    "q": "2018Q1",
-    "sector": "Finance",
-    "share": 0.00581
-   },
-   {
-    "q": "2018Q1",
-    "sector": "Healthcare",
-    "share": 0.00132
-   },
-   {
-    "q": "2018Q1",
-    "sector": "Materials",
-    "share": 0.04918
-   },
-   {
-    "q": "2018Q1",
-    "sector": "Real estate",
-    "share": 0.01896
-   },
-   {
-    "q": "2018Q1",
-    "sector": "Technology",
-    "share": 0.00234
-   },
-   {
-    "q": "2018Q1",
-    "sector": "Utilities",
-    "share": 0.11089
-   },
-   {
-    "q": "2018Q2",
-    "sector": "Autos",
-    "share": 0.06504
-   },
-   {
-    "q": "2018Q2",
-    "sector": "Consumer",
-    "share": 0.00635
-   },
-   {
-    "q": "2018Q2",
-    "sector": "Energy",
-    "share": 0.05089
-   },
-   {
-    "q": "2018Q2",
-    "sector": "Finance",
-    "share": 0.00732
-   },
-   {
-    "q": "2018Q2",
-    "sector": "Healthcare",
-    "share": 0.00147
-   },
-   {
-    "q": "2018Q2",
-    "sector": "Materials",
-    "share": 0.03724
-   },
-   {
-    "q": "2018Q2",
-    "sector": "Real estate",
-    "share": 0.00773
-   },
-   {
-    "q": "2018Q2",
-    "sector": "Supply chain",
-    "share": 0.06126
-   },
-   {
-    "q": "2018Q2",
-    "sector": "Technology",
-    "share": 0.00137
-   },
-   {
-    "q": "2018Q2",
-    "sector": "Utilities",
-    "share": 0.08255
-   },
-   {
-    "q": "2018Q3",
-    "sector": "Autos",
-    "share": 0.04134
-   },
-   {
-    "q": "2018Q3",
-    "sector": "Consumer",
-    "share": 0.02135
-   },
-   {
-    "q": "2018Q3",
-    "sector": "Energy",
-    "share": 0.05526
-   },
-   {
-    "q": "2018Q3",
-    "sector": "Finance",
-    "share": 0.00961
-   },
-   {
-    "q": "2018Q3",
-    "sector": "Healthcare",
-    "share": 0.00444
-   },
-   {
-    "q": "2018Q3",
-    "sector": "Materials",
-    "share": 0.01711
-   },
-   {
-    "q": "2018Q3",
-    "sector": "Technology",
-    "share": 0.00376
-   },
-   {
-    "q": "2018Q3",
-    "sector": "Utilities",
-    "share": 0.11287
-   },
-   {
-    "q": "2018Q4",
-    "sector": "Autos",
-    "share": 0.03212
-   },
-   {
-    "q": "2018Q4",
-    "sector": "Consumer",
-    "share": 0.01708
-   },
-   {
-    "q": "2018Q4",
-    "sector": "Energy",
-    "share": 0.04461
-   },
-   {
-    "q": "2018Q4",
-    "sector": "Finance",
-    "share": 0.01008
-   },
-   {
-    "q": "2018Q4",
-    "sector": "Healthcare",
-    "share": 0.00416
-   },
-   {
-    "q": "2018Q4",
-    "sector": "Materials",
-    "share": 0.02203
-   },
-   {
-    "q": "2018Q4",
-    "sector": "Real estate",
-    "share": 0.01227
-   },
-   {
-    "q": "2018Q4",
-    "sector": "Supply chain",
-    "share": 0.032
-   },
-   {
-    "q": "2018Q4",
-    "sector": "Technology",
-    "share": 0.00209
-   },
-   {
-    "q": "2018Q4",
-    "sector": "Utilities",
-    "share": 0.13014
-   },
-   {
-    "q": "2019Q1",
-    "sector": "Autos",
-    "share": 0.03333
-   },
-   {
-    "q": "2019Q1",
-    "sector": "Energy",
-    "share": 0.09126
-   },
-   {
-    "q": "2019Q1",
-    "sector": "Finance",
-    "share": 0.00507
-   },
-   {
-    "q": "2019Q1",
-    "sector": "Healthcare",
-    "share": 0.00452
-   },
-   {
-    "q": "2019Q1",
-    "sector": "Materials",
-    "share": 0.04131
-   },
-   {
-    "q": "2019Q1",
-    "sector": "Utilities",
-    "share": 0.1314
-   },
-   {
-    "q": "2019Q2",
-    "sector": "Autos",
-    "share": 0.0256
-   },
-   {
-    "q": "2019Q2",
-    "sector": "Consumer",
-    "share": 0.02187
-   },
-   {
-    "q": "2019Q2",
-    "sector": "Energy",
-    "share": 0.03183
-   },
-   {
-    "q": "2019Q2",
-    "sector": "Finance",
-    "share": 0.00549
-   },
-   {
-    "q": "2019Q2",
-    "sector": "Healthcare",
-    "share": 0.0038
-   },
-   {
-    "q": "2019Q2",
-    "sector": "Materials",
-    "share": 0.02928
-   },
-   {
-    "q": "2019Q2",
-    "sector": "Real estate",
-    "share": 0.02737
-   },
-   {
-    "q": "2019Q2",
-    "sector": "Technology",
-    "share": 0.0031
-   },
-   {
-    "q": "2019Q2",
-    "sector": "Utilities",
-    "share": 0.0705
-   },
-   {
-    "q": "2019Q3",
-    "sector": "Consumer",
-    "share": 0.01333
-   },
-   {
-    "q": "2019Q3",
-    "sector": "Energy",
-    "share": 0.02966
-   },
-   {
-    "q": "2019Q3",
-    "sector": "Finance",
-    "share": 0.01121
-   },
-   {
-    "q": "2019Q3",
-    "sector": "Healthcare",
-    "share": 0.00333
-   },
-   {
-    "q": "2019Q3",
-    "sector": "Materials",
-    "share": 0.03405
-   },
-   {
-    "q": "2019Q3",
-    "sector": "Real estate",
-    "share": 0.00952
-   },
-   {
-    "q": "2019Q3",
-    "sector": "Supply chain",
-    "share": 0.02262
-   },
-   {
-    "q": "2019Q3",
-    "sector": "Technology",
-    "share": 0.00127
-   },
-   {
-    "q": "2019Q3",
-    "sector": "Utilities",
-    "share": 0.09546
-   },
-   {
-    "q": "2019Q4",
-    "sector": "Autos",
-    "share": 0.03472
-   },
-   {
-    "q": "2019Q4",
-    "sector": "Consumer",
-    "share": 0.02748
-   },
-   {
-    "q": "2019Q4",
-    "sector": "Energy",
-    "share": 0.03442
-   },
-   {
-    "q": "2019Q4",
-    "sector": "Finance",
-    "share": 0.01194
-   },
-   {
-    "q": "2019Q4",
-    "sector": "Healthcare",
-    "share": 0.0026
-   },
-   {
-    "q": "2019Q4",
-    "sector": "Materials",
-    "share": 0.01367
-   },
-   {
-    "q": "2019Q4",
-    "sector": "Real estate",
-    "share": 0.01015
-   },
-   {
-    "q": "2019Q4",
-    "sector": "Supply chain",
-    "share": 0.01256
-   },
-   {
-    "q": "2019Q4",
-    "sector": "Technology",
-    "share": 0.00137
-   },
-   {
-    "q": "2019Q4",
-    "sector": "Utilities",
-    "share": 0.08051
-   },
-   {
-    "q": "2020Q1",
-    "sector": "Autos",
-    "share": 0.05655
-   },
-   {
-    "q": "2020Q1",
-    "sector": "Energy",
-    "share": 0.09004
-   },
-   {
-    "q": "2020Q1",
-    "sector": "Finance",
-    "share": 0.00475
-   },
-   {
-    "q": "2020Q1",
-    "sector": "Healthcare",
-    "share": 0.00169
-   },
-   {
-    "q": "2020Q1",
-    "sector": "Materials",
-    "share": 0.04604
-   },
-   {
-    "q": "2020Q1",
-    "sector": "Real estate",
-    "share": 0.01088
-   },
-   {
-    "q": "2020Q1",
-    "sector": "Technology",
-    "share": 0.00294
-   },
-   {
-    "q": "2020Q1",
-    "sector": "Utilities",
-    "share": 0.07784
-   },
-   {
-    "q": "2020Q2",
-    "sector": "Autos",
-    "share": 0.02572
-   },
-   {
-    "q": "2020Q2",
-    "sector": "Consumer",
-    "share": 0.02423
-   },
-   {
-    "q": "2020Q2",
-    "sector": "Energy",
-    "share": 0.02996
-   },
-   {
-    "q": "2020Q2",
-    "sector": "Finance",
-    "share": 0.00493
-   },
-   {
-    "q": "2020Q2",
-    "sector": "Healthcare",
-    "share": 0.00043
-   },
-   {
-    "q": "2020Q2",
-    "sector": "Materials",
-    "share": 0.02857
-   },
-   {
-    "q": "2020Q2",
-    "sector": "Supply chain",
-    "share": 0.05772
-   },
-   {
-    "q": "2020Q2",
-    "sector": "Technology",
-    "share": 0.0018
-   },
-   {
-    "q": "2020Q2",
-    "sector": "Utilities",
-    "share": 0.05927
-   },
-   {
-    "q": "2020Q3",
-    "sector": "Consumer",
-    "share": 0.00771
-   },
-   {
-    "q": "2020Q3",
-    "sector": "Energy",
-    "share": 0.0277
-   },
-   {
-    "q": "2020Q3",
-    "sector": "Finance",
-    "share": 0.00695
-   },
-   {
-    "q": "2020Q3",
-    "sector": "Healthcare",
-    "share": 0.00234
-   },
-   {
-    "q": "2020Q3",
-    "sector": "Materials",
-    "share": 0.02201
-   },
-   {
-    "q": "2020Q3",
-    "sector": "Real estate",
-    "share": 0.01114
-   },
-   {
-    "q": "2020Q3",
-    "sector": "Technology",
-    "share": 0.00131
-   },
-   {
-    "q": "2020Q3",
-    "sector": "Utilities",
-    "share": 0.06785
-   },
-   {
-    "q": "2020Q4",
-    "sector": "Autos",
-    "share": 0.05295
-   },
-   {
-    "q": "2020Q4",
-    "sector": "Consumer",
-    "share": 0.0172
-   },
-   {
-    "q": "2020Q4",
-    "sector": "Energy",
-    "share": 0.04887
-   },
-   {
-    "q": "2020Q4",
-    "sector": "Finance",
-    "share": 0.00618
-   },
-   {
-    "q": "2020Q4",
-    "sector": "Healthcare",
-    "share": 0.00296
-   },
-   {
-    "q": "2020Q4",
-    "sector": "Materials",
-    "share": 0.02082
-   },
-   {
-    "q": "2020Q4",
-    "sector": "Technology",
-    "share": 0.00329
-   },
-   {
-    "q": "2020Q4",
-    "sector": "Utilities",
-    "share": 0.10209
-   },
-   {
-    "q": "2021Q1",
-    "sector": "Autos",
-    "share": 0.083
-   },
-   {
-    "q": "2021Q1",
-    "sector": "Energy",
-    "share": 0.09597
-   },
-   {
-    "q": "2021Q1",
-    "sector": "Finance",
-    "share": 0.00328
-   },
-   {
-    "q": "2021Q1",
-    "sector": "Healthcare",
-    "share": 0.00296
-   },
-   {
-    "q": "2021Q1",
-    "sector": "Materials",
-    "share": 0.02589
-   },
-   {
-    "q": "2021Q1",
-    "sector": "Real estate",
-    "share": 0.01204
-   },
-   {
-    "q": "2021Q1",
-    "sector": "Supply chain",
-    "share": 0.0918
-   },
-   {
-    "q": "2021Q1",
-    "sector": "Technology",
-    "share": 0.00394
-   },
-   {
-    "q": "2021Q1",
-    "sector": "Utilities",
-    "share": 0.1022
-   },
-   {
-    "q": "2021Q2",
-    "sector": "Autos",
-    "share": 0.02776
-   },
-   {
-    "q": "2021Q2",
-    "sector": "Consumer",
-    "share": 0.01007
-   },
-   {
-    "q": "2021Q2",
-    "sector": "Energy",
-    "share": 0.03371
-   },
-   {
-    "q": "2021Q2",
-    "sector": "Finance",
-    "share": 0.00696
-   },
-   {
-    "q": "2021Q2",
-    "sector": "Healthcare",
-    "share": 0.00202
-   },
-   {
-    "q": "2021Q2",
-    "sector": "Materials",
-    "share": 0.02493
-   },
-   {
-    "q": "2021Q2",
-    "sector": "Technology",
-    "share": 0.00228
-   },
-   {
-    "q": "2021Q2",
-    "sector": "Utilities",
-    "share": 0.07209
-   },
-   {
-    "q": "2021Q3",
-    "sector": "Autos",
-    "share": 0.04534
-   },
-   {
-    "q": "2021Q3",
-    "sector": "Consumer",
-    "share": 0.02025
-   },
-   {
-    "q": "2021Q3",
-    "sector": "Energy",
-    "share": 0.03422
-   },
-   {
-    "q": "2021Q3",
-    "sector": "Finance",
-    "share": 0.00697
-   },
-   {
-    "q": "2021Q3",
-    "sector": "Healthcare",
-    "share": 0.00332
-   },
-   {
-    "q": "2021Q3",
-    "sector": "Materials",
-    "share": 0.0155
-   },
-   {
-    "q": "2021Q3",
-    "sector": "Technology",
-    "share": 0.00834
-   },
-   {
-    "q": "2021Q3",
-    "sector": "Utilities",
-    "share": 0.07303
-   },
-   {
-    "q": "2021Q4",
-    "sector": "Autos",
-    "share": 0.03086
-   },
-   {
-    "q": "2021Q4",
-    "sector": "Energy",
-    "share": 0.04545
-   },
-   {
-    "q": "2021Q4",
-    "sector": "Finance",
-    "share": 0.00557
-   },
-   {
-    "q": "2021Q4",
-    "sector": "Healthcare",
-    "share": 0.00404
-   },
-   {
-    "q": "2021Q4",
-    "sector": "Materials",
-    "share": 0.0213
-   },
-   {
-    "q": "2021Q4",
-    "sector": "Real estate",
-    "share": 0.01019
-   },
-   {
-    "q": "2021Q4",
-    "sector": "Technology",
-    "share": 0.00805
-   },
-   {
-    "q": "2021Q4",
-    "sector": "Utilities",
-    "share": 0.06956
-   },
-   {
-    "q": "2022Q1",
-    "sector": "Autos",
-    "share": 0.04201
-   },
-   {
-    "q": "2022Q1",
-    "sector": "Energy",
-    "share": 0.09256
-   },
-   {
-    "q": "2022Q1",
-    "sector": "Finance",
-    "share": 0.00402
-   },
-   {
-    "q": "2022Q1",
-    "sector": "Healthcare",
-    "share": 0.0029
-   },
-   {
-    "q": "2022Q1",
-    "sector": "Materials",
-    "share": 0.04123
-   },
-   {
-    "q": "2022Q1",
-    "sector": "Real estate",
-    "share": 0.01533
-   },
-   {
-    "q": "2022Q1",
-    "sector": "Technology",
-    "share": 0.00384
-   },
-   {
-    "q": "2022Q1",
-    "sector": "Utilities",
-    "share": 0.11057
-   },
-   {
-    "q": "2022Q2",
-    "sector": "Autos",
-    "share": 0.03816
-   },
-   {
-    "q": "2022Q2",
-    "sector": "Energy",
-    "share": 0.03969
-   },
-   {
-    "q": "2022Q2",
-    "sector": "Finance",
-    "share": 0.00757
-   },
-   {
-    "q": "2022Q2",
-    "sector": "Healthcare",
-    "share": 0.00219
-   },
-   {
-    "q": "2022Q2",
-    "sector": "Materials",
-    "share": 0.03513
-   },
-   {
-    "q": "2022Q2",
-    "sector": "Supply chain",
-    "share": 0.08661
-   },
-   {
-    "q": "2022Q2",
-    "sector": "Technology",
-    "share": 0.00224
-   },
-   {
-    "q": "2022Q2",
-    "sector": "Utilities",
-    "share": 0.04815
-   },
-   {
-    "q": "2022Q3",
-    "sector": "Autos",
-    "share": 0.03821
-   },
-   {
-    "q": "2022Q3",
-    "sector": "Energy",
-    "share": 0.04375
-   },
-   {
-    "q": "2022Q3",
-    "sector": "Finance",
-    "share": 0.00621
-   },
-   {
-    "q": "2022Q3",
-    "sector": "Healthcare",
-    "share": 0.00338
-   },
-   {
-    "q": "2022Q3",
-    "sector": "Materials",
-    "share": 0.02096
-   },
-   {
-    "q": "2022Q3",
-    "sector": "Real estate",
-    "share": 0.01227
-   },
-   {
-    "q": "2022Q3",
-    "sector": "Technology",
-    "share": 0.00472
-   },
-   {
-    "q": "2022Q3",
-    "sector": "Utilities",
-    "share": 0.0793
-   },
-   {
-    "q": "2022Q4",
-    "sector": "Autos",
-    "share": 0.03073
-   },
-   {
-    "q": "2022Q4",
-    "sector": "Energy",
-    "share": 0.05101
-   },
-   {
-    "q": "2022Q4",
-    "sector": "Finance",
-    "share": 0.00711
-   },
-   {
-    "q": "2022Q4",
-    "sector": "Healthcare",
-    "share": 0.00403
-   },
-   {
-    "q": "2022Q4",
-    "sector": "Materials",
-    "share": 0.02826
-   },
-   {
-    "q": "2022Q4",
-    "sector": "Supply chain",
-    "share": 0.02956
-   },
-   {
-    "q": "2022Q4",
-    "sector": "Technology",
-    "share": 0.00367
-   },
-   {
-    "q": "2022Q4",
-    "sector": "Utilities",
-    "share": 0.11628
-   },
-   {
-    "q": "2023Q1",
-    "sector": "Autos",
-    "share": 0.03597
-   },
-   {
-    "q": "2023Q1",
-    "sector": "Consumer",
-    "share": 0.01225
-   },
-   {
-    "q": "2023Q1",
-    "sector": "Energy",
-    "share": 0.11242
-   },
-   {
-    "q": "2023Q1",
-    "sector": "Finance",
-    "share": 0.00354
-   },
-   {
-    "q": "2023Q1",
-    "sector": "Healthcare",
-    "share": 0.0036
-   },
-   {
-    "q": "2023Q1",
-    "sector": "Materials",
-    "share": 0.05364
-   },
-   {
-    "q": "2023Q1",
-    "sector": "Real estate",
-    "share": 0.00965
-   },
-   {
-    "q": "2023Q1",
-    "sector": "Supply chain",
-    "share": 0.0938
-   },
-   {
-    "q": "2023Q1",
-    "sector": "Technology",
-    "share": 0.00382
-   },
-   {
-    "q": "2023Q1",
-    "sector": "Utilities",
-    "share": 0.1145
-   },
-   {
-    "q": "2023Q2",
-    "sector": "Autos",
-    "share": 0.02424
-   },
-   {
-    "q": "2023Q2",
-    "sector": "Energy",
-    "share": 0.05464
-   },
-   {
-    "q": "2023Q2",
-    "sector": "Finance",
-    "share": 0.00452
-   },
-   {
-    "q": "2023Q2",
-    "sector": "Healthcare",
-    "share": 0.00314
-   },
-   {
-    "q": "2023Q2",
-    "sector": "Materials",
-    "share": 0.03667
-   },
-   {
-    "q": "2023Q2",
-    "sector": "Technology",
-    "share": 0.00276
-   },
-   {
-    "q": "2023Q2",
-    "sector": "Utilities",
-    "share": 0.09828
-   },
-   {
-    "q": "2023Q3",
-    "sector": "Autos",
-    "share": 0.02383
-   },
-   {
-    "q": "2023Q3",
-    "sector": "Energy",
-    "share": 0.03681
-   },
-   {
-    "q": "2023Q3",
-    "sector": "Finance",
-    "share": 0.00572
-   },
-   {
-    "q": "2023Q3",
-    "sector": "Healthcare",
-    "share": 0.00383
-   },
-   {
-    "q": "2023Q3",
-    "sector": "Materials",
-    "share": 0.02791
-   },
-   {
-    "q": "2023Q3",
-    "sector": "Technology",
-    "share": 0.00188
-   },
-   {
-    "q": "2023Q3",
-    "sector": "Utilities",
-    "share": 0.1
-   },
-   {
-    "q": "2023Q4",
-    "sector": "Autos",
-    "share": 0.03461
-   },
-   {
-    "q": "2023Q4",
-    "sector": "Consumer",
-    "share": 0.0098
-   },
-   {
-    "q": "2023Q4",
-    "sector": "Energy",
-    "share": 0.04219
-   },
-   {
-    "q": "2023Q4",
-    "sector": "Finance",
-    "share": 0.00453
-   },
-   {
-    "q": "2023Q4",
-    "sector": "Healthcare",
-    "share": 0.00295
-   },
-   {
-    "q": "2023Q4",
-    "sector": "Materials",
-    "share": 0.03297
-   },
-   {
-    "q": "2023Q4",
-    "sector": "Real estate",
-    "share": 0.01743
-   },
-   {
-    "q": "2023Q4",
-    "sector": "Technology",
-    "share": 0.00313
-   },
-   {
-    "q": "2023Q4",
-    "sector": "Utilities",
-    "share": 0.08602
-   },
-   {
-    "q": "2024Q1",
-    "sector": "Autos",
-    "share": 0.02374
-   },
-   {
-    "q": "2024Q1",
-    "sector": "Consumer",
-    "share": 0.00415
-   },
-   {
-    "q": "2024Q1",
-    "sector": "Energy",
-    "share": 0.09197
-   },
-   {
-    "q": "2024Q1",
-    "sector": "Finance",
-    "share": 0.00228
-   },
-   {
-    "q": "2024Q1",
-    "sector": "Healthcare",
-    "share": 0.00399
-   },
-   {
-    "q": "2024Q1",
-    "sector": "Materials",
-    "share": 0.05547
-   },
-   {
-    "q": "2024Q1",
-    "sector": "Utilities",
-    "share": 0.12416
-   },
-   {
-    "q": "2024Q2",
-    "sector": "Autos",
-    "share": 0.02434
-   },
-   {
-    "q": "2024Q2",
-    "sector": "Energy",
-    "share": 0.04875
-   },
-   {
-    "q": "2024Q2",
-    "sector": "Finance",
-    "share": 0.00337
-   },
-   {
-    "q": "2024Q2",
-    "sector": "Healthcare",
-    "share": 0.00235
-   },
-   {
-    "q": "2024Q2",
-    "sector": "Materials",
-    "share": 0.03292
-   },
-   {
-    "q": "2024Q2",
-    "sector": "Real estate",
-    "share": 0.00599
-   },
-   {
-    "q": "2024Q2",
-    "sector": "Technology",
-    "share": 0.00085
-   },
-   {
-    "q": "2024Q2",
-    "sector": "Utilities",
-    "share": 0.07905
-   },
-   {
-    "q": "2024Q3",
-    "sector": "Autos",
-    "share": 0.01714
-   },
-   {
-    "q": "2024Q3",
-    "sector": "Consumer",
-    "share": 0.00513
-   },
-   {
-    "q": "2024Q3",
-    "sector": "Energy",
-    "share": 0.05415
-   },
-   {
-    "q": "2024Q3",
-    "sector": "Finance",
-    "share": 0.00417
-   },
-   {
-    "q": "2024Q3",
-    "sector": "Healthcare",
-    "share": 0.00283
-   },
-   {
-    "q": "2024Q3",
-    "sector": "Materials",
-    "share": 0.02714
-   },
-   {
-    "q": "2024Q3",
-    "sector": "Technology",
-    "share": 0.00152
-   },
-   {
-    "q": "2024Q3",
-    "sector": "Utilities",
-    "share": 0.10035
-   },
-   {
-    "q": "2024Q4",
-    "sector": "Autos",
-    "share": 0.03166
-   },
-   {
-    "q": "2024Q4",
-    "sector": "Consumer",
-    "share": 0.00876
-   },
-   {
-    "q": "2024Q4",
-    "sector": "Energy",
-    "share": 0.04275
-   },
-   {
-    "q": "2024Q4",
-    "sector": "Finance",
-    "share": 0.00301
-   },
-   {
-    "q": "2024Q4",
-    "sector": "Healthcare",
-    "share": 0.00253
-   },
-   {
-    "q": "2024Q4",
-    "sector": "Materials",
-    "share": 0.02497
-   },
-   {
-    "q": "2024Q4",
-    "sector": "Technology",
-    "share": 0.00069
-   },
-   {
-    "q": "2024Q4",
-    "sector": "Utilities",
-    "share": 0.0894
-   },
-   {
-    "q": "2025Q1",
-    "sector": "Autos",
-    "share": 0.02083
-   },
-   {
-    "q": "2025Q1",
-    "sector": "Energy",
-    "share": 0.10833
-   },
-   {
-    "q": "2025Q1",
-    "sector": "Finance",
-    "share": 0.00287
-   },
-   {
-    "q": "2025Q1",
-    "sector": "Healthcare",
-    "share": 0.00419
-   },
-   {
-    "q": "2025Q1",
-    "sector": "Materials",
-    "share": 0.03865
-   },
-   {
-    "q": "2025Q1",
-    "sector": "Supply chain",
-    "share": 0.09667
-   },
-   {
-    "q": "2025Q1",
-    "sector": "Technology",
-    "share": 0.00258
-   },
-   {
-    "q": "2025Q1",
-    "sector": "Utilities",
-    "share": 0.11214
-   },
-   {
-    "q": "2025Q2",
-    "sector": "Autos",
-    "share": 0.0246
-   },
-   {
-    "q": "2025Q2",
-    "sector": "Consumer",
-    "share": 0.00806
-   },
-   {
-    "q": "2025Q2",
-    "sector": "Energy",
-    "share": 0.0631
-   },
-   {
-    "q": "2025Q2",
-    "sector": "Finance",
-    "share": 0.00292
-   },
-   {
-    "q": "2025Q2",
-    "sector": "Healthcare",
-    "share": 0.00301
-   },
-   {
-    "q": "2025Q2",
-    "sector": "Materials",
-    "share": 0.02887
-   },
-   {
-    "q": "2025Q2",
-    "sector": "Real estate",
-    "share": 0.01332
-   },
-   {
-    "q": "2025Q2",
-    "sector": "Supply chain",
-    "share": 0.05742
-   },
-   {
-    "q": "2025Q2",
-    "sector": "Technology",
-    "share": 0.00099
-   },
-   {
-    "q": "2025Q2",
-    "sector": "Utilities",
-    "share": 0.0842
-   },
-   {
-    "q": "2025Q3",
-    "sector": "Autos",
-    "share": 0.03834
-   },
-   {
-    "q": "2025Q3",
-    "sector": "Consumer",
-    "share": 0.00642
-   },
-   {
-    "q": "2025Q3",
-    "sector": "Energy",
-    "share": 0.04667
-   },
-   {
-    "q": "2025Q3",
-    "sector": "Finance",
-    "share": 0.00568
-   },
-   {
-    "q": "2025Q3",
-    "sector": "Healthcare",
-    "share": 0.00304
-   },
-   {
-    "q": "2025Q3",
-    "sector": "Materials",
-    "share": 0.01677
-   },
-   {
-    "q": "2025Q3",
-    "sector": "Real estate",
-    "share": 0.00758
-   },
-   {
-    "q": "2025Q3",
-    "sector": "Technology",
-    "share": 0.00055
-   },
-   {
-    "q": "2025Q3",
-    "sector": "Utilities",
-    "share": 0.07492
-   },
-   {
-    "q": "2025Q4",
-    "sector": "Autos",
-    "share": 0.03704
-   },
-   {
-    "q": "2025Q4",
-    "sector": "Consumer",
-    "share": 0.02462
-   },
-   {
-    "q": "2025Q4",
-    "sector": "Energy",
-    "share": 0.03526
-   },
-   {
-    "q": "2025Q4",
-    "sector": "Finance",
-    "share": 0.00353
-   },
-   {
-    "q": "2025Q4",
-    "sector": "Healthcare",
-    "share": 0.00201
-   },
-   {
-    "q": "2025Q4",
-    "sector": "Materials",
-    "share": 0.02856
-   },
-   {
-    "q": "2025Q4",
-    "sector": "Real estate",
-    "share": 0.01208
-   },
-   {
-    "q": "2025Q4",
-    "sector": "Technology",
-    "share": 0.00188
-   },
-   {
-    "q": "2025Q4",
-    "sector": "Utilities",
-    "share": 0.10034
-   },
-   {
-    "q": "2026Q1",
-    "sector": "Autos",
-    "share": 0.06977
-   },
-   {
-    "q": "2026Q1",
-    "sector": "Energy",
-    "share": 0.09699
-   },
-   {
-    "q": "2026Q1",
-    "sector": "Finance",
-    "share": 0.00207
-   },
-   {
-    "q": "2026Q1",
-    "sector": "Healthcare",
-    "share": 0.00295
-   },
-   {
-    "q": "2026Q1",
-    "sector": "Materials",
-    "share": 0.03951
-   },
-   {
-    "q": "2026Q1",
-    "sector": "Supply chain",
-    "share": 0.05777
-   },
-   {
-    "q": "2026Q1",
-    "sector": "Utilities",
-    "share": 0.11061
-   },
-   {
-    "q": "2026Q2",
-    "sector": "Autos",
-    "share": 0.04152
-   },
-   {
-    "q": "2026Q2",
-    "sector": "Energy",
-    "share": 0.05724
-   },
-   {
-    "q": "2026Q2",
-    "sector": "Finance",
-    "share": 0.00332
-   },
-   {
-    "q": "2026Q2",
-    "sector": "Healthcare",
-    "share": 0.00285
-   },
-   {
-    "q": "2026Q2",
-    "sector": "Materials",
-    "share": 0.0431
-   },
-   {
-    "q": "2026Q2",
-    "sector": "Supply chain",
-    "share": 0.04353
-   },
-   {
-    "q": "2026Q2",
-    "sector": "Technology",
-    "share": 0.00354
-   },
-   {
-    "q": "2026Q2",
-    "sector": "Utilities",
-    "share": 0.06815
-   },
-   {
-    "q": "2026Q3",
-    "sector": "Autos",
-    "share": 0.0473
-   },
-   {
-    "q": "2026Q3",
-    "sector": "Energy",
-    "share": 0.03556
-   },
-   {
-    "q": "2026Q3",
-    "sector": "Finance",
-    "share": 0.00469
-   },
-   {
-    "q": "2026Q3",
-    "sector": "Healthcare",
-    "share": 0.00364
-   },
-   {
-    "q": "2026Q3",
-    "sector": "Materials",
-    "share": 0.02195
-   },
-   {
-    "q": "2026Q3",
-    "sector": "Supply chain",
-    "share": 0.01818
-   },
-   {
-    "q": "2026Q3",
-    "sector": "Technology",
-    "share": 0.00273
-   },
-   {
-    "q": "2026Q3",
-    "sector": "Utilities",
-    "share": 0.07073
    }
   ],
   "clean energy": [
@@ -55547,8 +55542,8 @@
   ]
  },
  "daysCollected": 89,
- "articlesStored": 4970,
- "articlesLive": 1423,
+ "articlesStored": 4998,
+ "articlesLive": 1449,
  "windowDays": 90,
  "terms": [
   {
@@ -55558,7 +55553,7 @@
    "sectorCount": 9,
    "newestSector": "Supply chain",
    "daysSinceNewestSector": 4,
-   "articles14d": 65,
+   "articles14d": 67,
    "articlesPrior14d": 34,
    "publishers": 15,
    "sectors": [
@@ -55567,7 +55562,7 @@
      "firstSeen": "2026-05-11",
      "recent": 2,
      "articles": 6,
-     "share": 0.031,
+     "share": 0.03,
      "adopt": 4
     },
     {
@@ -55575,7 +55570,7 @@
      "firstSeen": "2026-05-12",
      "recent": 8,
      "articles": 11,
-     "share": 0.123,
+     "share": 0.119,
      "adopt": 5
     },
     {
@@ -55583,7 +55578,7 @@
      "firstSeen": "2026-05-12",
      "recent": 2,
      "articles": 3,
-     "share": 0.031,
+     "share": 0.03,
      "adopt": 5
     },
     {
@@ -55591,15 +55586,15 @@
      "firstSeen": "2026-05-18",
      "recent": 7,
      "articles": 25,
-     "share": 0.108,
+     "share": 0.104,
      "adopt": 11
     },
     {
      "name": "Technology",
      "firstSeen": "2026-05-18",
-     "recent": 36,
-     "articles": 73,
-     "share": 0.554,
+     "recent": 37,
+     "articles": 74,
+     "share": 0.552,
      "adopt": 11
     },
     {
@@ -55613,9 +55608,9 @@
     {
      "name": "Energy",
      "firstSeen": "2026-06-02",
-     "recent": 7,
-     "articles": 25,
-     "share": 0.108,
+     "recent": 8,
+     "articles": 26,
+     "share": 0.119,
      "adopt": 26
     },
     {
@@ -55667,7 +55662,25 @@
        12,
        7,
        0,
-       36
+       37
+      ]
+     },
+     {
+      "sector": "Energy",
+      "n": [
+       0,
+       0,
+       0,
+       1,
+       0,
+       2,
+       3,
+       0,
+       4,
+       1,
+       7,
+       3,
+       5
       ]
      },
      {
@@ -55686,24 +55699,6 @@
        0,
        0,
        7
-      ]
-     },
-     {
-      "sector": "Energy",
-      "n": [
-       0,
-       0,
-       0,
-       1,
-       0,
-       2,
-       3,
-       0,
-       4,
-       1,
-       7,
-       3,
-       4
       ]
      },
      {
@@ -55887,6 +55882,18 @@
    "examples": [
     {
      "publisher": "Data Center Dynamics",
+     "title": "Texas governor directs PUCT, ERCOT to audit all data centers seeking grid connection",
+     "url": "https://www.datacenterdynamics.com/en/news/texas-governor-directs-puct-ercot-to-audit-all-data-centers-seeking-grid-connection/",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "Canary Media",
+     "title": "Data centers take center stage in Wisconsin governor's race",
+     "url": "https://www.canarymedia.com/articles/data-centers/wisconsin-governors-race",
+     "sector": "Energy"
+    },
+    {
+     "publisher": "Data Center Dynamics",
      "title": "Sponsored: Maximize tokens per watt to power the AI era forward",
      "url": "https://www.datacenterdynamics.com/en/marketwatch/maximize-tokens-per-watt-to-power-the-ai-era-forward/",
      "sector": "Technology"
@@ -55896,18 +55903,6 @@
      "title": "Data center approvals in Texas halted until audits completed , Gov . Greg Abbott says",
      "url": "https://abc13.com/post/data-center-approvals-texas-halted-audits-completed-gov-greg-abbott-says/19620316/",
      "sector": "Utilities"
-    },
-    {
-     "publisher": "Facilities Dive",
-     "title": "Schneider Electric bolstering energy, design products",
-     "url": "https://www.facilitiesdive.com/news/schneider-electric-bolstering-energy-design-products/826817/",
-     "sector": "Industrials"
-    },
-    {
-     "publisher": "Data Center Dynamics",
-     "title": "UK government approves controversial 5.2MW Truman Brewery data center proposal",
-     "url": "https://www.datacenterdynamics.com/en/news/uk-government-approves-controversial-52mw-truman-brewery-data-center-proposal/",
-     "sector": "Technology"
     }
    ],
    "daily": [
@@ -56269,11 +56264,11 @@
     },
     {
      "day": "2026-08-04",
-     "n": 1
+     "n": 3
     }
    ],
-   "specificity": 0.89,
-   "rank": 8.36
+   "specificity": 0.887,
+   "rank": 8.34
   },
   {
    "id": "artificial-intelligence",
@@ -58212,24 +58207,24 @@
    "sectorCount": 4,
    "newestSector": "Technology",
    "daysSinceNewestSector": 1,
-   "articles14d": 4,
+   "articles14d": 5,
    "articlesPrior14d": 0,
-   "publishers": 4,
+   "publishers": 5,
    "sectors": [
     {
      "name": "Utilities",
      "firstSeen": "2026-06-15",
      "recent": 1,
      "articles": 2,
-     "share": 0.25,
+     "share": 0.2,
      "adopt": 39
     },
     {
      "name": "Energy",
      "firstSeen": "2026-06-24",
-     "recent": 1,
-     "articles": 3,
-     "share": 0.25,
+     "recent": 2,
+     "articles": 4,
+     "share": 0.4,
      "adopt": 48
     },
     {
@@ -58237,7 +58232,7 @@
      "firstSeen": "2026-07-30",
      "recent": 1,
      "articles": 1,
-     "share": 0.25,
+     "share": 0.2,
      "adopt": 84
     },
     {
@@ -58245,7 +58240,7 @@
      "firstSeen": "2026-08-03",
      "recent": 1,
      "articles": 1,
-     "share": 0.25,
+     "share": 0.2,
      "adopt": 88
     }
    ],
@@ -58281,7 +58276,7 @@
        0,
        0,
        0,
-       1
+       2
       ]
      },
      {
@@ -58374,6 +58369,12 @@
    ],
    "examples": [
     {
+     "publisher": "OilPrice",
+     "title": "Germany's Energy Demand Falls as High Prices Hit Oil Consumption",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Germanys-Energy-Demand-Falls-as-High-Prices-Hit-Oil-Consumption.html",
+     "sector": "Energy"
+    },
+    {
      "publisher": "Data Center Dynamics",
      "title": "DCD News: July review",
      "url": "https://www.datacenterdynamics.com/en/videos/dcd-news-july-review/",
@@ -58390,12 +58391,6 @@
      "title": "Johnson Controls touts absorption chillers to cut data center energy demand",
      "url": "https://www.facilitiesdive.com/news/johnson-controls-touts-absorption-chillers-for-lower-data-center-energy-dem/826549/",
      "sector": "Industrials"
-    },
-    {
-     "publisher": "news9.com",
-     "title": "SPP says power grid is reliable as Oklahoma heat pushes energy demand higher",
-     "url": "https://www.news9.com/oklahoma-city-news/power-grid-remains-reliable-as-heat-drives-demand",
-     "sector": "Utilities"
     }
    ],
    "daily": [
@@ -58757,10 +58752,10 @@
     },
     {
      "day": "2026-08-04",
-     "n": 0
+     "n": 1
     }
    ],
-   "specificity": 0.993,
+   "specificity": 0.992,
    "rank": 3.98
   },
   {
@@ -59896,6 +59891,564 @@
    ],
    "specificity": 0.992,
    "rank": 3.98
+  },
+  {
+   "id": "clean-air",
+   "term": "clean air",
+   "direction": "rising",
+   "sectorCount": 4,
+   "newestSector": "Technology",
+   "daysSinceNewestSector": 4,
+   "articles14d": 8,
+   "articlesPrior14d": 3,
+   "publishers": 6,
+   "sectors": [
+    {
+     "name": "Policy",
+     "firstSeen": "2026-07-16",
+     "recent": 4,
+     "articles": 7,
+     "share": 0.5,
+     "adopt": 70
+    },
+    {
+     "name": "Materials",
+     "firstSeen": "2026-07-28",
+     "recent": 2,
+     "articles": 2,
+     "share": 0.25,
+     "adopt": 82
+    },
+    {
+     "name": "Utilities",
+     "firstSeen": "2026-07-30",
+     "recent": 1,
+     "articles": 1,
+     "share": 0.125,
+     "adopt": 84
+    },
+    {
+     "name": "Technology",
+     "firstSeen": "2026-07-31",
+     "recent": 1,
+     "articles": 1,
+     "share": 0.125,
+     "adopt": 85
+    }
+   ],
+   "flow": {
+    "weeks": [
+     "2026-05-07",
+     "2026-05-14",
+     "2026-05-21",
+     "2026-05-28",
+     "2026-06-04",
+     "2026-06-11",
+     "2026-06-18",
+     "2026-06-25",
+     "2026-07-02",
+     "2026-07-09",
+     "2026-07-16",
+     "2026-07-23",
+     "2026-07-30"
+    ],
+    "bands": [
+     {
+      "sector": "Policy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       3,
+       1,
+       3
+      ]
+     },
+     {
+      "sector": "Materials",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       1
+      ]
+     },
+     {
+      "sector": "Utilities",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     },
+     {
+      "sector": "Technology",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   "cooc": [
+    [
+     "correct inadequate inspection",
+     1.0,
+     "new"
+    ],
+    [
+     "clean air violation",
+     1.0,
+     "new"
+    ],
+    [
+     "monitoring practice",
+     1.0,
+     "new"
+    ],
+    [
+     "address emission",
+     1.0,
+     "new"
+    ],
+    [
+     "ashdown arkansas",
+     1.0,
+     "new"
+    ],
+    [
+     "domtar agree",
+     1.0,
+     "new"
+    ]
+   ],
+   "examples": [
+    {
+     "publisher": "ESG Dive",
+     "title": "Paper producer Domtar agrees to pay $1.5M to settle clean air violations",
+     "url": "https://www.esgdive.com/news/domtar-settlement-doj-epa-pulp-paper-mill-emissions-air-pollution-ashdown-arkansas/826823/",
+     "sector": "Policy"
+    },
+    {
+     "publisher": "finanznachrichten.de",
+     "title": "Springbok Ventures Inc .: Clean Air Metals and Fiore - Backed Springbok Ventures Announce Strategic Business Combination",
+     "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69189135-springbok-ventures-inc-clean-air-metals-and-fiore-backed-springbok-ventures-announce-strategic-business-combination-296.htm",
+     "sector": "Materials"
+    },
+    {
+     "publisher": "Data Center Dynamics",
+     "title": "Amazon, Duke Energy accused of evading Clean Air Act at under-development data center in Hamlet, North Carolina",
+     "url": "https://www.datacenterdynamics.com/en/news/amazon-duke-energy-accused-of-evading-clean-air-act-at-under-development-data-center-in-hamlet-north-carolina/",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "Federal Register",
+     "title": "Operating Permit Program Approval; New Hampshire; Revised Definitions",
+     "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15363/operating-permit-program-approval-new-hampshire-revised-definitions",
+     "sector": "Policy"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-05-07",
+     "n": 0
+    },
+    {
+     "day": "2026-05-08",
+     "n": 0
+    },
+    {
+     "day": "2026-05-09",
+     "n": 0
+    },
+    {
+     "day": "2026-05-10",
+     "n": 0
+    },
+    {
+     "day": "2026-05-11",
+     "n": 0
+    },
+    {
+     "day": "2026-05-12",
+     "n": 0
+    },
+    {
+     "day": "2026-05-13",
+     "n": 0
+    },
+    {
+     "day": "2026-05-14",
+     "n": 0
+    },
+    {
+     "day": "2026-05-15",
+     "n": 0
+    },
+    {
+     "day": "2026-05-16",
+     "n": 0
+    },
+    {
+     "day": "2026-05-17",
+     "n": 0
+    },
+    {
+     "day": "2026-05-18",
+     "n": 0
+    },
+    {
+     "day": "2026-05-19",
+     "n": 0
+    },
+    {
+     "day": "2026-05-20",
+     "n": 0
+    },
+    {
+     "day": "2026-05-21",
+     "n": 0
+    },
+    {
+     "day": "2026-05-22",
+     "n": 0
+    },
+    {
+     "day": "2026-05-23",
+     "n": 0
+    },
+    {
+     "day": "2026-05-24",
+     "n": 0
+    },
+    {
+     "day": "2026-05-25",
+     "n": 0
+    },
+    {
+     "day": "2026-05-26",
+     "n": 0
+    },
+    {
+     "day": "2026-05-27",
+     "n": 0
+    },
+    {
+     "day": "2026-05-28",
+     "n": 0
+    },
+    {
+     "day": "2026-05-29",
+     "n": 0
+    },
+    {
+     "day": "2026-05-30",
+     "n": 0
+    },
+    {
+     "day": "2026-05-31",
+     "n": 0
+    },
+    {
+     "day": "2026-06-01",
+     "n": 0
+    },
+    {
+     "day": "2026-06-02",
+     "n": 0
+    },
+    {
+     "day": "2026-06-03",
+     "n": 0
+    },
+    {
+     "day": "2026-06-04",
+     "n": 0
+    },
+    {
+     "day": "2026-06-05",
+     "n": 0
+    },
+    {
+     "day": "2026-06-06",
+     "n": 0
+    },
+    {
+     "day": "2026-06-07",
+     "n": 0
+    },
+    {
+     "day": "2026-06-08",
+     "n": 0
+    },
+    {
+     "day": "2026-06-09",
+     "n": 0
+    },
+    {
+     "day": "2026-06-10",
+     "n": 0
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 0
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 0
+    },
+    {
+     "day": "2026-06-16",
+     "n": 0
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 0
+    },
+    {
+     "day": "2026-06-19",
+     "n": 0
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 0
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 3
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 1
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 1
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 3
+    },
+    {
+     "day": "2026-07-31",
+     "n": 1
+    },
+    {
+     "day": "2026-08-01",
+     "n": 1
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 1
+    },
+    {
+     "day": "2026-08-04",
+     "n": 0
+    }
+   ],
+   "specificity": 0.987,
+   "rank": 3.97
   },
   {
    "id": "joint-venture",
@@ -61698,564 +62251,6 @@
    "rank": 3.96
   },
   {
-   "id": "clean-air",
-   "term": "clean air",
-   "direction": "rising",
-   "sectorCount": 4,
-   "newestSector": "Technology",
-   "daysSinceNewestSector": 4,
-   "articles14d": 8,
-   "articlesPrior14d": 3,
-   "publishers": 6,
-   "sectors": [
-    {
-     "name": "Policy",
-     "firstSeen": "2026-07-16",
-     "recent": 4,
-     "articles": 7,
-     "share": 0.5,
-     "adopt": 70
-    },
-    {
-     "name": "Materials",
-     "firstSeen": "2026-07-28",
-     "recent": 2,
-     "articles": 2,
-     "share": 0.25,
-     "adopt": 82
-    },
-    {
-     "name": "Utilities",
-     "firstSeen": "2026-07-30",
-     "recent": 1,
-     "articles": 1,
-     "share": 0.125,
-     "adopt": 84
-    },
-    {
-     "name": "Technology",
-     "firstSeen": "2026-07-31",
-     "recent": 1,
-     "articles": 1,
-     "share": 0.125,
-     "adopt": 85
-    }
-   ],
-   "flow": {
-    "weeks": [
-     "2026-05-07",
-     "2026-05-14",
-     "2026-05-21",
-     "2026-05-28",
-     "2026-06-04",
-     "2026-06-11",
-     "2026-06-18",
-     "2026-06-25",
-     "2026-07-02",
-     "2026-07-09",
-     "2026-07-16",
-     "2026-07-23",
-     "2026-07-30"
-    ],
-    "bands": [
-     {
-      "sector": "Policy",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       3,
-       1,
-       3
-      ]
-     },
-     {
-      "sector": "Materials",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       1
-      ]
-     },
-     {
-      "sector": "Utilities",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1
-      ]
-     },
-     {
-      "sector": "Technology",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1
-      ]
-     }
-    ]
-   },
-   "cooc": [
-    [
-     "correct inadequate inspection",
-     1.0,
-     "new"
-    ],
-    [
-     "clean air violation",
-     1.0,
-     "new"
-    ],
-    [
-     "monitoring practice",
-     1.0,
-     "new"
-    ],
-    [
-     "address emission",
-     1.0,
-     "new"
-    ],
-    [
-     "ashdown arkansas",
-     1.0,
-     "new"
-    ],
-    [
-     "domtar agree",
-     1.0,
-     "new"
-    ]
-   ],
-   "examples": [
-    {
-     "publisher": "ESG Dive",
-     "title": "Paper producer Domtar agrees to pay $1.5M to settle clean air violations",
-     "url": "https://www.esgdive.com/news/domtar-settlement-doj-epa-pulp-paper-mill-emissions-air-pollution-ashdown-arkansas/826823/",
-     "sector": "Policy"
-    },
-    {
-     "publisher": "finanznachrichten.de",
-     "title": "Springbok Ventures Inc .: Clean Air Metals and Fiore - Backed Springbok Ventures Announce Strategic Business Combination",
-     "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69189135-springbok-ventures-inc-clean-air-metals-and-fiore-backed-springbok-ventures-announce-strategic-business-combination-296.htm",
-     "sector": "Materials"
-    },
-    {
-     "publisher": "Data Center Dynamics",
-     "title": "Amazon, Duke Energy accused of evading Clean Air Act at under-development data center in Hamlet, North Carolina",
-     "url": "https://www.datacenterdynamics.com/en/news/amazon-duke-energy-accused-of-evading-clean-air-act-at-under-development-data-center-in-hamlet-north-carolina/",
-     "sector": "Technology"
-    },
-    {
-     "publisher": "Federal Register",
-     "title": "Operating Permit Program Approval; New Hampshire; Revised Definitions",
-     "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15363/operating-permit-program-approval-new-hampshire-revised-definitions",
-     "sector": "Policy"
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-05-07",
-     "n": 0
-    },
-    {
-     "day": "2026-05-08",
-     "n": 0
-    },
-    {
-     "day": "2026-05-09",
-     "n": 0
-    },
-    {
-     "day": "2026-05-10",
-     "n": 0
-    },
-    {
-     "day": "2026-05-11",
-     "n": 0
-    },
-    {
-     "day": "2026-05-12",
-     "n": 0
-    },
-    {
-     "day": "2026-05-13",
-     "n": 0
-    },
-    {
-     "day": "2026-05-14",
-     "n": 0
-    },
-    {
-     "day": "2026-05-15",
-     "n": 0
-    },
-    {
-     "day": "2026-05-16",
-     "n": 0
-    },
-    {
-     "day": "2026-05-17",
-     "n": 0
-    },
-    {
-     "day": "2026-05-18",
-     "n": 0
-    },
-    {
-     "day": "2026-05-19",
-     "n": 0
-    },
-    {
-     "day": "2026-05-20",
-     "n": 0
-    },
-    {
-     "day": "2026-05-21",
-     "n": 0
-    },
-    {
-     "day": "2026-05-22",
-     "n": 0
-    },
-    {
-     "day": "2026-05-23",
-     "n": 0
-    },
-    {
-     "day": "2026-05-24",
-     "n": 0
-    },
-    {
-     "day": "2026-05-25",
-     "n": 0
-    },
-    {
-     "day": "2026-05-26",
-     "n": 0
-    },
-    {
-     "day": "2026-05-27",
-     "n": 0
-    },
-    {
-     "day": "2026-05-28",
-     "n": 0
-    },
-    {
-     "day": "2026-05-29",
-     "n": 0
-    },
-    {
-     "day": "2026-05-30",
-     "n": 0
-    },
-    {
-     "day": "2026-05-31",
-     "n": 0
-    },
-    {
-     "day": "2026-06-01",
-     "n": 0
-    },
-    {
-     "day": "2026-06-02",
-     "n": 0
-    },
-    {
-     "day": "2026-06-03",
-     "n": 0
-    },
-    {
-     "day": "2026-06-04",
-     "n": 0
-    },
-    {
-     "day": "2026-06-05",
-     "n": 0
-    },
-    {
-     "day": "2026-06-06",
-     "n": 0
-    },
-    {
-     "day": "2026-06-07",
-     "n": 0
-    },
-    {
-     "day": "2026-06-08",
-     "n": 0
-    },
-    {
-     "day": "2026-06-09",
-     "n": 0
-    },
-    {
-     "day": "2026-06-10",
-     "n": 0
-    },
-    {
-     "day": "2026-06-11",
-     "n": 0
-    },
-    {
-     "day": "2026-06-12",
-     "n": 0
-    },
-    {
-     "day": "2026-06-13",
-     "n": 0
-    },
-    {
-     "day": "2026-06-14",
-     "n": 0
-    },
-    {
-     "day": "2026-06-15",
-     "n": 0
-    },
-    {
-     "day": "2026-06-16",
-     "n": 0
-    },
-    {
-     "day": "2026-06-17",
-     "n": 0
-    },
-    {
-     "day": "2026-06-18",
-     "n": 0
-    },
-    {
-     "day": "2026-06-19",
-     "n": 0
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 0
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 3
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 1
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 1
-    },
-    {
-     "day": "2026-07-29",
-     "n": 0
-    },
-    {
-     "day": "2026-07-30",
-     "n": 3
-    },
-    {
-     "day": "2026-07-31",
-     "n": 1
-    },
-    {
-     "day": "2026-08-01",
-     "n": 1
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 1
-    },
-    {
-     "day": "2026-08-04",
-     "n": 0
-    }
-   ],
-   "specificity": 0.986,
-   "rank": 3.96
-  },
-  {
    "id": "clean-energy",
    "term": "clean energy",
    "direction": "rising",
@@ -63972,7 +63967,7 @@
    "sectorCount": 4,
    "newestSector": "Energy",
    "daysSinceNewestSector": 4,
-   "articles14d": 15,
+   "articles14d": 16,
    "articlesPrior14d": 1,
    "publishers": 5,
    "sectors": [
@@ -63981,7 +63976,7 @@
      "firstSeen": "2026-05-14",
      "recent": 5,
      "articles": 6,
-     "share": 0.333,
+     "share": 0.312,
      "adopt": 7
     },
     {
@@ -63989,7 +63984,7 @@
      "firstSeen": "2026-06-01",
      "recent": 2,
      "articles": 4,
-     "share": 0.133,
+     "share": 0.125,
      "adopt": 25
     },
     {
@@ -63997,15 +63992,15 @@
      "firstSeen": "2026-07-23",
      "recent": 1,
      "articles": 1,
-     "share": 0.067,
+     "share": 0.062,
      "adopt": 77
     },
     {
      "name": "Energy",
      "firstSeen": "2026-07-31",
-     "recent": 7,
-     "articles": 7,
-     "share": 0.467,
+     "recent": 8,
+     "articles": 8,
+     "share": 0.5,
      "adopt": 85
     }
    ],
@@ -64041,7 +64036,7 @@
        0,
        0,
        0,
-       7
+       8
       ]
      },
      {
@@ -64171,6 +64166,12 @@
    "examples": [
     {
      "publisher": "OilPrice",
+     "title": "Saudi Aramco's Adjusted Profit Jumps 33% as Oil Prices Surge",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramcos-Adjusted-Profit-Jumps-33-as-Oil-Prices-Surge.html",
+     "sector": "Energy"
+    },
+    {
+     "publisher": "OilPrice",
      "title": "Trump Orders Oil Companies to Cut Gas Prices, Targets Chevron CEO",
      "url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Orders-Oil-Companies-to-Cut-Gas-Prices-Targets-Chevron-CEO.html",
      "sector": "Energy"
@@ -64185,12 +64186,6 @@
      "publisher": "OilPrice",
      "title": "Big Oil Warns Global Fuel Stocks Are Running Dangerously Low",
      "url": "https://oilprice.com/Energy/Energy-General/Big-Oil-Warns-Global-Fuel-Stocks-Are-Running-Dangerously-Low.html",
-     "sector": "Energy"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Trump's Iran Reversal Sends European Gas Prices Tumbling",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Trumps-Iran-Reversal-Sends-European-Gas-Prices-Tumbling.html",
      "sector": "Energy"
     }
    ],
@@ -64553,11 +64548,11 @@
     },
     {
      "day": "2026-08-04",
-     "n": 0
+     "n": 1
     }
    ],
-   "specificity": 0.975,
-   "rank": 3.94
+   "specificity": 0.973,
+   "rank": 3.93
   },
   {
    "id": "real-estate",
@@ -76399,7 +76394,539 @@
      "n": 1
     }
    ],
-   "specificity": 0.986,
+   "specificity": 0.987,
+   "rank": 2.97
+  },
+  {
+   "id": "square-foot",
+   "term": "square foot",
+   "direction": "rising",
+   "sectorCount": 3,
+   "newestSector": "Autos",
+   "daysSinceNewestSector": 5,
+   "articles14d": 8,
+   "articlesPrior14d": 1,
+   "publishers": 1,
+   "sectors": [
+    {
+     "name": "Real estate",
+     "firstSeen": "2026-06-02",
+     "recent": 6,
+     "articles": 8,
+     "share": 0.75,
+     "adopt": 26
+    },
+    {
+     "name": "Energy",
+     "firstSeen": "2026-06-22",
+     "recent": 1,
+     "articles": 2,
+     "share": 0.125,
+     "adopt": 46
+    },
+    {
+     "name": "Autos",
+     "firstSeen": "2026-07-30",
+     "recent": 1,
+     "articles": 1,
+     "share": 0.125,
+     "adopt": 84
+    }
+   ],
+   "flow": {
+    "weeks": [
+     "2026-05-07",
+     "2026-05-14",
+     "2026-05-21",
+     "2026-05-28",
+     "2026-06-04",
+     "2026-06-11",
+     "2026-06-18",
+     "2026-06-25",
+     "2026-07-02",
+     "2026-07-09",
+     "2026-07-16",
+     "2026-07-23",
+     "2026-07-30"
+    ],
+    "bands": [
+     {
+      "sector": "Real estate",
+      "n": [
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       6
+      ]
+     },
+     {
+      "sector": "Energy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     },
+     {
+      "sector": "Industrials",
+      "n": [
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "sector": "Autos",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   "cooc": [
+    [
+     "modernization upgrades including",
+     1.0,
+     "new"
+    ],
+    [
+     "including new processing",
+     1.0,
+     "new"
+    ],
+    [
+     "estimated square foot",
+     1.0,
+     "new"
+    ],
+    [
+     "square foot expansion",
+     1.0,
+     "new"
+    ],
+    [
+     "processing equipment",
+     1.0,
+     "new"
+    ],
+    [
+     "confirms investment",
+     1.0,
+     "new"
+    ]
+   ],
+   "examples": [
+    {
+     "publisher": "Commercial Observer",
+     "title": "Midtown South Led Manhattan Office Leasing's Stellar July Performance",
+     "url": "https://commercialobserver.com/2026/08/manhattan-office-leasing-report-july-2026/",
+     "sector": "Real estate"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-05-07",
+     "n": 0
+    },
+    {
+     "day": "2026-05-08",
+     "n": 0
+    },
+    {
+     "day": "2026-05-09",
+     "n": 0
+    },
+    {
+     "day": "2026-05-10",
+     "n": 0
+    },
+    {
+     "day": "2026-05-11",
+     "n": 0
+    },
+    {
+     "day": "2026-05-12",
+     "n": 0
+    },
+    {
+     "day": "2026-05-13",
+     "n": 0
+    },
+    {
+     "day": "2026-05-14",
+     "n": 0
+    },
+    {
+     "day": "2026-05-15",
+     "n": 0
+    },
+    {
+     "day": "2026-05-16",
+     "n": 0
+    },
+    {
+     "day": "2026-05-17",
+     "n": 0
+    },
+    {
+     "day": "2026-05-18",
+     "n": 1
+    },
+    {
+     "day": "2026-05-19",
+     "n": 0
+    },
+    {
+     "day": "2026-05-20",
+     "n": 0
+    },
+    {
+     "day": "2026-05-21",
+     "n": 0
+    },
+    {
+     "day": "2026-05-22",
+     "n": 0
+    },
+    {
+     "day": "2026-05-23",
+     "n": 0
+    },
+    {
+     "day": "2026-05-24",
+     "n": 0
+    },
+    {
+     "day": "2026-05-25",
+     "n": 0
+    },
+    {
+     "day": "2026-05-26",
+     "n": 0
+    },
+    {
+     "day": "2026-05-27",
+     "n": 0
+    },
+    {
+     "day": "2026-05-28",
+     "n": 0
+    },
+    {
+     "day": "2026-05-29",
+     "n": 0
+    },
+    {
+     "day": "2026-05-30",
+     "n": 0
+    },
+    {
+     "day": "2026-05-31",
+     "n": 0
+    },
+    {
+     "day": "2026-06-01",
+     "n": 0
+    },
+    {
+     "day": "2026-06-02",
+     "n": 1
+    },
+    {
+     "day": "2026-06-03",
+     "n": 0
+    },
+    {
+     "day": "2026-06-04",
+     "n": 0
+    },
+    {
+     "day": "2026-06-05",
+     "n": 0
+    },
+    {
+     "day": "2026-06-06",
+     "n": 0
+    },
+    {
+     "day": "2026-06-07",
+     "n": 0
+    },
+    {
+     "day": "2026-06-08",
+     "n": 0
+    },
+    {
+     "day": "2026-06-09",
+     "n": 0
+    },
+    {
+     "day": "2026-06-10",
+     "n": 0
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 0
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 0
+    },
+    {
+     "day": "2026-06-16",
+     "n": 0
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 0
+    },
+    {
+     "day": "2026-06-19",
+     "n": 0
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 1
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 1
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 1
+    },
+    {
+     "day": "2026-07-31",
+     "n": 1
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 5
+    },
+    {
+     "day": "2026-08-04",
+     "n": 1
+    }
+   ],
+   "specificity": 0.987,
    "rank": 2.97
   },
   {
@@ -76931,8 +77458,532 @@
      "n": 0
     }
    ],
-   "specificity": 0.895,
+   "specificity": 0.896,
    "rank": 2.8
+  },
+  {
+   "id": "world-s-largest",
+   "term": "world's largest",
+   "direction": "new",
+   "sectorCount": 2,
+   "newestSector": "Technology",
+   "daysSinceNewestSector": 0,
+   "articles14d": 4,
+   "articlesPrior14d": 0,
+   "publishers": 3,
+   "sectors": [
+    {
+     "name": "Utilities",
+     "firstSeen": "2026-08-03",
+     "recent": 3,
+     "articles": 3,
+     "share": 0.75,
+     "adopt": 88
+    },
+    {
+     "name": "Technology",
+     "firstSeen": "2026-08-04",
+     "recent": 1,
+     "articles": 1,
+     "share": 0.25,
+     "adopt": 89
+    }
+   ],
+   "flow": {
+    "weeks": [
+     "2026-05-07",
+     "2026-05-14",
+     "2026-05-21",
+     "2026-05-28",
+     "2026-06-04",
+     "2026-06-11",
+     "2026-06-18",
+     "2026-06-25",
+     "2026-07-02",
+     "2026-07-09",
+     "2026-07-16",
+     "2026-07-23",
+     "2026-07-30"
+    ],
+    "bands": [
+     {
+      "sector": "Utilities",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       3
+      ]
+     },
+     {
+      "sector": "Energy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "sector": "Technology",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   "cooc": [
+    [
+     "reliable encapsulation",
+     1.0,
+     "new"
+    ],
+    [
+     "form factor package",
+     1.0,
+     "new"
+    ],
+    [
+     "build engineering",
+     1.0,
+     "new"
+    ],
+    [
+     "large form factor",
+     1.0,
+     "new"
+    ],
+    [
+     "hyper large form",
+     1.0,
+     "new"
+    ],
+    [
+     "chips appeared",
+     1.0,
+     "new"
+    ]
+   ],
+   "examples": [
+    {
+     "publisher": "Semiconductor Engineering",
+     "title": "From Blueprint To Build: Engineering The World's Largest AI Chips",
+     "url": "https://semiengineering.com/from-blueprint-to-build-engineering-the-worlds-largest-ai-chips/",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "POWER Magazine",
+     "title": "World's Largest Energy Lender Steers Federal Financing Toward Baseload, Transmission, and Nuclear",
+     "url": "https://www.powermag.com/worlds-largest-energy-lender-steers-federal-financing-toward-baseload-transmission-and-nuclear/",
+     "sector": "Utilities"
+    },
+    {
+     "publisher": "EIA Today in Energy",
+     "title": "The United States produced more crude oil than any other country in 2025",
+     "url": "https://www.eia.gov/todayinenergy/detail.php?id=67844",
+     "sector": "Utilities"
+    },
+    {
+     "publisher": "EIA Today in Energy",
+     "title": "China's crude oil imports fell in the second quarter",
+     "url": "https://www.eia.gov/todayinenergy/detail.php?id=67905",
+     "sector": "Utilities"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-05-07",
+     "n": 0
+    },
+    {
+     "day": "2026-05-08",
+     "n": 0
+    },
+    {
+     "day": "2026-05-09",
+     "n": 0
+    },
+    {
+     "day": "2026-05-10",
+     "n": 0
+    },
+    {
+     "day": "2026-05-11",
+     "n": 0
+    },
+    {
+     "day": "2026-05-12",
+     "n": 0
+    },
+    {
+     "day": "2026-05-13",
+     "n": 0
+    },
+    {
+     "day": "2026-05-14",
+     "n": 0
+    },
+    {
+     "day": "2026-05-15",
+     "n": 0
+    },
+    {
+     "day": "2026-05-16",
+     "n": 0
+    },
+    {
+     "day": "2026-05-17",
+     "n": 0
+    },
+    {
+     "day": "2026-05-18",
+     "n": 0
+    },
+    {
+     "day": "2026-05-19",
+     "n": 0
+    },
+    {
+     "day": "2026-05-20",
+     "n": 0
+    },
+    {
+     "day": "2026-05-21",
+     "n": 0
+    },
+    {
+     "day": "2026-05-22",
+     "n": 0
+    },
+    {
+     "day": "2026-05-23",
+     "n": 0
+    },
+    {
+     "day": "2026-05-24",
+     "n": 0
+    },
+    {
+     "day": "2026-05-25",
+     "n": 0
+    },
+    {
+     "day": "2026-05-26",
+     "n": 0
+    },
+    {
+     "day": "2026-05-27",
+     "n": 0
+    },
+    {
+     "day": "2026-05-28",
+     "n": 0
+    },
+    {
+     "day": "2026-05-29",
+     "n": 0
+    },
+    {
+     "day": "2026-05-30",
+     "n": 0
+    },
+    {
+     "day": "2026-05-31",
+     "n": 0
+    },
+    {
+     "day": "2026-06-01",
+     "n": 0
+    },
+    {
+     "day": "2026-06-02",
+     "n": 0
+    },
+    {
+     "day": "2026-06-03",
+     "n": 0
+    },
+    {
+     "day": "2026-06-04",
+     "n": 0
+    },
+    {
+     "day": "2026-06-05",
+     "n": 0
+    },
+    {
+     "day": "2026-06-06",
+     "n": 0
+    },
+    {
+     "day": "2026-06-07",
+     "n": 0
+    },
+    {
+     "day": "2026-06-08",
+     "n": 0
+    },
+    {
+     "day": "2026-06-09",
+     "n": 0
+    },
+    {
+     "day": "2026-06-10",
+     "n": 0
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 0
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 0
+    },
+    {
+     "day": "2026-06-16",
+     "n": 0
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 0
+    },
+    {
+     "day": "2026-06-19",
+     "n": 0
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 1
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-31",
+     "n": 0
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 3
+    },
+    {
+     "day": "2026-08-04",
+     "n": 1
+    }
+   ],
+   "specificity": 0.993,
+   "rank": 1.99
   },
   {
    "id": "liquefied-natural-gas",
@@ -81909,512 +82960,6 @@
    "rank": 1.99
   },
   {
-   "id": "crude-oil-price",
-   "term": "crude oil price",
-   "direction": "new",
-   "sectorCount": 2,
-   "newestSector": "Utilities",
-   "daysSinceNewestSector": 1,
-   "articles14d": 6,
-   "articlesPrior14d": 0,
-   "publishers": 2,
-   "sectors": [
-    {
-     "name": "Utilities",
-     "firstSeen": "2026-08-03",
-     "recent": 5,
-     "articles": 5,
-     "share": 0.833,
-     "adopt": 88
-    },
-    {
-     "name": "Energy",
-     "firstSeen": "2026-08-03",
-     "recent": 1,
-     "articles": 1,
-     "share": 0.167,
-     "adopt": 88
-    }
-   ],
-   "flow": {
-    "weeks": [
-     "2026-05-07",
-     "2026-05-14",
-     "2026-05-21",
-     "2026-05-28",
-     "2026-06-04",
-     "2026-06-11",
-     "2026-06-18",
-     "2026-06-25",
-     "2026-07-02",
-     "2026-07-09",
-     "2026-07-16",
-     "2026-07-23",
-     "2026-07-30"
-    ],
-    "bands": [
-     {
-      "sector": "Utilities",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       5
-      ]
-     },
-     {
-      "sector": "Energy",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1
-      ]
-     }
-    ]
-   },
-   "cooc": [
-    [
-     "crude oil",
-     1.0,
-     "new"
-    ],
-    [
-     "international buyers seeking",
-     0.17,
-     "new"
-    ],
-    [
-     "domestic inventories remain",
-     0.17,
-     "new"
-    ],
-    [
-     "buyers seeking alternative",
-     0.17,
-     "new"
-    ],
-    [
-     "alternative supply source",
-     0.17,
-     "new"
-    ],
-    [
-     "chief financial officer",
-     0.17,
-     "new"
-    ]
-   ],
-   "examples": [
-    {
-     "publisher": "OilPrice",
-     "title": "Big Oil Warns Global Fuel Stocks Are Running Dangerously Low",
-     "url": "https://oilprice.com/Energy/Energy-General/Big-Oil-Warns-Global-Fuel-Stocks-Are-Running-Dangerously-Low.html",
-     "sector": "Energy"
-    },
-    {
-     "publisher": "EIA Today in Energy",
-     "title": "U.S. jet fuel production rises after prices doubled in March",
-     "url": "https://www.eia.gov/todayinenergy/detail.php?id=67764",
-     "sector": "Utilities"
-    },
-    {
-     "publisher": "EIA Today in Energy",
-     "title": "UAE's exit from OPEC+ reduced the group's share of crude oil production and capacity",
-     "url": "https://www.eia.gov/todayinenergy/detail.php?id=67804",
-     "sector": "Utilities"
-    },
-    {
-     "publisher": "EIA Today in Energy",
-     "title": "Petroleum markets responded to disruptions in the Middle East in the second quarter",
-     "url": "https://www.eia.gov/todayinenergy/detail.php?id=67865",
-     "sector": "Utilities"
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-05-07",
-     "n": 0
-    },
-    {
-     "day": "2026-05-08",
-     "n": 0
-    },
-    {
-     "day": "2026-05-09",
-     "n": 0
-    },
-    {
-     "day": "2026-05-10",
-     "n": 0
-    },
-    {
-     "day": "2026-05-11",
-     "n": 0
-    },
-    {
-     "day": "2026-05-12",
-     "n": 0
-    },
-    {
-     "day": "2026-05-13",
-     "n": 0
-    },
-    {
-     "day": "2026-05-14",
-     "n": 0
-    },
-    {
-     "day": "2026-05-15",
-     "n": 0
-    },
-    {
-     "day": "2026-05-16",
-     "n": 0
-    },
-    {
-     "day": "2026-05-17",
-     "n": 0
-    },
-    {
-     "day": "2026-05-18",
-     "n": 0
-    },
-    {
-     "day": "2026-05-19",
-     "n": 0
-    },
-    {
-     "day": "2026-05-20",
-     "n": 0
-    },
-    {
-     "day": "2026-05-21",
-     "n": 0
-    },
-    {
-     "day": "2026-05-22",
-     "n": 0
-    },
-    {
-     "day": "2026-05-23",
-     "n": 0
-    },
-    {
-     "day": "2026-05-24",
-     "n": 0
-    },
-    {
-     "day": "2026-05-25",
-     "n": 0
-    },
-    {
-     "day": "2026-05-26",
-     "n": 0
-    },
-    {
-     "day": "2026-05-27",
-     "n": 0
-    },
-    {
-     "day": "2026-05-28",
-     "n": 0
-    },
-    {
-     "day": "2026-05-29",
-     "n": 0
-    },
-    {
-     "day": "2026-05-30",
-     "n": 0
-    },
-    {
-     "day": "2026-05-31",
-     "n": 0
-    },
-    {
-     "day": "2026-06-01",
-     "n": 0
-    },
-    {
-     "day": "2026-06-02",
-     "n": 0
-    },
-    {
-     "day": "2026-06-03",
-     "n": 0
-    },
-    {
-     "day": "2026-06-04",
-     "n": 0
-    },
-    {
-     "day": "2026-06-05",
-     "n": 0
-    },
-    {
-     "day": "2026-06-06",
-     "n": 0
-    },
-    {
-     "day": "2026-06-07",
-     "n": 0
-    },
-    {
-     "day": "2026-06-08",
-     "n": 0
-    },
-    {
-     "day": "2026-06-09",
-     "n": 0
-    },
-    {
-     "day": "2026-06-10",
-     "n": 0
-    },
-    {
-     "day": "2026-06-11",
-     "n": 0
-    },
-    {
-     "day": "2026-06-12",
-     "n": 0
-    },
-    {
-     "day": "2026-06-13",
-     "n": 0
-    },
-    {
-     "day": "2026-06-14",
-     "n": 0
-    },
-    {
-     "day": "2026-06-15",
-     "n": 0
-    },
-    {
-     "day": "2026-06-16",
-     "n": 0
-    },
-    {
-     "day": "2026-06-17",
-     "n": 0
-    },
-    {
-     "day": "2026-06-18",
-     "n": 0
-    },
-    {
-     "day": "2026-06-19",
-     "n": 0
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 0
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 0
-    },
-    {
-     "day": "2026-07-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 0
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 6
-    },
-    {
-     "day": "2026-08-04",
-     "n": 0
-    }
-   ],
-   "specificity": 0.99,
-   "rank": 1.99
-  },
-  {
    "id": "recycling-pilot",
    "term": "recycling pilot",
    "direction": "new",
@@ -83365,6 +83910,519 @@
     {
      "day": "2026-08-04",
      "n": 0
+    }
+   ],
+   "specificity": 0.995,
+   "rank": 1.99
+  },
+  {
+   "id": "high-oil-price",
+   "term": "high oil price",
+   "direction": "new",
+   "sectorCount": 2,
+   "newestSector": "Energy",
+   "daysSinceNewestSector": 1,
+   "articles14d": 3,
+   "articlesPrior14d": 0,
+   "publishers": 2,
+   "sectors": [
+    {
+     "name": "Autos",
+     "firstSeen": "2026-07-23",
+     "recent": 1,
+     "articles": 1,
+     "share": 0.333,
+     "adopt": 77
+    },
+    {
+     "name": "Energy",
+     "firstSeen": "2026-08-03",
+     "recent": 2,
+     "articles": 2,
+     "share": 0.667,
+     "adopt": 88
+    }
+   ],
+   "flow": {
+    "weeks": [
+     "2026-05-07",
+     "2026-05-14",
+     "2026-05-21",
+     "2026-05-28",
+     "2026-06-04",
+     "2026-06-11",
+     "2026-06-18",
+     "2026-06-25",
+     "2026-07-02",
+     "2026-07-09",
+     "2026-07-16",
+     "2026-07-23",
+     "2026-07-30"
+    ],
+    "bands": [
+     {
+      "sector": "Energy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       2
+      ]
+     },
+     {
+      "sector": "Consumer",
+      "n": [
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "sector": "Autos",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0
+      ]
+     }
+    ]
+   },
+   "cooc": [
+    [
+     "geopolitical tensions high",
+     1.0,
+     "new"
+    ],
+    [
+     "european markets close",
+     1.0,
+     "new"
+    ],
+    [
+     "tensions high oil",
+     1.0,
+     "new"
+    ],
+    [
+     "close weak",
+     1.0,
+     "new"
+    ],
+    [
+     "oil price",
+     1.0,
+     "new"
+    ]
+   ],
+   "examples": [
+    {
+     "publisher": "OilPrice",
+     "title": "Saudi Aramco's Adjusted Profit Jumps 33% as Oil Prices Surge",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramcos-Adjusted-Profit-Jumps-33-as-Oil-Prices-Surge.html",
+     "sector": "Energy"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Big Oil Companies Report Record Profits Amid High Oil Prices",
+     "url": "https://oilprice.com/Energy/Energy-General/Big-Oil-Companies-Report-Record-Profits-Amid-High-Oil-Prices.html",
+     "sector": "Energy"
+    },
+    {
+     "publisher": "finanznachrichten.de",
+     "title": "European Markets Close Weak On Geopolitical Tensions , High Oil Prices",
+     "url": "https://www.finanznachrichten.de/nachrichten-2026-07/69110093-european-markets-close-weak-on-geopolitical-tensions-high-oil-prices-020.htm",
+     "sector": "Autos"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-05-07",
+     "n": 0
+    },
+    {
+     "day": "2026-05-08",
+     "n": 0
+    },
+    {
+     "day": "2026-05-09",
+     "n": 0
+    },
+    {
+     "day": "2026-05-10",
+     "n": 0
+    },
+    {
+     "day": "2026-05-11",
+     "n": 0
+    },
+    {
+     "day": "2026-05-12",
+     "n": 0
+    },
+    {
+     "day": "2026-05-13",
+     "n": 0
+    },
+    {
+     "day": "2026-05-14",
+     "n": 0
+    },
+    {
+     "day": "2026-05-15",
+     "n": 0
+    },
+    {
+     "day": "2026-05-16",
+     "n": 0
+    },
+    {
+     "day": "2026-05-17",
+     "n": 0
+    },
+    {
+     "day": "2026-05-18",
+     "n": 0
+    },
+    {
+     "day": "2026-05-19",
+     "n": 0
+    },
+    {
+     "day": "2026-05-20",
+     "n": 0
+    },
+    {
+     "day": "2026-05-21",
+     "n": 0
+    },
+    {
+     "day": "2026-05-22",
+     "n": 0
+    },
+    {
+     "day": "2026-05-23",
+     "n": 0
+    },
+    {
+     "day": "2026-05-24",
+     "n": 0
+    },
+    {
+     "day": "2026-05-25",
+     "n": 0
+    },
+    {
+     "day": "2026-05-26",
+     "n": 0
+    },
+    {
+     "day": "2026-05-27",
+     "n": 0
+    },
+    {
+     "day": "2026-05-28",
+     "n": 0
+    },
+    {
+     "day": "2026-05-29",
+     "n": 0
+    },
+    {
+     "day": "2026-05-30",
+     "n": 0
+    },
+    {
+     "day": "2026-05-31",
+     "n": 0
+    },
+    {
+     "day": "2026-06-01",
+     "n": 1
+    },
+    {
+     "day": "2026-06-02",
+     "n": 0
+    },
+    {
+     "day": "2026-06-03",
+     "n": 0
+    },
+    {
+     "day": "2026-06-04",
+     "n": 0
+    },
+    {
+     "day": "2026-06-05",
+     "n": 0
+    },
+    {
+     "day": "2026-06-06",
+     "n": 0
+    },
+    {
+     "day": "2026-06-07",
+     "n": 0
+    },
+    {
+     "day": "2026-06-08",
+     "n": 0
+    },
+    {
+     "day": "2026-06-09",
+     "n": 0
+    },
+    {
+     "day": "2026-06-10",
+     "n": 0
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 0
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 0
+    },
+    {
+     "day": "2026-06-16",
+     "n": 0
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 0
+    },
+    {
+     "day": "2026-06-19",
+     "n": 0
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 0
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 1
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-31",
+     "n": 0
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 1
+    },
+    {
+     "day": "2026-08-04",
+     "n": 1
     }
    ],
    "specificity": 0.995,
@@ -86311,16 +87369,16 @@
    "sectorCount": 2,
    "newestSector": "Utilities",
    "daysSinceNewestSector": 1,
-   "articles14d": 3,
+   "articles14d": 4,
    "articlesPrior14d": 0,
    "publishers": 2,
    "sectors": [
     {
      "name": "Energy",
      "firstSeen": "2026-07-02",
-     "recent": 2,
-     "articles": 3,
-     "share": 0.667,
+     "recent": 3,
+     "articles": 4,
+     "share": 0.75,
      "adopt": 56
     },
     {
@@ -86328,7 +87386,7 @@
      "firstSeen": "2026-08-03",
      "recent": 1,
      "articles": 1,
-     "share": 0.333,
+     "share": 0.25,
      "adopt": 88
     }
    ],
@@ -86364,7 +87422,7 @@
        0,
        0,
        0,
-       2
+       3
       ]
      },
      {
@@ -86425,6 +87483,12 @@
    },
    "cooc": [],
    "examples": [
+    {
+     "publisher": "OilPrice",
+     "title": "Germany's Energy Demand Falls as High Prices Hit Oil Consumption",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Germanys-Energy-Demand-Falls-as-High-Prices-Hit-Oil-Consumption.html",
+     "sector": "Energy"
+    },
     {
      "publisher": "OilPrice",
      "title": "Trump Orders Oil Companies to Cut Gas Prices, Targets Chevron CEO",
@@ -86803,10 +87867,10 @@
     },
     {
      "day": "2026-08-04",
-     "n": 0
+     "n": 1
     }
    ],
-   "specificity": 0.995,
+   "specificity": 0.993,
    "rank": 1.99
   },
   {
@@ -96941,1084 +98005,6 @@
     }
    ],
    "specificity": 0.995,
-   "rank": 1.99
-  },
-  {
-   "id": "humanoid-robot",
-   "term": "humanoid robot",
-   "direction": "new",
-   "sectorCount": 2,
-   "newestSector": "Materials",
-   "daysSinceNewestSector": 6,
-   "articles14d": 3,
-   "articlesPrior14d": 0,
-   "publishers": 3,
-   "sectors": [
-    {
-     "name": "Autos",
-     "firstSeen": "2026-06-19",
-     "recent": 2,
-     "articles": 3,
-     "share": 0.667,
-     "adopt": 43
-    },
-    {
-     "name": "Materials",
-     "firstSeen": "2026-07-29",
-     "recent": 1,
-     "articles": 1,
-     "share": 0.333,
-     "adopt": 83
-    }
-   ],
-   "flow": {
-    "weeks": [
-     "2026-05-07",
-     "2026-05-14",
-     "2026-05-21",
-     "2026-05-28",
-     "2026-06-04",
-     "2026-06-11",
-     "2026-06-18",
-     "2026-06-25",
-     "2026-07-02",
-     "2026-07-09",
-     "2026-07-16",
-     "2026-07-23",
-     "2026-07-30"
-    ],
-    "bands": [
-     {
-      "sector": "Autos",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0,
-       0,
-       1,
-       1
-      ]
-     },
-     {
-      "sector": "Healthcare",
-      "n": [
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Materials",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0
-      ]
-     }
-    ]
-   },
-   "cooc": [
-    [
-     "robot market accelerate",
-     1.0,
-     "new"
-    ],
-    [
-     "china ramps production",
-     1.0,
-     "new"
-    ],
-    [
-     "chinese humanoid robot",
-     1.0,
-     "new"
-    ],
-    [
-     "deutsche bank humanoid",
-     1.0,
-     "new"
-    ],
-    [
-     "humanoid robot import",
-     1.0,
-     "new"
-    ],
-    [
-     "accelerates globally",
-     1.0,
-     "new"
-    ]
-   ],
-   "examples": [
-    {
-     "publisher": "finance.yahoo.com",
-     "title": "BYD Humanoid Robot Debuts in August , and the Robot Isnt the Part That Should Worry Everyone Else",
-     "url": "https://finance.yahoo.com/technology/ai/articles/byds-humanoid-robot-debuts-august-170000870.html",
-     "sector": "Autos"
-    },
-    {
-     "publisher": "bearingdrift.com",
-     "title": "US Bans New Chinese Humanoid Robot Imports as Tech Rivalry With Beijing Escalates",
-     "url": "https://www.bearingdrift.com/2026/07/us-bans-new-chinese-humanoid-robot.html",
-     "sector": "Materials"
-    },
-    {
-     "publisher": "zerohedge.com",
-     "title": "Deutsche Bank : Humanoid Robot Market Accelerates Globally As China Ramps Production",
-     "url": "https://www.zerohedge.com/technology/deutsche-bank-humanoid-robot-market-accelerates-globally-china-ramps-production",
-     "sector": "Autos"
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-05-07",
-     "n": 0
-    },
-    {
-     "day": "2026-05-08",
-     "n": 0
-    },
-    {
-     "day": "2026-05-09",
-     "n": 0
-    },
-    {
-     "day": "2026-05-10",
-     "n": 0
-    },
-    {
-     "day": "2026-05-11",
-     "n": 0
-    },
-    {
-     "day": "2026-05-12",
-     "n": 0
-    },
-    {
-     "day": "2026-05-13",
-     "n": 0
-    },
-    {
-     "day": "2026-05-14",
-     "n": 0
-    },
-    {
-     "day": "2026-05-15",
-     "n": 0
-    },
-    {
-     "day": "2026-05-16",
-     "n": 0
-    },
-    {
-     "day": "2026-05-17",
-     "n": 0
-    },
-    {
-     "day": "2026-05-18",
-     "n": 0
-    },
-    {
-     "day": "2026-05-19",
-     "n": 0
-    },
-    {
-     "day": "2026-05-20",
-     "n": 0
-    },
-    {
-     "day": "2026-05-21",
-     "n": 0
-    },
-    {
-     "day": "2026-05-22",
-     "n": 0
-    },
-    {
-     "day": "2026-05-23",
-     "n": 0
-    },
-    {
-     "day": "2026-05-24",
-     "n": 0
-    },
-    {
-     "day": "2026-05-25",
-     "n": 0
-    },
-    {
-     "day": "2026-05-26",
-     "n": 0
-    },
-    {
-     "day": "2026-05-27",
-     "n": 0
-    },
-    {
-     "day": "2026-05-28",
-     "n": 0
-    },
-    {
-     "day": "2026-05-29",
-     "n": 1
-    },
-    {
-     "day": "2026-05-30",
-     "n": 0
-    },
-    {
-     "day": "2026-05-31",
-     "n": 0
-    },
-    {
-     "day": "2026-06-01",
-     "n": 0
-    },
-    {
-     "day": "2026-06-02",
-     "n": 0
-    },
-    {
-     "day": "2026-06-03",
-     "n": 0
-    },
-    {
-     "day": "2026-06-04",
-     "n": 0
-    },
-    {
-     "day": "2026-06-05",
-     "n": 0
-    },
-    {
-     "day": "2026-06-06",
-     "n": 0
-    },
-    {
-     "day": "2026-06-07",
-     "n": 0
-    },
-    {
-     "day": "2026-06-08",
-     "n": 0
-    },
-    {
-     "day": "2026-06-09",
-     "n": 0
-    },
-    {
-     "day": "2026-06-10",
-     "n": 0
-    },
-    {
-     "day": "2026-06-11",
-     "n": 0
-    },
-    {
-     "day": "2026-06-12",
-     "n": 0
-    },
-    {
-     "day": "2026-06-13",
-     "n": 0
-    },
-    {
-     "day": "2026-06-14",
-     "n": 0
-    },
-    {
-     "day": "2026-06-15",
-     "n": 0
-    },
-    {
-     "day": "2026-06-16",
-     "n": 0
-    },
-    {
-     "day": "2026-06-17",
-     "n": 0
-    },
-    {
-     "day": "2026-06-18",
-     "n": 0
-    },
-    {
-     "day": "2026-06-19",
-     "n": 1
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 0
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 1
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 1
-    },
-    {
-     "day": "2026-07-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 0
-    },
-    {
-     "day": "2026-08-02",
-     "n": 1
-    },
-    {
-     "day": "2026-08-03",
-     "n": 0
-    },
-    {
-     "day": "2026-08-04",
-     "n": 0
-    }
-   ],
-   "specificity": 0.995,
-   "rank": 1.99
-  },
-  {
-   "id": "lakh-crore",
-   "term": "lakh crore",
-   "direction": "falling",
-   "sectorCount": 2,
-   "newestSector": "Autos",
-   "daysSinceNewestSector": 6,
-   "articles14d": 4,
-   "articlesPrior14d": 9,
-   "publishers": 3,
-   "sectors": [
-    {
-     "name": "Finance",
-     "firstSeen": "2026-07-15",
-     "recent": 3,
-     "articles": 5,
-     "share": 0.75,
-     "adopt": 69
-    },
-    {
-     "name": "Autos",
-     "firstSeen": "2026-07-29",
-     "recent": 1,
-     "articles": 1,
-     "share": 0.25,
-     "adopt": 83
-    }
-   ],
-   "flow": {
-    "weeks": [
-     "2026-05-07",
-     "2026-05-14",
-     "2026-05-21",
-     "2026-05-28",
-     "2026-06-04",
-     "2026-06-11",
-     "2026-06-18",
-     "2026-06-25",
-     "2026-07-02",
-     "2026-07-09",
-     "2026-07-16",
-     "2026-07-23",
-     "2026-07-30"
-    ],
-    "bands": [
-     {
-      "sector": "Technology",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       4,
-       3,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Finance",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       1,
-       3,
-       0
-      ]
-     },
-     {
-      "sector": "Real estate",
-      "n": [
-       0,
-       0,
-       3,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Utilities",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Autos",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0
-      ]
-     }
-    ]
-   },
-   "cooc": [
-    [
-     "investors borrow record",
-     1.0,
-     "new"
-    ],
-    [
-     "quake shakes kumamoto",
-     1.0,
-     "new"
-    ],
-    [
-     "lakh crore expansion",
-     1.0,
-     "new"
-    ],
-    [
-     "anchoring tsmc lakh",
-     1.0,
-     "new"
-    ],
-    [
-     "city anchoring tsmc",
-     1.0,
-     "new"
-    ],
-    [
-     "stocks what happen",
-     1.0,
-     "new"
-    ]
-   ],
-   "examples": [
-    {
-     "publisher": "livemint.com",
-     "title": "Japan quake shakes Kumamoto , the city anchoring TSMC \u20b91 . 91 lakh crore expansion",
-     "url": "https://www.livemint.com/news/world/japans-quake-shakes-kumamoto-the-city-anchoring-tsmcs-1-91-lakh-crore-expansion-11785321206361.html",
-     "sector": "Autos"
-    },
-    {
-     "publisher": "thehindubusinessline.com",
-     "title": "MTF book hits fresh high of \u20b91 . 43 lakh crore despite slower growth",
-     "url": "https://www.thehindubusinessline.com/markets/mtf-book-hits-fresh-high-of-143-lakh-crore-despite-slower-growth/article71268978.ece",
-     "sector": "Finance"
-    },
-    {
-     "publisher": "economictimes.indiatimes.com",
-     "title": "HDFC Bank , 3 other bank stocks wipe out Rs 1 . 5 lakh crore of investor wealth after Q1 . Time to buy the dip ?",
-     "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-3-other-bank-stocks-wipe-out-rs-1-5-lakh-crore-of-investors-wealth-after-q1-time-to-buy-the-dip/articleshow/132596148.cms",
-     "sector": "Finance"
-    },
-    {
-     "publisher": "economictimes.indiatimes.com",
-     "title": "MTF risk grows as investors borrow record Rs 1 . 36 lakh crore to buy stocks . What happens if the market falls ?",
-     "url": "https://economictimes.indiatimes.com/markets/stocks/news/mtf-risk-grows-as-investors-borrow-record-rs-1-36-lakh-crore-to-buy-stocks-what-happens-if-the-market-falls/articleshow/132572777.cms",
-     "sector": "Finance"
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-05-07",
-     "n": 0
-    },
-    {
-     "day": "2026-05-08",
-     "n": 0
-    },
-    {
-     "day": "2026-05-09",
-     "n": 0
-    },
-    {
-     "day": "2026-05-10",
-     "n": 0
-    },
-    {
-     "day": "2026-05-11",
-     "n": 0
-    },
-    {
-     "day": "2026-05-12",
-     "n": 0
-    },
-    {
-     "day": "2026-05-13",
-     "n": 0
-    },
-    {
-     "day": "2026-05-14",
-     "n": 0
-    },
-    {
-     "day": "2026-05-15",
-     "n": 0
-    },
-    {
-     "day": "2026-05-16",
-     "n": 0
-    },
-    {
-     "day": "2026-05-17",
-     "n": 0
-    },
-    {
-     "day": "2026-05-18",
-     "n": 0
-    },
-    {
-     "day": "2026-05-19",
-     "n": 0
-    },
-    {
-     "day": "2026-05-20",
-     "n": 0
-    },
-    {
-     "day": "2026-05-21",
-     "n": 3
-    },
-    {
-     "day": "2026-05-22",
-     "n": 0
-    },
-    {
-     "day": "2026-05-23",
-     "n": 0
-    },
-    {
-     "day": "2026-05-24",
-     "n": 0
-    },
-    {
-     "day": "2026-05-25",
-     "n": 0
-    },
-    {
-     "day": "2026-05-26",
-     "n": 0
-    },
-    {
-     "day": "2026-05-27",
-     "n": 0
-    },
-    {
-     "day": "2026-05-28",
-     "n": 0
-    },
-    {
-     "day": "2026-05-29",
-     "n": 0
-    },
-    {
-     "day": "2026-05-30",
-     "n": 0
-    },
-    {
-     "day": "2026-05-31",
-     "n": 0
-    },
-    {
-     "day": "2026-06-01",
-     "n": 0
-    },
-    {
-     "day": "2026-06-02",
-     "n": 0
-    },
-    {
-     "day": "2026-06-03",
-     "n": 0
-    },
-    {
-     "day": "2026-06-04",
-     "n": 0
-    },
-    {
-     "day": "2026-06-05",
-     "n": 0
-    },
-    {
-     "day": "2026-06-06",
-     "n": 0
-    },
-    {
-     "day": "2026-06-07",
-     "n": 0
-    },
-    {
-     "day": "2026-06-08",
-     "n": 0
-    },
-    {
-     "day": "2026-06-09",
-     "n": 0
-    },
-    {
-     "day": "2026-06-10",
-     "n": 0
-    },
-    {
-     "day": "2026-06-11",
-     "n": 0
-    },
-    {
-     "day": "2026-06-12",
-     "n": 0
-    },
-    {
-     "day": "2026-06-13",
-     "n": 0
-    },
-    {
-     "day": "2026-06-14",
-     "n": 0
-    },
-    {
-     "day": "2026-06-15",
-     "n": 0
-    },
-    {
-     "day": "2026-06-16",
-     "n": 0
-    },
-    {
-     "day": "2026-06-17",
-     "n": 0
-    },
-    {
-     "day": "2026-06-18",
-     "n": 0
-    },
-    {
-     "day": "2026-06-19",
-     "n": 0
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 1
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 0
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 5
-    },
-    {
-     "day": "2026-07-16",
-     "n": 3
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 1
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 1
-    },
-    {
-     "day": "2026-07-24",
-     "n": 1
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 1
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 1
-    },
-    {
-     "day": "2026-07-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 0
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 0
-    },
-    {
-     "day": "2026-08-04",
-     "n": 0
-    }
-   ],
-   "specificity": 0.993,
    "rank": 1.99
   }
  ]

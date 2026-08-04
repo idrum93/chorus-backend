@@ -1,12 +1,12 @@
 # Crosstalk — week ending 04 August 2026
 
-*4,970 articles from 14 sectors over 89 days. Every figure is a count of articles read; nothing is modelled or forecast.*
+*4,998 articles from 14 sectors over 89 days. Every figure is a count of articles read; nothing is modelled or forecast.*
 
 ## Crossed into a new industry this week
 
 **data center** — now in 9 industries. **Supply chain** picked it up 4d ago; it started in real estate coverage on 2026-05-11.
-  - [Sponsored: Maximize tokens per watt to power the AI era forward](https://www.datacenterdynamics.com/en/marketwatch/maximize-tokens-per-watt-to-power-the-ai-era-forward/) · Data Center Dynamics · technology
-  - [Data center approvals in Texas halted until audits completed , Gov . Greg Abbott says](https://abc13.com/post/data-center-approvals-texas-halted-audits-completed-gov-greg-abbott-says/19620316/) · abc13.com · utilities
+  - [Texas governor directs PUCT, ERCOT to audit all data centers seeking grid connection](https://www.datacenterdynamics.com/en/news/texas-governor-directs-puct-ercot-to-audit-all-data-centers-seeking-grid-connection/) · Data Center Dynamics · technology
+  - [Data centers take center stage in Wisconsin governor's race](https://www.canarymedia.com/articles/data-centers/wisconsin-governors-race) · Canary Media · energy
 
 **artificial intelligence** — now in 7 industries. **Utilities** picked it up 1d ago; it started in energy coverage on 2026-07-21.
   - [AI boom lifts mining while competing for power](https://www.mining.com/ai-boom-lifts-mining-while-competing-for-power/) · Mining.com · materials
@@ -21,8 +21,8 @@
   - [Private equity firm tries again to buy 100-plus J.C. Penney stores](https://www.retaildive.com/news/private-equity-firm-onyx-partners-tries-to-buy-117-jcpenney-stores/826804/) · Retail Dive · consumer
 
 **energy demand** — now in 4 industries. **Technology** picked it up 1d ago; it started in utilities coverage on 2026-06-15.
+  - [Germany's Energy Demand Falls as High Prices Hit Oil Consumption](https://oilprice.com/Latest-Energy-News/World-News/Germanys-Energy-Demand-Falls-as-High-Prices-Hit-Oil-Consumption.html) · OilPrice · energy
   - [DCD News: July review](https://www.datacenterdynamics.com/en/videos/dcd-news-july-review/) · Data Center Dynamics · technology
-  - [Virginia lays groundwork to combine more solar with farming](https://www.canarymedia.com/articles/food-and-farms/virginia-solar-with-farming) · Canary Media · energy
 
 **renewable energy** — now in 4 industries. **Technology** picked it up 1d ago; it started in energy coverage on 2026-06-10.
   - [TotalEnergies buys all of Shell's European renewable energy assets](https://www.esgdive.com/news/totalenergies-buys-all-of-shells-european-renewable-energy-assets/826849/) · ESG Dive · policy
@@ -48,7 +48,7 @@
 | clean air | 4 | 8 | 2.7× |
 | nuclear power | 4 | 15 | 2.1× |
 | renewable energy | 4 | 10 | 2.0× |
-| data center | 9 | 65 | 1.9× |
+| data center | 9 | 67 | 2.0× |
 | middle east | 3 | 5 | 1.7× |
 
 ---
