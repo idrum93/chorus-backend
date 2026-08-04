@@ -1,0 +1,48 @@
+# Save as .github/workflows/test.yml
+#
+# Runs the two tests and prints the result. Reads only — nothing is written,
+# nothing is committed, and it cannot disturb the collector.
+
+name: test
+
+on:
+  workflow_dispatch:
+    inputs:
+      which:
+        description: 'Which test to run'
+        required: true
+        default: 'status'
+        type: choice
+        options: [status, filings, news]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+
+      - name: Readiness of both tests
+        if: github.event.inputs.which == 'status'
+        run: |
+          {
+            echo "=== FILINGS TEST (runnable now) ==="
+            python3 filingtest.py --status 2>&1
+            echo ""
+            echo "=== NEWS TEST (needs live history) ==="
+            python3 backtest.py --status 2>&1
+          } | tee out.txt
+
+      - name: Filings test
+        if: github.event.inputs.which == 'filings'
+        run: python3 filingtest.py 2>&1 | tee out.txt
+
+      - name: News test
+        if: github.event.inputs.which == 'news'
+        run: python3 backtest.py 2>&1 | tee out.txt
+
+      - name: Report
+        if: always()
+        run: |
+          { echo "## Result"; echo '```'; cat out.txt; echo '```'; } >> $GITHUB_STEP_SUMMARY
