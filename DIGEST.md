@@ -1,20 +1,20 @@
 # Crosstalk — week ending 04 August 2026
 
-*4,998 articles from 14 sectors over 89 days. Every figure is a count of articles read; nothing is modelled or forecast.*
+*5,089 articles from 14 sectors over 89 days. Every figure is a count of articles read; nothing is modelled or forecast.*
 
 ## Crossed into a new industry this week
 
 **data center** — now in 9 industries. **Supply chain** picked it up 4d ago; it started in real estate coverage on 2026-05-11.
-  - [Texas governor directs PUCT, ERCOT to audit all data centers seeking grid connection](https://www.datacenterdynamics.com/en/news/texas-governor-directs-puct-ercot-to-audit-all-data-centers-seeking-grid-connection/) · Data Center Dynamics · technology
-  - [Data centers take center stage in Wisconsin governor's race](https://www.canarymedia.com/articles/data-centers/wisconsin-governors-race) · Canary Media · energy
+  - [Construction spending dropped 3.2% in June](https://www.constructiondive.com/news/construction-spending-june-2026-drop-data-centers/826936/) · Construction Dive · real estate
+  - [RedNote could build 600MW data center campus in Inner Mongolia - report](https://www.datacenterdynamics.com/en/news/rednote-could-build-600mw-data-center-campus-in-inner-mongolia-report/) · Data Center Dynamics · technology
 
 **artificial intelligence** — now in 7 industries. **Utilities** picked it up 1d ago; it started in energy coverage on 2026-07-21.
   - [AI boom lifts mining while competing for power](https://www.mining.com/ai-boom-lifts-mining-while-competing-for-power/) · Mining.com · materials
   - [Minutes to Exploit Months to Recover](https://www.powermag.com/minutes-to-exploit-months-to-recover/) · POWER Magazine · utilities
 
-**supply chain** — now in 6 industries. **Utilities** picked it up 1d ago; it started in supply chain coverage on 2026-05-12.
-  - [How Geothermal and Nuclear Could Help the U.S. Catch China in the Energy Race](https://oilprice.com/Energy/Energy-General/How-Geothermal-and-Nuclear-Could-Help-the-US-Catch-China-in-the-Energy-Race.html) · OilPrice · energy
-  - [Amazon to add supply chain facilities in New York, Texas](https://www.retaildive.com/news/amazon-adds-supply-chain-facilities-new-york-texas/826447/) · Retail Dive · consumer
+**supply chain** — now in 7 industries. **Utilities** picked it up 1d ago; it started in supply chain coverage on 2026-05-12.
+  - [Trump has another tariff plan to reshore generic drug production. Will it work?](https://www.supplychaindive.com/news/trump-has-another-tariff-plan-to-reshore-generic-drug-production-will-it-w/826818/) · Supply Chain Dive · supply chain
+  - [AI widely used to exploit critical flaws, disrupt supply chains](https://www.cybersecuritydive.com/news/ai-exploit-critical-flaws-disrupt-supply-chains/826915/) · Cybersecurity Dive · technology
 
 **private equity** — now in 4 industries. **Consumer** picked it up 1d ago; it started in healthcare coverage on 2026-07-15.
   - [Henry Schein removes 3 longtime execs in leadership shakeup](https://www.medtechdive.com/news/henry-schein-removes-3-longtime-execs-in-leadership-shakeup/826778/) · MedTech Dive · healthcare
@@ -33,23 +33,23 @@
   - [How Geothermal and Nuclear Could Help the U.S. Catch China in the Energy Race](https://oilprice.com/Energy/Energy-General/How-Geothermal-and-Nuclear-Could-Help-the-US-Catch-China-in-the-Energy-Race.html) · OilPrice · energy
 
 **natural gas** — now in 4 industries. **Utilities** picked it up 1d ago; it started in energy coverage on 2026-05-12.
+  - [India Expands Oil Storage Sites After Shock Supply Disruption](https://oilprice.com/Latest-Energy-News/World-News/India-Expands-Oil-Storage-Sites-After-Shock-Supply-Disruption.html) · OilPrice · energy
   - [Trump's Iran Reversal Sends European Gas Prices Tumbling](https://oilprice.com/Latest-Energy-News/World-News/Trumps-Iran-Reversal-Sends-European-Gas-Prices-Tumbling.html) · OilPrice · energy
-  - [Innovation Powers a Country's Energy Transition](https://www.powermag.com/innovation-powers-a-countrys-energy-transition/) · POWER Magazine · utilities
 
 ## Being used more than a fortnight ago
 
 | phrase | industries | articles | vs prior fortnight |
 |---|---|---|---|
-| natural gas | 4 | 15 | 5.0× |
-| rare earth | 3 | 62 | 4.8× |
-| real estate | 4 | 23 | 4.6× |
-| artificial intelligence | 7 | 19 | 3.8× |
-| supply chain | 6 | 32 | 3.2× |
+| natural gas | 4 | 16 | 5.3× |
+| real estate | 4 | 26 | 5.2× |
+| rare earth | 3 | 63 | 4.8× |
+| artificial intelligence | 7 | 19 | 4.8× |
+| supply chain | 7 | 34 | 3.4× |
 | clean air | 4 | 8 | 2.7× |
+| middle east | 3 | 7 | 2.3× |
+| data center | 9 | 78 | 2.3× |
 | nuclear power | 4 | 15 | 2.1× |
 | renewable energy | 4 | 10 | 2.0× |
-| data center | 9 | 67 | 2.0× |
-| middle east | 3 | 5 | 1.7× |
 
 ---
 
