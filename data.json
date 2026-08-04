@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-04T21:59:40.523461+00:00",
+ "generated": "2026-08-04T22:12:53.466273+00:00",
  "prices": {
   "Autos": [
    {
@@ -48988,8 +48988,8 @@
   ]
  },
  "daysCollected": 95,
- "articlesStored": 5335,
- "articlesLive": 1776,
+ "articlesStored": 5339,
+ "articlesLive": 1780,
  "windowDays": 90,
  "terms": [
   {
@@ -49077,6 +49077,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -49798,6 +49799,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -50483,6 +50485,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -51188,6 +51191,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -51785,6 +51789,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -52400,6 +52405,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -53033,6 +53039,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -53622,6 +53629,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -54193,6 +54201,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -54764,6 +54773,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -55353,6 +55363,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -55924,6 +55935,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -56495,6 +56507,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -57066,6 +57079,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -57637,6 +57651,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -58280,6 +58295,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -58887,6 +58903,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -59458,6 +59475,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -60065,6 +60083,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -60664,6 +60683,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -61221,6 +61241,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -61766,6 +61787,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -62286,6 +62308,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -62843,6 +62866,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -63346,6 +63370,551 @@
    "rank": 2.99
   },
   {
+   "id": "financial-time",
+   "term": "financial time",
+   "direction": "new",
+   "sectorCount": 3,
+   "newestSector": "Materials",
+   "daysSinceNewestSector": 0,
+   "articles14d": 3,
+   "articlesPrior14d": 0,
+   "publishers": 3,
+   "sectors": [
+    {
+     "name": "Policy",
+     "firstSeen": "2026-07-25",
+     "recent": 1,
+     "articles": 1,
+     "share": 0.333,
+     "adopt": 79
+    },
+    {
+     "name": "Materials",
+     "firstSeen": "2026-08-04",
+     "recent": 1,
+     "articles": 1,
+     "share": 0.333,
+     "adopt": 89
+    },
+    {
+     "name": "Energy",
+     "firstSeen": "2026-08-04",
+     "recent": 1,
+     "articles": 1,
+     "share": 0.333,
+     "adopt": 89
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "US",
+     1
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-05-07",
+     "2026-05-14",
+     "2026-05-21",
+     "2026-05-28",
+     "2026-06-04",
+     "2026-06-11",
+     "2026-06-18",
+     "2026-06-25",
+     "2026-07-02",
+     "2026-07-09",
+     "2026-07-16",
+     "2026-07-23",
+     "2026-07-30"
+    ],
+    "bands": [
+     {
+      "sector": "Policy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0
+      ]
+     },
+     {
+      "sector": "Materials",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     },
+     {
+      "sector": "Energy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   "cooc": [
+    [
+     "challenge china dominance",
+     1.0,
+     "new",
+     1,
+     0
+    ],
+    [
+     "critical mineral security",
+     1.0,
+     "new",
+     1,
+     0
+    ],
+    [
+     "federal government spend",
+     1.0,
+     "new",
+     1,
+     0
+    ],
+    [
+     "financial times reported",
+     1.0,
+     "new",
+     1,
+     0
+    ],
+    [
+     "lithium nevada discovery",
+     1.0,
+     "new",
+     1,
+     0
+    ],
+    [
+     "nasa roadblock financial",
+     1.0,
+     "new",
+     1,
+     0
+    ]
+   ],
+   "examples": [
+    {
+     "publisher": "OilPrice",
+     "title": "U.S. Hits New Obstacle on Critical Mineral Security Course",
+     "url": "https://oilprice.com/Energy/Energy-General/US-Hits-New-Obstacle-on-Critical-Mineral-Security-Course.html",
+     "sector": "Energy"
+    },
+    {
+     "publisher": "Mining.com",
+     "title": "Largest US tungsten discovery hits NASA roadblock",
+     "url": "https://www.mining.com/largest-us-tungsten-discovery-hits-nasa-roadblock/",
+     "sector": "Materials"
+    },
+    {
+     "publisher": "naturalnews.com",
+     "title": "Financial Times : China Mulls Tighter Export Controls on AI Models and Chips NaturalNews . com",
+     "url": "https://www.naturalnews.com/2026-07-25-china-mulls-tighter-controls-ai-models-chips.html",
+     "sector": "Policy"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-05-07",
+     "n": 0
+    },
+    {
+     "day": "2026-05-08",
+     "n": 0
+    },
+    {
+     "day": "2026-05-09",
+     "n": 0
+    },
+    {
+     "day": "2026-05-10",
+     "n": 0
+    },
+    {
+     "day": "2026-05-11",
+     "n": 0
+    },
+    {
+     "day": "2026-05-12",
+     "n": 0
+    },
+    {
+     "day": "2026-05-13",
+     "n": 0
+    },
+    {
+     "day": "2026-05-14",
+     "n": 0
+    },
+    {
+     "day": "2026-05-15",
+     "n": 0
+    },
+    {
+     "day": "2026-05-16",
+     "n": 0
+    },
+    {
+     "day": "2026-05-17",
+     "n": 0
+    },
+    {
+     "day": "2026-05-18",
+     "n": 0
+    },
+    {
+     "day": "2026-05-19",
+     "n": 0
+    },
+    {
+     "day": "2026-05-20",
+     "n": 0
+    },
+    {
+     "day": "2026-05-21",
+     "n": 0
+    },
+    {
+     "day": "2026-05-22",
+     "n": 0
+    },
+    {
+     "day": "2026-05-23",
+     "n": 0
+    },
+    {
+     "day": "2026-05-24",
+     "n": 0
+    },
+    {
+     "day": "2026-05-25",
+     "n": 0
+    },
+    {
+     "day": "2026-05-26",
+     "n": 0
+    },
+    {
+     "day": "2026-05-27",
+     "n": 0
+    },
+    {
+     "day": "2026-05-28",
+     "n": 0
+    },
+    {
+     "day": "2026-05-29",
+     "n": 0
+    },
+    {
+     "day": "2026-05-30",
+     "n": 0
+    },
+    {
+     "day": "2026-05-31",
+     "n": 0
+    },
+    {
+     "day": "2026-06-01",
+     "n": 0
+    },
+    {
+     "day": "2026-06-02",
+     "n": 0
+    },
+    {
+     "day": "2026-06-03",
+     "n": 0
+    },
+    {
+     "day": "2026-06-04",
+     "n": 0
+    },
+    {
+     "day": "2026-06-05",
+     "n": 0
+    },
+    {
+     "day": "2026-06-06",
+     "n": 0
+    },
+    {
+     "day": "2026-06-07",
+     "n": 0
+    },
+    {
+     "day": "2026-06-08",
+     "n": 0
+    },
+    {
+     "day": "2026-06-09",
+     "n": 0
+    },
+    {
+     "day": "2026-06-10",
+     "n": 0
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 0
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 0
+    },
+    {
+     "day": "2026-06-16",
+     "n": 0
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 0
+    },
+    {
+     "day": "2026-06-19",
+     "n": 0
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 0
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 1
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-31",
+     "n": 0
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 0
+    },
+    {
+     "day": "2026-08-04",
+     "n": 2
+    }
+   ],
+   "specificity": 0.995,
+   "rank": 2.99
+  },
+  {
    "id": "utility-scale",
    "term": "utility scale",
    "direction": "new",
@@ -63382,6 +63951,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -63902,6 +64472,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -64441,6 +65012,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -65034,6 +65606,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -65573,6 +66146,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -66112,6 +66686,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -66675,6 +67250,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -67232,6 +67808,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -67763,6 +68340,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -68302,6 +68880,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -68826,7 +69405,7 @@
    "term": "profit jump",
    "direction": "falling",
    "sectorCount": 3,
-   "newestSector": "Energy",
+   "newestSector": "Technology",
    "daysSinceNewestSector": 0,
    "articles14d": 3,
    "articlesPrior14d": 5,
@@ -68841,7 +69420,7 @@
      "adopt": 69
     },
     {
-     "name": "Energy",
+     "name": "Technology",
      "firstSeen": "2026-08-04",
      "recent": 1,
      "articles": 1,
@@ -68849,7 +69428,7 @@
      "adopt": 89
     },
     {
-     "name": "Technology",
+     "name": "Energy",
      "firstSeen": "2026-08-04",
      "recent": 1,
      "articles": 1,
@@ -68858,6 +69437,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -68912,7 +69492,7 @@
       ]
      },
      {
-      "sector": "Energy",
+      "sector": "Technology",
       "n": [
        0,
        0,
@@ -68930,7 +69510,7 @@
       ]
      },
      {
-      "sector": "Technology",
+      "sector": "Energy",
       "n": [
        0,
        0,
@@ -69394,6 +69974,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -69448,7 +70029,7 @@
       ]
      },
      {
-      "sector": "Industrials",
+      "sector": "Autos",
       "n": [
        0,
        0,
@@ -69466,7 +70047,7 @@
       ]
      },
      {
-      "sector": "Autos",
+      "sector": "Industrials",
       "n": [
        0,
        0,
@@ -69951,6 +70532,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -70496,6 +71078,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -70532,7 +71115,7 @@
       ]
      },
      {
-      "sector": "Autos",
+      "sector": "Industrials",
       "n": [
        0,
        0,
@@ -70550,7 +71133,7 @@
       ]
      },
      {
-      "sector": "Industrials",
+      "sector": "Autos",
       "n": [
        0,
        0,
@@ -71003,7 +71586,7 @@
    "term": "dispute resolution",
    "direction": "new",
    "sectorCount": 3,
-   "newestSector": "Real estate",
+   "newestSector": "Energy",
    "daysSinceNewestSector": 1,
    "articles14d": 3,
    "articlesPrior14d": 0,
@@ -71018,7 +71601,7 @@
      "adopt": 84
     },
     {
-     "name": "Real estate",
+     "name": "Energy",
      "firstSeen": "2026-08-03",
      "recent": 1,
      "articles": 1,
@@ -71026,7 +71609,7 @@
      "adopt": 88
     },
     {
-     "name": "Energy",
+     "name": "Real estate",
      "firstSeen": "2026-08-03",
      "recent": 1,
      "articles": 1,
@@ -71035,6 +71618,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -71071,7 +71655,7 @@
       ]
      },
      {
-      "sector": "Real estate",
+      "sector": "Energy",
       "n": [
        0,
        0,
@@ -71089,7 +71673,7 @@
       ]
      },
      {
-      "sector": "Energy",
+      "sector": "Real estate",
       "n": [
        0,
        0,
@@ -71574,6 +72158,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -72113,6 +72698,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -72652,6 +73238,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -73191,6 +73778,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -73730,6 +74318,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -74261,6 +74850,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -74793,6 +75383,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -75332,6 +75923,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -75871,6 +76463,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -76434,6 +77027,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -77015,6 +77609,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -77546,6 +78141,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -78109,6 +78705,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -78654,6 +79251,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -79235,6 +79833,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -79798,6 +80397,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -80335,6 +80935,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -80848,6 +81449,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -81367,6 +81969,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -81880,6 +82483,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -82399,6 +83003,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -82948,6 +83553,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -83399,6 +84005,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -83884,6 +84491,525 @@
    "rank": 1.99
   },
   {
+   "id": "critical-metal",
+   "term": "critical metal",
+   "direction": "new",
+   "sectorCount": 2,
+   "newestSector": "Energy",
+   "daysSinceNewestSector": 0,
+   "articles14d": 3,
+   "articlesPrior14d": 0,
+   "publishers": 3,
+   "sectors": [
+    {
+     "name": "Materials",
+     "firstSeen": "2026-05-19",
+     "recent": 2,
+     "articles": 3,
+     "share": 0.667,
+     "adopt": 12
+    },
+    {
+     "name": "Energy",
+     "firstSeen": "2026-08-04",
+     "recent": 1,
+     "articles": 1,
+     "share": 0.333,
+     "adopt": 89
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "US",
+     1
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-05-07",
+     "2026-05-14",
+     "2026-05-21",
+     "2026-05-28",
+     "2026-06-04",
+     "2026-06-11",
+     "2026-06-18",
+     "2026-06-25",
+     "2026-07-02",
+     "2026-07-09",
+     "2026-07-16",
+     "2026-07-23",
+     "2026-07-30"
+    ],
+    "bands": [
+     {
+      "sector": "Materials",
+      "n": [
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       2
+      ]
+     },
+     {
+      "sector": "Energy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   "cooc": [
+    [
+     "namibia critical metal",
+     1.0,
+     "new",
+     2,
+     0
+    ],
+    [
+     "challenge china dominance",
+     0.5,
+     "new",
+     1,
+     0
+    ],
+    [
+     "critical mineral security",
+     0.5,
+     "new",
+     1,
+     0
+    ],
+    [
+     "federal government spend",
+     0.5,
+     "new",
+     1,
+     0
+    ],
+    [
+     "financial times reported",
+     0.5,
+     "new",
+     1,
+     0
+    ],
+    [
+     "strategic joint venture",
+     0.5,
+     "new",
+     1,
+     0
+    ]
+   ],
+   "examples": [
+    {
+     "publisher": "OilPrice",
+     "title": "U.S. Hits New Obstacle on Critical Mineral Security Course",
+     "url": "https://oilprice.com/Energy/Energy-General/US-Hits-New-Obstacle-on-Critical-Mineral-Security-Course.html",
+     "sector": "Energy"
+    },
+    {
+     "publisher": "californiatelegraph.com",
+     "title": "Namibia Critical Metals Announces Completion of Japan C$23 Million Earn - In and Formation of Strategic Joint Venture Company for the Lofdal Heavy Rare Earth Project",
+     "url": "http://www.californiatelegraph.com/news/279217066/namibia-critical-metals-announces-completion-of-japan-c23-million-earn-in-and-formation-of-strategic-joint-venture-company-for-the-lofdal-heavy-rare-earth-project",
+     "sector": "Materials"
+    },
+    {
+     "publisher": "pr-inside.com",
+     "title": "Namibia Critical Metals Announces Completion of Japan C$23 Million ...",
+     "url": "https://www.pr-inside.com/namibia-critical-metals-announces-completion-of-japan-s-c-23-million-r5206523.htm",
+     "sector": "Materials"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-05-07",
+     "n": 0
+    },
+    {
+     "day": "2026-05-08",
+     "n": 0
+    },
+    {
+     "day": "2026-05-09",
+     "n": 0
+    },
+    {
+     "day": "2026-05-10",
+     "n": 0
+    },
+    {
+     "day": "2026-05-11",
+     "n": 0
+    },
+    {
+     "day": "2026-05-12",
+     "n": 0
+    },
+    {
+     "day": "2026-05-13",
+     "n": 0
+    },
+    {
+     "day": "2026-05-14",
+     "n": 0
+    },
+    {
+     "day": "2026-05-15",
+     "n": 0
+    },
+    {
+     "day": "2026-05-16",
+     "n": 0
+    },
+    {
+     "day": "2026-05-17",
+     "n": 0
+    },
+    {
+     "day": "2026-05-18",
+     "n": 0
+    },
+    {
+     "day": "2026-05-19",
+     "n": 1
+    },
+    {
+     "day": "2026-05-20",
+     "n": 0
+    },
+    {
+     "day": "2026-05-21",
+     "n": 0
+    },
+    {
+     "day": "2026-05-22",
+     "n": 0
+    },
+    {
+     "day": "2026-05-23",
+     "n": 0
+    },
+    {
+     "day": "2026-05-24",
+     "n": 0
+    },
+    {
+     "day": "2026-05-25",
+     "n": 0
+    },
+    {
+     "day": "2026-05-26",
+     "n": 0
+    },
+    {
+     "day": "2026-05-27",
+     "n": 0
+    },
+    {
+     "day": "2026-05-28",
+     "n": 0
+    },
+    {
+     "day": "2026-05-29",
+     "n": 0
+    },
+    {
+     "day": "2026-05-30",
+     "n": 0
+    },
+    {
+     "day": "2026-05-31",
+     "n": 0
+    },
+    {
+     "day": "2026-06-01",
+     "n": 0
+    },
+    {
+     "day": "2026-06-02",
+     "n": 0
+    },
+    {
+     "day": "2026-06-03",
+     "n": 0
+    },
+    {
+     "day": "2026-06-04",
+     "n": 0
+    },
+    {
+     "day": "2026-06-05",
+     "n": 0
+    },
+    {
+     "day": "2026-06-06",
+     "n": 0
+    },
+    {
+     "day": "2026-06-07",
+     "n": 0
+    },
+    {
+     "day": "2026-06-08",
+     "n": 0
+    },
+    {
+     "day": "2026-06-09",
+     "n": 0
+    },
+    {
+     "day": "2026-06-10",
+     "n": 0
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 0
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 0
+    },
+    {
+     "day": "2026-06-16",
+     "n": 0
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 0
+    },
+    {
+     "day": "2026-06-19",
+     "n": 0
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 0
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 2
+    },
+    {
+     "day": "2026-07-31",
+     "n": 0
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 0
+    },
+    {
+     "day": "2026-08-04",
+     "n": 1
+    }
+   ],
+   "specificity": 0.995,
+   "rank": 1.99
+  },
+  {
    "id": "mandeb-strait",
    "term": "mandeb strait",
    "direction": "new",
@@ -83912,6 +85038,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -84424,6 +85551,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -84912,6 +86040,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -85425,6 +86554,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -85938,6 +87068,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -86475,6 +87606,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -86926,6 +88058,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -87439,6 +88572,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -87952,6 +89086,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -88519,6 +89654,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -89049,6 +90185,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -89525,6 +90662,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -90038,6 +91176,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -90551,6 +91690,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -91082,6 +92222,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -91595,6 +92736,7 @@
     }
    ],
    "sinceStart": false,
+   "origins": [],
    "flow": {
     "weeks": [
      "2026-05-07",
@@ -92095,1050 +93237,6 @@
     }
    ],
    "specificity": 0.995,
-   "rank": 1.99
-  },
-  {
-   "id": "electricity-demand",
-   "term": "electricity demand",
-   "direction": "rising",
-   "sectorCount": 2,
-   "newestSector": "Utilities",
-   "daysSinceNewestSector": 1,
-   "articles14d": 3,
-   "articlesPrior14d": 1,
-   "publishers": 2,
-   "sectors": [
-    {
-     "name": "Energy",
-     "firstSeen": "2026-06-23",
-     "recent": 2,
-     "articles": 4,
-     "share": 0.667,
-     "adopt": 47
-    },
-    {
-     "name": "Utilities",
-     "firstSeen": "2026-08-03",
-     "recent": 1,
-     "articles": 1,
-     "share": 0.333,
-     "adopt": 88
-    }
-   ],
-   "sinceStart": false,
-   "flow": {
-    "weeks": [
-     "2026-05-07",
-     "2026-05-14",
-     "2026-05-21",
-     "2026-05-28",
-     "2026-06-04",
-     "2026-06-11",
-     "2026-06-18",
-     "2026-06-25",
-     "2026-07-02",
-     "2026-07-09",
-     "2026-07-16",
-     "2026-07-23",
-     "2026-07-30"
-    ],
-    "bands": [
-     {
-      "sector": "Energy",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0,
-       1,
-       0,
-       2
-      ]
-     },
-     {
-      "sector": "Utilities",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1
-      ]
-     }
-    ]
-   },
-   "cooc": [
-    [
-     "commercial scaling tapping",
-     1.0,
-     "new",
-     1,
-     0
-    ],
-    [
-     "metered electricity demand",
-     1.0,
-     "new",
-     1,
-     0
-    ],
-    [
-     "electricity generation",
-     1.0,
-     "new",
-     1,
-     0
-    ],
-    [
-     "country tidal energy",
-     1.0,
-     "new",
-     1,
-     0
-    ],
-    [
-     "alaska based tidal",
-     1.0,
-     "new",
-     1,
-     0
-    ],
-    [
-     "based tidal energy",
-     1.0,
-     "new",
-     1,
-     0
-    ]
-   ],
-   "examples": [
-    {
-     "publisher": "EIA Today in Energy",
-     "title": "Metered electricity demand in the New York ISO falls midday because of small-scale solar",
-     "url": "https://www.eia.gov/todayinenergy/detail.php?id=67806",
-     "sector": "Utilities"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Tidal Energy Could Cover 57% of US Electricity Demand, NREL Study Finds",
-     "url": "https://oilprice.com/Energy/Energy-General/Tidal-Energy-Could-Cover-57-of-US-Electricity-Demand-NREL-Study-Finds.html",
-     "sector": "Energy"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "AI\u2019s Electricity Demand Is Not the Real Problem. Its Inflexibility Is",
-     "url": "https://oilprice.com/Energy/Energy-General/AIs-Electricity-Demand-Is-Not-the-Real-Problem-Its-Inflexibility-Is.html",
-     "sector": "Energy"
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-05-07",
-     "n": 0
-    },
-    {
-     "day": "2026-05-08",
-     "n": 0
-    },
-    {
-     "day": "2026-05-09",
-     "n": 0
-    },
-    {
-     "day": "2026-05-10",
-     "n": 0
-    },
-    {
-     "day": "2026-05-11",
-     "n": 0
-    },
-    {
-     "day": "2026-05-12",
-     "n": 0
-    },
-    {
-     "day": "2026-05-13",
-     "n": 0
-    },
-    {
-     "day": "2026-05-14",
-     "n": 0
-    },
-    {
-     "day": "2026-05-15",
-     "n": 0
-    },
-    {
-     "day": "2026-05-16",
-     "n": 0
-    },
-    {
-     "day": "2026-05-17",
-     "n": 0
-    },
-    {
-     "day": "2026-05-18",
-     "n": 0
-    },
-    {
-     "day": "2026-05-19",
-     "n": 0
-    },
-    {
-     "day": "2026-05-20",
-     "n": 0
-    },
-    {
-     "day": "2026-05-21",
-     "n": 0
-    },
-    {
-     "day": "2026-05-22",
-     "n": 0
-    },
-    {
-     "day": "2026-05-23",
-     "n": 0
-    },
-    {
-     "day": "2026-05-24",
-     "n": 0
-    },
-    {
-     "day": "2026-05-25",
-     "n": 0
-    },
-    {
-     "day": "2026-05-26",
-     "n": 0
-    },
-    {
-     "day": "2026-05-27",
-     "n": 0
-    },
-    {
-     "day": "2026-05-28",
-     "n": 0
-    },
-    {
-     "day": "2026-05-29",
-     "n": 0
-    },
-    {
-     "day": "2026-05-30",
-     "n": 0
-    },
-    {
-     "day": "2026-05-31",
-     "n": 0
-    },
-    {
-     "day": "2026-06-01",
-     "n": 0
-    },
-    {
-     "day": "2026-06-02",
-     "n": 0
-    },
-    {
-     "day": "2026-06-03",
-     "n": 0
-    },
-    {
-     "day": "2026-06-04",
-     "n": 0
-    },
-    {
-     "day": "2026-06-05",
-     "n": 0
-    },
-    {
-     "day": "2026-06-06",
-     "n": 0
-    },
-    {
-     "day": "2026-06-07",
-     "n": 0
-    },
-    {
-     "day": "2026-06-08",
-     "n": 0
-    },
-    {
-     "day": "2026-06-09",
-     "n": 0
-    },
-    {
-     "day": "2026-06-10",
-     "n": 0
-    },
-    {
-     "day": "2026-06-11",
-     "n": 0
-    },
-    {
-     "day": "2026-06-12",
-     "n": 0
-    },
-    {
-     "day": "2026-06-13",
-     "n": 0
-    },
-    {
-     "day": "2026-06-14",
-     "n": 0
-    },
-    {
-     "day": "2026-06-15",
-     "n": 0
-    },
-    {
-     "day": "2026-06-16",
-     "n": 0
-    },
-    {
-     "day": "2026-06-17",
-     "n": 0
-    },
-    {
-     "day": "2026-06-18",
-     "n": 0
-    },
-    {
-     "day": "2026-06-19",
-     "n": 0
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 1
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 0
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 1
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 0
-    },
-    {
-     "day": "2026-07-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 1
-    },
-    {
-     "day": "2026-08-02",
-     "n": 1
-    },
-    {
-     "day": "2026-08-03",
-     "n": 1
-    },
-    {
-     "day": "2026-08-04",
-     "n": 0
-    }
-   ],
-   "specificity": 0.995,
-   "rank": 1.99
-  },
-  {
-   "id": "rare-earth-magnet",
-   "term": "rare earth magnet",
-   "direction": "new",
-   "sectorCount": 2,
-   "newestSector": "Energy",
-   "daysSinceNewestSector": 1,
-   "articles14d": 5,
-   "articlesPrior14d": 0,
-   "publishers": 3,
-   "sectors": [
-    {
-     "name": "Materials",
-     "firstSeen": "2026-07-24",
-     "recent": 4,
-     "articles": 4,
-     "share": 0.8,
-     "adopt": 78
-    },
-    {
-     "name": "Energy",
-     "firstSeen": "2026-08-03",
-     "recent": 1,
-     "articles": 1,
-     "share": 0.2,
-     "adopt": 88
-    }
-   ],
-   "sinceStart": false,
-   "flow": {
-    "weeks": [
-     "2026-05-07",
-     "2026-05-14",
-     "2026-05-21",
-     "2026-05-28",
-     "2026-06-04",
-     "2026-06-11",
-     "2026-06-18",
-     "2026-06-25",
-     "2026-07-02",
-     "2026-07-09",
-     "2026-07-16",
-     "2026-07-23",
-     "2026-07-30"
-    ],
-    "bands": [
-     {
-      "sector": "Materials",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       3,
-       1
-      ]
-     },
-     {
-      "sector": "Policy",
-      "n": [
-       0,
-       1,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Energy",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1
-      ]
-     }
-    ]
-   },
-   "cooc": [
-    [
-     "earth magnet",
-     1.0,
-     "rising",
-     2,
-     1
-    ],
-    [
-     "rare earth",
-     1.0,
-     "rising",
-     2,
-     1
-    ],
-    [
-     "localization norms due",
-     0.5,
-     "new",
-     1,
-     0
-    ],
-    [
-     "seek another exemption",
-     0.5,
-     "new",
-     1,
-     0
-    ],
-    [
-     "build weapons without",
-     0.5,
-     "new",
-     1,
-     0
-    ],
-    [
-     "weapons without china",
-     0.5,
-     "new",
-     1,
-     0
-    ]
-   ],
-   "examples": [
-    {
-     "publisher": "ET Energyworld",
-     "title": "Next ECMS tranche may greenlight Rare Earth magnet plants",
-     "url": "https://energy.economictimes.indiatimes.com/news/coal/indias-push-for-rare-earth-magnet-manufacturing-set-to-gain-momentum/132817242",
-     "sector": "Energy"
-    },
-    {
-     "publisher": "ocregister.com",
-     "title": "US faces pressure to build weapons without China rare earth magnets",
-     "url": "https://www.ocregister.com/2026/08/03/us-weapons-without-china-rare-earth-magnets/",
-     "sector": "Materials"
-    },
-    {
-     "publisher": "livemint.com",
-     "title": "E - truck , e - bus makers to seek another exemption from localization norms due to non - availability of rare earth magnets",
-     "url": "https://www.livemint.com/industry/manufacturing/etruck-makers-e-bus-makers-exemption-from-localization-norms-rare-earth-magnets-china-pm-e-drive-scheme-11785221409124.html",
-     "sector": "Materials"
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-05-07",
-     "n": 0
-    },
-    {
-     "day": "2026-05-08",
-     "n": 0
-    },
-    {
-     "day": "2026-05-09",
-     "n": 0
-    },
-    {
-     "day": "2026-05-10",
-     "n": 0
-    },
-    {
-     "day": "2026-05-11",
-     "n": 0
-    },
-    {
-     "day": "2026-05-12",
-     "n": 0
-    },
-    {
-     "day": "2026-05-13",
-     "n": 0
-    },
-    {
-     "day": "2026-05-14",
-     "n": 0
-    },
-    {
-     "day": "2026-05-15",
-     "n": 1
-    },
-    {
-     "day": "2026-05-16",
-     "n": 0
-    },
-    {
-     "day": "2026-05-17",
-     "n": 0
-    },
-    {
-     "day": "2026-05-18",
-     "n": 0
-    },
-    {
-     "day": "2026-05-19",
-     "n": 0
-    },
-    {
-     "day": "2026-05-20",
-     "n": 0
-    },
-    {
-     "day": "2026-05-21",
-     "n": 0
-    },
-    {
-     "day": "2026-05-22",
-     "n": 0
-    },
-    {
-     "day": "2026-05-23",
-     "n": 0
-    },
-    {
-     "day": "2026-05-24",
-     "n": 0
-    },
-    {
-     "day": "2026-05-25",
-     "n": 0
-    },
-    {
-     "day": "2026-05-26",
-     "n": 0
-    },
-    {
-     "day": "2026-05-27",
-     "n": 0
-    },
-    {
-     "day": "2026-05-28",
-     "n": 0
-    },
-    {
-     "day": "2026-05-29",
-     "n": 0
-    },
-    {
-     "day": "2026-05-30",
-     "n": 0
-    },
-    {
-     "day": "2026-05-31",
-     "n": 0
-    },
-    {
-     "day": "2026-06-01",
-     "n": 0
-    },
-    {
-     "day": "2026-06-02",
-     "n": 0
-    },
-    {
-     "day": "2026-06-03",
-     "n": 0
-    },
-    {
-     "day": "2026-06-04",
-     "n": 0
-    },
-    {
-     "day": "2026-06-05",
-     "n": 0
-    },
-    {
-     "day": "2026-06-06",
-     "n": 0
-    },
-    {
-     "day": "2026-06-07",
-     "n": 0
-    },
-    {
-     "day": "2026-06-08",
-     "n": 0
-    },
-    {
-     "day": "2026-06-09",
-     "n": 0
-    },
-    {
-     "day": "2026-06-10",
-     "n": 0
-    },
-    {
-     "day": "2026-06-11",
-     "n": 0
-    },
-    {
-     "day": "2026-06-12",
-     "n": 0
-    },
-    {
-     "day": "2026-06-13",
-     "n": 0
-    },
-    {
-     "day": "2026-06-14",
-     "n": 0
-    },
-    {
-     "day": "2026-06-15",
-     "n": 0
-    },
-    {
-     "day": "2026-06-16",
-     "n": 0
-    },
-    {
-     "day": "2026-06-17",
-     "n": 0
-    },
-    {
-     "day": "2026-06-18",
-     "n": 0
-    },
-    {
-     "day": "2026-06-19",
-     "n": 0
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 0
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 1
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 1
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 1
-    },
-    {
-     "day": "2026-07-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 0
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 2
-    },
-    {
-     "day": "2026-08-04",
-     "n": 0
-    }
-   ],
-   "specificity": 0.992,
    "rank": 1.99
   }
  ]
