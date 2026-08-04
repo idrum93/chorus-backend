@@ -1,12 +1,12 @@
 # Crosstalk — week ending 04 August 2026
 
-*4,967 articles from 14 sectors over 89 days. Every figure is a count of articles read; nothing is modelled or forecast.*
+*4,970 articles from 14 sectors over 89 days. Every figure is a count of articles read; nothing is modelled or forecast.*
 
 ## Crossed into a new industry this week
 
 **data center** — now in 9 industries. **Supply chain** picked it up 4d ago; it started in real estate coverage on 2026-05-11.
+  - [Sponsored: Maximize tokens per watt to power the AI era forward](https://www.datacenterdynamics.com/en/marketwatch/maximize-tokens-per-watt-to-power-the-ai-era-forward/) · Data Center Dynamics · technology
   - [Data center approvals in Texas halted until audits completed , Gov . Greg Abbott says](https://abc13.com/post/data-center-approvals-texas-halted-audits-completed-gov-greg-abbott-says/19620316/) · abc13.com · utilities
-  - [Schneider Electric bolstering energy, design products](https://www.facilitiesdive.com/news/schneider-electric-bolstering-energy-design-products/826817/) · Facilities Dive · industrials
 
 **artificial intelligence** — now in 7 industries. **Utilities** picked it up 1d ago; it started in energy coverage on 2026-07-21.
   - [AI boom lifts mining while competing for power](https://www.mining.com/ai-boom-lifts-mining-while-competing-for-power/) · Mining.com · materials
@@ -48,7 +48,7 @@
 | clean air | 4 | 8 | 2.7× |
 | nuclear power | 4 | 15 | 2.1× |
 | renewable energy | 4 | 10 | 2.0× |
-| data center | 9 | 64 | 1.9× |
+| data center | 9 | 65 | 1.9× |
 | middle east | 3 | 5 | 1.7× |
 
 ---
