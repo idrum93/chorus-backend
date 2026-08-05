@@ -1,6 +1,6 @@
 # Crosstalk — week ending 05 August 2026
 
-*6,086 articles from 14 sectors over 98 days. Every figure is a count of articles read; nothing is modelled or forecast.*
+*6,113 articles from 14 sectors over 98 days. Every figure is a count of articles read; nothing is modelled or forecast.*
 
 ## Crossed into a new industry this week
 
@@ -17,16 +17,16 @@
   - [Toyota to join Volvo, Daimler heavy-duty fuel-cell joint venture](https://www.truckingdive.com/news/toyota-to-join-volvo-daimler-heavy-duty-fuel-cell-joint-venture/826924/) · Trucking Dive · supply chain
 
 **supply chain** — now in 8 industries. **Finance** picked it up today; it started in supply chain coverage on 2026-05-12.
+  - [China's copper smelting grip worries veteran metallurgist](https://www.mining.com/chinas-copper-smelting-grip-worries-veteran-metallurgist/) · Mining.com · materials
   - [Ahold Delhaize winds down plans to open 2 automated frozen warehouses](https://www.grocerydive.com/news/ahold-delhaize-americold-warehouse-automated-facility-distribution/827008/) · Grocery Dive · consumer
-  - [Podcast: Is the West's mining strategy working? Rebecca Seidl-Inglesby on policy and supply chains](https://www.northernminer.com/news/podcast-is-the-wests-mining-strategy-working-rebecca-seidl-inglesby-on-policy-and-supply-chains/1003893680/) · Northern Miner · materials
 
 **natural gas** — now in 7 industries. **Supply chain** picked it up today; it started in energy coverage on 2026-05-12.
   - [TGS launches seismic overhaul offshore Egypt](https://splash247.com/tgs-launches-seismic-overhaul-offshore-egypt/) · Splash247 · supply chain
   - [Amogy, 2G Energy test ammonia-to-power system for data center use](https://www.datacenterdynamics.com/en/news/amogy-2g-energy-test-ammonia-to-power-system-for-data-center-use/) · Data Center Dynamics · technology
 
 **iran war** — now in 6 industries. **Technology** picked it up 1d ago; it started in supply chain coverage on 2026-05-13.
+  - [Aramco's Record Profits Hide a Growing Cash Flow Crisis](https://oilprice.com/Energy/Energy-General/Aramcos-Record-Profits-Hide-a-Growing-Cash-Flow-Crisis.html) · OilPrice · energy
   - [Japan trading houses more upbeat on earnings as Iran war lifts prices](https://asia.nikkei.com/business/business-trends/japan-trading-houses-more-upbeat-on-earnings-as-iran-war-lifts-prices) · Nikkei Asia Business · technology
-  - [India Expands Oil Storage Sites After Shock Supply Disruption](https://oilprice.com/Latest-Energy-News/World-News/India-Expands-Oil-Storage-Sites-After-Shock-Supply-Disruption.html) · OilPrice · energy
 
 **middle east** — now in 6 industries. **Materials** picked it up 1d ago; it started in supply chain coverage on 2026-06-02.
   - [Houthis Claim Ballistic Missile Hit on Saudi Oil Tanker in Red Sea](https://oilprice.com/Latest-Energy-News/World-News/Houthis-Claim-Ballistic-Missile-Hit-on-Saudi-Oil-Tanker-in-Red-Sea.html) · OilPrice · energy
@@ -43,10 +43,10 @@
 | artificial intelligence | 10 | 55 | 13.8× |
 | natural gas | 7 | 29 | 9.7× |
 | rare earth | 4 | 66 | 6.6× |
-| real estate | 4 | 41 | 5.9× |
+| real estate | 4 | 42 | 6.0× |
+| supply chain | 8 | 55 | 5.0× |
 | critical mineral | 4 | 59 | 4.9× |
-| supply chain | 8 | 54 | 4.9× |
-| iran war | 6 | 12 | 4.0× |
+| iran war | 6 | 13 | 4.3× |
 | data center | 10 | 120 | 3.5× |
 | nuclear power | 4 | 18 | 3.0× |
 | clean air | 4 | 8 | 2.7× |

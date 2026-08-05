@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-05T16:59:58.199454+00:00",
+ "generated": "2026-08-05T18:10:52.261529+00:00",
  "prices": {
   "Autos": [
    {
@@ -241,6 +241,10 @@
    {
     "day": "2026-08-04",
     "close": 107.58
+   },
+   {
+    "day": "2026-08-05",
+    "close": 107.12
    }
   ],
   "Supply chain": [
@@ -728,7 +732,7 @@
    },
    {
     "day": "2026-08-05",
-    "close": 52.7
+    "close": 52.74
    }
   ],
   "Energy": [
@@ -974,7 +978,7 @@
    },
    {
     "day": "2026-08-05",
-    "close": 57.49
+    "close": 57.62
    }
   ],
   "Finance": [
@@ -1220,7 +1224,7 @@
    },
    {
     "day": "2026-08-05",
-    "close": 58.01
+    "close": 58.09
    }
   ],
   "Industrials": [
@@ -1466,7 +1470,7 @@
    },
    {
     "day": "2026-08-05",
-    "close": 186.85
+    "close": 186.87
    }
   ],
   "Technology": [
@@ -1954,7 +1958,7 @@
    },
    {
     "day": "2026-08-05",
-    "close": 45.04
+    "close": 45.05
    }
   ],
   "Utilities": [
@@ -2442,7 +2446,7 @@
    },
    {
     "day": "2026-08-05",
-    "close": 163.64
+    "close": 163.94
    }
   ],
   "Consumer": [
@@ -2688,18 +2692,18 @@
    },
    {
     "day": "2026-08-05",
-    "close": 118.58
+    "close": 118.41
    }
   ]
  },
  "coverage": [
   [
    "US",
-   5365
+   5386
   ],
   [
    "GB",
-   164
+   168
   ],
   [
    "IN",
@@ -2726,12 +2730,12 @@
    26
   ],
   [
-   "AU",
+   "GR",
    25
   ],
   [
-   "GR",
-   23
+   "AU",
+   25
   ],
   [
    "NL",
@@ -3483,6 +3487,65 @@
    ]
   },
   {
+   "ticker": "TM",
+   "name": "Toyota",
+   "sector": "Autos",
+   "articles": 28,
+   "articles14d": 12,
+   "terms": [
+    {
+     "term": "joint venture",
+     "articles": 1,
+     "sectors": 8,
+     "direction": "rising"
+    },
+    {
+     "term": "middle east",
+     "articles": 1,
+     "sectors": 6,
+     "direction": "rising"
+    },
+    {
+     "term": "rare earth",
+     "articles": 1,
+     "sectors": 4,
+     "direction": "rising"
+    },
+    {
+     "term": "cost saving",
+     "articles": 1,
+     "sectors": 3,
+     "direction": "new"
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "Just Auto",
+     "title": "Mobility firm Moove raises $250m in Series C round",
+     "url": "https://www.just-auto.com/news/moove-raises-250m-series-c/",
+     "sector": "Autos"
+    },
+    {
+     "publisher": "Trucking Dive",
+     "title": "Toyota to join Volvo, Daimler heavy-duty fuel-cell joint venture",
+     "url": "https://www.truckingdive.com/news/toyota-to-join-volvo-daimler-heavy-duty-fuel-cell-joint-venture/826924/",
+     "sector": "Supply chain"
+    },
+    {
+     "publisher": "Automotive Dive",
+     "title": "Toyota sees North American profitability, targets cost savings in hybrids",
+     "url": "https://www.wardsauto.com/news/toyota-sees-north-american-profitability-targets-cost-savings-in-hybrids/827022/",
+     "sector": "Autos"
+    },
+    {
+     "publisher": "Nikkei Asia Business",
+     "title": "Toyota's earnings increasingly tied to US market, Trump policy swings",
+     "url": "https://asia.nikkei.com/business/automobiles/toyota-s-earnings-increasingly-tied-to-us-market-trump-policy-swings",
+     "sector": "Technology"
+    }
+   ]
+  },
+  {
    "ticker": "MMM",
    "name": "3M",
    "sector": "Industrials",
@@ -3604,8 +3667,8 @@
    "ticker": "MSFT",
    "name": "Microsoft",
    "sector": "Technology",
-   "articles": 26,
-   "articles14d": 20,
+   "articles": 27,
+   "articles14d": 21,
    "terms": [
     {
      "term": "data center",
@@ -3634,6 +3697,12 @@
      "sector": "Technology"
     },
     {
+     "publisher": "The Register",
+     "title": "Microsoft tells engineers to curb their token-burning enthusiasm",
+     "url": "https://www.theregister.com/ai-and-ml/2026/08/05/microsoft-tells-engineers-to-curb-their-token-burning-enthusiasm/5283482",
+     "sector": "Technology"
+    },
+    {
      "publisher": "Data Center Dynamics",
      "title": "UK's Harworth Group in talks with multiple parties about selling land for data center development",
      "url": "https://www.datacenterdynamics.com/en/news/uks-harworth-group-in-talks-with-multiple-parties-about-selling-land-for-data-center-development/",
@@ -3644,65 +3713,6 @@
      "title": "Microsoft signs 23,602-ton carbon removal deal with wastewater alkalinity enhancement firm Crew",
      "url": "https://www.datacenterdynamics.com/en/news/microsoft-signs-23602-ton-carbon-removal-deal-with-wastewater-alkalinity-enhancement-firm-crew/",
      "sector": "Technology"
-    },
-    {
-     "publisher": "JPCERT/CC",
-     "title": "Weekly Report: Microsoft Edge\u306b\u8907\u6570\u306e\u8106\u5f31\u6027",
-     "url": "https://www.jpcert.or.jp/wr/2026/wr260805.html#1",
-     "sector": "Technology"
-    }
-   ]
-  },
-  {
-   "ticker": "TM",
-   "name": "Toyota",
-   "sector": "Autos",
-   "articles": 27,
-   "articles14d": 11,
-   "terms": [
-    {
-     "term": "joint venture",
-     "articles": 1,
-     "sectors": 8,
-     "direction": "rising"
-    },
-    {
-     "term": "middle east",
-     "articles": 1,
-     "sectors": 6,
-     "direction": "rising"
-    },
-    {
-     "term": "rare earth",
-     "articles": 1,
-     "sectors": 4,
-     "direction": "rising"
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "Just Auto",
-     "title": "Mobility firm Moove raises $250m in Series C round",
-     "url": "https://www.just-auto.com/news/moove-raises-250m-series-c/",
-     "sector": "Autos"
-    },
-    {
-     "publisher": "Trucking Dive",
-     "title": "Toyota to join Volvo, Daimler heavy-duty fuel-cell joint venture",
-     "url": "https://www.truckingdive.com/news/toyota-to-join-volvo-daimler-heavy-duty-fuel-cell-joint-venture/826924/",
-     "sector": "Supply chain"
-    },
-    {
-     "publisher": "Nikkei Asia Business",
-     "title": "Toyota's earnings increasingly tied to US market, Trump policy swings",
-     "url": "https://asia.nikkei.com/business/automobiles/toyota-s-earnings-increasingly-tied-to-us-market-trump-policy-swings",
-     "sector": "Technology"
-    },
-    {
-     "publisher": "Nikkei Asia Business",
-     "title": "Toyota raises full-year net profit forecast, helped by weak yen",
-     "url": "https://asia.nikkei.com/business/automobiles/toyota-raises-full-year-net-profit-forecast-helped-by-weak-yen",
-     "sector": "Technology"
     }
    ]
   },
@@ -3710,8 +3720,8 @@
    "ticker": "TSLA",
    "name": "Tesla",
    "sector": "Autos",
-   "articles": 16,
-   "articles14d": 9,
+   "articles": 17,
+   "articles14d": 10,
    "terms": [
     {
      "term": "data center",
@@ -3735,6 +3745,12 @@
    "examples": [
     {
      "publisher": "Automotive World",
+     "title": "EVgo to deploy Superchargers across its US network",
+     "url": "https://www.automotiveworld.com/news/evgo-to-deploy-superchargers-across-its-us-network/",
+     "sector": "Autos"
+    },
+    {
+     "publisher": "Automotive World",
      "title": "Tesla's July European sales split sharply by market",
      "url": "https://www.automotiveworld.com/news/teslas-july-european-sales-split-sharply-by-market/",
      "sector": "Autos"
@@ -3749,12 +3765,6 @@
      "publisher": "Automotive World",
      "title": "Tesla's FSD v14 Lite may be frying older HW3 computers",
      "url": "https://www.automotiveworld.com/news/teslas-fsd-v14-lite-may-be-frying-older-hw3-computers/",
-     "sector": "Autos"
-    },
-    {
-     "publisher": "ibtimes.com.au",
-     "title": "Musk Denies Report That Tesla Is Weighing a Sale of Its China Business Ahead of a SpaceX Merger Deal",
-     "url": "https://www.ibtimes.com.au/tesla-china-business-separation-spacex-merger-1873333",
      "sector": "Autos"
     }
    ]
@@ -4518,6 +4528,47 @@
    ]
   },
   {
+   "ticker": "AMD",
+   "name": "Advanced Micro Devices",
+   "sector": "Technology",
+   "articles": 22,
+   "articles14d": 5,
+   "terms": [
+    {
+     "term": "data center",
+     "articles": 1,
+     "sectors": 10,
+     "direction": "rising"
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "The Register",
+     "title": "AMD's AI eggs are in too few baskets, Wall Street worries",
+     "url": "https://www.theregister.com/systems/2026/08/05/amds-ai-eggs-are-in-too-few-baskets-wall-street-worries/5283142",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "The Register",
+     "title": "AMD's results spotlight risks of putting all your AI eggs in too few baskets",
+     "url": "https://www.theregister.com/ai-and-ml/2026/08/05/amds-results-spotlight-risks-of-putting-all-your-ai-eggs-in-too-few-baskets/5283142",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "Data Center Dynamics",
+     "title": "AMD posts Q2 \u201826 revenue of $11.5bn, with data center revenue up 107% for the quarter",
+     "url": "https://www.datacenterdynamics.com/en/news/amd-posts-q2-26-revenue-of-115bn-with-data-center-revenue-up-107-for-the-quarter/",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "DigiTimes Asia",
+     "title": "Analysis: AMD and Nvidia take opposite paths to capture next wave of AI infrastructure spending",
+     "url": "https://www.digitimes.com/news/a20260805VL210/amd-nvidia-ai-infrastructure-earnings-revenue.html",
+     "sector": "Technology"
+    }
+   ]
+  },
+  {
    "ticker": "MAERSK",
    "name": "Maersk",
    "sector": "Supply chain",
@@ -4555,47 +4606,6 @@
      "title": "Shippers unimpressed by container line reliability",
      "url": "https://www.seatrade-maritime.com/containers/shippers-unimpressed-by-container-line-reliability",
      "sector": "Supply chain"
-    }
-   ]
-  },
-  {
-   "ticker": "AMD",
-   "name": "Advanced Micro Devices",
-   "sector": "Technology",
-   "articles": 21,
-   "articles14d": 4,
-   "terms": [
-    {
-     "term": "data center",
-     "articles": 1,
-     "sectors": 10,
-     "direction": "rising"
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "The Register",
-     "title": "AMD's results spotlight risks of putting all your AI eggs in too few baskets",
-     "url": "https://www.theregister.com/ai-and-ml/2026/08/05/amds-results-spotlight-risks-of-putting-all-your-ai-eggs-in-too-few-baskets/5283142",
-     "sector": "Technology"
-    },
-    {
-     "publisher": "Data Center Dynamics",
-     "title": "AMD posts Q2 \u201826 revenue of $11.5bn, with data center revenue up 107% for the quarter",
-     "url": "https://www.datacenterdynamics.com/en/news/amd-posts-q2-26-revenue-of-115bn-with-data-center-revenue-up-107-for-the-quarter/",
-     "sector": "Technology"
-    },
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "Analysis: AMD and Nvidia take opposite paths to capture next wave of AI infrastructure spending",
-     "url": "https://www.digitimes.com/news/a20260805VL210/amd-nvidia-ai-infrastructure-earnings-revenue.html",
-     "sector": "Technology"
-    },
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "AMD leans on Helios and hyperscaler deals to press its case against Nvidia in AI chips",
-     "url": "https://www.digitimes.com/news/a20260805VL201/amd-nvidia-chips-2026-revenue.html",
-     "sector": "Technology"
     }
    ]
   },
@@ -4808,8 +4818,8 @@
    "ticker": "BWA",
    "name": "BorgWarner",
    "sector": "Autos",
-   "articles": 4,
-   "articles14d": 3,
+   "articles": 5,
+   "articles14d": 4,
    "terms": [
     {
      "term": "data center",
@@ -4819,6 +4829,12 @@
     }
    ],
    "examples": [
+    {
+     "publisher": "Automotive World",
+     "title": "BorgWarner posts Q2 margin gains, seven new awards",
+     "url": "https://www.automotiveworld.com/news/borgwarner-posts-q2-margin-gains-seven-new-awards/",
+     "sector": "Autos"
+    },
     {
      "publisher": "Automotive World",
      "title": "BorgWarner secures iDM award with global automaker",
@@ -4836,12 +4852,47 @@
      "title": "BorgWarner ( BWA ) to Release Earnings on Wednesday",
      "url": "https://www.dailypolitical.com/2026/07/29/borgwarner-bwa-to-release-earnings-on-wednesday.html",
      "sector": "Autos"
+    }
+   ]
+  },
+  {
+   "ticker": "BLK",
+   "name": "BlackRock",
+   "sector": "Finance",
+   "articles": 6,
+   "articles14d": 3,
+   "terms": [
+    {
+     "term": "real estate",
+     "articles": 1,
+     "sectors": 4,
+     "direction": "rising"
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "Commercial Observer",
+     "title": "In Largest U.S. Multifamily Sale Since 2024, BlackRock Pays $1.63B in SoCal",
+     "url": "https://commercialobserver.com/2026/08/california-multifamily-housing-blackrock-camden/",
+     "sector": "Real estate"
     },
     {
-     "publisher": "finance.yahoo.com",
-     "title": "BorgWarner Data Center Deal Has It Shifting Gears From Drivetrains to Large Language Models",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/borgwarners-data-center-deal-shifting-144200031.html",
+     "publisher": "Just Auto",
+     "title": "Bondholders threaten action over Aston Martin HPS financing deal report",
+     "url": "https://www.just-auto.com/news/bondholders-action-aston-martin-hps-financing-deal/",
      "sector": "Autos"
+    },
+    {
+     "publisher": "ESG Dive",
+     "title": "Google, Ford, others launch skilled trades workforce initiative",
+     "url": "https://www.esgdive.com/news/google-ford-others-launch-skilled-trades-workforce-initiative/826253/",
+     "sector": "Policy"
+    },
+    {
+     "publisher": "techtimes.com",
+     "title": "BlackRock and ACS Launch Coravel With a 140MW Hyperscaler Deal Already Signed",
+     "url": "https://www.techtimes.com/articles/320903/20260718/blackrock-acs-launch-coravel-140mw-hyperscaler-deal-already-signed.htm",
+     "sector": "Technology"
     }
    ]
   },
@@ -5493,40 +5544,6 @@
      "title": "Why Oklo Stock Sank 27 % In The First Half of 2026",
      "url": "https://www.fool.com/investing/2026/07/11/why-oklo-stock-sank-27-in-the-first-half-of-2026/?source=iedfolrf0000001",
      "sector": "Energy"
-    }
-   ]
-  },
-  {
-   "ticker": "BLK",
-   "name": "BlackRock",
-   "sector": "Finance",
-   "articles": 5,
-   "articles14d": 2,
-   "terms": [],
-   "examples": [
-    {
-     "publisher": "Just Auto",
-     "title": "Bondholders threaten action over Aston Martin HPS financing deal report",
-     "url": "https://www.just-auto.com/news/bondholders-action-aston-martin-hps-financing-deal/",
-     "sector": "Autos"
-    },
-    {
-     "publisher": "ESG Dive",
-     "title": "Google, Ford, others launch skilled trades workforce initiative",
-     "url": "https://www.esgdive.com/news/google-ford-others-launch-skilled-trades-workforce-initiative/826253/",
-     "sector": "Policy"
-    },
-    {
-     "publisher": "techtimes.com",
-     "title": "BlackRock and ACS Launch Coravel With a 140MW Hyperscaler Deal Already Signed",
-     "url": "https://www.techtimes.com/articles/320903/20260718/blackrock-acs-launch-coravel-140mw-hyperscaler-deal-already-signed.htm",
-     "sector": "Technology"
-    },
-    {
-     "publisher": "morningstar.com",
-     "title": "Dow Jones Top Company Headlines at 7 AM ET : Johnson & Johnson Bumps Up Guidance as Sales Rise | BlackRock ...",
-     "url": "https://www.morningstar.com/news/dow-jones/202607153358/dow-jones-top-company-headlines-at-7-am-et-johnson-johnson-bumps-up-guidance-as-sales-rise-blackrock",
-     "sector": "Healthcare"
     }
    ]
   },
@@ -35508,8 +35525,8 @@
   ]
  },
  "daysCollected": 98,
- "articlesStored": 6086,
- "articlesLive": 2368,
+ "articlesStored": 6113,
+ "articlesLive": 2395,
  "windowDays": 90,
  "terms": [
   {
@@ -37770,7 +37787,7 @@
    "sectorCount": 8,
    "newestSector": "Finance",
    "daysSinceNewestSector": 0,
-   "articles14d": 54,
+   "articles14d": 55,
    "articlesPrior14d": 11,
    "publishers": 35,
    "sectors": [
@@ -37779,7 +37796,7 @@
      "firstSeen": "2026-05-12",
      "recent": 21,
      "articles": 63,
-     "share": 0.389,
+     "share": 0.382,
      "adopt": 4
     },
     {
@@ -37787,15 +37804,15 @@
      "firstSeen": "2026-05-20",
      "recent": 2,
      "articles": 9,
-     "share": 0.037,
+     "share": 0.036,
      "adopt": 12
     },
     {
      "name": "Materials",
      "firstSeen": "2026-05-26",
-     "recent": 11,
-     "articles": 23,
-     "share": 0.204,
+     "recent": 12,
+     "articles": 24,
+     "share": 0.218,
      "adopt": 18
     },
     {
@@ -37803,7 +37820,7 @@
      "firstSeen": "2026-06-09",
      "recent": 3,
      "articles": 4,
-     "share": 0.056,
+     "share": 0.055,
      "adopt": 32
     },
     {
@@ -37811,7 +37828,7 @@
      "firstSeen": "2026-07-14",
      "recent": 7,
      "articles": 9,
-     "share": 0.13,
+     "share": 0.127,
      "adopt": 67
     },
     {
@@ -37819,7 +37836,7 @@
      "firstSeen": "2026-07-29",
      "recent": 6,
      "articles": 6,
-     "share": 0.111,
+     "share": 0.109,
      "adopt": 82
     },
     {
@@ -37827,7 +37844,7 @@
      "firstSeen": "2026-08-03",
      "recent": 3,
      "articles": 3,
-     "share": 0.056,
+     "share": 0.055,
      "adopt": 87
     },
     {
@@ -37835,7 +37852,7 @@
      "firstSeen": "2026-08-05",
      "recent": 1,
      "articles": 1,
-     "share": 0.019,
+     "share": 0.018,
      "adopt": 89
     }
    ],
@@ -37843,7 +37860,7 @@
    "origins": [
     [
      "US",
-     116
+     117
     ],
     [
      "GB",
@@ -37916,7 +37933,7 @@
        0,
        2,
        9,
-       2
+       3
       ]
      },
      {
@@ -38147,6 +38164,13 @@
    ],
    "examples": [
     {
+     "publisher": "Mining.com",
+     "title": "China's copper smelting grip worries veteran metallurgist",
+     "url": "https://www.mining.com/chinas-copper-smelting-grip-worries-veteran-metallurgist/",
+     "sector": "Materials",
+     "country": "US"
+    },
+    {
      "publisher": "Grocery Dive",
      "title": "Ahold Delhaize winds down plans to open 2 automated frozen warehouses",
      "url": "https://www.grocerydive.com/news/ahold-delhaize-americold-warehouse-automated-facility-distribution/827008/",
@@ -38166,13 +38190,6 @@
      "url": "https://www.supplychaindive.com/news/gymshark-names-new-chief-supply-chain-officer/826891/",
      "sector": "Supply chain",
      "country": "US"
-    },
-    {
-     "publisher": "ET BFSI",
-     "title": "RBI retains FY27 GDP growth forecast at 6.7%, sees domestic demand sustaining momentum despite global risks",
-     "url": "https://bfsi.economictimes.indiatimes.com/articles/rbi-retains-fy27-gdp-growth-forecast-at-6-7-sees-domestic-demand-sustaining-momentum-despite-global-risks/132896937",
-     "sector": "Finance",
-     "country": "IN"
     }
    ],
    "daily": [
@@ -38534,11 +38551,11 @@
     },
     {
      "day": "2026-08-05",
-     "n": 7
+     "n": 8
     }
    ],
-   "specificity": 0.925,
-   "rank": 7.61
+   "specificity": 0.924,
+   "rank": 7.6
   },
   {
    "id": "natural-gas",
@@ -39222,7 +39239,7 @@
    "sectorCount": 6,
    "newestSector": "Technology",
    "daysSinceNewestSector": 1,
-   "articles14d": 12,
+   "articles14d": 13,
    "articlesPrior14d": 3,
    "publishers": 8,
    "sectors": [
@@ -39231,15 +39248,15 @@
      "firstSeen": "2026-05-13",
      "recent": 2,
      "articles": 3,
-     "share": 0.167,
+     "share": 0.154,
      "adopt": 5
     },
     {
      "name": "Energy",
      "firstSeen": "2026-06-18",
-     "recent": 5,
-     "articles": 7,
-     "share": 0.417,
+     "recent": 6,
+     "articles": 8,
+     "share": 0.462,
      "adopt": 41
     },
     {
@@ -39247,7 +39264,7 @@
      "firstSeen": "2026-07-10",
      "recent": 2,
      "articles": 3,
-     "share": 0.167,
+     "share": 0.154,
      "adopt": 63
     },
     {
@@ -39255,7 +39272,7 @@
      "firstSeen": "2026-07-20",
      "recent": 1,
      "articles": 2,
-     "share": 0.083,
+     "share": 0.077,
      "adopt": 73
     },
     {
@@ -39263,7 +39280,7 @@
      "firstSeen": "2026-07-28",
      "recent": 1,
      "articles": 1,
-     "share": 0.083,
+     "share": 0.077,
      "adopt": 81
     },
     {
@@ -39271,7 +39288,7 @@
      "firstSeen": "2026-08-04",
      "recent": 1,
      "articles": 1,
-     "share": 0.083,
+     "share": 0.077,
      "adopt": 88
     }
    ],
@@ -39279,7 +39296,7 @@
    "origins": [
     [
      "US",
-     20
+     21
     ],
     [
      "GB",
@@ -39348,7 +39365,7 @@
        0,
        0,
        0,
-       5
+       6
       ]
      },
      {
@@ -39507,6 +39524,13 @@
    ],
    "examples": [
     {
+     "publisher": "OilPrice",
+     "title": "Aramco's Record Profits Hide a Growing Cash Flow Crisis",
+     "url": "https://oilprice.com/Energy/Energy-General/Aramcos-Record-Profits-Hide-a-Growing-Cash-Flow-Crisis.html",
+     "sector": "Energy",
+     "country": "US"
+    },
+    {
      "publisher": "Nikkei Asia Business",
      "title": "Japan trading houses more upbeat on earnings as Iran war lifts prices",
      "url": "https://asia.nikkei.com/business/business-trends/japan-trading-houses-more-upbeat-on-earnings-as-iran-war-lifts-prices",
@@ -39526,13 +39550,6 @@
      "url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/saudi-oil-tankers-navigate-conflict-zones-as-houthi-attacks-disrupt-shipping-traffic/132819657",
      "sector": "Energy",
      "country": "IN"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Why Have China and Russia Just Stepped Out Of The Shadows In The U.S.-Iran War?",
-     "url": "https://oilprice.com/Geopolitics/Middle-East/Why-Have-China-and-Russia-Just-Stepped-Out-Of-The-Shadows-In-The-US-Iran-War.html",
-     "sector": "Energy",
-     "country": "US"
     }
    ],
    "daily": [
@@ -39894,10 +39911,10 @@
     },
     {
      "day": "2026-08-05",
-     "n": 0
+     "n": 1
     }
    ],
-   "specificity": 0.983,
+   "specificity": 0.982,
    "rank": 5.93
   },
   {
@@ -56873,7 +56890,7 @@
    "sectorCount": 4,
    "newestSector": "Policy",
    "daysSinceNewestSector": 0,
-   "articles14d": 28,
+   "articles14d": 29,
    "articlesPrior14d": 0,
    "publishers": 4,
    "sectors": [
@@ -56882,15 +56899,15 @@
      "firstSeen": "2026-08-03",
      "recent": 11,
      "articles": 11,
-     "share": 0.393,
+     "share": 0.379,
      "adopt": 87
     },
     {
      "name": "Energy",
      "firstSeen": "2026-08-03",
-     "recent": 15,
-     "articles": 15,
-     "share": 0.536,
+     "recent": 16,
+     "articles": 16,
+     "share": 0.552,
      "adopt": 87
     },
     {
@@ -56898,7 +56915,7 @@
      "firstSeen": "2026-08-05",
      "recent": 1,
      "articles": 1,
-     "share": 0.036,
+     "share": 0.034,
      "adopt": 89
     },
     {
@@ -56906,7 +56923,7 @@
      "firstSeen": "2026-08-05",
      "recent": 1,
      "articles": 1,
-     "share": 0.036,
+     "share": 0.034,
      "adopt": 89
     }
    ],
@@ -56914,7 +56931,7 @@
    "origins": [
     [
      "US",
-     26
+     27
     ],
     [
      "IN",
@@ -56953,7 +56970,7 @@
        0,
        0,
        0,
-       15
+       16
       ]
      },
      {
@@ -57059,6 +57076,13 @@
    "examples": [
     {
      "publisher": "OilPrice",
+     "title": "India Hopes To Take Over Operation Of Venezuelan Oil Fields From PDVSA",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Hopes-To-Take-Over-Operation-Of-Venezuelan-Oil-Fields-From-PDVSA.html",
+     "sector": "Energy",
+     "country": "US"
+    },
+    {
+     "publisher": "OilPrice",
      "title": "Iraq-Syria Pipeline to Bypass Hormuz Could Be Revived Within 3 Years",
      "url": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Syria-Pipeline-to-Bypass-Hormuz-Could-Be-Revived-Within-3-Years.html",
      "sector": "Energy",
@@ -57075,13 +57099,6 @@
      "publisher": "OilPrice",
      "title": "US Oil Product Inventories Continue to Fall",
      "url": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Product-Inventories-Continue-to-Fall.html",
-     "sector": "Energy",
-     "country": "US"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "India Weighs Gas Levy to Bankroll $42 Billion Fuel Reserve Plan",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Weighs-Gas-Levy-to-Bankroll-42-Billion-Fuel-Reserve-Plan.html",
      "sector": "Energy",
      "country": "US"
     }
@@ -57445,10 +57462,10 @@
     },
     {
      "day": "2026-08-05",
-     "n": 6
+     "n": 7
     }
    ],
-   "specificity": 0.961,
+   "specificity": 0.96,
    "rank": 3.9
   },
   {
@@ -57458,16 +57475,16 @@
    "sectorCount": 4,
    "newestSector": "Technology",
    "daysSinceNewestSector": 2,
-   "articles14d": 41,
+   "articles14d": 42,
    "articlesPrior14d": 7,
    "publishers": 11,
    "sectors": [
     {
      "name": "Real estate",
      "firstSeen": "2026-05-16",
-     "recent": 36,
-     "articles": 56,
-     "share": 0.878,
+     "recent": 37,
+     "articles": 57,
+     "share": 0.881,
      "adopt": 8
     },
     {
@@ -57475,7 +57492,7 @@
      "firstSeen": "2026-07-25",
      "recent": 2,
      "articles": 2,
-     "share": 0.049,
+     "share": 0.048,
      "adopt": 78
     },
     {
@@ -57491,7 +57508,7 @@
      "firstSeen": "2026-08-03",
      "recent": 2,
      "articles": 2,
-     "share": 0.049,
+     "share": 0.048,
      "adopt": 87
     }
    ],
@@ -57499,7 +57516,7 @@
    "origins": [
     [
      "US",
-     54
+     55
     ],
     [
      "HK",
@@ -57542,7 +57559,7 @@
        0,
        4,
        5,
-       31
+       32
       ]
      },
      {
@@ -57684,6 +57701,13 @@
    "examples": [
     {
      "publisher": "Commercial Observer",
+     "title": "In Largest U.S. Multifamily Sale Since 2024, BlackRock Pays $1.63B in SoCal",
+     "url": "https://commercialobserver.com/2026/08/california-multifamily-housing-blackrock-camden/",
+     "sector": "Real estate",
+     "country": "US"
+    },
+    {
+     "publisher": "Commercial Observer",
      "title": "Mall Giant Macerich Narrows Losses in Q2 Amid Stronger Leasing",
      "url": "https://commercialobserver.com/2026/08/macerich-second-quarter-2026-leasing/",
      "sector": "Real estate",
@@ -57701,13 +57725,6 @@
      "title": "Cushman & Wakefield Sets Second-Quarter Revenue Record",
      "url": "https://commercialobserver.com/2026/08/cushman-wakefield-second-quarter-earnings/",
      "sector": "Real estate",
-     "country": "US"
-    },
-    {
-     "publisher": "Data Center Dynamics",
-     "title": "UK's Harworth Group in talks with multiple parties about selling land for data center development",
-     "url": "https://www.datacenterdynamics.com/en/news/uks-harworth-group-in-talks-with-multiple-parties-about-selling-land-for-data-center-development/",
-     "sector": "Technology",
      "country": "US"
     }
    ],
@@ -58070,10 +58087,10 @@
     },
     {
      "day": "2026-08-05",
-     "n": 4
+     "n": 5
     }
    ],
-   "specificity": 0.943,
+   "specificity": 0.942,
    "rank": 3.85
   },
   {
@@ -58666,7 +58683,7 @@
      "n": 4
     }
    ],
-   "specificity": 0.918,
+   "specificity": 0.919,
    "rank": 3.79
   },
   {
@@ -59251,7 +59268,7 @@
      "n": 1
     }
    ],
-   "specificity": 0.908,
+   "specificity": 0.909,
    "rank": 3.76
   },
   {
@@ -72993,6 +73010,576 @@
    "rank": 2.99
   },
   {
+   "id": "cost-saving",
+   "term": "cost saving",
+   "direction": "new",
+   "sectorCount": 3,
+   "newestSector": "Technology",
+   "daysSinceNewestSector": 0,
+   "articles14d": 3,
+   "articlesPrior14d": 0,
+   "publishers": 3,
+   "sectors": [
+    {
+     "name": "Materials",
+     "firstSeen": "2026-07-29",
+     "recent": 1,
+     "articles": 1,
+     "share": 0.333,
+     "adopt": 82
+    },
+    {
+     "name": "Autos",
+     "firstSeen": "2026-08-04",
+     "recent": 1,
+     "articles": 1,
+     "share": 0.333,
+     "adopt": 88
+    },
+    {
+     "name": "Technology",
+     "firstSeen": "2026-08-05",
+     "recent": 1,
+     "articles": 1,
+     "share": 0.333,
+     "adopt": 89
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "US",
+     3
+    ],
+    [
+     "IN",
+     1
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-05-08",
+     "2026-05-15",
+     "2026-05-22",
+     "2026-05-29",
+     "2026-06-05",
+     "2026-06-12",
+     "2026-06-19",
+     "2026-06-26",
+     "2026-07-03",
+     "2026-07-10",
+     "2026-07-17",
+     "2026-07-24",
+     "2026-07-31"
+    ],
+    "bands": [
+     {
+      "sector": "Healthcare",
+      "n": [
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "sector": "Materials",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0
+      ]
+     },
+     {
+      "sector": "Technology",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     },
+     {
+      "sector": "Autos",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   "cooc": [
+    [
+     "automaker anticipates stronger",
+     1.0,
+     "new",
+     1,
+     0
+    ],
+    [
+     "american profitability target",
+     1.0,
+     "new",
+     1,
+     0
+    ],
+    [
+     "furnace disruptions crack",
+     1.0,
+     "new",
+     1,
+     0
+    ],
+    [
+     "anticipates stronger mix",
+     1.0,
+     "new",
+     1,
+     0
+    ],
+    [
+     "cost effective batterie",
+     1.0,
+     "new",
+     1,
+     0
+    ],
+    [
+     "disruptions crack glass",
+     1.0,
+     "new",
+     1,
+     0
+    ]
+   ],
+   "examples": [
+    {
+     "publisher": "ET Telecom",
+     "title": "Bharti Airtel rolls out small AI model for 30,000 field engineers, sees \u20b930-45 cr cost savings",
+     "url": "https://telecom.economictimes.indiatimes.com/news/industry/bharti-airtel-rolls-out-small-ai-model-for-30000-field-engineers-sees-30-45-cr-cost-savings/132916469",
+     "sector": "Technology",
+     "country": "IN"
+    },
+    {
+     "publisher": "Automotive Dive",
+     "title": "Toyota sees North American profitability, targets cost savings in hybrids",
+     "url": "https://www.wardsauto.com/news/toyota-sees-north-american-profitability-targets-cost-savings-in-hybrids/827022/",
+     "sector": "Autos",
+     "country": "US"
+    },
+    {
+     "publisher": "Packaging Dive",
+     "title": "Furnace disruptions crack O-I Glass Q2 results",
+     "url": "https://www.packagingdive.com/news/oi-glass-q2-2026-packaging-earnings/826414/",
+     "sector": "Materials",
+     "country": "US"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-05-08",
+     "n": 0
+    },
+    {
+     "day": "2026-05-09",
+     "n": 0
+    },
+    {
+     "day": "2026-05-10",
+     "n": 0
+    },
+    {
+     "day": "2026-05-11",
+     "n": 0
+    },
+    {
+     "day": "2026-05-12",
+     "n": 0
+    },
+    {
+     "day": "2026-05-13",
+     "n": 0
+    },
+    {
+     "day": "2026-05-14",
+     "n": 0
+    },
+    {
+     "day": "2026-05-15",
+     "n": 0
+    },
+    {
+     "day": "2026-05-16",
+     "n": 0
+    },
+    {
+     "day": "2026-05-17",
+     "n": 0
+    },
+    {
+     "day": "2026-05-18",
+     "n": 0
+    },
+    {
+     "day": "2026-05-19",
+     "n": 0
+    },
+    {
+     "day": "2026-05-20",
+     "n": 0
+    },
+    {
+     "day": "2026-05-21",
+     "n": 0
+    },
+    {
+     "day": "2026-05-22",
+     "n": 0
+    },
+    {
+     "day": "2026-05-23",
+     "n": 0
+    },
+    {
+     "day": "2026-05-24",
+     "n": 0
+    },
+    {
+     "day": "2026-05-25",
+     "n": 0
+    },
+    {
+     "day": "2026-05-26",
+     "n": 0
+    },
+    {
+     "day": "2026-05-27",
+     "n": 0
+    },
+    {
+     "day": "2026-05-28",
+     "n": 0
+    },
+    {
+     "day": "2026-05-29",
+     "n": 0
+    },
+    {
+     "day": "2026-05-30",
+     "n": 0
+    },
+    {
+     "day": "2026-05-31",
+     "n": 0
+    },
+    {
+     "day": "2026-06-01",
+     "n": 0
+    },
+    {
+     "day": "2026-06-02",
+     "n": 0
+    },
+    {
+     "day": "2026-06-03",
+     "n": 1
+    },
+    {
+     "day": "2026-06-04",
+     "n": 0
+    },
+    {
+     "day": "2026-06-05",
+     "n": 0
+    },
+    {
+     "day": "2026-06-06",
+     "n": 0
+    },
+    {
+     "day": "2026-06-07",
+     "n": 0
+    },
+    {
+     "day": "2026-06-08",
+     "n": 0
+    },
+    {
+     "day": "2026-06-09",
+     "n": 0
+    },
+    {
+     "day": "2026-06-10",
+     "n": 0
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 0
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 0
+    },
+    {
+     "day": "2026-06-16",
+     "n": 0
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 0
+    },
+    {
+     "day": "2026-06-19",
+     "n": 0
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 0
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 1
+    },
+    {
+     "day": "2026-07-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-31",
+     "n": 0
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 0
+    },
+    {
+     "day": "2026-08-04",
+     "n": 1
+    },
+    {
+     "day": "2026-08-05",
+     "n": 1
+    }
+   ],
+   "specificity": 0.996,
+   "rank": 2.99
+  },
+  {
    "id": "non-binding",
    "term": "non binding",
    "direction": "new",
@@ -81888,576 +82475,6 @@
     {
      "day": "2026-08-01",
      "n": 0
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 0
-    },
-    {
-     "day": "2026-08-04",
-     "n": 1
-    },
-    {
-     "day": "2026-08-05",
-     "n": 0
-    }
-   ],
-   "specificity": 0.996,
-   "rank": 2.99
-  },
-  {
-   "id": "fully-integrated",
-   "term": "fully integrated",
-   "direction": "rising",
-   "sectorCount": 3,
-   "newestSector": "Industrials",
-   "daysSinceNewestSector": 1,
-   "articles14d": 3,
-   "articlesPrior14d": 1,
-   "publishers": 3,
-   "sectors": [
-    {
-     "name": "Waste & water",
-     "firstSeen": "2026-07-29",
-     "recent": 1,
-     "articles": 1,
-     "share": 0.333,
-     "adopt": 82
-    },
-    {
-     "name": "Technology",
-     "firstSeen": "2026-08-01",
-     "recent": 1,
-     "articles": 1,
-     "share": 0.333,
-     "adopt": 85
-    },
-    {
-     "name": "Industrials",
-     "firstSeen": "2026-08-04",
-     "recent": 1,
-     "articles": 1,
-     "share": 0.333,
-     "adopt": 88
-    }
-   ],
-   "sinceStart": false,
-   "origins": [
-    [
-     "US",
-     3
-    ],
-    [
-     "IN",
-     1
-    ]
-   ],
-   "flow": {
-    "weeks": [
-     "2026-05-08",
-     "2026-05-15",
-     "2026-05-22",
-     "2026-05-29",
-     "2026-06-05",
-     "2026-06-12",
-     "2026-06-19",
-     "2026-06-26",
-     "2026-07-03",
-     "2026-07-10",
-     "2026-07-17",
-     "2026-07-24",
-     "2026-07-31"
-    ],
-    "bands": [
-     {
-      "sector": "Autos",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Waste & water",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0
-      ]
-     },
-     {
-      "sector": "Technology",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1
-      ]
-     },
-     {
-      "sector": "Industrials",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1
-      ]
-     }
-    ]
-   },
-   "cooc": [
-    [
-     "integrated railwheel manufacturing",
-     1.0,
-     "new",
-     1,
-     0
-    ],
-    [
-     "drive improvements throughout",
-     1.0,
-     "new",
-     1,
-     0
-    ],
-    [
-     "densities equipment varietie",
-     1.0,
-     "new",
-     1,
-     0
-    ],
-    [
-     "stericycle fully integrated",
-     1.0,
-     "new",
-     1,
-     0
-    ],
-    [
-     "build integrated railwheel",
-     1.0,
-     "new",
-     1,
-     0
-    ],
-    [
-     "considers stericycle fully",
-     1.0,
-     "new",
-     1,
-     0
-    ]
-   ],
-   "examples": [
-    {
-     "publisher": "ET Manufacturing",
-     "title": "Jupiter Wagons partners Italy's Lucchini RS to build integrated railwheel manufacturing platform",
-     "url": "https://manufacturing.economictimes.indiatimes.com/news/industry/jupiter-wagons-partners-italys-lucchini-rs-to-build-integrated-railwheel-manufacturing-platform/132847729",
-     "sector": "Industrials",
-     "country": "IN"
-    },
-    {
-     "publisher": "Data Center Dynamics",
-     "title": "Sponsored: Tackling complexity in AI data centers: leveraging fully integrated solutions",
-     "url": "https://www.datacenterdynamics.com/en/opinions/tackling-complexity-in-ai-data-centers-leveraging-fully-integrated-solutions/",
-     "sector": "Technology",
-     "country": "US"
-    },
-    {
-     "publisher": "Waste Dive",
-     "title": "WM's healthcare, recycling projects drive balance in Q2",
-     "url": "https://www.wastedive.com/news/wm-q2-earnings-healthcare-integration-volume-down/826494/",
-     "sector": "Waste & water",
-     "country": "US"
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-05-08",
-     "n": 0
-    },
-    {
-     "day": "2026-05-09",
-     "n": 0
-    },
-    {
-     "day": "2026-05-10",
-     "n": 0
-    },
-    {
-     "day": "2026-05-11",
-     "n": 0
-    },
-    {
-     "day": "2026-05-12",
-     "n": 0
-    },
-    {
-     "day": "2026-05-13",
-     "n": 0
-    },
-    {
-     "day": "2026-05-14",
-     "n": 0
-    },
-    {
-     "day": "2026-05-15",
-     "n": 0
-    },
-    {
-     "day": "2026-05-16",
-     "n": 0
-    },
-    {
-     "day": "2026-05-17",
-     "n": 0
-    },
-    {
-     "day": "2026-05-18",
-     "n": 0
-    },
-    {
-     "day": "2026-05-19",
-     "n": 0
-    },
-    {
-     "day": "2026-05-20",
-     "n": 0
-    },
-    {
-     "day": "2026-05-21",
-     "n": 0
-    },
-    {
-     "day": "2026-05-22",
-     "n": 0
-    },
-    {
-     "day": "2026-05-23",
-     "n": 0
-    },
-    {
-     "day": "2026-05-24",
-     "n": 0
-    },
-    {
-     "day": "2026-05-25",
-     "n": 0
-    },
-    {
-     "day": "2026-05-26",
-     "n": 0
-    },
-    {
-     "day": "2026-05-27",
-     "n": 0
-    },
-    {
-     "day": "2026-05-28",
-     "n": 0
-    },
-    {
-     "day": "2026-05-29",
-     "n": 0
-    },
-    {
-     "day": "2026-05-30",
-     "n": 0
-    },
-    {
-     "day": "2026-05-31",
-     "n": 0
-    },
-    {
-     "day": "2026-06-01",
-     "n": 0
-    },
-    {
-     "day": "2026-06-02",
-     "n": 0
-    },
-    {
-     "day": "2026-06-03",
-     "n": 0
-    },
-    {
-     "day": "2026-06-04",
-     "n": 0
-    },
-    {
-     "day": "2026-06-05",
-     "n": 0
-    },
-    {
-     "day": "2026-06-06",
-     "n": 0
-    },
-    {
-     "day": "2026-06-07",
-     "n": 0
-    },
-    {
-     "day": "2026-06-08",
-     "n": 0
-    },
-    {
-     "day": "2026-06-09",
-     "n": 0
-    },
-    {
-     "day": "2026-06-10",
-     "n": 0
-    },
-    {
-     "day": "2026-06-11",
-     "n": 0
-    },
-    {
-     "day": "2026-06-12",
-     "n": 0
-    },
-    {
-     "day": "2026-06-13",
-     "n": 0
-    },
-    {
-     "day": "2026-06-14",
-     "n": 0
-    },
-    {
-     "day": "2026-06-15",
-     "n": 0
-    },
-    {
-     "day": "2026-06-16",
-     "n": 0
-    },
-    {
-     "day": "2026-06-17",
-     "n": 0
-    },
-    {
-     "day": "2026-06-18",
-     "n": 0
-    },
-    {
-     "day": "2026-06-19",
-     "n": 0
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 0
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 1
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 1
-    },
-    {
-     "day": "2026-07-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 1
     },
     {
      "day": "2026-08-02",
