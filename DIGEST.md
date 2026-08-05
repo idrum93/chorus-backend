@@ -1,6 +1,6 @@
 # Crosstalk — week ending 5 August 2026
 
-*6,138 articles over 98 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*6,150 articles over 98 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
@@ -13,24 +13,24 @@
   - [Australia's CDC files for data center in Kemps Creek, Sydney](https://www.datacenterdynamics.com/en/news/australias-cdc-files-for-data-center-in-kemps-creek-sydney/) · Data Center Dynamics · technology
 
 **joint venture** — now in 8 sectors. **Energy** picked it up today; it was first seen in real estate coverage on 16 June 2026.
+  - [Prosper and Versluys Close $50M Land Deal for $650M Miami Condo Tower](https://commercialobserver.com/2026/08/prosper-versluys-brickell-miami/) · Commercial Observer · real estate
   - [GM, SAIC extend China joint venture through to 2047](https://www.just-auto.com/news/gm-saic-extend-china-joint-venture/) · Just Auto · autos
-  - [Toyota to join Volvo, Daimler heavy-duty fuel-cell joint venture](https://www.truckingdive.com/news/toyota-to-join-volvo-daimler-heavy-duty-fuel-cell-joint-venture/826924/) · Trucking Dive · supply chain
 
 **supply chain** — now in 8 sectors. **Finance** picked it up today; it was first seen in supply chain coverage on 12 May 2026.
   - [DP World's Beat Simon: how AI drives better decisions in supply chain technology](https://theloadstar.com/dp-worlds-beat-simon-how-ai-drives-better-decisions-in-supply-chain-technology/) · The Loadstar · supply chain
   - [Hormuz Crisis Is Rewriting the Global LPG Trade](https://oilprice.com/Energy/Natural-Gas/Hormuz-Crisis-Is-Rewriting-the-Global-LPG-Trade.html) · OilPrice · energy
 
 **natural gas** — now in 7 sectors. **Supply chain** picked it up today; it was first seen in energy coverage on 12 May 2026.
+  - [Big Tech Turns to Fuel Cells to Power the AI Boom](https://oilprice.com/Alternative-Energy/Fuel-Cells/Big-Tech-Turns-to-Fuel-Cells-to-Power-the-AI-Boom.html) · OilPrice · energy
   - [Hormuz Crisis Is Rewriting the Global LPG Trade](https://oilprice.com/Energy/Natural-Gas/Hormuz-Crisis-Is-Rewriting-the-Global-LPG-Trade.html) · OilPrice · energy
-  - [TGS launches seismic overhaul offshore Egypt](https://splash247.com/tgs-launches-seismic-overhaul-offshore-egypt/) · Splash247 · supply chain
 
 **iran war** — now in 6 sectors. **Technology** picked it up 1d ago; it was first seen in supply chain coverage on 13 May 2026.
   - [Aramco's Record Profits Hide a Growing Cash Flow Crisis](https://oilprice.com/Energy/Energy-General/Aramcos-Record-Profits-Hide-a-Growing-Cash-Flow-Crisis.html) · OilPrice · energy
   - [Japan trading houses more upbeat on earnings as Iran war lifts prices](https://asia.nikkei.com/business/business-trends/japan-trading-houses-more-upbeat-on-earnings-as-iran-war-lifts-prices) · Nikkei Asia Business · technology
 
 **middle east** — now in 6 sectors. **Materials** picked it up 1d ago; it was first seen in supply chain coverage on 2 June 2026.
+  - [Venezuela's Oil Production Grows at a Crucial Time Despite Challenges](https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Production-Grows-at-a-Crucial-Time-Despite-Challenges.html) · OilPrice · energy
   - [Hormuz Crisis Is Rewriting the Global LPG Trade](https://oilprice.com/Energy/Natural-Gas/Hormuz-Crisis-Is-Rewriting-the-Global-LPG-Trade.html) · OilPrice · energy
-  - [Houthis Claim Ballistic Missile Hit on Saudi Oil Tanker in Red Sea](https://oilprice.com/Latest-Energy-News/World-News/Houthis-Claim-Ballistic-Missile-Hit-on-Saudi-Oil-Tanker-in-Red-Sea.html) · OilPrice · energy
 
 **oil price** — now in 6 sectors. **Energy** picked it up 5d ago; it was first seen in utilities coverage on 14 May 2026.
   - [Oil Price Rally Boosts Glencore's First-Half Profit](https://oilprice.com/Latest-Energy-News/World-News/Oil-Price-Rally-Boosts-Glencores-First-Half-Profit.html) · OilPrice · energy
@@ -41,7 +41,7 @@
 | phrase | sectors | articles | vs prior fortnight |
 |---|---|---|---|
 | artificial intelligence | 10 | 55 | 13.8× |
-| natural gas | 7 | 30 | 10.0× |
+| natural gas | 7 | 31 | 10.3× |
 | rare earth | 4 | 66 | 6.6× |
 | real estate | 4 | 42 | 6.0× |
 | supply chain | 8 | 57 | 5.2× |
