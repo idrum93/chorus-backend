@@ -1,58 +1,58 @@
-# Crosstalk — week ending 05 August 2026
+# Crosstalk — week ending 5 August 2026
 
-*6,113 articles from 14 sectors over 98 days. Every figure is a count of articles read; nothing is modelled or forecast.*
+*6,138 articles over 98 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
-## Crossed into a new industry this week
+## Crossed into a new sector this week
 
-**artificial intelligence** — now in 10 industries. **Consumer** picked it up today; it started in technology coverage on 2026-05-31.
+**artificial intelligence** — now in 10 sectors. **Consumer** picked it up today; it was first seen in technology coverage on 31 May 2026.
   - [AI Song Maker Suno Takes 12K SF at 515 West 20th Street](https://commercialobserver.com/2026/08/ai-song-maker-suno-515-west-20th-street/) · Commercial Observer · real estate
   - [6 contech startups net $234M in recent funding](https://www.constructiondive.com/news/contech-firms-artificial-intelligence-robotics/827044/) · Construction Dive · real estate
 
-**data center** — now in 10 industries. **Supply chain** picked it up 5d ago; it started in real estate coverage on 2026-05-11.
+**data center** — now in 10 sectors. **Supply chain** picked it up 5d ago; it was first seen in real estate coverage on 11 May 2026.
   - [Caterpillar sales surpass $20B as data center generators take off](https://www.manufacturingdive.com/news/caterpillar-sales-surpass-20b-growing-data-center-demand-q2-2026/827068/) · Manufacturing Dive · industrials
   - [Australia's CDC files for data center in Kemps Creek, Sydney](https://www.datacenterdynamics.com/en/news/australias-cdc-files-for-data-center-in-kemps-creek-sydney/) · Data Center Dynamics · technology
 
-**joint venture** — now in 8 industries. **Energy** picked it up today; it started in real estate coverage on 2026-06-16.
+**joint venture** — now in 8 sectors. **Energy** picked it up today; it was first seen in real estate coverage on 16 June 2026.
   - [GM, SAIC extend China joint venture through to 2047](https://www.just-auto.com/news/gm-saic-extend-china-joint-venture/) · Just Auto · autos
   - [Toyota to join Volvo, Daimler heavy-duty fuel-cell joint venture](https://www.truckingdive.com/news/toyota-to-join-volvo-daimler-heavy-duty-fuel-cell-joint-venture/826924/) · Trucking Dive · supply chain
 
-**supply chain** — now in 8 industries. **Finance** picked it up today; it started in supply chain coverage on 2026-05-12.
-  - [China's copper smelting grip worries veteran metallurgist](https://www.mining.com/chinas-copper-smelting-grip-worries-veteran-metallurgist/) · Mining.com · materials
-  - [Ahold Delhaize winds down plans to open 2 automated frozen warehouses](https://www.grocerydive.com/news/ahold-delhaize-americold-warehouse-automated-facility-distribution/827008/) · Grocery Dive · consumer
+**supply chain** — now in 8 sectors. **Finance** picked it up today; it was first seen in supply chain coverage on 12 May 2026.
+  - [DP World's Beat Simon: how AI drives better decisions in supply chain technology](https://theloadstar.com/dp-worlds-beat-simon-how-ai-drives-better-decisions-in-supply-chain-technology/) · The Loadstar · supply chain
+  - [Hormuz Crisis Is Rewriting the Global LPG Trade](https://oilprice.com/Energy/Natural-Gas/Hormuz-Crisis-Is-Rewriting-the-Global-LPG-Trade.html) · OilPrice · energy
 
-**natural gas** — now in 7 industries. **Supply chain** picked it up today; it started in energy coverage on 2026-05-12.
+**natural gas** — now in 7 sectors. **Supply chain** picked it up today; it was first seen in energy coverage on 12 May 2026.
+  - [Hormuz Crisis Is Rewriting the Global LPG Trade](https://oilprice.com/Energy/Natural-Gas/Hormuz-Crisis-Is-Rewriting-the-Global-LPG-Trade.html) · OilPrice · energy
   - [TGS launches seismic overhaul offshore Egypt](https://splash247.com/tgs-launches-seismic-overhaul-offshore-egypt/) · Splash247 · supply chain
-  - [Amogy, 2G Energy test ammonia-to-power system for data center use](https://www.datacenterdynamics.com/en/news/amogy-2g-energy-test-ammonia-to-power-system-for-data-center-use/) · Data Center Dynamics · technology
 
-**iran war** — now in 6 industries. **Technology** picked it up 1d ago; it started in supply chain coverage on 2026-05-13.
+**iran war** — now in 6 sectors. **Technology** picked it up 1d ago; it was first seen in supply chain coverage on 13 May 2026.
   - [Aramco's Record Profits Hide a Growing Cash Flow Crisis](https://oilprice.com/Energy/Energy-General/Aramcos-Record-Profits-Hide-a-Growing-Cash-Flow-Crisis.html) · OilPrice · energy
   - [Japan trading houses more upbeat on earnings as Iran war lifts prices](https://asia.nikkei.com/business/business-trends/japan-trading-houses-more-upbeat-on-earnings-as-iran-war-lifts-prices) · Nikkei Asia Business · technology
 
-**middle east** — now in 6 industries. **Materials** picked it up 1d ago; it started in supply chain coverage on 2026-06-02.
+**middle east** — now in 6 sectors. **Materials** picked it up 1d ago; it was first seen in supply chain coverage on 2 June 2026.
+  - [Hormuz Crisis Is Rewriting the Global LPG Trade](https://oilprice.com/Energy/Natural-Gas/Hormuz-Crisis-Is-Rewriting-the-Global-LPG-Trade.html) · OilPrice · energy
   - [Houthis Claim Ballistic Missile Hit on Saudi Oil Tanker in Red Sea](https://oilprice.com/Latest-Energy-News/World-News/Houthis-Claim-Ballistic-Missile-Hit-on-Saudi-Oil-Tanker-in-Red-Sea.html) · OilPrice · energy
-  - [Hormuz Bottleneck Pushes Indian Refiners Toward West African Grades](https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Bottleneck-Pushes-Indian-Refiners-Toward-West-African-Grades.html) · OilPrice · energy
 
-**oil price** — now in 6 industries. **Energy** picked it up 5d ago; it started in utilities coverage on 2026-05-14.
+**oil price** — now in 6 sectors. **Energy** picked it up 5d ago; it was first seen in utilities coverage on 14 May 2026.
   - [Oil Price Rally Boosts Glencore's First-Half Profit](https://oilprice.com/Latest-Energy-News/World-News/Oil-Price-Rally-Boosts-Glencores-First-Half-Profit.html) · OilPrice · energy
   - [RBI lowers FY27 inflation forecast to 5% despite food, fuel price pressures](https://manufacturing.economictimes.indiatimes.com/news/industry/rbi-lowers-fy27-inflation-forecast-to-5-despite-food-fuel-price-pressures/132892415) · ET Manufacturing · industrials
 
 ## Being used more than a fortnight ago
 
-| phrase | industries | articles | vs prior fortnight |
+| phrase | sectors | articles | vs prior fortnight |
 |---|---|---|---|
 | artificial intelligence | 10 | 55 | 13.8× |
-| natural gas | 7 | 29 | 9.7× |
+| natural gas | 7 | 30 | 10.0× |
 | rare earth | 4 | 66 | 6.6× |
 | real estate | 4 | 42 | 6.0× |
-| supply chain | 8 | 55 | 5.0× |
+| supply chain | 8 | 57 | 5.2× |
 | critical mineral | 4 | 59 | 4.9× |
 | iran war | 6 | 13 | 4.3× |
-| data center | 10 | 120 | 3.5× |
+| data center | 10 | 121 | 3.6× |
 | nuclear power | 4 | 18 | 3.0× |
 | clean air | 4 | 8 | 2.7× |
 
 ---
 
-Crosstalk tracks which phrases appear in more than one industry's trade press and when each industry started using them. It makes no forecast — testing found that neither a phrase accelerating nor spreading across sectors predicted what followed. "Rising" describes the last fortnight, not the next one.
+Crosstalk tracks which phrases appear in more than one sector's trade press and when each sector started using them. It makes no forecast — testing found that neither a phrase accelerating nor spreading across sectors predicted what followed. "Rising" describes the last fortnight, not the next one.
 
 crosstalkwire.com
