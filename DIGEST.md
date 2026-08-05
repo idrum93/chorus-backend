@@ -1,6 +1,6 @@
 # Crosstalk — week ending 05 August 2026
 
-*5,751 articles from 14 sectors over 98 days. Every figure is a count of articles read; nothing is modelled or forecast.*
+*5,757 articles from 14 sectors over 98 days. Every figure is a count of articles read; nothing is modelled or forecast.*
 
 ## Crossed into a new industry this week
 
@@ -32,9 +32,9 @@
   - [Gold buyers rush to lock prices as festive bookings begin early](https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/gold-buyers-rush-to-lock-prices-as-festive-bookings-begin-early/132845102) · ET Retail · consumer
   - [Commodity DRAM Prices Hit Another Record High in July](https://www.thelec.net/news/articleView.html?idxno=12762) · The Elec · technology
 
-**per cent** — now in 5 industries. **Materials** picked it up 1d ago; it started in consumer coverage on 2026-07-06.
-  - [LIC Housing Finance battles rising balance transfers despite healthy disbursements](https://bfsi.economictimes.indiatimes.com/news/insurance/lic-housing-finance-battles-rising-balance-transfers-despite-healthy-disbursements/132844156) · ET BFSI · finance
-  - [Marico Q1 net profit up 27 pc to Rs 652 cr on strong volume growth in domestic market](https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/marico-q1-net-profit-up-27-pc-to-rs-652-cr-on-strong-volume-growth-in-domestic-market/132859081) · ET Retail · consumer
+**natural gas** — now in 5 industries. **Real estate** picked it up 1d ago; it started in energy coverage on 2026-05-12.
+  - [Golar LNG raises $600 million loan with FLNG business expansion in mind](https://www.offshore-energy.biz/golar-lng-raises-600-million-loan-with-flng-business-expansion-in-mind/) · Offshore Energy · energy
+  - [Germany augments gas arsenal as Uniper pens 20-year LNG deal with Canadian project](https://www.offshore-energy.biz/germany-augments-gas-arsenal-as-uniper-pens-20-year-lng-deal-with-canadian-project/) · Offshore Energy · energy
 
 ## Being used more than a fortnight ago
 
