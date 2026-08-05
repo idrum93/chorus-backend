@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-05T02:23:37.392757+00:00",
+ "generated": "2026-08-05T02:46:49.665155+00:00",
  "prices": {
   "Autos": [
    {
@@ -43073,12 +43073,24 @@
    "sinceStart": false,
    "origins": [
     [
+     "US",
+     170
+    ],
+    [
      "KR",
      4
     ],
     [
+     "JP",
+     2
+    ],
+    [
      "TW",
      2
+    ],
+    [
+     "IN",
+     1
     ]
    ],
    "flow": {
@@ -43337,9 +43349,9 @@
     [
      "data center buildout",
      0.22,
-     "new",
+     "rising",
      2,
-     0
+     1
     ]
    ],
    "examples": [
@@ -43347,25 +43359,29 @@
      "publisher": "The Elec",
      "title": "Schneider Electric Develops 800V DC Power Infrastructure for AI Data Centers",
      "url": "https://www.thelec.net/news/articleView.html?idxno=12796",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "KR"
     },
     {
      "publisher": "DigiTimes Asia",
      "title": "From chip to grid: OCP CEO George Tchaparian on redefining data center architecture for the AI era",
      "url": "https://www.digitimes.com/news/a20260730VL236/ocp-taiwan-apac-cpo-infrastructure.html",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "TW"
     },
     {
      "publisher": "DigiTimes Asia",
      "title": "US dominates world's largest AI data centers as China places three in global top 60",
      "url": "https://www.digitimes.com/news/a20260804PD230/data-epoch-investment-capacity-data-center.html",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "TW"
     },
     {
      "publisher": "The Elec",
      "title": "MaxLinear Unveils \u2018Panther' AI Data Compression Accelerator to Tackle Memory Bottlenecks",
      "url": "https://www.thelec.net/news/articleView.html?idxno=12765",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "KR"
     }
    ],
    "daily": [
@@ -43812,12 +43828,24 @@
    "sinceStart": false,
    "origins": [
     [
+     "US",
+     29
+    ],
+    [
      "KR",
      12
     ],
     [
      "TW",
      2
+    ],
+    [
+     "GB",
+     1
+    ],
+    [
+     "NL",
+     1
     ]
    ],
    "flow": {
@@ -44050,25 +44078,29 @@
      "publisher": "DigiTimes Asia",
      "title": "Manz opens Tainan R&D center for advanced packaging equipment",
      "url": "https://www.digitimes.com/news/a20260805PD205/manz-equipment-packaging-tainan-science-park-southern-taiwan-science-park.html",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "TW"
     },
     {
      "publisher": "The Elec",
      "title": "SK hynix and Sandisk Unveil First HBF Standard, Supporting Up to 512GB Capacity",
      "url": "https://www.thelec.net/news/articleView.html?idxno=12793",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "KR"
     },
     {
      "publisher": "The Elec",
      "title": "Schneider Electric Develops 800V DC Power Infrastructure for AI Data Centers",
      "url": "https://www.thelec.net/news/articleView.html?idxno=12796",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "KR"
     },
     {
      "publisher": "The Elec",
      "title": "DeltaX to Build ESS Production Facility in Uiryeong County With 14.8 Billion Won Investment",
      "url": "https://www.thelec.net/news/articleView.html?idxno=12803",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "KR"
     }
    ],
    "daily": [
@@ -44507,11 +44539,27 @@
    "sinceStart": false,
    "origins": [
     [
+     "US",
+     112
+    ],
+    [
      "TW",
      4
     ],
     [
+     "GB",
+     2
+    ],
+    [
+     "AU",
+     1
+    ],
+    [
      "GR",
+     1
+    ],
+    [
+     "JP",
      1
     ]
    ],
@@ -44736,16 +44784,16 @@
     [
      "global supply chain",
      1.0,
-     "new",
+     "falling",
      3,
-     0
+     6
     ],
     [
      "mineral supply chain",
      0.67,
-     "rising",
+     "steady",
      2,
-     1
+     2
     ],
     [
      "supply chain risk",
@@ -44781,25 +44829,29 @@
      "publisher": "DigiTimes Asia",
      "title": "Taiwan, US, and China OSAT strategies diverge as industry shifts toward capacity expansion, supply chain restructuring, and next-generation packaging",
      "url": "https://www.digitimes.com/news/a20260731RS400/osat-capacity-expansion-packaging-supply-chain-taiwan-ase.html?chid=2",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "TW"
     },
     {
      "publisher": "DigiTimes Asia",
      "title": "FMS 2026 opens with major memory makers present, but CXMT missing from exhibitor list",
      "url": "https://www.digitimes.com/news/a20260805PD217/memory-chips-hbm-2026-cxmt-micron-samsung-sk-hynix.html",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "TW"
     },
     {
      "publisher": "Container News",
      "title": "ABP, Brett and Tarmac form Sizewell C logistics partnership",
      "url": "https://container-news.com/abp-brett-and-tarmac-form-sizewell-c-logistics-partnership/",
-     "sector": "Supply chain"
+     "sector": "Supply chain",
+     "country": "GR"
     },
     {
      "publisher": "DigiTimes Asia",
      "title": "China's chip output jumps nearly 350% in a decade as semiconductor supply chain expands",
      "url": "https://www.digitimes.com/news/a20260804VL208/industrial-capacity-equipment-production-cxmt.html",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "TW"
     }
    ],
    "daily": [
@@ -45220,7 +45272,16 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     8
+    ],
+    [
+     "IN",
+     1
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -45379,25 +45440,29 @@
      "publisher": "ET Telecom",
      "title": "Furukawa to invest \u20b96,000 cr to expand optical fiber & cable production capacity in India, US, Brazil, Japan",
      "url": "https://telecom.economictimes.indiatimes.com/news/telecom-equipment/furukawa-to-invest-6000-crore-in-optical-fiber-expansion-amid-growing-ai-demand/132851001",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "IN"
     },
     {
      "publisher": "Commercial Observer",
      "title": "PCCP, Integrity Community Builders Form Build-to-Rent JV",
      "url": "https://commercialobserver.com/2026/08/pccp-integrity-community-builders-jv/",
-     "sector": "Real estate"
+     "sector": "Real estate",
+     "country": "US"
     },
     {
      "publisher": "finanznachrichten.de",
      "title": "Grid Metals Corp .: Grid Metals Announces TSX Venture Approval for Falcon West Cesium Project Joint Venture",
      "url": "https://www.finanznachrichten.de/nachrichten-2026-07/69188444-grid-metals-corp-grid-metals-announces-tsx-venture-approval-for-falcon-west-cesium-project-joint-venture-200.htm",
-     "sector": "Materials"
+     "sector": "Materials",
+     "country": "US"
     },
     {
      "publisher": "Northern Miner",
      "title": "Cameco's Westinghouse nuclear unit files for IPO",
      "url": "https://www.northernminer.com/news/camecos-westinghouse-nuclear-unit-files-for-ipo/1003893594/",
-     "sector": "Materials"
+     "sector": "Materials",
+     "country": "US"
     }
    ],
    "daily": [
@@ -45821,6 +45886,10 @@
    "origins": [
     [
      "US",
+     20
+    ],
+    [
+     "GB",
      1
     ]
    ],
@@ -45955,9 +46024,9 @@
     [
      "middle east conflict",
      1.0,
-     "rising",
+     "steady",
      2,
-     1
+     2
     ],
     [
      "aluminum deficit prediction",
@@ -46000,25 +46069,29 @@
      "publisher": "OilPrice",
      "title": "Middle East War Triggers New Global Refining Boom",
      "url": "https://oilprice.com/Energy/Energy-General/Middle-East-War-Triggers-New-Global-Refining-Boom.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "The Loadstar",
      "title": "Sharp fall in Q1 profits but ONE's new network strategy paying off",
      "url": "https://theloadstar.com/sharp-fall-in-q1-profits-but-ones-new-network-strategy-paying-off/",
-     "sector": "Supply chain"
+     "sector": "Supply chain",
+     "country": "GB"
     },
     {
      "publisher": "Recycling Today",
      "title": "Wood Mackenzie: Damage to metals, mining contained despite Middle East conflict",
      "url": "https://www.recyclingtoday.com/wood-mackenzie-damage-to-metals-mining-contained-despite-middle-east-conflict",
-     "sector": "Materials"
+     "sector": "Materials",
+     "country": "US"
     },
     {
      "publisher": "OilPrice",
      "title": "BP Earnings Surge to $5.7 Billion on Oil Price and Refining Boom",
      "url": "https://oilprice.com/Latest-Energy-News/World-News/BP-Earnings-Surge-to-57-Billion-on-Oil-Price-and-Refining-Boom.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     }
    ],
    "daily": [
@@ -46439,7 +46512,20 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     20
+    ],
+    [
+     "IN",
+     1
+    ],
+    [
+     "JP",
+     1
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -46634,25 +46720,29 @@
      "publisher": "Nikkei Asia Business",
      "title": "Japan trading houses more upbeat on earnings as Iran war lifts prices",
      "url": "https://asia.nikkei.com/business/business-trends/japan-trading-houses-more-upbeat-on-earnings-as-iran-war-lifts-prices",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "JP"
     },
     {
      "publisher": "OilPrice",
      "title": "India Expands Oil Storage Sites After Shock Supply Disruption",
      "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Expands-Oil-Storage-Sites-After-Shock-Supply-Disruption.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "ET Energyworld",
      "title": "Saudi oil tanker heads to India as Red Sea, Hormuz traffic slows amid attacks",
      "url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/saudi-oil-tankers-navigate-conflict-zones-as-houthi-attacks-disrupt-shipping-traffic/132819657",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "IN"
     },
     {
      "publisher": "OilPrice",
      "title": "Why Have China and Russia Just Stepped Out Of The Shadows In The U.S.-Iran War?",
      "url": "https://oilprice.com/Geopolitics/Middle-East/Why-Have-China-and-Russia-Just-Stepped-Out-Of-The-Shadows-In-The-US-Iran-War.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     }
    ],
    "daily": [
@@ -47073,7 +47163,16 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     24
+    ],
+    [
+     "NL",
+     2
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -47232,25 +47331,29 @@
      "publisher": "Offshore Energy",
      "title": "Golar LNG raises $600 million loan with FLNG business expansion in mind",
      "url": "https://www.offshore-energy.biz/golar-lng-raises-600-million-loan-with-flng-business-expansion-in-mind/",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "NL"
     },
     {
      "publisher": "Offshore Energy",
      "title": "Germany augments gas arsenal as Uniper pens 20-year LNG deal with Canadian project",
      "url": "https://www.offshore-energy.biz/germany-augments-gas-arsenal-as-uniper-pens-20-year-lng-deal-with-canadian-project/",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "NL"
     },
     {
      "publisher": "POWER Magazine",
      "title": "Nebraska Public Power District Breaks Ground on 694-MW Princeton Road Station",
      "url": "https://www.powermag.com/nebraska-public-power-district-breaks-ground-on-694-mw-princeton-road-station/",
-     "sector": "Utilities"
+     "sector": "Utilities",
+     "country": "US"
     },
     {
      "publisher": "Construction Dive",
      "title": "Cadiz contracts 2 builders for $403M Southern California water pipeline",
      "url": "https://www.constructiondive.com/news/cadiz-northern-pipeline-construction-contracts/826959/",
-     "sector": "Real estate"
+     "sector": "Real estate",
+     "country": "US"
     }
    ],
    "daily": [
@@ -47666,7 +47769,7 @@
    "origins": [
     [
      "US",
-     1
+     8
     ]
    ],
    "flow": {
@@ -47845,25 +47948,29 @@
      "publisher": "Canary Media",
      "title": "Court rules against Trump EPA's freeze of $20B in \u2018green bank' funds",
      "url": "https://www.canarymedia.com/articles/climatetech-finance/court-rules-against-trump-epas-freeze-of-20b-in-green-bank-funds",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "Smart Cities Dive",
      "title": "Public benefits of land use don't outweigh local zoning, New Jersey Supreme Court says",
      "url": "https://www.smartcitiesdive.com/news/municipal-zoning-public-benefits-land-use-new-jersey/826961/",
-     "sector": "Waste & water"
+     "sector": "Waste & water",
+     "country": "US"
     },
     {
      "publisher": "Supply Chain Dive",
      "title": "25 states sue Trump over Section 301 forced-labor tariffs",
      "url": "https://www.supplychaindive.com/news/25-states-sue-trump-over-section-301-forced-labor-tariffs/826908/",
-     "sector": "Supply chain"
+     "sector": "Supply chain",
+     "country": "US"
     },
     {
      "publisher": "HR Dive",
      "title": "NLRB's structure is unconstitutional but its activities may proceed, Texas judge rules",
      "url": "https://www.hrdive.com/news/nlrb-structure-unconstitutional-but-activities-may-proceed/826844/",
-     "sector": "Labor"
+     "sector": "Labor",
+     "country": "US"
     }
    ],
    "daily": [
@@ -48279,6 +48386,10 @@
    "origins": [
     [
      "US",
+     5
+    ],
+    [
+     "JP",
      1
     ]
    ],
@@ -48433,25 +48544,29 @@
      "publisher": "The Elec",
      "title": "Commodity DRAM Prices Hit Another Record High in July",
      "url": "https://www.thelec.net/news/articleView.html?idxno=12762",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "KR"
     },
     {
      "publisher": "OilPrice",
      "title": "Middle East War Triggers New Global Refining Boom",
      "url": "https://oilprice.com/Energy/Energy-General/Middle-East-War-Triggers-New-Global-Refining-Boom.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "Nikkei Asia Business",
      "title": "US and China AI demand drives copper prices to near-record highs",
      "url": "https://asia.nikkei.com/business/markets/commodities/us-and-china-ai-demand-drives-copper-prices-to-near-record-highs",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "JP"
     },
     {
      "publisher": "EIA Today in Energy",
      "title": "U.S. jet fuel production rises after prices doubled in March",
      "url": "https://www.eia.gov/todayinenergy/detail.php?id=67764",
-     "sector": "Utilities"
+     "sector": "Utilities",
+     "country": "US"
     }
    ],
    "daily": [
@@ -48864,7 +48979,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     6
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -49005,25 +49125,29 @@
      "publisher": "MedTech Dive",
      "title": "Henry Schein removes 3 longtime execs in leadership shakeup",
      "url": "https://www.medtechdive.com/news/henry-schein-removes-3-longtime-execs-in-leadership-shakeup/826778/",
-     "sector": "Healthcare"
+     "sector": "Healthcare",
+     "country": "US"
     },
     {
      "publisher": "Retail Dive",
      "title": "Private equity firm tries again to buy 100-plus J.C. Penney stores",
      "url": "https://www.retaildive.com/news/private-equity-firm-onyx-partners-tries-to-buy-117-jcpenney-stores/826804/",
-     "sector": "Consumer"
+     "sector": "Consumer",
+     "country": "US"
     },
     {
      "publisher": "Commercial Observer",
      "title": "KKR Posts Record Earnings as Fundraising Hits $133B",
      "url": "https://commercialobserver.com/2026/07/kkr-earnings-quarter-2/",
-     "sector": "Real estate"
+     "sector": "Real estate",
+     "country": "US"
     },
     {
      "publisher": "Commercial Observer",
      "title": "Delshah Capital Acquires Five Upper West Side Apartment Buildings for $37M",
      "url": "https://commercialobserver.com/2026/07/delshah-upper-west-side-sale-quality-capital-37m/",
-     "sector": "Real estate"
+     "sector": "Real estate",
+     "country": "US"
     }
    ],
    "daily": [
@@ -49436,7 +49560,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     8
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -49595,25 +49724,29 @@
      "publisher": "Construction Dive",
      "title": "Construction's warning lights are blinking. Most firms aren't looking at the dashboard.",
      "url": "https://www.constructiondive.com/news/constructions-warning-lights-firms-ignore/826747/",
-     "sector": "Real estate"
+     "sector": "Real estate",
+     "country": "US"
     },
     {
      "publisher": "Commercial Observer",
      "title": "KKR Posts Record Earnings as Fundraising Hits $133B",
      "url": "https://commercialobserver.com/2026/07/kkr-earnings-quarter-2/",
-     "sector": "Real estate"
+     "sector": "Real estate",
+     "country": "US"
     },
     {
      "publisher": "Supply Chain Dive",
      "title": "Fed holds benchmark rate steady in vote with three dissents",
      "url": "https://www.supplychaindive.com/news/fed-holds-benchmark-rate-steady-in-vote-with-three-dissents/826561/",
-     "sector": "Supply chain"
+     "sector": "Supply chain",
+     "country": "US"
     },
     {
      "publisher": "commercialobserver.com",
      "title": "Fed Holds Interest Rates in Warsh Second Meeting as FOMC Chair Commercial Observer",
      "url": "https://commercialobserver.com/2026/07/fed-interest-rates-kevin-warsh/",
-     "sector": "Finance"
+     "sector": "Finance",
+     "country": "US"
     }
    ],
    "daily": [
@@ -50026,7 +50159,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     9
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -50167,25 +50305,29 @@
      "publisher": "Federal Register",
      "title": "Establishment of Prohibited Area P-75; New York, NY",
      "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15554/establishment-of-prohibited-area-p-75-new-york-ny",
-     "sector": "Policy"
+     "sector": "Policy",
+     "country": "US"
     },
     {
      "publisher": "Mining.com",
      "title": "Gangs hijack Ecuador's gold mining supply chain",
      "url": "https://www.mining.com/gangs-hijack-ecuadors-gold-mining-supply-chain/",
-     "sector": "Materials"
+     "sector": "Materials",
+     "country": "US"
     },
     {
      "publisher": "Canary Media",
      "title": "Trump admin bans \u2018new' foreign-made inverters. What does that mean?",
      "url": "https://www.canarymedia.com/articles/corporate-procurement/trump-admin-bans-new-foreign-inverters",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "Utility Dive",
      "title": "DOE mulls changes to Biden-era transformer rule, raising utility concerns",
      "url": "https://www.utilitydive.com/news/doe-mulls-changes-to-biden-era-transformer-rule-raising-utility-concerns/826440/",
-     "sector": "Utilities"
+     "sector": "Utilities",
+     "country": "US"
     }
    ],
    "daily": [
@@ -50598,7 +50740,20 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     7
+    ],
+    [
+     "GB",
+     1
+    ],
+    [
+     "IN",
+     1
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -50739,25 +50894,29 @@
      "publisher": "The Loadstar",
      "title": "No charge for Bab al-Mandab Strait transits, Houthis tell The Loadstar",
      "url": "https://theloadstar.com/no-charge-for-bab-al-mandab-strait-transits-houthis-tell-the-loadstar/",
-     "sector": "Supply chain"
+     "sector": "Supply chain",
+     "country": "GB"
     },
     {
      "publisher": "ET Energyworld",
      "title": "Saudi oil tanker heads to India as Red Sea, Hormuz traffic slows amid attacks",
      "url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/saudi-oil-tankers-navigate-conflict-zones-as-houthi-attacks-disrupt-shipping-traffic/132819657",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "IN"
     },
     {
      "publisher": "OilPrice",
      "title": "Dark Tanker Transits Surge at Bab el-Mandeb as Houthi Threat Persists",
      "url": "https://oilprice.com/Latest-Energy-News/World-News/Dark-Tanker-Transits-Surge-at-Bab-el-Mandeb-as-Houthi-Threat-Persists.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "OilPrice",
      "title": "Saudi Oil Reroutes Hit Capacity and Security Limits",
      "url": "https://oilprice.com/Energy/Crude-Oil/Saudi-Oil-Reroutes-Hit-Capacity-and-Security-Limits.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     }
    ],
    "daily": [
@@ -51170,7 +51329,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     11
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -51311,25 +51475,29 @@
      "publisher": "ESG Dive",
      "title": "Paper producer Domtar agrees to pay $1.5M to settle clean air violations",
      "url": "https://www.esgdive.com/news/domtar-settlement-doj-epa-pulp-paper-mill-emissions-air-pollution-ashdown-arkansas/826823/",
-     "sector": "Policy"
+     "sector": "Policy",
+     "country": "US"
     },
     {
      "publisher": "finanznachrichten.de",
      "title": "Springbok Ventures Inc .: Clean Air Metals and Fiore - Backed Springbok Ventures Announce Strategic Business Combination",
      "url": "https://www.finanznachrichten.de/nachrichten-2026-08/69189135-springbok-ventures-inc-clean-air-metals-and-fiore-backed-springbok-ventures-announce-strategic-business-combination-296.htm",
-     "sector": "Materials"
+     "sector": "Materials",
+     "country": "US"
     },
     {
      "publisher": "Data Center Dynamics",
      "title": "Amazon, Duke Energy accused of evading Clean Air Act at under-development data center in Hamlet, North Carolina",
      "url": "https://www.datacenterdynamics.com/en/news/amazon-duke-energy-accused-of-evading-clean-air-act-at-under-development-data-center-in-hamlet-north-carolina/",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "US"
     },
     {
      "publisher": "Federal Register",
      "title": "Operating Permit Program Approval; New Hampshire; Revised Definitions",
      "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15363/operating-permit-program-approval-new-hampshire-revised-definitions",
-     "sector": "Policy"
+     "sector": "Policy",
+     "country": "US"
     }
    ],
    "daily": [
@@ -51742,7 +51910,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     15
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -51883,25 +52056,29 @@
      "publisher": "OilPrice",
      "title": "Oil Extends Losses After US, Qatar Signal Progress on Iran Draft Deal",
      "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Extends-Losses-After-US-Qatar-Signal-Progress-on-Iran-Draft-Deal.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "Supply Chain Dive",
      "title": "25 states sue Trump over Section 301 forced-labor tariffs",
      "url": "https://www.supplychaindive.com/news/25-states-sue-trump-over-section-301-forced-labor-tariffs/826908/",
-     "sector": "Supply chain"
+     "sector": "Supply chain",
+     "country": "US"
     },
     {
      "publisher": "OilPrice",
      "title": "Tanker Traffic Remains Subdued Despite Trump's Talk of Peace",
      "url": "https://oilprice.com/Latest-Energy-News/World-News/Tanker-Traffic-Remains-Subdued-Despite-Trumps-Talk-of-Peace.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "OilPrice",
      "title": "Trump Orders Oil Companies to Cut Gas Prices, Targets Chevron CEO",
      "url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Orders-Oil-Companies-to-Cut-Gas-Prices-Targets-Chevron-CEO.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     }
    ],
    "daily": [
@@ -52314,7 +52491,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     23
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -52527,25 +52709,29 @@
      "publisher": "ESG Dive",
      "title": "TotalEnergies buys all of Shell's European renewable energy assets",
      "url": "https://www.esgdive.com/news/totalenergies-buys-all-of-shells-european-renewable-energy-assets/826849/",
-     "sector": "Policy"
+     "sector": "Policy",
+     "country": "US"
     },
     {
      "publisher": "ESG Dive",
      "title": "Total Energies buys all of Shell's European renewable energy assets",
      "url": "https://www.esgdive.com/news/total-energies-buys-all-of-shells-european-renewable-energy-assets/826849/",
-     "sector": "Policy"
+     "sector": "Policy",
+     "country": "US"
     },
     {
      "publisher": "Data Center Dynamics",
      "title": "Japan's NTT, Tokyu Land, Sakura Internet form consortium to turn Ishikari into major data center hub",
      "url": "https://www.datacenterdynamics.com/en/news/japans-ntt-tokyu-land-sakura-internet-form-consortium-to-turn-ishikari-into-major-data-center-hub/",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "US"
     },
     {
      "publisher": "OilPrice",
      "title": "India Moves to Rescue Renewable Energy Projects Stalled by Grid Shortages",
      "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Moves-to-Rescue-Renewable-Energy-Projects-Stalled-by-Grid-Shortages.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     }
    ],
    "daily": [
@@ -52958,7 +53144,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     28
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -53090,9 +53281,9 @@
     [
      "clean energy transition",
      1.0,
-     "new",
+     "rising",
      2,
-     0
+     1
     ],
     [
      "coal mining",
@@ -53135,25 +53326,29 @@
      "publisher": "Construction Dive",
      "title": "Turner tops out $64M New York trades education facility",
      "url": "https://www.constructiondive.com/news/turner-construction-hudson-valley-community-college-technology-education/826842/",
-     "sector": "Real estate"
+     "sector": "Real estate",
+     "country": "US"
     },
     {
      "publisher": "OilPrice",
      "title": "How Geothermal and Nuclear Could Help the U.S. Catch China in the Energy Race",
      "url": "https://oilprice.com/Energy/Energy-General/How-Geothermal-and-Nuclear-Could-Help-the-US-Catch-China-in-the-Energy-Race.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "OilPrice",
      "title": "China Doubles Down on Clean Energy Even as Coal Keeps Growing",
      "url": "https://oilprice.com/Energy/Energy-General/China-Doubles-Down-on-Clean-Energy-Even-as-Coal-Keeps-Growing.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "OilPrice",
      "title": "The Controversial Space Mirrors Designed to Boost Solar Power",
      "url": "https://oilprice.com/Energy/Energy-General/The-Controversial-Space-Mirrors-Designed-to-Boost-Solar-Power.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     }
    ],
    "daily": [
@@ -53566,7 +53761,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     30
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -53662,9 +53862,9 @@
     [
      "nuclear power plant",
      1.0,
-     "rising",
+     "steady",
      3,
-     2
+     3
     ],
     [
      "regulator rostekhnadzor earlier",
@@ -53707,25 +53907,29 @@
      "publisher": "en.people.cn",
      "title": "Hualong One nuclear power unit starts operation in south China",
      "url": "http://en.people.cn/n3/2026/0804/c90000-20484966.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "english.news.cn",
      "title": "Hualong One nuclear power unit starts operation in south China - Xinhua",
      "url": "https://english.news.cn/20260803/8fc46f0aa24e4d3999bae9a30bfeabf9/c.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "World Nuclear News",
      "title": "New Chinese reactors reach start-up milestones",
      "url": "https://www.world-nuclear-news.org/articles/chinese-reactors-start-up-milestones",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "EIA Today in Energy",
      "title": "China's nuclear power capacity nearly doubled since 2016",
      "url": "https://www.eia.gov/todayinenergy/detail.php?id=67746",
-     "sector": "Utilities"
+     "sector": "Utilities",
+     "country": "US"
     }
    ],
    "daily": [
@@ -54141,7 +54345,7 @@
    "origins": [
     [
      "US",
-     1
+     26
     ]
    ],
    "flow": {
@@ -54320,25 +54524,29 @@
      "publisher": "OilPrice",
      "title": "Middle East War Triggers New Global Refining Boom",
      "url": "https://oilprice.com/Energy/Energy-General/Middle-East-War-Triggers-New-Global-Refining-Boom.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "OilPrice",
      "title": "Oil Markets Price In an Iran Deal That Does Not Exist Yet",
      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Markets-Price-In-an-Iran-Deal-That-Does-Not-Exist-Yet.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "OilPrice",
      "title": "ONGC Profit More Than Doubles as Oil Prices Surge",
      "url": "https://oilprice.com/Latest-Energy-News/World-News/ONGC-Profit-More-Than-Doubles-as-Oil-Prices-Surge.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "OilPrice",
      "title": "BP Earnings Surge to $5.7 Billion on Oil Price and Refining Boom",
      "url": "https://oilprice.com/Latest-Energy-News/World-News/BP-Earnings-Surge-to-57-Billion-on-Oil-Price-and-Refining-Boom.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     }
    ],
    "daily": [
@@ -54751,7 +54959,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     50
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -54918,9 +55131,9 @@
     [
      "estate investment trust",
      1.0,
-     "new",
+     "steady",
      1,
-     0
+     1
     ]
    ],
    "examples": [
@@ -54928,25 +55141,29 @@
      "publisher": "Commercial Observer",
      "title": "Prologis' European Rival Segro Accepts $18.8B Takeover Offer",
      "url": "https://commercialobserver.com/2026/08/prologis-segro-takeover-industrial/",
-     "sector": "Real estate"
+     "sector": "Real estate",
+     "country": "US"
     },
     {
      "publisher": "Commercial Observer",
      "title": "Munish Viralam of Newmark: 5 Questions",
      "url": "https://commercialobserver.com/2026/08/munish-viralam-newmark-5-questions/",
-     "sector": "Real estate"
+     "sector": "Real estate",
+     "country": "US"
     },
     {
      "publisher": "Commercial Observer",
      "title": "Alexandria Shows Positive Signs After Several Depressed Quarters: Earnings",
      "url": "https://commercialobserver.com/2026/08/alexandria-real-estate-equities-q2-2026-earnings/",
-     "sector": "Real estate"
+     "sector": "Real estate",
+     "country": "US"
     },
     {
      "publisher": "Commercial Observer",
      "title": "Arrow Real Estate Advisors Hires Jeff Weinberg as Managing Director",
      "url": "https://commercialobserver.com/2026/08/arrow-real-estate-advisors-hires-jeff-weinberg/",
-     "sector": "Real estate"
+     "sector": "Real estate",
+     "country": "US"
     }
    ],
    "daily": [
@@ -55353,6 +55570,10 @@
    "sinceStart": false,
    "origins": [
     [
+     "US",
+     3
+    ],
+    [
      "KR",
      1
     ]
@@ -55454,19 +55675,22 @@
      "publisher": "The Elec",
      "title": "DeltaX to Build ESS Production Facility in Uiryeong County With 14.8 Billion Won Investment",
      "url": "https://www.thelec.net/news/articleView.html?idxno=12803",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "KR"
     },
     {
      "publisher": "POWER Magazine",
      "title": "Scalable, Grid-Ready Storage: How Connector Design Is Shaping the Next Generation of Energy Systems",
      "url": "https://www.powermag.com/scalable-grid-ready-storage-how-connector-design-is-shaping-the-next-generation-of-energy-systems/",
-     "sector": "Utilities"
+     "sector": "Utilities",
+     "country": "US"
     },
     {
      "publisher": "Federal Register",
      "title": "List of Approved Spent Fuel Storage Casks: Holtec International HI-STORM Flood/Wind System, Certificate of Compliance No. 1032, Amendment No. 10",
      "url": "https://www.federalregister.gov/documents/2026/07/23/2026-14876/list-of-approved-spent-fuel-storage-casks-holtec-international-hi-storm-floodwind-system-certificate",
-     "sector": "Policy"
+     "sector": "Policy",
+     "country": "US"
     }
    ],
    "daily": [
@@ -55871,7 +56095,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     4
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -56012,19 +56241,22 @@
      "publisher": "POWER Magazine",
      "title": "Resilience and Digital Transformation Spearhead the Energy Infrastructure Transition",
      "url": "https://www.powermag.com/resilience-and-digital-transformation-spearhead-the-energy-infrastructure-transition/",
-     "sector": "Utilities"
+     "sector": "Utilities",
+     "country": "US"
     },
     {
      "publisher": "theglobeandmail.com",
      "title": "Barlow Research Roundup : RBC analyst extremely bullish about yield - heavy energy infrastructure sector",
      "url": "https://www.theglobeandmail.com/investing/markets/inside-the-market/article-barlows-research-roundup-rbc-analyst-extremely-bullish-about-yield/",
-     "sector": "Finance"
+     "sector": "Finance",
+     "country": "US"
     },
     {
      "publisher": "POWER Magazine",
      "title": "Energy Vault Breaks Ground on AI Campus in Texas for Crusoe Spark Modular Data Centers",
      "url": "https://www.powermag.com/energy-vault-breaks-ground-on-ai-campus-in-texas-for-crusoe-spark-modular-data-centers/",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     }
    ],
    "daily": [
@@ -56431,6 +56663,10 @@
    "sinceStart": false,
    "origins": [
     [
+     "US",
+     2
+    ],
+    [
      "KR",
      1
     ]
@@ -56557,19 +56793,22 @@
      "publisher": "The Elec",
      "title": "Aton Expands PQC Authentication to NH Investment & Securities",
      "url": "https://www.thelec.net/news/articleView.html?idxno=12748",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "KR"
     },
     {
      "publisher": "OilPrice",
      "title": "The Bank of England Is Moving Away From Coal",
      "url": "https://oilprice.com/Energy/Energy-General/The-Bank-of-England-Is-Moving-Away-From-Coal.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "aninews.in",
      "title": "EU review may narrow bank - insurer capital gap for financial institution stakes : Fitch",
      "url": "https://aninews.in/news/business/eu-review-may-narrow-bank-insurer-capital-gap-for-financial-institution-stakes-fitch20260725160815/",
-     "sector": "Finance"
+     "sector": "Finance",
+     "country": "US"
     }
    ],
    "daily": [
@@ -56942,12 +57181,20 @@
    "term": "capacity expansion",
    "direction": "new",
    "sectorCount": 3,
-   "newestSector": "Materials",
+   "newestSector": "Technology",
    "daysSinceNewestSector": 1,
    "articles14d": 4,
    "articlesPrior14d": 0,
    "publishers": 3,
    "sectors": [
+    {
+     "name": "Technology",
+     "firstSeen": "2026-08-04",
+     "recent": 2,
+     "articles": 2,
+     "share": 0.5,
+     "adopt": 88
+    },
     {
      "name": "Materials",
      "firstSeen": "2026-08-04",
@@ -56963,14 +57210,6 @@
      "articles": 1,
      "share": 0.25,
      "adopt": 88
-    },
-    {
-     "name": "Technology",
-     "firstSeen": "2026-08-04",
-     "recent": 2,
-     "articles": 2,
-     "share": 0.5,
-     "adopt": 88
     }
    ],
    "sinceStart": false,
@@ -56978,6 +57217,14 @@
     [
      "TW",
      2
+    ],
+    [
+     "IN",
+     1
+    ],
+    [
+     "US",
+     1
     ]
    ],
    "flow": {
@@ -57102,25 +57349,29 @@
      "publisher": "DigiTimes Asia",
      "title": "Taiwan, US, and China OSAT strategies diverge as industry shifts toward capacity expansion, supply chain restructuring, and next-generation packaging",
      "url": "https://www.digitimes.com/news/a20260731RS400/osat-capacity-expansion-packaging-supply-chain-taiwan-ase.html?chid=2",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "TW"
     },
     {
      "publisher": "DigiTimes Asia",
      "title": "Aurona lifts ABF and CCL shipments, eyes capacity expansion in 3Q26",
      "url": "https://www.digitimes.com/news/a20260804PD238/aurona-shipments-materials-demand-2026.html",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "TW"
     },
     {
      "publisher": "ET Auto",
      "title": "Ather looks to fast-track capacity expansion as EV demand outstrips supply",
      "url": "https://auto.economictimes.indiatimes.com/news/two-wheelers/ather-energy-accelerates-ev-capacity-expansion-amid-soaring-demand/132844244",
-     "sector": "Autos"
+     "sector": "Autos",
+     "country": "IN"
     },
     {
      "publisher": "Packaging Dive",
      "title": "Ball starting cans production at new Oregon facility",
      "url": "https://www.packagingdive.com/news/ball-corp-q2-2026-packaging-earnings/826916/",
-     "sector": "Materials"
+     "sector": "Materials",
+     "country": "US"
     }
    ],
    "daily": [
@@ -57525,7 +57776,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     4
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -57648,25 +57904,29 @@
      "publisher": "OilPrice",
      "title": "BP Earnings Surge to $5.7 Billion on Oil Price and Refining Boom",
      "url": "https://oilprice.com/Latest-Energy-News/World-News/BP-Earnings-Surge-to-57-Billion-on-Oil-Price-and-Refining-Boom.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "OilPrice",
      "title": "India Expands Oil Storage Sites After Shock Supply Disruption",
      "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Expands-Oil-Storage-Sites-After-Shock-Supply-Disruption.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "MedTech Dive",
      "title": "Stryker catching up on orders, manufacturing after cyberattack",
      "url": "https://www.medtechdive.com/news/stryker-catching-up-on-orders-manufacturing-after-cyberattack/826725/",
-     "sector": "Healthcare"
+     "sector": "Healthcare",
+     "country": "US"
     },
     {
      "publisher": "thehindubusinessline.com",
      "title": "India housing boom cushions tiles industry against West Asia supply disruptions",
      "url": "https://www.thehindubusinessline.com/news/indias-housing-boom-cushions-tiles-industry-against-west-asia-supply-disruptions/article71268726.ece",
-     "sector": "Supply chain"
+     "sector": "Supply chain",
+     "country": "US"
     }
    ],
    "daily": [
@@ -58071,7 +58331,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     3
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -58594,6 +58859,10 @@
    "sinceStart": false,
    "origins": [
     [
+     "US",
+     2
+    ],
+    [
      "KR",
      1
     ]
@@ -58720,19 +58989,22 @@
      "publisher": "The Elec",
      "title": "L&F Plus Ships First Pilot Batch of LFP Cathode Materials",
      "url": "https://www.thelec.net/news/articleView.html?idxno=12776",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "KR"
     },
     {
      "publisher": "Mining.com",
      "title": "GBM agrees to buy Lomiko Metals to add Quebec graphite project",
      "url": "https://www.mining.com/gbm-agrees-to-buy-lomiko-to-add-quebec-graphite-project/",
-     "sector": "Materials"
+     "sector": "Materials",
+     "country": "US"
     },
     {
      "publisher": "finanznachrichten.de",
      "title": "Lomiko Metals Inc . Enters Into Definitive Agreement to Be Acquired by Global Battery Materials Corp .",
      "url": "https://www.finanznachrichten.de/nachrichten-2026-07/69143718-lomiko-metals-inc-enters-into-definitive-agreement-to-be-acquired-by-global-battery-materials-corp-004.htm",
-     "sector": "Finance"
+     "sector": "Finance",
+     "country": "US"
     }
    ],
    "daily": [
@@ -59137,7 +59409,16 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     3
+    ],
+    [
+     "IN",
+     1
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -59278,19 +59559,22 @@
      "publisher": "ET Manufacturing",
      "title": "Jupiter Wagons partners Italy's Lucchini RS to build integrated railwheel manufacturing platform",
      "url": "https://manufacturing.economictimes.indiatimes.com/news/industry/jupiter-wagons-partners-italys-lucchini-rs-to-build-integrated-railwheel-manufacturing-platform/132847729",
-     "sector": "Industrials"
+     "sector": "Industrials",
+     "country": "IN"
     },
     {
      "publisher": "Data Center Dynamics",
      "title": "Sponsored: Tackling complexity in AI data centers: leveraging fully integrated solutions",
      "url": "https://www.datacenterdynamics.com/en/opinions/tackling-complexity-in-ai-data-centers-leveraging-fully-integrated-solutions/",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "US"
     },
     {
      "publisher": "Waste Dive",
      "title": "WM's healthcare, recycling projects drive balance in Q2",
      "url": "https://www.wastedive.com/news/wm-q2-earnings-healthcare-integration-volume-down/826494/",
-     "sector": "Waste & water"
+     "sector": "Waste & water",
+     "country": "US"
     }
    ],
    "daily": [
@@ -59695,7 +59979,16 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     2
+    ],
+    [
+     "GB",
+     1
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -59818,19 +60111,22 @@
      "publisher": "The Loadstar",
      "title": "Asia Pacific: cheaper space, but not cheaper shipping, warns Dimerco",
      "url": "https://theloadstar.com/expect-cheaper-space-but-not-cheaper-shipping-warns-dimerco/",
-     "sector": "Supply chain"
+     "sector": "Supply chain",
+     "country": "GB"
     },
     {
      "publisher": "Healthcare Dive",
      "title": "HCA nabs 40 urgent care clinics in Texas acquisition",
      "url": "https://www.healthcaredive.com/news/hca-texas-medclinic-acquisition-urgent-care/826917/",
-     "sector": "Healthcare"
+     "sector": "Healthcare",
+     "country": "US"
     },
     {
      "publisher": "OilPrice",
      "title": "China's Car Market Stalls Even as Global Demand Keeps Growing",
      "url": "https://oilprice.com/Energy/Energy-General/Chinas-Car-Market-Stalls-Even-as-Global-Demand-Keeps-Growing.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     }
    ],
    "daily": [
@@ -60237,6 +60533,10 @@
    "sinceStart": false,
    "origins": [
     [
+     "US",
+     2
+    ],
+    [
      "GR",
      1
     ]
@@ -60363,19 +60663,22 @@
      "publisher": "Container News",
      "title": "Port of Hamburg promotes rail alternative amid low Rhine water levels",
      "url": "https://container-news.com/port-of-hamburg-promotes-rail-alternative-amid-low-rhine-water-levels/",
-     "sector": "Supply chain"
+     "sector": "Supply chain",
+     "country": "GR"
     },
     {
      "publisher": "World Nuclear News",
      "title": "Danube's record low leads to Hungary, Romania nuclear shutdowns",
      "url": "https://www.world-nuclear-news.org/articles/danubes-record-low-leads-to-hungary-romania-nuclear-shutdowns",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "Recycling Today",
      "title": "Drought dries up barge traffic in Germany",
      "url": "https://www.recyclingtoday.com/germany-rhine-river-barge-traffic-drought-steel-recycling-negative-aspects-2026",
-     "sector": "Materials"
+     "sector": "Materials",
+     "country": "US"
     }
    ],
    "daily": [
@@ -60782,6 +61085,10 @@
    "sinceStart": false,
    "origins": [
     [
+     "US",
+     5
+    ],
+    [
      "TW",
      1
     ]
@@ -60926,25 +61233,29 @@
      "publisher": "DigiTimes Asia",
      "title": "China claims 8 in 10 robots worldwide are made at home",
      "url": "https://www.digitimes.com/news/a20260803PD230/robot-market-technology-industrial-supply-chain.html",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "TW"
     },
     {
      "publisher": "finance.yahoo.com",
      "title": "BYD Humanoid Robot Debuts in August , and the Robot Isnt the Part That Should Worry Everyone Else",
      "url": "https://finance.yahoo.com/technology/ai/articles/byds-humanoid-robot-debuts-august-170000870.html",
-     "sector": "Autos"
+     "sector": "Autos",
+     "country": "US"
     },
     {
      "publisher": "bearingdrift.com",
      "title": "US Bans New Chinese Humanoid Robot Imports as Tech Rivalry With Beijing Escalates",
      "url": "https://www.bearingdrift.com/2026/07/us-bans-new-chinese-humanoid-robot.html",
-     "sector": "Materials"
+     "sector": "Materials",
+     "country": "US"
     },
     {
      "publisher": "zerohedge.com",
      "title": "Deutsche Bank : Humanoid Robot Market Accelerates Globally As China Ramps Production",
      "url": "https://www.zerohedge.com/technology/deutsche-bank-humanoid-robot-market-accelerates-globally-china-ramps-production",
-     "sector": "Autos"
+     "sector": "Autos",
+     "country": "US"
     }
    ],
    "daily": [
@@ -61352,7 +61663,7 @@
    "origins": [
     [
      "US",
-     1
+     3
     ]
    ],
    "flow": {
@@ -61477,19 +61788,22 @@
      "publisher": "OilPrice",
      "title": "U.S. Hits New Obstacle on Critical Mineral Security Course",
      "url": "https://oilprice.com/Energy/Energy-General/US-Hits-New-Obstacle-on-Critical-Mineral-Security-Course.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "Mining.com",
      "title": "Largest US tungsten discovery hits NASA roadblock",
      "url": "https://www.mining.com/largest-us-tungsten-discovery-hits-nasa-roadblock/",
-     "sector": "Materials"
+     "sector": "Materials",
+     "country": "US"
     },
     {
      "publisher": "naturalnews.com",
      "title": "Financial Times : China Mulls Tighter Export Controls on AI Models and Chips NaturalNews . com",
      "url": "https://www.naturalnews.com/2026-07-25-china-mulls-tighter-controls-ai-models-chips.html",
-     "sector": "Policy"
+     "sector": "Policy",
+     "country": "US"
     }
    ],
    "daily": [
@@ -61894,7 +62208,16 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     4
+    ],
+    [
+     "IN",
+     1
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -62383,7 +62706,7 @@
    "term": "appeals court",
    "direction": "new",
    "sectorCount": 3,
-   "newestSector": "Energy",
+   "newestSector": "Technology",
    "daysSinceNewestSector": 1,
    "articles14d": 3,
    "articlesPrior14d": 0,
@@ -62398,7 +62721,7 @@
      "adopt": 84
     },
     {
-     "name": "Energy",
+     "name": "Technology",
      "firstSeen": "2026-08-04",
      "recent": 1,
      "articles": 1,
@@ -62406,7 +62729,7 @@
      "adopt": 88
     },
     {
-     "name": "Technology",
+     "name": "Energy",
      "firstSeen": "2026-08-04",
      "recent": 1,
      "articles": 1,
@@ -62417,11 +62740,11 @@
    "sinceStart": false,
    "origins": [
     [
-     "KR",
-     1
+     "US",
+     2
     ],
     [
-     "US",
+     "KR",
      1
     ]
    ],
@@ -62461,7 +62784,7 @@
       ]
      },
      {
-      "sector": "Energy",
+      "sector": "Technology",
       "n": [
        0,
        0,
@@ -62479,7 +62802,7 @@
       ]
      },
      {
-      "sector": "Technology",
+      "sector": "Energy",
       "n": [
        0,
        0,
@@ -62547,19 +62870,22 @@
      "publisher": "The Elec",
      "title": "Rungo, LY Head to Appeals Court in 223.5 Billion-Won Dispute Over Line Games Investment",
      "url": "https://www.thelec.net/news/articleView.html?idxno=12768",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "KR"
     },
     {
      "publisher": "Canary Media",
      "title": "Court rules against Trump EPA's freeze of $20B in \u2018green bank' funds",
      "url": "https://www.canarymedia.com/articles/climatetech-finance/court-rules-against-trump-epas-freeze-of-20b-in-green-bank-funds",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "HR Dive",
      "title": "Florida employers can ding workers for off-duty medical marijuana use, state appeals court says",
      "url": "https://www.hrdive.com/news/florida-employers-off-duty-medical-marijuana-use/826728/",
-     "sector": "Labor"
+     "sector": "Labor",
+     "country": "US"
     }
    ],
    "daily": [
@@ -62964,7 +63290,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     4
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -63087,19 +63418,22 @@
      "publisher": "POWER Magazine",
      "title": "Nebraska Public Power District Breaks Ground on 694-MW Princeton Road Station",
      "url": "https://www.powermag.com/nebraska-public-power-district-breaks-ground-on-694-mw-princeton-road-station/",
-     "sector": "Utilities"
+     "sector": "Utilities",
+     "country": "US"
     },
     {
      "publisher": "Construction Dive",
      "title": "Punch List: Sundt delivers $34M dam, NYC library reno breaks ground",
      "url": "https://www.constructiondive.com/news/punch-list-sundt-delivers-dam-nyc-library-amtrak/826687/",
-     "sector": "Industrials"
+     "sector": "Industrials",
+     "country": "US"
     },
     {
      "publisher": "POWER Magazine",
      "title": "Energy Vault Breaks Ground on AI Campus in Texas for Crusoe Spark Modular Data Centers",
      "url": "https://www.powermag.com/energy-vault-breaks-ground-on-ai-campus-in-texas-for-crusoe-spark-modular-data-centers/",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     }
    ],
    "daily": [
@@ -63506,6 +63840,14 @@
    "sinceStart": false,
    "origins": [
     [
+     "US",
+     2
+    ],
+    [
+     "IN",
+     1
+    ],
+    [
      "TW",
      1
     ]
@@ -63636,19 +63978,22 @@
      "publisher": "DigiTimes Asia",
      "title": "Hanwha Semitech expands packaging tools as TCB turns profitable",
      "url": "https://www.digitimes.com/news/a20260804PD233/hanwha-equipment-packaging-revenue-foplp.html",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "TW"
     },
     {
      "publisher": "ET Auto",
      "title": "Can the circular economy become India's next EV growth engine?",
      "url": "https://auto.economictimes.indiatimes.com/news/industry/circular-economy-indias-next-driving-force-for-ev-growth/132830598",
-     "sector": "Autos"
+     "sector": "Autos",
+     "country": "IN"
     },
     {
      "publisher": "Restaurant Dive",
      "title": "The next competitive advantage for QSRs may be the company they keep",
      "url": "https://www.restaurantdive.com/spons/the-next-competitive-advantage-for-qsrs-may-be-the-company-they-keep/826680/",
-     "sector": "Consumer"
+     "sector": "Consumer",
+     "country": "US"
     }
    ],
    "daily": [
@@ -64053,7 +64398,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     3
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -64176,19 +64526,22 @@
      "publisher": "Retail Dive",
      "title": "Retailers eager for cash sell off rights to potential tariff refunds",
      "url": "https://www.retaildive.com/news/retailers-eager-for-cash-sell-off-rights-to-potential-tariff-refunds/823704/",
-     "sector": "Consumer"
+     "sector": "Consumer",
+     "country": "US"
     },
     {
      "publisher": "Supply Chain Dive",
      "title": "Amazon to issue tariff refunds in \u2018limited set of circumstances'",
      "url": "https://www.supplychaindive.com/news/amazon-to-issue-tariff-refunds-in-limited-set-of-circumstances/826815/",
-     "sector": "Supply chain"
+     "sector": "Supply chain",
+     "country": "US"
     },
     {
      "publisher": "Manufacturing Dive",
      "title": "Stanley Black & Decker delivers positive Q2, citing tariff refunds and sale",
      "url": "https://www.manufacturingdive.com/news/stanley-black-decker-deliver-positive-q2-2026-tariff-refunds-howmet-sale/826580/",
-     "sector": "Industrials"
+     "sector": "Industrials",
+     "country": "US"
     }
    ],
    "daily": [
@@ -64593,7 +64946,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     5
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -64734,25 +65092,29 @@
      "publisher": "The Register",
      "title": "Cloud giants pour nearly $600B into capex as AI demand surges",
      "url": "https://www.theregister.com/off-prem/2026/08/04/cloud-giants-pour-nearly-600b-into-capex-as-ai-demand-surges/5282679",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "US"
     },
     {
      "publisher": "newkerala.com",
      "title": "Critical Mineral Demand Surge to 2040 , Supply Gaps : IEA",
      "url": "https://www.newkerala.com/news/a/critical-mineral-demand-surge-through-2040-supply-gaps-541.htm",
-     "sector": "Materials"
+     "sector": "Materials",
+     "country": "US"
     },
     {
      "publisher": "Facilities Dive",
      "title": "Trane managing capacity as commercial HVAC demand surges",
      "url": "https://www.facilitiesdive.com/news/trane-managing-capacity-as-commercial-hvac-demand-surges/826711/",
-     "sector": "Industrials"
+     "sector": "Industrials",
+     "country": "US"
     },
     {
      "publisher": "news.webindia123.com",
      "title": "India battery chemicals ecosystem set for rapid expansion as ACC demand surges : Nuvama",
      "url": "https://news.webindia123.com/news/Articles/Business/20260726/4479341.html",
-     "sector": "Industrials"
+     "sector": "Industrials",
+     "country": "US"
     }
    ],
    "daily": [
@@ -65159,6 +65521,10 @@
    "sinceStart": false,
    "origins": [
     [
+     "US",
+     3
+    ],
+    [
      "KR",
      1
     ]
@@ -65285,7 +65651,8 @@
      "publisher": "EIA Today in Energy",
      "title": "Largest wind farm in the United States slated to begin commercial operations",
      "url": "https://www.eia.gov/todayinenergy/detail.php?id=67766",
-     "sector": "Utilities"
+     "sector": "Utilities",
+     "country": "US"
     }
    ],
    "daily": [
@@ -65690,7 +66057,16 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     3
+    ],
+    [
+     "JP",
+     1
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -65831,19 +66207,22 @@
      "publisher": "Nikkei Asia Business",
      "title": "Japan's ruling party moves closer to cutting food tax from 8% to 1%",
      "url": "https://asia.nikkei.com/politics/japan-s-ruling-party-moves-closer-to-cutting-food-tax-from-8-to-1",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "JP"
     },
     {
      "publisher": "FreightWaves",
      "title": "FedEx moves closer to deploying robots that can load trailers",
      "url": "https://www.freightwaves.com/news/fedex-moves-closer-to-deploying-robots-that-can-load-trailers",
-     "sector": "Supply chain"
+     "sector": "Supply chain",
+     "country": "US"
     },
     {
      "publisher": "thenews.com.pk",
      "title": "China moves closer to build Artificial Sun after testing 582 - ton fusion magnet",
      "url": "https://www.thenews.com.pk/latest/1410492-china-moves-closer-to-build-artificial-sun-after-testing-582-ton-fusion-magnet",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     }
    ],
    "daily": [
@@ -66250,6 +66629,10 @@
    "sinceStart": false,
    "origins": [
     [
+     "US",
+     2
+    ],
+    [
      "GR",
      1
     ]
@@ -66376,13 +66759,15 @@
      "publisher": "Container News",
      "title": "Matson reports second-quarter 2026 results",
      "url": "https://container-news.com/matson-reports-second-quarter-2026-results/",
-     "sector": "Supply chain"
+     "sector": "Supply chain",
+     "country": "GR"
     },
     {
      "publisher": "OilPrice",
      "title": "ONGC Profit More Than Doubles as Oil Prices Surge",
      "url": "https://oilprice.com/Latest-Energy-News/World-News/ONGC-Profit-More-Than-Doubles-as-Oil-Prices-Surge.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     }
    ],
    "daily": [
@@ -66787,7 +67172,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     4
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -67319,7 +67709,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     4
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -67442,19 +67837,22 @@
      "publisher": "Restaurant Dive",
      "title": "Panera to relocate HQ to Massachusetts",
      "url": "https://www.restaurantdive.com/news/panera-headquarters-move-stlouis-weston-massachusetts/826635/",
-     "sector": "Consumer"
+     "sector": "Consumer",
+     "country": "US"
     },
     {
      "publisher": "Restaurant Dive",
      "title": "Wingstop same-store sales drop for 5th straight quarter",
      "url": "https://www.restaurantdive.com/news/wingstop-same-store-sales-down-7-percent-fifth-consecutive-quarter/826506/",
-     "sector": "Consumer"
+     "sector": "Consumer",
+     "country": "US"
     },
     {
      "publisher": "smallbiztrends.com",
      "title": "Best Fast Casual Restaurant Franchises to Invest In",
      "url": "https://smallbiztrends.com/best-fast-casual-restaurant-franchises/",
-     "sector": "Finance"
+     "sector": "Finance",
+     "country": "US"
     }
    ],
    "daily": [
@@ -67862,6 +68260,14 @@
    "origins": [
     [
      "AU",
+     1
+    ],
+    [
+     "IN",
+     1
+    ],
+    [
+     "US",
      1
     ]
    ],
@@ -68385,7 +68791,16 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     7
+    ],
+    [
+     "JP",
+     1
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -68505,19 +68920,22 @@
      "publisher": "Nikkei Asia Business",
      "title": "HSBC profit jumps 23% as Asia wealth fuels earnings",
      "url": "https://asia.nikkei.com/business/finance/hsbc-profit-jumps-23-as-asia-wealth-fuels-earnings",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "JP"
     },
     {
      "publisher": "OilPrice",
      "title": "Saudi Aramco's Adjusted Profit Jumps 33% as Oil Prices Surge",
      "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramcos-Adjusted-Profit-Jumps-33-as-Oil-Prices-Surge.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "rttnews.com",
      "title": "Glacier Bancorp Q2 Profit Jumps",
      "url": "https://www.rttnews.com/3670149/glacier-bancorp-q2-profit-jumps.aspx",
-     "sector": "Finance"
+     "sector": "Finance",
+     "country": "US"
     }
    ],
    "daily": [
@@ -68922,7 +69340,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     4
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -69045,25 +69468,29 @@
      "publisher": "EIA Today in Energy",
      "title": "China's nuclear power capacity nearly doubled since 2016",
      "url": "https://www.eia.gov/todayinenergy/detail.php?id=67746",
-     "sector": "Utilities"
+     "sector": "Utilities",
+     "country": "US"
     },
     {
      "publisher": "World Nuclear News",
      "title": "IAEA, Canadian university collaborate on nuclear education",
      "url": "https://www.world-nuclear-news.org/articles/iaea-canadian-university-collaborate-on-nuclear-education",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "Federal Register",
      "title": "Risk-Informed, Technology-Inclusive Regulatory Framework for Advanced Reactors; Correction",
      "url": "https://www.federalregister.gov/documents/2026/07/28/2026-15213/risk-informed-technology-inclusive-regulatory-framework-for-advanced-reactors-correction",
-     "sector": "Policy"
+     "sector": "Policy",
+     "country": "US"
     },
     {
      "publisher": "World Nuclear News",
      "title": "Viewpoint: IAEA's non-proliferation safeguards and industry's role",
      "url": "https://www.world-nuclear-news.org/articles/viewpoint-how-can-industry-help-iaeas-non-proliferation-safeguards",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     }
    ],
    "daily": [
@@ -69468,7 +69895,16 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     2
+    ],
+    [
+     "IN",
+     1
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -69591,19 +70027,22 @@
      "publisher": "Just Auto",
      "title": "Chery invests US$75m in South Korean automaker",
      "url": "https://www.just-auto.com/news/chery-invests-us75m-in-south-korean-automaker/",
-     "sector": "Autos"
+     "sector": "Autos",
+     "country": "US"
     },
     {
      "publisher": "ET Manufacturing",
      "title": "How AI is reshaping India's test and measurement industry",
      "url": "https://manufacturing.economictimes.indiatimes.com/news/industry/how-ai-is-reshaping-indias-test-and-measurement-industry/132786683",
-     "sector": "Industrials"
+     "sector": "Industrials",
+     "country": "IN"
     },
     {
      "publisher": "Restaurant Dive",
      "title": "Quality without compromise: What restaurant operators really need in 2026",
      "url": "https://www.restaurantdive.com/news/us-foods-stacey-Kinkaid-food-quality/826135/",
-     "sector": "Consumer"
+     "sector": "Consumer",
+     "country": "US"
     }
    ],
    "daily": [
@@ -70008,7 +70447,16 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     2
+    ],
+    [
+     "IN",
+     1
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -70131,19 +70579,22 @@
      "publisher": "ET Energyworld",
      "title": "First draft rules of SHANTI Act ready for consultations",
      "url": "https://energy.economictimes.indiatimes.com/news/power/nuclear-energy-first-draft-rules-of-shanti-act-ready-for-consultations-final-notification-likely-in-few-months/132816969",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "IN"
     },
     {
      "publisher": "Commercial Observer",
      "title": "Mediation Firm JAMS to Relocate to 55K SF at Rudin's 3 Times Square",
      "url": "https://commercialobserver.com/2026/08/jams-relocation-lease-rudin-3-times-square/",
-     "sector": "Real estate"
+     "sector": "Real estate",
+     "country": "US"
     },
     {
      "publisher": "Healthcare Dive",
      "title": "Cigna\u2019s profits jump thanks to employer-sponsored plans",
      "url": "https://www.healthcaredive.com/news/cigna-profit-jump-q2-2026-outlook-raise-no-surprises-idr/826551/",
-     "sector": "Healthcare"
+     "sector": "Healthcare",
+     "country": "US"
     }
    ],
    "daily": [
@@ -70548,7 +70999,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     3
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -70671,19 +71127,22 @@
      "publisher": "EIA Today in Energy",
      "title": "The 250-year history of U.S. energy consumption",
      "url": "https://www.eia.gov/todayinenergy/detail.php?id=67824",
-     "sector": "Utilities"
+     "sector": "Utilities",
+     "country": "US"
     },
     {
      "publisher": "Northern Miner",
      "title": "Cameco's Westinghouse nuclear unit files for IPO",
      "url": "https://www.northernminer.com/news/camecos-westinghouse-nuclear-unit-files-for-ipo/1003893594/",
-     "sector": "Materials"
+     "sector": "Materials",
+     "country": "US"
     },
     {
      "publisher": "World Nuclear News",
      "title": "Oklo cleared to start up test reactor",
      "url": "https://www.world-nuclear-news.org/articles/oklo-cleared-to-start-up-test-reactor",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     }
    ],
    "daily": [
@@ -71088,7 +71547,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     8
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -71229,25 +71693,29 @@
      "publisher": "OilPrice",
      "title": "Germany's Energy Demand Falls as High Prices Hit Oil Consumption",
      "url": "https://oilprice.com/Latest-Energy-News/World-News/Germanys-Energy-Demand-Falls-as-High-Prices-Hit-Oil-Consumption.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "Data Center Dynamics",
      "title": "DCD News: July review",
      "url": "https://www.datacenterdynamics.com/en/videos/dcd-news-july-review/",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "US"
     },
     {
      "publisher": "Canary Media",
      "title": "Virginia lays groundwork to combine more solar with farming",
      "url": "https://www.canarymedia.com/articles/food-and-farms/virginia-solar-with-farming",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "Facilities Dive",
      "title": "Johnson Controls touts absorption chillers to cut data center energy demand",
      "url": "https://www.facilitiesdive.com/news/johnson-controls-touts-absorption-chillers-for-lower-data-center-energy-dem/826549/",
-     "sector": "Industrials"
+     "sector": "Industrials",
+     "country": "US"
     }
    ],
    "daily": [
@@ -71652,7 +72120,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     3
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -71775,19 +72248,22 @@
      "publisher": "Commercial Observer",
      "title": "Muji, Daniel Eddy's Winner Sign Retail Leases at Brooklyn's Alloy Block",
      "url": "https://commercialobserver.com/2026/08/muji-daniel-eddy-winner-leases-alloy-block-brooklyn/",
-     "sector": "Real estate"
+     "sector": "Real estate",
+     "country": "US"
     },
     {
      "publisher": "Supply Chain Dive",
      "title": "Farm Rio targets digitized supply chain, improved traceability",
      "url": "https://www.supplychaindive.com/news/farm-rio-targets-digitized-supply-chain-improved-traceability/826737/",
-     "sector": "Supply chain"
+     "sector": "Supply chain",
+     "country": "US"
     },
     {
      "publisher": "ESG Dive",
      "title": "Google, Ford, others launch skilled trades workforce initiative",
      "url": "https://www.esgdive.com/news/google-ford-others-launch-skilled-trades-workforce-initiative/826253/",
-     "sector": "Policy"
+     "sector": "Policy",
+     "country": "US"
     }
    ],
    "daily": [
@@ -72192,7 +72668,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     6
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -72315,19 +72796,22 @@
      "publisher": "retail.economictimes.indiatimes.com",
      "title": "West Asia Conflict Escalates Cost Pressures for Indian Businesses , ETRetail",
      "url": "https://retail.economictimes.indiatimes.com/news/industry/west-asia-conflict-adds-fresh-cost-pressures-for-india-inc/132830683",
-     "sector": "Supply chain"
+     "sector": "Supply chain",
+     "country": "US"
     },
     {
      "publisher": "Automotive Dive",
      "title": "Rivian narrows its losses in Q2 as consolidated revenue jumps 27% YoY",
      "url": "https://www.wardsauto.com/news/rivian-narrows-its-losses-in-q2-as-consolidated-revenue-jumps-27-yoy/826769/",
-     "sector": "Autos"
+     "sector": "Autos",
+     "country": "US"
     },
     {
      "publisher": "punchng.com",
      "title": "Nigerian Brewers Post N87bn Profit Despite Cost Pressures",
      "url": "https://punchng.com/listed-brewers-post-n87bn-profit-despite-cost-pressures/",
-     "sector": "Consumer"
+     "sector": "Consumer",
+     "country": "US"
     }
    ],
    "daily": [
@@ -72732,7 +73216,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     3
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -72855,19 +73344,22 @@
      "publisher": "Commercial Observer",
      "title": "Midtown South Led Manhattan Office Leasing's Stellar July Performance",
      "url": "https://commercialobserver.com/2026/08/manhattan-office-leasing-report-july-2026/",
-     "sector": "Real estate"
+     "sector": "Real estate",
+     "country": "US"
     },
     {
      "publisher": "Facilities Dive",
      "title": "Friction in how office space is used costs midsized firms up to $9M annually: Robin",
      "url": "https://www.facilitiesdive.com/news/workplace-friction-costs-mid-sized-firms-up-to-9m-annually-robin/826733/",
-     "sector": "Industrials"
+     "sector": "Industrials",
+     "country": "US"
     },
     {
      "publisher": "heraldscotland.com",
      "title": "Demand for Scottish office space is on the rise",
      "url": "https://www.heraldscotland.com/news/26421011.demand-scottish-office-space-rise/",
-     "sector": "Finance"
+     "sector": "Finance",
+     "country": "US"
     }
    ],
    "daily": [
@@ -73272,7 +73764,16 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     3
+    ],
+    [
+     "IN",
+     2
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -73381,25 +73882,29 @@
      "publisher": "ET Auto",
      "title": "Ather looks to fast-track capacity expansion as EV demand outstrips supply",
      "url": "https://auto.economictimes.indiatimes.com/news/two-wheelers/ather-energy-accelerates-ev-capacity-expansion-amid-soaring-demand/132844244",
-     "sector": "Autos"
+     "sector": "Autos",
+     "country": "IN"
     },
     {
      "publisher": "ET Telecom",
      "title": "Furukawa to invest \u20b96,000 cr to expand optical fiber & cable production capacity in India, US, Brazil, Japan",
      "url": "https://telecom.economictimes.indiatimes.com/news/telecom-equipment/furukawa-to-invest-6000-crore-in-optical-fiber-expansion-amid-growing-ai-demand/132851001",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "IN"
     },
     {
      "publisher": "Federal Register",
      "title": "Clingstone Peach Diversion Program; Amendment of Program Regulations",
      "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15525/clingstone-peach-diversion-program-amendment-of-program-regulations",
-     "sector": "Policy"
+     "sector": "Policy",
+     "country": "US"
     },
     {
      "publisher": "Cybersecurity Dive",
      "title": "Coca-Cola restores most production capacity at dairy unit after ransomware attack",
      "url": "https://www.cybersecuritydive.com/news/coca-cola-restores-most-production-capacity-at-dairy-unit-after-ransomware/826250/",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "US"
     }
    ],
    "daily": [
@@ -73804,7 +74309,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     5
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -73927,19 +74437,22 @@
      "publisher": "thedailystar.net",
      "title": "Bangladesh faces higher freight costs amid Mideast conflict",
      "url": "https://www.thedailystar.net/business/economy/news/bangladesh-faces-higher-freight-costs-amid-mideast-conflict-4237791",
-     "sector": "Supply chain"
+     "sector": "Supply chain",
+     "country": "US"
     },
     {
      "publisher": "lesprom.com",
      "title": "UFP Industries posts 3 % higher Q2 sales , earnings decline on freight costs",
      "url": "https://www.lesprom.com/en/news/UFP_Industries_posts_3_higher_Q2_sales_earnings_decline_on_freight_costs_124016/",
-     "sector": "Industrials"
+     "sector": "Industrials",
+     "country": "US"
     },
     {
      "publisher": "Packaging Dive",
      "title": "Smurfit Westrock nearly sold out of most grades in \u2018tight\u2019 paper market",
      "url": "https://www.packagingdive.com/news/smurfit-westrock-q2-2026-packaging-earnings/826410/",
-     "sector": "Materials"
+     "sector": "Materials",
+     "country": "US"
     }
    ],
    "daily": [
@@ -74346,6 +74859,10 @@
    "sinceStart": false,
    "origins": [
     [
+     "US",
+     8
+    ],
+    [
      "TW",
      1
     ]
@@ -74508,19 +75025,22 @@
      "publisher": "DigiTimes Asia",
      "title": "Nanya Technology July revenue hits record as DDR4 contract prices surge",
      "url": "https://www.digitimes.com/news/a20260804PD241/nanya-technology-revenue-ddr4-2026-ddr5.html",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "TW"
     },
     {
      "publisher": "Manufacturing Dive",
      "title": "Samsung, Broadcom reach $200B AI memory chip deal",
      "url": "https://www.manufacturingdive.com/news/samsung-broadcom-200b-memory-chip-deal-AI-semiconductors/826479/",
-     "sector": "Industrials"
+     "sector": "Industrials",
+     "country": "US"
     },
     {
      "publisher": "naturalnews.com",
      "title": "Chinese Memory Chip Maker CXMT Delivers Blockbuster IPO NaturalNews . com",
      "url": "https://www.naturalnews.com/2026-07-29-chinese-chip-maker-cxmt-delivers-blockbuster-ipo.html",
-     "sector": "Policy"
+     "sector": "Policy",
+     "country": "US"
     }
    ],
    "daily": [
@@ -74925,7 +75445,16 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     10
+    ],
+    [
+     "GB",
+     1
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -75021,9 +75550,9 @@
     [
      "supply chain",
      1.0,
-     "new",
+     "falling",
      3,
-     0
+     6
     ],
     [
      "generic drug production",
@@ -75066,25 +75595,29 @@
      "publisher": "The Loadstar",
      "title": "Asia Pacific: cheaper space, but not cheaper shipping, warns Dimerco",
      "url": "https://theloadstar.com/expect-cheaper-space-but-not-cheaper-shipping-warns-dimerco/",
-     "sector": "Supply chain"
+     "sector": "Supply chain",
+     "country": "GB"
     },
     {
      "publisher": "POWER Magazine",
      "title": "Energy Security During Uncertainty: Why Hydrogen Power Matters More Than Ever",
      "url": "https://www.powermag.com/energy-security-during-uncertainty-why-hydrogen-power-matters-more-than-ever/",
-     "sector": "Utilities"
+     "sector": "Utilities",
+     "country": "US"
     },
     {
      "publisher": "Supply Chain Dive",
      "title": "Trump has another tariff plan to reshore generic drug production. Will it work?",
      "url": "https://www.supplychaindive.com/news/trump-has-another-tariff-plan-to-reshore-generic-drug-production-will-it-w/826818/",
-     "sector": "Supply chain"
+     "sector": "Supply chain",
+     "country": "US"
     },
     {
      "publisher": "smallbiztrends.com",
      "title": "What Is Global Supply Chain Management and Its Importance ?",
      "url": "https://smallbiztrends.com/global-supply-chain-management/",
-     "sector": "Supply chain"
+     "sector": "Supply chain",
+     "country": "US"
     }
    ],
    "daily": [
@@ -75491,6 +76024,10 @@
    "sinceStart": false,
    "origins": [
     [
+     "US",
+     10
+    ],
+    [
      "KR",
      1
     ]
@@ -75617,25 +76154,29 @@
      "publisher": "The Elec",
      "title": "NH NongHyup Capital Builds Disaster Recovery Environment on Oracle Cloud",
      "url": "https://www.thelec.net/news/articleView.html?idxno=12753",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "KR"
     },
     {
      "publisher": "prnewswire.com",
      "title": "PEOPLES FINANCIAL SERVICES CORP . Declares Third Quarter 2026 Dividend",
      "url": "http://www.prnewswire.com/news-releases/peoples-financial-services-corp-declares-third-quarter-2026-dividend-302840137.html",
-     "sector": "Finance"
+     "sector": "Finance",
+     "country": "US"
     },
     {
      "publisher": "Payments Dive",
      "title": "Capital One provides Discover community investment update",
      "url": "https://www.paymentsdive.com/news/capital-one-provides-discover-community-investment-update/826588/",
-     "sector": "Finance"
+     "sector": "Finance",
+     "country": "US"
     },
     {
      "publisher": "manilatimes.net",
      "title": "Provident Financial Services , Inc . Reports Second Quarter Earnings",
      "url": "https://www.manilatimes.net/2026/07/30/tmt-newswire/globenewswire/provident-financial-services-inc-reports-second-quarter-earnings/2394471",
-     "sector": "Finance"
+     "sector": "Finance",
+     "country": "US"
     }
    ],
    "daily": [
@@ -76040,7 +76581,16 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     9
+    ],
+    [
+     "SG",
+     1
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -76199,25 +76749,29 @@
      "publisher": "Splash247",
      "title": "MSC sues CargoLoop over electric vehicle fire",
      "url": "https://splash247.com/msc-sues-cargoloop-over-electric-vehicle-fire/",
-     "sector": "Supply chain"
+     "sector": "Supply chain",
+     "country": "SG"
     },
     {
      "publisher": "EIA Today in Energy",
      "title": "Hybrid sales rise while battery electric sales remain lower after tax credit expiration",
      "url": "https://www.eia.gov/todayinenergy/detail.php?id=67885",
-     "sector": "Utilities"
+     "sector": "Utilities",
+     "country": "US"
     },
     {
      "publisher": "OilPrice",
      "title": "China's Car Market Stalls Even as Global Demand Keeps Growing",
      "url": "https://oilprice.com/Energy/Energy-General/Chinas-Car-Market-Stalls-Even-as-Global-Demand-Keeps-Growing.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "Utility Dive",
      "title": "V2G could deliver 15 times more value than one-way managed EV charging: report",
      "url": "https://www.utilitydive.com/news/v2g-could-deliver-15-times-more-value-than-one-way-managed-ev-charging-rep/826458/",
-     "sector": "Utilities"
+     "sector": "Utilities",
+     "country": "US"
     }
    ],
    "daily": [
@@ -76624,6 +77178,10 @@
    "sinceStart": false,
    "origins": [
     [
+     "US",
+     6
+    ],
+    [
      "KR",
      1
     ],
@@ -76755,9 +77313,9 @@
     [
      "energy storage system",
      1.0,
-     "new",
+     "steady",
      1,
-     0
+     1
     ],
     [
      "build ess production",
@@ -76772,25 +77330,29 @@
      "publisher": "The Elec",
      "title": "DeltaX to Build ESS Production Facility in Uiryeong County With 14.8 Billion Won Investment",
      "url": "https://www.thelec.net/news/articleView.html?idxno=12803",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "KR"
     },
     {
      "publisher": "DigiTimes Asia",
      "title": "Factorial, SK On sign pact to assess solid-state battery manufacturing",
      "url": "https://www.digitimes.com/news/a20260804PR200/manufacturing-solid-state-battery-automakers-production-development.html",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "TW"
     },
     {
      "publisher": "POWER Magazine",
      "title": "Scalable, Grid-Ready Storage: How Connector Design Is Shaping the Next Generation of Energy Systems",
      "url": "https://www.powermag.com/scalable-grid-ready-storage-how-connector-design-is-shaping-the-next-generation-of-energy-systems/",
-     "sector": "Utilities"
+     "sector": "Utilities",
+     "country": "US"
     },
     {
      "publisher": "OilPrice",
      "title": "Finland's Sand Battery Cuts Emissions 70% Without a Single Rare Earth",
      "url": "https://oilprice.com/Energy/Energy-General/Finlands-Sand-Battery-Cuts-Emissions-70-Without-a-Single-Rare-Earth.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     }
    ],
    "daily": [
@@ -77195,7 +77757,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     6
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -77304,25 +77871,29 @@
      "publisher": "The Register",
      "title": "Water system cyberattacks spread to Georgia, Michigan amid US-Iran conflict",
      "url": "https://www.theregister.com/security/2026/08/03/georgia-michigan-say-water-systems-hacked-by-iran-tied-crew/5282262",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "US"
     },
     {
      "publisher": "Smart Cities Dive",
      "title": "30+ water utility cyberattacks expose a vulnerability across US cities",
      "url": "https://www.smartcitiesdive.com/news/water-utility-cyberattacks-expose-vulnerability-across-us-cities/826826/",
-     "sector": "Waste & water"
+     "sector": "Waste & water",
+     "country": "US"
     },
     {
      "publisher": "Facilities Dive",
      "title": "US sees \u2018significant escalation' in attacks on water systems",
      "url": "https://www.facilitiesdive.com/news/us-authorities-escalation-attacks-water-system-devices/826750/",
-     "sector": "Industrials"
+     "sector": "Industrials",
+     "country": "US"
     },
     {
      "publisher": "Cybersecurity Dive",
      "title": "How volunteer cyber experts are helping protect rural water systems",
      "url": "https://www.cybersecuritydive.com/news/water-cybersecurity-def-con-franklin-outcomes/826517/",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "US"
     }
    ],
    "daily": [
@@ -77727,7 +78298,16 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     9
+    ],
+    [
+     "IN",
+     1
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -77868,25 +78448,29 @@
      "publisher": "ET Energyworld",
      "title": "India's solar power generation jumps 138% in four years: MNRE",
      "url": "https://energy.economictimes.indiatimes.com/news/power/indias-solar-power-generation-jumps-138-in-four-years-mnre/132858584",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "IN"
     },
     {
      "publisher": "POWER Magazine",
      "title": "Understanding NERC Impact Ratings and Compliance Timing for Generation Control Facilities",
      "url": "https://www.powermag.com/understanding-nerc-impact-ratings-and-compliance-timing-for-generation-control-facilities/",
-     "sector": "Utilities"
+     "sector": "Utilities",
+     "country": "US"
     },
     {
      "publisher": "POWER Magazine",
      "title": "A Pioneering Approach to Building New Generation Resources",
      "url": "https://www.powermag.com/a-pioneering-approach-to-building-new-generation-resources/",
-     "sector": "Utilities"
+     "sector": "Utilities",
+     "country": "US"
     },
     {
      "publisher": "forbes.com",
      "title": "China Drives Global Nuclear Power Generation To A New Record",
      "url": "https://www.forbes.com/sites/rrapier/2026/08/02/china-drives-global-nuclear-power-generation-to-a-new-record/",
-     "sector": "Finance"
+     "sector": "Finance",
+     "country": "US"
     }
    ],
    "daily": [
@@ -78291,7 +78875,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     5
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -78414,25 +79003,29 @@
      "publisher": "Data Center Dynamics",
      "title": "Dominion Energy adds more than 5GW of contracted data center load to its pipeline",
      "url": "https://www.datacenterdynamics.com/en/news/dominion-energy-adds-more-than-5gw-of-contracted-data-center-load-to-its-pipeline/",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "US"
     },
     {
      "publisher": "Data Center Dynamics",
      "title": "CenterPoint Energy raises investment plan by $1.2bn as data center load pipeline grows",
      "url": "https://www.datacenterdynamics.com/en/news/centerpoint-energy-raises-investment-plan-by-12bn-as-data-center-load-pipeline-grows/",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "US"
     },
     {
      "publisher": "Utility Dive",
      "title": "Exelon \u2018high probability' data center load falls 40%",
      "url": "https://www.utilitydive.com/news/exelon-data-center-load-new-jersey-battery-earnings/826686/",
-     "sector": "Utilities"
+     "sector": "Utilities",
+     "country": "US"
     },
     {
      "publisher": "Utility Dive",
      "title": "Xcel Energy on track for 3% retail sales growth this year, executives say",
      "url": "https://www.utilitydive.com/news/xcel-energy-on-track-retail-sales-growth-this-year-executives-say/826705/",
-     "sector": "Utilities"
+     "sector": "Utilities",
+     "country": "US"
     }
    ],
    "daily": [
@@ -78837,7 +79430,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     9
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -78996,25 +79594,29 @@
      "publisher": "POWER Magazine",
      "title": "Energy Security During Uncertainty: Why Hydrogen Power Matters More Than Ever",
      "url": "https://www.powermag.com/energy-security-during-uncertainty-why-hydrogen-power-matters-more-than-ever/",
-     "sector": "Utilities"
+     "sector": "Utilities",
+     "country": "US"
     },
     {
      "publisher": "OilPrice",
      "title": "Finland's Sand Battery Cuts Emissions 70% Without a Single Rare Earth",
      "url": "https://oilprice.com/Energy/Energy-General/Finlands-Sand-Battery-Cuts-Emissions-70-Without-a-Single-Rare-Earth.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "OilPrice",
      "title": "Why Trump\u2019s Trade Threat Puts Spain\u2019s Energy Security on the Line",
      "url": "https://oilprice.com/Energy/Energy-General/Why-Trumps-Trade-Threat-Puts-Spains-Energy-Security-on-the-Line.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "OilPrice",
      "title": "VC Money Floods Into U.S. Nuclear Startups as AI Power Demand Explodes",
      "url": "https://oilprice.com/Energy/Energy-General/VC-Money-Floods-Into-US-Nuclear-Startups-as-AI-Power-Demand-Explodes.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     }
    ],
    "daily": [
@@ -79421,6 +80023,10 @@
    "sinceStart": false,
    "origins": [
     [
+     "US",
+     17
+    ],
+    [
      "GR",
      2
     ]
@@ -79583,25 +80189,29 @@
      "publisher": "Container News",
      "title": "Matson reports second-quarter 2026 results",
      "url": "https://container-news.com/matson-reports-second-quarter-2026-results/",
-     "sector": "Supply chain"
+     "sector": "Supply chain",
+     "country": "GR"
     },
     {
      "publisher": "Container News",
      "title": "Danaos reports second-quarter and half-year results",
      "url": "https://container-news.com/danaos-reports-second-quarter-and-half-year-results/",
-     "sector": "Supply chain"
+     "sector": "Supply chain",
+     "country": "GR"
     },
     {
      "publisher": "gdnonline.com",
      "title": "Bahrain Business : Inovest announces financial results for second quarter",
      "url": "https://www.gdnonline.com:443/Details/1402333",
-     "sector": "Finance"
+     "sector": "Finance",
+     "country": "US"
     },
     {
      "publisher": "manilatimes.net",
      "title": "GCL Announces Fiscal Year 2026 Financial Results",
      "url": "https://www.manilatimes.net/2026/07/31/tmt-newswire/globenewswire/gcl-announces-fiscal-year-2026-financial-results/2395897",
-     "sector": "Finance"
+     "sector": "Finance",
+     "country": "US"
     }
    ],
    "daily": [
@@ -80006,7 +80616,16 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     144
+    ],
+    [
+     "IN",
+     1
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -80084,9 +80703,9 @@
     [
      "china rare earth",
      1.0,
-     "rising",
+     "falling",
      5,
-     3
+     10
     ],
     [
      "madagascar rare earth",
@@ -80129,25 +80748,29 @@
      "publisher": "Mining.com",
      "title": "How war in Myanmar is driving a deadly rare earth mining boom",
      "url": "https://www.mining.com/how-war-in-myanmar-is-driving-a-deadly-rare-earth-mining-boom/",
-     "sector": "Materials"
+     "sector": "Materials",
+     "country": "US"
     },
     {
      "publisher": "Mining.com",
      "title": "Hades licence win puts Germany on rare earth map",
      "url": "https://www.mining.com/hades-licence-win-puts-germany-on-rare-earth-map/",
-     "sector": "Materials"
+     "sector": "Materials",
+     "country": "US"
     },
     {
      "publisher": "ET Energyworld",
      "title": "Next ECMS tranche may greenlight Rare Earth magnet plants",
      "url": "https://energy.economictimes.indiatimes.com/news/coal/indias-push-for-rare-earth-magnet-manufacturing-set-to-gain-momentum/132817242",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "IN"
     },
     {
      "publisher": "ocregister.com",
      "title": "US faces pressure to build weapons without China rare earth magnets",
      "url": "https://www.ocregister.com/2026/08/03/us-weapons-without-china-rare-earth-magnets/",
-     "sector": "Materials"
+     "sector": "Materials",
+     "country": "US"
     }
    ],
    "daily": [
@@ -80546,6 +81169,10 @@
    "sinceStart": false,
    "origins": [
     [
+     "US",
+     4
+    ],
+    [
      "TW",
      1
     ]
@@ -80629,19 +81256,22 @@
      "publisher": "DigiTimes Asia",
      "title": "Nanya Technology July revenue hits record as DDR4 contract prices surge",
      "url": "https://www.digitimes.com/news/a20260804PD241/nanya-technology-revenue-ddr4-2026-ddr5.html",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "TW"
     },
     {
      "publisher": "OilPrice",
      "title": "ONGC Profit More Than Doubles as Oil Prices Surge",
      "url": "https://oilprice.com/Latest-Energy-News/World-News/ONGC-Profit-More-Than-Doubles-as-Oil-Prices-Surge.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "OilPrice",
      "title": "Saudi Aramco's Adjusted Profit Jumps 33% as Oil Prices Surge",
      "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramcos-Adjusted-Profit-Jumps-33-as-Oil-Prices-Surge.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     }
    ],
    "daily": [
@@ -81042,6 +81672,10 @@
     [
      "KR",
      2
+    ],
+    [
+     "US",
+     1
     ]
    ],
    "flow": {
@@ -81538,7 +82172,16 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     2
+    ],
+    [
+     "IN",
+     1
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -81643,19 +82286,22 @@
      "publisher": "ET Energyworld",
      "title": "India's solar power generation jumps 138% in four years: MNRE",
      "url": "https://energy.economictimes.indiatimes.com/news/power/indias-solar-power-generation-jumps-138-in-four-years-mnre/132858584",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "IN"
     },
     {
      "publisher": "EIA Today in Energy",
      "title": "Solar generation in CAISO surpassed natural gas in the first five months of 2026",
      "url": "https://www.eia.gov/todayinenergy/detail.php?id=67784",
-     "sector": "Utilities"
+     "sector": "Utilities",
+     "country": "US"
     },
     {
      "publisher": "EIA Today in Energy",
      "title": "Metered electricity demand in the New York ISO falls midday because of small-scale solar",
      "url": "https://www.eia.gov/todayinenergy/detail.php?id=67806",
-     "sector": "Utilities"
+     "sector": "Utilities",
+     "country": "US"
     }
    ],
    "daily": [
@@ -82054,6 +82700,10 @@
    "sinceStart": false,
    "origins": [
     [
+     "US",
+     2
+    ],
+    [
      "KR",
      1
     ],
@@ -82123,25 +82773,29 @@
      "publisher": "The Elec",
      "title": "SK hynix and Sandisk Unveil First HBF Standard, Supporting Up to 512GB Capacity",
      "url": "https://www.thelec.net/news/articleView.html?idxno=12793",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "KR"
     },
     {
      "publisher": "DigiTimes Asia",
      "title": "SK Hynix, Sandisk release first HBF specs with up to 512GB and 3TB/s bandwidth",
      "url": "https://www.digitimes.com/news/a20260804VL212/sk-hynix-bandwidth-capacity-technology-hbm.html",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "TW"
     },
     {
      "publisher": "Federal Register",
      "title": "Pipeline Safety: Standards Update-ASTM A333/A333M",
      "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15583/pipeline-safety-standards-update-astm-a333a333m",
-     "sector": "Policy"
+     "sector": "Policy",
+     "country": "US"
     },
     {
      "publisher": "Federal Register",
      "title": "Pipeline Safety: Standards Update-ASTM A53/A53M",
      "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15584/pipeline-safety-standards-update-astm-a53a53m",
-     "sector": "Policy"
+     "sector": "Policy",
+     "country": "US"
     }
    ],
    "daily": [
@@ -82538,7 +83192,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     4
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -82643,25 +83302,29 @@
      "publisher": "OilPrice",
      "title": "US Crude Oil Inventories Build As Washington Talks Up Potential Peace Deal",
      "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Build-As-Washington-Talks-Up-Potential-Peace-Deal.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "EIA Today in Energy",
      "title": "U.S. commercial crude oil inventories have decreased in June",
      "url": "https://www.eia.gov/todayinenergy/detail.php?id=67805",
-     "sector": "Utilities"
+     "sector": "Utilities",
+     "country": "US"
     },
     {
      "publisher": "EIA Today in Energy",
      "title": "What are tank bottoms?",
      "url": "https://www.eia.gov/todayinenergy/detail.php?id=67866",
-     "sector": "Utilities"
+     "sector": "Utilities",
+     "country": "US"
     },
     {
      "publisher": "EIA Today in Energy",
      "title": "Commercial crude oil inventories increased by 2.0 million barrels",
      "url": "https://www.eia.gov/todayinenergy/detail.php?id=67868",
-     "sector": "Utilities"
+     "sector": "Utilities",
+     "country": "US"
     }
    ],
    "daily": [
@@ -83058,7 +83721,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     3
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -83163,19 +83831,22 @@
      "publisher": "OilPrice",
      "title": "US Crude Oil Inventories Build As Washington Talks Up Potential Peace Deal",
      "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Inventories-Build-As-Washington-Talks-Up-Potential-Peace-Deal.html",
-     "sector": "Energy"
+     "sector": "Energy",
+     "country": "US"
     },
     {
      "publisher": "EIA Today in Energy",
      "title": "U.S. commercial crude oil inventories have decreased in June",
      "url": "https://www.eia.gov/todayinenergy/detail.php?id=67805",
-     "sector": "Utilities"
+     "sector": "Utilities",
+     "country": "US"
     },
     {
      "publisher": "EIA Today in Energy",
      "title": "Commercial crude oil inventories increased by 2.0 million barrels",
      "url": "https://www.eia.gov/todayinenergy/detail.php?id=67868",
-     "sector": "Utilities"
+     "sector": "Utilities",
+     "country": "US"
     }
    ],
    "daily": [
@@ -83572,7 +84243,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     6
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -83677,25 +84353,29 @@
      "publisher": "Healthcare Dive",
      "title": "Hackensack Meridian Health first to earn Joint Commission's responsible health AI certification",
      "url": "https://www.healthcaredive.com/news/hackensack-meridian-health-first-earn-joint-commissions-responsible-ai/826955/",
-     "sector": "Healthcare"
+     "sector": "Healthcare",
+     "country": "US"
     },
     {
      "publisher": "Federal Register",
      "title": "Air Plan Approval; Rhode Island; Update to Materials Incorporated by Reference",
      "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15493/air-plan-approval-rhode-island-update-to-materials-incorporated-by-reference",
-     "sector": "Policy"
+     "sector": "Policy",
+     "country": "US"
     },
     {
      "publisher": "Federal Register",
      "title": "Duty Collection for Domestic Mail Arriving From Certain Insular Possessions and Territories",
      "url": "https://www.federalregister.gov/documents/2026/07/30/2026-15420/duty-collection-for-domestic-mail-arriving-from-certain-insular-possessions-and-territories",
-     "sector": "Policy"
+     "sector": "Policy",
+     "country": "US"
     },
     {
      "publisher": "Federal Register",
      "title": "Updating Website and Contact Information, and Authorizations for Payments for Legal Services",
      "url": "https://www.federalregister.gov/documents/2026/07/27/2026-15112/updating-website-and-contact-information-and-authorizations-for-payments-for-legal-services",
-     "sector": "Policy"
+     "sector": "Policy",
+     "country": "US"
     }
    ],
    "daily": [
@@ -84096,6 +84776,10 @@
     [
      "GR",
      2
+    ],
+    [
+     "US",
+     2
     ]
    ],
    "flow": {
@@ -84202,25 +84886,29 @@
      "publisher": "Container News",
      "title": "Matson reports second-quarter 2026 results",
      "url": "https://container-news.com/matson-reports-second-quarter-2026-results/",
-     "sector": "Supply chain"
+     "sector": "Supply chain",
+     "country": "GR"
     },
     {
      "publisher": "Container News",
      "title": "Danaos reports second-quarter and half-year results",
      "url": "https://container-news.com/danaos-reports-second-quarter-and-half-year-results/",
-     "sector": "Supply chain"
+     "sector": "Supply chain",
+     "country": "GR"
     },
     {
      "publisher": "manilatimes.net",
      "title": "Stock Yards Bancorp Reports Record Second Quarter Earnings of $40 . 1 Million or $1 . 31 Per Diluted Share",
      "url": "https://www.manilatimes.net/2026/07/29/tmt-newswire/globenewswire/stock-yards-bancorp-reports-record-second-quarter-earnings-of-401-million-or-131-per-diluted-share/2393933",
-     "sector": "Finance"
+     "sector": "Finance",
+     "country": "US"
     },
     {
      "publisher": "manilatimes.net",
      "title": "Independent Bank Corporation Reports 2026 Second Quarter Earnings of $0 . 90 per Diluted Share",
      "url": "https://www.manilatimes.net/2026/07/23/tmt-newswire/globenewswire/independent-bank-corporation-reports-2026-second-quarter-earnings-of-090-per-diluted-share/2390011",
-     "sector": "Finance"
+     "sector": "Finance",
+     "country": "US"
     }
    ],
    "daily": [
@@ -84619,6 +85307,14 @@
    "sinceStart": false,
    "origins": [
     [
+     "US",
+     4
+    ],
+    [
+     "IN",
+     1
+    ],
+    [
      "TW",
      1
     ]
@@ -84745,19 +85441,22 @@
      "publisher": "DigiTimes Asia",
      "title": "Taiwan classifies semiconductors, AI as high-energy industries, launches decarbonization project",
      "url": "https://www.digitimes.com/news/a20260804PD228/taiwan-nstc-semiconductors-government-manufacturing.html",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "TW"
     },
     {
      "publisher": "ET Telecom",
      "title": "India emerges as strategic R&D, innovation hub for silicon, says Ericsson executive",
      "url": "https://telecom.economictimes.indiatimes.com/news/devices/india-emerges-as-strategic-rd-innovation-hub-for-silicon-says-ericsson-executive/132858865",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "IN"
     },
     {
      "publisher": "Utility Dive",
      "title": "California\u2019s carbon-pricing program generated $36.2B for climate initiatives: report",
      "url": "https://www.utilitydive.com/news/california-carbon-pricing-program-generated-362b-for-climate-initiatives-carb/826598/",
-     "sector": "Utilities"
+     "sector": "Utilities",
+     "country": "US"
     }
    ],
    "daily": [
@@ -85154,7 +85853,12 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     5
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -85295,19 +85999,22 @@
      "publisher": "Automotive Dive",
      "title": "Despite record revenues, Lithia works behind the scenes on affordability",
      "url": "https://www.wardsauto.com/news/despite-record-revenues-lithia-works-behind-the-scenes-on-affordability/826861/",
-     "sector": "Autos"
+     "sector": "Autos",
+     "country": "US"
     },
     {
      "publisher": "Automotive Dive",
      "title": "Despite record revenues, Lithia works behind the scenes on customer affordability",
      "url": "https://www.wardsauto.com/news/despite-record-revenues-lithia-works-behind-the-scenes-on-customer-afforda/826861/",
-     "sector": "Autos"
+     "sector": "Autos",
+     "country": "US"
     },
     {
      "publisher": "Facilities Dive",
      "title": "Almost 90% of data center building management systems communicate over insecure protocols: Claroty",
      "url": "https://www.facilitiesdive.com/news/almost-90-of-data-center-building-management-systems-communicate-over-inse/826481/",
-     "sector": "Industrials"
+     "sector": "Industrials",
+     "country": "US"
     }
    ],
    "daily": [
@@ -85706,6 +86413,10 @@
    "sinceStart": false,
    "origins": [
     [
+     "US",
+     2
+    ],
+    [
      "GR",
      1
     ]
@@ -85814,19 +86525,22 @@
      "publisher": "Container News",
      "title": "Wallenius SOL acquires two Wagenborg Ro-Ro vessels",
      "url": "https://container-news.com/wallenius-sol-acquires-two-wagenborg-ro-ro-vessels/",
-     "sector": "Supply chain"
+     "sector": "Supply chain",
+     "country": "GR"
     },
     {
      "publisher": "Packaging Dive",
      "title": "Smurfit Westrock nearly sold out of most grades in \u2018tight\u2019 paper market",
      "url": "https://www.packagingdive.com/news/smurfit-westrock-q2-2026-packaging-earnings/826410/",
-     "sector": "Materials"
+     "sector": "Materials",
+     "country": "US"
     },
     {
      "publisher": "Packaging Dive",
      "title": "More producers announce price hikes for containerboard, boxboard",
      "url": "https://www.packagingdive.com/news/international-paper-containerboard-price-hike-boxboard-sbs-smurfit-westrock/826355/",
-     "sector": "Materials"
+     "sector": "Materials",
+     "country": "US"
     }
    ],
    "daily": [
@@ -86223,7 +86937,16 @@
     }
    ],
    "sinceStart": false,
-   "origins": [],
+   "origins": [
+    [
+     "US",
+     3
+    ],
+    [
+     "NL",
+     2
+    ]
+   ],
    "flow": {
     "weeks": [
      "2026-05-08",
@@ -86651,20 +87374,12 @@
    "term": "heavy industrie",
    "direction": "rising",
    "sectorCount": 2,
-   "newestSector": "Supply chain",
+   "newestSector": "Technology",
    "daysSinceNewestSector": 1,
    "articles14d": 3,
    "articlesPrior14d": 1,
    "publishers": 2,
    "sectors": [
-    {
-     "name": "Supply chain",
-     "firstSeen": "2026-08-04",
-     "recent": 2,
-     "articles": 2,
-     "share": 0.667,
-     "adopt": 88
-    },
     {
      "name": "Technology",
      "firstSeen": "2026-08-04",
@@ -86672,12 +87387,28 @@
      "articles": 1,
      "share": 0.333,
      "adopt": 88
+    },
+    {
+     "name": "Supply chain",
+     "firstSeen": "2026-08-04",
+     "recent": 2,
+     "articles": 2,
+     "share": 0.667,
+     "adopt": 88
     }
    ],
    "sinceStart": false,
    "origins": [
     [
+     "SG",
+     2
+    ],
+    [
      "KR",
+     1
+    ],
+    [
+     "US",
      1
     ]
    ],
@@ -86803,19 +87534,22 @@
      "publisher": "The Elec",
      "title": "Hyosung Heavy Industries Targets 25% Share of US High-Voltage Circuit Breaker Market by 2030",
      "url": "https://www.thelec.net/news/articleView.html?idxno=12764",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "KR"
     },
     {
      "publisher": "Splash247",
      "title": "Arcadia expands newbuild programme with Hengli LR2 trio",
      "url": "https://splash247.com/arcadia-expands-newbuild-programme-with-hengli-lr2-trio/",
-     "sector": "Supply chain"
+     "sector": "Supply chain",
+     "country": "SG"
     },
     {
      "publisher": "Splash247",
      "title": "Minerva adds to boxship newbuild series",
      "url": "https://splash247.com/minerva-adds-to-boxship-newbuild-series/",
-     "sector": "Supply chain"
+     "sector": "Supply chain",
+     "country": "SG"
     }
    ],
    "daily": [
@@ -87214,6 +87948,10 @@
    "sinceStart": false,
    "origins": [
     [
+     "US",
+     2
+    ],
+    [
      "TW",
      1
     ]
@@ -87279,19 +88017,22 @@
      "publisher": "DigiTimes Asia",
      "title": "Cloud AI chipmakers race to secure capacity with long-term deals",
      "url": "https://www.digitimes.com/news/a20260804PD229/cloud-ai-ai-chip-capacity-chipmakers-demand.html",
-     "sector": "Technology"
+     "sector": "Technology",
+     "country": "TW"
     },
     {
      "publisher": "FreightWaves",
      "title": "Carriers Gain Leverage: Become a Shipper of Choice to Win Capacity",
      "url": "https://www.freightwaves.com/news/carriers-gain-leverage-become-a-shipper-of-choice-to-win-capacity",
-     "sector": "Supply chain"
+     "sector": "Supply chain",
+     "country": "US"
     },
     {
      "publisher": "FreightWaves",
      "title": "Why \u2018Shipper of Choice' is a MUST in Chemical Logistics",
      "url": "https://www.freightwaves.com/news/why-shipper-of-choice-is-a-must-in-chemical-logistics",
-     "sector": "Supply chain"
+     "sector": "Supply chain",
+     "country": "US"
     }
    ],
    "daily": [
