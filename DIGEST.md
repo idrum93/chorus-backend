@@ -1,20 +1,20 @@
 # Crosstalk — week ending 05 August 2026
 
-*6,051 articles from 14 sectors over 98 days. Every figure is a count of articles read; nothing is modelled or forecast.*
+*6,086 articles from 14 sectors over 98 days. Every figure is a count of articles read; nothing is modelled or forecast.*
 
 ## Crossed into a new industry this week
 
 **artificial intelligence** — now in 10 industries. **Consumer** picked it up today; it started in technology coverage on 2026-05-31.
-  - [AI may be helping employees prepare for career mobility](https://www.hrdive.com/news/ai-may-be-helping-employees-prepare-for-career-mobility/827060/) · HR Dive · labor
-  - [Reliance Retail acquires AI-powered fashion discovery platform Furrl](https://retail.economictimes.indiatimes.com/news/apparel-fashion/apparel/reliance-retail-acquires-ai-powered-fashion-discovery-platform-furrl/132903363) · ET Retail · consumer
+  - [AI Song Maker Suno Takes 12K SF at 515 West 20th Street](https://commercialobserver.com/2026/08/ai-song-maker-suno-515-west-20th-street/) · Commercial Observer · real estate
+  - [6 contech startups net $234M in recent funding](https://www.constructiondive.com/news/contech-firms-artificial-intelligence-robotics/827044/) · Construction Dive · real estate
 
 **data center** — now in 10 industries. **Supply chain** picked it up 5d ago; it started in real estate coverage on 2026-05-11.
   - [Caterpillar sales surpass $20B as data center generators take off](https://www.manufacturingdive.com/news/caterpillar-sales-surpass-20b-growing-data-center-demand-q2-2026/827068/) · Manufacturing Dive · industrials
   - [Australia's CDC files for data center in Kemps Creek, Sydney](https://www.datacenterdynamics.com/en/news/australias-cdc-files-for-data-center-in-kemps-creek-sydney/) · Data Center Dynamics · technology
 
 **joint venture** — now in 8 industries. **Energy** picked it up today; it started in real estate coverage on 2026-06-16.
+  - [GM, SAIC extend China joint venture through to 2047](https://www.just-auto.com/news/gm-saic-extend-china-joint-venture/) · Just Auto · autos
   - [Toyota to join Volvo, Daimler heavy-duty fuel-cell joint venture](https://www.truckingdive.com/news/toyota-to-join-volvo-daimler-heavy-duty-fuel-cell-joint-venture/826924/) · Trucking Dive · supply chain
-  - [Eni and Petronas' Searah taps Destini for five-year gig offshore Malaysia](https://www.offshore-energy.biz/eni-and-petronas-searah-taps-destini-for-five-year-gig-offshore-malaysia/) · Offshore Energy · energy
 
 **supply chain** — now in 8 industries. **Finance** picked it up today; it started in supply chain coverage on 2026-05-12.
   - [Ahold Delhaize winds down plans to open 2 automated frozen warehouses](https://www.grocerydive.com/news/ahold-delhaize-americold-warehouse-automated-facility-distribution/827008/) · Grocery Dive · consumer
@@ -40,8 +40,9 @@
 
 | phrase | industries | articles | vs prior fortnight |
 |---|---|---|---|
-| artificial intelligence | 10 | 53 | 13.2× |
+| artificial intelligence | 10 | 55 | 13.8× |
 | natural gas | 7 | 29 | 9.7× |
+| rare earth | 4 | 66 | 6.6× |
 | real estate | 4 | 41 | 5.9× |
 | critical mineral | 4 | 59 | 4.9× |
 | supply chain | 8 | 54 | 4.9× |
@@ -49,7 +50,6 @@
 | data center | 10 | 120 | 3.5× |
 | nuclear power | 4 | 18 | 3.0× |
 | clean air | 4 | 8 | 2.7× |
-| renewable energy | 4 | 12 | 2.0× |
 
 ---
 
