@@ -1,6 +1,6 @@
 # Crosstalk — week ending 05 August 2026
 
-*5,757 articles from 14 sectors over 98 days. Every figure is a count of articles read; nothing is modelled or forecast.*
+*5,773 articles from 14 sectors over 98 days. Every figure is a count of articles read; nothing is modelled or forecast.*
 
 ## Crossed into a new industry this week
 
@@ -49,7 +49,7 @@
 | data center | 10 | 100 | 2.9× |
 | clean air | 4 | 8 | 2.7× |
 | nuclear power | 4 | 14 | 2.3× |
-| renewable energy | 4 | 10 | 1.7× |
+| renewable energy | 4 | 11 | 1.8× |
 
 ---
 
