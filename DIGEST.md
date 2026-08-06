@@ -1,6 +1,6 @@
 # Crosstalk — week ending 6 August 2026
 
-*6,193 articles over 99 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*6,217 articles over 99 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
@@ -29,8 +29,8 @@
   - [Japan trading houses more upbeat on earnings as Iran war lifts prices](https://asia.nikkei.com/business/business-trends/japan-trading-houses-more-upbeat-on-earnings-as-iran-war-lifts-prices) · Nikkei Asia Business · technology
 
 **middle east** — now in 6 sectors. **Materials** picked it up 2d ago; it was first seen in supply chain coverage on 2 June 2026.
+  - [Greaves Cotton powers up e-mobility push, bets on exports for growth](https://auto.economictimes.indiatimes.com/news/industry/greaves-cotton-powers-up-e-mobility-push-bets-on-exports-for-growth/132979529) · ET Auto · autos
   - [Middle East War Throws LNG's Growth Story Into Doubt](https://oilprice.com/Energy/Natural-Gas/Middle-East-War-Throws-LNGs-Growth-Story-Into-Doubt.html) · OilPrice · energy
-  - [Venezuela's Oil Production Grows at a Crucial Time Despite Challenges](https://oilprice.com/Energy/Crude-Oil/Venezuelas-Oil-Production-Grows-at-a-Crucial-Time-Despite-Challenges.html) · OilPrice · energy
 
 **global supply chain** — now in 5 sectors. **Finance** picked it up 1d ago; it was first seen in supply chain coverage on 13 May 2026.
   - [Hormuz Crisis Is Rewriting the Global LPG Trade](https://oilprice.com/Energy/Natural-Gas/Hormuz-Crisis-Is-Rewriting-the-Global-LPG-Trade.html) · OilPrice · energy
