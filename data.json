@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-06T04:33:57.232098+00:00",
+ "generated": "2026-08-06T05:23:11.955745+00:00",
  "prices": {
   "Autos": [
    {
@@ -2667,7 +2667,7 @@
  "coverage": [
   [
    "US",
-   5424
+   5425
   ],
   [
    "GB",
@@ -2675,7 +2675,7 @@
   ],
   [
    "IN",
-   151
+   152
   ],
   [
    "KR",
@@ -2699,7 +2699,7 @@
   ],
   [
    "GR",
-   32
+   33
   ],
   [
    "CA",
@@ -3544,6 +3544,65 @@
    ]
   },
   {
+   "ticker": "RELIANCE.NS",
+   "name": "Reliance Industries",
+   "sector": "Energy",
+   "articles": 10,
+   "articles14d": 3,
+   "terms": [
+    {
+     "term": "iran war",
+     "articles": 2,
+     "sectors": 6,
+     "direction": "rising"
+    },
+    {
+     "term": "nuclear power",
+     "articles": 2,
+     "sectors": 4,
+     "direction": "rising"
+    },
+    {
+     "term": "artificial intelligence",
+     "articles": 1,
+     "sectors": 10,
+     "direction": "rising"
+    },
+    {
+     "term": "red sea",
+     "articles": 1,
+     "sectors": 4,
+     "direction": "rising"
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "ET Retail",
+     "title": "Reliance Retail acquires AI-powered fashion discovery platform Furrl",
+     "url": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/apparel/reliance-retail-acquires-ai-powered-fashion-discovery-platform-furrl/132903363",
+     "sector": "Consumer"
+    },
+    {
+     "publisher": "ET Retail",
+     "title": "Reliance Brands partners with SKIMS to bring shapewear brand to India",
+     "url": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/reliance-brands-partners-skims-to-bring-shapewear-brand-to-india-first-stores-in-delhi-mumbai/132918619",
+     "sector": "Consumer"
+    },
+    {
+     "publisher": "ET Energyworld",
+     "title": "Saudi oil tanker heads to India as Red Sea, Hormuz traffic slows amid attacks",
+     "url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/saudi-oil-tankers-navigate-conflict-zones-as-houthi-attacks-disrupt-shipping-traffic/132819657",
+     "sector": "Energy"
+    },
+    {
+     "publisher": "thehindubusinessline.com",
+     "title": "Reliance Industries Q1 FY27 : Oil - to - Chemicals EBITDA up 17 %; solar , battery plans progress",
+     "url": "https://www.thehindubusinessline.com/companies/reliance-industries-q1-fy27-oil-to-chemicals-ebitda-rises-17-solar-and-battery-manufacturing-plans-advance/article71235762.ece",
+     "sector": "Industrials"
+    }
+   ]
+  },
+  {
    "ticker": "NEE",
    "name": "NextEra Energy",
    "sector": "Utilities",
@@ -3974,49 +4033,49 @@
    ]
   },
   {
-   "ticker": "CAT",
-   "name": "Caterpillar",
-   "sector": "Industrials",
-   "articles": 3,
-   "articles14d": 2,
+   "ticker": "005930.KS",
+   "name": "Samsung Electronics",
+   "sector": "Technology",
+   "articles": 22,
+   "articles14d": 14,
    "terms": [
     {
-     "term": "data center",
-     "articles": 1,
-     "sectors": 10,
+     "term": "supply chain",
+     "articles": 2,
+     "sectors": 8,
      "direction": "rising"
     },
     {
-     "term": "equipment maker",
+     "term": "artificial intelligence",
      "articles": 1,
-     "sectors": 4,
-     "direction": "new"
-    },
-    {
-     "term": "power generation",
-     "articles": 1,
-     "sectors": 4,
-     "direction": "new"
+     "sectors": 10,
+     "direction": "rising"
     }
    ],
    "examples": [
     {
-     "publisher": "Manufacturing Dive",
-     "title": "Caterpillar sales surpass $20B as data center generators take off",
-     "url": "https://www.manufacturingdive.com/news/caterpillar-sales-surpass-20b-growing-data-center-demand-q2-2026/827068/",
-     "sector": "Industrials"
-    },
-    {
-     "publisher": "Waste Dive",
-     "title": "WM expands autonomous equipment plans at Arizona landfill",
-     "url": "https://www.wastedive.com/news/wm-expands-autonomous-equipment-plans-arizona-landfill/826922/",
-     "sector": "Waste & water"
-    },
-    {
-     "publisher": "finance.yahoo.com",
-     "title": "The One Stock Now Controlling DIA Next Move : Why Caterpillar Power Generation Backlog Matters More Than Apple",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/one-stock-now-controlling-dia-081732165.html",
+     "publisher": "The Elec",
+     "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
+     "url": "https://www.thelec.net/news/articleView.html?idxno=12835",
      "sector": "Technology"
+    },
+    {
+     "publisher": "The Elec",
+     "title": "Samsung Brings HDR10+ Advanced to Amazon Prime Video Content",
+     "url": "https://www.thelec.net/news/articleView.html?idxno=12791",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "The Register",
+     "title": "Samsung and Mousterian move ahead with floating datacenter for Texas",
+     "url": "https://www.theregister.com/on-prem/2026/08/05/samsung-and-mousterian-move-ahead-with-floating-datacenter-for-texas/5283505",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "Container News",
+     "title": "ABS and Samsung Heavy Industries advance floating data centre",
+     "url": "https://container-news.com/abs-and-samsung-heavy-industries-advance-floating-data-centre/",
+     "sector": "Supply chain"
     }
    ]
   },
@@ -4579,6 +4638,47 @@
    ]
   },
   {
+   "ticker": "000660.KS",
+   "name": "SK Hynix",
+   "sector": "Technology",
+   "articles": 14,
+   "articles14d": 6,
+   "terms": [
+    {
+     "term": "supply chain",
+     "articles": 1,
+     "sectors": 8,
+     "direction": "rising"
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "DigiTimes Asia",
+     "title": "FMS 2026 opens with major memory makers present, but CXMT missing from exhibitor list",
+     "url": "https://www.digitimes.com/news/a20260805PD217/memory-chips-hbm-2026-cxmt-micron-samsung-sk-hynix.html",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "DigiTimes Asia",
+     "title": "SK Hynix, Sandisk release first HBF specs with up to 512GB and 3TB/s bandwidth",
+     "url": "https://www.digitimes.com/news/a20260804VL212/sk-hynix-bandwidth-capacity-technology-hbm.html",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "benzinga.com",
+     "title": "Sk Hynix , Bloom Energy , Seagate , Micron Technology and Visa : Why These 5 Stocks Are on Investor Radars",
+     "url": "https://www.benzinga.com/news/26/07/60748641/sk-hynix-bloom-energy-seagate-micron-technology-and-visa-why-these-5-stocks-are-on-investors-radars-today",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "finance.yahoo.com",
+     "title": "SK Hynix record profit fails to impress investors",
+     "url": "https://finance.yahoo.com/markets/article/sk-hynixs-record-profit-fails-to-impress-investors-130352334.html",
+     "sector": "Technology"
+    }
+   ]
+  },
+  {
    "ticker": "PLD",
    "name": "Prologis",
    "sector": "Real estate",
@@ -4657,6 +4757,88 @@
      "title": "Meta boosts AI data center capex, forecasts $130-145bn spend",
      "url": "https://www.datacenterdynamics.com/en/news/meta-boosts-ai-data-center-capex-forecasts-130-145bn-spend/",
      "sector": "Technology"
+    }
+   ]
+  },
+  {
+   "ticker": "035720.KS",
+   "name": "Kakao",
+   "sector": "Technology",
+   "articles": 5,
+   "articles14d": 5,
+   "terms": [
+    {
+     "term": "operating loss",
+     "articles": 1,
+     "sectors": 3,
+     "direction": "new"
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "The Elec",
+     "title": "Kakao Games Posts Seventh Straight Quarterly Loss, Bets on October Launch of World of Dokkaebi",
+     "url": "https://www.thelec.net/news/articleView.html?idxno=12834",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "The Elec",
+     "title": "Kakao Games Rules Out Merger With Line Games, Targets Q1 2027 Launch for Odin Q",
+     "url": "https://www.thelec.net/news/articleView.html?idxno=12842",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "The Elec",
+     "title": "Kakao Games Expands Webtoon IP Strategy Through Partnership With The Grimm Entertainment",
+     "url": "https://www.thelec.net/news/articleView.html?idxno=12832",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "The Elec",
+     "title": "Kakao Upgrades AI Voice Generation With Natural-Language Control",
+     "url": "https://www.thelec.net/news/articleView.html?idxno=12808",
+     "sector": "Technology"
+    }
+   ]
+  },
+  {
+   "ticker": "IBN",
+   "name": "ICICI Bank",
+   "sector": "Finance",
+   "articles": 19,
+   "articles14d": 4,
+   "terms": [
+    {
+     "term": "interest rate",
+     "articles": 1,
+     "sectors": 4,
+     "direction": "rising"
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "ET BFSI",
+     "title": "FCNR(B) deposits nearly double to USD 60.5 bn after RBI relaxation; HSBC, SBI, ICICI lead inflows",
+     "url": "https://bfsi.economictimes.indiatimes.com/articles/fcnrb-deposits-nearly-double-to-usd-60-5-bn-after-rbi-relaxation-hsbc-sbi-icici-lead-inflows/132840610",
+     "sector": "Finance"
+    },
+    {
+     "publisher": "aninews.in",
+     "title": "Direct tax collections rise 12 % in Q1FY27 , giving Centre fiscal buffer amid global uncertainties : ICICI Bank",
+     "url": "https://aninews.in/news/business/direct-tax-collections-rise-12-in-q1fy27-giving-centre-fiscal-buffer-amid-global-uncertainties-icici-bank20260801132543/",
+     "sector": "Finance"
+    },
+    {
+     "publisher": "newkerala.com",
+     "title": "Direct Tax Collections Up 12 % in Q1FY27 : ICICI Bank",
+     "url": "https://www.newkerala.com/news/a/direct-tax-collections-rise-12-q1fy27-giving-centre-455.htm",
+     "sector": "Finance"
+    },
+    {
+     "publisher": "moneycontrol.com",
+     "title": "Buy Gravita India ; target of Rs 2020 : ICICI Securities",
+     "url": "https://www.moneycontrol.com/news/business/stocks/buy-gravita-india-target-of-rs-2020-icici-securities-13987106.html",
+     "sector": "Finance"
     }
    ]
   },
@@ -4862,76 +5044,6 @@
      "title": "BlackRock and ACS Launch Coravel With a 140MW Hyperscaler Deal Already Signed",
      "url": "https://www.techtimes.com/articles/320903/20260718/blackrock-acs-launch-coravel-140mw-hyperscaler-deal-already-signed.htm",
      "sector": "Technology"
-    }
-   ]
-  },
-  {
-   "ticker": "FCX",
-   "name": "Freeport-McMoRan",
-   "sector": "Materials",
-   "articles": 3,
-   "articles14d": 3,
-   "terms": [
-    {
-     "term": "rare earth",
-     "articles": 1,
-     "sectors": 4,
-     "direction": "rising"
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "Northern Miner",
-     "title": "Top 10 US miners: Southern Copper, Newmont lead pack",
-     "url": "https://www.northernminer.com/news/top-10-us-miners-southern-copper-newmont-lead-pack/1003893697/",
-     "sector": "Materials"
-    },
-    {
-     "publisher": "Recycling Today",
-     "title": "Containers reportedly filled with illegal e-scrap set to arrive in the Philippines",
-     "url": "https://www.recyclingtoday.com/containers-reportedly-filled-wuth-illegal-escrap-set-to-arrive-in-the-philippines",
-     "sector": "Materials"
-    },
-    {
-     "publisher": "fool.com",
-     "title": "Better Mining Stock to Buy Before 2026 Ends : united states Rare Earth vs . Freeport - McMoRan",
-     "url": "https://www.fool.com/investing/2026/07/30/better-mining-stock-to-buy-before-2026-ends-hot-ti/?source=iedfolrf0000001",
-     "sector": "Materials"
-    }
-   ]
-  },
-  {
-   "ticker": "GM",
-   "name": "General Motors",
-   "sector": "Autos",
-   "articles": 3,
-   "articles14d": 3,
-   "terms": [
-    {
-     "term": "supply chain",
-     "articles": 2,
-     "sectors": 8,
-     "direction": "rising"
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "Supply Chain Dive",
-     "title": "General Motors drives toward supply chain resiliency",
-     "url": "https://www.supplychaindive.com/news/general-motors-drives-toward-supply-chain-resiliency/826542/",
-     "sector": "Supply chain"
-    },
-    {
-     "publisher": "Supply Chain Dive",
-     "title": "General Motors is driving toward supply chain resiliency",
-     "url": "https://www.supplychaindive.com/news/general-motors-is-driving-toward-supply-chain-resiliency/826542/",
-     "sector": "Supply chain"
-    },
-    {
-     "publisher": "Manufacturing Dive",
-     "title": "US Army awards prototype contracts to Ford, GM, BC Customs",
-     "url": "https://www.manufacturingdive.com/news/ford-industrial-platform-gm-defense-bc-customs-us-army-isv-h/826442/",
-     "sector": "Industrials"
     }
    ]
   },
@@ -5182,6 +5294,47 @@
    ]
   },
   {
+   "ticker": "LMT",
+   "name": "Lockheed Martin",
+   "sector": "Industrials",
+   "articles": 4,
+   "articles14d": 1,
+   "terms": [
+    {
+     "term": "iran war",
+     "articles": 1,
+     "sectors": 6,
+     "direction": "rising"
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "Manufacturing Dive",
+     "title": "L3Harris inks deals with DOD, Lockheed Martin to expand component production",
+     "url": "https://www.manufacturingdive.com/news/l3harris-lockheed-defense-dod-war-pac-3-thaad-quadruple-production/826294/",
+     "sector": "Industrials"
+    },
+    {
+     "publisher": "theepochtimes.com",
+     "title": "GM Defense , Lockheed Martin Sign Agreement to Bolster US Defense Manufacturing",
+     "url": "https://www.theepochtimes.com/us/gm-defense-lockheed-martin-sign-agreement-to-bolster-us-defense-manufacturing-6049021",
+     "sector": "Industrials"
+    },
+    {
+     "publisher": "seekingalpha.com",
+     "title": "Lockheed Martin , GM team up to explore defense manufacturing expansion ( LMT : NYSE )",
+     "url": "https://seekingalpha.com/news/4604111-lockheed-martin-gm-team-up-to-explore-defense-manufacturing-expansion",
+     "sector": "Industrials"
+    },
+    {
+     "publisher": "stockhouse.com",
+     "title": "A New Era of Warfare : Rheinmetall , Volatus Aerospace , and Lockheed Martin Drive Advancement of Unmanned Autonomous Systems | 2026 - 06 - 09 | Investing News",
+     "url": "https://stockhouse.com/opinion/contributors/2026/06/09/a-new-era-warfare-rheinmetall-volatus-aerospace-and-lockheed-martin-drive",
+     "sector": "Autos"
+    }
+   ]
+  },
+  {
    "ticker": "VRT",
    "name": "Vertiv",
    "sector": "Technology",
@@ -5264,6 +5417,40 @@
    ]
   },
   {
+   "ticker": "TATAMOTORS.NS",
+   "name": "Tata Motors",
+   "sector": "Autos",
+   "articles": 19,
+   "articles14d": 7,
+   "terms": [],
+   "examples": [
+    {
+     "publisher": "ET HRWorld",
+     "title": "Leaders who shaped Air India: From 1932 to the present",
+     "url": "https://hr.economictimes.indiatimes.com/news/industry/leaders-who-shaped-air-india-from-1932-to-the-present/132979159",
+     "sector": "Labor"
+    },
+    {
+     "publisher": "ET Manufacturing",
+     "title": "Beyond AI and digital twins, engineering will define factory competitiveness: Tata Consulting Engineers' Amit Sharma",
+     "url": "https://manufacturing.economictimes.indiatimes.com/news/industry/beyond-ai-and-digital-twins-engineering-will-define-factory-competitiveness-tata-consulting-engineers-amit-sharma/132907716",
+     "sector": "Industrials"
+    },
+    {
+     "publisher": "ET BFSI",
+     "title": "Tata Sons continues to qualify for NBFC Upper Layer under new principle based framework: RBI Guv Malhotra",
+     "url": "https://bfsi.economictimes.indiatimes.com/articles/tata-sons-continues-to-qualify-for-nbfc-upper-layer-under-new-principle-based-framework-rbi-guv-malhotra/132907383",
+     "sector": "Finance"
+    },
+    {
+     "publisher": "thehindubusinessline.com",
+     "title": "Tata Motors expands EV lead over Mahindra , captures 43 % market share",
+     "url": "https://www.thehindubusinessline.com/companies/tata-motors-expands-ev-lead-over-mahindra-captures-43-market-share/article71297557.ece",
+     "sector": "Autos"
+    }
+   ]
+  },
+  {
    "ticker": "ORCL",
    "name": "Oracle",
    "sector": "Technology",
@@ -5332,6 +5519,40 @@
    ]
   },
   {
+   "ticker": "MAERSK-B.CO",
+   "name": "Maersk",
+   "sector": "Supply chain",
+   "articles": 5,
+   "articles14d": 5,
+   "terms": [],
+   "examples": [
+    {
+     "publisher": "Container News",
+     "title": "Maersk revises PSS from Far East Asia to Latin America",
+     "url": "https://container-news.com/maersk-revises-pss-from-far-east-asia-to-latin-america/",
+     "sector": "Supply chain"
+    },
+    {
+     "publisher": "Container News",
+     "title": "Boxship detours round Cape of Good Hope drop to lowest since 2024",
+     "url": "https://container-news.com/boxship-detours-round-cape-of-good-hope-drop-to-lowest-since-2024/",
+     "sector": "Supply chain"
+    },
+    {
+     "publisher": "Container News",
+     "title": "Maersk revises Dragon service proforma",
+     "url": "https://container-news.com/maersk-revises-dragon-service-proforma/",
+     "sector": "Supply chain"
+    },
+    {
+     "publisher": "Seatrade Maritime",
+     "title": "Shippers unimpressed by container line reliability",
+     "url": "https://www.seatrade-maritime.com/containers/shippers-unimpressed-by-container-line-reliability",
+     "sector": "Supply chain"
+    }
+   ]
+  },
+  {
    "ticker": "UPS",
    "name": "United Parcel Service",
    "sector": "Supply chain",
@@ -5362,6 +5583,40 @@
      "title": "UPS intensifies effort to attract small businesses",
      "url": "https://www.freightwaves.com/news/ups-intensifies-effort-to-attract-small-businesses",
      "sector": "Supply chain"
+    }
+   ]
+  },
+  {
+   "ticker": "HDB",
+   "name": "HDFC Bank",
+   "sector": "Finance",
+   "articles": 25,
+   "articles14d": 4,
+   "terms": [],
+   "examples": [
+    {
+     "publisher": "ET BFSI",
+     "title": "HDFC Bank expects CASA ratio to improve by CY27 end as merger synergies kick in: CEO Sashidhar Jagdishan",
+     "url": "https://bfsi.economictimes.indiatimes.com/articles/hdfc-bank-expects-casa-ratio-to-improve-by-cy27-end-as-merger-synergies-kick-in-ceo-sashidhar-jagdishan/132940174",
+     "sector": "Finance"
+    },
+    {
+     "publisher": "ET BFSI",
+     "title": "HDFC Bank committed to highest governance standards, no systemic concerns: Chairman Rajiv Kumar",
+     "url": "https://bfsi.economictimes.indiatimes.com/articles/hdfc-bank-committed-to-highest-governance-standards-no-systemic-concerns-chairman-rajiv-kumar/132935996",
+     "sector": "Finance"
+    },
+    {
+     "publisher": "economictimes.indiatimes.com",
+     "title": "HDFC Bank , 3 other bank stocks wipe out Rs 1 . 5 lakh crore of investor wealth after Q1 . Time to buy the dip ?",
+     "url": "https://economictimes.indiatimes.com/markets/stocks/news/hdfc-bank-3-other-bank-stocks-wipe-out-rs-1-5-lakh-crore-of-investors-wealth-after-q1-time-to-buy-the-dip/articleshow/132596148.cms",
+     "sector": "Finance"
+    },
+    {
+     "publisher": "indiainfoline.com",
+     "title": "HDFC Bank News : 3 US Law Firms Investigate Allegations Linked to MSRDC Payments",
+     "url": "https://www.indiainfoline.com/news/companies/hdfc-bank-news-3-us-law-firms-investigate-allegations-linked-to-msrdc-payments",
+     "sector": "Finance"
     }
    ]
   },
@@ -5464,90 +5719,6 @@
      "title": "Capital One Financial Q2 Earnings Call Highlights",
      "url": "https://finance.yahoo.com/markets/stocks/articles/capital-one-financial-q2-earnings-230208506.html",
      "sector": "Finance"
-    }
-   ]
-  },
-  {
-   "ticker": "CHRW",
-   "name": "CH Robinson",
-   "sector": "Supply chain",
-   "articles": 3,
-   "articles14d": 3,
-   "terms": [],
-   "examples": [
-    {
-     "publisher": "FreightWaves",
-     "title": "C.H. Robinson: Nuclear Verdict's Existential Threat to Brokers",
-     "url": "https://www.freightwaves.com/news/c-h-robinson-nuclear-verdicts-existential-threat-to-brokers",
-     "sector": "Supply chain"
-    },
-    {
-     "publisher": "FreightWaves",
-     "title": "Massive $600 Million Nuclear Verdict Hits C.H. Robinson & Brokerage Industry",
-     "url": "https://www.freightwaves.com/news/massive-600-million-nuclear-verdict-hits-c-h-robinson-brokerage-industry",
-     "sector": "Supply chain"
-    },
-    {
-     "publisher": "FreightWaves",
-     "title": "C.H. Robinson earnings call shifts to nuclear verdict as key topic",
-     "url": "https://www.freightwaves.com/news/c-h-robinson-earnings-call-shifts-to-nuclear-verdict-as-key-topic",
-     "sector": "Supply chain"
-    }
-   ]
-  },
-  {
-   "ticker": "CMG",
-   "name": "Chipotle",
-   "sector": "Consumer",
-   "articles": 3,
-   "articles14d": 3,
-   "terms": [],
-   "examples": [
-    {
-     "publisher": "Supply Chain Dive",
-     "title": "Chipotle pulls some jalape\u00f1os over Salmonella concerns",
-     "url": "https://www.supplychaindive.com/news/chipotle-pulls-some-jalapenos-over-salmonella-concerns/827066/",
-     "sector": "Supply chain"
-    },
-    {
-     "publisher": "Restaurant Dive",
-     "title": "Chipotle posts best quarterly same-store sales growth since 2024",
-     "url": "https://www.restaurantdive.com/news/chipotle-same-store-sales-up-2-percent-q2-2026/826562/",
-     "sector": "Consumer"
-    },
-    {
-     "publisher": "Restaurant Dive",
-     "title": "Chipotle's efforts to engage customers with rewards in-restaurant pay off",
-     "url": "https://www.restaurantdive.com/news/chipotles-efforts-to-engage-customers-with-rewards-in-restaurant-pay-off/826651/",
-     "sector": "Consumer"
-    }
-   ]
-  },
-  {
-   "ticker": "MCD",
-   "name": "McDonald's",
-   "sector": "Consumer",
-   "articles": 3,
-   "articles14d": 3,
-   "terms": [],
-   "examples": [
-    {
-     "publisher": "CFO Dive",
-     "title": "McDonald picks insider finance veteran as new US boss",
-     "url": "https://www.cfodive.com/news/mcdonalds-finance-insider-takes-us-president-reins-skye-anderson/827156/",
-     "sector": "Finance"
-    },
-    {
-     "publisher": "Restaurant Dive",
-     "title": "McDonald's CEO blames US traffic drop on execution problems",
-     "url": "https://www.restaurantdive.com/news/mcdonalds-us-business-slows-operations-execution-problems/826920/",
-     "sector": "Consumer"
-    },
-    {
-     "publisher": "Restaurant Dive",
-     "title": "McDonald's USA appoints Skye Anderson to president",
-     "url": "https://www.restaurantdive.com/news/mcdonalds-usa-appoints-skye-anderson-president/826913/",
-     "sector": "Consumer"
     }
    ]
   },
@@ -5746,90 +5917,6 @@
      "title": "Buy , Hold , or Sell : Applied Materials Surged Right Back Toward $500 Following a Brutal June Flush . Here Where Id Buy",
      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-hold-sell-applied-materials-142852686.html",
      "sector": "Technology"
-    }
-   ]
-  },
-  {
-   "ticker": "COST",
-   "name": "Costco",
-   "sector": "Consumer",
-   "articles": 3,
-   "articles14d": 1,
-   "terms": [],
-   "examples": [
-    {
-     "publisher": "Grocery Dive",
-     "title": "Kroger and Albertsons continue to see their market share contract",
-     "url": "https://www.grocerydive.com/news/kroger-albertsons-grocery-market-share-contract-numerator/826197/",
-     "sector": "Consumer"
-    },
-    {
-     "publisher": "foreignpolicyjournal.com",
-     "title": "TJX ( NYSE : TJX ), Costco ( NASDAQ : COST ) And Walmart ( NYSE : WMT ) Emerge As Top Blue - Chip Retail Picks Amid Market Turbulence",
-     "url": "https://www.foreignpolicyjournal.com/2026/07/09/tjx-nyse-tjx-costco-nasdaq-cost-and-walmart-nyse-wmt-emerge-as-top-blue-chip-retail-picks-amid-market-turbulence/",
-     "sector": "Consumer"
-    },
-    {
-     "publisher": "benzinga.com",
-     "title": "Costco Reports June Sales Data Shares Slip Despite Strong Growth - Costco Wholesale ( NASDAQ : COST )",
-     "url": "https://www.benzinga.com/trading-ideas/movers/26/07/60347276/costco-reports-june-sales-data-shares-slip-despite-strong-growth",
-     "sector": "Consumer"
-    }
-   ]
-  },
-  {
-   "ticker": "LRCX",
-   "name": "Lam Research",
-   "sector": "Technology",
-   "articles": 3,
-   "articles14d": 1,
-   "terms": [],
-   "examples": [
-    {
-     "publisher": "The Elec",
-     "title": "Eugene Technology Completes Development of TiN ALD Tool for Sub-10nm DRAM",
-     "url": "https://www.thelec.net/news/articleView.html?idxno=12801",
-     "sector": "Technology"
-    },
-    {
-     "publisher": "finance.yahoo.com",
-     "title": "Semtech , Lam Research , and Photronics Shares Are Soaring , What You Need To Know",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/semtech-lam-research-photronics-shares-023750320.html",
-     "sector": "Technology"
-    },
-    {
-     "publisher": "finance.yahoo.com",
-     "title": "What Do Analysts Say About Lam Research ( LRCX ) Earnings Outlook ?",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/analysts-lam-research-lrcx-earnings-161123784.html",
-     "sector": "Technology"
-    }
-   ]
-  },
-  {
-   "ticker": "ISRG",
-   "name": "Intuitive Surgical",
-   "sector": "Healthcare",
-   "articles": 3,
-   "articles14d": 0,
-   "terms": [],
-   "examples": [
-    {
-     "publisher": "finance.yahoo.com",
-     "title": "Intuitive Surgical falls as Obamacare concerns rekindle medtech demand debate",
-     "url": "https://finance.yahoo.com/healthcare/articles/intuitive-surgical-falls-obamacare-concerns-112332654.html",
-     "sector": "Healthcare"
-    },
-    {
-     "publisher": "benzinga.com",
-     "title": "Netflix , SpaceX , Alphabet , Alcoa and Intuitive Surgical : Why These 5 Stocks Are on Investor Radars Toda",
-     "url": "https://www.benzinga.com/markets/equities/26/07/60515846/netflix-spacex-alphabet-alcoa-intuitive-surgical-stocks-to-watch",
-     "sector": "Healthcare"
-    },
-    {
-     "publisher": "fool.com",
-     "title": "Should You Buy Intuitive Surgical With the Stock Down 35 %? Here What History Says .",
-     "url": "https://www.fool.com/investing/2026/07/16/should-you-buy-intuitive-surgical-with-the-stock-d/",
-     "sector": "Healthcare"
     }
    ]
   }
@@ -35569,8 +35656,8 @@
   ]
  },
  "daysCollected": 99,
- "articlesStored": 6217,
- "articlesLive": 2499,
+ "articlesStored": 6220,
+ "articlesLive": 2502,
  "windowDays": 90,
  "terms": [
   {
@@ -39538,20 +39625,6 @@
      0
     ],
     [
-     "shipping news worldwide",
-     0.5,
-     "new",
-     1,
-     0
-    ],
-    [
-     "hellenic shipping",
-     0.5,
-     "new",
-     1,
-     0
-    ],
-    [
      "supply disruption",
      0.5,
      "new",
@@ -39559,7 +39632,21 @@
      0
     ],
     [
-     "lockheed martin",
+     "hormuz crisis",
+     0.5,
+     "new",
+     1,
+     0
+    ],
+    [
+     "houthi threat",
+     0.5,
+     "new",
+     1,
+     0
+    ],
+    [
+     "iran conflict",
      0.5,
      "new",
      1,
@@ -43141,7 +43228,7 @@
    "sectorCount": 5,
    "newestSector": "Energy",
    "daysSinceNewestSector": 6,
-   "articles14d": 22,
+   "articles14d": 23,
    "articlesPrior14d": 2,
    "publishers": 6,
    "sectors": [
@@ -43150,7 +43237,7 @@
      "firstSeen": "2026-05-14",
      "recent": 5,
      "articles": 6,
-     "share": 0.227,
+     "share": 0.217,
      "adopt": 5
     },
     {
@@ -43158,7 +43245,7 @@
      "firstSeen": "2026-05-27",
      "recent": 1,
      "articles": 2,
-     "share": 0.045,
+     "share": 0.043,
      "adopt": 18
     },
     {
@@ -43166,7 +43253,7 @@
      "firstSeen": "2026-06-01",
      "recent": 1,
      "articles": 4,
-     "share": 0.045,
+     "share": 0.043,
      "adopt": 23
     },
     {
@@ -43174,15 +43261,15 @@
      "firstSeen": "2026-07-30",
      "recent": 2,
      "articles": 2,
-     "share": 0.091,
+     "share": 0.087,
      "adopt": 82
     },
     {
      "name": "Energy",
      "firstSeen": "2026-07-31",
-     "recent": 13,
-     "articles": 13,
-     "share": 0.591,
+     "recent": 14,
+     "articles": 14,
+     "share": 0.609,
      "adopt": 83
     }
    ],
@@ -43190,7 +43277,7 @@
    "origins": [
     [
      "US",
-     27
+     28
     ],
     [
      "IN",
@@ -43233,7 +43320,7 @@
        0,
        0,
        2,
-       11
+       12
       ]
      },
      {
@@ -43351,46 +43438,53 @@
      "crude oil",
      1.0,
      "new",
-     10,
+     11,
      0
     ],
     [
      "crude oil price",
-     0.9,
+     0.91,
      "new",
-     9,
+     10,
      0
     ],
     [
      "gas price",
-     0.4,
+     0.36,
      "new",
      4,
      0
     ],
     [
      "middle east",
-     0.3,
+     0.27,
      "new",
      3,
      0
     ],
     [
      "natural gas price",
-     0.2,
+     0.18,
      "new",
      2,
      0
     ],
     [
      "high oil price",
-     0.2,
+     0.18,
      "steady",
      2,
      2
     ]
    ],
    "examples": [
+    {
+     "publisher": "OilPrice",
+     "title": "Iran and Oman Near Landmark Deal to Manage Strait of Hormuz",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-and-Oman-Near-Landmark-Deal-to-Manage-Strait-of-Hormuz.html",
+     "sector": "Energy",
+     "country": "US"
+    },
     {
      "publisher": "OilPrice",
      "title": "Oil Price Rally Boosts Glencore's First-Half Profit",
@@ -43411,13 +43505,6 @@
      "url": "https://government.economictimes.indiatimes.com/news/economy/rbi-keeps-repo-rate-unchanged-at-5-25-retains-neutral-stance/132890832",
      "sector": "Policy",
      "country": "IN"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Middle East War Triggers New Global Refining Boom",
-     "url": "https://oilprice.com/Energy/Energy-General/Middle-East-War-Triggers-New-Global-Refining-Boom.html",
-     "sector": "Energy",
-     "country": "US"
     }
    ],
    "daily": [
@@ -43779,10 +43866,10 @@
     },
     {
      "day": "2026-08-06",
-     "n": 0
+     "n": 1
     }
    ],
-   "specificity": 0.97,
+   "specificity": 0.969,
    "rank": 4.9
   },
   {
@@ -44886,574 +44973,6 @@
     {
      "day": "2026-08-04",
      "n": 0
-    },
-    {
-     "day": "2026-08-05",
-     "n": 1
-    },
-    {
-     "day": "2026-08-06",
-     "n": 0
-    }
-   ],
-   "specificity": 0.995,
-   "rank": 3.99
-  },
-  {
-   "id": "fully-integrated",
-   "term": "fully integrated",
-   "direction": "rising",
-   "sectorCount": 4,
-   "newestSector": "Labor",
-   "daysSinceNewestSector": 1,
-   "articles14d": 4,
-   "articlesPrior14d": 1,
-   "publishers": 4,
-   "sectors": [
-    {
-     "name": "Waste & water",
-     "firstSeen": "2026-07-29",
-     "recent": 1,
-     "articles": 1,
-     "share": 0.25,
-     "adopt": 81
-    },
-    {
-     "name": "Technology",
-     "firstSeen": "2026-08-01",
-     "recent": 1,
-     "articles": 1,
-     "share": 0.25,
-     "adopt": 84
-    },
-    {
-     "name": "Industrials",
-     "firstSeen": "2026-08-04",
-     "recent": 1,
-     "articles": 1,
-     "share": 0.25,
-     "adopt": 87
-    },
-    {
-     "name": "Labor",
-     "firstSeen": "2026-08-05",
-     "recent": 1,
-     "articles": 1,
-     "share": 0.25,
-     "adopt": 88
-    }
-   ],
-   "sinceStart": false,
-   "origins": [
-    [
-     "US",
-     3
-    ],
-    [
-     "IN",
-     2
-    ]
-   ],
-   "flow": {
-    "weeks": [
-     "2026-05-09",
-     "2026-05-16",
-     "2026-05-23",
-     "2026-05-30",
-     "2026-06-06",
-     "2026-06-13",
-     "2026-06-20",
-     "2026-06-27",
-     "2026-07-04",
-     "2026-07-11",
-     "2026-07-18",
-     "2026-07-25",
-     "2026-08-01"
-    ],
-    "bands": [
-     {
-      "sector": "Autos",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Waste & water",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0
-      ]
-     },
-     {
-      "sector": "Technology",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1
-      ]
-     },
-     {
-      "sector": "Industrials",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1
-      ]
-     },
-     {
-      "sector": "Labor",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1
-      ]
-     }
-    ]
-   },
-   "cooc": [
-    [
-     "data center",
-     1.0,
-     "new",
-     1,
-     0
-    ]
-   ],
-   "examples": [
-    {
-     "publisher": "ET HRWorld",
-     "title": "EV industry to generate up to 40 million jobs by 2030: Report",
-     "url": "https://hr.economictimes.indiatimes.com/news/industry/ev-industry-to-generate-up-to-40-million-jobs-by-2030-report/132958539",
-     "sector": "Labor",
-     "country": "IN"
-    },
-    {
-     "publisher": "ET Manufacturing",
-     "title": "Jupiter Wagons partners Italy's Lucchini RS to build integrated railwheel manufacturing platform",
-     "url": "https://manufacturing.economictimes.indiatimes.com/news/industry/jupiter-wagons-partners-italys-lucchini-rs-to-build-integrated-railwheel-manufacturing-platform/132847729",
-     "sector": "Industrials",
-     "country": "IN"
-    },
-    {
-     "publisher": "Data Center Dynamics",
-     "title": "Sponsored: Tackling complexity in AI data centers: leveraging fully integrated solutions",
-     "url": "https://www.datacenterdynamics.com/en/opinions/tackling-complexity-in-ai-data-centers-leveraging-fully-integrated-solutions/",
-     "sector": "Technology",
-     "country": "US"
-    },
-    {
-     "publisher": "Waste Dive",
-     "title": "WM's healthcare, recycling projects drive balance in Q2",
-     "url": "https://www.wastedive.com/news/wm-q2-earnings-healthcare-integration-volume-down/826494/",
-     "sector": "Waste & water",
-     "country": "US"
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-05-09",
-     "n": 0
-    },
-    {
-     "day": "2026-05-10",
-     "n": 0
-    },
-    {
-     "day": "2026-05-11",
-     "n": 0
-    },
-    {
-     "day": "2026-05-12",
-     "n": 0
-    },
-    {
-     "day": "2026-05-13",
-     "n": 0
-    },
-    {
-     "day": "2026-05-14",
-     "n": 0
-    },
-    {
-     "day": "2026-05-15",
-     "n": 0
-    },
-    {
-     "day": "2026-05-16",
-     "n": 0
-    },
-    {
-     "day": "2026-05-17",
-     "n": 0
-    },
-    {
-     "day": "2026-05-18",
-     "n": 0
-    },
-    {
-     "day": "2026-05-19",
-     "n": 0
-    },
-    {
-     "day": "2026-05-20",
-     "n": 0
-    },
-    {
-     "day": "2026-05-21",
-     "n": 0
-    },
-    {
-     "day": "2026-05-22",
-     "n": 0
-    },
-    {
-     "day": "2026-05-23",
-     "n": 0
-    },
-    {
-     "day": "2026-05-24",
-     "n": 0
-    },
-    {
-     "day": "2026-05-25",
-     "n": 0
-    },
-    {
-     "day": "2026-05-26",
-     "n": 0
-    },
-    {
-     "day": "2026-05-27",
-     "n": 0
-    },
-    {
-     "day": "2026-05-28",
-     "n": 0
-    },
-    {
-     "day": "2026-05-29",
-     "n": 0
-    },
-    {
-     "day": "2026-05-30",
-     "n": 0
-    },
-    {
-     "day": "2026-05-31",
-     "n": 0
-    },
-    {
-     "day": "2026-06-01",
-     "n": 0
-    },
-    {
-     "day": "2026-06-02",
-     "n": 0
-    },
-    {
-     "day": "2026-06-03",
-     "n": 0
-    },
-    {
-     "day": "2026-06-04",
-     "n": 0
-    },
-    {
-     "day": "2026-06-05",
-     "n": 0
-    },
-    {
-     "day": "2026-06-06",
-     "n": 0
-    },
-    {
-     "day": "2026-06-07",
-     "n": 0
-    },
-    {
-     "day": "2026-06-08",
-     "n": 0
-    },
-    {
-     "day": "2026-06-09",
-     "n": 0
-    },
-    {
-     "day": "2026-06-10",
-     "n": 0
-    },
-    {
-     "day": "2026-06-11",
-     "n": 0
-    },
-    {
-     "day": "2026-06-12",
-     "n": 0
-    },
-    {
-     "day": "2026-06-13",
-     "n": 0
-    },
-    {
-     "day": "2026-06-14",
-     "n": 0
-    },
-    {
-     "day": "2026-06-15",
-     "n": 0
-    },
-    {
-     "day": "2026-06-16",
-     "n": 0
-    },
-    {
-     "day": "2026-06-17",
-     "n": 0
-    },
-    {
-     "day": "2026-06-18",
-     "n": 0
-    },
-    {
-     "day": "2026-06-19",
-     "n": 0
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 0
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 1
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 1
-    },
-    {
-     "day": "2026-07-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 1
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 0
-    },
-    {
-     "day": "2026-08-04",
-     "n": 1
     },
     {
      "day": "2026-08-05",
@@ -47954,13 +47473,6 @@
     ],
     [
      "gdp growth",
-     1.0,
-     "new",
-     1,
-     0
-    ],
-    [
-     "icici bank",
      1.0,
      "new",
      1,
@@ -53063,591 +52575,6 @@
    "rank": 3.98
   },
   {
-   "id": "crude-oil-price",
-   "term": "crude oil price",
-   "direction": "new",
-   "sectorCount": 4,
-   "newestSector": "Policy",
-   "daysSinceNewestSector": 1,
-   "articles14d": 9,
-   "articlesPrior14d": 0,
-   "publishers": 4,
-   "sectors": [
-    {
-     "name": "Utilities",
-     "firstSeen": "2026-08-03",
-     "recent": 5,
-     "articles": 5,
-     "share": 0.556,
-     "adopt": 86
-    },
-    {
-     "name": "Energy",
-     "firstSeen": "2026-08-03",
-     "recent": 2,
-     "articles": 2,
-     "share": 0.222,
-     "adopt": 86
-    },
-    {
-     "name": "Policy",
-     "firstSeen": "2026-08-05",
-     "recent": 1,
-     "articles": 1,
-     "share": 0.111,
-     "adopt": 88
-    },
-    {
-     "name": "Industrials",
-     "firstSeen": "2026-08-05",
-     "recent": 1,
-     "articles": 1,
-     "share": 0.111,
-     "adopt": 88
-    }
-   ],
-   "sinceStart": false,
-   "origins": [
-    [
-     "US",
-     7
-    ],
-    [
-     "IN",
-     2
-    ]
-   ],
-   "flow": {
-    "weeks": [
-     "2026-05-09",
-     "2026-05-16",
-     "2026-05-23",
-     "2026-05-30",
-     "2026-06-06",
-     "2026-06-13",
-     "2026-06-20",
-     "2026-06-27",
-     "2026-07-04",
-     "2026-07-11",
-     "2026-07-18",
-     "2026-07-25",
-     "2026-08-01"
-    ],
-    "bands": [
-     {
-      "sector": "Utilities",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       5
-      ]
-     },
-     {
-      "sector": "Energy",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       2
-      ]
-     },
-     {
-      "sector": "Policy",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1
-      ]
-     },
-     {
-      "sector": "Industrials",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1
-      ]
-     }
-    ]
-   },
-   "cooc": [
-    [
-     "crude oil",
-     1.0,
-     "new",
-     9,
-     0
-    ],
-    [
-     "oil price",
-     1.0,
-     "new",
-     9,
-     0
-    ],
-    [
-     "fuel price",
-     0.22,
-     "new",
-     2,
-     0
-    ],
-    [
-     "global uncertainty",
-     0.11,
-     "new",
-     1,
-     0
-    ],
-    [
-     "high oil price",
-     0.11,
-     "new",
-     1,
-     0
-    ],
-    [
-     "oil production",
-     0.11,
-     "new",
-     1,
-     0
-    ]
-   ],
-   "examples": [
-    {
-     "publisher": "ET Manufacturing",
-     "title": "RBI lowers FY27 inflation forecast to 5% despite food, fuel price pressures",
-     "url": "https://manufacturing.economictimes.indiatimes.com/news/industry/rbi-lowers-fy27-inflation-forecast-to-5-despite-food-fuel-price-pressures/132892415",
-     "sector": "Industrials",
-     "country": "IN"
-    },
-    {
-     "publisher": "ET Government",
-     "title": "RBI keeps repo rate unchanged at 5.25%, retains neutral stance",
-     "url": "https://government.economictimes.indiatimes.com/news/economy/rbi-keeps-repo-rate-unchanged-at-5-25-retains-neutral-stance/132890832",
-     "sector": "Policy",
-     "country": "IN"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Saudi Aramco's Adjusted Profit Jumps 33% as Oil Prices Surge",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramcos-Adjusted-Profit-Jumps-33-as-Oil-Prices-Surge.html",
-     "sector": "Energy",
-     "country": "US"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Big Oil Warns Global Fuel Stocks Are Running Dangerously Low",
-     "url": "https://oilprice.com/Energy/Energy-General/Big-Oil-Warns-Global-Fuel-Stocks-Are-Running-Dangerously-Low.html",
-     "sector": "Energy",
-     "country": "US"
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-05-09",
-     "n": 0
-    },
-    {
-     "day": "2026-05-10",
-     "n": 0
-    },
-    {
-     "day": "2026-05-11",
-     "n": 0
-    },
-    {
-     "day": "2026-05-12",
-     "n": 0
-    },
-    {
-     "day": "2026-05-13",
-     "n": 0
-    },
-    {
-     "day": "2026-05-14",
-     "n": 0
-    },
-    {
-     "day": "2026-05-15",
-     "n": 0
-    },
-    {
-     "day": "2026-05-16",
-     "n": 0
-    },
-    {
-     "day": "2026-05-17",
-     "n": 0
-    },
-    {
-     "day": "2026-05-18",
-     "n": 0
-    },
-    {
-     "day": "2026-05-19",
-     "n": 0
-    },
-    {
-     "day": "2026-05-20",
-     "n": 0
-    },
-    {
-     "day": "2026-05-21",
-     "n": 0
-    },
-    {
-     "day": "2026-05-22",
-     "n": 0
-    },
-    {
-     "day": "2026-05-23",
-     "n": 0
-    },
-    {
-     "day": "2026-05-24",
-     "n": 0
-    },
-    {
-     "day": "2026-05-25",
-     "n": 0
-    },
-    {
-     "day": "2026-05-26",
-     "n": 0
-    },
-    {
-     "day": "2026-05-27",
-     "n": 0
-    },
-    {
-     "day": "2026-05-28",
-     "n": 0
-    },
-    {
-     "day": "2026-05-29",
-     "n": 0
-    },
-    {
-     "day": "2026-05-30",
-     "n": 0
-    },
-    {
-     "day": "2026-05-31",
-     "n": 0
-    },
-    {
-     "day": "2026-06-01",
-     "n": 0
-    },
-    {
-     "day": "2026-06-02",
-     "n": 0
-    },
-    {
-     "day": "2026-06-03",
-     "n": 0
-    },
-    {
-     "day": "2026-06-04",
-     "n": 0
-    },
-    {
-     "day": "2026-06-05",
-     "n": 0
-    },
-    {
-     "day": "2026-06-06",
-     "n": 0
-    },
-    {
-     "day": "2026-06-07",
-     "n": 0
-    },
-    {
-     "day": "2026-06-08",
-     "n": 0
-    },
-    {
-     "day": "2026-06-09",
-     "n": 0
-    },
-    {
-     "day": "2026-06-10",
-     "n": 0
-    },
-    {
-     "day": "2026-06-11",
-     "n": 0
-    },
-    {
-     "day": "2026-06-12",
-     "n": 0
-    },
-    {
-     "day": "2026-06-13",
-     "n": 0
-    },
-    {
-     "day": "2026-06-14",
-     "n": 0
-    },
-    {
-     "day": "2026-06-15",
-     "n": 0
-    },
-    {
-     "day": "2026-06-16",
-     "n": 0
-    },
-    {
-     "day": "2026-06-17",
-     "n": 0
-    },
-    {
-     "day": "2026-06-18",
-     "n": 0
-    },
-    {
-     "day": "2026-06-19",
-     "n": 0
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 0
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 0
-    },
-    {
-     "day": "2026-07-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 0
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 6
-    },
-    {
-     "day": "2026-08-04",
-     "n": 1
-    },
-    {
-     "day": "2026-08-05",
-     "n": 2
-    },
-    {
-     "day": "2026-08-06",
-     "n": 0
-    }
-   ],
-   "specificity": 0.988,
-   "rank": 3.97
-  },
-  {
    "id": "power-generation",
    "term": "power generation",
    "direction": "new",
@@ -54253,6 +53180,591 @@
    ],
    "specificity": 0.988,
    "rank": 3.97
+  },
+  {
+   "id": "crude-oil-price",
+   "term": "crude oil price",
+   "direction": "new",
+   "sectorCount": 4,
+   "newestSector": "Policy",
+   "daysSinceNewestSector": 1,
+   "articles14d": 10,
+   "articlesPrior14d": 0,
+   "publishers": 4,
+   "sectors": [
+    {
+     "name": "Utilities",
+     "firstSeen": "2026-08-03",
+     "recent": 5,
+     "articles": 5,
+     "share": 0.5,
+     "adopt": 86
+    },
+    {
+     "name": "Energy",
+     "firstSeen": "2026-08-03",
+     "recent": 3,
+     "articles": 3,
+     "share": 0.3,
+     "adopt": 86
+    },
+    {
+     "name": "Policy",
+     "firstSeen": "2026-08-05",
+     "recent": 1,
+     "articles": 1,
+     "share": 0.1,
+     "adopt": 88
+    },
+    {
+     "name": "Industrials",
+     "firstSeen": "2026-08-05",
+     "recent": 1,
+     "articles": 1,
+     "share": 0.1,
+     "adopt": 88
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "US",
+     8
+    ],
+    [
+     "IN",
+     2
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-05-09",
+     "2026-05-16",
+     "2026-05-23",
+     "2026-05-30",
+     "2026-06-06",
+     "2026-06-13",
+     "2026-06-20",
+     "2026-06-27",
+     "2026-07-04",
+     "2026-07-11",
+     "2026-07-18",
+     "2026-07-25",
+     "2026-08-01"
+    ],
+    "bands": [
+     {
+      "sector": "Utilities",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       5
+      ]
+     },
+     {
+      "sector": "Energy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       3
+      ]
+     },
+     {
+      "sector": "Policy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     },
+     {
+      "sector": "Industrials",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   "cooc": [
+    [
+     "crude oil",
+     1.0,
+     "new",
+     10,
+     0
+    ],
+    [
+     "oil price",
+     1.0,
+     "new",
+     10,
+     0
+    ],
+    [
+     "fuel price",
+     0.2,
+     "new",
+     2,
+     0
+    ],
+    [
+     "global uncertainty",
+     0.1,
+     "new",
+     1,
+     0
+    ],
+    [
+     "high oil price",
+     0.1,
+     "new",
+     1,
+     0
+    ],
+    [
+     "oil production",
+     0.1,
+     "new",
+     1,
+     0
+    ]
+   ],
+   "examples": [
+    {
+     "publisher": "OilPrice",
+     "title": "Iran and Oman Near Landmark Deal to Manage Strait of Hormuz",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-and-Oman-Near-Landmark-Deal-to-Manage-Strait-of-Hormuz.html",
+     "sector": "Energy",
+     "country": "US"
+    },
+    {
+     "publisher": "ET Manufacturing",
+     "title": "RBI lowers FY27 inflation forecast to 5% despite food, fuel price pressures",
+     "url": "https://manufacturing.economictimes.indiatimes.com/news/industry/rbi-lowers-fy27-inflation-forecast-to-5-despite-food-fuel-price-pressures/132892415",
+     "sector": "Industrials",
+     "country": "IN"
+    },
+    {
+     "publisher": "ET Government",
+     "title": "RBI keeps repo rate unchanged at 5.25%, retains neutral stance",
+     "url": "https://government.economictimes.indiatimes.com/news/economy/rbi-keeps-repo-rate-unchanged-at-5-25-retains-neutral-stance/132890832",
+     "sector": "Policy",
+     "country": "IN"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Saudi Aramco's Adjusted Profit Jumps 33% as Oil Prices Surge",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramcos-Adjusted-Profit-Jumps-33-as-Oil-Prices-Surge.html",
+     "sector": "Energy",
+     "country": "US"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-05-09",
+     "n": 0
+    },
+    {
+     "day": "2026-05-10",
+     "n": 0
+    },
+    {
+     "day": "2026-05-11",
+     "n": 0
+    },
+    {
+     "day": "2026-05-12",
+     "n": 0
+    },
+    {
+     "day": "2026-05-13",
+     "n": 0
+    },
+    {
+     "day": "2026-05-14",
+     "n": 0
+    },
+    {
+     "day": "2026-05-15",
+     "n": 0
+    },
+    {
+     "day": "2026-05-16",
+     "n": 0
+    },
+    {
+     "day": "2026-05-17",
+     "n": 0
+    },
+    {
+     "day": "2026-05-18",
+     "n": 0
+    },
+    {
+     "day": "2026-05-19",
+     "n": 0
+    },
+    {
+     "day": "2026-05-20",
+     "n": 0
+    },
+    {
+     "day": "2026-05-21",
+     "n": 0
+    },
+    {
+     "day": "2026-05-22",
+     "n": 0
+    },
+    {
+     "day": "2026-05-23",
+     "n": 0
+    },
+    {
+     "day": "2026-05-24",
+     "n": 0
+    },
+    {
+     "day": "2026-05-25",
+     "n": 0
+    },
+    {
+     "day": "2026-05-26",
+     "n": 0
+    },
+    {
+     "day": "2026-05-27",
+     "n": 0
+    },
+    {
+     "day": "2026-05-28",
+     "n": 0
+    },
+    {
+     "day": "2026-05-29",
+     "n": 0
+    },
+    {
+     "day": "2026-05-30",
+     "n": 0
+    },
+    {
+     "day": "2026-05-31",
+     "n": 0
+    },
+    {
+     "day": "2026-06-01",
+     "n": 0
+    },
+    {
+     "day": "2026-06-02",
+     "n": 0
+    },
+    {
+     "day": "2026-06-03",
+     "n": 0
+    },
+    {
+     "day": "2026-06-04",
+     "n": 0
+    },
+    {
+     "day": "2026-06-05",
+     "n": 0
+    },
+    {
+     "day": "2026-06-06",
+     "n": 0
+    },
+    {
+     "day": "2026-06-07",
+     "n": 0
+    },
+    {
+     "day": "2026-06-08",
+     "n": 0
+    },
+    {
+     "day": "2026-06-09",
+     "n": 0
+    },
+    {
+     "day": "2026-06-10",
+     "n": 0
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 0
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 0
+    },
+    {
+     "day": "2026-06-16",
+     "n": 0
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 0
+    },
+    {
+     "day": "2026-06-19",
+     "n": 0
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 0
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-31",
+     "n": 0
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 6
+    },
+    {
+     "day": "2026-08-04",
+     "n": 1
+    },
+    {
+     "day": "2026-08-05",
+     "n": 2
+    },
+    {
+     "day": "2026-08-06",
+     "n": 1
+    }
+   ],
+   "specificity": 0.986,
+   "rank": 3.96
   },
   {
    "id": "donald-trump",
@@ -55695,7 +55207,7 @@
      0
     ],
     [
-     "provide additional",
+     "security concern",
      0.2,
      "new",
      1,
@@ -56685,7 +56197,7 @@
    "sectorCount": 4,
    "newestSector": "Policy",
    "daysSinceNewestSector": 1,
-   "articles14d": 31,
+   "articles14d": 32,
    "articlesPrior14d": 0,
    "publishers": 4,
    "sectors": [
@@ -56694,15 +56206,15 @@
      "firstSeen": "2026-08-03",
      "recent": 11,
      "articles": 11,
-     "share": 0.355,
+     "share": 0.344,
      "adopt": 86
     },
     {
      "name": "Energy",
      "firstSeen": "2026-08-03",
-     "recent": 18,
-     "articles": 18,
-     "share": 0.581,
+     "recent": 19,
+     "articles": 19,
+     "share": 0.594,
      "adopt": 86
     },
     {
@@ -56710,7 +56222,7 @@
      "firstSeen": "2026-08-05",
      "recent": 1,
      "articles": 1,
-     "share": 0.032,
+     "share": 0.031,
      "adopt": 88
     },
     {
@@ -56718,7 +56230,7 @@
      "firstSeen": "2026-08-05",
      "recent": 1,
      "articles": 1,
-     "share": 0.032,
+     "share": 0.031,
      "adopt": 88
     }
    ],
@@ -56726,7 +56238,7 @@
    "origins": [
     [
      "US",
-     29
+     30
     ],
     [
      "IN",
@@ -56765,7 +56277,7 @@
        0,
        0,
        0,
-       18
+       19
       ]
      },
      {
@@ -56829,46 +56341,53 @@
      "oil price",
      1.0,
      "new",
-     10,
+     11,
      0
     ],
     [
      "crude oil price",
-     0.9,
+     0.91,
      "new",
-     9,
+     10,
      0
     ],
     [
      "crude oil inventory",
-     0.5,
-     "new",
-     5,
-     0
-    ],
-    [
-     "barrels per",
-     0.5,
+     0.45,
      "new",
      5,
      0
     ],
     [
      "middle east",
-     0.5,
+     0.45,
      "new",
      5,
      0
     ],
     [
      "natural gas",
-     0.4,
+     0.36,
      "new",
      4,
+     0
+    ],
+    [
+     "oil production",
+     0.27,
+     "new",
+     3,
      0
     ]
    ],
    "examples": [
+    {
+     "publisher": "OilPrice",
+     "title": "Iran and Oman Near Landmark Deal to Manage Strait of Hormuz",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Iran-and-Oman-Near-Landmark-Deal-to-Manage-Strait-of-Hormuz.html",
+     "sector": "Energy",
+     "country": "US"
+    },
     {
      "publisher": "OilPrice",
      "title": "Middle East War Throws LNG's Growth Story Into Doubt",
@@ -56887,13 +56406,6 @@
      "publisher": "OilPrice",
      "title": "India Hopes To Take Over Operation Of Venezuelan Oil Fields From PDVSA",
      "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Hopes-To-Take-Over-Operation-Of-Venezuelan-Oil-Fields-From-PDVSA.html",
-     "sector": "Energy",
-     "country": "US"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Iraq-Syria Pipeline to Bypass Hormuz Could Be Revived Within 3 Years",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Syria-Pipeline-to-Bypass-Hormuz-Could-Be-Revived-Within-3-Years.html",
      "sector": "Energy",
      "country": "US"
     }
@@ -57257,10 +56769,10 @@
     },
     {
      "day": "2026-08-06",
-     "n": 0
+     "n": 1
     }
    ],
-   "specificity": 0.958,
+   "specificity": 0.957,
    "rank": 3.89
   },
   {
@@ -59714,7 +59226,22 @@
      }
     ]
    },
-   "cooc": [],
+   "cooc": [
+    [
+     "rare earth supply",
+     1.0,
+     "new",
+     1,
+     0
+    ],
+    [
+     "supply chain",
+     1.0,
+     "new",
+     1,
+     0
+    ]
+   ],
    "examples": [
     {
      "publisher": "ET HRWorld",
@@ -62169,6 +61696,508 @@
     {
      "day": "2026-08-05",
      "n": 1
+    },
+    {
+     "day": "2026-08-06",
+     "n": 1
+    }
+   ],
+   "specificity": 0.996,
+   "rank": 2.99
+  },
+  {
+   "id": "storage-capacity",
+   "term": "storage capacity",
+   "direction": "new",
+   "sectorCount": 3,
+   "newestSector": "Supply chain",
+   "daysSinceNewestSector": 0,
+   "articles14d": 3,
+   "articlesPrior14d": 0,
+   "publishers": 2,
+   "sectors": [
+    {
+     "name": "Energy",
+     "firstSeen": "2026-08-01",
+     "recent": 1,
+     "articles": 1,
+     "share": 0.333,
+     "adopt": 84
+    },
+    {
+     "name": "Utilities",
+     "firstSeen": "2026-08-03",
+     "recent": 1,
+     "articles": 1,
+     "share": 0.333,
+     "adopt": 86
+    },
+    {
+     "name": "Supply chain",
+     "firstSeen": "2026-08-06",
+     "recent": 1,
+     "articles": 1,
+     "share": 0.333,
+     "adopt": 89
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "US",
+     2
+    ],
+    [
+     "GR",
+     1
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-05-09",
+     "2026-05-16",
+     "2026-05-23",
+     "2026-05-30",
+     "2026-06-06",
+     "2026-06-13",
+     "2026-06-20",
+     "2026-06-27",
+     "2026-07-04",
+     "2026-07-11",
+     "2026-07-18",
+     "2026-07-25",
+     "2026-08-01"
+    ],
+    "bands": [
+     {
+      "sector": "Energy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     },
+     {
+      "sector": "Utilities",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     },
+     {
+      "sector": "Supply chain",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   "cooc": [],
+   "examples": [
+    {
+     "publisher": "Container News",
+     "title": "Peninsula and Evos plan biofuel storage infrastructure in Algeciras",
+     "url": "https://container-news.com/peninsula-and-evos-plan-biofuel-storage-infrastructure-in-algeciras/",
+     "sector": "Supply chain",
+     "country": "GR"
+    },
+    {
+     "publisher": "EIA Today in Energy",
+     "title": "U.S. natural gas storage capacity increased slightly in 2025",
+     "url": "https://www.eia.gov/todayinenergy/detail.php?id=67745",
+     "sector": "Utilities",
+     "country": "US"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-05-09",
+     "n": 0
+    },
+    {
+     "day": "2026-05-10",
+     "n": 0
+    },
+    {
+     "day": "2026-05-11",
+     "n": 0
+    },
+    {
+     "day": "2026-05-12",
+     "n": 0
+    },
+    {
+     "day": "2026-05-13",
+     "n": 0
+    },
+    {
+     "day": "2026-05-14",
+     "n": 0
+    },
+    {
+     "day": "2026-05-15",
+     "n": 0
+    },
+    {
+     "day": "2026-05-16",
+     "n": 0
+    },
+    {
+     "day": "2026-05-17",
+     "n": 0
+    },
+    {
+     "day": "2026-05-18",
+     "n": 0
+    },
+    {
+     "day": "2026-05-19",
+     "n": 0
+    },
+    {
+     "day": "2026-05-20",
+     "n": 0
+    },
+    {
+     "day": "2026-05-21",
+     "n": 0
+    },
+    {
+     "day": "2026-05-22",
+     "n": 0
+    },
+    {
+     "day": "2026-05-23",
+     "n": 0
+    },
+    {
+     "day": "2026-05-24",
+     "n": 0
+    },
+    {
+     "day": "2026-05-25",
+     "n": 0
+    },
+    {
+     "day": "2026-05-26",
+     "n": 0
+    },
+    {
+     "day": "2026-05-27",
+     "n": 0
+    },
+    {
+     "day": "2026-05-28",
+     "n": 0
+    },
+    {
+     "day": "2026-05-29",
+     "n": 0
+    },
+    {
+     "day": "2026-05-30",
+     "n": 0
+    },
+    {
+     "day": "2026-05-31",
+     "n": 0
+    },
+    {
+     "day": "2026-06-01",
+     "n": 0
+    },
+    {
+     "day": "2026-06-02",
+     "n": 0
+    },
+    {
+     "day": "2026-06-03",
+     "n": 0
+    },
+    {
+     "day": "2026-06-04",
+     "n": 0
+    },
+    {
+     "day": "2026-06-05",
+     "n": 0
+    },
+    {
+     "day": "2026-06-06",
+     "n": 0
+    },
+    {
+     "day": "2026-06-07",
+     "n": 0
+    },
+    {
+     "day": "2026-06-08",
+     "n": 0
+    },
+    {
+     "day": "2026-06-09",
+     "n": 0
+    },
+    {
+     "day": "2026-06-10",
+     "n": 0
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 0
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 0
+    },
+    {
+     "day": "2026-06-16",
+     "n": 0
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 0
+    },
+    {
+     "day": "2026-06-19",
+     "n": 0
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 0
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-31",
+     "n": 0
+    },
+    {
+     "day": "2026-08-01",
+     "n": 1
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 1
+    },
+    {
+     "day": "2026-08-04",
+     "n": 0
+    },
+    {
+     "day": "2026-08-05",
+     "n": 0
     },
     {
      "day": "2026-08-06",
@@ -65640,7 +65669,7 @@
      0
     ],
     [
-     "rule finaliz",
+     "rule finalize",
      0.33,
      "new",
      1,
@@ -66162,13 +66191,6 @@
    "cooc": [
     [
      "management system",
-     1.0,
-     "new",
-     1,
-     0
-    ],
-    [
-     "fully integrated",
      1.0,
      "new",
      1,
@@ -70518,13 +70540,6 @@
      0
     ],
     [
-     "kakao game",
-     1.0,
-     "new",
-     1,
-     0
-    ],
-    [
      "net loss",
      1.0,
      "new",
@@ -72606,13 +72621,6 @@
     ]
    },
    "cooc": [
-    [
-     "summaryview transcript",
-     1.0,
-     "new",
-     1,
-     0
-    ],
     [
      "dispute resolution",
      1.0,
@@ -75375,21 +75383,7 @@
    },
    "cooc": [
     [
-     "real estate headline",
-     1.0,
-     "new",
-     2,
-     0
-    ],
-    [
      "apac real estate",
-     1.0,
-     "new",
-     2,
-     0
-    ],
-    [
-     "leads today",
      1.0,
      "new",
      2,
@@ -77024,13 +77018,6 @@
      0
     ],
     [
-     "breaks ground",
-     1.0,
-     "new",
-     1,
-     0
-    ],
-    [
      "global energy",
      1.0,
      "new",
@@ -77046,6 +77033,13 @@
     ],
     [
      "data center",
+     1.0,
+     "new",
+     1,
+     0
+    ],
+    [
+     "power grid",
      1.0,
      "new",
      1,
