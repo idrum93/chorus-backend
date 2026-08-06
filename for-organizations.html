@@ -1,0 +1,133 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23E8EAE3'/%3E%3Crect x='4' y='7' width='24' height='4.5' fill='%231A1A18'/%3E%3Crect x='4' y='14' width='16' height='4.5' fill='%231A1A18'/%3E%3Crect x='4' y='21' width='24' height='4.5' fill='%23C4304F'/%3E%3C/svg%3E">
+<title>Crosstalk for a single organization</title>
+<style>
+:root{
+  --ground:#E4E6E0; --panel:#F2F3EF; --sunk:#DADCD4;
+  --ink:#151815; --ink-2:#3D423C; --muted:#71766E; --rule:#C5C8BE;
+  --signal:#1B3BC7; --signal-2:#6E86E0; --signal-3:#B3C0EE;
+  --heat:#D81B60; --heat-soft:#F6D3E0; --amber:#A9760F; --good:#1F7A4C;
+  --display:'Archivo Black','Arial Black',system-ui,sans-serif;
+  --body:'IBM Plex Sans','Helvetica Neue',Arial,sans-serif;
+  --mono:'IBM Plex Mono',Menlo,monospace;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{background:var(--ground);color:var(--ink);font-family:var(--sans);
+  line-height:1.62;font-size:15px;padding:44px 22px 80px}
+.doc{max-width:660px;margin:0 auto}
+.mark{font-family:var(--display);font-size:26px;letter-spacing:-.02em;
+  text-transform:uppercase;margin-bottom:6px}
+.mark span{color:var(--heat)}
+.back{font-family:var(--mono);font-size:10px;letter-spacing:.09em;text-transform:uppercase;
+  color:var(--muted);border-bottom:1px solid var(--rule);padding-bottom:1px}
+.back:hover{color:var(--ink)}
+h1{font-family:var(--display);font-size:30px;line-height:1.12;letter-spacing:-.02em;
+  margin:26px 0 18px}
+h2{font-family:var(--mono);font-size:11.5px;letter-spacing:.12em;text-transform:uppercase;
+  margin:36px 0 12px;padding-bottom:7px;border-bottom:1px solid var(--ink)}
+p{margin:0 0 13px}
+ul{margin:0 0 15px 18px} li{margin-bottom:6px}
+hr{border:none;border-top:1px solid var(--rule);margin:34px 0}
+a{color:inherit} strong{font-weight:600}
+</style></head><body>
+<div class="doc">
+  <div class="mark">Cross<span>talk</span></div>
+  <a class="back" href="./dashboard.html">← back to the dashboard</a>
+<h1>Crosstalk for a single organization</h1>
+<p>crosstalkwire.com tracks which phrases are crossing between industries in the</p>
+<p>trade press. A private deployment does the same thing, pointed at the</p>
+<p>publications, competitors and regulators that matter to one organization.</p>
+<hr>
+<h2>What it is</h2>
+<p>The public site reads 76 trade publications across 14 sectors and reports which</p>
+<p>phrases appear in more than one sector's coverage, which sector used each one</p>
+<p>first, and how usage has moved. Everything is a count of articles actually read,</p>
+<p>with the articles linked.</p>
+<p>A private deployment is the same system with a different reading list:</p>
+<ul>
+<li><strong>Your publications.</strong> The trade press that covers your sector, your</li>
+</ul>
+<p>  suppliers' sectors, and your customers' — including non-English-language</p>
+<p>  markets where a feed exists.</p>
+<ul>
+<li><strong>Your companies.</strong> Competitors, customers, suppliers, tracked by name across</li>
+</ul>
+<p>  all of it.</p>
+<ul>
+<li><strong>Your regulators.</strong> The agencies and standards bodies that appear in your</li>
+</ul>
+<p>  coverage, and which sectors are naming them.</p>
+<ul>
+<li><strong>Your sectors.</strong> The fourteen used publicly are a general-purpose split. A</li>
+</ul>
+<p>  deployment uses whatever divisions describe your market.</p>
+<hr>
+<h2>What it is for</h2>
+<p>Three questions it answers that are otherwise answered by reading everything:</p>
+<p><strong>What is arriving in our sector's language that was not there a month ago.</strong></p>
+<p>New vocabulary in your coverage, when it appeared, and where it came from.</p>
+<p><strong>Which of our constraints are becoming other people's.</strong> When a phrase your</p>
+<p>industry has used for years starts appearing in three others, that is a change</p>
+<p>in who is paying attention.</p>
+<p><strong>What a broad topic has actually become.</strong> "Data center" can be a property</p>
+<p>story, a power story or a chip story. What sits beside it in coverage tells you</p>
+<p>which — and when it changed.</p>
+<hr>
+<h2>What it does not do</h2>
+<p><strong>It does not forecast.</strong> Three separate tests were run on whether language</p>
+<p>spreading across sectors precedes price movement — on public attention data, on</p>
+<p>link-sharing data, and on ten years of SEC filings against sector prices. All</p>
+<p>three found nothing. The last used 868 events across 42 quarters and returned a</p>
+<p>breadth premium of −1.1 points at p = 0.62.</p>
+<p>That result is stated here for the same reason it is stated in the interface: a</p>
+<p>monitoring tool that describes what is being discussed is useful, and a</p>
+<p>monitoring tool that quietly implies it can predict is not.</p>
+<p><strong>It does not score sentiment.</strong> It counts phrases. Whether coverage is positive</p>
+<p>or negative is a judgement the tool does not make.</p>
+<p><strong>It does not assess accuracy.</strong> It reports what publications wrote, not whether</p>
+<p>they were right.</p>
+<hr>
+<h2>What a deployment involves</h2>
+<p><strong>Scoping.</strong> A conversation about your sectors, the publications that cover</p>
+<p>them, and the companies and bodies worth tracking. Usually where most of the</p>
+<p>value is decided — the reading list is the product.</p>
+<p><strong>Setup.</strong> Feed list assembled and verified, sector mapping defined, company and</p>
+<p>institution lists built, first collection run. History accumulates from the</p>
+<p>start date, so the tool becomes more useful with time rather than less.</p>
+<p><strong>Running.</strong> Collection every six hours. A weekly digest by email. A dashboard</p>
+<p>at a private address. Feeds break and get replaced; that is ongoing work.</p>
+<hr>
+<h2>Sources that are not public</h2>
+<p>Some of what an organization reads is behind a licence: a paid newswire, a
+subscription trade service, an internal feed. Where you hold a licence that
+permits it and can supply a feed URL or API key, those sources can be read the
+same way public ones are — the system does not care where a feed comes from.</p>
+<p>Two limits worth stating plainly. Whether your licence permits this is a
+question for your agreement, not for us. And no article text is stored either
+way, only headlines, summaries, links and counts.</p>
+
+<h2>What you would need to provide</h2>
+<ul>
+<li>The sectors you want split out, and roughly what belongs in each</li>
+<li>Publications you already read, and any you wish you had time to</li>
+<li>Companies and bodies worth tracking by name</li>
+<li>An idea of who receives the weekly digest</li>
+</ul>
+<hr>
+<h2>Honest limitations</h2>
+<p><strong>History starts when collection starts.</strong> A phrase that has been in your</p>
+<p>sector's coverage for years reads as new on day one. This resolves over about</p>
+<p>six months and is flagged in the interface until it does.</p>
+<p>**A publication can only carry a sector label if its whole beat sits in that</p>
+<p>sector.** General business titles are excluded, because their articles about</p>
+<p>other industries would be counted as yours and would manufacture cross-sector</p>
+<p>spread that never happened.</p>
+<p><strong>Coverage is only as good as the feeds.</strong> Where a trade publication has no RSS</p>
+<p>feed, it cannot be read. Some sectors are far better served than others.</p>
+<p><strong>Article text is not stored</strong> — headlines, summaries, links and counts only.</p>
+<p>Cheaper, and clear of redistribution questions.</p>
+<hr>
+<h2>Contact</h2>
+<p><a href="mailto:hello@crosstalkwire.com">hello@crosstalkwire.com</a></p>
+</div></body></html>
