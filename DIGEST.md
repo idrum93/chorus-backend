@@ -1,6 +1,6 @@
 # Crosstalk — week ending 7 August 2026
 
-*6,927 articles over 100 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*6,945 articles over 100 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
@@ -17,8 +17,8 @@
   - [Enva's new HIPS compound targets automotive manufacturers](https://www.automotiveworld.com/news/envas-new-hips-compound-targets-automotive-manufacturers/) · Automotive World · autos
 
 **natural gas** — now in 8 sectors. **Waste & water** picked it up 1d ago; it was first seen in energy coverage on 12 May 2026.
+  - [Transgaz-Argent LNG MOU advances US gas route to Central and Eastern Europe](https://www.offshore-energy.biz/transgaz-argent-lng-mou-advances-us-gas-route-to-central-and-eastern-europe/) · Offshore Energy · energy
   - [ExxonMobil books McDermott for Mozambique's multibillion-dollar LNG project](https://www.offshore-energy.biz/exxonmobil-books-mcdermott-for-mozambiques-multibillion-dollar-lng-project/) · Offshore Energy · energy
-  - [$30 billion LNG project nears FID: Saipem confirms preliminary award shortly after McDermott](https://www.offshore-energy.biz/30-billion-lng-project-nears-fid-saipem-confirms-preliminary-award-shortly-after-mcdermott/) · Offshore Energy · energy
 
 **joint venture** — now in 8 sectors. **Supply chain** picked it up 2d ago; it was first seen in real estate coverage on 16 June 2026.
   - [$30 billion LNG project nears FID: Saipem confirms preliminary award shortly after McDermott](https://www.offshore-energy.biz/30-billion-lng-project-nears-fid-saipem-confirms-preliminary-award-shortly-after-mcdermott/) · Offshore Energy · energy
@@ -28,9 +28,9 @@
   - [CMA CGM completes FATTAL GROUP acquisition](https://container-news.com/cma-cgm-completes-fattal-group-acquisition/) · Container News · supply chain
   - [Saudi Arabia, Pakistan and Turkey to Sign Defense Deal](https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Pakistan-and-Turkey-to-Sign-Defense-Deal.html) · OilPrice · energy
 
-**real estate** — now in 7 sectors. **Industrials** picked it up 1d ago; it was first seen in real estate coverage on 16 May 2026.
+**real estate** — now in 7 sectors. **Policy** picked it up 1d ago; it was first seen in real estate coverage on 16 May 2026.
+  - [Valley National Bank Provides $30M Value-Add Refi for Park Towers in Miami](https://commercialobserver.com/2026/08/valley-national-bank-30m-refi-park-towers-miami/) · Commercial Observer · real estate
   - [TPG AG, Redfearn Capital Acquire Industrial Portfolio for $628M](https://commercialobserver.com/2026/08/tpg-ag-redfearn-capital-industrial/) · Commercial Observer · real estate
-  - [Barry Gosin Stepping Down as Newmark's CEO](https://commercialobserver.com/2026/08/barry-gosin-newmark-exit/) · Commercial Observer · real estate
 
 **electric vehicle** — now in 6 sectors. **Finance** picked it up 3d ago; it was first seen in autos coverage on 14 May 2026.
   - [Commentary: Why playing it safe could cost Taiwan the next battery boom](https://www.digitimes.com/news/a20260806PD228/taiwan-investment-technology-autonomous-driving-growth.html) · DigiTimes Asia · technology
@@ -41,13 +41,13 @@
 | phrase | sectors | articles | vs prior fortnight |
 |---|---|---|---|
 | artificial intelligence | 10 | 71 | 17.8× |
-| real estate | 7 | 54 | 10.8× |
+| real estate | 7 | 55 | 11.0× |
 | supply chain | 9 | 76 | 7.6× |
-| critical mineral | 4 | 62 | 5.6× |
+| critical mineral | 4 | 63 | 5.7× |
 | rare earth | 5 | 64 | 4.9× |
 | data center | 10 | 167 | 4.9× |
 | nuclear energy | 4 | 21 | 3.5× |
-| renewable energy | 5 | 15 | 3.0× |
+| renewable energy | 5 | 14 | 2.8× |
 | nuclear power | 5 | 21 | 2.6× |
 | geopolitical tension | 4 | 6 | 2.0× |
 
