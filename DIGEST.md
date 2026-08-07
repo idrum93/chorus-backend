@@ -1,16 +1,20 @@
 # Crosstalk — week ending 7 August 2026
 
-*6,646 articles over 100 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*6,767 articles over 100 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
 **artificial intelligence** — now in 10 sectors. **Consumer** picked it up 2d ago; it was first seen in technology coverage on 31 May 2026.
+  - [Abu Dhabi sovereign wealth fund Mubadala weighs US$6.3B investment in Japan AI data center](https://www.digitimes.com/news/a20260807VL219/data-center-investment-electricity-development-data.html) · DigiTimes Asia · technology
   - [AI Employee Management Platform Warp Triples Footprint at 156 Fifth Avenue](https://commercialobserver.com/2026/08/warp-triple-lease-expansion-hrc-156-fifth-avenue/) · Commercial Observer · real estate
-  - [Etsy slashes workforce by 12%, laying off 220](https://www.retaildive.com/news/etsy-slashes-workforce-12-percent-laying-off-220-ai-chatgpt/827193/) · Retail Dive · consumer
 
 **data center** — now in 10 sectors. **Supply chain** picked it up 7d ago; it was first seen in real estate coverage on 11 May 2026.
-  - [Jacobs' data center pipeline triples as backlog hits $28.9B](https://www.constructiondive.com/news/jacobs-earnings-data-center-backlog-fiscal-q3-2026/827261/) · Construction Dive · real estate
-  - [Shinheung SEC to Boost Battery Component Output by 20% Amid Samsung SDI Cylindrical Cell Shortage](https://www.thelec.net/news/articleView.html?idxno=12883) · The Elec · technology
+  - [Interview: Nvidia exec on progress of CPO production and pluggable optics](https://www.digitimes.com/news/a20260807PD225/nvidia-cpo-optics-production-switch.html) · DigiTimes Asia · technology
+  - [US optical transceiver ban risks slowing AI data center build-out](https://www.digitimes.com/news/a20260807VL210/optical-components-transceiver-module-production-usa-ban-china.html) · DigiTimes Asia · technology
+
+**supply chain** — now in 9 sectors. **Finance** picked it up 2d ago; it was first seen in supply chain coverage on 12 May 2026.
+  - [Enva's new HIPS compound targets automotive manufacturers](https://www.automotiveworld.com/news/envas-new-hips-compound-targets-automotive-manufacturers/) · Automotive World · autos
+  - [GEE secures NPCIL nod to enter India's nuclear power supply chain](https://manufacturing.economictimes.indiatimes.com/news/energy/gee-secures-npcil-nod-to-enter-indias-nuclear-power-supply-chain/133022314) · ET Manufacturing · industrials
 
 **natural gas** — now in 8 sectors. **Waste & water** picked it up 1d ago; it was first seen in energy coverage on 12 May 2026.
   - [BP to sell renewable natural gas business Archaea Energy](https://www.wastedive.com/news/bp-announces-sale-process-archaea-energy-rng/827195/) · Waste Dive · waste & water
@@ -20,13 +24,9 @@
   - [Madison Realty Capital Provides $100M Loan for RXR Multifamily Asset](https://commercialobserver.com/2026/08/madson-realty-capital-provides-100m-loan-rxr-ave-station-house/) · Commercial Observer · real estate
   - [Joby nears FAA certification as manufacturing ramps up](https://www.automotiveworld.com/news/joby-nears-faa-certification-as-manufacturing-ramps-up/) · Automotive World · autos
 
-**supply chain** — now in 8 sectors. **Finance** picked it up 2d ago; it was first seen in supply chain coverage on 12 May 2026.
-  - [DP World and Balco Australia sign logistics agreement](https://container-news.com/dp-world-and-balco-australia-sign-logistics-agreement/) · Container News · supply chain
-  - [Additive manufacturing enters AUKUS pathway](https://www.manmonthly.com.au/additive-manufacturing-enters-aukus-pathway/) · Manufacturers' Monthly · industrials
-
 **middle east** — now in 7 sectors. **Technology** picked it up 1d ago; it was first seen in supply chain coverage on 2 June 2026.
-  - [Growth in transhipment for Middle East prompts niche Red Sea services](https://theloadstar.com/growth-in-transhipment-for-middle-east-prompts-niche-red-sea-services/) · The Loadstar · supply chain
-  - [JLL: FLAPD on track for record data center growth year, while Middle East pipeline is paused](https://www.datacenterdynamics.com/en/news/jll-flapd-on-track-for-record-data-center-growth-year-while-middle-east-pipeline-is-paused/) · Data Center Dynamics · technology
+  - [Oil Prices Jump as Houthi Attacks Raise Saudi Supply Risks](https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Jump-as-Houthi-Attacks-Raise-Saudi-Supply-Risks.html) · OilPrice · energy
+  - [China's Crude Imports Bounce Back After Historic June Slump](https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Imports-Bounce-Back-After-Historic-June-Slump.html) · OilPrice · energy
 
 **real estate** — now in 7 sectors. **Industrials** picked it up 1d ago; it was first seen in real estate coverage on 16 May 2026.
   - [SC pulls up banks over alleged nexus with builders in real estate cases](https://realty.economictimes.indiatimes.com/news/regulatory/sc-pulls-up-banks-over-alleged-nexus-with-builders-in-real-estate-cases/133019734) · ET Realty · real estate
@@ -40,16 +40,16 @@
 
 | phrase | sectors | articles | vs prior fortnight |
 |---|---|---|---|
-| artificial intelligence | 10 | 68 | 17.0× |
+| artificial intelligence | 10 | 69 | 17.2× |
 | real estate | 7 | 51 | 10.2× |
-| supply chain | 8 | 68 | 6.8× |
+| supply chain | 9 | 75 | 7.5× |
 | critical mineral | 4 | 62 | 5.6× |
-| rare earth | 4 | 62 | 4.8× |
-| data center | 10 | 151 | 4.4× |
+| rare earth | 5 | 64 | 4.9× |
+| data center | 10 | 156 | 4.6× |
 | nuclear energy | 4 | 20 | 3.3× |
-| renewable energy | 5 | 13 | 2.6× |
-| nuclear power | 4 | 19 | 2.4× |
-| clean air | 4 | 8 | 2.0× |
+| renewable energy | 5 | 14 | 2.8× |
+| nuclear power | 5 | 20 | 2.5× |
+| geopolitical tension | 4 | 6 | 2.0× |
 
 ---
 
