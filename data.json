@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-07T20:32:16.013772+00:00",
+ "generated": "2026-08-07T21:14:18.783963+00:00",
  "prices": {
   "Autos": [
    {
@@ -498,7 +498,7 @@
    },
    {
     "day": "2026-08-07",
-    "close": 87.67
+    "close": 87.23
    }
   ],
   "Materials": [
@@ -748,7 +748,7 @@
    },
    {
     "day": "2026-08-07",
-    "close": 52.87
+    "close": 52.86
    }
   ],
   "Energy": [
@@ -998,7 +998,7 @@
    },
    {
     "day": "2026-08-07",
-    "close": 57.49
+    "close": 57.48
    }
   ],
   "Finance": [
@@ -1248,7 +1248,7 @@
    },
    {
     "day": "2026-08-07",
-    "close": 57.61
+    "close": 57.62
    }
   ],
   "Industrials": [
@@ -1498,7 +1498,7 @@
    },
    {
     "day": "2026-08-07",
-    "close": 185.21
+    "close": 185.14
    }
   ],
   "Technology": [
@@ -1748,7 +1748,7 @@
    },
    {
     "day": "2026-08-07",
-    "close": 187.37
+    "close": 187.97
    }
   ],
   "Real estate": [
@@ -1998,7 +1998,7 @@
    },
    {
     "day": "2026-08-07",
-    "close": 44.99
+    "close": 44.98
    }
   ],
   "Utilities": [
@@ -2748,14 +2748,14 @@
    },
    {
     "day": "2026-08-07",
-    "close": 119.82
+    "close": 119.81
    }
   ]
  },
  "coverage": [
   [
    "US",
-   5842
+   5845
   ],
   [
    "GB",
@@ -3939,16 +3939,16 @@
      "sector": "Finance"
     },
     {
-     "title": "Experts say healthcare faces cybersecurity crisis: \u2018These are patient safety issues'",
-     "url": "https://www.cybersecuritydive.com/news/healthcare-cybersecurity-crisis-def-con/827378/",
-     "publisher": "Cybersecurity Dive",
-     "sector": "Technology"
+     "title": "B2Gold wins Mali permit after guidance cut",
+     "url": "https://www.northernminer.com/news/b2gold-wins-mali-permit-after-guidance-cut/1003893822/",
+     "publisher": "Northern Miner",
+     "sector": "Materials"
     },
     {
-     "title": "Casella Q2 benefits from landfill volumes, acquisition rollover",
-     "url": "https://www.wastedive.com/news/casella-q2-earnings-2026/827357/",
-     "publisher": "Waste Dive",
-     "sector": "Waste & water"
+     "title": "FMCSA moves to codify English language proficiency process at border areas",
+     "url": "https://www.truckingdive.com/news/fmcsa-moves-to-codify-english-language-proficiency-process-at-border-areas/827325/",
+     "publisher": "Trucking Dive",
+     "sector": "Supply chain"
     }
    ],
    "name": "Environment Agency",
@@ -4101,6 +4101,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "OilPrice",
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "sector": "Energy",
+       "country": "US"
+      },
+      {
        "publisher": "Utility Dive",
        "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
        "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
@@ -4112,13 +4119,6 @@
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
        "sector": "Energy",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
-       "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
        "country": "US"
       }
      ]
@@ -4465,6 +4465,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "OilPrice",
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "sector": "Energy",
+       "country": "US"
+      },
+      {
        "publisher": "Commercial Observer",
        "title": "Document Processing Platform Extend AI Signs 9K-SF Lease at 119 Fifth Avenue",
        "url": "https://commercialobserver.com/2026/08/extend-ai-lease-119-fifth-avenue/",
@@ -4477,13 +4484,6 @@
        "url": "https://www.hrdive.com/news/corporate-conversations-about-ai-productivity-are-mostly-focused-on-future/827308/",
        "sector": "Labor",
        "country": "US"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Abu Dhabi sovereign wealth fund Mubadala weighs US$6.3B investment in Japan AI data center",
-       "url": "https://www.digitimes.com/news/a20260807VL219/data-center-investment-electricity-development-data.html",
-       "sector": "Technology",
-       "country": "TW"
       }
      ]
     },
@@ -4589,6 +4589,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "OilPrice",
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "sector": "Energy",
+       "country": "US"
+      },
+      {
        "publisher": "Utility Dive",
        "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
        "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
@@ -4600,13 +4607,6 @@
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
        "sector": "Energy",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
-       "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
        "country": "US"
       }
      ]
@@ -4647,6 +4647,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "OilPrice",
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "sector": "Energy",
+       "country": "US"
+      },
+      {
        "publisher": "Commercial Observer",
        "title": "Document Processing Platform Extend AI Signs 9K-SF Lease at 119 Fifth Avenue",
        "url": "https://commercialobserver.com/2026/08/extend-ai-lease-119-fifth-avenue/",
@@ -4659,13 +4666,6 @@
        "url": "https://www.hrdive.com/news/corporate-conversations-about-ai-productivity-are-mostly-focused-on-future/827308/",
        "sector": "Labor",
        "country": "US"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Abu Dhabi sovereign wealth fund Mubadala weighs US$6.3B investment in Japan AI data center",
-       "url": "https://www.digitimes.com/news/a20260807VL219/data-center-investment-electricity-development-data.html",
-       "sector": "Technology",
-       "country": "TW"
       }
      ]
     },
@@ -4771,6 +4771,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "OilPrice",
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "sector": "Energy",
+       "country": "US"
+      },
+      {
        "publisher": "Utility Dive",
        "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
        "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
@@ -4783,13 +4790,6 @@
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
        "sector": "Energy",
        "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
-       "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
-       "country": "US"
       }
      ]
     },
@@ -4799,6 +4799,13 @@
      "sectors": 7,
      "direction": "rising",
      "examples": [
+      {
+       "publisher": "OilPrice",
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "sector": "Energy",
+       "country": "US"
+      },
       {
        "publisher": "Commercial Observer",
        "title": "Document Processing Platform Extend AI Signs 9K-SF Lease at 119 Fifth Avenue",
@@ -4812,13 +4819,6 @@
        "url": "https://www.hrdive.com/news/corporate-conversations-about-ai-productivity-are-mostly-focused-on-future/827308/",
        "sector": "Labor",
        "country": "US"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Abu Dhabi sovereign wealth fund Mubadala weighs US$6.3B investment in Japan AI data center",
-       "url": "https://www.digitimes.com/news/a20260807VL219/data-center-investment-electricity-development-data.html",
-       "sector": "Technology",
-       "country": "TW"
       }
      ]
     },
@@ -5383,6 +5383,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "OilPrice",
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "sector": "Energy",
+       "country": "US"
+      },
+      {
        "publisher": "Utility Dive",
        "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
        "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
@@ -5394,13 +5401,6 @@
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
        "sector": "Energy",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
-       "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
        "country": "US"
       }
      ]
@@ -5536,6 +5536,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "OilPrice",
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "sector": "Energy",
+       "country": "US"
+      },
+      {
        "publisher": "Commercial Observer",
        "title": "Document Processing Platform Extend AI Signs 9K-SF Lease at 119 Fifth Avenue",
        "url": "https://commercialobserver.com/2026/08/extend-ai-lease-119-fifth-avenue/",
@@ -5548,13 +5555,6 @@
        "url": "https://www.hrdive.com/news/corporate-conversations-about-ai-productivity-are-mostly-focused-on-future/827308/",
        "sector": "Labor",
        "country": "US"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Abu Dhabi sovereign wealth fund Mubadala weighs US$6.3B investment in Japan AI data center",
-       "url": "https://www.digitimes.com/news/a20260807VL219/data-center-investment-electricity-development-data.html",
-       "sector": "Technology",
-       "country": "TW"
       }
      ]
     },
@@ -5564,6 +5564,13 @@
      "sectors": 7,
      "direction": "rising",
      "examples": [
+      {
+       "publisher": "OilPrice",
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "sector": "Energy",
+       "country": "US"
+      },
       {
        "publisher": "Utility Dive",
        "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
@@ -5576,13 +5583,6 @@
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
        "sector": "Energy",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
-       "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
        "country": "US"
       }
      ]
@@ -5631,6 +5631,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "OilPrice",
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "sector": "Energy",
+       "country": "US"
+      },
+      {
        "publisher": "Utility Dive",
        "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
        "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
@@ -5642,13 +5649,6 @@
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
        "sector": "Energy",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
-       "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
        "country": "US"
       }
      ]
@@ -5879,6 +5879,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "OilPrice",
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "sector": "Energy",
+       "country": "US"
+      },
+      {
        "publisher": "Utility Dive",
        "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
        "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
@@ -5891,13 +5898,6 @@
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
        "sector": "Energy",
        "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
-       "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
-       "country": "US"
       }
      ]
     },
@@ -5907,6 +5907,13 @@
      "sectors": 7,
      "direction": "rising",
      "examples": [
+      {
+       "publisher": "OilPrice",
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "sector": "Energy",
+       "country": "US"
+      },
       {
        "publisher": "Commercial Observer",
        "title": "Document Processing Platform Extend AI Signs 9K-SF Lease at 119 Fifth Avenue",
@@ -5920,13 +5927,6 @@
        "url": "https://www.hrdive.com/news/corporate-conversations-about-ai-productivity-are-mostly-focused-on-future/827308/",
        "sector": "Labor",
        "country": "US"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Abu Dhabi sovereign wealth fund Mubadala weighs US$6.3B investment in Japan AI data center",
-       "url": "https://www.digitimes.com/news/a20260807VL219/data-center-investment-electricity-development-data.html",
-       "sector": "Technology",
-       "country": "TW"
       }
      ]
     }
@@ -6069,6 +6069,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "OilPrice",
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "sector": "Energy",
+       "country": "US"
+      },
+      {
        "publisher": "Utility Dive",
        "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
        "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
@@ -6081,13 +6088,6 @@
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
        "sector": "Energy",
        "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
-       "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
-       "country": "US"
       }
      ]
     },
@@ -6097,6 +6097,13 @@
      "sectors": 7,
      "direction": "rising",
      "examples": [
+      {
+       "publisher": "OilPrice",
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "sector": "Energy",
+       "country": "US"
+      },
       {
        "publisher": "Commercial Observer",
        "title": "Document Processing Platform Extend AI Signs 9K-SF Lease at 119 Fifth Avenue",
@@ -6110,13 +6117,6 @@
        "url": "https://www.hrdive.com/news/corporate-conversations-about-ai-productivity-are-mostly-focused-on-future/827308/",
        "sector": "Labor",
        "country": "US"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Abu Dhabi sovereign wealth fund Mubadala weighs US$6.3B investment in Japan AI data center",
-       "url": "https://www.digitimes.com/news/a20260807VL219/data-center-investment-electricity-development-data.html",
-       "sector": "Technology",
-       "country": "TW"
       }
      ]
     }
@@ -6164,6 +6164,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "OilPrice",
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "sector": "Energy",
+       "country": "US"
+      },
+      {
        "publisher": "Commercial Observer",
        "title": "Document Processing Platform Extend AI Signs 9K-SF Lease at 119 Fifth Avenue",
        "url": "https://commercialobserver.com/2026/08/extend-ai-lease-119-fifth-avenue/",
@@ -6176,13 +6183,6 @@
        "url": "https://www.hrdive.com/news/corporate-conversations-about-ai-productivity-are-mostly-focused-on-future/827308/",
        "sector": "Labor",
        "country": "US"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Abu Dhabi sovereign wealth fund Mubadala weighs US$6.3B investment in Japan AI data center",
-       "url": "https://www.digitimes.com/news/a20260807VL219/data-center-investment-electricity-development-data.html",
-       "sector": "Technology",
-       "country": "TW"
       }
      ]
     },
@@ -6288,6 +6288,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "OilPrice",
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "sector": "Energy",
+       "country": "US"
+      },
+      {
        "publisher": "Utility Dive",
        "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
        "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
@@ -6299,13 +6306,6 @@
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
        "sector": "Energy",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
-       "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
        "country": "US"
       }
      ]
@@ -6829,6 +6829,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "OilPrice",
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "sector": "Energy",
+       "country": "US"
+      },
+      {
        "publisher": "Commercial Observer",
        "title": "Document Processing Platform Extend AI Signs 9K-SF Lease at 119 Fifth Avenue",
        "url": "https://commercialobserver.com/2026/08/extend-ai-lease-119-fifth-avenue/",
@@ -6841,13 +6848,6 @@
        "url": "https://www.hrdive.com/news/corporate-conversations-about-ai-productivity-are-mostly-focused-on-future/827308/",
        "sector": "Labor",
        "country": "US"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Abu Dhabi sovereign wealth fund Mubadala weighs US$6.3B investment in Japan AI data center",
-       "url": "https://www.digitimes.com/news/a20260807VL219/data-center-investment-electricity-development-data.html",
-       "sector": "Technology",
-       "country": "TW"
       }
      ]
     },
@@ -6990,6 +6990,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "OilPrice",
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "sector": "Energy",
+       "country": "US"
+      },
+      {
        "publisher": "Utility Dive",
        "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
        "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
@@ -7001,13 +7008,6 @@
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
        "sector": "Energy",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
-       "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
        "country": "US"
       }
      ]
@@ -7188,6 +7188,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "OilPrice",
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "sector": "Energy",
+       "country": "US"
+      },
+      {
        "publisher": "Utility Dive",
        "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
        "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
@@ -7199,13 +7206,6 @@
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
        "sector": "Energy",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
-       "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
        "country": "US"
       }
      ]
@@ -7254,6 +7254,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "OilPrice",
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "sector": "Energy",
+       "country": "US"
+      },
+      {
        "publisher": "Utility Dive",
        "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
        "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
@@ -7265,13 +7272,6 @@
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
        "sector": "Energy",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
-       "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
        "country": "US"
       }
      ]
@@ -7320,6 +7320,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "OilPrice",
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "sector": "Energy",
+       "country": "US"
+      },
+      {
        "publisher": "Commercial Observer",
        "title": "Document Processing Platform Extend AI Signs 9K-SF Lease at 119 Fifth Avenue",
        "url": "https://commercialobserver.com/2026/08/extend-ai-lease-119-fifth-avenue/",
@@ -7332,13 +7339,6 @@
        "url": "https://www.hrdive.com/news/corporate-conversations-about-ai-productivity-are-mostly-focused-on-future/827308/",
        "sector": "Labor",
        "country": "US"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Abu Dhabi sovereign wealth fund Mubadala weighs US$6.3B investment in Japan AI data center",
-       "url": "https://www.digitimes.com/news/a20260807VL219/data-center-investment-electricity-development-data.html",
-       "sector": "Technology",
-       "country": "TW"
       }
      ]
     }
@@ -7452,6 +7452,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "OilPrice",
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "sector": "Energy",
+       "country": "US"
+      },
+      {
        "publisher": "Utility Dive",
        "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
        "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
@@ -7463,13 +7470,6 @@
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
        "sector": "Energy",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
-       "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
        "country": "US"
       }
      ]
@@ -7650,6 +7650,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "OilPrice",
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "sector": "Energy",
+       "country": "US"
+      },
+      {
        "publisher": "Utility Dive",
        "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
        "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
@@ -7661,13 +7668,6 @@
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
        "sector": "Energy",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
-       "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
        "country": "US"
       }
      ]
@@ -7716,6 +7716,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "OilPrice",
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "sector": "Energy",
+       "country": "US"
+      },
+      {
        "publisher": "Utility Dive",
        "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
        "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
@@ -7727,13 +7734,6 @@
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
        "sector": "Energy",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
-       "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
        "country": "US"
       }
      ]
@@ -7782,6 +7782,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "OilPrice",
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "sector": "Energy",
+       "country": "US"
+      },
+      {
        "publisher": "Utility Dive",
        "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
        "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
@@ -7793,13 +7800,6 @@
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
        "sector": "Energy",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
-       "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
        "country": "US"
       }
      ]
@@ -7848,6 +7848,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "OilPrice",
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "sector": "Energy",
+       "country": "US"
+      },
+      {
        "publisher": "Utility Dive",
        "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
        "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
@@ -7859,13 +7866,6 @@
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
        "sector": "Energy",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
-       "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
        "country": "US"
       }
      ]
@@ -7914,6 +7914,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "OilPrice",
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "sector": "Energy",
+       "country": "US"
+      },
+      {
        "publisher": "Utility Dive",
        "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
        "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
@@ -7925,13 +7932,6 @@
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
        "sector": "Energy",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
-       "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
        "country": "US"
       }
      ]
@@ -27687,8 +27687,8 @@
   ]
  },
  "daysCollected": 101,
- "articlesStored": 7000,
- "articlesLive": 3282,
+ "articlesStored": 7003,
+ "articlesLive": 3285,
  "windowDays": 90,
  "terms": [
   {
@@ -27698,7 +27698,7 @@
    "sectorCount": 7,
    "newestSector": "Utilities",
    "daysSinceNewestSector": 4,
-   "articles14d": 71,
+   "articles14d": 72,
    "articlesPrior14d": 4,
    "publishers": 23,
    "sectors": [
@@ -27707,15 +27707,15 @@
      "firstSeen": "2026-05-31",
      "recent": 32,
      "articles": 39,
-     "share": 0.485,
+     "share": 0.478,
      "adopt": 21
     },
     {
      "name": "Energy",
      "firstSeen": "2026-07-21",
-     "recent": 8,
-     "articles": 9,
-     "share": 0.121,
+     "recent": 9,
+     "articles": 10,
+     "share": 0.134,
      "adopt": 72
     },
     {
@@ -27731,7 +27731,7 @@
      "firstSeen": "2026-07-30",
      "recent": 8,
      "articles": 8,
-     "share": 0.121,
+     "share": 0.119,
      "adopt": 81
     },
     {
@@ -27739,7 +27739,7 @@
      "firstSeen": "2026-07-30",
      "recent": 7,
      "articles": 7,
-     "share": 0.106,
+     "share": 0.104,
      "adopt": 81
     },
     {
@@ -27747,7 +27747,7 @@
      "firstSeen": "2026-08-03",
      "recent": 4,
      "articles": 4,
-     "share": 0.061,
+     "share": 0.06,
      "adopt": 85
     },
     {
@@ -27755,7 +27755,7 @@
      "firstSeen": "2026-08-03",
      "recent": 4,
      "articles": 4,
-     "share": 0.061,
+     "share": 0.06,
      "adopt": 85
     }
    ],
@@ -27763,7 +27763,7 @@
    "origins": [
     [
      "US",
-     40
+     41
     ],
     [
      "KR",
@@ -27836,7 +27836,7 @@
        0,
        1,
        6,
-       2
+       3
       ]
      },
      {
@@ -28006,6 +28006,13 @@
    "cooc": [],
    "examples": [
     {
+     "publisher": "OilPrice",
+     "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+     "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+     "sector": "Energy",
+     "country": "US"
+    },
+    {
      "publisher": "Commercial Observer",
      "title": "Document Processing Platform Extend AI Signs 9K-SF Lease at 119 Fifth Avenue",
      "url": "https://commercialobserver.com/2026/08/extend-ai-lease-119-fifth-avenue/",
@@ -28025,13 +28032,6 @@
      "url": "https://www.digitimes.com/news/a20260807VL219/data-center-investment-electricity-development-data.html",
      "sector": "Technology",
      "country": "TW"
-    },
-    {
-     "publisher": "Commercial Observer",
-     "title": "AI Employee Management Platform Warp Triples Footprint at 156 Fifth Avenue",
-     "url": "https://commercialobserver.com/2026/08/warp-triple-lease-expansion-hrc-156-fifth-avenue/",
-     "sector": "Real estate",
-     "country": "US"
     }
    ],
    "daily": [
@@ -28393,11 +28393,11 @@
     },
     {
      "day": "2026-08-07",
-     "n": 3
+     "n": 4
     }
    ],
-   "specificity": 0.915,
-   "rank": 6.61
+   "specificity": 0.913,
+   "rank": 6.6
   },
   {
    "id": "supply-chain",
@@ -29199,7 +29199,7 @@
    "sectorCount": 7,
    "newestSector": "Supply chain",
    "daysSinceNewestSector": 7,
-   "articles14d": 172,
+   "articles14d": 173,
    "articlesPrior14d": 34,
    "publishers": 24,
    "sectors": [
@@ -29240,15 +29240,15 @@
      "firstSeen": "2026-05-18",
      "recent": 119,
      "articles": 155,
-     "share": 0.704,
+     "share": 0.7,
      "adopt": 8
     },
     {
      "name": "Energy",
      "firstSeen": "2026-06-02",
-     "recent": 11,
-     "articles": 30,
-     "share": 0.065,
+     "recent": 12,
+     "articles": 31,
+     "share": 0.071,
      "adopt": 23
     },
     {
@@ -29264,7 +29264,7 @@
    "origins": [
     [
      "US",
-     225
+     226
     ],
     [
      "KR",
@@ -29355,7 +29355,7 @@
        2,
        6,
        5,
-       6
+       7
       ]
      },
      {
@@ -29507,7 +29507,7 @@
    "cooc": [
     [
      "grid operator",
-     0.19,
+     0.18,
      "rising",
      3,
      1,
@@ -29565,10 +29565,16 @@
      "artificial intelligence",
      1.0,
      "rising",
-     16,
+     17,
      1,
-     5.4,
+     5.6,
      [
+      {
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      },
       {
        "title": "Abu Dhabi sovereign wealth fund Mubadala weighs US$6.3B investment in Japan AI data center",
        "url": "https://www.digitimes.com/news/a20260807VL219/data-center-investment-electricity-development-data.html",
@@ -29580,12 +29586,6 @@
        "url": "https://www.thelec.net/news/articleView.html?idxno=12883",
        "publisher": "The Elec",
        "sector": "Technology"
-      },
-      {
-       "title": "Lotte Energy Materials Enters AI Ultra-Thin Copper Foil Market, Challenging Mitsui's Dominance",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=12886",
-       "publisher": "The Elec",
-       "sector": "Technology"
       }
      ]
     ],
@@ -29595,8 +29595,14 @@
      "rising",
      2,
      1,
-     5.4,
+     5.3,
      [
+      {
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      },
       {
        "title": "Texas Audit Could Delay 49.8 GW of Data Center Load, Cost Projects Up to $15 Billion, BNEF Warns",
        "url": "https://www.powermag.com/texas-audit-could-delay-49-8-gw-of-data-center-load-cost-projects-up-to-15-billion-bnef-warns/",
@@ -29608,12 +29614,6 @@
        "url": "https://oilprice.com/Alternative-Energy/Fuel-Cells/Big-Tech-Turns-to-Fuel-Cells-to-Power-the-AI-Boom.html",
        "publisher": "OilPrice",
        "sector": "Energy"
-      },
-      {
-       "title": "AI's Obstacle: Why the Grid Can't Keep Pace With the Data Center Boom",
-       "url": "https://www.powermag.com/ais-obstacle-why-the-grid-cant-keep-pace-with-the-data-center-boom/",
-       "publisher": "POWER Magazine",
-       "sector": "Utilities"
       }
      ]
     ],
@@ -29623,7 +29623,7 @@
      "steady",
      1,
      1,
-     5.4,
+     5.3,
      [
       {
        "title": "US data centers turn to on-site solar, storage, VPPs as grid delays mount",
@@ -29635,6 +29635,13 @@
     ]
    ],
    "examples": [
+    {
+     "publisher": "OilPrice",
+     "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+     "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+     "sector": "Energy",
+     "country": "US"
+    },
     {
      "publisher": "Utility Dive",
      "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
@@ -29653,13 +29660,6 @@
      "publisher": "Data Center Dynamics",
      "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
      "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-     "sector": "Technology",
-     "country": "US"
-    },
-    {
-     "publisher": "Data Center Dynamics",
-     "title": "Bridge DC launches prefabricated data center power module",
-     "url": "https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/",
      "sector": "Technology",
      "country": "US"
     }
@@ -30023,11 +30023,11 @@
     },
     {
      "day": "2026-08-07",
-     "n": 23
+     "n": 24
     }
    ],
-   "specificity": 0.793,
-   "rank": 6.06
+   "specificity": 0.792,
+   "rank": 6.05
   },
   {
    "id": "joint-venture",
@@ -32770,7 +32770,7 @@
      "new",
      5,
      0,
-     120.2,
+     120.3,
      [
       {
        "title": "Transgaz-Argent LNG MOU advances US gas route to Central and Eastern Europe",
@@ -35526,7 +35526,7 @@
      "steady",
      1,
      1,
-     24.0,
+     24.1,
      [
       {
        "title": "Citi Lifts Brent Outlook but Still Sees Oil Falling in 2027",
@@ -38053,496 +38053,6 @@
    "rank": 1.99
   },
   {
-   "id": "pricing-power",
-   "term": "pricing power",
-   "direction": "new",
-   "sectorCount": 2,
-   "newestSector": "Consumer",
-   "daysSinceNewestSector": 32,
-   "articles14d": 4,
-   "articlesPrior14d": 0,
-   "publishers": 3,
-   "sectors": [
-    {
-     "name": "Technology",
-     "firstSeen": "2026-05-16",
-     "recent": 2,
-     "articles": 3,
-     "share": 0.5,
-     "adopt": 6
-    },
-    {
-     "name": "Consumer",
-     "firstSeen": "2026-07-06",
-     "recent": 2,
-     "articles": 3,
-     "share": 0.5,
-     "adopt": 57
-    }
-   ],
-   "sinceStart": false,
-   "origins": [
-    [
-     "US",
-     4
-    ],
-    [
-     "TW",
-     2
-    ]
-   ],
-   "flow": {
-    "weeks": [
-     "2026-05-10",
-     "2026-05-17",
-     "2026-05-24",
-     "2026-05-31",
-     "2026-06-07",
-     "2026-06-14",
-     "2026-06-21",
-     "2026-06-28",
-     "2026-07-05",
-     "2026-07-12",
-     "2026-07-19",
-     "2026-07-26",
-     "2026-08-02"
-    ],
-    "bands": [
-     {
-      "sector": "Technology",
-      "n": [
-       1,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       2
-      ]
-     },
-     {
-      "sector": "Consumer",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       1,
-       1,
-       0
-      ]
-     }
-    ]
-   },
-   "cooc": [],
-   "examples": [
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "Winbond's record 2Q points to tighter memory markets and more pricing power ahead",
-     "url": "https://www.digitimes.com/news/a20260807PD215/winbond-revenue-profit-gross-margin-2026.html",
-     "sector": "Technology",
-     "country": "TW"
-    },
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "Wistron sees AI demand widening as Taiwan ODMs gain pricing power",
-     "url": "https://www.digitimes.com/news/a20260805PD216/taiwan-demand-wistron-shipments-revenue.html",
-     "sector": "Technology",
-     "country": "TW"
-    },
-    {
-     "publisher": "proactiveinvestors.com",
-     "title": "Ferrari price target lifted on pricing power and personalization growth",
-     "url": "https://www.proactiveinvestors.com/companies/news/1096382/ferrari-price-target-lifted-on-pricing-power-and-personalization-growth-1096382.html",
-     "sector": "Consumer",
-     "country": "US"
-    },
-    {
-     "publisher": "Utility Dive",
-     "title": "California\u2019s carbon-pricing program generated $36.2B for climate initiatives: report",
-     "url": "https://www.utilitydive.com/news/california-carbon-pricing-program-generated-362b-for-climate-initiatives-carb/826598/",
-     "sector": "Utilities",
-     "country": "US"
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-05-10",
-     "n": 0
-    },
-    {
-     "day": "2026-05-11",
-     "n": 0
-    },
-    {
-     "day": "2026-05-12",
-     "n": 0
-    },
-    {
-     "day": "2026-05-13",
-     "n": 0
-    },
-    {
-     "day": "2026-05-14",
-     "n": 0
-    },
-    {
-     "day": "2026-05-15",
-     "n": 0
-    },
-    {
-     "day": "2026-05-16",
-     "n": 1
-    },
-    {
-     "day": "2026-05-17",
-     "n": 0
-    },
-    {
-     "day": "2026-05-18",
-     "n": 0
-    },
-    {
-     "day": "2026-05-19",
-     "n": 0
-    },
-    {
-     "day": "2026-05-20",
-     "n": 0
-    },
-    {
-     "day": "2026-05-21",
-     "n": 0
-    },
-    {
-     "day": "2026-05-22",
-     "n": 0
-    },
-    {
-     "day": "2026-05-23",
-     "n": 0
-    },
-    {
-     "day": "2026-05-24",
-     "n": 0
-    },
-    {
-     "day": "2026-05-25",
-     "n": 0
-    },
-    {
-     "day": "2026-05-26",
-     "n": 0
-    },
-    {
-     "day": "2026-05-27",
-     "n": 0
-    },
-    {
-     "day": "2026-05-28",
-     "n": 0
-    },
-    {
-     "day": "2026-05-29",
-     "n": 0
-    },
-    {
-     "day": "2026-05-30",
-     "n": 0
-    },
-    {
-     "day": "2026-05-31",
-     "n": 0
-    },
-    {
-     "day": "2026-06-01",
-     "n": 0
-    },
-    {
-     "day": "2026-06-02",
-     "n": 0
-    },
-    {
-     "day": "2026-06-03",
-     "n": 0
-    },
-    {
-     "day": "2026-06-04",
-     "n": 0
-    },
-    {
-     "day": "2026-06-05",
-     "n": 0
-    },
-    {
-     "day": "2026-06-06",
-     "n": 0
-    },
-    {
-     "day": "2026-06-07",
-     "n": 0
-    },
-    {
-     "day": "2026-06-08",
-     "n": 0
-    },
-    {
-     "day": "2026-06-09",
-     "n": 0
-    },
-    {
-     "day": "2026-06-10",
-     "n": 0
-    },
-    {
-     "day": "2026-06-11",
-     "n": 0
-    },
-    {
-     "day": "2026-06-12",
-     "n": 0
-    },
-    {
-     "day": "2026-06-13",
-     "n": 0
-    },
-    {
-     "day": "2026-06-14",
-     "n": 0
-    },
-    {
-     "day": "2026-06-15",
-     "n": 0
-    },
-    {
-     "day": "2026-06-16",
-     "n": 0
-    },
-    {
-     "day": "2026-06-17",
-     "n": 0
-    },
-    {
-     "day": "2026-06-18",
-     "n": 0
-    },
-    {
-     "day": "2026-06-19",
-     "n": 0
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 1
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 1
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 0
-    },
-    {
-     "day": "2026-07-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-31",
-     "n": 1
-    },
-    {
-     "day": "2026-08-01",
-     "n": 0
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 0
-    },
-    {
-     "day": "2026-08-04",
-     "n": 0
-    },
-    {
-     "day": "2026-08-05",
-     "n": 1
-    },
-    {
-     "day": "2026-08-06",
-     "n": 0
-    },
-    {
-     "day": "2026-08-07",
-     "n": 1
-    }
-   ],
-   "specificity": 0.995,
-   "rank": 1.99
-  },
-  {
    "id": "electric-utility",
    "term": "electric utility",
    "direction": "rising",
@@ -40183,7 +39693,7 @@
      "steady",
      1,
      1,
-     72.1,
+     72.2,
      [
       {
        "title": "This Texas coal mine will soon be home to a 1.2GW solar farm",
@@ -40696,7 +40206,7 @@
      "new",
      5,
      0,
-     443.8,
+     444.0,
      [
       {
        "title": "Transgaz-Argent LNG MOU advances US gas route to Central and Eastern Europe",
@@ -42373,7 +41883,7 @@
      "steady",
      1,
      1,
-     92.3,
+     92.4,
      [
       {
        "title": "Shriram Finance to borrow Rs 20,000 Cr in Q2 FY27 as AAA rating lowers funding costs by 50-60 bps",
@@ -43476,22 +42986,6 @@
     ]
    },
    "cooc": [
-    [
-     "originally published",
-     0.5,
-     "steady",
-     1,
-     1,
-     46.8,
-     [
-      {
-       "title": "How to bring a geothermal well back from the dead",
-       "url": "https://www.canarymedia.com/articles/geothermal/zanskar-brings-geothermal-well-back",
-       "publisher": "Canary Media",
-       "sector": "Energy"
-      }
-     ]
-    ],
     [
      "energy industry",
      0.5,
