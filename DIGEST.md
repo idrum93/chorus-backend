@@ -1,6 +1,6 @@
 # Crosstalk — week ending 7 August 2026
 
-*6,978 articles over 100 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*6,984 articles over 100 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
@@ -25,16 +25,16 @@
   - [Malaysia weighs loosening rare earth export limits as global supply chase intensifies](https://www.digitimes.com/news/a20260807PD218/malaysia-rare-earth-exports-demand.html) · DigiTimes Asia · technology
 
 **real estate** — now in 4 sectors. **Technology** picked it up 4d ago; it was first seen in real estate coverage on 16 May 2026.
+  - [Longfellow Sells Hatch Life Sciences Building in LIC for $87M](https://commercialobserver.com/2026/08/longfellow-sells-hatch-life-sciences-lic-87m/) · Commercial Observer · real estate
   - [Attorney James Allen Joins Camber Property Group as Senior Counsel](https://commercialobserver.com/2026/08/james-allen-new-hire-camber-property-group/) · Commercial Observer · real estate
-  - [Valley National Bank Provides $30M Value-Add Refi for Park Towers in Miami](https://commercialobserver.com/2026/08/valley-national-bank-30m-refi-park-towers-miami/) · Commercial Observer · real estate
 
 **critical mineral** — now in 3 sectors. **Energy** picked it up 3d ago; it was first seen in materials coverage on 12 May 2026.
   - [Op-ed: The battle for critical minerals is won at the port, not the mine](https://www.mining.com/op-ed-the-battle-for-critical-minerals-is-won-at-the-port-not-the-mine/) · Mining.com · materials
-  - [Tivan advances Speewah fluorite project funding pathway with finance adviser appointment](https://www.australianmining.com.au/tivan-advances-speewah-fluorite-project-funding-pathway-with-finance-adviser-appointment/) · Australian Mining · materials
+  - [Malaysia weighs loosening rare earth export limits as global supply chase intensifies](https://www.digitimes.com/news/a20260807PD218/malaysia-rare-earth-exports-demand.html) · DigiTimes Asia · technology
 
 **iran conflict** — now in 3 sectors. **Technology** picked it up 4d ago; it was first seen in supply chain coverage on 20 May 2026.
-  - [Global tension + rising costs = more pressure on UK SMEs](https://theloadstar.com/global-tension-rising-costs-more-pressure-on-uk-smes/) · The Loadstar · supply chain
-  - [Y Combinator-backed Impact Drones to offer missile-intercepting drone service for data centers and grid operators](https://www.datacenterdynamics.com/en/news/y-combinator-backed-impact-drones-launches-offers-missile-intercepting-drone-service-for-data-centers-and-grid-operators/) · Data Center Dynamics · technology
+  - [Citi Lifts Brent Outlook but Still Sees Oil Falling in 2027](https://oilprice.com/Latest-Energy-News/World-News/Citi-Lifts-Brent-Outlook-but-Still-Sees-Oil-Falling-in-2027.html) · OilPrice · energy
+  - [Is Iran Preparing to Permanently Block the Strait of Hormuz?](https://oilprice.com/Energy/Energy-General/Is-Iran-Preparing-to-Permanently-Block-the-Strait-of-Hormuz.html) · OilPrice · energy
 
 ## Being used more than a fortnight ago
 
@@ -46,10 +46,10 @@
 | critical mineral | 3 | 63 | 5.7× |
 | data center | 9 | 170 | 5.0× |
 | rare earth | 4 | 64 | 4.9× |
+| fossil fuel | 2 | 9 | 3.0× |
 | renewable energy | 4 | 14 | 2.8× |
 | nuclear power | 3 | 21 | 2.6× |
 | geopolitical tension | 2 | 6 | 2.0× |
-| clean air | 2 | 8 | 2.0× |
 
 ---
 
