@@ -1,6 +1,6 @@
 # Crosstalk — week ending 7 August 2026
 
-*6,961 articles over 100 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*6,966 articles over 100 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
@@ -9,8 +9,8 @@
   - [Corporate conversations about AI productivity are mostly focused on future gains](https://www.hrdive.com/news/corporate-conversations-about-ai-productivity-are-mostly-focused-on-future/827308/) · HR Dive · labor
 
 **data center** — now in 10 sectors. **Supply chain** picked it up 7d ago; it was first seen in real estate coverage on 11 May 2026.
-  - [Former employees sue Prime Data Centers for $400m, claim compensation fraud](https://www.datacenterdynamics.com/en/news/former-employees-sue-prime-data-centers-for-400m-claim-compensation-fraud/) · Data Center Dynamics · technology
-  - [Existing power plants are ‘bedrock' in supplying data centers: Constellation CEO](https://www.utilitydive.com/news/existing-power-plants-supply-data-centers-constellation/827326/) · Utility Dive · utilities
+  - [NTT Data reports half a billion dollars of data center investment in Q1 financial results](https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/) · Data Center Dynamics · technology
+  - [Bridge DC launches prefabricated data center power module](https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/) · Data Center Dynamics · technology
 
 **supply chain** — now in 9 sectors. **Finance** picked it up 2d ago; it was first seen in supply chain coverage on 12 May 2026.
   - [Global tension + rising costs = more pressure on UK SMEs](https://theloadstar.com/global-tension-rising-costs-more-pressure-on-uk-smes/) · The Loadstar · supply chain
@@ -44,7 +44,7 @@
 | real estate | 7 | 55 | 11.0× |
 | supply chain | 9 | 76 | 7.6× |
 | critical mineral | 4 | 63 | 5.7× |
-| data center | 10 | 168 | 4.9× |
+| data center | 10 | 170 | 5.0× |
 | rare earth | 5 | 64 | 4.9× |
 | nuclear energy | 4 | 21 | 3.5× |
 | renewable energy | 5 | 14 | 2.8× |
