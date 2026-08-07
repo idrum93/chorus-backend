@@ -1,0 +1,81 @@
+# Save as .github/workflows/digest.yml
+#
+# Sends DIGEST.md to Buttondown once a week. Reads the file the collector
+# already writes — nothing is generated here.
+#
+# Needs one secret: BUTTONDOWN_KEY (Buttondown → Settings → Programming → API key)
+
+name: digest
+
+on:
+  schedule:
+    - cron: "0 13 * * 1"          # Mondays, 13:00 UTC
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'draft = create without sending, send = deliver to subscribers'
+        required: true
+        default: 'draft'
+        type: choice
+        options: [draft, send]
+
+permissions:
+  contents: read
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Send to Buttondown
+        env:
+          KEY: ${{ secrets.BUTTONDOWN_KEY }}
+          MODE: ${{ github.event.inputs.mode || 'send' }}
+        run: |
+          if [ -z "$KEY" ]; then
+            echo "::error::BUTTONDOWN_KEY is not set. Add it under Settings > Secrets."
+            exit 1
+          fi
+          if [ ! -f DIGEST.md ]; then
+            echo "::error::DIGEST.md is missing. Run the collector first."
+            exit 1
+          fi
+
+          python3 - <<'PY' > payload.json
+          import json, os, datetime
+          body = open("DIGEST.md", encoding="utf-8").read()
+          # the file opens with its own H1; Buttondown shows the subject already
+          lines = body.split("\n")
+          subject = lines[0].lstrip("# ").strip() if lines[0].startswith("#") else \
+                    f"Crosstalk — week ending {datetime.date.today():%-d %B %Y}"
+          if lines[0].startswith("#"):
+              body = "\n".join(lines[1:]).lstrip("\n")
+          status = "about_to_send" if os.environ.get("MODE") == "send" else "draft"
+          json.dump({"subject": subject, "body": body, "status": status},
+                    open("payload.json", "w"))
+          print(f"subject: {subject}")
+          print(f"status:  {status}")
+          print(f"length:  {len(body)} characters")
+          PY
+
+          cat payload.json | python3 -c "import json,sys;d=json.load(sys.stdin);print(f'{d[\"subject\"]} ({d[\"status\"]})')"
+
+          code=$(curl -s -o response.json -w "%{http_code}" \
+            -X POST https://api.buttondown.com/v1/emails \
+            -H "Authorization: Token $KEY" \
+            -H "Content-Type: application/json" \
+            --data @payload.json)
+
+          echo "HTTP $code"
+          head -c 800 response.json; echo
+          if [ "$code" -ge 300 ]; then
+            echo "::error::Buttondown rejected the request."
+            exit 1
+          fi
+
+      - name: Report
+        if: always()
+        run: |
+          { echo "## Digest"; echo '```'; head -40 DIGEST.md; echo '```'; } >> $GITHUB_STEP_SUMMARY
