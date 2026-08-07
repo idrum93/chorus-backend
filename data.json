@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-07T15:17:39.261028+00:00",
+ "generated": "2026-08-07T15:44:21.761276+00:00",
  "prices": {
   "Autos": [
    {
@@ -740,7 +740,7 @@
    },
    {
     "day": "2026-08-07",
-    "close": 52.83
+    "close": 52.74
    }
   ],
   "Energy": [
@@ -990,7 +990,7 @@
    },
    {
     "day": "2026-08-07",
-    "close": 57.77
+    "close": 57.85
    }
   ],
   "Finance": [
@@ -1240,7 +1240,7 @@
    },
    {
     "day": "2026-08-07",
-    "close": 57.64
+    "close": 57.56
    }
   ],
   "Industrials": [
@@ -1490,7 +1490,7 @@
    },
    {
     "day": "2026-08-07",
-    "close": 185.35
+    "close": 185.06
    }
   ],
   "Technology": [
@@ -1982,7 +1982,7 @@
    },
    {
     "day": "2026-08-07",
-    "close": 45.09
+    "close": 45.13
    }
   ],
   "Utilities": [
@@ -2474,7 +2474,7 @@
    },
    {
     "day": "2026-08-07",
-    "close": 164.78
+    "close": 164.64
    }
   ],
   "Consumer": [
@@ -2724,18 +2724,18 @@
    },
    {
     "day": "2026-08-07",
-    "close": 120.08
+    "close": 120.38
    }
   ]
  },
  "coverage": [
   [
    "US",
-   5763
+   5779
   ],
   [
    "GB",
-   253
+   254
   ],
   [
    "IN",
@@ -5086,6 +5086,55 @@
    ]
   },
   {
+   "prior14d": 1,
+   "direction": "rising",
+   "ticker": "DUK",
+   "name": "Duke Energy",
+   "sector": "Utilities",
+   "articles": 9,
+   "articles14d": 4,
+   "terms": [
+    {
+     "term": "data center",
+     "articles": 4,
+     "sectors": 10,
+     "direction": "rising"
+    },
+    {
+     "term": "clean air",
+     "articles": 1,
+     "sectors": 4,
+     "direction": "rising"
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "Utility Dive",
+     "title": "Duke Energy to issue $10B in equity to capture gas generation growth opportunity",
+     "url": "https://www.utilitydive.com/news/duke-energy-to-issue-10b-in-equity-to-capture-once-in-a-generation-gro/827039/",
+     "sector": "Utilities"
+    },
+    {
+     "publisher": "Data Center Dynamics",
+     "title": "Duke Energy data center pipeline grows by 2.7GW since Q4 2025",
+     "url": "https://www.datacenterdynamics.com/en/news/duke-energy-data-center-pipeline-grows-by-27gw-since-q4-2025/",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "fox13news.com",
+     "title": "St . Petersburg 30 - year Duke Energy agreement expires Friday : What it means for customers",
+     "url": "https://www.fox13news.com/news/st-petersburg-duke-energy-agreement-expires-friday-customers",
+     "sector": "Utilities"
+    },
+    {
+     "publisher": "Data Center Dynamics",
+     "title": "Amazon, Duke Energy accused of evading Clean Air Act at under-development data center in Hamlet, North Carolina",
+     "url": "https://www.datacenterdynamics.com/en/news/amazon-duke-energy-accused-of-evading-clean-air-act-at-under-development-data-center-in-hamlet-north-carolina/",
+     "sector": "Technology"
+    }
+   ]
+  },
+  {
    "prior14d": 4,
    "direction": "steady",
    "ticker": "NVDA",
@@ -5180,55 +5229,6 @@
      "title": "Goldman Sachs Says the Crowd Is Wrong on This Beaten - Down Medical Robotics Giant",
      "url": "https://www.fool.com/investing/2026/07/15/goldman-sachs-says-the-crowd-is-wrong-on-this-beat/?source=iedfolrf0000001",
      "sector": "Healthcare"
-    }
-   ]
-  },
-  {
-   "prior14d": 1,
-   "direction": "rising",
-   "ticker": "DUK",
-   "name": "Duke Energy",
-   "sector": "Utilities",
-   "articles": 8,
-   "articles14d": 3,
-   "terms": [
-    {
-     "term": "data center",
-     "articles": 4,
-     "sectors": 10,
-     "direction": "rising"
-    },
-    {
-     "term": "clean air",
-     "articles": 1,
-     "sectors": 4,
-     "direction": "rising"
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "Data Center Dynamics",
-     "title": "Duke Energy data center pipeline grows by 2.7GW since Q4 2025",
-     "url": "https://www.datacenterdynamics.com/en/news/duke-energy-data-center-pipeline-grows-by-27gw-since-q4-2025/",
-     "sector": "Technology"
-    },
-    {
-     "publisher": "fox13news.com",
-     "title": "St . Petersburg 30 - year Duke Energy agreement expires Friday : What it means for customers",
-     "url": "https://www.fox13news.com/news/st-petersburg-duke-energy-agreement-expires-friday-customers",
-     "sector": "Utilities"
-    },
-    {
-     "publisher": "Data Center Dynamics",
-     "title": "Amazon, Duke Energy accused of evading Clean Air Act at under-development data center in Hamlet, North Carolina",
-     "url": "https://www.datacenterdynamics.com/en/news/amazon-duke-energy-accused-of-evading-clean-air-act-at-under-development-data-center-in-hamlet-north-carolina/",
-     "sector": "Technology"
-    },
-    {
-     "publisher": "fox13news.com",
-     "title": "Clearwater City Council to vote on 30 - year Duke Energy deal",
-     "url": "https://www.fox13news.com/news/clearwater-city-council-vote-year-duke-energy-deal",
-     "sector": "Utilities"
     }
    ]
   },
@@ -31669,8 +31669,8 @@
   ]
  },
  "daysCollected": 100,
- "articlesStored": 6910,
- "articlesLive": 3192,
+ "articlesStored": 6927,
+ "articlesLive": 3209,
  "windowDays": 90,
  "terms": [
   {
@@ -31680,7 +31680,7 @@
    "sectorCount": 10,
    "newestSector": "Consumer",
    "daysSinceNewestSector": 2,
-   "articles14d": 70,
+   "articles14d": 71,
    "articlesPrior14d": 4,
    "publishers": 23,
    "sectors": [
@@ -31689,7 +31689,7 @@
      "firstSeen": "2026-05-31",
      "recent": 32,
      "articles": 39,
-     "share": 0.457,
+     "share": 0.451,
      "adopt": 21
     },
     {
@@ -31697,7 +31697,7 @@
      "firstSeen": "2026-07-21",
      "recent": 8,
      "articles": 9,
-     "share": 0.114,
+     "share": 0.113,
      "adopt": 72
     },
     {
@@ -31705,15 +31705,15 @@
      "firstSeen": "2026-07-28",
      "recent": 3,
      "articles": 3,
-     "share": 0.043,
+     "share": 0.042,
      "adopt": 79
     },
     {
      "name": "Real estate",
      "firstSeen": "2026-07-30",
-     "recent": 7,
-     "articles": 7,
-     "share": 0.1,
+     "recent": 8,
+     "articles": 8,
+     "share": 0.113,
      "adopt": 81
     },
     {
@@ -31721,7 +31721,7 @@
      "firstSeen": "2026-07-30",
      "recent": 7,
      "articles": 7,
-     "share": 0.1,
+     "share": 0.099,
      "adopt": 81
     },
     {
@@ -31729,7 +31729,7 @@
      "firstSeen": "2026-08-03",
      "recent": 4,
      "articles": 4,
-     "share": 0.057,
+     "share": 0.056,
      "adopt": 85
     },
     {
@@ -31737,7 +31737,7 @@
      "firstSeen": "2026-08-03",
      "recent": 4,
      "articles": 4,
-     "share": 0.057,
+     "share": 0.056,
      "adopt": 85
     },
     {
@@ -31745,7 +31745,7 @@
      "firstSeen": "2026-08-03",
      "recent": 2,
      "articles": 2,
-     "share": 0.029,
+     "share": 0.028,
      "adopt": 85
     },
     {
@@ -31761,7 +31761,7 @@
      "firstSeen": "2026-08-05",
      "recent": 2,
      "articles": 2,
-     "share": 0.029,
+     "share": 0.028,
      "adopt": 87
     }
    ],
@@ -31769,7 +31769,7 @@
    "origins": [
     [
      "US",
-     39
+     40
     ],
     [
      "KR",
@@ -31860,7 +31860,7 @@
        0,
        0,
        1,
-       6
+       7
       ]
      },
      {
@@ -32055,6 +32055,13 @@
    ],
    "examples": [
     {
+     "publisher": "Commercial Observer",
+     "title": "Document Processing Platform Extend AI Signs 9K-SF Lease at 119 Fifth Avenue",
+     "url": "https://commercialobserver.com/2026/08/extend-ai-lease-119-fifth-avenue/",
+     "sector": "Real estate",
+     "country": "US"
+    },
+    {
      "publisher": "HR Dive",
      "title": "Corporate conversations about AI productivity are mostly focused on future gains",
      "url": "https://www.hrdive.com/news/corporate-conversations-about-ai-productivity-are-mostly-focused-on-future/827308/",
@@ -32073,13 +32080,6 @@
      "title": "AI Employee Management Platform Warp Triples Footprint at 156 Fifth Avenue",
      "url": "https://commercialobserver.com/2026/08/warp-triple-lease-expansion-hrc-156-fifth-avenue/",
      "sector": "Real estate",
-     "country": "US"
-    },
-    {
-     "publisher": "Retail Dive",
-     "title": "Etsy slashes workforce by 12%, laying off 220",
-     "url": "https://www.retaildive.com/news/etsy-slashes-workforce-12-percent-laying-off-220-ai-chatgpt/827193/",
-     "sector": "Consumer",
      "country": "US"
     }
    ],
@@ -32442,11 +32442,11 @@
     },
     {
      "day": "2026-08-07",
-     "n": 2
+     "n": 3
     }
    ],
-   "specificity": 0.915,
-   "rank": 9.45
+   "specificity": 0.914,
+   "rank": 9.44
   },
   {
    "id": "data-center",
@@ -32455,7 +32455,7 @@
    "sectorCount": 10,
    "newestSector": "Supply chain",
    "daysSinceNewestSector": 7,
-   "articles14d": 165,
+   "articles14d": 167,
    "articlesPrior14d": 34,
    "publishers": 24,
    "sectors": [
@@ -32472,7 +32472,7 @@
      "firstSeen": "2026-05-12",
      "recent": 9,
      "articles": 13,
-     "share": 0.055,
+     "share": 0.054,
      "adopt": 2
     },
     {
@@ -32486,9 +32486,9 @@
     {
      "name": "Utilities",
      "firstSeen": "2026-05-18",
-     "recent": 16,
-     "articles": 34,
-     "share": 0.097,
+     "recent": 18,
+     "articles": 36,
+     "share": 0.108,
      "adopt": 8
     },
     {
@@ -32496,7 +32496,7 @@
      "firstSeen": "2026-05-18",
      "recent": 116,
      "articles": 152,
-     "share": 0.703,
+     "share": 0.695,
      "adopt": 8
     },
     {
@@ -32512,7 +32512,7 @@
      "firstSeen": "2026-06-02",
      "recent": 10,
      "articles": 29,
-     "share": 0.061,
+     "share": 0.06,
      "adopt": 23
     },
     {
@@ -32544,7 +32544,7 @@
    "origins": [
     [
      "US",
-     218
+     220
     ],
     [
      "KR",
@@ -32617,7 +32617,7 @@
        3,
        0,
        4,
-       12
+       14
       ]
      },
      {
@@ -32830,6 +32830,13 @@
    ],
    "examples": [
     {
+     "publisher": "Utility Dive",
+     "title": "Existing power plants are \u2018bedrock' in supplying data centers: Constellation CEO",
+     "url": "https://www.utilitydive.com/news/existing-power-plants-supply-data-centers-constellation/827326/",
+     "sector": "Utilities",
+     "country": "US"
+    },
+    {
      "publisher": "Manufacturing Dive",
      "title": "GlobalFoundries drives Q2 revenue to $1.79B, completes Synopsys deal",
      "url": "https://www.manufacturingdive.com/news/globalfoundries-revenue-q2-AI-chips-Synopsys/827197/",
@@ -32847,13 +32854,6 @@
      "publisher": "Data Center Dynamics",
      "title": "Empyrion tops out upcoming Malaysian data center in Johor",
      "url": "https://www.datacenterdynamics.com/en/news/empyrion-tops-out-upcoming-malaysian-data-center-in-johor/",
-     "sector": "Technology",
-     "country": "US"
-    },
-    {
-     "publisher": "Data Center Dynamics",
-     "title": "Electrovaya launches stationary energy storage system for data center market",
-     "url": "https://www.datacenterdynamics.com/en/news/en/",
      "sector": "Technology",
      "country": "US"
     }
@@ -33213,15 +33213,15 @@
     },
     {
      "day": "2026-08-06",
-     "n": 28
+     "n": 29
     },
     {
      "day": "2026-08-07",
-     "n": 17
+     "n": 18
     }
    ],
-   "specificity": 0.799,
-   "rank": 8.69
+   "specificity": 0.797,
+   "rank": 8.68
   },
   {
    "id": "supply-chain",
@@ -34005,7 +34005,7 @@
      "n": 15
     }
    ],
-   "specificity": 0.907,
+   "specificity": 0.908,
    "rank": 8.46
   },
   {
@@ -64909,8 +64909,8 @@
      "n": 2
     }
    ],
-   "specificity": 0.924,
-   "rank": 3.8
+   "specificity": 0.925,
+   "rank": 3.81
   },
   {
    "id": "chinese-manufacturer",

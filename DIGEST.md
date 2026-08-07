@@ -1,16 +1,16 @@
 # Crosstalk — week ending 7 August 2026
 
-*6,910 articles over 100 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*6,927 articles over 100 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
 **artificial intelligence** — now in 10 sectors. **Consumer** picked it up 2d ago; it was first seen in technology coverage on 31 May 2026.
+  - [Document Processing Platform Extend AI Signs 9K-SF Lease at 119 Fifth Avenue](https://commercialobserver.com/2026/08/extend-ai-lease-119-fifth-avenue/) · Commercial Observer · real estate
   - [Corporate conversations about AI productivity are mostly focused on future gains](https://www.hrdive.com/news/corporate-conversations-about-ai-productivity-are-mostly-focused-on-future/827308/) · HR Dive · labor
-  - [Abu Dhabi sovereign wealth fund Mubadala weighs US$6.3B investment in Japan AI data center](https://www.digitimes.com/news/a20260807VL219/data-center-investment-electricity-development-data.html) · DigiTimes Asia · technology
 
 **data center** — now in 10 sectors. **Supply chain** picked it up 7d ago; it was first seen in real estate coverage on 11 May 2026.
+  - [Existing power plants are ‘bedrock' in supplying data centers: Constellation CEO](https://www.utilitydive.com/news/existing-power-plants-supply-data-centers-constellation/827326/) · Utility Dive · utilities
   - [GlobalFoundries drives Q2 revenue to $1.79B, completes Synopsys deal](https://www.manufacturingdive.com/news/globalfoundries-revenue-q2-AI-chips-Synopsys/827197/) · Manufacturing Dive · industrials
-  - [US lawmaker proposes Data Center Bill of Rights targeting AI data center developments](https://www.datacenterdynamics.com/en/news/us-lawmaker-proposes-data-center-bill-of-rights-targeting-ai-data-center-developments/) · Data Center Dynamics · technology
 
 **supply chain** — now in 9 sectors. **Finance** picked it up 2d ago; it was first seen in supply chain coverage on 12 May 2026.
   - [Global tension + rising costs = more pressure on UK SMEs](https://theloadstar.com/global-tension-rising-costs-more-pressure-on-uk-smes/) · The Loadstar · supply chain
@@ -40,12 +40,12 @@
 
 | phrase | sectors | articles | vs prior fortnight |
 |---|---|---|---|
-| artificial intelligence | 10 | 70 | 17.5× |
+| artificial intelligence | 10 | 71 | 17.8× |
 | real estate | 7 | 54 | 10.8× |
 | supply chain | 9 | 76 | 7.6× |
 | critical mineral | 4 | 62 | 5.6× |
 | rare earth | 5 | 64 | 4.9× |
-| data center | 10 | 165 | 4.9× |
+| data center | 10 | 167 | 4.9× |
 | nuclear energy | 4 | 21 | 3.5× |
 | renewable energy | 5 | 15 | 3.0× |
 | nuclear power | 5 | 21 | 2.6× |
