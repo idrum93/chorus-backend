@@ -1,6 +1,6 @@
 # Crosstalk — week ending 7 August 2026
 
-*6,966 articles over 100 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*6,975 articles over 100 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
@@ -29,8 +29,8 @@
   - [Saudi Arabia, Pakistan and Turkey to Sign Defense Deal](https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Pakistan-and-Turkey-to-Sign-Defense-Deal.html) · OilPrice · energy
 
 **real estate** — now in 7 sectors. **Policy** picked it up 1d ago; it was first seen in real estate coverage on 16 May 2026.
+  - [Attorney James Allen Joins Camber Property Group as Senior Counsel](https://commercialobserver.com/2026/08/james-allen-new-hire-camber-property-group/) · Commercial Observer · real estate
   - [Valley National Bank Provides $30M Value-Add Refi for Park Towers in Miami](https://commercialobserver.com/2026/08/valley-national-bank-30m-refi-park-towers-miami/) · Commercial Observer · real estate
-  - [TPG AG, Redfearn Capital Acquire Industrial Portfolio for $628M](https://commercialobserver.com/2026/08/tpg-ag-redfearn-capital-industrial/) · Commercial Observer · real estate
 
 **electric vehicle** — now in 6 sectors. **Finance** picked it up 3d ago; it was first seen in autos coverage on 14 May 2026.
   - [Commentary: Why playing it safe could cost Taiwan the next battery boom](https://www.digitimes.com/news/a20260806PD228/taiwan-investment-technology-autonomous-driving-growth.html) · DigiTimes Asia · technology
