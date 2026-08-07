@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-07T20:01:20.860147+00:00",
+ "generated": "2026-08-07T20:25:32.545659+00:00",
  "prices": {
   "Autos": [
    {
@@ -748,7 +748,7 @@
    },
    {
     "day": "2026-08-07",
-    "close": 52.85
+    "close": 52.87
    }
   ],
   "Energy": [
@@ -998,7 +998,7 @@
    },
    {
     "day": "2026-08-07",
-    "close": 57.45
+    "close": 57.49
    }
   ],
   "Finance": [
@@ -1248,7 +1248,7 @@
    },
    {
     "day": "2026-08-07",
-    "close": 57.55
+    "close": 57.61
    }
   ],
   "Industrials": [
@@ -1498,7 +1498,7 @@
    },
    {
     "day": "2026-08-07",
-    "close": 185.13
+    "close": 185.21
    }
   ],
   "Technology": [
@@ -1998,7 +1998,7 @@
    },
    {
     "day": "2026-08-07",
-    "close": 44.98
+    "close": 44.99
    }
   ],
   "Utilities": [
@@ -2248,7 +2248,7 @@
    },
    {
     "day": "2026-08-07",
-    "close": 43.83
+    "close": 43.6
    }
   ],
   "Healthcare": [
@@ -2498,7 +2498,7 @@
    },
    {
     "day": "2026-08-07",
-    "close": 165.56
+    "close": 165.67
    }
   ],
   "Consumer": [
@@ -2748,14 +2748,14 @@
    },
    {
     "day": "2026-08-07",
-    "close": 119.86
+    "close": 119.82
    }
   ]
  },
  "coverage": [
   [
    "US",
-   5830
+   5841
   ],
   [
    "GB",
@@ -3646,6 +3646,12 @@
   {
    "articles_list": [
     {
+     "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
+     "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
+     "publisher": "Utility Dive",
+     "sector": "Utilities"
+    },
+    {
      "title": "Energy Affordability Trumps Climate in US Midterm Races",
      "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
      "publisher": "OilPrice",
@@ -3656,12 +3662,6 @@
      "url": "https://www.esgdive.com/news/employers-not-training-workers-well-enough-for-widespread-ai-disruption-conference-board/827352/",
      "publisher": "ESG Dive",
      "sector": "Policy"
-    },
-    {
-     "title": "FDA sets advisory panel for Galleri multicancer screening test",
-     "url": "https://www.medtechdive.com/news/fda-sets-advisory-panel-for-galleri-multicancer-screening-test/827349/",
-     "publisher": "MedTech Dive",
-     "sector": "Healthcare"
     }
    ],
    "name": "Department of Veterans Affairs",
@@ -4287,16 +4287,16 @@
      "sector": "Finance"
     },
     {
-     "title": "CMA CGM extends BALT1 service",
-     "url": "https://container-news.com/cma-cgm-extends-balt1-service/",
-     "publisher": "Container News",
-     "sector": "Supply chain"
+     "title": "Casella Q2 benefits from landfill volumes, acquisition rollover",
+     "url": "https://www.wastedive.com/news/casella-q2-earnings-2026/827357/",
+     "publisher": "Waste Dive",
+     "sector": "Waste & water"
     },
     {
-     "title": "Model Tracks Bond Front Velocity in Lubrication-Mediated Bonding of Flexible Substrates (imec)",
-     "url": "https://semiengineering.com/model-tracks-bond-front-velocity-for-wafer-and-die-bonding-imec/",
-     "publisher": "Semiconductor Engineering",
-     "sector": "Technology"
+     "title": "Zoetis nabs GE Health CFO for dual finance chief, COO role",
+     "url": "https://www.cfodive.com/news/zoetis-nabs-ge-health-cfo-dual-finance-chief-coo-role-comp-earnings/827371/",
+     "publisher": "CFO Dive",
+     "sector": "Finance"
     }
    ],
    "name": "Environment Agency",
@@ -4584,6 +4584,12 @@
   {
    "articles_list": [
     {
+     "title": "Casella Q2 benefits from landfill volumes, acquisition rollover",
+     "url": "https://www.wastedive.com/news/casella-q2-earnings-2026/827357/",
+     "publisher": "Waste Dive",
+     "sector": "Waste & water"
+    },
+    {
      "title": "Citi Lifts Brent Outlook but Still Sees Oil Falling in 2027",
      "url": "https://oilprice.com/Latest-Energy-News/World-News/Citi-Lifts-Brent-Outlook-but-Still-Sees-Oil-Falling-in-2027.html",
      "publisher": "OilPrice",
@@ -4594,12 +4600,6 @@
      "url": "https://www.esgdive.com/news/employers-not-training-workers-well-enough-for-widespread-ai-disruption-conference-board/827352/",
      "publisher": "ESG Dive",
      "sector": "Policy"
-    },
-    {
-     "title": "ADNOC Reports 15 Vessel Attacks as Hormuz Risks Mount",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Reports-15-Vessel-Attacks-as-Hormuz-Risks-Mount.html",
-     "publisher": "OilPrice",
-     "sector": "Energy"
     }
    ],
    "name": "Telecom Regulatory Authority of India",
@@ -4746,6 +4746,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "Utility Dive",
+       "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
+       "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
+       "sector": "Utilities",
+       "country": "US"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
@@ -4756,13 +4763,6 @@
        "publisher": "Data Center Dynamics",
        "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
        "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Bridge DC launches prefabricated data center power module",
-       "url": "https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/",
        "sector": "Technology",
        "country": "US"
       }
@@ -4870,6 +4870,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "The Register",
+       "title": "Water system controllers don't belong on the internet, says ex-NSA chief after suspected Iran attacks",
+       "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+       "sector": "Technology",
+       "country": "US"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Citi Lifts Brent Outlook but Still Sees Oil Falling in 2027",
        "url": "https://oilprice.com/Latest-Energy-News/World-News/Citi-Lifts-Brent-Outlook-but-Still-Sees-Oil-Falling-in-2027.html",
@@ -4880,13 +4887,6 @@
        "publisher": "OilPrice",
        "title": "ADNOC Reports 15 Vessel Attacks as Hormuz Risks Mount",
        "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Reports-15-Vessel-Attacks-as-Hormuz-Risks-Mount.html",
-       "sector": "Energy",
-       "country": "US"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Is Iran Preparing to Permanently Block the Strait of Hormuz?",
-       "url": "https://oilprice.com/Energy/Energy-General/Is-Iran-Preparing-to-Permanently-Block-the-Strait-of-Hormuz.html",
        "sector": "Energy",
        "country": "US"
       }
@@ -5052,6 +5052,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "The Register",
+       "title": "Water system controllers don't belong on the internet, says ex-NSA chief after suspected Iran attacks",
+       "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+       "sector": "Technology",
+       "country": "US"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Citi Lifts Brent Outlook but Still Sees Oil Falling in 2027",
        "url": "https://oilprice.com/Latest-Energy-News/World-News/Citi-Lifts-Brent-Outlook-but-Still-Sees-Oil-Falling-in-2027.html",
@@ -5062,13 +5069,6 @@
        "publisher": "OilPrice",
        "title": "ADNOC Reports 15 Vessel Attacks as Hormuz Risks Mount",
        "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Reports-15-Vessel-Attacks-as-Hormuz-Risks-Mount.html",
-       "sector": "Energy",
-       "country": "US"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Is Iran Preparing to Permanently Block the Strait of Hormuz?",
-       "url": "https://oilprice.com/Energy/Energy-General/Is-Iran-Preparing-to-Permanently-Block-the-Strait-of-Hormuz.html",
        "sector": "Energy",
        "country": "US"
       }
@@ -5234,6 +5234,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "Utility Dive",
+       "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
+       "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
+       "sector": "Utilities",
+       "country": "US"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
@@ -5244,13 +5251,6 @@
        "publisher": "Data Center Dynamics",
        "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
        "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Bridge DC launches prefabricated data center power module",
-       "url": "https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/",
        "sector": "Technology",
        "country": "US"
       }
@@ -5416,6 +5416,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "Utility Dive",
+       "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
+       "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
+       "sector": "Utilities",
+       "country": "US"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
@@ -5426,13 +5433,6 @@
        "publisher": "Data Center Dynamics",
        "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
        "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Bridge DC launches prefabricated data center power module",
-       "url": "https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/",
        "sector": "Technology",
        "country": "US"
       }
@@ -5904,6 +5904,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "The Register",
+       "title": "Water system controllers don't belong on the internet, says ex-NSA chief after suspected Iran attacks",
+       "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+       "sector": "Technology",
+       "country": "US"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Citi Lifts Brent Outlook but Still Sees Oil Falling in 2027",
        "url": "https://oilprice.com/Latest-Energy-News/World-News/Citi-Lifts-Brent-Outlook-but-Still-Sees-Oil-Falling-in-2027.html",
@@ -5914,13 +5921,6 @@
        "publisher": "OilPrice",
        "title": "ADNOC Reports 15 Vessel Attacks as Hormuz Risks Mount",
        "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Reports-15-Vessel-Attacks-as-Hormuz-Risks-Mount.html",
-       "sector": "Energy",
-       "country": "US"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Is Iran Preparing to Permanently Block the Strait of Hormuz?",
-       "url": "https://oilprice.com/Energy/Energy-General/Is-Iran-Preparing-to-Permanently-Block-the-Strait-of-Hormuz.html",
        "sector": "Energy",
        "country": "US"
       }
@@ -6028,6 +6028,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "The Register",
+       "title": "Water system controllers don't belong on the internet, says ex-NSA chief after suspected Iran attacks",
+       "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+       "sector": "Technology",
+       "country": "US"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Citi Lifts Brent Outlook but Still Sees Oil Falling in 2027",
        "url": "https://oilprice.com/Latest-Energy-News/World-News/Citi-Lifts-Brent-Outlook-but-Still-Sees-Oil-Falling-in-2027.html",
@@ -6038,13 +6045,6 @@
        "publisher": "OilPrice",
        "title": "ADNOC Reports 15 Vessel Attacks as Hormuz Risks Mount",
        "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Reports-15-Vessel-Attacks-as-Hormuz-Risks-Mount.html",
-       "sector": "Energy",
-       "country": "US"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Is Iran Preparing to Permanently Block the Strait of Hormuz?",
-       "url": "https://oilprice.com/Energy/Energy-General/Is-Iran-Preparing-to-Permanently-Block-the-Strait-of-Hormuz.html",
        "sector": "Energy",
        "country": "US"
       }
@@ -6181,6 +6181,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "Utility Dive",
+       "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
+       "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
+       "sector": "Utilities",
+       "country": "US"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
@@ -6191,13 +6198,6 @@
        "publisher": "Data Center Dynamics",
        "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
        "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Bridge DC launches prefabricated data center power module",
-       "url": "https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/",
        "sector": "Technology",
        "country": "US"
       }
@@ -6363,6 +6363,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "Utility Dive",
+       "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
+       "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
+       "sector": "Utilities",
+       "country": "US"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
@@ -6373,13 +6380,6 @@
        "publisher": "Data Center Dynamics",
        "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
        "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Bridge DC launches prefabricated data center power module",
-       "url": "https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/",
        "sector": "Technology",
        "country": "US"
       }
@@ -6429,6 +6429,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "Utility Dive",
+       "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
+       "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
+       "sector": "Utilities",
+       "country": "US"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
@@ -6439,13 +6446,6 @@
        "publisher": "Data Center Dynamics",
        "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
        "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Bridge DC launches prefabricated data center power module",
-       "url": "https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/",
        "sector": "Technology",
        "country": "US"
       }
@@ -6677,6 +6677,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "Utility Dive",
+       "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
+       "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
+       "sector": "Utilities",
+       "country": "US"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
@@ -6687,13 +6694,6 @@
        "publisher": "Data Center Dynamics",
        "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
        "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Bridge DC launches prefabricated data center power module",
-       "url": "https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/",
        "sector": "Technology",
        "country": "US"
       }
@@ -6867,6 +6867,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "Utility Dive",
+       "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
+       "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
+       "sector": "Utilities",
+       "country": "US"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
@@ -6877,13 +6884,6 @@
        "publisher": "Data Center Dynamics",
        "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
        "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Bridge DC launches prefabricated data center power module",
-       "url": "https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/",
        "sector": "Technology",
        "country": "US"
       }
@@ -7086,6 +7086,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "Utility Dive",
+       "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
+       "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
+       "sector": "Utilities",
+       "country": "US"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
@@ -7096,13 +7103,6 @@
        "publisher": "Data Center Dynamics",
        "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
        "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Bridge DC launches prefabricated data center power module",
-       "url": "https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/",
        "sector": "Technology",
        "country": "US"
       }
@@ -7788,6 +7788,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "Utility Dive",
+       "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
+       "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
+       "sector": "Utilities",
+       "country": "US"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
@@ -7798,13 +7805,6 @@
        "publisher": "Data Center Dynamics",
        "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
        "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Bridge DC launches prefabricated data center power module",
-       "url": "https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/",
        "sector": "Technology",
        "country": "US"
       }
@@ -7986,6 +7986,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "Utility Dive",
+       "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
+       "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
+       "sector": "Utilities",
+       "country": "US"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
@@ -7996,13 +8003,6 @@
        "publisher": "Data Center Dynamics",
        "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
        "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Bridge DC launches prefabricated data center power module",
-       "url": "https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/",
        "sector": "Technology",
        "country": "US"
       }
@@ -8052,6 +8052,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "Utility Dive",
+       "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
+       "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
+       "sector": "Utilities",
+       "country": "US"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
@@ -8062,13 +8069,6 @@
        "publisher": "Data Center Dynamics",
        "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
        "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Bridge DC launches prefabricated data center power module",
-       "url": "https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/",
        "sector": "Technology",
        "country": "US"
       }
@@ -8250,6 +8250,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "Utility Dive",
+       "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
+       "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
+       "sector": "Utilities",
+       "country": "US"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
@@ -8260,13 +8267,6 @@
        "publisher": "Data Center Dynamics",
        "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
        "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Bridge DC launches prefabricated data center power module",
-       "url": "https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/",
        "sector": "Technology",
        "country": "US"
       }
@@ -8448,6 +8448,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "Utility Dive",
+       "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
+       "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
+       "sector": "Utilities",
+       "country": "US"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
@@ -8458,13 +8465,6 @@
        "publisher": "Data Center Dynamics",
        "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
        "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Bridge DC launches prefabricated data center power module",
-       "url": "https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/",
        "sector": "Technology",
        "country": "US"
       }
@@ -8514,6 +8514,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "Utility Dive",
+       "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
+       "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
+       "sector": "Utilities",
+       "country": "US"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
@@ -8524,13 +8531,6 @@
        "publisher": "Data Center Dynamics",
        "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
        "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Bridge DC launches prefabricated data center power module",
-       "url": "https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/",
        "sector": "Technology",
        "country": "US"
       }
@@ -8580,6 +8580,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "Utility Dive",
+       "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
+       "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
+       "sector": "Utilities",
+       "country": "US"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
@@ -8590,13 +8597,6 @@
        "publisher": "Data Center Dynamics",
        "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
        "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Bridge DC launches prefabricated data center power module",
-       "url": "https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/",
        "sector": "Technology",
        "country": "US"
       }
@@ -8646,6 +8646,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "Utility Dive",
+       "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
+       "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
+       "sector": "Utilities",
+       "country": "US"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
@@ -8656,13 +8663,6 @@
        "publisher": "Data Center Dynamics",
        "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
        "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Bridge DC launches prefabricated data center power module",
-       "url": "https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/",
        "sector": "Technology",
        "country": "US"
       }
@@ -8712,6 +8712,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "Utility Dive",
+       "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
+       "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
+       "sector": "Utilities",
+       "country": "US"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
@@ -8722,13 +8729,6 @@
        "publisher": "Data Center Dynamics",
        "title": "NTT Data reports half a billion dollars of data center investment in Q1 financial results",
        "url": "https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Bridge DC launches prefabricated data center power module",
-       "url": "https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/",
        "sector": "Technology",
        "country": "US"
       }
@@ -28449,8 +28449,8 @@
   ]
  },
  "daysCollected": 101,
- "articlesStored": 6988,
- "articlesLive": 3270,
+ "articlesStored": 6999,
+ "articlesLive": 3281,
  "windowDays": 90,
  "terms": [
   {
@@ -28772,7 +28772,7 @@
      "new",
      3,
      0,
-     64.8,
+     64.9,
      [
       {
        "title": "Texas A & M University joins the Genesis Mission to transform science using artificial intelligence Texas A & M Stories",
@@ -28800,7 +28800,7 @@
      "new",
      3,
      0,
-     51.8,
+     51.9,
      [
       {
        "title": "AMD Sees Data Center Revenue More Than Doubling Next Year as AI Demand Surges",
@@ -28828,7 +28828,7 @@
      "new",
      2,
      0,
-     43.2,
+     43.3,
      [
       {
        "title": "Manz opens Tainan R&D center for advanced packaging equipment",
@@ -28850,7 +28850,7 @@
      "new",
      2,
      0,
-     43.2,
+     43.3,
      [
       {
        "title": "SanDisk to Showcase HBF and Other AI Inference NAND Technologies at FMS 2026",
@@ -29309,7 +29309,7 @@
      "n": 3
     }
    ],
-   "specificity": 0.914,
+   "specificity": 0.915,
    "rank": 6.61
   },
   {
@@ -29649,7 +29649,7 @@
      "new",
      2,
      0,
-     22.7,
+     22.8,
      [
       {
        "title": "Amazon to add supply chain facilities in New York, Texas",
@@ -29671,7 +29671,7 @@
      "new",
      2,
      0,
-     22.7,
+     22.8,
      [
       {
        "title": "Gymshark names new chief supply chain officer",
@@ -30168,8 +30168,8 @@
      "n": 15
     }
    ],
-   "specificity": 0.908,
-   "rank": 6.58
+   "specificity": 0.909,
+   "rank": 6.59
   },
   {
    "id": "data-center",
@@ -30178,7 +30178,7 @@
    "sectorCount": 7,
    "newestSector": "Supply chain",
    "daysSinceNewestSector": 7,
-   "articles14d": 171,
+   "articles14d": 172,
    "articlesPrior14d": 34,
    "publishers": 24,
    "sectors": [
@@ -30187,7 +30187,7 @@
      "firstSeen": "2026-05-11",
      "recent": 7,
      "articles": 11,
-     "share": 0.042,
+     "share": 0.041,
      "adopt": 1
     },
     {
@@ -30195,7 +30195,7 @@
      "firstSeen": "2026-05-12",
      "recent": 9,
      "articles": 13,
-     "share": 0.054,
+     "share": 0.053,
      "adopt": 2
     },
     {
@@ -30209,9 +30209,9 @@
     {
      "name": "Utilities",
      "firstSeen": "2026-05-18",
-     "recent": 18,
-     "articles": 36,
-     "share": 0.107,
+     "recent": 19,
+     "articles": 37,
+     "share": 0.112,
      "adopt": 8
     },
     {
@@ -30219,7 +30219,7 @@
      "firstSeen": "2026-05-18",
      "recent": 119,
      "articles": 155,
-     "share": 0.708,
+     "share": 0.704,
      "adopt": 8
     },
     {
@@ -30243,7 +30243,7 @@
    "origins": [
     [
      "US",
-     224
+     225
     ],
     [
      "KR",
@@ -30316,7 +30316,7 @@
        3,
        0,
        4,
-       14
+       15
       ]
      },
      {
@@ -30490,7 +30490,7 @@
      "new",
      3,
      0,
-     20.2,
+     20.1,
      [
       {
        "title": "Sponsored: nVent expands data center liquid cooling capacity",
@@ -30512,7 +30512,7 @@
      "new",
      3,
      0,
-     20.2,
+     20.1,
      [
       {
        "title": "Texas Audit Could Delay 49.8 GW of Data Center Load, Cost Projects Up to $15 Billion, BNEF Warns",
@@ -30531,34 +30531,6 @@
        "url": "https://www.powermag.com/abbott-orders-full-audit-of-texas-data-center-interconnection-queue-threatens-to-deny-grid-access/",
        "publisher": "POWER Magazine",
        "sector": "Utilities"
-      }
-     ]
-    ],
-    [
-     "computing capacity",
-     0.12,
-     "new",
-     2,
-     0,
-     13.4,
-     [
-      {
-       "title": "Sponsored: nVent expands data center liquid cooling capacity",
-       "url": "https://www.datacenterdynamics.com/en/product-news/nvent-expands-data-center-liquid-cooling-capacity/",
-       "publisher": "Data Center Dynamics",
-       "sector": "Technology"
-      },
-      {
-       "title": "US dominates world's largest AI data centers as China places three in global top 60",
-       "url": "https://www.digitimes.com/news/a20260804PD230/data-epoch-investment-capacity-data-center.html",
-       "publisher": "DigiTimes Asia",
-       "sector": "Technology"
-      },
-      {
-       "title": "LG Expands AI Efforts with $896M in Fresh Funding for 200MW Data Center North of Seoul",
-       "url": "https://www.mingtiandi.com/real-estate/data-centres/lg-to-invest-additional-896m-in-greater-seoul-ai-data-centre/",
-       "publisher": "Mingtiandi",
-       "sector": "Real estate"
       }
      ]
     ],
@@ -30619,13 +30591,47 @@
      ]
     ],
     [
+     "computing capacity",
+     0.12,
+     "new",
+     2,
+     0,
+     13.4,
+     [
+      {
+       "title": "Sponsored: nVent expands data center liquid cooling capacity",
+       "url": "https://www.datacenterdynamics.com/en/product-news/nvent-expands-data-center-liquid-cooling-capacity/",
+       "publisher": "Data Center Dynamics",
+       "sector": "Technology"
+      },
+      {
+       "title": "US dominates world's largest AI data centers as China places three in global top 60",
+       "url": "https://www.digitimes.com/news/a20260804PD230/data-epoch-investment-capacity-data-center.html",
+       "publisher": "DigiTimes Asia",
+       "sector": "Technology"
+      },
+      {
+       "title": "LG Expands AI Efforts with $896M in Fresh Funding for 200MW Data Center North of Seoul",
+       "url": "https://www.mingtiandi.com/real-estate/data-centres/lg-to-invest-additional-896m-in-greater-seoul-ai-data-centre/",
+       "publisher": "Mingtiandi",
+       "sector": "Real estate"
+      }
+     ]
+    ],
+    [
      "pjm interconnection",
      0.12,
      "rising",
      2,
      1,
-     10.8,
+     10.7,
      [
+      {
+       "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
+       "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
+       "publisher": "Utility Dive",
+       "sector": "Utilities"
+      },
       {
        "title": "Existing power plants are \u2018bedrock' in supplying data centers: Constellation CEO",
        "url": "https://www.utilitydive.com/news/existing-power-plants-supply-data-centers-constellation/827326/",
@@ -30637,17 +30643,18 @@
        "url": "https://www.utilitydive.com/news/texas-hits-pause-data-center-interconnections/827046/",
        "publisher": "Utility Dive",
        "sector": "Utilities"
-      },
-      {
-       "title": "PJM's big new data center plan: Make the states figure it out",
-       "url": "https://www.canarymedia.com/articles/data-centers/pjm-data-center-plan",
-       "publisher": "Canary Media",
-       "sector": "Energy"
       }
      ]
     ]
    ],
    "examples": [
+    {
+     "publisher": "Utility Dive",
+     "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
+     "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
+     "sector": "Utilities",
+     "country": "US"
+    },
     {
      "publisher": "OilPrice",
      "title": "Energy Affordability Trumps Climate in US Midterm Races",
@@ -30666,13 +30673,6 @@
      "publisher": "Data Center Dynamics",
      "title": "Bridge DC launches prefabricated data center power module",
      "url": "https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/",
-     "sector": "Technology",
-     "country": "US"
-    },
-    {
-     "publisher": "Data Center Dynamics",
-     "title": "Former employees sue Prime Data Centers for $400m, claim compensation fraud",
-     "url": "https://www.datacenterdynamics.com/en/news/former-employees-sue-prime-data-centers-for-400m-claim-compensation-fraud/",
      "sector": "Technology",
      "country": "US"
     }
@@ -31036,10 +31036,10 @@
     },
     {
      "day": "2026-08-07",
-     "n": 22
+     "n": 23
     }
    ],
-   "specificity": 0.794,
+   "specificity": 0.793,
    "rank": 6.06
   },
   {
@@ -31279,7 +31279,7 @@
      "new",
      1,
      0,
-     90.9,
+     91.1,
      [
       {
        "title": "Joby nears FAA certification as manufacturing ramps up",
@@ -31295,7 +31295,7 @@
      "new",
      1,
      0,
-     90.9,
+     91.1,
      [
       {
        "title": "Cameco's Westinghouse nuclear unit files for IPO",
@@ -31311,7 +31311,7 @@
      "new",
      1,
      0,
-     72.8,
+     72.9,
      [
       {
        "title": "Namibia Critical Metals Announces Completion of Japan C$23 Million Earn - In and Formation of Strategic Joint Venture Company for the Lofdal Heavy Rare Earth Project",
@@ -31327,7 +31327,7 @@
      "new",
      1,
      0,
-     52.0,
+     52.1,
      [
       {
        "title": "PSMC open to US, Singapore, Malaysia joint ventures as Intel packaging partnership enters mass production",
@@ -31343,7 +31343,7 @@
      "new",
      1,
      0,
-     40.4,
+     40.5,
      [
       {
        "title": "Furukawa to invest \u20b96,000 cr to expand optical fiber & cable production capacity in India, US, Brazil, Japan",
@@ -31984,7 +31984,7 @@
      "new",
      2,
      0,
-     86.4,
+     86.5,
      [
       {
        "title": "UK Drivers Take To Fuel Theft amid War-Driven Price Surge",
@@ -32006,7 +32006,7 @@
      "new",
      2,
      0,
-     69.1,
+     69.2,
      [
       {
        "title": "Shipping Through Hormuz Drops Sharply as Tensions Rise",
@@ -32028,7 +32028,7 @@
      "new",
      1,
      0,
-     43.2,
+     43.3,
      [
       {
        "title": "Saudi Arabia, Pakistan and Turkey to Sign Defense Deal",
@@ -32044,7 +32044,7 @@
      "new",
      1,
      0,
-     43.2,
+     43.3,
      [
       {
        "title": "CMA CGM completes FATTAL GROUP acquisition",
@@ -32060,7 +32060,7 @@
      "new",
      1,
      0,
-     43.2,
+     43.3,
      [
       {
        "title": "Venezuela's Oil Production Grows at a Crucial Time Despite Challenges",
@@ -32076,7 +32076,7 @@
      "new",
      1,
      0,
-     43.2,
+     43.3,
      [
       {
        "title": "Shipping Through Hormuz Drops Sharply as Tensions Rise",
@@ -32713,7 +32713,7 @@
      "new",
      1,
      0,
-     59.6,
+     59.7,
      [
       {
        "title": "Renewable energy developers seek \u20b93,000 crore relief amid transmission bottlenecks",
@@ -32729,7 +32729,7 @@
      "new",
      1,
      0,
-     59.6,
+     59.7,
      [
       {
        "title": "India Moves to Rescue Renewable Energy Projects Stalled by Grid Shortages",
@@ -32745,7 +32745,7 @@
      "new",
      1,
      0,
-     59.6,
+     59.7,
      [
       {
        "title": "China Doubles Down on Clean Energy Even as Coal Keeps Growing",
@@ -32761,7 +32761,7 @@
      "new",
      1,
      0,
-     39.7,
+     39.8,
      [
       {
        "title": "China puts battery storage at center of renewable energy strategy",
@@ -32777,7 +32777,7 @@
      "new",
      1,
      0,
-     39.7,
+     39.8,
      [
       {
        "title": "Video gamers give 110-MW Texas solar project a financing boost",
@@ -32793,7 +32793,7 @@
      "new",
      1,
      0,
-     34.0,
+     34.1,
      [
       {
        "title": "China puts battery storage at center of renewable energy strategy",
@@ -33428,7 +33428,7 @@
      "new",
      1,
      0,
-     61.7,
+     61.8,
      [
       {
        "title": "India Expands Oil Storage Sites After Shock Supply Disruption",
@@ -33444,7 +33444,7 @@
      "new",
      1,
      0,
-     61.7,
+     61.8,
      [
       {
        "title": "Iran weighs ban on US and Israeli ships in Hormuz",
@@ -33472,7 +33472,7 @@
      "new",
      1,
      0,
-     61.7,
+     61.8,
      [
       {
        "title": "No charge for Bab al-Mandab Strait transits, Houthis tell The Loadstar",
@@ -33494,7 +33494,7 @@
      "new",
      1,
      0,
-     61.7,
+     61.8,
      [
       {
        "title": "Weak Energy Demand May Signal a Much Bigger Economic Problem",
@@ -33522,7 +33522,7 @@
      "new",
      1,
      0,
-     61.7,
+     61.8,
      [
       {
        "title": "India Expands Oil Storage Sites After Shock Supply Disruption",
@@ -33538,7 +33538,7 @@
      "new",
      1,
      0,
-     61.7,
+     61.8,
      [
       {
        "title": "ADNOC Reports 15 Vessel Attacks as Hormuz Risks Mount",
@@ -33563,6 +33563,13 @@
    ],
    "examples": [
     {
+     "publisher": "The Register",
+     "title": "Water system controllers don't belong on the internet, says ex-NSA chief after suspected Iran attacks",
+     "url": "https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070",
+     "sector": "Technology",
+     "country": "US"
+    },
+    {
      "publisher": "OilPrice",
      "title": "Citi Lifts Brent Outlook but Still Sees Oil Falling in 2027",
      "url": "https://oilprice.com/Latest-Energy-News/World-News/Citi-Lifts-Brent-Outlook-but-Still-Sees-Oil-Falling-in-2027.html",
@@ -33582,13 +33589,6 @@
      "url": "https://oilprice.com/Energy/Energy-General/Is-Iran-Preparing-to-Permanently-Block-the-Strait-of-Hormuz.html",
      "sector": "Energy",
      "country": "US"
-    },
-    {
-     "publisher": "The Loadstar",
-     "title": "Global tension + rising costs = more pressure on UK SMEs",
-     "url": "https://theloadstar.com/global-tension-rising-costs-more-pressure-on-uk-smes/",
-     "sector": "Supply chain",
-     "country": "GB"
     }
    ],
    "daily": [
@@ -34185,7 +34185,7 @@
      "new",
      5,
      0,
-     120.0,
+     120.2,
      [
       {
        "title": "Transgaz-Argent LNG MOU advances US gas route to Central and Eastern Europe",
@@ -34213,7 +34213,7 @@
      "new",
      2,
      0,
-     72.0,
+     72.1,
      [
       {
        "title": "India's Crude Oil Output Falls for Third Straight Year",
@@ -34241,7 +34241,7 @@
      "new",
      2,
      0,
-     72.0,
+     72.1,
      [
       {
        "title": "LS Power Acquiring 606-MW Texas Gas-Fired Plant From Constellation",
@@ -34269,7 +34269,7 @@
      "new",
      2,
      0,
-     57.6,
+     57.7,
      [
       {
        "title": "ExxonMobil books McDermott for Mozambique's multibillion-dollar LNG project",
@@ -34297,7 +34297,7 @@
      "new",
      3,
      0,
-     54.0,
+     54.1,
      [
       {
        "title": "India's Crude Oil Output Falls for Third Straight Year",
@@ -34325,7 +34325,7 @@
      "new",
      2,
      0,
-     36.0,
+     36.1,
      [
       {
        "title": "Enbridge adding strategic LNG infrastructure to US Gulf Coast growth pipeline",
@@ -34896,7 +34896,7 @@
      "new",
      5,
      0,
-     37.6,
+     37.7,
      [
       {
        "title": "DPAS Directive Allocation Order and Additional Requirements for Recoverable Critical Minerals and Materials",
@@ -35565,7 +35565,7 @@
      "new",
      1,
      0,
-     246.9,
+     247.2,
      [
       {
        "title": "U.S. jet fuel production rises after prices doubled in March",
@@ -35581,7 +35581,7 @@
      "new",
      1,
      0,
-     246.9,
+     247.2,
      [
       {
        "title": "U.S. jet fuel production rises after prices doubled in March",
@@ -35597,7 +35597,7 @@
      "new",
      1,
      0,
-     197.5,
+     197.8,
      [
       {
        "title": "Growth in transhipment for Middle East prompts niche Red Sea services",
@@ -35613,7 +35613,7 @@
      "new",
      1,
      0,
-     197.5,
+     197.8,
      [
       {
        "title": "Aramco Deepens Asia Oil Discount Ahead of Possible Hormuz Deal",
@@ -35629,7 +35629,7 @@
      "new",
      1,
      0,
-     123.4,
+     123.6,
      [
       {
        "title": "Kuwait Oil Production Surges as OPEC+ Completes Output Cut Reversal",
@@ -35651,7 +35651,7 @@
      "new",
      1,
      0,
-     98.7,
+     98.9,
      [
       {
        "title": "Aramco Deepens Asia Oil Discount Ahead of Possible Hormuz Deal",
@@ -36711,7 +36711,7 @@
      "new",
      1,
      0,
-     216.0,
+     216.3,
      [
       {
        "title": "Scalable, Grid-Ready Storage: How Connector Design Is Shaping the Next Generation of Energy Systems",
@@ -36733,7 +36733,7 @@
      "new",
      1,
      0,
-     172.8,
+     173.1,
      [
       {
        "title": "Scalable, Grid-Ready Storage: How Connector Design Is Shaping the Next Generation of Energy Systems",
@@ -36749,7 +36749,7 @@
      "new",
      1,
      0,
-     172.8,
+     173.1,
      [
       {
        "title": "Battery storage capacity averaged 70% growth over the last three years",
@@ -36765,7 +36765,7 @@
      "new",
      1,
      0,
-     172.8,
+     173.1,
      [
       {
        "title": "Scalable, Grid-Ready Storage: How Connector Design Is Shaping the Next Generation of Energy Systems",
@@ -36781,7 +36781,7 @@
      "new",
      1,
      0,
-     172.8,
+     173.1,
      [
       {
        "title": "Battery storage capacity averaged 70% growth over the last three years",
@@ -36803,7 +36803,7 @@
      "new",
      1,
      0,
-     172.8,
+     173.1,
      [
       {
        "title": "Pace Digitek doubles BESS manufacturing capacity to 5 GWh with new production line",
@@ -37328,7 +37328,7 @@
      "new",
      1,
      0,
-     216.0,
+     216.3,
      [
       {
        "title": "Weak Energy Demand May Signal a Much Bigger Economic Problem",
@@ -37350,7 +37350,7 @@
      "new",
      1,
      0,
-     144.0,
+     144.2,
      [
       {
        "title": "Y Combinator-backed Impact Drones to offer missile-intercepting drone service for data centers and grid operators",
@@ -37361,28 +37361,12 @@
      ]
     ],
     [
-     "water system",
-     1.0,
-     "new",
-     1,
-     0,
-     144.0,
-     [
-      {
-       "title": "Water system cyberattacks spread to Georgia, Michigan amid US-Iran conflict",
-       "url": "https://www.theregister.com/security/2026/08/03/georgia-michigan-say-water-systems-hacked-by-iran-tied-crew/5282262",
-       "publisher": "The Register",
-       "sector": "Technology"
-      }
-     ]
-    ],
-    [
      "energy cost",
      1.0,
      "new",
      1,
      0,
-     144.0,
+     144.2,
      [
       {
        "title": "Global tension + rising costs = more pressure on UK SMEs",
@@ -37398,8 +37382,24 @@
      "new",
      1,
      0,
-     144.0,
+     144.2,
      []
+    ],
+    [
+     "water system",
+     1.0,
+     "new",
+     1,
+     0,
+     123.6,
+     [
+      {
+       "title": "Water system cyberattacks spread to Georgia, Michigan amid US-Iran conflict",
+       "url": "https://www.theregister.com/security/2026/08/03/georgia-michigan-say-water-systems-hacked-by-iran-tied-crew/5282262",
+       "publisher": "The Register",
+       "sector": "Technology"
+      }
+     ]
     ],
     [
      "energy demand",
@@ -37407,7 +37407,7 @@
      "new",
      1,
      0,
-     86.4,
+     86.5,
      [
       {
        "title": "Weak Energy Demand May Signal a Much Bigger Economic Problem",
@@ -38480,7 +38480,7 @@
      "new",
      2,
      0,
-     157.1,
+     157.3,
      [
       {
        "title": "FMCG price hikes could rewrite India's inflation story",
@@ -38502,7 +38502,7 @@
      "new",
      1,
      0,
-     89.8,
+     89.9,
      [
       {
        "title": "Is RBI's Low Interest Rate Regime Really Powering India's Growth?",
@@ -38518,7 +38518,7 @@
      "new",
      1,
      0,
-     69.8,
+     69.9,
      [
       {
        "title": "KKR Posts Record Earnings as Fundraising Hits $133B",
@@ -39093,7 +39093,7 @@
      "new",
      2,
      0,
-     230.4,
+     230.8,
      [
       {
        "title": "Michelin to stay the course on India investments despite global cost pressures",
@@ -39115,7 +39115,7 @@
      "new",
      2,
      0,
-     197.5,
+     197.8,
      [
       {
        "title": "Michelin to stay the course on India investments despite global cost pressures",
@@ -39137,7 +39137,7 @@
      "new",
      1,
      0,
-     138.2,
+     138.5,
      [
       {
        "title": "Nestle flags near-term consumption slowdown amid West Asia conflict, El Nino concerns",
@@ -39153,7 +39153,7 @@
      "new",
      1,
      0,
-     76.8,
+     76.9,
      [
       {
        "title": "Nestle flags near-term consumption slowdown amid West Asia conflict, El Nino concerns",
@@ -39696,7 +39696,7 @@
      "new",
      1,
      0,
-     132.9,
+     133.1,
      [
       {
        "title": "Santa Marta coalition tested as co-chair Colombia turns back to fossil fuels",
@@ -39724,7 +39724,7 @@
      "new",
      1,
      0,
-     106.3,
+     106.5,
      [
       {
        "title": "Finland's Sand Battery Cuts Emissions 70% Without a Single Rare Earth",
@@ -39740,7 +39740,7 @@
      "new",
      1,
      0,
-     106.3,
+     106.5,
      [
       {
        "title": "Finland's Sand Battery Cuts Emissions 70% Without a Single Rare Earth",
@@ -39756,7 +39756,7 @@
      "new",
      1,
      0,
-     53.2,
+     53.3,
      [
       {
        "title": "Virginia lays groundwork to combine more solar with farming",
@@ -39772,7 +39772,7 @@
      "new",
      1,
      0,
-     44.3,
+     44.4,
      [
       {
        "title": "Virginia lays groundwork to combine more solar with farming",
@@ -39794,7 +39794,7 @@
      "new",
      1,
      0,
-     40.9,
+     41.0,
      [
       {
        "title": "Finland's Sand Battery Cuts Emissions 70% Without a Single Rare Earth",
@@ -40791,7 +40791,7 @@
      "new",
      1,
      0,
-     125.7,
+     125.9,
      [
       {
        "title": "Saudi company to build 760 MW of solar, 1,077 MWh of BESS in Syria",
@@ -40813,7 +40813,7 @@
      "new",
      1,
      0,
-     104.7,
+     104.9,
      [
       {
        "title": "DTE ties rate stability to data center projects as large-load pipeline remains steady",
@@ -40835,7 +40835,7 @@
      "new",
      1,
      0,
-     41.9,
+     42.0,
      [
       {
        "title": "Scalable, Grid-Ready Storage: How Connector Design Is Shaping the Next Generation of Energy Systems",
@@ -40857,7 +40857,7 @@
      "new",
      1,
      0,
-     16.5,
+     16.6,
      [
       {
        "title": "The Hidden Biases in Utility Resource Modeling That Stack the Deck Against Clean Energy",
@@ -41886,7 +41886,7 @@
      "new",
      1,
      0,
-     144.0,
+     144.2,
      [
       {
        "title": "Transgaz-Argent LNG MOU advances US gas route to Central and Eastern Europe",
@@ -41914,7 +41914,7 @@
      "new",
      1,
      0,
-     115.2,
+     115.4,
      [
       {
        "title": "Carbon capture-enabled 19.2-mtpa Texas Gulf Coast LNG project enters permitting phase",
@@ -41930,7 +41930,7 @@
      "new",
      1,
      0,
-     115.2,
+     115.4,
      [
       {
        "title": "ExxonMobil books McDermott for Mozambique's multibillion-dollar LNG project",
@@ -41958,7 +41958,7 @@
      "new",
      1,
      0,
-     82.3,
+     82.4,
      [
       {
        "title": "ExxonMobil books McDermott for Mozambique's multibillion-dollar LNG project",
@@ -41980,7 +41980,7 @@
      "new",
      1,
      0,
-     72.0,
+     72.1,
      [
       {
        "title": "Enbridge adding strategic LNG infrastructure to US Gulf Coast growth pipeline",
@@ -42581,7 +42581,7 @@
      "new",
      1,
      0,
-     72.0,
+     72.1,
      [
       {
        "title": "China puts battery storage at center of renewable energy strategy",
@@ -42603,7 +42603,7 @@
      "new",
      1,
      0,
-     72.0,
+     72.1,
      [
       {
        "title": "This Texas coal mine will soon be home to a 1.2GW solar farm",
@@ -42625,7 +42625,7 @@
      "new",
      1,
      0,
-     61.7,
+     61.8,
      [
       {
        "title": "LS Electric Begins Mass Production of Next-Generation ESS Power Conversion System",
@@ -42641,7 +42641,7 @@
      "new",
      1,
      0,
-     61.7,
+     61.8,
      [
       {
        "title": "Factorial, SK On sign pact to assess solid-state battery manufacturing",
@@ -42657,7 +42657,7 @@
      "new",
      1,
      0,
-     54.0,
+     54.1,
      [
       {
        "title": "Want a home battery on a budget? Consider a portable, DIY system.",
@@ -42673,7 +42673,7 @@
      "new",
      1,
      0,
-     54.0,
+     54.1,
      [
       {
        "title": "Scalable, Grid-Ready Storage: How Connector Design Is Shaping the Next Generation of Energy Systems",
@@ -43180,7 +43180,7 @@
      "new",
      5,
      0,
-     443.1,
+     443.8,
      [
       {
        "title": "Transgaz-Argent LNG MOU advances US gas route to Central and Eastern Europe",
@@ -43208,7 +43208,7 @@
      "new",
      1,
      0,
-     132.9,
+     133.1,
      [
       {
        "title": "Transgaz-Argent LNG MOU advances US gas route to Central and Eastern Europe",
@@ -43236,7 +43236,7 @@
      "new",
      1,
      0,
-     106.3,
+     106.5,
      [
       {
        "title": "Carbon capture-enabled 19.2-mtpa Texas Gulf Coast LNG project enters permitting phase",
@@ -43252,7 +43252,7 @@
      "new",
      1,
      0,
-     106.3,
+     106.5,
      [
       {
        "title": "ExxonMobil books McDermott for Mozambique's multibillion-dollar LNG project",
@@ -43274,7 +43274,7 @@
      "new",
      1,
      0,
-     76.0,
+     76.1,
      [
       {
        "title": "ExxonMobil books McDermott for Mozambique's multibillion-dollar LNG project",
@@ -43296,7 +43296,7 @@
      "new",
      1,
      0,
-     76.0,
+     76.1,
      [
       {
        "title": "Exmar enriching LNG bunkering market with floating transshipment unit",
@@ -43845,7 +43845,7 @@
      "new",
      1,
      0,
-     172.8,
+     173.1,
      [
       {
        "title": "Iran and Oman Near Landmark Deal to Manage Strait of Hormuz",
@@ -43861,7 +43861,7 @@
      "new",
      1,
      0,
-     172.8,
+     173.1,
      [
       {
        "title": "RBI keeps repo rate unchanged at 5.25%, retains neutral stance",
@@ -43877,7 +43877,7 @@
      "new",
      1,
      0,
-     172.8,
+     173.1,
      [
       {
        "title": "Middle East War Triggers New Global Refining Boom",
@@ -43899,7 +43899,7 @@
      "new",
      1,
      0,
-     172.8,
+     173.1,
      [
       {
        "title": "RBI lowers FY27 inflation forecast to 5% despite food, fuel price pressures",
@@ -43927,7 +43927,7 @@
      "new",
      1,
      0,
-     138.2,
+     138.5,
      [
       {
        "title": "UAE's exit from OPEC+ reduced the group's share of crude oil production and capacity",
@@ -43943,7 +43943,7 @@
      "new",
      1,
      0,
-     138.2,
+     138.5,
      [
       {
        "title": "RBI keeps repo rate unchanged at 5.25%, retains neutral stance",
@@ -44508,7 +44508,7 @@
      "new",
      2,
      0,
-     184.3,
+     184.6,
      [
       {
        "title": "China Added More Nuclear Power In A Decade Than The Rest Of The World Combined",
@@ -44530,7 +44530,7 @@
      "new",
      2,
      0,
-     184.3,
+     184.6,
      [
       {
        "title": "Gas Shortages and High Prices Derail Southeast Asia's Power Buildout",
@@ -44558,7 +44558,7 @@
      "new",
      1,
      0,
-     115.2,
+     115.4,
      [
       {
        "title": "Renewable energy developers seek \u20b93,000 crore relief amid transmission bottlenecks",
@@ -44574,7 +44574,7 @@
      "new",
      1,
      0,
-     115.2,
+     115.4,
      [
       {
        "title": "India's solar power generation jumps 138% in four years: MNRE",
@@ -44596,7 +44596,7 @@
      "new",
      1,
      0,
-     92.2,
+     92.3,
      [
       {
        "title": "China Added More Nuclear Power In A Decade Than The Rest Of The World Combined",
@@ -44612,7 +44612,7 @@
      "new",
      1,
      0,
-     92.2,
+     92.3,
      [
       {
        "title": "HanWool Semiconductor Unveils AI-Powered Ultrasound Inspection System for MLCC Defects",
@@ -45215,7 +45215,7 @@
      "new",
      1,
      0,
-     115.2,
+     115.4,
      [
       {
        "title": "V2G could deliver 15 times more value than one-way managed EV charging: report",
@@ -45231,7 +45231,7 @@
      "new",
      1,
      0,
-     115.2,
+     115.4,
      [
       {
        "title": "Solar-powered EV carshare pilot launches in Massachusetts",
@@ -45247,7 +45247,7 @@
      "new",
      1,
      0,
-     115.2,
+     115.4,
      [
       {
        "title": "Hybrid sales rise while battery electric sales remain lower after tax credit expiration",
@@ -45269,7 +45269,7 @@
      "new",
      1,
      0,
-     92.2,
+     92.3,
      [
       {
        "title": "China's Car Market Stalls Even as Global Demand Keeps Growing",
@@ -45285,7 +45285,7 @@
      "new",
      1,
      0,
-     92.2,
+     92.3,
      [
       {
        "title": "Commentary: Why playing it safe could cost Taiwan the next battery boom",
@@ -45307,7 +45307,7 @@
      "new",
      1,
      0,
-     92.2,
+     92.3,
      [
       {
        "title": "Shriram Finance to borrow Rs 20,000 Cr in Q2 FY27 as AAA rating lowers funding costs by 50-60 bps",
@@ -45868,7 +45868,7 @@
      "new",
      3,
      0,
-     246.9,
+     247.2,
      [
       {
        "title": "Pacific Halibut Fisheries of the West Coast; Inseason Action for the 2026 Area 2A Pacific Halibut Directed Commercial Fishery",
@@ -45896,7 +45896,7 @@
      "new",
      3,
      0,
-     246.9,
+     247.2,
      [
       {
        "title": "Hormuz Bottleneck Pushes Indian Refiners Toward West African Grades",
@@ -45924,7 +45924,7 @@
      "new",
      3,
      0,
-     246.9,
+     247.2,
      [
       {
        "title": "Oil Prices Jump as Houthi Attacks Raise Saudi Supply Risks",
@@ -45952,7 +45952,7 @@
      "new",
      3,
      0,
-     197.5,
+     197.8,
      [
       {
        "title": "Most VLCC loadings directed northbound in Red Sea: DHT Holdings",
@@ -45980,7 +45980,7 @@
      "new",
      2,
      0,
-     164.6,
+     164.8,
      [
       {
        "title": "Iran weighs ban on US and Israeli ships in Hormuz",
@@ -46008,7 +46008,7 @@
      "new",
      2,
      0,
-     109.7,
+     109.9,
      [
       {
        "title": "Russia's Arctic sprint and the limits of acceleration",
@@ -46585,7 +46585,7 @@
      "new",
      2,
      0,
-     74.7,
+     74.8,
      [
       {
        "title": "LS Power Acquiring 606-MW Texas Gas-Fired Plant From Constellation",
@@ -46613,7 +46613,7 @@
      "new",
      2,
      0,
-     62.3,
+     62.4,
      [
       {
        "title": "Q&A: Germany prepares long-term strategy for carbon removals",
@@ -46635,7 +46635,7 @@
      "new",
      2,
      0,
-     62.3,
+     62.4,
      [
       {
        "title": "Water levels to be increased in Zaporizhzhia's used fuel pools",
@@ -46657,7 +46657,7 @@
      "new",
      1,
      0,
-     46.7,
+     46.8,
      [
       {
        "title": "How to bring a geothermal well back from the dead",
@@ -46673,7 +46673,7 @@
      "new",
      1,
      0,
-     46.7,
+     46.8,
      [
       {
        "title": "Europe's Electricity Prices Spike to \u20ac500 a Megawatt-Hour as Drought Bites",
@@ -46689,7 +46689,7 @@
      "steady",
      1,
      1,
-     46.7,
+     46.8,
      [
       {
        "title": "China Added More Nuclear Power In A Decade Than The Rest Of The World Combined",
@@ -47256,7 +47256,7 @@
      "new",
      2,
      0,
-     86.4,
+     86.5,
      [
       {
        "title": "DOE Approves Safety Design of Deep Fission's Underground SMR",
@@ -47284,7 +47284,7 @@
      "new",
      2,
      0,
-     69.1,
+     69.2,
      [
       {
        "title": "Water levels to be increased in Zaporizhzhia's used fuel pools",
@@ -47306,7 +47306,7 @@
      "new",
      2,
      0,
-     69.1,
+     69.2,
      [
       {
        "title": "Curio, NuScale, Framatome Join to Support Fuel Solution for Advanced Reactors",
@@ -47334,7 +47334,7 @@
      "new",
      2,
      0,
-     57.6,
+     57.7,
      [
       {
        "title": "Water levels to be increased in Zaporizhzhia's used fuel pools",
@@ -47356,7 +47356,7 @@
      "new",
      1,
      0,
-     43.2,
+     43.3,
      [
       {
        "title": "Europe's Electricity Prices Spike to \u20ac500 a Megawatt-Hour as Drought Bites",
@@ -47372,7 +47372,7 @@
      "steady",
      1,
      1,
-     43.2,
+     43.3,
      [
       {
        "title": "China Added More Nuclear Power In A Decade Than The Rest Of The World Combined",
@@ -47921,7 +47921,7 @@
      "new",
      2,
      0,
-     93.4,
+     93.6,
      [
       {
        "title": "China's Crude Imports Bounce Back After Historic June Slump",
@@ -47949,7 +47949,7 @@
      "new",
      2,
      0,
-     93.4,
+     93.6,
      [
       {
        "title": "China's Top Refiner Pivots to Russian Crude",
@@ -47977,7 +47977,7 @@
      "new",
      2,
      0,
-     93.4,
+     93.6,
      [
       {
        "title": "Middle East War Triggers New Global Refining Boom",
@@ -47999,7 +47999,7 @@
      "new",
      2,
      0,
-     74.7,
+     74.8,
      [
       {
        "title": "China's Top Refiner Pivots to Russian Crude",
@@ -48027,7 +48027,7 @@
      "new",
      2,
      0,
-     62.3,
+     62.4,
      [
       {
        "title": "How the UAE Has Kept Its Oil Flowing Through Hormuz",
@@ -48055,7 +48055,7 @@
      "new",
      2,
      0,
-     53.4,
+     53.5,
      [
       {
        "title": "Aramco Deepens Asia Oil Discount Ahead of Possible Hormuz Deal",

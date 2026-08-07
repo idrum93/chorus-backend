@@ -1,6 +1,6 @@
 # Crosstalk — week ending 7 August 2026
 
-*6,988 articles over 101 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*6,999 articles over 101 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
@@ -13,8 +13,8 @@
   - [Enva's new HIPS compound targets automotive manufacturers](https://www.automotiveworld.com/news/envas-new-hips-compound-targets-automotive-manufacturers/) · Automotive World · autos
 
 **data center** — now in 7 sectors. **Supply chain** picked it up 7d ago; it was first seen in real estate coverage on 11 May 2026.
+  - [Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline](https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/) · Utility Dive · utilities
   - [Energy Affordability Trumps Climate in US Midterm Races](https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html) · OilPrice · energy
-  - [NTT Data reports half a billion dollars of data center investment in Q1 financial results](https://www.datacenterdynamics.com/en/news/ntt-data-reports-half-a-billion-dollars-of-data-center-investment-in-q1-financial-results/) · Data Center Dynamics · technology
 
 **critical mineral** — now in 3 sectors. **Energy** picked it up 3d ago; it was first seen in materials coverage on 12 May 2026.
   - [Op-ed: The battle for critical minerals is won at the port, not the mine](https://www.mining.com/op-ed-the-battle-for-critical-minerals-is-won-at-the-port-not-the-mine/) · Mining.com · materials
@@ -31,7 +31,7 @@
 | artificial intelligence | 7 | 71 | 17.8× |
 | supply chain | 7 | 76 | 7.6× |
 | critical mineral | 3 | 63 | 5.7× |
-| data center | 7 | 171 | 5.0× |
+| data center | 7 | 172 | 5.1× |
 | rare earth | 2 | 64 | 4.9× |
 | fossil fuel | 2 | 9 | 3.0× |
 | power plant | 2 | 21 | 3.0× |
