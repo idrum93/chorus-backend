@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-08T14:14:37.465178+00:00",
+ "generated": "2026-08-08T14:18:35.907100+00:00",
  "prices": {
   "Autos": [
    {
@@ -2248,7 +2248,7 @@
    },
    {
     "day": "2026-08-07",
-    "close": 43.6
+    "close": 43.61
    }
   ],
   "Healthcare": [
@@ -9881,11 +9881,11 @@
     ],
     [
      "data center revenue",
-     1.0,
+     0.83,
      "new",
-     6,
+     5,
      0,
-     61.3,
+     51.1,
      [
       {
        "title": "AMD Sees Data Center Revenue More Than Doubling Next Year as AI Demand Surges",
@@ -9909,45 +9909,17 @@
     ],
     [
      "high performance computing",
-     0.67,
+     0.5,
      "new",
-     4,
+     3,
      0,
-     51.1,
+     38.3,
      [
       {
        "title": "Manz opens Tainan R&D center for advanced packaging equipment",
        "url": "https://www.digitimes.com/news/a20260805PD205/manz-equipment-packaging-tainan-science-park-southern-taiwan-science-park.html",
        "publisher": "DigiTimes Asia",
        "sector": "Technology"
-      },
-      {
-       "title": "Energy Vault Breaks Ground on AI Campus in Texas for Crusoe Spark Modular Data Centers",
-       "url": "https://www.powermag.com/energy-vault-breaks-ground-on-ai-campus-in-texas-for-crusoe-spark-modular-data-centers/",
-       "publisher": "POWER Magazine",
-       "sector": "Energy"
-      }
-     ]
-    ],
-    [
-     "power grid",
-     0.67,
-     "new",
-     4,
-     0,
-     40.8,
-     [
-      {
-       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
-       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      },
-      {
-       "title": "AI's Obstacle: Why the Grid Can't Keep Pace With the Data Center Boom",
-       "url": "https://www.powermag.com/ais-obstacle-why-the-grid-cant-keep-pace-with-the-data-center-boom/",
-       "publisher": "POWER Magazine",
-       "sector": "Utilities"
       },
       {
        "title": "Energy Vault Breaks Ground on AI Campus in Texas for Crusoe Spark Modular Data Centers",
@@ -10623,36 +10595,7 @@
      }
     ]
    },
-   "cooc": [
-    [
-     "oil price",
-     1.0,
-     "new",
-     4,
-     0,
-     35.5,
-     [
-      {
-       "title": "Citi Lifts Brent Outlook but Still Sees Oil Falling in 2027",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Citi-Lifts-Brent-Outlook-but-Still-Sees-Oil-Falling-in-2027.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      },
-      {
-       "title": "Oil Prices Jump as Houthi Attacks Raise Saudi Supply Risks",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Jump-as-Houthi-Attacks-Raise-Saudi-Supply-Risks.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      },
-      {
-       "title": "Weak Energy Demand May Signal a Much Bigger Economic Problem",
-       "url": "https://oilprice.com/Energy/Energy-General/Weak-Energy-Demand-May-Signal-a-Much-Bigger-Economic-Problem.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      }
-     ]
-    ]
-   ],
+   "cooc": [],
    "examples": [
     {
      "publisher": "Energy Live News",
@@ -12776,30 +12719,7 @@
      }
     ]
    },
-   "cooc": [
-    [
-     "reserve bank",
-     1.0,
-     "new",
-     4,
-     0,
-     266.2,
-     [
-      {
-       "title": "FMCG price hikes could rewrite India's inflation story",
-       "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/fmcg-price-hikes-could-rewrite-indias-inflation-story-report/132985787",
-       "publisher": "ET Retail",
-       "sector": "Consumer"
-      },
-      {
-       "title": "FCNR(B) deposits nearly double to USD 60.5 bn after RBI relaxation; HSBC, SBI, ICICI lead inflows",
-       "url": "https://bfsi.economictimes.indiatimes.com/articles/fcnrb-deposits-nearly-double-to-usd-60-5-bn-after-rbi-relaxation-hsbc-sbi-icici-lead-inflows/132840610",
-       "publisher": "ET BFSI",
-       "sector": "Finance"
-      }
-     ]
-    ]
-   ],
+   "cooc": [],
    "examples": [
     {
      "publisher": "ET Auto",
@@ -14885,9 +14805,9 @@
      "lng export",
      1.0,
      "new",
-     10,
+     9,
      0,
-     477.8,
+     430.0,
      [
       {
        "title": "Transgaz-Argent LNG MOU advances US gas route to Central and Eastern Europe",
@@ -15455,36 +15375,8 @@
    },
    "cooc": [
     [
-     "defense production act",
-     1.0,
-     "new",
-     10,
-     0,
-     116.5,
-     [
-      {
-       "title": "DPAS Directive Allocation Order and Additional Requirements for Recoverable Critical Minerals and Materials",
-       "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16078/dpas-directive-allocation-order-and-additional-requirements-for-recoverable-critical-minerals-and",
-       "publisher": "Federal Register",
-       "sector": "Policy"
-      },
-      {
-       "title": "U.S. Moves to Keep Tungsten Scrap and Battery Metals at Home",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Moves-to-Keep-Tungsten-Scrap-and-Battery-Metals-at-Home.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      },
-      {
-       "title": "Trump signs memorandum on recoverable critical minerals and materials",
-       "url": "https://www.recyclingtoday.com/trump-signs-memo-on-recoverable-critical-minerals-and-materials",
-       "publisher": "Recycling Today",
-       "sector": "Materials"
-      }
-     ]
-    ],
-    [
      "minerals sector",
-     0.2,
+     0.22,
      "steady",
      2,
      2,
@@ -15511,18 +15403,18 @@
      ]
     ],
     [
-     "domestic supply",
-     0.4,
+     "defense production act",
+     1.0,
      "new",
-     4,
+     9,
      0,
-     77.6,
+     104.8,
      [
       {
-       "title": "UK opens applications for $34M critical minerals fund",
-       "url": "https://www.mining.com/uk-opens-applications-for-34m-critical-minerals-fund/",
-       "publisher": "Mining.com",
-       "sector": "Materials"
+       "title": "DPAS Directive Allocation Order and Additional Requirements for Recoverable Critical Minerals and Materials",
+       "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16078/dpas-directive-allocation-order-and-additional-requirements-for-recoverable-critical-minerals-and",
+       "publisher": "Federal Register",
+       "sector": "Policy"
       },
       {
        "title": "U.S. Moves to Keep Tungsten Scrap and Battery Metals at Home",
@@ -15531,20 +15423,20 @@
        "sector": "Energy"
       },
       {
-       "title": "Hades licence win puts Germany on rare earth map",
-       "url": "https://www.mining.com/hades-licence-win-puts-germany-on-rare-earth-map/",
-       "publisher": "Mining.com",
+       "title": "Trump signs memorandum on recoverable critical minerals and materials",
+       "url": "https://www.recyclingtoday.com/trump-signs-memo-on-recoverable-critical-minerals-and-materials",
+       "publisher": "Recycling Today",
        "sector": "Materials"
       }
      ]
     ],
     [
-     "temporary final rule",
-     0.4,
+     "black mass",
+     0.33,
      "new",
-     4,
+     3,
      0,
-     58.2,
+     43.7,
      [
       {
        "title": "DPAS Directive Allocation Order and Additional Requirements for Recoverable Critical Minerals and Materials",
@@ -15561,23 +15453,17 @@
      ]
     ],
     [
-     "rare earth",
-     0.2,
+     "supply risk",
+     0.11,
      "falling",
-     2,
-     4,
-     1.8,
+     1,
+     6,
+     29.1,
      [
       {
-       "title": "Malaysia weighs loosening rare earth export limits as global supply chase intensifies",
-       "url": "https://www.digitimes.com/news/a20260807PD218/malaysia-rare-earth-exports-demand.html",
-       "publisher": "DigiTimes Asia",
-       "sector": "Technology"
-      },
-      {
-       "title": "Hades licence win puts Germany on rare earth map",
-       "url": "https://www.mining.com/hades-licence-win-puts-germany-on-rare-earth-map/",
-       "publisher": "Mining.com",
+       "title": "Critical Mineral Supply Risk to $6 . 5 Trillion Industry : IEA",
+       "url": "https://www.newkerala.com/news/a/global-critical-mineral-concentration-export-controls-puts-usd-697.htm",
+       "publisher": "newkerala.com",
        "sector": "Materials"
       }
      ]
