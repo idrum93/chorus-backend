@@ -1,6 +1,6 @@
 # Crosstalk — week ending 8 August 2026
 
-*7,191 articles over 103 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*7,194 articles over 103 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 

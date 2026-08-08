@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-08T06:01:17.368474+00:00",
+ "generated": "2026-08-08T06:13:49.272711+00:00",
  "prices": {
   "Autos": [
    {
@@ -2763,7 +2763,7 @@
   ],
   [
    "IN",
-   232
+   234
   ],
   [
    "TW",
@@ -2787,7 +2787,7 @@
   ],
   [
    "GR",
-   65
+   66
   ],
   [
    "AU",
@@ -3208,22 +3208,22 @@
   {
    "articles_list": [
     {
+     "title": "New Providence Gas selects ECOnnect's marine transfer solution for Bahamas LNG project",
+     "url": "https://container-news.com/new-providence-gas-selects-econnects-marine-transfer-solution-for-bahamas-lng-project/",
+     "publisher": "Container News",
+     "sector": "Supply chain"
+    },
+    {
+     "title": "Reliance Industries books supertanker at record $23-25 million freight to lift Iraqi crude",
+     "url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/reliance-industries-books-supertanker-at-record-23-25-million-freight-to-lift-iraqi-crude/133045760",
+     "publisher": "ET Energyworld",
+     "sector": "Energy"
+    },
+    {
      "title": "Juniper Green Energy bags 230 MW project from SECI",
      "url": "https://manufacturing.economictimes.indiatimes.com/news/energy/juniper-green-energy-bags-230-mw-project-from-seci/133046604",
      "publisher": "ET Manufacturing",
      "sector": "Industrials"
-    },
-    {
-     "title": "DRDO expeditiously finalise clear, measurable key performance indicators: Parl panel on defence",
-     "url": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/drdo-expeditiously-finalise-clear-measurable-key-performance-indicators-parl-panel-on-defence/133046636",
-     "publisher": "ET Manufacturing",
-     "sector": "Industrials"
-    },
-    {
-     "title": "Instant home services firms Urban Company, Snabbit slash prices, cut waiting times as competition intensifies",
-     "url": "https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/instant-home-services-firms-urban-company-snabbit-slash-prices-cut-waiting-times-as-competition-intensifies/133045527",
-     "publisher": "ET Retail",
-     "sector": "Consumer"
     }
    ],
    "name": "European Commission",
@@ -3838,6 +3838,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "Container News",
+       "title": "New Providence Gas selects ECOnnect's marine transfer solution for Bahamas LNG project",
+       "url": "https://container-news.com/new-providence-gas-selects-econnects-marine-transfer-solution-for-bahamas-lng-project/",
+       "sector": "Supply chain",
+       "country": "GR"
+      },
+      {
        "publisher": "Offshore Energy",
        "title": "$30 billion LNG project nears FID: Saipem confirms preliminary award shortly after McDermott",
        "url": "https://www.offshore-energy.biz/30-billion-lng-project-nears-fid-saipem-confirms-preliminary-award-shortly-after-mcdermott/",
@@ -3850,13 +3857,6 @@
        "url": "https://www.electrive.com/2026/08/06/saic-and-gm-extend-chinese-joint-venture-to-2047/",
        "sector": "Autos",
        "country": "DE"
-      },
-      {
-       "publisher": "Commercial Observer",
-       "title": "Madison Realty Capital Provides $100M Loan for RXR Multifamily Asset",
-       "url": "https://commercialobserver.com/2026/08/madson-realty-capital-provides-100m-loan-rxr-ave-station-house/",
-       "sector": "Real estate",
-       "country": "US"
       }
      ]
     },
@@ -3977,12 +3977,12 @@
   },
   {
    "prior14d": 3,
-   "direction": "steady",
+   "direction": "rising",
    "ticker": "RELIANCE.NS",
    "name": "Reliance Industries",
    "sector": "Energy",
-   "articles": 11,
-   "articles14d": 4,
+   "articles": 12,
+   "articles14d": 5,
    "terms": [
     {
      "term": "iran war",
@@ -4101,6 +4101,35 @@
      ]
     },
     {
+     "term": "crude oil",
+     "articles": 1,
+     "sectors": 2,
+     "direction": "new",
+     "examples": [
+      {
+       "publisher": "ET Energyworld",
+       "title": "Reliance Industries books supertanker at record $23-25 million freight to lift Iraqi crude",
+       "url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/reliance-industries-books-supertanker-at-record-23-25-million-freight-to-lift-iraqi-crude/133045760",
+       "sector": "Energy",
+       "country": "IN"
+      },
+      {
+       "publisher": "OilPrice",
+       "title": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions",
+       "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Traders-Stay-Bearish-Despite-Deepening-Middle-East-Disruptions.html",
+       "sector": "Energy",
+       "country": "US"
+      },
+      {
+       "publisher": "OilPrice",
+       "title": "Citi Lifts Brent Outlook but Still Sees Oil Falling in 2027",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Citi-Lifts-Brent-Outlook-but-Still-Sees-Oil-Falling-in-2027.html",
+       "sector": "Energy",
+       "country": "US"
+      }
+     ]
+    },
+    {
      "term": "battery storage",
      "articles": 1,
      "sectors": 2,
@@ -4161,6 +4190,12 @@
    ],
    "examples": [
     {
+     "publisher": "ET Energyworld",
+     "title": "Reliance Industries books supertanker at record $23-25 million freight to lift Iraqi crude",
+     "url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/reliance-industries-books-supertanker-at-record-23-25-million-freight-to-lift-iraqi-crude/133045760",
+     "sector": "Energy"
+    },
+    {
      "publisher": "ET HRWorld",
      "title": "Novartis India appoints Rahul Vijayvargiya as CHRO",
      "url": "https://hr.economictimes.indiatimes.com/news/industry/novartis-india-appoints-rahul-vijayvargiya-as-chro/133010641",
@@ -4177,12 +4212,6 @@
      "title": "Reliance Brands partners with SKIMS to bring shapewear brand to India",
      "url": "https://retail.economictimes.indiatimes.com/news/apparel-fashion/reliance-brands-partners-skims-to-bring-shapewear-brand-to-india-first-stores-in-delhi-mumbai/132918619",
      "sector": "Consumer"
-    },
-    {
-     "publisher": "ET Energyworld",
-     "title": "Saudi oil tanker heads to India as Red Sea, Hormuz traffic slows amid attacks",
-     "url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/saudi-oil-tankers-navigate-conflict-zones-as-houthi-attacks-disrupt-shipping-traffic/132819657",
-     "sector": "Energy"
     }
    ]
   },
@@ -4500,6 +4529,13 @@
      "direction": "new",
      "examples": [
       {
+       "publisher": "ET Energyworld",
+       "title": "Reliance Industries books supertanker at record $23-25 million freight to lift Iraqi crude",
+       "url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/reliance-industries-books-supertanker-at-record-23-25-million-freight-to-lift-iraqi-crude/133045760",
+       "sector": "Energy",
+       "country": "IN"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions",
        "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Traders-Stay-Bearish-Despite-Deepening-Middle-East-Disruptions.html",
@@ -4510,13 +4546,6 @@
        "publisher": "OilPrice",
        "title": "Citi Lifts Brent Outlook but Still Sees Oil Falling in 2027",
        "url": "https://oilprice.com/Latest-Energy-News/World-News/Citi-Lifts-Brent-Outlook-but-Still-Sees-Oil-Falling-in-2027.html",
-       "sector": "Energy",
-       "country": "US"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "ADNOC Reports 15 Vessel Attacks as Hormuz Risks Mount",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Reports-15-Vessel-Attacks-as-Hormuz-Risks-Mount.html",
        "sector": "Energy",
        "country": "US"
       }
@@ -5054,6 +5083,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "Container News",
+       "title": "New Providence Gas selects ECOnnect's marine transfer solution for Bahamas LNG project",
+       "url": "https://container-news.com/new-providence-gas-selects-econnects-marine-transfer-solution-for-bahamas-lng-project/",
+       "sector": "Supply chain",
+       "country": "GR"
+      },
+      {
        "publisher": "Offshore Energy",
        "title": "$30 billion LNG project nears FID: Saipem confirms preliminary award shortly after McDermott",
        "url": "https://www.offshore-energy.biz/30-billion-lng-project-nears-fid-saipem-confirms-preliminary-award-shortly-after-mcdermott/",
@@ -5066,13 +5102,6 @@
        "url": "https://www.electrive.com/2026/08/06/saic-and-gm-extend-chinese-joint-venture-to-2047/",
        "sector": "Autos",
        "country": "DE"
-      },
-      {
-       "publisher": "Commercial Observer",
-       "title": "Madison Realty Capital Provides $100M Loan for RXR Multifamily Asset",
-       "url": "https://commercialobserver.com/2026/08/madson-realty-capital-provides-100m-loan-rxr-ave-station-house/",
-       "sector": "Real estate",
-       "country": "US"
       }
      ]
     },
@@ -5207,6 +5236,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "Container News",
+       "title": "New Providence Gas selects ECOnnect's marine transfer solution for Bahamas LNG project",
+       "url": "https://container-news.com/new-providence-gas-selects-econnects-marine-transfer-solution-for-bahamas-lng-project/",
+       "sector": "Supply chain",
+       "country": "GR"
+      },
+      {
        "publisher": "Offshore Energy",
        "title": "$30 billion LNG project nears FID: Saipem confirms preliminary award shortly after McDermott",
        "url": "https://www.offshore-energy.biz/30-billion-lng-project-nears-fid-saipem-confirms-preliminary-award-shortly-after-mcdermott/",
@@ -5219,13 +5255,6 @@
        "url": "https://www.electrive.com/2026/08/06/saic-and-gm-extend-chinese-joint-venture-to-2047/",
        "sector": "Autos",
        "country": "DE"
-      },
-      {
-       "publisher": "Commercial Observer",
-       "title": "Madison Realty Capital Provides $100M Loan for RXR Multifamily Asset",
-       "url": "https://commercialobserver.com/2026/08/madson-realty-capital-provides-100m-loan-rxr-ave-station-house/",
-       "sector": "Real estate",
-       "country": "US"
       }
      ]
     },
@@ -5447,6 +5476,13 @@
      "direction": "new",
      "examples": [
       {
+       "publisher": "ET Energyworld",
+       "title": "Reliance Industries books supertanker at record $23-25 million freight to lift Iraqi crude",
+       "url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/reliance-industries-books-supertanker-at-record-23-25-million-freight-to-lift-iraqi-crude/133045760",
+       "sector": "Energy",
+       "country": "IN"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions",
        "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Traders-Stay-Bearish-Despite-Deepening-Middle-East-Disruptions.html",
@@ -5457,13 +5493,6 @@
        "publisher": "OilPrice",
        "title": "Citi Lifts Brent Outlook but Still Sees Oil Falling in 2027",
        "url": "https://oilprice.com/Latest-Energy-News/World-News/Citi-Lifts-Brent-Outlook-but-Still-Sees-Oil-Falling-in-2027.html",
-       "sector": "Energy",
-       "country": "US"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "ADNOC Reports 15 Vessel Attacks as Hormuz Risks Mount",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Reports-15-Vessel-Attacks-as-Hormuz-Risks-Mount.html",
        "sector": "Energy",
        "country": "US"
       }
@@ -5885,6 +5914,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "Container News",
+       "title": "New Providence Gas selects ECOnnect's marine transfer solution for Bahamas LNG project",
+       "url": "https://container-news.com/new-providence-gas-selects-econnects-marine-transfer-solution-for-bahamas-lng-project/",
+       "sector": "Supply chain",
+       "country": "GR"
+      },
+      {
        "publisher": "Offshore Energy",
        "title": "$30 billion LNG project nears FID: Saipem confirms preliminary award shortly after McDermott",
        "url": "https://www.offshore-energy.biz/30-billion-lng-project-nears-fid-saipem-confirms-preliminary-award-shortly-after-mcdermott/",
@@ -5897,13 +5933,6 @@
        "url": "https://www.electrive.com/2026/08/06/saic-and-gm-extend-chinese-joint-venture-to-2047/",
        "sector": "Autos",
        "country": "DE"
-      },
-      {
-       "publisher": "Commercial Observer",
-       "title": "Madison Realty Capital Provides $100M Loan for RXR Multifamily Asset",
-       "url": "https://commercialobserver.com/2026/08/madson-realty-capital-provides-100m-loan-rxr-ave-station-house/",
-       "sector": "Real estate",
-       "country": "US"
       }
      ]
     },
@@ -6360,6 +6389,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "Container News",
+       "title": "New Providence Gas selects ECOnnect's marine transfer solution for Bahamas LNG project",
+       "url": "https://container-news.com/new-providence-gas-selects-econnects-marine-transfer-solution-for-bahamas-lng-project/",
+       "sector": "Supply chain",
+       "country": "GR"
+      },
+      {
        "publisher": "Offshore Energy",
        "title": "$30 billion LNG project nears FID: Saipem confirms preliminary award shortly after McDermott",
        "url": "https://www.offshore-energy.biz/30-billion-lng-project-nears-fid-saipem-confirms-preliminary-award-shortly-after-mcdermott/",
@@ -6372,13 +6408,6 @@
        "url": "https://www.electrive.com/2026/08/06/saic-and-gm-extend-chinese-joint-venture-to-2047/",
        "sector": "Autos",
        "country": "DE"
-      },
-      {
-       "publisher": "Commercial Observer",
-       "title": "Madison Realty Capital Provides $100M Loan for RXR Multifamily Asset",
-       "url": "https://commercialobserver.com/2026/08/madson-realty-capital-provides-100m-loan-rxr-ave-station-house/",
-       "sector": "Real estate",
-       "country": "US"
       }
      ]
     },
@@ -6455,6 +6484,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "Container News",
+       "title": "New Providence Gas selects ECOnnect's marine transfer solution for Bahamas LNG project",
+       "url": "https://container-news.com/new-providence-gas-selects-econnects-marine-transfer-solution-for-bahamas-lng-project/",
+       "sector": "Supply chain",
+       "country": "GR"
+      },
+      {
        "publisher": "Offshore Energy",
        "title": "$30 billion LNG project nears FID: Saipem confirms preliminary award shortly after McDermott",
        "url": "https://www.offshore-energy.biz/30-billion-lng-project-nears-fid-saipem-confirms-preliminary-award-shortly-after-mcdermott/",
@@ -6467,13 +6503,6 @@
        "url": "https://www.electrive.com/2026/08/06/saic-and-gm-extend-chinese-joint-venture-to-2047/",
        "sector": "Autos",
        "country": "DE"
-      },
-      {
-       "publisher": "Commercial Observer",
-       "title": "Madison Realty Capital Provides $100M Loan for RXR Multifamily Asset",
-       "url": "https://commercialobserver.com/2026/08/madson-realty-capital-provides-100m-loan-rxr-ave-station-house/",
-       "sector": "Real estate",
-       "country": "US"
       }
      ]
     },
@@ -6579,6 +6608,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "Container News",
+       "title": "New Providence Gas selects ECOnnect's marine transfer solution for Bahamas LNG project",
+       "url": "https://container-news.com/new-providence-gas-selects-econnects-marine-transfer-solution-for-bahamas-lng-project/",
+       "sector": "Supply chain",
+       "country": "GR"
+      },
+      {
        "publisher": "Offshore Energy",
        "title": "$30 billion LNG project nears FID: Saipem confirms preliminary award shortly after McDermott",
        "url": "https://www.offshore-energy.biz/30-billion-lng-project-nears-fid-saipem-confirms-preliminary-award-shortly-after-mcdermott/",
@@ -6591,13 +6627,6 @@
        "url": "https://www.electrive.com/2026/08/06/saic-and-gm-extend-chinese-joint-venture-to-2047/",
        "sector": "Autos",
        "country": "DE"
-      },
-      {
-       "publisher": "Commercial Observer",
-       "title": "Madison Realty Capital Provides $100M Loan for RXR Multifamily Asset",
-       "url": "https://commercialobserver.com/2026/08/madson-realty-capital-provides-100m-loan-rxr-ave-station-house/",
-       "sector": "Real estate",
-       "country": "US"
       }
      ]
     }
@@ -6740,6 +6769,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "Container News",
+       "title": "New Providence Gas selects ECOnnect's marine transfer solution for Bahamas LNG project",
+       "url": "https://container-news.com/new-providence-gas-selects-econnects-marine-transfer-solution-for-bahamas-lng-project/",
+       "sector": "Supply chain",
+       "country": "GR"
+      },
+      {
        "publisher": "Offshore Energy",
        "title": "$30 billion LNG project nears FID: Saipem confirms preliminary award shortly after McDermott",
        "url": "https://www.offshore-energy.biz/30-billion-lng-project-nears-fid-saipem-confirms-preliminary-award-shortly-after-mcdermott/",
@@ -6752,13 +6788,6 @@
        "url": "https://www.electrive.com/2026/08/06/saic-and-gm-extend-chinese-joint-venture-to-2047/",
        "sector": "Autos",
        "country": "DE"
-      },
-      {
-       "publisher": "Commercial Observer",
-       "title": "Madison Realty Capital Provides $100M Loan for RXR Multifamily Asset",
-       "url": "https://commercialobserver.com/2026/08/madson-realty-capital-provides-100m-loan-rxr-ave-station-house/",
-       "sector": "Real estate",
-       "country": "US"
       }
      ]
     },
@@ -7693,6 +7722,13 @@
      "direction": "new",
      "examples": [
       {
+       "publisher": "Container News",
+       "title": "New Providence Gas selects ECOnnect's marine transfer solution for Bahamas LNG project",
+       "url": "https://container-news.com/new-providence-gas-selects-econnects-marine-transfer-solution-for-bahamas-lng-project/",
+       "sector": "Supply chain",
+       "country": "GR"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Energy Affordability Trumps Climate in US Midterm Races",
        "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
@@ -7705,13 +7741,6 @@
        "url": "https://www.offshore-energy.biz/enbridge-adding-strategic-lng-infrastructure-to-us-gulf-coast-growth-pipeline/",
        "sector": "Energy",
        "country": "NL"
-      },
-      {
-       "publisher": "Manufacturers' Monthly",
-       "title": "DigiKey releases season two of sustainable futures video series",
-       "url": "https://www.manmonthly.com.au/digikey-releases-season-two-of-sustainable-futures-video-series/",
-       "sector": "Industrials",
-       "country": "AU"
       }
      ]
     }
@@ -26710,8 +26739,8 @@
   ]
  },
  "daysCollected": 103,
- "articlesStored": 7191,
- "articlesLive": 3417,
+ "articlesStored": 7194,
+ "articlesLive": 3420,
  "windowDays": 90,
  "terms": [
   {
@@ -27033,9 +27062,9 @@
      "genesis mission",
      1.0,
      "new",
-     3,
+     6,
      0,
-     65.1,
+     76.1,
      [
       {
        "title": "Texas A & M University joins the Genesis Mission to transform science using artificial intelligence Texas A & M Stories",
@@ -27061,9 +27090,9 @@
      "data center revenue",
      1.0,
      "new",
-     3,
+     6,
      0,
-     52.0,
+     60.9,
      [
       {
        "title": "AMD Sees Data Center Revenue More Than Doubling Next Year as AI Demand Surges",
@@ -27082,6 +27111,112 @@
        "url": "https://www.thelec.net/news/articleView.html?idxno=12833",
        "publisher": "The Elec",
        "sector": "Technology"
+      }
+     ]
+    ],
+    [
+     "high performance computing",
+     0.67,
+     "new",
+     4,
+     0,
+     50.7,
+     [
+      {
+       "title": "Manz opens Tainan R&D center for advanced packaging equipment",
+       "url": "https://www.digitimes.com/news/a20260805PD205/manz-equipment-packaging-tainan-science-park-southern-taiwan-science-park.html",
+       "publisher": "DigiTimes Asia",
+       "sector": "Technology"
+      },
+      {
+       "title": "Energy Vault Breaks Ground on AI Campus in Texas for Crusoe Spark Modular Data Centers",
+       "url": "https://www.powermag.com/energy-vault-breaks-ground-on-ai-campus-in-texas-for-crusoe-spark-modular-data-centers/",
+       "publisher": "POWER Magazine",
+       "sector": "Energy"
+      }
+     ]
+    ],
+    [
+     "power grid",
+     0.67,
+     "new",
+     4,
+     0,
+     40.6,
+     [
+      {
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      },
+      {
+       "title": "AI's Obstacle: Why the Grid Can't Keep Pace With the Data Center Boom",
+       "url": "https://www.powermag.com/ais-obstacle-why-the-grid-cant-keep-pace-with-the-data-center-boom/",
+       "publisher": "POWER Magazine",
+       "sector": "Utilities"
+      },
+      {
+       "title": "Energy Vault Breaks Ground on AI Campus in Texas for Crusoe Spark Modular Data Centers",
+       "url": "https://www.powermag.com/energy-vault-breaks-ground-on-ai-campus-in-texas-for-crusoe-spark-modular-data-centers/",
+       "publisher": "POWER Magazine",
+       "sector": "Energy"
+      }
+     ]
+    ],
+    [
+     "global energy",
+     0.67,
+     "new",
+     4,
+     0,
+     29.0,
+     [
+      {
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      },
+      {
+       "title": "The POWER Interview: NRG's Case for Bring Your Own Power and the Labor to Build It",
+       "url": "https://www.powermag.com/the-power-interview-nrgs-case-for-bring-your-own-power-and-the-labor-to-build-it/",
+       "publisher": "POWER Magazine",
+       "sector": "Utilities"
+      },
+      {
+       "title": "AI\u2019s Electricity Demand Is Not the Real Problem. Its Inflexibility Is",
+       "url": "https://oilprice.com/Energy/Energy-General/AIs-Electricity-Demand-Is-Not-the-Real-Problem-Its-Inflexibility-Is.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      }
+     ]
+    ],
+    [
+     "nuclear energy",
+     0.67,
+     "new",
+     4,
+     0,
+     9.7,
+     [
+      {
+       "title": "VC Money Floods Into U.S. Nuclear Startups as AI Power Demand Explodes",
+       "url": "https://oilprice.com/Energy/Energy-General/VC-Money-Floods-Into-US-Nuclear-Startups-as-AI-Power-Demand-Explodes.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      },
+      {
+       "title": "Microsoft's $60 Million Genesis Mission Commitment Puts Nuclear AI at the Center",
+       "url": "https://www.powermag.com/microsofts-60-million-genesis-mission-commitment-puts-nuclear-ai-at-the-center/",
+       "publisher": "POWER Magazine",
+       "sector": "Energy"
+      },
+      {
+       "title": "Prometheus project selected for federal support",
+       "url": "https://www.world-nuclear-news.org/articles/prometheus-project-selected-for-federal-support",
+       "publisher": "World Nuclear News",
+       "sector": "Energy"
       }
      ]
     ]
@@ -27478,8 +27613,8 @@
      "n": 1
     }
    ],
-   "specificity": 0.914,
-   "rank": 4.32
+   "specificity": 0.915,
+   "rank": 4.33
   },
   {
    "id": "supply-chain",
@@ -27815,16 +27950,88 @@
    },
    "cooc": [
     [
-     "critical component",
-     0.25,
-     "steady",
-     1,
-     1,
-     9.2,
+     "distribution center",
+     0.5,
+     "new",
+     4,
+     0,
+     63.3,
      [
       {
-       "title": "Analysis: Volkswagen-Gotion standoff highlights China's growing leverage in EV batteries",
-       "url": "https://www.digitimes.com/news/a20260805PD233/automotive-volkswagen-gotion-europe-manufacturing.html",
+       "title": "Amazon to add supply chain facilities in New York, Texas",
+       "url": "https://www.retaildive.com/news/amazon-adds-supply-chain-facilities-new-york-texas/826447/",
+       "publisher": "Retail Dive",
+       "sector": "Consumer"
+      },
+      {
+       "title": "Best Buy adds solar field to power California distribution center",
+       "url": "https://www.supplychaindive.com/news/best-buy-adds-solar-field-to-power-california-distribution-center/826609/",
+       "publisher": "Supply Chain Dive",
+       "sector": "Supply chain"
+      }
+     ]
+    ],
+    [
+     "apparel brand",
+     0.5,
+     "new",
+     4,
+     0,
+     47.5,
+     [
+      {
+       "title": "Gymshark names new chief supply chain officer",
+       "url": "https://www.supplychaindive.com/news/gymshark-names-new-chief-supply-chain-officer/826891/",
+       "publisher": "Supply Chain Dive",
+       "sector": "Supply chain"
+      },
+      {
+       "title": "Farm Rio targets digitized supply chain, improved traceability",
+       "url": "https://www.supplychaindive.com/news/farm-rio-targets-digitized-supply-chain-improved-traceability/826737/",
+       "publisher": "Supply Chain Dive",
+       "sector": "Supply chain"
+      }
+     ]
+    ],
+    [
+     "geopolitical tension",
+     0.5,
+     "new",
+     4,
+     0,
+     31.6,
+     [
+      {
+       "title": "Taiwan advances efforts to become global drone hub with non-China supply chain edge",
+       "url": "https://www.digitimes.com/news/a20260805PD234/taiwan-supply-chain-weather-communications-manufacturing.html",
+       "publisher": "DigiTimes Asia",
+       "sector": "Technology"
+      },
+      {
+       "title": "Energy Security During Uncertainty: Why Hydrogen Power Matters More Than Ever",
+       "url": "https://www.powermag.com/energy-security-during-uncertainty-why-hydrogen-power-matters-more-than-ever/",
+       "publisher": "POWER Magazine",
+       "sector": "Utilities"
+      }
+     ]
+    ],
+    [
+     "capacity expansion",
+     0.5,
+     "new",
+     4,
+     0,
+     27.1,
+     [
+      {
+       "title": "China's MLCC supply chain ramps up as AI boom drives global component shortage",
+       "url": "https://www.digitimes.com/news/a20260807VL206/china-mlcc-ceramic-capacitor-demand-supply-chain.html",
+       "publisher": "DigiTimes Asia",
+       "sector": "Technology"
+      },
+      {
+       "title": "Taiwan, US, and China OSAT strategies diverge as industry shifts toward capacity expansion, supply chain restructuring, and next-generation packaging",
+       "url": "https://www.digitimes.com/news/a20260731RS400/osat-capacity-expansion-packaging-supply-chain-taiwan-ase.html?chid=2",
        "publisher": "DigiTimes Asia",
        "sector": "Technology"
       }
@@ -27834,9 +28041,9 @@
      "national security",
      0.75,
      "new",
-     3,
+     6,
      0,
-     8.2,
+     23.7,
      [
       {
        "title": "China launches review of Palo Alto Networks as trade tensions with US escalate",
@@ -27859,34 +28066,12 @@
      ]
     ],
     [
-     "china dominance",
-     0.25,
-     "steady",
-     1,
-     1,
-     7.7,
-     [
-      {
-       "title": "China's copper smelting grip worries veteran metallurgist",
-       "url": "https://www.mining.com/chinas-copper-smelting-grip-worries-veteran-metallurgist/",
-       "publisher": "Mining.com",
-       "sector": "Materials"
-      },
-      {
-       "title": "How Geothermal and Nuclear Could Help the U.S. Catch China in the Energy Race",
-       "url": "https://oilprice.com/Energy/Energy-General/How-Geothermal-and-Nuclear-Could-Help-the-US-Catch-China-in-the-Energy-Race.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      }
-     ]
-    ],
-    [
      "clean energy",
      0.75,
-     "rising",
-     3,
-     1,
-     3.5,
+     "new",
+     6,
+     0,
+     13.6,
      [
       {
        "title": "Malaysia weighs loosening rare earth export limits as global supply chase intensifies",
@@ -28310,19 +28495,19 @@
    "direction": "rising",
    "display": true,
    "sectorCount": 4,
-   "effectiveSectors": 3.96,
+   "effectiveSectors": 3.91,
    "newestSector": "Materials",
    "daysSinceNewestSector": 9,
-   "articles14d": 17,
+   "articles14d": 18,
    "articlesPrior14d": 1,
-   "publishers": 14,
+   "publishers": 15,
    "sectors": [
     {
      "name": "Real estate",
      "firstSeen": "2026-06-16",
      "recent": 3,
      "articles": 4,
-     "share": 0.25,
+     "share": 0.231,
      "adopt": 36
     },
     {
@@ -28330,15 +28515,15 @@
      "firstSeen": "2026-07-17",
      "recent": 2,
      "articles": 3,
-     "share": 0.167,
+     "share": 0.154,
      "adopt": 67
     },
     {
      "name": "Autos",
      "firstSeen": "2026-07-28",
-     "recent": 4,
-     "articles": 4,
-     "share": 0.333,
+     "recent": 5,
+     "articles": 5,
+     "share": 0.385,
      "adopt": 78
     },
     {
@@ -28346,7 +28531,7 @@
      "firstSeen": "2026-07-30",
      "recent": 3,
      "articles": 3,
-     "share": 0.25,
+     "share": 0.231,
      "adopt": 80
     }
    ],
@@ -28363,6 +28548,10 @@
     [
      "NL",
      2
+    ],
+    [
+     "DE",
+     1
     ],
     [
      "IN",
@@ -28391,24 +28580,6 @@
     ],
     "bands": [
      {
-      "sector": "Real estate",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       3
-      ]
-     },
-     {
       "sector": "Autos",
       "n": [
        0,
@@ -28423,6 +28594,24 @@
        0,
        0,
        1,
+       4
+      ]
+     },
+     {
+      "sector": "Real estate",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
        3
       ]
      },
@@ -28539,6 +28728,13 @@
    "cooc": [],
    "examples": [
     {
+     "publisher": "Container News",
+     "title": "New Providence Gas selects ECOnnect's marine transfer solution for Bahamas LNG project",
+     "url": "https://container-news.com/new-providence-gas-selects-econnects-marine-transfer-solution-for-bahamas-lng-project/",
+     "sector": "Supply chain",
+     "country": "GR"
+    },
+    {
      "publisher": "Offshore Energy",
      "title": "$30 billion LNG project nears FID: Saipem confirms preliminary award shortly after McDermott",
      "url": "https://www.offshore-energy.biz/30-billion-lng-project-nears-fid-saipem-confirms-preliminary-award-shortly-after-mcdermott/",
@@ -28558,13 +28754,6 @@
      "url": "https://commercialobserver.com/2026/08/madson-realty-capital-provides-100m-loan-rxr-ave-station-house/",
      "sector": "Real estate",
      "country": "US"
-    },
-    {
-     "publisher": "Automotive World",
-     "title": "Joby nears FAA certification as manufacturing ramps up",
-     "url": "https://www.automotiveworld.com/news/joby-nears-faa-certification-as-manufacturing-ramps-up/",
-     "sector": "Autos",
-     "country": "GB"
     }
    ],
    "daily": [
@@ -28918,7 +29107,7 @@
     },
     {
      "day": "2026-08-06",
-     "n": 2
+     "n": 3
     },
     {
      "day": "2026-08-07",
@@ -28929,8 +29118,8 @@
      "n": 0
     }
    ],
-   "specificity": 0.98,
-   "rank": 3.91
+   "specificity": 0.979,
+   "rank": 3.86
   },
   {
    "id": "middle-east",
@@ -29148,12 +29337,34 @@
    },
    "cooc": [
     [
+     "fuel supply",
+     0.67,
+     "new",
+     4,
+     0,
+     127.7,
+     [
+      {
+       "title": "UK Drivers Take To Fuel Theft amid War-Driven Price Surge",
+       "url": "https://oilprice.com/Energy/Energy-General/UK-Drivers-Take-To-Fuel-Theft-amid-War-Driven-Price-Surge.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      },
+      {
+       "title": "Middle East War Triggers New Global Refining Boom",
+       "url": "https://oilprice.com/Energy/Energy-General/Middle-East-War-Triggers-New-Global-Refining-Boom.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      }
+     ]
+    ],
+    [
      "brent crude",
      0.33,
      "steady",
-     1,
-     1,
-     28.9,
+     2,
+     2,
+     51.1,
      [
       {
        "title": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions",
@@ -29173,9 +29384,9 @@
      "red sea",
      1.0,
      "new",
-     3,
+     6,
      0,
-     23.7,
+     38.3,
      [
       {
        "title": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions",
@@ -29192,6 +29403,34 @@
       {
        "title": "Saudi Arabia, Pakistan and Turkey to Sign Defense Deal",
        "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Pakistan-and-Turkey-to-Sign-Defense-Deal.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      }
+     ]
+    ],
+    [
+     "natural gas",
+     0.67,
+     "new",
+     4,
+     0,
+     11.6,
+     [
+      {
+       "title": "Hormuz Crisis Is Rewriting the Global LPG Trade",
+       "url": "https://oilprice.com/Energy/Natural-Gas/Hormuz-Crisis-Is-Rewriting-the-Global-LPG-Trade.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      },
+      {
+       "title": "India Expands Oil Storage Sites After Shock Supply Disruption",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Expands-Oil-Storage-Sites-After-Shock-Supply-Disruption.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      },
+      {
+       "title": "Suriname's $26 Billion Oil Bet Is Finally Paying Off",
+       "url": "https://oilprice.com/Energy/Energy-General/Surinames-26-Billion-Oil-Bet-Is-Finally-Paying-Off.html",
        "publisher": "OilPrice",
        "sector": "Energy"
       }
@@ -29837,24 +30076,30 @@
    },
    "cooc": [
     [
-     "global energy",
-     0.5,
-     "steady",
-     1,
-     1,
-     24.5,
+     "oil price",
+     1.0,
+     "new",
+     4,
+     0,
+     35.3,
      [
       {
-       "title": "Hormuz closure changing global energy policy",
-       "url": "https://www.energylivenews.com/2026/08/07/hormuz-closure-changing-global-energy-policy/",
-       "publisher": "Energy Live News",
-       "sector": "Utilities"
+       "title": "Citi Lifts Brent Outlook but Still Sees Oil Falling in 2027",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Citi-Lifts-Brent-Outlook-but-Still-Sees-Oil-Falling-in-2027.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
       },
       {
-       "title": "Global tension + rising costs = more pressure on UK SMEs",
-       "url": "https://theloadstar.com/global-tension-rising-costs-more-pressure-on-uk-smes/",
-       "publisher": "The Loadstar",
-       "sector": "Supply chain"
+       "title": "Oil Prices Jump as Houthi Attacks Raise Saudi Supply Risks",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Jump-as-Houthi-Attacks-Raise-Saudi-Supply-Risks.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      },
+      {
+       "title": "Weak Energy Demand May Signal a Much Bigger Economic Problem",
+       "url": "https://oilprice.com/Energy/Energy-General/Weak-Energy-Demand-May-Signal-a-Much-Bigger-Economic-Problem.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
       }
      ]
     ]
@@ -30428,10 +30673,10 @@
     [
      "home battery",
      0.33,
-     "rising",
-     2,
-     1,
-     53.9,
+     "new",
+     4,
+     0,
+     127.7,
      [
       {
        "title": "Base Power raises another US$1 billion in Series D financing for US residential BESS",
@@ -30454,34 +30699,12 @@
      ]
     ],
     [
-     "lithium ion",
-     0.17,
-     "steady",
-     1,
-     1,
-     35.9,
-     [
-      {
-       "title": "British firm bets on aluminium to break lithium battery dependence",
-       "url": "https://www.energylivenews.com/2026/08/07/british-firm-bets-on-aluminium-to-break-lithium-battery-dependence/",
-       "publisher": "Energy Live News",
-       "sector": "Utilities"
-      },
-      {
-       "title": "Largest BESS in Czech Republic commissioned, supplied by CATL-backed CNTE",
-       "url": "https://www.energy-storage.news/largest-bess-in-czech-republic-commissioned-supplied-by-catl-backed-cnte/",
-       "publisher": "Energy Storage News",
-       "sector": "Utilities"
-      }
-     ]
-    ],
-    [
      "data center",
      1.0,
      "new",
-     6,
+     12,
      0,
-     4.8,
+     8.3,
      [
       {
        "title": "Electrovaya launches stationary energy storage system for data center market",
@@ -30500,6 +30723,28 @@
        "url": "https://www.renewableenergyworld.com/hydro-power/tidal-wave-energy/mocean-energy-targets-wave-powered-offshore-data-centers/",
        "publisher": "Renewable Energy World",
        "sector": "Utilities"
+      }
+     ]
+    ],
+    [
+     "rare earth",
+     0.33,
+     "new",
+     4,
+     0,
+     7.9,
+     [
+      {
+       "title": "British firm bets on aluminium to break lithium battery dependence",
+       "url": "https://www.energylivenews.com/2026/08/07/british-firm-bets-on-aluminium-to-break-lithium-battery-dependence/",
+       "publisher": "Energy Live News",
+       "sector": "Utilities"
+      },
+      {
+       "title": "Finland's Sand Battery Cuts Emissions 70% Without a Single Rare Earth",
+       "url": "https://oilprice.com/Energy/Energy-General/Finlands-Sand-Battery-Cuts-Emissions-70-Without-a-Single-Rare-Earth.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
       }
      ]
     ]
@@ -31124,9 +31369,9 @@
      "solar power",
      1.0,
      "steady",
-     1,
-     1,
-     19.1,
+     2,
+     2,
+     77.1,
      [
       {
        "title": "Video gamers give 110-MW Texas solar project a financing boost",
@@ -31777,9 +32022,9 @@
      "lng export",
      1.0,
      "new",
-     5,
+     10,
      0,
-     121.0,
+     140.3,
      [
       {
        "title": "Transgaz-Argent LNG MOU advances US gas route to Central and Eastern Europe",
@@ -31802,12 +32047,34 @@
      ]
     ],
     [
+     "system operator",
+     0.4,
+     "new",
+     4,
+     0,
+     84.2,
+     [
+      {
+       "title": "Transgaz-Argent LNG MOU advances US gas route to Central and Eastern Europe",
+       "url": "https://www.offshore-energy.biz/transgaz-argent-lng-mou-advances-us-gas-route-to-central-and-eastern-europe/",
+       "publisher": "Offshore Energy",
+       "sector": "Energy"
+      },
+      {
+       "title": "Solar generation in CAISO surpassed natural gas in the first five months of 2026",
+       "url": "https://www.eia.gov/todayinenergy/detail.php?id=67784",
+       "publisher": "EIA Today in Energy",
+       "sector": "Utilities"
+      }
+     ]
+    ],
+    [
      "oil production",
      0.6,
      "new",
-     3,
+     6,
      0,
-     54.4,
+     63.1,
      [
       {
        "title": "India's Crude Oil Output Falls for Third Straight Year",
@@ -31826,6 +32093,90 @@
        "url": "https://oilprice.com/Latest-Energy-News/World-News/ONGC-Profit-More-Than-Doubles-as-Oil-Prices-Surge.html",
        "publisher": "OilPrice",
        "sector": "Energy"
+      }
+     ]
+    ],
+    [
+     "energy infrastructure",
+     0.4,
+     "new",
+     4,
+     0,
+     42.1,
+     [
+      {
+       "title": "Enbridge adding strategic LNG infrastructure to US Gulf Coast growth pipeline",
+       "url": "https://www.offshore-energy.biz/enbridge-adding-strategic-lng-infrastructure-to-us-gulf-coast-growth-pipeline/",
+       "publisher": "Offshore Energy",
+       "sector": "Energy"
+      },
+      {
+       "title": "LS Power Acquiring 606-MW Texas Gas-Fired Plant From Constellation",
+       "url": "https://www.powermag.com/ls-power-acquiring-606-mw-texas-gas-fired-plant-from-constellation/",
+       "publisher": "POWER Magazine",
+       "sector": "Utilities"
+      },
+      {
+       "title": "Shell's JV chooses ECOnnect's jettyless import solution for Caribbean LNG project",
+       "url": "https://www.offshore-energy.biz/shells-jv-chooses-econnects-jettyless-import-solution-for-caribbean-lng-project/",
+       "publisher": "Offshore Energy",
+       "sector": "Energy"
+      }
+     ]
+    ],
+    [
+     "power generation",
+     0.4,
+     "new",
+     4,
+     0,
+     28.1,
+     [
+      {
+       "title": "Big Tech Turns to Fuel Cells to Power the AI Boom",
+       "url": "https://oilprice.com/Alternative-Energy/Fuel-Cells/Big-Tech-Turns-to-Fuel-Cells-to-Power-the-AI-Boom.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      },
+      {
+       "title": "Nebraska Public Power District Breaks Ground on 694-MW Princeton Road Station",
+       "url": "https://www.powermag.com/nebraska-public-power-district-breaks-ground-on-694-mw-princeton-road-station/",
+       "publisher": "POWER Magazine",
+       "sector": "Utilities"
+      },
+      {
+       "title": "Innovation Powers a Country's Energy Transition",
+       "url": "https://www.powermag.com/innovation-powers-a-countrys-energy-transition/",
+       "publisher": "POWER Magazine",
+       "sector": "Utilities"
+      }
+     ]
+    ],
+    [
+     "power plant",
+     0.4,
+     "new",
+     4,
+     0,
+     15.3,
+     [
+      {
+       "title": "LS Power Acquiring 606-MW Texas Gas-Fired Plant From Constellation",
+       "url": "https://www.powermag.com/ls-power-acquiring-606-mw-texas-gas-fired-plant-from-constellation/",
+       "publisher": "POWER Magazine",
+       "sector": "Utilities"
+      },
+      {
+       "title": "Q&A: Germany prepares long-term strategy for carbon removals",
+       "url": "https://www.cleanenergywire.org/factsheets/qa-germany-prepares-long-term-strategy-carbon-removals",
+       "publisher": "Clean Energy Wire",
+       "sector": "Energy"
+      },
+      {
+       "title": "Nebraska Public Power District Breaks Ground on 694-MW Princeton Road Station",
+       "url": "https://www.powermag.com/nebraska-public-power-district-breaks-ground-on-694-mw-princeton-road-station/",
+       "publisher": "POWER Magazine",
+       "sector": "Utilities"
       }
      ]
     ]
@@ -32897,24 +33248,7 @@
      }
     ]
    },
-   "cooc": [
-    [
-     "lithium ion",
-     1.0,
-     "steady",
-     1,
-     1,
-     118.5,
-     [
-      {
-       "title": "Largest BESS in Czech Republic commissioned, supplied by CATL-backed CNTE",
-       "url": "https://www.energy-storage.news/largest-bess-in-czech-republic-commissioned-supplied-by-catl-backed-cnte/",
-       "publisher": "Energy Storage News",
-       "sector": "Utilities"
-      }
-     ]
-    ]
-   ],
+   "cooc": [],
    "examples": [
     {
      "publisher": "Energy Storage News",
@@ -33952,36 +34286,7 @@
      }
     ]
    },
-   "cooc": [
-    [
-     "oil price",
-     1.0,
-     "steady",
-     1,
-     1,
-     24.7,
-     [
-      {
-       "title": "Citi Lifts Brent Outlook but Still Sees Oil Falling in 2027",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Citi-Lifts-Brent-Outlook-but-Still-Sees-Oil-Falling-in-2027.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      },
-      {
-       "title": "Weak Energy Demand May Signal a Much Bigger Economic Problem",
-       "url": "https://oilprice.com/Energy/Energy-General/Weak-Energy-Demand-May-Signal-a-Much-Bigger-Economic-Problem.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      },
-      {
-       "title": "Oil Prices Plunge 5% as Trump Halts Iran Strike Plans",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-5-as-Trump-Halts-Iran-Strike-Plans.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      }
-     ]
-    ]
-   ],
+   "cooc": [],
    "examples": [
     {
      "publisher": "OilPrice",
@@ -35569,7 +35874,30 @@
      }
     ]
    },
-   "cooc": [],
+   "cooc": [
+    [
+     "reserve bank",
+     1.0,
+     "new",
+     4,
+     0,
+     264.5,
+     [
+      {
+       "title": "FMCG price hikes could rewrite India's inflation story",
+       "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/fmcg-price-hikes-could-rewrite-indias-inflation-story-report/132985787",
+       "publisher": "ET Retail",
+       "sector": "Consumer"
+      },
+      {
+       "title": "FCNR(B) deposits nearly double to USD 60.5 bn after RBI relaxation; HSBC, SBI, ICICI lead inflows",
+       "url": "https://bfsi.economictimes.indiatimes.com/articles/fcnrb-deposits-nearly-double-to-usd-60-5-bn-after-rbi-relaxation-hsbc-sbi-icici-lead-inflows/132840610",
+       "publisher": "ET BFSI",
+       "sector": "Finance"
+      }
+     ]
+    ]
+   ],
    "examples": [
     {
      "publisher": "ET BFSI",
@@ -36673,7 +37001,52 @@
      }
     ]
    },
-   "cooc": [],
+   "cooc": [
+    [
+     "cost pressure",
+     1.0,
+     "new",
+     4,
+     0,
+     740.6,
+     [
+      {
+       "title": "Michelin to stay the course on India investments despite global cost pressures",
+       "url": "https://auto.economictimes.indiatimes.com/news/tyres/michelin-to-stay-the-course-on-india-investments-despite-global-cost-pressures/133030610",
+       "publisher": "ET Auto",
+       "sector": "Autos"
+      },
+      {
+       "title": "West Asia Conflict Escalates Cost Pressures for Indian Businesses , ETRetail",
+       "url": "https://retail.economictimes.indiatimes.com/news/industry/west-asia-conflict-adds-fresh-cost-pressures-for-india-inc/132830683",
+       "publisher": "retail.economictimes.indiatimes.com",
+       "sector": "Supply chain"
+      }
+     ]
+    ],
+    [
+     "raw material cost",
+     1.0,
+     "new",
+     4,
+     0,
+     592.5,
+     [
+      {
+       "title": "Michelin to stay the course on India investments despite global cost pressures",
+       "url": "https://auto.economictimes.indiatimes.com/news/tyres/michelin-to-stay-the-course-on-india-investments-despite-global-cost-pressures/133030610",
+       "publisher": "ET Auto",
+       "sector": "Autos"
+      },
+      {
+       "title": "Nestle flags near-term consumption slowdown amid West Asia conflict, El Nino concerns",
+       "url": "https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/nestle-flags-near-term-consumption-slowdown-amid-west-asia-conflict-el-nino-concerns/132887965",
+       "publisher": "ET Retail",
+       "sector": "Consumer"
+      }
+     ]
+    ]
+   ],
    "examples": [
     {
      "publisher": "ET Realty",
@@ -37068,520 +37441,6 @@
    ],
    "specificity": 0.994,
    "rank": 1.97
-  },
-  {
-   "id": "commercial-vehicle",
-   "term": "commercial vehicle",
-   "direction": "new",
-   "display": true,
-   "sectorCount": 2,
-   "effectiveSectors": 1.94,
-   "newestSector": "Autos",
-   "daysSinceNewestSector": 5,
-   "articles14d": 7,
-   "articlesPrior14d": 0,
-   "publishers": 6,
-   "sectors": [
-    {
-     "name": "Supply chain",
-     "firstSeen": "2026-06-16",
-     "recent": 2,
-     "articles": 3,
-     "share": 0.286,
-     "adopt": 36
-    },
-    {
-     "name": "Autos",
-     "firstSeen": "2026-08-03",
-     "recent": 5,
-     "articles": 5,
-     "share": 0.714,
-     "adopt": 84
-    }
-   ],
-   "sinceStart": false,
-   "origins": [
-    [
-     "US",
-     9
-    ],
-    [
-     "GB",
-     2
-    ],
-    [
-     "DE",
-     1
-    ]
-   ],
-   "flow": {
-    "weeks": [
-     "2026-05-11",
-     "2026-05-18",
-     "2026-05-25",
-     "2026-06-01",
-     "2026-06-08",
-     "2026-06-15",
-     "2026-06-22",
-     "2026-06-29",
-     "2026-07-06",
-     "2026-07-13",
-     "2026-07-20",
-     "2026-07-27",
-     "2026-08-03"
-    ],
-    "bands": [
-     {
-      "sector": "Autos",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       5
-      ]
-     },
-     {
-      "sector": "Consumer",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       3,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Supply chain",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       2
-      ]
-     }
-    ]
-   },
-   "cooc": [],
-   "examples": [
-    {
-     "publisher": "Automotive World",
-     "title": "Daimler Truck plans new US manufacturing facility by 2029",
-     "url": "https://www.automotiveworld.com/news/daimler-truck-plans-new-us-manufacturing-facility-by-2029/",
-     "sector": "Autos",
-     "country": "GB"
-    },
-    {
-     "publisher": "Electrive",
-     "title": "Factorial and Tulip Tech partner on solid-state batteries for drones",
-     "url": "https://www.electrive.com/2026/08/05/factorial-and-tulip-tech-partner-on-solid-state-batteries-for-drones/",
-     "sector": "Autos",
-     "country": "DE"
-    },
-    {
-     "publisher": "Electrive",
-     "title": "UK records strongest EV July to date",
-     "url": "https://www.electrive.com/2026/08/05/uk-records-strongest-ev-july-to-date/",
-     "sector": "Autos",
-     "country": "DE"
-    },
-    {
-     "publisher": "Electrive",
-     "title": "China's first sodium-ion dump truck enters service",
-     "url": "https://www.electrive.com/2026/08/05/chinas-first-sodium-ion-dump-truck-enters-service/",
-     "sector": "Autos",
-     "country": "DE"
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-05-11",
-     "n": 0
-    },
-    {
-     "day": "2026-05-12",
-     "n": 0
-    },
-    {
-     "day": "2026-05-13",
-     "n": 0
-    },
-    {
-     "day": "2026-05-14",
-     "n": 0
-    },
-    {
-     "day": "2026-05-15",
-     "n": 0
-    },
-    {
-     "day": "2026-05-16",
-     "n": 0
-    },
-    {
-     "day": "2026-05-17",
-     "n": 0
-    },
-    {
-     "day": "2026-05-18",
-     "n": 0
-    },
-    {
-     "day": "2026-05-19",
-     "n": 0
-    },
-    {
-     "day": "2026-05-20",
-     "n": 0
-    },
-    {
-     "day": "2026-05-21",
-     "n": 0
-    },
-    {
-     "day": "2026-05-22",
-     "n": 0
-    },
-    {
-     "day": "2026-05-23",
-     "n": 0
-    },
-    {
-     "day": "2026-05-24",
-     "n": 0
-    },
-    {
-     "day": "2026-05-25",
-     "n": 0
-    },
-    {
-     "day": "2026-05-26",
-     "n": 0
-    },
-    {
-     "day": "2026-05-27",
-     "n": 0
-    },
-    {
-     "day": "2026-05-28",
-     "n": 0
-    },
-    {
-     "day": "2026-05-29",
-     "n": 0
-    },
-    {
-     "day": "2026-05-30",
-     "n": 0
-    },
-    {
-     "day": "2026-05-31",
-     "n": 0
-    },
-    {
-     "day": "2026-06-01",
-     "n": 0
-    },
-    {
-     "day": "2026-06-02",
-     "n": 0
-    },
-    {
-     "day": "2026-06-03",
-     "n": 0
-    },
-    {
-     "day": "2026-06-04",
-     "n": 0
-    },
-    {
-     "day": "2026-06-05",
-     "n": 0
-    },
-    {
-     "day": "2026-06-06",
-     "n": 0
-    },
-    {
-     "day": "2026-06-07",
-     "n": 0
-    },
-    {
-     "day": "2026-06-08",
-     "n": 0
-    },
-    {
-     "day": "2026-06-09",
-     "n": 0
-    },
-    {
-     "day": "2026-06-10",
-     "n": 0
-    },
-    {
-     "day": "2026-06-11",
-     "n": 0
-    },
-    {
-     "day": "2026-06-12",
-     "n": 0
-    },
-    {
-     "day": "2026-06-13",
-     "n": 0
-    },
-    {
-     "day": "2026-06-14",
-     "n": 0
-    },
-    {
-     "day": "2026-06-15",
-     "n": 0
-    },
-    {
-     "day": "2026-06-16",
-     "n": 1
-    },
-    {
-     "day": "2026-06-17",
-     "n": 0
-    },
-    {
-     "day": "2026-06-18",
-     "n": 3
-    },
-    {
-     "day": "2026-06-19",
-     "n": 0
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 1
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 0
-    },
-    {
-     "day": "2026-07-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 0
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 3
-    },
-    {
-     "day": "2026-08-04",
-     "n": 1
-    },
-    {
-     "day": "2026-08-05",
-     "n": 2
-    },
-    {
-     "day": "2026-08-06",
-     "n": 0
-    },
-    {
-     "day": "2026-08-07",
-     "n": 1
-    },
-    {
-     "day": "2026-08-08",
-     "n": 0
-    }
-   ],
-   "specificity": 0.992,
-   "rank": 1.93
   },
   {
    "id": "crude-oil-price",
@@ -38752,9 +38611,9 @@
      "commercial vessel",
      1.0,
      "new",
-     3,
+     6,
      0,
-     242.5,
+     277.7,
      [
       {
        "title": "Pacific Halibut Fisheries of the West Coast; Inseason Action for the 2026 Area 2A Pacific Halibut Directed Commercial Fishery",
@@ -38777,12 +38636,40 @@
      ]
     ],
     [
+     "vessel traffic",
+     0.67,
+     "new",
+     4,
+     0,
+     246.9,
+     [
+      {
+       "title": "Reliance Industries books supertanker at record $23-25 million freight to lift Iraqi crude",
+       "url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/reliance-industries-books-supertanker-at-record-23-25-million-freight-to-lift-iraqi-crude/133045760",
+       "publisher": "ET Energyworld",
+       "sector": "Energy"
+      },
+      {
+       "title": "Iran weighs ban on US and Israeli ships in Hormuz",
+       "url": "https://splash247.com/iran-weighs-ban-on-us-and-israeli-ships-in-hormuz/",
+       "publisher": "Splash247",
+       "sector": "Supply chain"
+      },
+      {
+       "title": "Shipping Through Hormuz Drops Sharply as Tensions Rise",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Shipping-Through-Hormuz-Drops-Sharply-as-Tensions-Rise.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      }
+     ]
+    ],
+    [
      "houthi threat",
      1.0,
      "new",
-     3,
+     6,
      0,
-     194.0,
+     222.2,
      [
       {
        "title": "Most VLCC loadings directed northbound in Red Sea: DHT Holdings",
@@ -38805,12 +38692,40 @@
      ]
     ],
     [
+     "oil tanker",
+     0.67,
+     "new",
+     4,
+     0,
+     148.1,
+     [
+      {
+       "title": "Reliance Industries books supertanker at record $23-25 million freight to lift Iraqi crude",
+       "url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/reliance-industries-books-supertanker-at-record-23-25-million-freight-to-lift-iraqi-crude/133045760",
+       "publisher": "ET Energyworld",
+       "sector": "Energy"
+      },
+      {
+       "title": "Russia's Arctic sprint and the limits of acceleration",
+       "url": "https://container-news.com/russias-arctic-sprint-and-the-limits-of-acceleration/",
+       "publisher": "Container News",
+       "sector": "Supply chain"
+      },
+      {
+       "title": "ADNOC L&S bolsters tanker fleet with $1.3bn acquisitions",
+       "url": "https://www.seatrade-maritime.com/tankers/adnoc-l-s-bolsters-tanker-fleet-with-1-3bn-acquisition",
+       "publisher": "Seatrade Maritime",
+       "sector": "Supply chain"
+      }
+     ]
+    ],
+    [
      "middle east",
      1.0,
      "new",
-     3,
+     6,
      0,
-     23.7,
+     38.3,
      [
       {
        "title": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions",
@@ -39229,6 +39144,549 @@
    "rank": 1.9
   },
   {
+   "id": "commercial-vehicle",
+   "term": "commercial vehicle",
+   "direction": "new",
+   "display": true,
+   "sectorCount": 2,
+   "effectiveSectors": 1.89,
+   "newestSector": "Autos",
+   "daysSinceNewestSector": 5,
+   "articles14d": 8,
+   "articlesPrior14d": 0,
+   "publishers": 6,
+   "sectors": [
+    {
+     "name": "Supply chain",
+     "firstSeen": "2026-06-16",
+     "recent": 2,
+     "articles": 3,
+     "share": 0.25,
+     "adopt": 36
+    },
+    {
+     "name": "Autos",
+     "firstSeen": "2026-08-03",
+     "recent": 6,
+     "articles": 6,
+     "share": 0.75,
+     "adopt": 84
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "US",
+     9
+    ],
+    [
+     "DE",
+     2
+    ],
+    [
+     "GB",
+     2
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-05-11",
+     "2026-05-18",
+     "2026-05-25",
+     "2026-06-01",
+     "2026-06-08",
+     "2026-06-15",
+     "2026-06-22",
+     "2026-06-29",
+     "2026-07-06",
+     "2026-07-13",
+     "2026-07-20",
+     "2026-07-27",
+     "2026-08-03"
+    ],
+    "bands": [
+     {
+      "sector": "Autos",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       6
+      ]
+     },
+     {
+      "sector": "Consumer",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       3,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "sector": "Supply chain",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       2
+      ]
+     }
+    ]
+   },
+   "cooc": [
+    [
+     "battery electric",
+     1.0,
+     "new",
+     4,
+     0,
+     462.9,
+     [
+      {
+       "title": "UK records strongest EV July to date",
+       "url": "https://www.electrive.com/2026/08/05/uk-records-strongest-ev-july-to-date/",
+       "publisher": "Electrive",
+       "sector": "Autos"
+      },
+      {
+       "title": "China's first sodium-ion dump truck enters service",
+       "url": "https://www.electrive.com/2026/08/05/chinas-first-sodium-ion-dump-truck-enters-service/",
+       "publisher": "Electrive",
+       "sector": "Autos"
+      },
+      {
+       "title": "Philippines unveils 60bn pesos EV manufacturing incentive scheme",
+       "url": "https://www.just-auto.com/news/philippines-ev-manufacturing-incentive-scheme/",
+       "publisher": "Just Auto",
+       "sector": "Autos"
+      }
+     ]
+    ]
+   ],
+   "examples": [
+    {
+     "publisher": "Automotive World",
+     "title": "Daimler Truck plans new US manufacturing facility by 2029",
+     "url": "https://www.automotiveworld.com/news/daimler-truck-plans-new-us-manufacturing-facility-by-2029/",
+     "sector": "Autos",
+     "country": "GB"
+    },
+    {
+     "publisher": "Electrive",
+     "title": "Factorial and Tulip Tech partner on solid-state batteries for drones",
+     "url": "https://www.electrive.com/2026/08/05/factorial-and-tulip-tech-partner-on-solid-state-batteries-for-drones/",
+     "sector": "Autos",
+     "country": "DE"
+    },
+    {
+     "publisher": "Electrive",
+     "title": "UK records strongest EV July to date",
+     "url": "https://www.electrive.com/2026/08/05/uk-records-strongest-ev-july-to-date/",
+     "sector": "Autos",
+     "country": "DE"
+    },
+    {
+     "publisher": "Electrive",
+     "title": "China's first sodium-ion dump truck enters service",
+     "url": "https://www.electrive.com/2026/08/05/chinas-first-sodium-ion-dump-truck-enters-service/",
+     "sector": "Autos",
+     "country": "DE"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-05-11",
+     "n": 0
+    },
+    {
+     "day": "2026-05-12",
+     "n": 0
+    },
+    {
+     "day": "2026-05-13",
+     "n": 0
+    },
+    {
+     "day": "2026-05-14",
+     "n": 0
+    },
+    {
+     "day": "2026-05-15",
+     "n": 0
+    },
+    {
+     "day": "2026-05-16",
+     "n": 0
+    },
+    {
+     "day": "2026-05-17",
+     "n": 0
+    },
+    {
+     "day": "2026-05-18",
+     "n": 0
+    },
+    {
+     "day": "2026-05-19",
+     "n": 0
+    },
+    {
+     "day": "2026-05-20",
+     "n": 0
+    },
+    {
+     "day": "2026-05-21",
+     "n": 0
+    },
+    {
+     "day": "2026-05-22",
+     "n": 0
+    },
+    {
+     "day": "2026-05-23",
+     "n": 0
+    },
+    {
+     "day": "2026-05-24",
+     "n": 0
+    },
+    {
+     "day": "2026-05-25",
+     "n": 0
+    },
+    {
+     "day": "2026-05-26",
+     "n": 0
+    },
+    {
+     "day": "2026-05-27",
+     "n": 0
+    },
+    {
+     "day": "2026-05-28",
+     "n": 0
+    },
+    {
+     "day": "2026-05-29",
+     "n": 0
+    },
+    {
+     "day": "2026-05-30",
+     "n": 0
+    },
+    {
+     "day": "2026-05-31",
+     "n": 0
+    },
+    {
+     "day": "2026-06-01",
+     "n": 0
+    },
+    {
+     "day": "2026-06-02",
+     "n": 0
+    },
+    {
+     "day": "2026-06-03",
+     "n": 0
+    },
+    {
+     "day": "2026-06-04",
+     "n": 0
+    },
+    {
+     "day": "2026-06-05",
+     "n": 0
+    },
+    {
+     "day": "2026-06-06",
+     "n": 0
+    },
+    {
+     "day": "2026-06-07",
+     "n": 0
+    },
+    {
+     "day": "2026-06-08",
+     "n": 0
+    },
+    {
+     "day": "2026-06-09",
+     "n": 0
+    },
+    {
+     "day": "2026-06-10",
+     "n": 0
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 0
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 0
+    },
+    {
+     "day": "2026-06-16",
+     "n": 1
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 3
+    },
+    {
+     "day": "2026-06-19",
+     "n": 0
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 0
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 1
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-31",
+     "n": 0
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 3
+    },
+    {
+     "day": "2026-08-04",
+     "n": 1
+    },
+    {
+     "day": "2026-08-05",
+     "n": 3
+    },
+    {
+     "day": "2026-08-06",
+     "n": 0
+    },
+    {
+     "day": "2026-08-07",
+     "n": 1
+    },
+    {
+     "day": "2026-08-08",
+     "n": 0
+    }
+   ],
+   "specificity": 0.991,
+   "rank": 1.88
+  },
+  {
    "id": "electric-vehicle",
    "term": "electric vehicle",
    "direction": "rising",
@@ -39412,30 +39870,7 @@
      }
     ]
    },
-   "cooc": [
-    [
-     "tax credit",
-     1.0,
-     "steady",
-     1,
-     1,
-     79.0,
-     [
-      {
-       "title": "Shriram Finance to borrow Rs 20,000 Cr in Q2 FY27 as AAA rating lowers funding costs by 50-60 bps",
-       "url": "https://bfsi.economictimes.indiatimes.com/articles/shriram-finance-to-borrow-rs-20000-cr-in-q2-fy27-as-aaa-rating-lowers-funding-costs-by-50-60-bps/132844453",
-       "publisher": "ET BFSI",
-       "sector": "Finance"
-      },
-      {
-       "title": "Hybrid sales rise while battery electric sales remain lower after tax credit expiration",
-       "url": "https://www.eia.gov/todayinenergy/detail.php?id=67885",
-       "publisher": "EIA Today in Energy",
-       "sector": "Utilities"
-      }
-     ]
-    ]
-   ],
+   "cooc": [],
    "examples": [
     {
      "publisher": "Electrive",
@@ -40449,7 +40884,36 @@
      }
     ]
    },
-   "cooc": [],
+   "cooc": [
+    [
+     "battery storage",
+     1.0,
+     "new",
+     4,
+     0,
+     92.6,
+     [
+      {
+       "title": "EV manufacturer Ola Electric brings cell-to-pack vertical integration into India's utility-scale BESS market with 20GWh MoU",
+       "url": "https://www.energy-storage.news/ev-manufacturer-ola-electric-brings-cell-to-pack-vertical-integration-into-indias-utility-scale-bess-market-with-20gwh-mou/",
+       "publisher": "Energy Storage News",
+       "sector": "Utilities"
+      },
+      {
+       "title": "Battery storage capacity averaged 70% growth over the last three years",
+       "url": "https://www.eia.gov/todayinenergy/detail.php?id=67925",
+       "publisher": "EIA Today in Energy",
+       "sector": "Utilities"
+      },
+      {
+       "title": "Scalable, Grid-Ready Storage: How Connector Design Is Shaping the Next Generation of Energy Systems",
+       "url": "https://www.powermag.com/scalable-grid-ready-storage-how-connector-design-is-shaping-the-next-generation-of-energy-systems/",
+       "publisher": "POWER Magazine",
+       "sector": "Utilities"
+      }
+     ]
+    ]
+   ],
    "examples": [
     {
      "publisher": "Energy Storage News",
@@ -40984,6 +41448,13 @@
    "cooc": [],
    "examples": [
     {
+     "publisher": "Container News",
+     "title": "New Providence Gas selects ECOnnect's marine transfer solution for Bahamas LNG project",
+     "url": "https://container-news.com/new-providence-gas-selects-econnects-marine-transfer-solution-for-bahamas-lng-project/",
+     "sector": "Supply chain",
+     "country": "GR"
+    },
+    {
      "publisher": "OilPrice",
      "title": "Energy Affordability Trumps Climate in US Midterm Races",
      "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
@@ -41003,13 +41474,6 @@
      "url": "https://www.manmonthly.com.au/digikey-releases-season-two-of-sustainable-futures-video-series/",
      "sector": "Industrials",
      "country": "AU"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Russian Oil Production Climbs Above 9 Million Bpd in July",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Russian-Oil-Production-Climbs-Above-9-Million-Bpd-in-July.html",
-     "sector": "Energy",
-     "country": "US"
     }
    ],
    "daily": [
@@ -41383,27 +41847,27 @@
    "direction": "new",
    "display": true,
    "sectorCount": 2,
-   "effectiveSectors": 1.86,
+   "effectiveSectors": 1.85,
    "newestSector": "Utilities",
    "daysSinceNewestSector": 5,
-   "articles14d": 37,
+   "articles14d": 38,
    "articlesPrior14d": 0,
-   "publishers": 4,
+   "publishers": 5,
    "sectors": [
     {
      "name": "Utilities",
      "firstSeen": "2026-08-03",
      "recent": 11,
      "articles": 11,
-     "share": 0.314,
+     "share": 0.306,
      "adopt": 84
     },
     {
      "name": "Energy",
      "firstSeen": "2026-08-03",
-     "recent": 24,
-     "articles": 24,
-     "share": 0.686,
+     "recent": 25,
+     "articles": 25,
+     "share": 0.694,
      "adopt": 84
     }
    ],
@@ -41415,7 +41879,7 @@
     ],
     [
      "IN",
-     2
+     3
     ]
    ],
    "flow": {
@@ -41450,7 +41914,7 @@
        0,
        0,
        0,
-       24
+       25
       ]
      },
      {
@@ -41511,12 +41975,96 @@
    },
    "cooc": [
     [
+     "middle east war",
+     0.4,
+     "new",
+     4,
+     0,
+     194.9,
+     [
+      {
+       "title": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions",
+       "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Traders-Stay-Bearish-Despite-Deepening-Middle-East-Disruptions.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      },
+      {
+       "title": "China's Crude Imports Bounce Back After Historic June Slump",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Imports-Bounce-Back-After-Historic-June-Slump.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      },
+      {
+       "title": "China's Top Refiner Pivots to Russian Crude",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Top-Refiner-Pivots-to-Russian-Crude.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      }
+     ]
+    ],
+    [
+     "vessel tracking",
+     0.4,
+     "new",
+     4,
+     0,
+     97.4,
+     [
+      {
+       "title": "China's Top Refiner Pivots to Russian Crude",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Top-Refiner-Pivots-to-Russian-Crude.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      },
+      {
+       "title": "India's Imports of Russian Crude Hit New High in July",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Imports-of-Russian-Crude-Hit-New-High-in-July.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      },
+      {
+       "title": "Dark Tanker Transits Surge at Bab el-Mandeb as Houthi Threat Persists",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Dark-Tanker-Transits-Surge-at-Bab-el-Mandeb-as-Houthi-Threat-Persists.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      }
+     ]
+    ],
+    [
+     "persian gulf",
+     0.4,
+     "new",
+     4,
+     0,
+     55.7,
+     [
+      {
+       "title": "Aramco Deepens Asia Oil Discount Ahead of Possible Hormuz Deal",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Aramco-Deepens-Asia-Oil-Discount-Ahead-of-Possible-Hormuz-Deal.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      },
+      {
+       "title": "Kuwait Oil Production Surges as OPEC+ Completes Output Cut Reversal",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Kuwait-Oil-Production-Surges-as-OPEC-Completes-Output-Cut-Reversal.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      },
+      {
+       "title": "U.S. jet fuel production rises after prices doubled in March",
+       "url": "https://www.eia.gov/todayinenergy/detail.php?id=67764",
+       "publisher": "EIA Today in Energy",
+       "sector": "Utilities"
+      }
+     ]
+    ],
+    [
      "natural gas",
      1.0,
      "new",
-     5,
+     10,
      0,
-     19.6,
+     22.1,
      [
       {
        "title": "India's Crude Oil Output Falls for Third Straight Year",
@@ -41541,6 +42089,13 @@
    ],
    "examples": [
     {
+     "publisher": "ET Energyworld",
+     "title": "Reliance Industries books supertanker at record $23-25 million freight to lift Iraqi crude",
+     "url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/reliance-industries-books-supertanker-at-record-23-25-million-freight-to-lift-iraqi-crude/133045760",
+     "sector": "Energy",
+     "country": "IN"
+    },
+    {
      "publisher": "OilPrice",
      "title": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions",
      "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Traders-Stay-Bearish-Despite-Deepening-Middle-East-Disruptions.html",
@@ -41558,13 +42113,6 @@
      "publisher": "OilPrice",
      "title": "ADNOC Reports 15 Vessel Attacks as Hormuz Risks Mount",
      "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Reports-15-Vessel-Attacks-as-Hormuz-Risks-Mount.html",
-     "sector": "Energy",
-     "country": "US"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "India's Crude Oil Output Falls for Third Straight Year",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Crude-Oil-Output-Falls-for-Third-Straight-Year.html",
      "sector": "Energy",
      "country": "US"
     }
@@ -41928,11 +42476,11 @@
     },
     {
      "day": "2026-08-08",
-     "n": 0
+     "n": 1
     }
    ],
-   "specificity": 0.957,
-   "rank": 1.81
+   "specificity": 0.955,
+   "rank": 1.8
   },
   {
    "id": "natural-gas-lng",
@@ -42580,7 +43128,86 @@
      }
     ]
    },
-   "cooc": [],
+   "cooc": [
+    [
+     "global nuclear",
+     1.0,
+     "new",
+     4,
+     0,
+     411.4,
+     [
+      {
+       "title": "China Added More Nuclear Power In A Decade Than The Rest Of The World Combined",
+       "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/China-Added-More-Nuclear-Power-In-A-Decade-Than-The-Rest-Of-The-World-Combined.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      },
+      {
+       "title": "China Drives Global Nuclear Power Generation To A New Record",
+       "url": "https://www.forbes.com/sites/rrapier/2026/08/02/china-drives-global-nuclear-power-generation-to-a-new-record/",
+       "publisher": "forbes.com",
+       "sector": "Finance"
+      }
+     ]
+    ],
+    [
+     "gas fired",
+     1.0,
+     "new",
+     4,
+     0,
+     246.9,
+     [
+      {
+       "title": "Gas Shortages and High Prices Derail Southeast Asia's Power Buildout",
+       "url": "https://oilprice.com/Energy/Natural-Gas/Gas-Shortages-and-High-Prices-Derail-Southeast-Asias-Power-Buildout.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      },
+      {
+       "title": "Innovation Powers a Country's Energy Transition",
+       "url": "https://www.powermag.com/innovation-powers-a-countrys-energy-transition/",
+       "publisher": "POWER Magazine",
+       "sector": "Utilities"
+      },
+      {
+       "title": "A Pioneering Approach to Building New Generation Resources",
+       "url": "https://www.powermag.com/a-pioneering-approach-to-building-new-generation-resources/",
+       "publisher": "POWER Magazine",
+       "sector": "Utilities"
+      }
+     ]
+    ],
+    [
+     "natural gas",
+     1.0,
+     "new",
+     4,
+     0,
+     28.1,
+     [
+      {
+       "title": "Big Tech Turns to Fuel Cells to Power the AI Boom",
+       "url": "https://oilprice.com/Alternative-Energy/Fuel-Cells/Big-Tech-Turns-to-Fuel-Cells-to-Power-the-AI-Boom.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      },
+      {
+       "title": "Nebraska Public Power District Breaks Ground on 694-MW Princeton Road Station",
+       "url": "https://www.powermag.com/nebraska-public-power-district-breaks-ground-on-694-mw-princeton-road-station/",
+       "publisher": "POWER Magazine",
+       "sector": "Utilities"
+      },
+      {
+       "title": "Innovation Powers a Country's Energy Transition",
+       "url": "https://www.powermag.com/innovation-powers-a-countrys-energy-transition/",
+       "publisher": "POWER Magazine",
+       "sector": "Utilities"
+      }
+     ]
+    ]
+   ],
    "examples": [
     {
      "publisher": "Japan Industry News",
@@ -43295,9 +43922,9 @@
      "high performance computing",
      0.18,
      "new",
-     3,
+     6,
      0,
-     19.7,
+     30.0,
      [
       {
        "title": "Sponsored: nVent expands data center liquid cooling capacity",
@@ -43314,86 +43941,18 @@
      ]
     ],
     [
-     "grid operator",
-     0.18,
-     "rising",
-     3,
-     1,
-     13.1,
-     [
-      {
-       "title": "Y Combinator-backed Impact Drones to offer missile-intercepting drone service for data centers and grid operators",
-       "url": "https://www.datacenterdynamics.com/en/news/y-combinator-backed-impact-drones-launches-offers-missile-intercepting-drone-service-for-data-centers-and-grid-operators/",
-       "publisher": "Data Center Dynamics",
-       "sector": "Technology"
-      },
-      {
-       "title": "Facing an estimated 474 GW of interconnection requests, Texas hits pause on data centers",
-       "url": "https://www.utilitydive.com/news/texas-hits-pause-data-center-interconnections/827046/",
-       "publisher": "Utility Dive",
-       "sector": "Utilities"
-      },
-      {
-       "title": "PJM's big new data center plan: Make the states figure it out",
-       "url": "https://www.canarymedia.com/articles/data-centers/pjm-data-center-plan",
-       "publisher": "Canary Media",
-       "sector": "Energy"
-      }
-     ]
-    ],
-    [
-     "large load",
-     0.18,
-     "new",
-     3,
-     0,
-     11.2,
-     [
-      {
-       "title": "Existing power plants are \u2018bedrock' in supplying data centers: Constellation CEO",
-       "url": "https://www.utilitydive.com/news/existing-power-plants-supply-data-centers-constellation/827326/",
-       "publisher": "Utility Dive",
-       "sector": "Utilities"
-      },
-      {
-       "title": "Southern Co. contracted large load rises to 17 GW",
-       "url": "https://www.utilitydive.com/news/southern-co-contracted-large-load-data-centers/826919/",
-       "publisher": "Utility Dive",
-       "sector": "Utilities"
-      },
-      {
-       "title": "DTE ties rate stability to data center projects as large-load pipeline remains steady",
-       "url": "https://www.utilitydive.com/news/dte-rate-stability-data-center-projects-large-load-pipeline/826803/",
-       "publisher": "Utility Dive",
-       "sector": "Utilities"
-      }
-     ]
-    ],
-    [
-     "pjm interconnection",
+     "digital infrastructure",
      0.12,
-     "rising",
-     2,
-     1,
-     8.7,
+     "new",
+     4,
+     0,
+     26.7,
      [
       {
-       "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
-       "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
-       "publisher": "Utility Dive",
-       "sector": "Utilities"
-      },
-      {
-       "title": "Existing power plants are \u2018bedrock' in supplying data centers: Constellation CEO",
-       "url": "https://www.utilitydive.com/news/existing-power-plants-supply-data-centers-constellation/827326/",
-       "publisher": "Utility Dive",
-       "sector": "Utilities"
-      },
-      {
-       "title": "Facing an estimated 474 GW of interconnection requests, Texas hits pause on data centers",
-       "url": "https://www.utilitydive.com/news/texas-hits-pause-data-center-interconnections/827046/",
-       "publisher": "Utility Dive",
-       "sector": "Utilities"
+       "title": "US reportedly expands AI infrastructure security push with planned restrictions on Chinese optical transceivers",
+       "url": "https://www.digitimes.com/news/a20260805VL206/usa-fcc-transceiver-module-cybersecurity-equipment-infrastructure.html",
+       "publisher": "DigiTimes Asia",
+       "sector": "Technology"
       }
      ]
     ],
@@ -43401,9 +43960,9 @@
      "energy demand",
      0.18,
      "new",
-     3,
+     6,
      0,
-     7.9,
+     24.0,
      [
       {
        "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
@@ -43426,12 +43985,68 @@
      ]
     ],
     [
-     "artificial intelligence",
-     1.0,
+     "pjm interconnection",
+     0.12,
      "rising",
-     17,
-     1,
-     5.4,
+     4,
+     2,
+     20.0,
+     [
+      {
+       "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
+       "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
+       "publisher": "Utility Dive",
+       "sector": "Utilities"
+      },
+      {
+       "title": "Existing power plants are \u2018bedrock' in supplying data centers: Constellation CEO",
+       "url": "https://www.utilitydive.com/news/existing-power-plants-supply-data-centers-constellation/827326/",
+       "publisher": "Utility Dive",
+       "sector": "Utilities"
+      },
+      {
+       "title": "Facing an estimated 474 GW of interconnection requests, Texas hits pause on data centers",
+       "url": "https://www.utilitydive.com/news/texas-hits-pause-data-center-interconnections/827046/",
+       "publisher": "Utility Dive",
+       "sector": "Utilities"
+      }
+     ]
+    ],
+    [
+     "gas powered",
+     0.12,
+     "new",
+     4,
+     0,
+     16.0,
+     [
+      {
+       "title": "Big Tech Turns to Fuel Cells to Power the AI Boom",
+       "url": "https://oilprice.com/Alternative-Energy/Fuel-Cells/Big-Tech-Turns-to-Fuel-Cells-to-Power-the-AI-Boom.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      },
+      {
+       "title": "Amogy, 2G Energy test ammonia-to-power system for data center use",
+       "url": "https://www.datacenterdynamics.com/en/news/amogy-2g-energy-test-ammonia-to-power-system-for-data-center-use/",
+       "publisher": "Data Center Dynamics",
+       "sector": "Technology"
+      },
+      {
+       "title": "Clearway cancels plans for gas powered data center in Nevada - report",
+       "url": "https://www.datacenterdynamics.com/en/news/clearway-cancels-plans-for-gas-powered-data-center-in-nevada-report/",
+       "publisher": "Data Center Dynamics",
+       "sector": "Technology"
+      }
+     ]
+    ],
+    [
+     "global energy",
+     0.12,
+     "new",
+     4,
+     0,
+     11.4,
      [
       {
        "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
@@ -43440,16 +44055,16 @@
        "sector": "Energy"
       },
       {
-       "title": "Abu Dhabi sovereign wealth fund Mubadala weighs US$6.3B investment in Japan AI data center",
-       "url": "https://www.digitimes.com/news/a20260807VL219/data-center-investment-electricity-development-data.html",
-       "publisher": "DigiTimes Asia",
-       "sector": "Technology"
+       "title": "Energy Affordability Trumps Climate in US Midterm Races",
+       "url": "https://oilprice.com/Energy/Energy-General/Energy-Affordability-Trumps-Climate-in-US-Midterm-Races.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
       },
       {
-       "title": "Shinheung SEC to Boost Battery Component Output by 20% Amid Samsung SDI Cylindrical Cell Shortage",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=12883",
-       "publisher": "The Elec",
-       "sector": "Technology"
+       "title": "Finnish push for data center flexibility",
+       "url": "https://www.pv-magazine.com/2026/08/06/finnish-push-for-data-center-flexibility/",
+       "publisher": "PV Magazine",
+       "sector": "Energy"
       }
      ]
     ]
@@ -43950,9 +44565,9 @@
      "lng export",
      1.0,
      "new",
-     5,
+     10,
      0,
-     456.0,
+     474.7,
      [
       {
        "title": "Transgaz-Argent LNG MOU advances US gas route to Central and Eastern Europe",
@@ -44526,12 +45141,40 @@
    },
    "cooc": [
     [
+     "utility scale",
+     0.67,
+     "new",
+     4,
+     0,
+     92.6,
+     [
+      {
+       "title": "EV manufacturer Ola Electric brings cell-to-pack vertical integration into India's utility-scale BESS market with 20GWh MoU",
+       "url": "https://www.energy-storage.news/ev-manufacturer-ola-electric-brings-cell-to-pack-vertical-integration-into-indias-utility-scale-bess-market-with-20gwh-mou/",
+       "publisher": "Energy Storage News",
+       "sector": "Utilities"
+      },
+      {
+       "title": "Battery storage capacity averaged 70% growth over the last three years",
+       "url": "https://www.eia.gov/todayinenergy/detail.php?id=67925",
+       "publisher": "EIA Today in Energy",
+       "sector": "Utilities"
+      },
+      {
+       "title": "Scalable, Grid-Ready Storage: How Connector Design Is Shaping the Next Generation of Energy Systems",
+       "url": "https://www.powermag.com/scalable-grid-ready-storage-how-connector-design-is-shaping-the-next-generation-of-energy-systems/",
+       "publisher": "POWER Magazine",
+       "sector": "Utilities"
+      }
+     ]
+    ],
+    [
      "data center",
      1.0,
      "new",
-     3,
+     6,
      0,
-     3.4,
+     6.0,
      [
       {
        "title": "Mocean Energy targets wave-powered offshore data centers",
@@ -45093,12 +45736,40 @@
    },
    "cooc": [
     [
+     "gas fired",
+     1.0,
+     "new",
+     4,
+     0,
+     134.7,
+     [
+      {
+       "title": "LS Power Acquiring 606-MW Texas Gas-Fired Plant From Constellation",
+       "url": "https://www.powermag.com/ls-power-acquiring-606-mw-texas-gas-fired-plant-from-constellation/",
+       "publisher": "POWER Magazine",
+       "sector": "Utilities"
+      },
+      {
+       "title": "Innovation Powers a Country's Energy Transition",
+       "url": "https://www.powermag.com/innovation-powers-a-countrys-energy-transition/",
+       "publisher": "POWER Magazine",
+       "sector": "Utilities"
+      },
+      {
+       "title": "EPA proposals to keep Indiana coal going would threaten drinking water",
+       "url": "https://www.canarymedia.com/articles/fossil-fuels/epa-indiana-coal-threaten-drinking-water",
+       "publisher": "Canary Media",
+       "sector": "Energy"
+      }
+     ]
+    ],
+    [
      "energy industry",
      0.5,
      "steady",
-     1,
-     1,
-     46.8,
+     2,
+     2,
+     112.2,
      [
       {
        "title": "China Added More Nuclear Power In A Decade Than The Rest Of The World Combined",
@@ -45115,18 +45786,46 @@
      ]
     ],
     [
-     "home battery",
-     0.5,
-     "falling",
-     1,
-     2,
-     23.4,
+     "carbon dioxide",
+     1.0,
+     "new",
+     4,
+     0,
+     112.2,
      [
       {
-       "title": "South Africa: Plentify aggregates 2.7GWh of Deye home battery systems into virtual power plant",
-       "url": "https://www.energy-storage.news/south-africa-plentify-aggregates-2-7gwh-of-deye-home-battery-systems-into-virtual-power-plant/",
-       "publisher": "Energy Storage News",
-       "sector": "Utilities"
+       "title": "Q&A: Germany prepares long-term strategy for carbon removals",
+       "url": "https://www.cleanenergywire.org/factsheets/qa-germany-prepares-long-term-strategy-carbon-removals",
+       "publisher": "Clean Energy Wire",
+       "sector": "Energy"
+      },
+      {
+       "title": "Q&A: Does the world need \u2018carbon capture and storage' to reach net-zero?",
+       "url": "https://www.carbonbrief.org/qa-does-the-world-need-carbon-capture-and-storage-to-reach-net-zero",
+       "publisher": "Carbon Brief",
+       "sector": "Policy"
+      }
+     ]
+    ],
+    [
+     "electricity demand",
+     1.0,
+     "new",
+     4,
+     0,
+     84.2,
+     [
+      {
+       "title": "Europe's Electricity Prices Spike to \u20ac500 a Megawatt-Hour as Drought Bites",
+       "url": "https://oilprice.com/Energy/Energy-General/Europes-Electricity-Prices-Spike-to-500-a-Megawatt-Hour-as-Drought-Bites.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      },
+      {
+       "title": "AI\u2019s Electricity Demand Is Not the Real Problem. Its Inflexibility Is",
+       "url": "https://oilprice.com/Energy/Energy-General/AIs-Electricity-Demand-Is-Not-the-Real-Problem-Its-Inflexibility-Is.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
       }
      ]
     ],
@@ -45134,9 +45833,9 @@
      "nuclear energy",
      0.5,
      "steady",
-     1,
-     1,
-     5.5,
+     2,
+     2,
+     16.0,
      [
       {
        "title": "Water levels to be increased in Zaporizhzhia's used fuel pools",
@@ -45686,7 +46385,92 @@
      }
     ]
    },
-   "cooc": [],
+   "cooc": [
+    [
+     "global energy",
+     1.0,
+     "new",
+     4,
+     0,
+     423.2,
+     [
+      {
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      },
+      {
+       "title": "World's largest cattle station installs microgrid as primary power source",
+       "url": "https://www.pv-magazine.com/2026/08/07/worlds-largest-cattle-station-installs-microgrid-as-primary-power-source/",
+       "publisher": "PV Magazine",
+       "sector": "Energy"
+      },
+      {
+       "title": "China puts battery storage at center of renewable energy strategy",
+       "url": "https://www.pv-magazine.com/2026/08/05/china-puts-battery-storage-at-center-of-renewable-energy-strategy/",
+       "publisher": "PV Magazine",
+       "sector": "Energy"
+      }
+     ]
+    ],
+    [
+     "artificial intelligence",
+     1.0,
+     "new",
+     4,
+     0,
+     40.6,
+     [
+      {
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      },
+      {
+       "title": "AI's Obstacle: Why the Grid Can't Keep Pace With the Data Center Boom",
+       "url": "https://www.powermag.com/ais-obstacle-why-the-grid-cant-keep-pace-with-the-data-center-boom/",
+       "publisher": "POWER Magazine",
+       "sector": "Utilities"
+      },
+      {
+       "title": "Energy Vault Breaks Ground on AI Campus in Texas for Crusoe Spark Modular Data Centers",
+       "url": "https://www.powermag.com/energy-vault-breaks-ground-on-ai-campus-in-texas-for-crusoe-spark-modular-data-centers/",
+       "publisher": "POWER Magazine",
+       "sector": "Energy"
+      }
+     ]
+    ],
+    [
+     "data center",
+     1.0,
+     "new",
+     4,
+     0,
+     16.0,
+     [
+      {
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      },
+      {
+       "title": "Texas Audit Could Delay 49.8 GW of Data Center Load, Cost Projects Up to $15 Billion, BNEF Warns",
+       "url": "https://www.powermag.com/texas-audit-could-delay-49-8-gw-of-data-center-load-cost-projects-up-to-15-billion-bnef-warns/",
+       "publisher": "POWER Magazine",
+       "sector": "Utilities"
+      },
+      {
+       "title": "US data centers turn to on-site solar, storage, VPPs as grid delays mount",
+       "url": "https://www.pv-magazine.com/2026/08/06/transmission-logjams-and-ai-load-growth-push-data-centers-toward-on-site-solar-storage-and-vpps/",
+       "publisher": "PV Magazine",
+       "sector": "Energy"
+      }
+     ]
+    ]
+   ],
    "examples": [
     {
      "publisher": "OilPrice",
@@ -46260,28 +47044,12 @@
    },
    "cooc": [
     [
-     "domestic supply",
-     0.25,
-     "steady",
-     1,
-     1,
-     11.8,
-     [
-      {
-       "title": "Hades licence win puts Germany on rare earth map",
-       "url": "https://www.mining.com/hades-licence-win-puts-germany-on-rare-earth-map/",
-       "publisher": "Mining.com",
-       "sector": "Materials"
-      }
-     ]
-    ],
-    [
      "energy security",
      0.25,
      "steady",
-     1,
-     1,
-     3.6,
+     2,
+     2,
+     14.2,
      [
       {
        "title": "Finland's Sand Battery Cuts Emissions 70% Without a Single Rare Earth",
@@ -46292,18 +47060,74 @@
      ]
     ],
     [
-     "export control",
-     0.25,
-     "falling",
-     1,
-     3,
-     1.7,
+     "energy storage",
+     0.5,
+     "new",
+     4,
+     0,
+     7.9,
      [
       {
-       "title": "China Hits U . S ., Europe With New Rare Earths Export Controls",
-       "url": "https://legalinsurrection.com/2026/07/china-hits-u-s-europe-with-new-rare-earths-export-controls/",
-       "publisher": "legalinsurrection.com",
-       "sector": "Policy"
+       "title": "British firm bets on aluminium to break lithium battery dependence",
+       "url": "https://www.energylivenews.com/2026/08/07/british-firm-bets-on-aluminium-to-break-lithium-battery-dependence/",
+       "publisher": "Energy Live News",
+       "sector": "Utilities"
+      },
+      {
+       "title": "Finland's Sand Battery Cuts Emissions 70% Without a Single Rare Earth",
+       "url": "https://oilprice.com/Energy/Energy-General/Finlands-Sand-Battery-Cuts-Emissions-70-Without-a-Single-Rare-Earth.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      }
+     ]
+    ],
+    [
+     "supply chain",
+     1.0,
+     "rising",
+     8,
+     2,
+     5.8,
+     [
+      {
+       "title": "Controlled scarcity: MP Materials builds America's rare earth answer while China keeps the heavies at home",
+       "url": "https://www.digitimes.com/news/a20260807VL211/industrial-revenue-supply-chain-capacity-demand.html",
+       "publisher": "DigiTimes Asia",
+       "sector": "Technology"
+      },
+      {
+       "title": "Malaysia weighs loosening rare earth export limits as global supply chase intensifies",
+       "url": "https://www.digitimes.com/news/a20260807PD218/malaysia-rare-earth-exports-demand.html",
+       "publisher": "DigiTimes Asia",
+       "sector": "Technology"
+      },
+      {
+       "title": "US backs Madagascar rare earths project in push to loosen China supply chain grip",
+       "url": "https://www.cnbcafrica.com/2026/us-backs-madagascar-rare-earths-project-in-push-to-loosen-chinas-supply-chain-grip",
+       "publisher": "cnbcafrica.com",
+       "sector": "Materials"
+      }
+     ]
+    ],
+    [
+     "critical mineral",
+     0.25,
+     "falling",
+     2,
+     4,
+     1.8,
+     [
+      {
+       "title": "Malaysia weighs loosening rare earth export limits as global supply chase intensifies",
+       "url": "https://www.digitimes.com/news/a20260807PD218/malaysia-rare-earth-exports-demand.html",
+       "publisher": "DigiTimes Asia",
+       "sector": "Technology"
+      },
+      {
+       "title": "Hades licence win puts Germany on rare earth map",
+       "url": "https://www.mining.com/hades-licence-win-puts-germany-on-rare-earth-map/",
+       "publisher": "Mining.com",
+       "sector": "Materials"
       }
      ]
     ]
@@ -46855,12 +47679,90 @@
    },
    "cooc": [
     [
+     "advanced reactor",
+     1.0,
+     "new",
+     4,
+     0,
+     235.1,
+     [
+      {
+       "title": "DOE Approves Safety Design of Deep Fission's Underground SMR",
+       "url": "https://www.powermag.com/doe-approves-safety-design-of-deep-fissions-underground-smr/",
+       "publisher": "POWER Magazine",
+       "sector": "Utilities"
+      },
+      {
+       "title": "Curio, NuScale, Framatome Join to Support Fuel Solution for Advanced Reactors",
+       "url": "https://www.powermag.com/curio-nuscale-framatome-join-to-support-fuel-solution-for-advanced-reactors/",
+       "publisher": "POWER Magazine",
+       "sector": "Utilities"
+      },
+      {
+       "title": "Aalo, Crusoe Plan 2027 INL Demonstration Pairing Nuclear Power and AI Data Center Load",
+       "url": "https://www.powermag.com/aalo-crusoe-plan-2027-inl-demonstration-pairing-nuclear-power-and-ai-data-center-load/",
+       "publisher": "POWER Magazine",
+       "sector": "Energy"
+      }
+     ]
+    ],
+    [
+     "international atomic energy",
+     1.0,
+     "new",
+     4,
+     0,
+     176.3,
+     [
+      {
+       "title": "Water levels to be increased in Zaporizhzhia's used fuel pools",
+       "url": "https://www.world-nuclear-news.org/articles/water-levels-to-be-increased-in-zaporizhzhias-used-fuel-ponds",
+       "publisher": "World Nuclear News",
+       "sector": "Energy"
+      },
+      {
+       "title": "China's nuclear power capacity nearly doubled since 2016",
+       "url": "https://www.eia.gov/todayinenergy/detail.php?id=67746",
+       "publisher": "EIA Today in Energy",
+       "sector": "Utilities"
+      }
+     ]
+    ],
+    [
+     "energy technology",
+     1.0,
+     "new",
+     4,
+     0,
+     141.1,
+     [
+      {
+       "title": "Curio, NuScale, Framatome Join to Support Fuel Solution for Advanced Reactors",
+       "url": "https://www.powermag.com/curio-nuscale-framatome-join-to-support-fuel-solution-for-advanced-reactors/",
+       "publisher": "POWER Magazine",
+       "sector": "Utilities"
+      },
+      {
+       "title": "KHNP, AboitizPower to cooperate on nuclear energy",
+       "url": "https://www.world-nuclear-news.org/articles/khnp-aboitizpower-to-cooperate-on-nuclear-energy",
+       "publisher": "World Nuclear News",
+       "sector": "Energy"
+      },
+      {
+       "title": "VC Money Floods Into U.S. Nuclear Startups as AI Power Demand Explodes",
+       "url": "https://oilprice.com/Energy/Energy-General/VC-Money-Floods-Into-US-Nuclear-Startups-as-AI-Power-Demand-Explodes.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      }
+     ]
+    ],
+    [
      "energy industry",
      0.5,
      "steady",
-     1,
-     1,
-     44.5,
+     2,
+     2,
+     117.6,
      [
       {
        "title": "China Added More Nuclear Power In A Decade Than The Rest Of The World Combined",
@@ -46872,6 +47774,28 @@
        "title": "Europe's Electricity Prices Spike to \u20ac500 a Megawatt-Hour as Drought Bites",
        "url": "https://oilprice.com/Energy/Energy-General/Europes-Electricity-Prices-Spike-to-500-a-Megawatt-Hour-as-Drought-Bites.html",
        "publisher": "OilPrice",
+       "sector": "Energy"
+      }
+     ]
+    ],
+    [
+     "water level",
+     1.0,
+     "new",
+     4,
+     0,
+     117.6,
+     [
+      {
+       "title": "Water levels to be increased in Zaporizhzhia's used fuel pools",
+       "url": "https://www.world-nuclear-news.org/articles/water-levels-to-be-increased-in-zaporizhzhias-used-fuel-ponds",
+       "publisher": "World Nuclear News",
+       "sector": "Energy"
+      },
+      {
+       "title": "Danube's record low leads to Hungary, Romania nuclear shutdowns",
+       "url": "https://www.world-nuclear-news.org/articles/danubes-record-low-leads-to-hungary-romania-nuclear-shutdowns",
+       "publisher": "World Nuclear News",
        "sector": "Energy"
       }
      ]
@@ -47425,9 +48349,9 @@
      "defense production act",
      1.0,
      "new",
-     5,
+     10,
      0,
-     38.5,
+     115.7,
      [
       {
        "title": "DPAS Directive Allocation Order and Additional Requirements for Recoverable Critical Minerals and Materials",
@@ -47452,10 +48376,10 @@
     [
      "minerals sector",
      0.2,
-     "falling",
-     1,
-     3,
-     11.5,
+     "steady",
+     2,
+     2,
+     115.7,
      [
       {
        "title": "Podcast: Is the West's mining strategy working? Rebecca Seidl-Inglesby on policy and supply chains",
@@ -47478,13 +48402,25 @@
      ]
     ],
     [
-     "import dependence",
-     0.2,
-     "steady",
-     1,
-     1,
-     9.2,
+     "domestic supply",
+     0.4,
+     "new",
+     4,
+     0,
+     77.1,
      [
+      {
+       "title": "UK opens applications for $34M critical minerals fund",
+       "url": "https://www.mining.com/uk-opens-applications-for-34m-critical-minerals-fund/",
+       "publisher": "Mining.com",
+       "sector": "Materials"
+      },
+      {
+       "title": "U.S. Moves to Keep Tungsten Scrap and Battery Metals at Home",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Moves-to-Keep-Tungsten-Scrap-and-Battery-Metals-at-Home.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      },
       {
        "title": "Hades licence win puts Germany on rare earth map",
        "url": "https://www.mining.com/hades-licence-win-puts-germany-on-rare-earth-map/",
@@ -47494,16 +48430,22 @@
      ]
     ],
     [
-     "china dominance",
-     0.2,
-     "falling",
-     1,
-     2,
-     7.7,
+     "temporary final rule",
+     0.4,
+     "new",
+     4,
+     0,
+     57.9,
      [
       {
-       "title": "U.S. Hits New Obstacle on Critical Mineral Security Course",
-       "url": "https://oilprice.com/Energy/Energy-General/US-Hits-New-Obstacle-on-Critical-Mineral-Security-Course.html",
+       "title": "DPAS Directive Allocation Order and Additional Requirements for Recoverable Critical Minerals and Materials",
+       "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16078/dpas-directive-allocation-order-and-additional-requirements-for-recoverable-critical-minerals-and",
+       "publisher": "Federal Register",
+       "sector": "Policy"
+      },
+      {
+       "title": "U.S. Moves to Keep Tungsten Scrap and Battery Metals at Home",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Moves-to-Keep-Tungsten-Scrap-and-Battery-Metals-at-Home.html",
        "publisher": "OilPrice",
        "sector": "Energy"
       }
@@ -47513,14 +48455,36 @@
      "supply risk",
      0.2,
      "falling",
-     1,
-     3,
-     5.8,
+     2,
+     6,
+     57.9,
      [
       {
        "title": "Critical Mineral Supply Risk to $6 . 5 Trillion Industry : IEA",
        "url": "https://www.newkerala.com/news/a/global-critical-mineral-concentration-export-controls-puts-usd-697.htm",
        "publisher": "newkerala.com",
+       "sector": "Materials"
+      }
+     ]
+    ],
+    [
+     "rare earth",
+     0.2,
+     "falling",
+     2,
+     4,
+     1.8,
+     [
+      {
+       "title": "Malaysia weighs loosening rare earth export limits as global supply chase intensifies",
+       "url": "https://www.digitimes.com/news/a20260807PD218/malaysia-rare-earth-exports-demand.html",
+       "publisher": "DigiTimes Asia",
+       "sector": "Technology"
+      },
+      {
+       "title": "Hades licence win puts Germany on rare earth map",
+       "url": "https://www.mining.com/hades-licence-win-puts-germany-on-rare-earth-map/",
+       "publisher": "Mining.com",
        "sector": "Materials"
       }
      ]
