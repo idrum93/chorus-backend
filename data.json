@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-08T00:50:29.989960+00:00",
+ "generated": "2026-08-08T02:28:32.023447+00:00",
  "prices": {
   "Autos": [
    {
@@ -2755,7 +2755,7 @@
  "coverage": [
   [
    "US",
-   5853
+   5855
   ],
   [
    "GB",
@@ -2779,11 +2779,11 @@
   ],
   [
    "JP",
-   89
+   90
   ],
   [
    "GR",
-   63
+   64
   ],
   [
    "AU",
@@ -2926,6 +2926,12 @@
   {
    "articles_list": [
     {
+     "title": "Mitsubishi Motors Gears Up for 2026 Asia Cross Country Rally",
+     "url": "https://www.japanindustrynews.com/2026/08/mitsubishi-motors-gears-up-for-2026-asia-cross-country-rally/",
+     "publisher": "Japan Industry News",
+     "sector": "Industrials"
+    },
+    {
      "title": "Mitsubishi and MEDIPAL Form Strategic Alliance to Expand Healthcare and Consumer Products",
      "url": "https://www.japanindustrynews.com/2026/08/mitsubishi-and-medipal-form-strategic-alliance-to-expand-healthcare-and-consumer-products/",
      "publisher": "Japan Industry News",
@@ -2934,12 +2940,6 @@
     {
      "title": "Chenbro revenue climbs in the second quarter as July shipments hit a record",
      "url": "https://www.digitimes.com/news/a20260807PD207/chenbro-revenue-shipments-2026-chassis.html",
-     "publisher": "DigiTimes Asia",
-     "sector": "Technology"
-    },
-    {
-     "title": "Highpoint Service Network posts record first-half profit on India expansion",
-     "url": "https://www.digitimes.com/news/a20260807PD208/profit-2026-revenue-eps-business.html",
      "publisher": "DigiTimes Asia",
      "sector": "Technology"
     }
@@ -3033,6 +3033,12 @@
   {
    "articles_list": [
     {
+     "title": "Mitsubishi Motors Gears Up for 2026 Asia Cross Country Rally",
+     "url": "https://www.japanindustrynews.com/2026/08/mitsubishi-motors-gears-up-for-2026-asia-cross-country-rally/",
+     "publisher": "Japan Industry News",
+     "sector": "Industrials"
+    },
+    {
      "title": "Mitsubishi and MEDIPAL Form Strategic Alliance to Expand Healthcare and Consumer Products",
      "url": "https://www.japanindustrynews.com/2026/08/mitsubishi-and-medipal-form-strategic-alliance-to-expand-healthcare-and-consumer-products/",
      "publisher": "Japan Industry News",
@@ -3043,12 +3049,6 @@
      "url": "https://www.pv-magazine.com/2026/08/07/researchers-warn-of-unexpected-copper-corrosion-in-perovskite-solar-cells/",
      "publisher": "PV Magazine",
      "sector": "Energy"
-    },
-    {
-     "title": "DPAS Directive Allocation Order and Additional Requirements for Recoverable Critical Minerals and Materials",
-     "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16078/dpas-directive-allocation-order-and-additional-requirements-for-recoverable-critical-minerals-and",
-     "publisher": "Federal Register",
-     "sector": "Policy"
     }
    ],
    "name": "Bureau of Industry and Security",
@@ -4501,6 +4501,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "Container News",
+       "title": "FESCO suspends Black Sea bookings after vessel sinking",
+       "url": "https://container-news.com/fesco-suspends-black-sea-bookings-after-vessel-sinking/",
+       "sector": "Supply chain",
+       "country": "GR"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions",
        "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Traders-Stay-Bearish-Despite-Deepening-Middle-East-Disruptions.html",
@@ -4513,13 +4520,6 @@
        "url": "https://semiengineering.com/model-tracks-bond-front-velocity-for-wafer-and-die-bonding-imec/",
        "sector": "Technology",
        "country": "US"
-      },
-      {
-       "publisher": "Container News",
-       "title": "Russia's Arctic sprint and the limits of acceleration",
-       "url": "https://container-news.com/russias-arctic-sprint-and-the-limits-of-acceleration/",
-       "sector": "Supply chain",
-       "country": "GR"
       }
      ]
     }
@@ -5605,6 +5605,72 @@
    ]
   },
   {
+   "prior14d": 0,
+   "direction": "new",
+   "ticker": "7211.T",
+   "name": "Mitsubishi Motors",
+   "sector": "Autos",
+   "articles": 11,
+   "articles14d": 9,
+   "terms": [
+    {
+     "term": "electric vehicle",
+     "articles": 1,
+     "sectors": 2,
+     "direction": "rising",
+     "examples": [
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "Integrated ecosystems become focus of AI-driven smart vehicle development",
+       "url": "https://www.digitimes.com/news/a20260807PD241/taiwan-vehicle-development-competition-autonomous-driving-cybersecurity.html",
+       "sector": "Technology",
+       "country": "TW"
+      },
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "Commentary: Why playing it safe could cost Taiwan the next battery boom",
+       "url": "https://www.digitimes.com/news/a20260806PD228/taiwan-investment-technology-autonomous-driving-growth.html",
+       "sector": "Technology",
+       "country": "TW"
+      },
+      {
+       "publisher": "Automotive World",
+       "title": "BMW i3 launch cuts Plant Munich costs by another 10%",
+       "url": "https://www.automotiveworld.com/news/bmw-i3-launch-cuts-plant-munich-costs-by-another-10/",
+       "sector": "Autos",
+       "country": "GB"
+      }
+     ]
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "Japan Industry News",
+     "title": "Mitsubishi and MEDIPAL Form Strategic Alliance to Expand Healthcare and Consumer Products",
+     "url": "https://www.japanindustrynews.com/2026/08/mitsubishi-and-medipal-form-strategic-alliance-to-expand-healthcare-and-consumer-products/",
+     "sector": "Industrials"
+    },
+    {
+     "publisher": "Japan Industry News",
+     "title": "Mitsubishi Motors Gears Up for 2026 Asia Cross Country Rally",
+     "url": "https://www.japanindustrynews.com/2026/08/mitsubishi-motors-gears-up-for-2026-asia-cross-country-rally/",
+     "sector": "Industrials"
+    },
+    {
+     "publisher": "Just Auto",
+     "title": "Mitsubishi to launch midsize, compact Pajero models by 2028",
+     "url": "https://www.just-auto.com/news/mitsubishi-midsize-compact-pajero-2028/",
+     "sector": "Autos"
+    },
+    {
+     "publisher": "ET BFSI",
+     "title": "Shriram Finance to borrow Rs 20,000 Cr in Q2 FY27 as AAA rating lowers funding costs by 50-60 bps",
+     "url": "https://bfsi.economictimes.indiatimes.com/articles/shriram-finance-to-borrow-rs-20000-cr-in-q2-fy27-as-aaa-rating-lowers-funding-costs-by-50-60-bps/132844453",
+     "sector": "Finance"
+    }
+   ]
+  },
+  {
    "prior14d": 6,
    "direction": "steady",
    "ticker": "000660.KS",
@@ -5666,72 +5732,6 @@
      "publisher": "DigiTimes Asia",
      "title": "SK Hynix, Sandisk release first HBF specs with up to 512GB and 3TB/s bandwidth",
      "url": "https://www.digitimes.com/news/a20260804VL212/sk-hynix-bandwidth-capacity-technology-hbm.html",
-     "sector": "Technology"
-    }
-   ]
-  },
-  {
-   "prior14d": 0,
-   "direction": "new",
-   "ticker": "7211.T",
-   "name": "Mitsubishi Motors",
-   "sector": "Autos",
-   "articles": 10,
-   "articles14d": 8,
-   "terms": [
-    {
-     "term": "electric vehicle",
-     "articles": 1,
-     "sectors": 2,
-     "direction": "rising",
-     "examples": [
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Integrated ecosystems become focus of AI-driven smart vehicle development",
-       "url": "https://www.digitimes.com/news/a20260807PD241/taiwan-vehicle-development-competition-autonomous-driving-cybersecurity.html",
-       "sector": "Technology",
-       "country": "TW"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Commentary: Why playing it safe could cost Taiwan the next battery boom",
-       "url": "https://www.digitimes.com/news/a20260806PD228/taiwan-investment-technology-autonomous-driving-growth.html",
-       "sector": "Technology",
-       "country": "TW"
-      },
-      {
-       "publisher": "Automotive World",
-       "title": "BMW i3 launch cuts Plant Munich costs by another 10%",
-       "url": "https://www.automotiveworld.com/news/bmw-i3-launch-cuts-plant-munich-costs-by-another-10/",
-       "sector": "Autos",
-       "country": "GB"
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "Japan Industry News",
-     "title": "Mitsubishi and MEDIPAL Form Strategic Alliance to Expand Healthcare and Consumer Products",
-     "url": "https://www.japanindustrynews.com/2026/08/mitsubishi-and-medipal-form-strategic-alliance-to-expand-healthcare-and-consumer-products/",
-     "sector": "Industrials"
-    },
-    {
-     "publisher": "Just Auto",
-     "title": "Mitsubishi to launch midsize, compact Pajero models by 2028",
-     "url": "https://www.just-auto.com/news/mitsubishi-midsize-compact-pajero-2028/",
-     "sector": "Autos"
-    },
-    {
-     "publisher": "ET BFSI",
-     "title": "Shriram Finance to borrow Rs 20,000 Cr in Q2 FY27 as AAA rating lowers funding costs by 50-60 bps",
-     "url": "https://bfsi.economictimes.indiatimes.com/articles/shriram-finance-to-borrow-rs-20000-cr-in-q2-fy27-as-aaa-rating-lowers-funding-costs-by-50-60-bps/132844453",
-     "sector": "Finance"
-    },
-    {
-     "publisher": "Nikkei Asia Business",
-     "title": "Mitsubishi Motors to expand Pajero SUV revival with midsize model",
-     "url": "https://asia.nikkei.com/business/automobiles/mitsubishi-motors-to-expand-pajero-suv-revival-with-midsize-model",
      "sector": "Technology"
     }
    ]
@@ -19829,8 +19829,8 @@
   ]
  },
  "daysCollected": 101,
- "articlesStored": 7036,
- "articlesLive": 3318,
+ "articlesStored": 7040,
+ "articlesLive": 3322,
  "windowDays": 90,
  "terms": [
   {
@@ -20153,7 +20153,7 @@
      "new",
      3,
      0,
-     64.4,
+     64.5,
      [
       {
        "title": "Texas A & M University joins the Genesis Mission to transform science using artificial intelligence Texas A & M Stories",
@@ -22263,18 +22263,24 @@
    },
    "cooc": [
     [
-     "cargo demand",
+     "brent crude",
      0.33,
      "steady",
      1,
      1,
-     42.4,
+     28.3,
      [
       {
-       "title": "Sharp fall in Q1 profits but ONE's new network strategy paying off",
-       "url": "https://theloadstar.com/sharp-fall-in-q1-profits-but-ones-new-network-strategy-paying-off/",
-       "publisher": "The Loadstar",
-       "sector": "Supply chain"
+       "title": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions",
+       "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Traders-Stay-Bearish-Despite-Deepening-Middle-East-Disruptions.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      },
+      {
+       "title": "Hormuz Bottleneck Pushes Indian Refiners Toward West African Grades",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Bottleneck-Pushes-Indian-Refiners-Toward-West-African-Grades.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
       }
      ]
     ],
@@ -22284,7 +22290,7 @@
      "new",
      3,
      0,
-     23.1,
+     23.2,
      [
       {
        "title": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions",
@@ -24195,7 +24201,7 @@
      "new",
      5,
      0,
-     120.8,
+     120.9,
      [
       {
        "title": "Transgaz-Argent LNG MOU advances US gas route to Central and Eastern Europe",
@@ -28513,7 +28519,7 @@
      "steady",
      1,
      1,
-     92.8,
+     92.9,
      [
       {
        "title": "Shriram Finance to borrow Rs 20,000 Cr in Q2 FY27 as AAA rating lowers funding costs by 50-60 bps",
@@ -30093,7 +30099,7 @@
      "new",
      3,
      0,
-     237.3,
+     237.4,
      [
       {
        "title": "Pacific Halibut Fisheries of the West Coast; Inseason Action for the 2026 Area 2A Pacific Halibut Directed Commercial Fishery",
@@ -30116,68 +30122,12 @@
      ]
     ],
     [
-     "mandeb strait",
-     1.0,
-     "new",
-     3,
-     0,
-     237.3,
-     [
-      {
-       "title": "Hormuz Bottleneck Pushes Indian Refiners Toward West African Grades",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Bottleneck-Pushes-Indian-Refiners-Toward-West-African-Grades.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      },
-      {
-       "title": "No charge for Bab al-Mandab Strait transits, Houthis tell The Loadstar",
-       "url": "https://theloadstar.com/no-charge-for-bab-al-mandab-strait-transits-houthis-tell-the-loadstar/",
-       "publisher": "The Loadstar",
-       "sector": "Supply chain"
-      },
-      {
-       "title": "Tanker Traffic Remains Subdued Despite Trump's Talk of Peace",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Tanker-Traffic-Remains-Subdued-Despite-Trumps-Talk-of-Peace.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      }
-     ]
-    ],
-    [
-     "cargo vessel",
-     1.0,
-     "new",
-     3,
-     0,
-     237.3,
-     [
-      {
-       "title": "Oil Prices Jump as Houthi Attacks Raise Saudi Supply Risks",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Jump-as-Houthi-Attacks-Raise-Saudi-Supply-Risks.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      },
-      {
-       "title": "Sweden clears Caffa transfer to Ukraine in landmark ruling",
-       "url": "https://splash247.com/sweden-clears-caffa-transfer-to-ukraine-in-landmark-ruling/",
-       "publisher": "Splash247",
-       "sector": "Supply chain"
-      },
-      {
-       "title": "China's Top Refiner Pivots to Russian Crude",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Top-Refiner-Pivots-to-Russian-Crude.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      }
-     ]
-    ],
-    [
      "houthi threat",
      1.0,
      "new",
      3,
      0,
-     189.8,
+     189.9,
      [
       {
        "title": "Most VLCC loadings directed northbound in Red Sea: DHT Holdings",
@@ -30205,7 +30155,7 @@
      "new",
      3,
      0,
-     23.1,
+     23.2,
      [
       {
        "title": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions",
@@ -30230,6 +30180,13 @@
    ],
    "examples": [
     {
+     "publisher": "Container News",
+     "title": "FESCO suspends Black Sea bookings after vessel sinking",
+     "url": "https://container-news.com/fesco-suspends-black-sea-bookings-after-vessel-sinking/",
+     "sector": "Supply chain",
+     "country": "GR"
+    },
+    {
      "publisher": "OilPrice",
      "title": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions",
      "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Traders-Stay-Bearish-Despite-Deepening-Middle-East-Disruptions.html",
@@ -30249,13 +30206,6 @@
      "url": "https://container-news.com/russias-arctic-sprint-and-the-limits-of-acceleration/",
      "sector": "Supply chain",
      "country": "GR"
-    },
-    {
-     "publisher": "Semiconductor Engineering",
-     "title": "Rapid Switching of Optical Properties in a Doped Semiconductor By Femtosecond Laser Pulses (Imperial College London, U. of Exeter)",
-     "url": "https://semiengineering.com/rapid-switching-of-optical-properties-in-a-doped-semiconductor-by-femtosecond-laser-pulses-imperial-college-london-u-of-exeter/",
-     "sector": "Technology",
-     "country": "US"
     }
    ],
    "daily": [
@@ -32861,30 +32811,7 @@
      }
     ]
    },
-   "cooc": [
-    [
-     "home battery",
-     0.5,
-     "steady",
-     1,
-     1,
-     68.2,
-     [
-      {
-       "title": "This Texas coal mine will soon be home to a 1.2GW solar farm",
-       "url": "https://www.canarymedia.com/articles/solar/texas-coal-mine-solar-farm",
-       "publisher": "Canary Media",
-       "sector": "Energy"
-      },
-      {
-       "title": "Want a home battery on a budget? Consider a portable, DIY system.",
-       "url": "https://www.canarymedia.com/articles/batteries/home-battery-on-a-budget",
-       "publisher": "Canary Media",
-       "sector": "Energy"
-      }
-     ]
-    ]
-   ],
+   "cooc": [],
    "examples": [
     {
      "publisher": "OilPrice",
