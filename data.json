@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-08T05:34:38.957428+00:00",
+ "generated": "2026-08-08T06:01:17.368474+00:00",
  "prices": {
   "Autos": [
    {
@@ -2763,7 +2763,7 @@
   ],
   [
    "IN",
-   228
+   232
   ],
   [
    "TW",
@@ -2782,6 +2782,10 @@
    90
   ],
   [
+   "DE",
+   69
+  ],
+  [
    "GR",
    65
   ],
@@ -2792,10 +2796,6 @@
   [
    "NL",
    40
-  ],
-  [
-   "DE",
-   39
   ],
   [
    "CA",
@@ -2810,7 +2810,7 @@
    12
   ]
  ],
- "publishers": 870,
+ "publishers": 871,
  "countryCount": 14,
  "institutions": [
   {
@@ -2953,14 +2953,20 @@
     "Energy"
    ],
    "sectorCount": 4,
-   "articles": 10,
-   "recent": 7,
+   "articles": 9,
+   "recent": 6,
    "prior": 3,
    "firstSeen": "2026-07-02",
    "direction": "rising"
   },
   {
    "articles_list": [
+    {
+     "title": "Juniper Green Energy bags 230 MW project from SECI",
+     "url": "https://manufacturing.economictimes.indiatimes.com/news/energy/juniper-green-energy-bags-230-mw-project-from-seci/133046604",
+     "publisher": "ET Manufacturing",
+     "sector": "Industrials"
+    },
     {
      "title": "Instant home services firms Urban Company, Snabbit slash prices, cut waiting times as competition intensifies",
      "url": "https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/instant-home-services-firms-urban-company-snabbit-slash-prices-cut-waiting-times-as-competition-intensifies/133045527",
@@ -2972,12 +2978,6 @@
      "url": "https://container-news.com/dynaliners-shares-index-edges-higher/",
      "publisher": "Container News",
      "sector": "Supply chain"
-    },
-    {
-     "title": "How India is preparing for the next generation of warfare: Defence Secretary Rajesh Kumar Singh",
-     "url": "https://government.economictimes.indiatimes.com/news/defence/how-india-is-preparing-for-the-next-generation-of-warfare-defence-secretary-rajesh-kumar-singh/133045397",
-     "publisher": "ET Government",
-     "sector": "Policy"
     }
    ],
    "name": "Securities and Exchange Commission",
@@ -2998,6 +2998,12 @@
   {
    "articles_list": [
     {
+     "title": "BMW sparks criticism with in-car Spider-Man advertising",
+     "url": "https://www.electrive.com/2026/08/07/bmw-sparks-criticism-with-in-car-spider-man-advertising/",
+     "publisher": "Electrive",
+     "sector": "Autos"
+    },
+    {
      "title": "British firm bets on aluminium to break lithium battery dependence",
      "url": "https://www.energylivenews.com/2026/08/07/british-firm-bets-on-aluminium-to-break-lithium-battery-dependence/",
      "publisher": "Energy Live News",
@@ -3008,12 +3014,6 @@
      "url": "https://www.energy-storage.news/us-doe-closes-us489-million-loan-with-pattern-energy-to-support-bess-natural-gas-in-puerto-rico/",
      "publisher": "Energy Storage News",
      "sector": "Utilities"
-    },
-    {
-     "title": "Norway's $2.3-Trillion Fund Opposes SEC Idea to Rescind Climate Reporting",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Norways-23-Trillion-Fund-Opposes-SEC-Idea-to-Rescind-Climate-Reporting.html",
-     "publisher": "OilPrice",
-     "sector": "Energy"
     }
    ],
    "name": "Department of Energy",
@@ -3208,22 +3208,22 @@
   {
    "articles_list": [
     {
+     "title": "Juniper Green Energy bags 230 MW project from SECI",
+     "url": "https://manufacturing.economictimes.indiatimes.com/news/energy/juniper-green-energy-bags-230-mw-project-from-seci/133046604",
+     "publisher": "ET Manufacturing",
+     "sector": "Industrials"
+    },
+    {
+     "title": "DRDO expeditiously finalise clear, measurable key performance indicators: Parl panel on defence",
+     "url": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/drdo-expeditiously-finalise-clear-measurable-key-performance-indicators-parl-panel-on-defence/133046636",
+     "publisher": "ET Manufacturing",
+     "sector": "Industrials"
+    },
+    {
      "title": "Instant home services firms Urban Company, Snabbit slash prices, cut waiting times as competition intensifies",
      "url": "https://retail.economictimes.indiatimes.com/news/e-commerce/e-tailing/instant-home-services-firms-urban-company-snabbit-slash-prices-cut-waiting-times-as-competition-intensifies/133045527",
      "publisher": "ET Retail",
      "sector": "Consumer"
-    },
-    {
-     "title": "Past tense, eye on future: Air India hikes pilots' pay by 8% to 15%",
-     "url": "https://hr.economictimes.indiatimes.com/news/industry/past-tense-eye-on-future-air-india-hikes-pilots-pay-by-8-to-15/133045213",
-     "publisher": "ET HRWorld",
-     "sector": "Labor"
-    },
-    {
-     "title": "MahaRERA invokes force majeure; extends project completion timeline by four months",
-     "url": "https://realty.economictimes.indiatimes.com/news/rera/maharera-invokes-force-majeure-extends-project-completion-timeline-by-four-months/133045575",
-     "publisher": "ET Realty",
-     "sector": "Real estate"
     }
    ],
    "name": "European Commission",
@@ -3306,40 +3306,6 @@
   {
    "articles_list": [
     {
-     "title": "Warren wants United Texas Bank's charter revoked",
-     "url": "https://www.bankingdive.com/news/warren-wants-united-texas-bank-charter-revoked-occ-fed-conversion-aml-consent-order/827351/",
-     "publisher": "Banking Dive",
-     "sector": "Finance"
-    },
-    {
-     "title": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
-     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm",
-     "publisher": "Federal Reserve",
-     "sector": "Finance"
-    },
-    {
-     "title": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
-     "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804b.htm",
-     "publisher": "Federal Reserve",
-     "sector": "Finance"
-    }
-   ],
-   "name": "Federal Reserve",
-   "acronym": null,
-   "sectors": [
-    "Finance",
-    "Labor"
-   ],
-   "sectorCount": 2,
-   "articles": 22,
-   "recent": 10,
-   "prior": 12,
-   "firstSeen": "2026-06-18",
-   "direction": "steady"
-  },
-  {
-   "articles_list": [
-    {
      "title": "MahaRERA invokes force majeure; extends project completion timeline by four months",
      "url": "https://realty.economictimes.indiatimes.com/news/rera/maharera-invokes-force-majeure-extends-project-completion-timeline-by-four-months/133045575",
      "publisher": "ET Realty",
@@ -3365,8 +3331,8 @@
     "Policy"
    ],
    "sectorCount": 2,
-   "articles": 10,
-   "recent": 8,
+   "articles": 11,
+   "recent": 9,
    "prior": 2,
    "firstSeen": "2026-07-23",
    "direction": "rising"
@@ -3578,6 +3544,12 @@
   {
    "articles_list": [
     {
+     "title": "BMW sparks criticism with in-car Spider-Man advertising",
+     "url": "https://www.electrive.com/2026/08/07/bmw-sparks-criticism-with-in-car-spider-man-advertising/",
+     "publisher": "Electrive",
+     "sector": "Autos"
+    },
+    {
      "title": "British firm bets on aluminium to break lithium battery dependence",
      "url": "https://www.energylivenews.com/2026/08/07/british-firm-bets-on-aluminium-to-break-lithium-battery-dependence/",
      "publisher": "Energy Live News",
@@ -3588,12 +3560,6 @@
      "url": "https://www.energy-storage.news/us-doe-closes-us489-million-loan-with-pattern-energy-to-support-bess-natural-gas-in-puerto-rico/",
      "publisher": "Energy Storage News",
      "sector": "Utilities"
-    },
-    {
-     "title": "Norway's $2.3-Trillion Fund Opposes SEC Idea to Rescind Climate Reporting",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Norways-23-Trillion-Fund-Opposes-SEC-Idea-to-Rescind-Climate-Reporting.html",
-     "publisher": "OilPrice",
-     "sector": "Energy"
     }
    ],
    "name": "US Department of Energy",
@@ -3636,40 +3602,6 @@
    "prior": 2,
    "firstSeen": "2026-07-16",
    "direction": "steady"
-  },
-  {
-   "articles_list": [
-    {
-     "title": "Suitability Action Appeals",
-     "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15650/suitability-action-appeals",
-     "publisher": "Federal Register",
-     "sector": "Policy"
-    },
-    {
-     "title": "Streamlining Probationary and Trial Period Appeals",
-     "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15654/streamlining-probationary-and-trial-period-appeals",
-     "publisher": "Federal Register",
-     "sector": "Policy"
-    },
-    {
-     "title": "Reduction in Force Appeals",
-     "url": "https://www.federalregister.gov/documents/2026/08/03/2026-15666/reduction-in-force-appeals",
-     "publisher": "Federal Register",
-     "sector": "Policy"
-    }
-   ],
-   "name": "Merit Systems Protection Board",
-   "acronym": "MSPB",
-   "sectors": [
-    "Policy",
-    "Labor"
-   ],
-   "sectorCount": 2,
-   "articles": 4,
-   "recent": 4,
-   "prior": 0,
-   "firstSeen": "2026-07-31",
-   "direction": "new"
   },
   {
    "articles_list": [
@@ -3809,8 +3741,8 @@
    "ticker": "TSLA",
    "name": "Tesla",
    "sector": "Autos",
-   "articles": 22,
-   "articles14d": 13,
+   "articles": 24,
+   "articles14d": 15,
    "terms": [
     {
      "term": "energy storage",
@@ -3913,18 +3845,18 @@
        "country": "NL"
       },
       {
+       "publisher": "Electrive",
+       "title": "SAIC and GM extend Chinese joint venture to 2047",
+       "url": "https://www.electrive.com/2026/08/06/saic-and-gm-extend-chinese-joint-venture-to-2047/",
+       "sector": "Autos",
+       "country": "DE"
+      },
+      {
        "publisher": "Commercial Observer",
        "title": "Madison Realty Capital Provides $100M Loan for RXR Multifamily Asset",
        "url": "https://commercialobserver.com/2026/08/madson-realty-capital-provides-100m-loan-rxr-ave-station-house/",
        "sector": "Real estate",
        "country": "US"
-      },
-      {
-       "publisher": "Automotive World",
-       "title": "Joby nears FAA certification as manufacturing ramps up",
-       "url": "https://www.automotiveworld.com/news/joby-nears-faa-certification-as-manufacturing-ramps-up/",
-       "sector": "Autos",
-       "country": "GB"
       }
      ]
     },
@@ -4357,6 +4289,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "ET Manufacturing",
+       "title": "Juniper Green Energy bags 230 MW project from SECI",
+       "url": "https://manufacturing.economictimes.indiatimes.com/news/energy/juniper-green-energy-bags-230-mw-project-from-seci/133046604",
+       "sector": "Industrials",
+       "country": "IN"
+      },
+      {
        "publisher": "Waste Dive",
        "title": "What's next as Hawai'i enacts clean fuels program; Biogas news from Waga, Convertus",
        "url": "https://www.wastedive.com/news/hawaii-enacts-clean-fuels-standard-biogas-news-waga-convertus-redtail/827285/",
@@ -4369,13 +4308,6 @@
        "url": "https://www.pv-magazine.com/2026/08/07/is-the-traditional-ppa-dying-in-southern-africa/",
        "sector": "Energy",
        "country": "DE"
-      },
-      {
-       "publisher": "Container News",
-       "title": "PortXchange joins SASHA Coalition to strengthen port emissions insight",
-       "url": "https://container-news.com/portxchange-joins-sasha-coalition-to-strengthen-port-emissions-insight/",
-       "sector": "Supply chain",
-       "country": "GR"
       }
      ]
     },
@@ -4954,6 +4886,159 @@
    ]
   },
   {
+   "prior14d": 2,
+   "direction": "rising",
+   "ticker": "005930.KS",
+   "name": "Samsung Electronics",
+   "sector": "Technology",
+   "articles": 27,
+   "articles14d": 19,
+   "terms": [
+    {
+     "term": "supply chain",
+     "articles": 3,
+     "sectors": 7,
+     "direction": "rising",
+     "examples": [
+      {
+       "publisher": "ET Realty",
+       "title": "MahaRERA invokes force majeure; extends project completion timeline by four months",
+       "url": "https://realty.economictimes.indiatimes.com/news/rera/maharera-invokes-force-majeure-extends-project-completion-timeline-by-four-months/133045575",
+       "sector": "Real estate",
+       "country": "IN"
+      },
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "Interview: Lightmatter maps CPO future with Nvidia NVLink, Taiwan supply chain",
+       "url": "https://www.digitimes.com/news/a20260807PD228/ocp-cpo-nvidia-taiwan-supply-chain-2026.html",
+       "sector": "Technology",
+       "country": "TW"
+      },
+      {
+       "publisher": "The Loadstar",
+       "title": "Global tension + rising costs = more pressure on UK SMEs",
+       "url": "https://theloadstar.com/global-tension-rising-costs-more-pressure-on-uk-smes/",
+       "sector": "Supply chain",
+       "country": "GB"
+      }
+     ]
+    },
+    {
+     "term": "artificial intelligence",
+     "articles": 2,
+     "sectors": 7,
+     "direction": "rising",
+     "examples": [
+      {
+       "publisher": "ET HRWorld",
+       "title": "SBI moving entire cheque processing to AI, aims to free up workforce for higher-value roles: Chairman CS Setty",
+       "url": "https://hr.economictimes.indiatimes.com/news/industry/sbi-moving-entire-cheque-processing-to-ai-aims-to-free-up-workforce-for-higher-value-roles-chairman-cs-setty/133045266",
+       "sector": "Labor",
+       "country": "IN"
+      },
+      {
+       "publisher": "OilPrice",
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "sector": "Energy",
+       "country": "US"
+      },
+      {
+       "publisher": "Commercial Observer",
+       "title": "Document Processing Platform Extend AI Signs 9K-SF Lease at 119 Fifth Avenue",
+       "url": "https://commercialobserver.com/2026/08/extend-ai-lease-119-fifth-avenue/",
+       "sector": "Real estate",
+       "country": "US"
+      }
+     ]
+    },
+    {
+     "term": "production capacity",
+     "articles": 1,
+     "sectors": 2,
+     "direction": "new",
+     "examples": [
+      {
+       "publisher": "Electrive",
+       "title": "\u0160koda starts series production of the new Peaq",
+       "url": "https://www.electrive.com/2026/08/07/skoda-starts-series-production-of-the-new-peaq/",
+       "sector": "Autos",
+       "country": "DE"
+      },
+      {
+       "publisher": "Manufacturing Dive",
+       "title": "Trump imposes 15% tariff on polysilicon imports for chips, solar power",
+       "url": "https://www.manufacturingdive.com/news/trump-imposes-15-tariff-on-polysilicon-imports-for-chips-solar-power/827338/",
+       "sector": "Industrials",
+       "country": "US"
+      },
+      {
+       "publisher": "PV Magazine",
+       "title": "The Hydrogen Stream: Over $1 billion in funds for projects in Spain, the Netherlands",
+       "url": "https://www.pv-magazine.com/2026/08/07/the-hydrogen-stream-over-1-billion-in-funds-for-projects-in-spain-the-netherlands/",
+       "sector": "Energy",
+       "country": "DE"
+      }
+     ]
+    },
+    {
+     "term": "data center",
+     "articles": 1,
+     "sectors": 7,
+     "direction": "rising",
+     "examples": [
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "Accton revenue jumps on AI switch demand as 1.6T shipments expand",
+       "url": "https://www.digitimes.com/news/a20260807PD205/demand-revenue-accton-switch-high-end.html",
+       "sector": "Technology",
+       "country": "TW"
+      },
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "Compeq says satellite and data center orders will drive second-half growth",
+       "url": "https://www.digitimes.com/news/a20260807PD252/data-center-compeq-manufacturing-demand-revenue-2026.html",
+       "sector": "Technology",
+       "country": "TW"
+      },
+      {
+       "publisher": "Renewable Energy World",
+       "title": "With speed to power in mind, data centers are eyeing fuel cells This Week in Cleantech",
+       "url": "https://www.renewableenergyworld.com/energy-business/with-speed-to-power-in-mind-data-centers-are-eyeing-fuel-cells-this-week-in-cleantech/",
+       "sector": "Utilities",
+       "country": "US"
+      }
+     ]
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "DigiTimes Asia",
+     "title": "Samsung sounds out Novatek for Galaxy S28 Ultra DDI",
+     "url": "https://www.digitimes.com/news/a20260807VL213/samsung-galaxy-ddi-novatek-supplier.html",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "The Elec",
+     "title": "Shinheung SEC to Boost Battery Component Output by 20% Amid Samsung SDI Cylindrical Cell Shortage",
+     "url": "https://www.thelec.net/news/articleView.html?idxno=12883",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "The Elec",
+     "title": "Samsung Electronics Launches Galaxy Z Series Globally",
+     "url": "https://www.thelec.net/news/articleView.html?idxno=12876",
+     "sector": "Technology"
+    },
+    {
+     "publisher": "The Elec",
+     "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
+     "url": "https://www.thelec.net/news/articleView.html?idxno=12835",
+     "sector": "Technology"
+    }
+   ]
+  },
+  {
    "prior14d": 5,
    "direction": "rising",
    "ticker": "7203.T",
@@ -4976,18 +5061,18 @@
        "country": "NL"
       },
       {
+       "publisher": "Electrive",
+       "title": "SAIC and GM extend Chinese joint venture to 2047",
+       "url": "https://www.electrive.com/2026/08/06/saic-and-gm-extend-chinese-joint-venture-to-2047/",
+       "sector": "Autos",
+       "country": "DE"
+      },
+      {
        "publisher": "Commercial Observer",
        "title": "Madison Realty Capital Provides $100M Loan for RXR Multifamily Asset",
        "url": "https://commercialobserver.com/2026/08/madson-realty-capital-provides-100m-loan-rxr-ave-station-house/",
        "sector": "Real estate",
        "country": "US"
-      },
-      {
-       "publisher": "Automotive World",
-       "title": "Joby nears FAA certification as manufacturing ramps up",
-       "url": "https://www.automotiveworld.com/news/joby-nears-faa-certification-as-manufacturing-ramps-up/",
-       "sector": "Autos",
-       "country": "GB"
       }
      ]
     },
@@ -5005,18 +5090,18 @@
        "country": "GB"
       },
       {
-       "publisher": "ET HRWorld",
-       "title": "EV industry to generate up to 40 million jobs by 2030: Report",
-       "url": "https://hr.economictimes.indiatimes.com/news/industry/ev-industry-to-generate-up-to-40-million-jobs-by-2030-report/132958539",
-       "sector": "Labor",
-       "country": "IN"
+       "publisher": "Electrive",
+       "title": "Factorial and Tulip Tech partner on solid-state batteries for drones",
+       "url": "https://www.electrive.com/2026/08/05/factorial-and-tulip-tech-partner-on-solid-state-batteries-for-drones/",
+       "sector": "Autos",
+       "country": "DE"
       },
       {
-       "publisher": "Commercial Observer",
-       "title": "In Largest U.S. Multifamily Sale Since 2024, BlackRock Pays $1.63B in SoCal",
-       "url": "https://commercialobserver.com/2026/08/california-multifamily-housing-blackrock-camden/",
-       "sector": "Real estate",
-       "country": "US"
+       "publisher": "Electrive",
+       "title": "UK records strongest EV July to date",
+       "url": "https://www.electrive.com/2026/08/05/uk-records-strongest-ev-july-to-date/",
+       "sector": "Autos",
+       "country": "DE"
       }
      ]
     },
@@ -5129,18 +5214,18 @@
        "country": "NL"
       },
       {
+       "publisher": "Electrive",
+       "title": "SAIC and GM extend Chinese joint venture to 2047",
+       "url": "https://www.electrive.com/2026/08/06/saic-and-gm-extend-chinese-joint-venture-to-2047/",
+       "sector": "Autos",
+       "country": "DE"
+      },
+      {
        "publisher": "Commercial Observer",
        "title": "Madison Realty Capital Provides $100M Loan for RXR Multifamily Asset",
        "url": "https://commercialobserver.com/2026/08/madson-realty-capital-provides-100m-loan-rxr-ave-station-house/",
        "sector": "Real estate",
        "country": "US"
-      },
-      {
-       "publisher": "Automotive World",
-       "title": "Joby nears FAA certification as manufacturing ramps up",
-       "url": "https://www.automotiveworld.com/news/joby-nears-faa-certification-as-manufacturing-ramps-up/",
-       "sector": "Autos",
-       "country": "GB"
       }
      ]
     },
@@ -5158,18 +5243,18 @@
        "country": "GB"
       },
       {
-       "publisher": "ET HRWorld",
-       "title": "EV industry to generate up to 40 million jobs by 2030: Report",
-       "url": "https://hr.economictimes.indiatimes.com/news/industry/ev-industry-to-generate-up-to-40-million-jobs-by-2030-report/132958539",
-       "sector": "Labor",
-       "country": "IN"
+       "publisher": "Electrive",
+       "title": "Factorial and Tulip Tech partner on solid-state batteries for drones",
+       "url": "https://www.electrive.com/2026/08/05/factorial-and-tulip-tech-partner-on-solid-state-batteries-for-drones/",
+       "sector": "Autos",
+       "country": "DE"
       },
       {
-       "publisher": "Commercial Observer",
-       "title": "In Largest U.S. Multifamily Sale Since 2024, BlackRock Pays $1.63B in SoCal",
-       "url": "https://commercialobserver.com/2026/08/california-multifamily-housing-blackrock-camden/",
-       "sector": "Real estate",
-       "country": "US"
+       "publisher": "Electrive",
+       "title": "UK records strongest EV July to date",
+       "url": "https://www.electrive.com/2026/08/05/uk-records-strongest-ev-july-to-date/",
+       "sector": "Autos",
+       "country": "DE"
       }
      ]
     },
@@ -5260,12 +5345,12 @@
    ]
   },
   {
-   "prior14d": 1,
-   "direction": "rising",
+   "prior14d": 0,
+   "direction": "new",
    "ticker": "CVX",
    "name": "Chevron",
    "sector": "Energy",
-   "articles": 9,
+   "articles": 8,
    "articles14d": 7,
    "terms": [
     {
@@ -5566,130 +5651,6 @@
    ]
   },
   {
-   "prior14d": 2,
-   "direction": "rising",
-   "ticker": "005930.KS",
-   "name": "Samsung Electronics",
-   "sector": "Technology",
-   "articles": 26,
-   "articles14d": 18,
-   "terms": [
-    {
-     "term": "supply chain",
-     "articles": 3,
-     "sectors": 7,
-     "direction": "rising",
-     "examples": [
-      {
-       "publisher": "ET Realty",
-       "title": "MahaRERA invokes force majeure; extends project completion timeline by four months",
-       "url": "https://realty.economictimes.indiatimes.com/news/rera/maharera-invokes-force-majeure-extends-project-completion-timeline-by-four-months/133045575",
-       "sector": "Real estate",
-       "country": "IN"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Interview: Lightmatter maps CPO future with Nvidia NVLink, Taiwan supply chain",
-       "url": "https://www.digitimes.com/news/a20260807PD228/ocp-cpo-nvidia-taiwan-supply-chain-2026.html",
-       "sector": "Technology",
-       "country": "TW"
-      },
-      {
-       "publisher": "The Loadstar",
-       "title": "Global tension + rising costs = more pressure on UK SMEs",
-       "url": "https://theloadstar.com/global-tension-rising-costs-more-pressure-on-uk-smes/",
-       "sector": "Supply chain",
-       "country": "GB"
-      }
-     ]
-    },
-    {
-     "term": "artificial intelligence",
-     "articles": 2,
-     "sectors": 7,
-     "direction": "rising",
-     "examples": [
-      {
-       "publisher": "ET HRWorld",
-       "title": "SBI moving entire cheque processing to AI, aims to free up workforce for higher-value roles: Chairman CS Setty",
-       "url": "https://hr.economictimes.indiatimes.com/news/industry/sbi-moving-entire-cheque-processing-to-ai-aims-to-free-up-workforce-for-higher-value-roles-chairman-cs-setty/133045266",
-       "sector": "Labor",
-       "country": "IN"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
-       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
-       "sector": "Energy",
-       "country": "US"
-      },
-      {
-       "publisher": "Commercial Observer",
-       "title": "Document Processing Platform Extend AI Signs 9K-SF Lease at 119 Fifth Avenue",
-       "url": "https://commercialobserver.com/2026/08/extend-ai-lease-119-fifth-avenue/",
-       "sector": "Real estate",
-       "country": "US"
-      }
-     ]
-    },
-    {
-     "term": "data center",
-     "articles": 1,
-     "sectors": 7,
-     "direction": "rising",
-     "examples": [
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Accton revenue jumps on AI switch demand as 1.6T shipments expand",
-       "url": "https://www.digitimes.com/news/a20260807PD205/demand-revenue-accton-switch-high-end.html",
-       "sector": "Technology",
-       "country": "TW"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Compeq says satellite and data center orders will drive second-half growth",
-       "url": "https://www.digitimes.com/news/a20260807PD252/data-center-compeq-manufacturing-demand-revenue-2026.html",
-       "sector": "Technology",
-       "country": "TW"
-      },
-      {
-       "publisher": "Renewable Energy World",
-       "title": "With speed to power in mind, data centers are eyeing fuel cells This Week in Cleantech",
-       "url": "https://www.renewableenergyworld.com/energy-business/with-speed-to-power-in-mind-data-centers-are-eyeing-fuel-cells-this-week-in-cleantech/",
-       "sector": "Utilities",
-       "country": "US"
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "Samsung sounds out Novatek for Galaxy S28 Ultra DDI",
-     "url": "https://www.digitimes.com/news/a20260807VL213/samsung-galaxy-ddi-novatek-supplier.html",
-     "sector": "Technology"
-    },
-    {
-     "publisher": "The Elec",
-     "title": "Shinheung SEC to Boost Battery Component Output by 20% Amid Samsung SDI Cylindrical Cell Shortage",
-     "url": "https://www.thelec.net/news/articleView.html?idxno=12883",
-     "sector": "Technology"
-    },
-    {
-     "publisher": "The Elec",
-     "title": "Samsung Electronics Launches Galaxy Z Series Globally",
-     "url": "https://www.thelec.net/news/articleView.html?idxno=12876",
-     "sector": "Technology"
-    },
-    {
-     "publisher": "The Elec",
-     "title": "Samsung Debuts zHBM Prototype, Stacking Memory Directly on AI Accelerators",
-     "url": "https://www.thelec.net/news/articleView.html?idxno=12835",
-     "sector": "Technology"
-    }
-   ]
-  },
-  {
    "prior14d": 0,
    "direction": "new",
    "ticker": "MP",
@@ -5914,8 +5875,8 @@
    "ticker": "F",
    "name": "Ford Motor",
    "sector": "Autos",
-   "articles": 28,
-   "articles14d": 17,
+   "articles": 29,
+   "articles14d": 18,
    "terms": [
     {
      "term": "joint venture",
@@ -5931,18 +5892,18 @@
        "country": "NL"
       },
       {
+       "publisher": "Electrive",
+       "title": "SAIC and GM extend Chinese joint venture to 2047",
+       "url": "https://www.electrive.com/2026/08/06/saic-and-gm-extend-chinese-joint-venture-to-2047/",
+       "sector": "Autos",
+       "country": "DE"
+      },
+      {
        "publisher": "Commercial Observer",
        "title": "Madison Realty Capital Provides $100M Loan for RXR Multifamily Asset",
        "url": "https://commercialobserver.com/2026/08/madson-realty-capital-provides-100m-loan-rxr-ave-station-house/",
        "sector": "Real estate",
        "country": "US"
-      },
-      {
-       "publisher": "Automotive World",
-       "title": "Joby nears FAA certification as manufacturing ramps up",
-       "url": "https://www.automotiveworld.com/news/joby-nears-faa-certification-as-manufacturing-ramps-up/",
-       "sector": "Autos",
-       "country": "GB"
       }
      ]
     },
@@ -5984,6 +5945,12 @@
      "sector": "Autos"
     },
     {
+     "publisher": "Electrive",
+     "title": "Ford names its affordable electric pickup Fathom",
+     "url": "https://www.electrive.com/2026/08/07/ford-names-its-affordable-electric-pickup-fathom/",
+     "sector": "Autos"
+    },
+    {
      "publisher": "Canary Media",
      "title": "Can Ford's new electric truck hit the sweet spot?",
      "url": "https://www.canarymedia.com/articles/electric-vehicles/can-fords-new-electric-truck-hit-the-sweet-spot",
@@ -5993,12 +5960,6 @@
      "publisher": "Automotive World",
      "title": "Blue Bird to design next-generation chassis with Ford",
      "url": "https://www.automotiveworld.com/news/blue-bird-to-design-next-generation-chassis-with-ford/",
-     "sector": "Autos"
-    },
-    {
-     "publisher": "Automotive Dive",
-     "title": "Ford's affordable electric pickup gets $30k starting price, and a name: Fathom",
-     "url": "https://www.wardsauto.com/news/fords-affordable-electric-pickup-gets-30k-starting-price-and-a-name-fat/827166/",
      "sector": "Autos"
     }
    ]
@@ -6406,18 +6367,18 @@
        "country": "NL"
       },
       {
+       "publisher": "Electrive",
+       "title": "SAIC and GM extend Chinese joint venture to 2047",
+       "url": "https://www.electrive.com/2026/08/06/saic-and-gm-extend-chinese-joint-venture-to-2047/",
+       "sector": "Autos",
+       "country": "DE"
+      },
+      {
        "publisher": "Commercial Observer",
        "title": "Madison Realty Capital Provides $100M Loan for RXR Multifamily Asset",
        "url": "https://commercialobserver.com/2026/08/madson-realty-capital-provides-100m-loan-rxr-ave-station-house/",
        "sector": "Real estate",
        "country": "US"
-      },
-      {
-       "publisher": "Automotive World",
-       "title": "Joby nears FAA certification as manufacturing ramps up",
-       "url": "https://www.automotiveworld.com/news/joby-nears-faa-certification-as-manufacturing-ramps-up/",
-       "sector": "Autos",
-       "country": "GB"
       }
      ]
     },
@@ -6501,18 +6462,18 @@
        "country": "NL"
       },
       {
+       "publisher": "Electrive",
+       "title": "SAIC and GM extend Chinese joint venture to 2047",
+       "url": "https://www.electrive.com/2026/08/06/saic-and-gm-extend-chinese-joint-venture-to-2047/",
+       "sector": "Autos",
+       "country": "DE"
+      },
+      {
        "publisher": "Commercial Observer",
        "title": "Madison Realty Capital Provides $100M Loan for RXR Multifamily Asset",
        "url": "https://commercialobserver.com/2026/08/madson-realty-capital-provides-100m-loan-rxr-ave-station-house/",
        "sector": "Real estate",
        "country": "US"
-      },
-      {
-       "publisher": "Automotive World",
-       "title": "Joby nears FAA certification as manufacturing ramps up",
-       "url": "https://www.automotiveworld.com/news/joby-nears-faa-certification-as-manufacturing-ramps-up/",
-       "sector": "Autos",
-       "country": "GB"
       }
      ]
     },
@@ -6625,18 +6586,18 @@
        "country": "NL"
       },
       {
+       "publisher": "Electrive",
+       "title": "SAIC and GM extend Chinese joint venture to 2047",
+       "url": "https://www.electrive.com/2026/08/06/saic-and-gm-extend-chinese-joint-venture-to-2047/",
+       "sector": "Autos",
+       "country": "DE"
+      },
+      {
        "publisher": "Commercial Observer",
        "title": "Madison Realty Capital Provides $100M Loan for RXR Multifamily Asset",
        "url": "https://commercialobserver.com/2026/08/madson-realty-capital-provides-100m-loan-rxr-ave-station-house/",
        "sector": "Real estate",
        "country": "US"
-      },
-      {
-       "publisher": "Automotive World",
-       "title": "Joby nears FAA certification as manufacturing ramps up",
-       "url": "https://www.automotiveworld.com/news/joby-nears-faa-certification-as-manufacturing-ramps-up/",
-       "sector": "Autos",
-       "country": "GB"
       }
      ]
     }
@@ -6786,18 +6747,18 @@
        "country": "NL"
       },
       {
+       "publisher": "Electrive",
+       "title": "SAIC and GM extend Chinese joint venture to 2047",
+       "url": "https://www.electrive.com/2026/08/06/saic-and-gm-extend-chinese-joint-venture-to-2047/",
+       "sector": "Autos",
+       "country": "DE"
+      },
+      {
        "publisher": "Commercial Observer",
        "title": "Madison Realty Capital Provides $100M Loan for RXR Multifamily Asset",
        "url": "https://commercialobserver.com/2026/08/madson-realty-capital-provides-100m-loan-rxr-ave-station-house/",
        "sector": "Real estate",
        "country": "US"
-      },
-      {
-       "publisher": "Automotive World",
-       "title": "Joby nears FAA certification as manufacturing ramps up",
-       "url": "https://www.automotiveworld.com/news/joby-nears-faa-certification-as-manufacturing-ramps-up/",
-       "sector": "Autos",
-       "country": "GB"
       }
      ]
     },
@@ -6881,18 +6842,18 @@
        "country": "GB"
       },
       {
-       "publisher": "ET HRWorld",
-       "title": "EV industry to generate up to 40 million jobs by 2030: Report",
-       "url": "https://hr.economictimes.indiatimes.com/news/industry/ev-industry-to-generate-up-to-40-million-jobs-by-2030-report/132958539",
-       "sector": "Labor",
-       "country": "IN"
+       "publisher": "Electrive",
+       "title": "Factorial and Tulip Tech partner on solid-state batteries for drones",
+       "url": "https://www.electrive.com/2026/08/05/factorial-and-tulip-tech-partner-on-solid-state-batteries-for-drones/",
+       "sector": "Autos",
+       "country": "DE"
       },
       {
-       "publisher": "Commercial Observer",
-       "title": "In Largest U.S. Multifamily Sale Since 2024, BlackRock Pays $1.63B in SoCal",
-       "url": "https://commercialobserver.com/2026/08/california-multifamily-housing-blackrock-camden/",
-       "sector": "Real estate",
-       "country": "US"
+       "publisher": "Electrive",
+       "title": "UK records strongest EV July to date",
+       "url": "https://www.electrive.com/2026/08/05/uk-records-strongest-ev-july-to-date/",
+       "sector": "Autos",
+       "country": "DE"
       }
      ]
     }
@@ -7006,25 +6967,25 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "Electrive",
+       "title": "CATL Expands Its Lead in the Global Battery Market",
+       "url": "https://www.electrive.com/2026/08/07/catl-expands-its-lead-in-the-global-battery-market/",
+       "sector": "Autos",
+       "country": "DE"
+      },
+      {
+       "publisher": "Electrive",
+       "title": "South Korea to fully transition new police vehicles to electric and hydrogen models",
+       "url": "https://www.electrive.com/2026/08/07/south-korea-to-fully-transition-new-police-vehicles-to-electric-and-hydrogen-models/",
+       "sector": "Autos",
+       "country": "DE"
+      },
+      {
        "publisher": "DigiTimes Asia",
        "title": "Integrated ecosystems become focus of AI-driven smart vehicle development",
        "url": "https://www.digitimes.com/news/a20260807PD241/taiwan-vehicle-development-competition-autonomous-driving-cybersecurity.html",
        "sector": "Technology",
        "country": "TW"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Commentary: Why playing it safe could cost Taiwan the next battery boom",
-       "url": "https://www.digitimes.com/news/a20260806PD228/taiwan-investment-technology-autonomous-driving-growth.html",
-       "sector": "Technology",
-       "country": "TW"
-      },
-      {
-       "publisher": "Energy Live News",
-       "title": "Royal Mail unveil 9000th electric van",
-       "url": "https://www.energylivenews.com/2026/08/06/royal-mail-unveil-9000th-electric-van/",
-       "sector": "Utilities",
-       "country": "GB"
       }
      ]
     }
@@ -7468,25 +7429,25 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "Electrive",
+       "title": "CATL Expands Its Lead in the Global Battery Market",
+       "url": "https://www.electrive.com/2026/08/07/catl-expands-its-lead-in-the-global-battery-market/",
+       "sector": "Autos",
+       "country": "DE"
+      },
+      {
+       "publisher": "Electrive",
+       "title": "South Korea to fully transition new police vehicles to electric and hydrogen models",
+       "url": "https://www.electrive.com/2026/08/07/south-korea-to-fully-transition-new-police-vehicles-to-electric-and-hydrogen-models/",
+       "sector": "Autos",
+       "country": "DE"
+      },
+      {
        "publisher": "DigiTimes Asia",
        "title": "Integrated ecosystems become focus of AI-driven smart vehicle development",
        "url": "https://www.digitimes.com/news/a20260807PD241/taiwan-vehicle-development-competition-autonomous-driving-cybersecurity.html",
        "sector": "Technology",
        "country": "TW"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Commentary: Why playing it safe could cost Taiwan the next battery boom",
-       "url": "https://www.digitimes.com/news/a20260806PD228/taiwan-investment-technology-autonomous-driving-growth.html",
-       "sector": "Technology",
-       "country": "TW"
-      },
-      {
-       "publisher": "Energy Live News",
-       "title": "Royal Mail unveil 9000th electric van",
-       "url": "https://www.energylivenews.com/2026/08/06/royal-mail-unveil-9000th-electric-van/",
-       "sector": "Utilities",
-       "country": "GB"
       }
      ]
     }
@@ -26749,8 +26710,8 @@
   ]
  },
  "daysCollected": 103,
- "articlesStored": 7157,
- "articlesLive": 3383,
+ "articlesStored": 7191,
+ "articlesLive": 3417,
  "windowDays": 90,
  "terms": [
   {
@@ -27074,7 +27035,7 @@
      "new",
      3,
      0,
-     64.7,
+     65.1,
      [
       {
        "title": "Texas A & M University joins the Genesis Mission to transform science using artificial intelligence Texas A & M Stories",
@@ -27102,7 +27063,7 @@
      "new",
      3,
      0,
-     51.8,
+     52.0,
      [
       {
        "title": "AMD Sees Data Center Revenue More Than Doubling Next Year as AI Demand Surges",
@@ -27875,7 +27836,7 @@
      "new",
      3,
      0,
-     8.1,
+     8.2,
      [
       {
        "title": "China launches review of Palo Alto Networks as trade tensions with US escalate",
@@ -27925,7 +27886,7 @@
      "rising",
      3,
      1,
-     3.4,
+     3.5,
      [
       {
        "title": "Malaysia weighs loosening rare earth export limits as global supply chase intensifies",
@@ -28340,7 +28301,7 @@
      "n": 2
     }
    ],
-   "specificity": 0.908,
+   "specificity": 0.909,
    "rank": 4.25
   },
   {
@@ -28354,7 +28315,7 @@
    "daysSinceNewestSector": 9,
    "articles14d": 17,
    "articlesPrior14d": 1,
-   "publishers": 13,
+   "publishers": 14,
    "sectors": [
     {
      "name": "Real estate",
@@ -28585,6 +28546,13 @@
      "country": "NL"
     },
     {
+     "publisher": "Electrive",
+     "title": "SAIC and GM extend Chinese joint venture to 2047",
+     "url": "https://www.electrive.com/2026/08/06/saic-and-gm-extend-chinese-joint-venture-to-2047/",
+     "sector": "Autos",
+     "country": "DE"
+    },
+    {
      "publisher": "Commercial Observer",
      "title": "Madison Realty Capital Provides $100M Loan for RXR Multifamily Asset",
      "url": "https://commercialobserver.com/2026/08/madson-realty-capital-provides-100m-loan-rxr-ave-station-house/",
@@ -28597,13 +28565,6 @@
      "url": "https://www.automotiveworld.com/news/joby-nears-faa-certification-as-manufacturing-ramps-up/",
      "sector": "Autos",
      "country": "GB"
-    },
-    {
-     "publisher": "Commercial Observer",
-     "title": "Prosper and Versluys Close $50M Land Deal for $650M Miami Condo Tower",
-     "url": "https://commercialobserver.com/2026/08/prosper-versluys-brickell-miami/",
-     "sector": "Real estate",
-     "country": "US"
     }
    ],
    "daily": [
@@ -29192,7 +29153,7 @@
      "steady",
      1,
      1,
-     28.8,
+     28.9,
      [
       {
        "title": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions",
@@ -29214,7 +29175,7 @@
      "new",
      3,
      0,
-     23.5,
+     23.7,
      [
       {
        "title": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions",
@@ -29881,7 +29842,7 @@
      "steady",
      1,
      1,
-     24.4,
+     24.5,
      [
       {
        "title": "Hormuz closure changing global energy policy",
@@ -30470,7 +30431,7 @@
      "rising",
      2,
      1,
-     53.6,
+     53.9,
      [
       {
        "title": "Base Power raises another US$1 billion in Series D financing for US residential BESS",
@@ -30498,7 +30459,7 @@
      "steady",
      1,
      1,
-     42.9,
+     35.9,
      [
       {
        "title": "British firm bets on aluminium to break lithium battery dependence",
@@ -30520,7 +30481,7 @@
      "new",
      6,
      0,
-     4.7,
+     4.8,
      [
       {
        "title": "Electrovaya launches stationary energy storage system for data center market",
@@ -30947,9 +30908,9 @@
    "effectiveSectors": 2.36,
    "newestSector": "Policy",
    "daysSinceNewestSector": 10,
-   "articles14d": 15,
+   "articles14d": 16,
    "articlesPrior14d": 4,
-   "publishers": 10,
+   "publishers": 11,
    "sectors": [
     {
      "name": "Utilities",
@@ -30983,15 +30944,15 @@
      24
     ],
     [
+     "IN",
+     3
+    ],
+    [
      "DE",
      2
     ],
     [
      "GB",
-     2
-    ],
-    [
-     "IN",
      2
     ]
    ],
@@ -31067,24 +31028,6 @@
       ]
      },
      {
-      "sector": "Materials",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       2,
-       0
-      ]
-     },
-     {
       "sector": "Industrials",
       "n": [
        1,
@@ -31099,6 +31042,24 @@
        0,
        0,
        0,
+       1
+      ]
+     },
+     {
+      "sector": "Materials",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       2,
        0
       ]
      },
@@ -31165,7 +31126,7 @@
      "steady",
      1,
      1,
-     19.7,
+     19.1,
      [
       {
        "title": "Video gamers give 110-MW Texas solar project a financing boost",
@@ -31190,6 +31151,13 @@
    ],
    "examples": [
     {
+     "publisher": "ET Manufacturing",
+     "title": "Juniper Green Energy bags 230 MW project from SECI",
+     "url": "https://manufacturing.economictimes.indiatimes.com/news/energy/juniper-green-energy-bags-230-mw-project-from-seci/133046604",
+     "sector": "Industrials",
+     "country": "IN"
+    },
+    {
      "publisher": "Waste Dive",
      "title": "What's next as Hawai'i enacts clean fuels program; Biogas news from Waga, Convertus",
      "url": "https://www.wastedive.com/news/hawaii-enacts-clean-fuels-standard-biogas-news-waga-convertus-redtail/827285/",
@@ -31209,13 +31177,6 @@
      "url": "https://container-news.com/portxchange-joins-sasha-coalition-to-strengthen-port-emissions-insight/",
      "sector": "Supply chain",
      "country": "GR"
-    },
-    {
-     "publisher": "ET Energyworld",
-     "title": "Renewable energy developers seek \u20b93,000 crore relief amid transmission bottlenecks",
-     "url": "https://energy.economictimes.indiatimes.com/news/renewable/renewable-energy-developers-seek-3000-crore-relief-amid-transmission-bottlenecks/133018459",
-     "sector": "Energy",
-     "country": "IN"
     }
    ],
    "daily": [
@@ -31577,10 +31538,10 @@
     },
     {
      "day": "2026-08-08",
-     "n": 0
+     "n": 1
     }
    ],
-   "specificity": 0.982,
+   "specificity": 0.981,
    "rank": 2.33
   },
   {
@@ -31589,10 +31550,10 @@
    "direction": "rising",
    "display": true,
    "sectorCount": 3,
-   "effectiveSectors": 2.27,
+   "effectiveSectors": 2.3,
    "newestSector": "Utilities",
    "daysSinceNewestSector": 5,
-   "articles14d": 43,
+   "articles14d": 44,
    "articlesPrior14d": 2,
    "publishers": 12,
    "sectors": [
@@ -31601,7 +31562,7 @@
      "firstSeen": "2026-05-12",
      "recent": 23,
      "articles": 28,
-     "share": 0.605,
+     "share": 0.59,
      "adopt": 1
     },
     {
@@ -31609,15 +31570,15 @@
      "firstSeen": "2026-07-31",
      "recent": 3,
      "articles": 3,
-     "share": 0.079,
+     "share": 0.077,
      "adopt": 81
     },
     {
      "name": "Utilities",
      "firstSeen": "2026-08-03",
-     "recent": 12,
-     "articles": 12,
-     "share": 0.316,
+     "recent": 13,
+     "articles": 13,
+     "share": 0.333,
      "adopt": 84
     }
    ],
@@ -31630,6 +31591,10 @@
     [
      "NL",
      10
+    ],
+    [
+     "GB",
+     1
     ],
     [
      "IN",
@@ -31694,7 +31659,7 @@
        0,
        0,
        0,
-       12
+       13
       ]
      },
      {
@@ -31814,7 +31779,7 @@
      "new",
      5,
      0,
-     122.9,
+     121.0,
      [
       {
        "title": "Transgaz-Argent LNG MOU advances US gas route to Central and Eastern Europe",
@@ -31842,7 +31807,7 @@
      "new",
      3,
      0,
-     55.3,
+     54.4,
      [
       {
        "title": "India's Crude Oil Output Falls for Third Straight Year",
@@ -32250,15 +32215,15 @@
     },
     {
      "day": "2026-08-07",
-     "n": 5
+     "n": 6
     },
     {
      "day": "2026-08-08",
      "n": 0
     }
    ],
-   "specificity": 0.949,
-   "rank": 2.19
+   "specificity": 0.948,
+   "rank": 2.22
   },
   {
    "id": "persian-gulf",
@@ -32939,7 +32904,7 @@
      "steady",
      1,
      1,
-     141.6,
+     118.5,
      [
       {
        "title": "Largest BESS in Czech Republic commissioned, supplied by CATL-backed CNTE",
@@ -33994,7 +33959,7 @@
      "steady",
      1,
      1,
-     24.6,
+     24.7,
      [
       {
        "title": "Citi Lifts Brent Outlook but Still Sees Oil Falling in 2027",
@@ -35455,516 +35420,6 @@
    "rank": 1.98
   },
   {
-   "id": "commercial-vehicle",
-   "term": "commercial vehicle",
-   "direction": "new",
-   "display": true,
-   "sectorCount": 2,
-   "effectiveSectors": 1.98,
-   "newestSector": "Autos",
-   "daysSinceNewestSector": 5,
-   "articles14d": 6,
-   "articlesPrior14d": 0,
-   "publishers": 5,
-   "sectors": [
-    {
-     "name": "Supply chain",
-     "firstSeen": "2026-06-16",
-     "recent": 2,
-     "articles": 3,
-     "share": 0.333,
-     "adopt": 36
-    },
-    {
-     "name": "Autos",
-     "firstSeen": "2026-08-03",
-     "recent": 4,
-     "articles": 4,
-     "share": 0.667,
-     "adopt": 84
-    }
-   ],
-   "sinceStart": false,
-   "origins": [
-    [
-     "US",
-     9
-    ],
-    [
-     "GB",
-     2
-    ]
-   ],
-   "flow": {
-    "weeks": [
-     "2026-05-11",
-     "2026-05-18",
-     "2026-05-25",
-     "2026-06-01",
-     "2026-06-08",
-     "2026-06-15",
-     "2026-06-22",
-     "2026-06-29",
-     "2026-07-06",
-     "2026-07-13",
-     "2026-07-20",
-     "2026-07-27",
-     "2026-08-03"
-    ],
-    "bands": [
-     {
-      "sector": "Consumer",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       3,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Autos",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       4
-      ]
-     },
-     {
-      "sector": "Supply chain",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       2
-      ]
-     }
-    ]
-   },
-   "cooc": [],
-   "examples": [
-    {
-     "publisher": "Automotive World",
-     "title": "Daimler Truck plans new US manufacturing facility by 2029",
-     "url": "https://www.automotiveworld.com/news/daimler-truck-plans-new-us-manufacturing-facility-by-2029/",
-     "sector": "Autos",
-     "country": "GB"
-    },
-    {
-     "publisher": "ET HRWorld",
-     "title": "EV industry to generate up to 40 million jobs by 2030: Report",
-     "url": "https://hr.economictimes.indiatimes.com/news/industry/ev-industry-to-generate-up-to-40-million-jobs-by-2030-report/132958539",
-     "sector": "Labor",
-     "country": "IN"
-    },
-    {
-     "publisher": "Commercial Observer",
-     "title": "In Largest U.S. Multifamily Sale Since 2024, BlackRock Pays $1.63B in SoCal",
-     "url": "https://commercialobserver.com/2026/08/california-multifamily-housing-blackrock-camden/",
-     "sector": "Real estate",
-     "country": "US"
-    },
-    {
-     "publisher": "Trucking Dive",
-     "title": "Toyota to join Volvo, Daimler heavy-duty fuel-cell joint venture",
-     "url": "https://www.truckingdive.com/news/toyota-to-join-volvo-daimler-heavy-duty-fuel-cell-joint-venture/826924/",
-     "sector": "Supply chain",
-     "country": "US"
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-05-11",
-     "n": 0
-    },
-    {
-     "day": "2026-05-12",
-     "n": 0
-    },
-    {
-     "day": "2026-05-13",
-     "n": 0
-    },
-    {
-     "day": "2026-05-14",
-     "n": 0
-    },
-    {
-     "day": "2026-05-15",
-     "n": 0
-    },
-    {
-     "day": "2026-05-16",
-     "n": 0
-    },
-    {
-     "day": "2026-05-17",
-     "n": 0
-    },
-    {
-     "day": "2026-05-18",
-     "n": 0
-    },
-    {
-     "day": "2026-05-19",
-     "n": 0
-    },
-    {
-     "day": "2026-05-20",
-     "n": 0
-    },
-    {
-     "day": "2026-05-21",
-     "n": 0
-    },
-    {
-     "day": "2026-05-22",
-     "n": 0
-    },
-    {
-     "day": "2026-05-23",
-     "n": 0
-    },
-    {
-     "day": "2026-05-24",
-     "n": 0
-    },
-    {
-     "day": "2026-05-25",
-     "n": 0
-    },
-    {
-     "day": "2026-05-26",
-     "n": 0
-    },
-    {
-     "day": "2026-05-27",
-     "n": 0
-    },
-    {
-     "day": "2026-05-28",
-     "n": 0
-    },
-    {
-     "day": "2026-05-29",
-     "n": 0
-    },
-    {
-     "day": "2026-05-30",
-     "n": 0
-    },
-    {
-     "day": "2026-05-31",
-     "n": 0
-    },
-    {
-     "day": "2026-06-01",
-     "n": 0
-    },
-    {
-     "day": "2026-06-02",
-     "n": 0
-    },
-    {
-     "day": "2026-06-03",
-     "n": 0
-    },
-    {
-     "day": "2026-06-04",
-     "n": 0
-    },
-    {
-     "day": "2026-06-05",
-     "n": 0
-    },
-    {
-     "day": "2026-06-06",
-     "n": 0
-    },
-    {
-     "day": "2026-06-07",
-     "n": 0
-    },
-    {
-     "day": "2026-06-08",
-     "n": 0
-    },
-    {
-     "day": "2026-06-09",
-     "n": 0
-    },
-    {
-     "day": "2026-06-10",
-     "n": 0
-    },
-    {
-     "day": "2026-06-11",
-     "n": 0
-    },
-    {
-     "day": "2026-06-12",
-     "n": 0
-    },
-    {
-     "day": "2026-06-13",
-     "n": 0
-    },
-    {
-     "day": "2026-06-14",
-     "n": 0
-    },
-    {
-     "day": "2026-06-15",
-     "n": 0
-    },
-    {
-     "day": "2026-06-16",
-     "n": 1
-    },
-    {
-     "day": "2026-06-17",
-     "n": 0
-    },
-    {
-     "day": "2026-06-18",
-     "n": 3
-    },
-    {
-     "day": "2026-06-19",
-     "n": 0
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 1
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 0
-    },
-    {
-     "day": "2026-07-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 0
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 3
-    },
-    {
-     "day": "2026-08-04",
-     "n": 1
-    },
-    {
-     "day": "2026-08-05",
-     "n": 1
-    },
-    {
-     "day": "2026-08-06",
-     "n": 0
-    },
-    {
-     "day": "2026-08-07",
-     "n": 1
-    },
-    {
-     "day": "2026-08-08",
-     "n": 0
-    }
-   ],
-   "specificity": 0.993,
-   "rank": 1.97
-  },
-  {
    "id": "interest-rate",
    "term": "interest rate",
    "direction": "rising",
@@ -36508,6 +35963,564 @@
     }
    ],
    "specificity": 0.991,
+   "rank": 1.97
+  },
+  {
+   "id": "production-capacity",
+   "term": "production capacity",
+   "direction": "new",
+   "display": true,
+   "sectorCount": 2,
+   "effectiveSectors": 1.98,
+   "newestSector": "Technology",
+   "daysSinceNewestSector": 12,
+   "articles14d": 9,
+   "articlesPrior14d": 0,
+   "publishers": 8,
+   "sectors": [
+    {
+     "name": "Autos",
+     "firstSeen": "2026-05-17",
+     "recent": 2,
+     "articles": 3,
+     "share": 0.333,
+     "adopt": 6
+    },
+    {
+     "name": "Technology",
+     "firstSeen": "2026-07-27",
+     "recent": 4,
+     "articles": 4,
+     "share": 0.667,
+     "adopt": 77
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "US",
+     4
+    ],
+    [
+     "IN",
+     2
+    ],
+    [
+     "KR",
+     2
+    ],
+    [
+     "AU",
+     1
+    ],
+    [
+     "DE",
+     1
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-05-11",
+     "2026-05-18",
+     "2026-05-25",
+     "2026-06-01",
+     "2026-06-08",
+     "2026-06-15",
+     "2026-06-22",
+     "2026-06-29",
+     "2026-07-06",
+     "2026-07-13",
+     "2026-07-20",
+     "2026-07-27",
+     "2026-08-03"
+    ],
+    "bands": [
+     {
+      "sector": "Technology",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       3
+      ]
+     },
+     {
+      "sector": "Autos",
+      "n": [
+       1,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       2
+      ]
+     },
+     {
+      "sector": "Policy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0
+      ]
+     },
+     {
+      "sector": "Industrials",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     },
+     {
+      "sector": "Materials",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   "cooc": [],
+   "examples": [
+    {
+     "publisher": "Electrive",
+     "title": "\u0160koda starts series production of the new Peaq",
+     "url": "https://www.electrive.com/2026/08/07/skoda-starts-series-production-of-the-new-peaq/",
+     "sector": "Autos",
+     "country": "DE"
+    },
+    {
+     "publisher": "Manufacturing Dive",
+     "title": "Trump imposes 15% tariff on polysilicon imports for chips, solar power",
+     "url": "https://www.manufacturingdive.com/news/trump-imposes-15-tariff-on-polysilicon-imports-for-chips-solar-power/827338/",
+     "sector": "Industrials",
+     "country": "US"
+    },
+    {
+     "publisher": "PV Magazine",
+     "title": "The Hydrogen Stream: Over $1 billion in funds for projects in Spain, the Netherlands",
+     "url": "https://www.pv-magazine.com/2026/08/07/the-hydrogen-stream-over-1-billion-in-funds-for-projects-in-spain-the-netherlands/",
+     "sector": "Energy",
+     "country": "DE"
+    },
+    {
+     "publisher": "DigiTimes Asia",
+     "title": "US optical transceiver ban risks slowing AI data center build-out",
+     "url": "https://www.digitimes.com/news/a20260807VL210/optical-components-transceiver-module-production-usa-ban-china.html",
+     "sector": "Technology",
+     "country": "TW"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-05-11",
+     "n": 0
+    },
+    {
+     "day": "2026-05-12",
+     "n": 0
+    },
+    {
+     "day": "2026-05-13",
+     "n": 0
+    },
+    {
+     "day": "2026-05-14",
+     "n": 0
+    },
+    {
+     "day": "2026-05-15",
+     "n": 0
+    },
+    {
+     "day": "2026-05-16",
+     "n": 0
+    },
+    {
+     "day": "2026-05-17",
+     "n": 1
+    },
+    {
+     "day": "2026-05-18",
+     "n": 0
+    },
+    {
+     "day": "2026-05-19",
+     "n": 0
+    },
+    {
+     "day": "2026-05-20",
+     "n": 0
+    },
+    {
+     "day": "2026-05-21",
+     "n": 0
+    },
+    {
+     "day": "2026-05-22",
+     "n": 0
+    },
+    {
+     "day": "2026-05-23",
+     "n": 0
+    },
+    {
+     "day": "2026-05-24",
+     "n": 0
+    },
+    {
+     "day": "2026-05-25",
+     "n": 0
+    },
+    {
+     "day": "2026-05-26",
+     "n": 0
+    },
+    {
+     "day": "2026-05-27",
+     "n": 0
+    },
+    {
+     "day": "2026-05-28",
+     "n": 0
+    },
+    {
+     "day": "2026-05-29",
+     "n": 0
+    },
+    {
+     "day": "2026-05-30",
+     "n": 0
+    },
+    {
+     "day": "2026-05-31",
+     "n": 0
+    },
+    {
+     "day": "2026-06-01",
+     "n": 0
+    },
+    {
+     "day": "2026-06-02",
+     "n": 0
+    },
+    {
+     "day": "2026-06-03",
+     "n": 0
+    },
+    {
+     "day": "2026-06-04",
+     "n": 0
+    },
+    {
+     "day": "2026-06-05",
+     "n": 0
+    },
+    {
+     "day": "2026-06-06",
+     "n": 0
+    },
+    {
+     "day": "2026-06-07",
+     "n": 0
+    },
+    {
+     "day": "2026-06-08",
+     "n": 0
+    },
+    {
+     "day": "2026-06-09",
+     "n": 0
+    },
+    {
+     "day": "2026-06-10",
+     "n": 0
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 0
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 0
+    },
+    {
+     "day": "2026-06-16",
+     "n": 0
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 0
+    },
+    {
+     "day": "2026-06-19",
+     "n": 0
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 0
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 1
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-31",
+     "n": 1
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 0
+    },
+    {
+     "day": "2026-08-04",
+     "n": 2
+    },
+    {
+     "day": "2026-08-05",
+     "n": 0
+    },
+    {
+     "day": "2026-08-06",
+     "n": 2
+    },
+    {
+     "day": "2026-08-07",
+     "n": 3
+    },
+    {
+     "day": "2026-08-08",
+     "n": 0
+    }
+   ],
+   "specificity": 0.989,
    "rank": 1.97
   },
   {
@@ -37057,55 +37070,47 @@
    "rank": 1.97
   },
   {
-   "id": "electric-vehicle",
-   "term": "electric vehicle",
-   "direction": "rising",
+   "id": "commercial-vehicle",
+   "term": "commercial vehicle",
+   "direction": "new",
    "display": true,
    "sectorCount": 2,
-   "effectiveSectors": 1.99,
-   "newestSector": "Energy",
-   "daysSinceNewestSector": 43,
-   "articles14d": 10,
-   "articlesPrior14d": 2,
-   "publishers": 10,
+   "effectiveSectors": 1.94,
+   "newestSector": "Autos",
+   "daysSinceNewestSector": 5,
+   "articles14d": 7,
+   "articlesPrior14d": 0,
+   "publishers": 6,
    "sectors": [
     {
-     "name": "Autos",
-     "firstSeen": "2026-05-14",
-     "recent": 3,
-     "articles": 5,
-     "share": 0.6,
-     "adopt": 3
+     "name": "Supply chain",
+     "firstSeen": "2026-06-16",
+     "recent": 2,
+     "articles": 3,
+     "share": 0.286,
+     "adopt": 36
     },
     {
-     "name": "Energy",
-     "firstSeen": "2026-06-26",
-     "recent": 2,
-     "articles": 4,
-     "share": 0.4,
-     "adopt": 46
+     "name": "Autos",
+     "firstSeen": "2026-08-03",
+     "recent": 5,
+     "articles": 5,
+     "share": 0.714,
+     "adopt": 84
     }
    ],
    "sinceStart": false,
    "origins": [
     [
      "US",
-     10
-    ],
-    [
-     "IN",
-     2
+     9
     ],
     [
      "GB",
-     1
+     2
     ],
     [
-     "SG",
-     1
-    ],
-    [
-     "TW",
+     "DE",
      1
     ]
    ],
@@ -37129,7 +37134,6 @@
      {
       "sector": "Autos",
       "n": [
-       1,
        0,
        0,
        0,
@@ -37138,82 +37142,29 @@
        0,
        0,
        0,
-       1,
        0,
        0,
-       3
+       0,
+       0,
+       5
       ]
      },
      {
-      "sector": "Energy",
+      "sector": "Consumer",
       "n": [
        0,
        0,
        0,
        0,
        0,
+       3,
+       0,
        0,
        1,
-       1,
        0,
        0,
        0,
-       2,
        0
-      ]
-     },
-     {
-      "sector": "Technology",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       1
-      ]
-     },
-     {
-      "sector": "Utilities",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       1
-      ]
-     },
-     {
-      "sector": "Finance",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1
       ]
      },
      {
@@ -37224,70 +37175,47 @@
        0,
        0,
        0,
+       1,
        0,
        0,
        0,
        0,
        0,
        0,
-       0,
-       1
+       2
       ]
      }
     ]
    },
-   "cooc": [
-    [
-     "tax credit",
-     1.0,
-     "steady",
-     1,
-     1,
-     94.4,
-     [
-      {
-       "title": "Shriram Finance to borrow Rs 20,000 Cr in Q2 FY27 as AAA rating lowers funding costs by 50-60 bps",
-       "url": "https://bfsi.economictimes.indiatimes.com/articles/shriram-finance-to-borrow-rs-20000-cr-in-q2-fy27-as-aaa-rating-lowers-funding-costs-by-50-60-bps/132844453",
-       "publisher": "ET BFSI",
-       "sector": "Finance"
-      },
-      {
-       "title": "Hybrid sales rise while battery electric sales remain lower after tax credit expiration",
-       "url": "https://www.eia.gov/todayinenergy/detail.php?id=67885",
-       "publisher": "EIA Today in Energy",
-       "sector": "Utilities"
-      }
-     ]
-    ]
-   ],
+   "cooc": [],
    "examples": [
     {
-     "publisher": "DigiTimes Asia",
-     "title": "Integrated ecosystems become focus of AI-driven smart vehicle development",
-     "url": "https://www.digitimes.com/news/a20260807PD241/taiwan-vehicle-development-competition-autonomous-driving-cybersecurity.html",
-     "sector": "Technology",
-     "country": "TW"
-    },
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "Commentary: Why playing it safe could cost Taiwan the next battery boom",
-     "url": "https://www.digitimes.com/news/a20260806PD228/taiwan-investment-technology-autonomous-driving-growth.html",
-     "sector": "Technology",
-     "country": "TW"
-    },
-    {
-     "publisher": "Energy Live News",
-     "title": "Royal Mail unveil 9000th electric van",
-     "url": "https://www.energylivenews.com/2026/08/06/royal-mail-unveil-9000th-electric-van/",
-     "sector": "Utilities",
-     "country": "GB"
-    },
-    {
      "publisher": "Automotive World",
-     "title": "BMW i3 launch cuts Plant Munich costs by another 10%",
-     "url": "https://www.automotiveworld.com/news/bmw-i3-launch-cuts-plant-munich-costs-by-another-10/",
+     "title": "Daimler Truck plans new US manufacturing facility by 2029",
+     "url": "https://www.automotiveworld.com/news/daimler-truck-plans-new-us-manufacturing-facility-by-2029/",
      "sector": "Autos",
      "country": "GB"
+    },
+    {
+     "publisher": "Electrive",
+     "title": "Factorial and Tulip Tech partner on solid-state batteries for drones",
+     "url": "https://www.electrive.com/2026/08/05/factorial-and-tulip-tech-partner-on-solid-state-batteries-for-drones/",
+     "sector": "Autos",
+     "country": "DE"
+    },
+    {
+     "publisher": "Electrive",
+     "title": "UK records strongest EV July to date",
+     "url": "https://www.electrive.com/2026/08/05/uk-records-strongest-ev-july-to-date/",
+     "sector": "Autos",
+     "country": "DE"
+    },
+    {
+     "publisher": "Electrive",
+     "title": "China's first sodium-ion dump truck enters service",
+     "url": "https://www.electrive.com/2026/08/05/chinas-first-sodium-ion-dump-truck-enters-service/",
+     "sector": "Autos",
+     "country": "DE"
     }
    ],
    "daily": [
@@ -37305,7 +37233,7 @@
     },
     {
      "day": "2026-05-14",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-05-15",
@@ -37437,7 +37365,7 @@
     },
     {
      "day": "2026-06-16",
-     "n": 0
+     "n": 1
     },
     {
      "day": "2026-06-17",
@@ -37445,7 +37373,7 @@
     },
     {
      "day": "2026-06-18",
-     "n": 0
+     "n": 3
     },
     {
      "day": "2026-06-19",
@@ -37477,7 +37405,7 @@
     },
     {
      "day": "2026-06-26",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-06-27",
@@ -37501,7 +37429,7 @@
     },
     {
      "day": "2026-07-02",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-07-03",
@@ -37517,7 +37445,7 @@
     },
     {
      "day": "2026-07-06",
-     "n": 0
+     "n": 1
     },
     {
      "day": "2026-07-07",
@@ -37549,11 +37477,11 @@
     },
     {
      "day": "2026-07-14",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-07-15",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-07-16",
@@ -37605,11 +37533,11 @@
     },
     {
      "day": "2026-07-28",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-07-29",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-07-30",
@@ -37625,23 +37553,23 @@
     },
     {
      "day": "2026-08-02",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-08-03",
-     "n": 1
+     "n": 3
     },
     {
      "day": "2026-08-04",
-     "n": 2
-    },
-    {
-     "day": "2026-08-05",
      "n": 1
     },
     {
-     "day": "2026-08-06",
+     "day": "2026-08-05",
      "n": 2
+    },
+    {
+     "day": "2026-08-06",
+     "n": 0
     },
     {
      "day": "2026-08-07",
@@ -37652,8 +37580,8 @@
      "n": 0
     }
    ],
-   "specificity": 0.988,
-   "rank": 1.97
+   "specificity": 0.992,
+   "rank": 1.93
   },
   {
    "id": "crude-oil-price",
@@ -38826,7 +38754,7 @@
      "new",
      3,
      0,
-     241.3,
+     242.5,
      [
       {
        "title": "Pacific Halibut Fisheries of the West Coast; Inseason Action for the 2026 Area 2A Pacific Halibut Directed Commercial Fishery",
@@ -38854,7 +38782,7 @@
      "new",
      3,
      0,
-     193.1,
+     194.0,
      [
       {
        "title": "Most VLCC loadings directed northbound in Red Sea: DHT Holdings",
@@ -38882,7 +38810,7 @@
      "new",
      3,
      0,
-     23.5,
+     23.7,
      [
       {
        "title": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions",
@@ -39297,8 +39225,611 @@
      "n": 0
     }
    ],
-   "specificity": 0.976,
+   "specificity": 0.977,
    "rank": 1.9
+  },
+  {
+   "id": "electric-vehicle",
+   "term": "electric vehicle",
+   "direction": "rising",
+   "display": true,
+   "sectorCount": 2,
+   "effectiveSectors": 1.89,
+   "newestSector": "Energy",
+   "daysSinceNewestSector": 43,
+   "articles14d": 13,
+   "articlesPrior14d": 2,
+   "publishers": 11,
+   "sectors": [
+    {
+     "name": "Autos",
+     "firstSeen": "2026-05-14",
+     "recent": 6,
+     "articles": 8,
+     "share": 0.75,
+     "adopt": 3
+    },
+    {
+     "name": "Energy",
+     "firstSeen": "2026-06-26",
+     "recent": 2,
+     "articles": 4,
+     "share": 0.25,
+     "adopt": 46
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "US",
+     10
+    ],
+    [
+     "DE",
+     3
+    ],
+    [
+     "IN",
+     2
+    ],
+    [
+     "GB",
+     1
+    ],
+    [
+     "SG",
+     1
+    ],
+    [
+     "TW",
+     1
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-05-11",
+     "2026-05-18",
+     "2026-05-25",
+     "2026-06-01",
+     "2026-06-08",
+     "2026-06-15",
+     "2026-06-22",
+     "2026-06-29",
+     "2026-07-06",
+     "2026-07-13",
+     "2026-07-20",
+     "2026-07-27",
+     "2026-08-03"
+    ],
+    "bands": [
+     {
+      "sector": "Autos",
+      "n": [
+       1,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       6
+      ]
+     },
+     {
+      "sector": "Energy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       1,
+       0,
+       0,
+       0,
+       2,
+       0
+      ]
+     },
+     {
+      "sector": "Technology",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       1
+      ]
+     },
+     {
+      "sector": "Utilities",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       1
+      ]
+     },
+     {
+      "sector": "Finance",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     },
+     {
+      "sector": "Supply chain",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   "cooc": [
+    [
+     "tax credit",
+     1.0,
+     "steady",
+     1,
+     1,
+     79.0,
+     [
+      {
+       "title": "Shriram Finance to borrow Rs 20,000 Cr in Q2 FY27 as AAA rating lowers funding costs by 50-60 bps",
+       "url": "https://bfsi.economictimes.indiatimes.com/articles/shriram-finance-to-borrow-rs-20000-cr-in-q2-fy27-as-aaa-rating-lowers-funding-costs-by-50-60-bps/132844453",
+       "publisher": "ET BFSI",
+       "sector": "Finance"
+      },
+      {
+       "title": "Hybrid sales rise while battery electric sales remain lower after tax credit expiration",
+       "url": "https://www.eia.gov/todayinenergy/detail.php?id=67885",
+       "publisher": "EIA Today in Energy",
+       "sector": "Utilities"
+      }
+     ]
+    ]
+   ],
+   "examples": [
+    {
+     "publisher": "Electrive",
+     "title": "CATL Expands Its Lead in the Global Battery Market",
+     "url": "https://www.electrive.com/2026/08/07/catl-expands-its-lead-in-the-global-battery-market/",
+     "sector": "Autos",
+     "country": "DE"
+    },
+    {
+     "publisher": "Electrive",
+     "title": "South Korea to fully transition new police vehicles to electric and hydrogen models",
+     "url": "https://www.electrive.com/2026/08/07/south-korea-to-fully-transition-new-police-vehicles-to-electric-and-hydrogen-models/",
+     "sector": "Autos",
+     "country": "DE"
+    },
+    {
+     "publisher": "DigiTimes Asia",
+     "title": "Integrated ecosystems become focus of AI-driven smart vehicle development",
+     "url": "https://www.digitimes.com/news/a20260807PD241/taiwan-vehicle-development-competition-autonomous-driving-cybersecurity.html",
+     "sector": "Technology",
+     "country": "TW"
+    },
+    {
+     "publisher": "DigiTimes Asia",
+     "title": "Commentary: Why playing it safe could cost Taiwan the next battery boom",
+     "url": "https://www.digitimes.com/news/a20260806PD228/taiwan-investment-technology-autonomous-driving-growth.html",
+     "sector": "Technology",
+     "country": "TW"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-05-11",
+     "n": 0
+    },
+    {
+     "day": "2026-05-12",
+     "n": 0
+    },
+    {
+     "day": "2026-05-13",
+     "n": 0
+    },
+    {
+     "day": "2026-05-14",
+     "n": 1
+    },
+    {
+     "day": "2026-05-15",
+     "n": 0
+    },
+    {
+     "day": "2026-05-16",
+     "n": 0
+    },
+    {
+     "day": "2026-05-17",
+     "n": 0
+    },
+    {
+     "day": "2026-05-18",
+     "n": 0
+    },
+    {
+     "day": "2026-05-19",
+     "n": 0
+    },
+    {
+     "day": "2026-05-20",
+     "n": 0
+    },
+    {
+     "day": "2026-05-21",
+     "n": 0
+    },
+    {
+     "day": "2026-05-22",
+     "n": 0
+    },
+    {
+     "day": "2026-05-23",
+     "n": 0
+    },
+    {
+     "day": "2026-05-24",
+     "n": 0
+    },
+    {
+     "day": "2026-05-25",
+     "n": 0
+    },
+    {
+     "day": "2026-05-26",
+     "n": 0
+    },
+    {
+     "day": "2026-05-27",
+     "n": 0
+    },
+    {
+     "day": "2026-05-28",
+     "n": 0
+    },
+    {
+     "day": "2026-05-29",
+     "n": 0
+    },
+    {
+     "day": "2026-05-30",
+     "n": 0
+    },
+    {
+     "day": "2026-05-31",
+     "n": 0
+    },
+    {
+     "day": "2026-06-01",
+     "n": 0
+    },
+    {
+     "day": "2026-06-02",
+     "n": 0
+    },
+    {
+     "day": "2026-06-03",
+     "n": 0
+    },
+    {
+     "day": "2026-06-04",
+     "n": 0
+    },
+    {
+     "day": "2026-06-05",
+     "n": 0
+    },
+    {
+     "day": "2026-06-06",
+     "n": 0
+    },
+    {
+     "day": "2026-06-07",
+     "n": 0
+    },
+    {
+     "day": "2026-06-08",
+     "n": 0
+    },
+    {
+     "day": "2026-06-09",
+     "n": 0
+    },
+    {
+     "day": "2026-06-10",
+     "n": 0
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 0
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 0
+    },
+    {
+     "day": "2026-06-16",
+     "n": 0
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 0
+    },
+    {
+     "day": "2026-06-19",
+     "n": 0
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 0
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 1
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 1
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 1
+    },
+    {
+     "day": "2026-07-15",
+     "n": 1
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 1
+    },
+    {
+     "day": "2026-07-29",
+     "n": 1
+    },
+    {
+     "day": "2026-07-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-31",
+     "n": 0
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 1
+    },
+    {
+     "day": "2026-08-03",
+     "n": 1
+    },
+    {
+     "day": "2026-08-04",
+     "n": 2
+    },
+    {
+     "day": "2026-08-05",
+     "n": 3
+    },
+    {
+     "day": "2026-08-06",
+     "n": 3
+    },
+    {
+     "day": "2026-08-07",
+     "n": 1
+    },
+    {
+     "day": "2026-08-08",
+     "n": 0
+    }
+   ],
+   "specificity": 0.985,
+   "rank": 1.87
   },
   {
    "id": "solar-cell",
@@ -40985,7 +41516,7 @@
      "new",
      5,
      0,
-     19.9,
+     19.6,
      [
       {
        "title": "India's Crude Oil Output Falls for Third Straight Year",
@@ -41400,7 +41931,7 @@
      "n": 0
     }
    ],
-   "specificity": 0.956,
+   "specificity": 0.957,
    "rank": 1.81
   },
   {
@@ -42766,7 +43297,7 @@
      "new",
      3,
      0,
-     19.6,
+     19.7,
      [
       {
        "title": "Sponsored: nVent expands data center liquid cooling capacity",
@@ -42872,7 +43403,7 @@
      "new",
      3,
      0,
-     7.8,
+     7.9,
      [
       {
        "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
@@ -43315,7 +43846,7 @@
      "n": 2
     }
    ],
-   "specificity": 0.782,
+   "specificity": 0.783,
    "rank": 3.0
   },
   {
@@ -43421,7 +43952,7 @@
      "new",
      5,
      0,
-     453.8,
+     456.0,
      [
       {
        "title": "Transgaz-Argent LNG MOU advances US gas route to Central and Eastern Europe",
@@ -43848,9 +44379,9 @@
    "effectiveSectors": 1.65,
    "newestSector": "Utilities",
    "daysSinceNewestSector": 10,
-   "articles14d": 19,
+   "articles14d": 20,
    "articlesPrior14d": 0,
-   "publishers": 6,
+   "publishers": 7,
    "sectors": [
     {
      "name": "Energy",
@@ -43881,7 +44412,7 @@
     ],
     [
      "DE",
-     1
+     2
     ]
    ],
    "flow": {
@@ -43972,6 +44503,24 @@
        0,
        0
       ]
+     },
+     {
+      "sector": "Autos",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
      }
     ]
    },
@@ -43982,7 +44531,7 @@
      "new",
      3,
      0,
-     3.6,
+     3.4,
      [
       {
        "title": "Mocean Energy targets wave-powered offshore data centers",
@@ -44374,7 +44923,7 @@
     },
     {
      "day": "2026-08-06",
-     "n": 0
+     "n": 1
     },
     {
      "day": "2026-08-07",
@@ -44385,7 +44934,7 @@
      "n": 0
     }
    ],
-   "specificity": 0.978,
+   "specificity": 0.977,
    "rank": 1.63
   },
   {
@@ -44549,7 +45098,7 @@
      "steady",
      1,
      1,
-     46.6,
+     46.8,
      [
       {
        "title": "China Added More Nuclear Power In A Decade Than The Rest Of The World Combined",
@@ -44562,6 +45111,22 @@
        "url": "https://oilprice.com/Energy/Energy-General/Europes-Electricity-Prices-Spike-to-500-a-Megawatt-Hour-as-Drought-Bites.html",
        "publisher": "OilPrice",
        "sector": "Energy"
+      }
+     ]
+    ],
+    [
+     "home battery",
+     0.5,
+     "falling",
+     1,
+     2,
+     23.4,
+     [
+      {
+       "title": "South Africa: Plentify aggregates 2.7GWh of Deye home battery systems into virtual power plant",
+       "url": "https://www.energy-storage.news/south-africa-plentify-aggregates-2-7gwh-of-deye-home-battery-systems-into-virtual-power-plant/",
+       "publisher": "Energy Storage News",
+       "sector": "Utilities"
       }
      ]
     ],
@@ -45700,7 +46265,7 @@
      "steady",
      1,
      1,
-     11.7,
+     11.8,
      [
       {
        "title": "Hades licence win puts Germany on rare earth map",
@@ -46135,7 +46700,7 @@
      "n": 0
     }
    ],
-   "specificity": 0.923,
+   "specificity": 0.924,
    "rank": 1.37
   },
   {
@@ -46295,7 +46860,7 @@
      "steady",
      1,
      1,
-     44.2,
+     44.5,
      [
       {
        "title": "China Added More Nuclear Power In A Decade Than The Rest Of The World Combined",
@@ -46862,7 +47427,7 @@
      "new",
      5,
      0,
-     38.3,
+     38.5,
      [
       {
        "title": "DPAS Directive Allocation Order and Additional Requirements for Recoverable Critical Minerals and Materials",
@@ -46950,7 +47515,7 @@
      "falling",
      1,
      3,
-     5.7,
+     5.8,
      [
       {
        "title": "Critical Mineral Supply Risk to $6 . 5 Trillion Industry : IEA",
