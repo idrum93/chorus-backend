@@ -12,6 +12,10 @@
   - [Interview: Lightmatter maps CPO future with Nvidia NVLink, Taiwan supply chain](https://www.digitimes.com/news/a20260807PD228/ocp-cpo-nvidia-taiwan-supply-chain-2026.html) · DigiTimes Asia · technology
   - [Global tension + rising costs = more pressure on UK SMEs](https://theloadstar.com/global-tension-rising-costs-more-pressure-on-uk-smes/) · The Loadstar · supply chain
 
+**critical mineral** — now in 3 sectors. **Energy** picked it up 4d ago; it was first seen in materials coverage on 12 May 2026.
+  - [US unveils $2B of financing commitments for mining](https://www.northernminer.com/news/us-unveils-2b-of-financing-commitments-for-mining/1003893825/) · Northern Miner · materials
+  - [Op-ed: The battle for critical minerals is won at the port, not the mine](https://www.mining.com/op-ed-the-battle-for-critical-minerals-is-won-at-the-port-not-the-mine/) · Mining.com · materials
+
 **natural gas** — now in 3 sectors. **Utilities** picked it up 5d ago; it was first seen in energy coverage on 12 May 2026.
   - [Delhi HC stays FSSAI ban on Dabur selling food products with '100 pc' claims](https://health.economictimes.indiatimes.com/news/industry/delhi-hc-stays-fssai-ban-on-dabur-selling-food-products-with-100-pc-claims/133044943) · ET HealthWorld · healthcare
   - [Transgaz-Argent LNG MOU advances US gas route to Central and Eastern Europe](https://www.offshore-energy.biz/transgaz-argent-lng-mou-advances-us-gas-route-to-central-and-eastern-europe/) · Offshore Energy · energy
@@ -22,8 +26,13 @@
 |---|---|---|---|
 | artificial intelligence | 7 | 72 | 18.0× |
 | supply chain | 7 | 77 | 8.6× |
+| critical mineral | 3 | 64 | 5.8× |
+| data center | 7 | 175 | 5.5× |
+| rare earth | 2 | 64 | 4.6× |
 | renewable energy | 3 | 14 | 3.5× |
 | fossil fuel | 2 | 9 | 3.0× |
+| power plant | 2 | 21 | 3.0× |
+| nuclear power | 2 | 21 | 2.6× |
 
 ---
 
