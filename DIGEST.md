@@ -4,13 +4,13 @@
 
 ## Crossed into a new sector this week
 
-**artificial intelligence** — now in 7 sectors. **Utilities** picked it up 5d ago; it was first seen in technology coverage on 31 May 2026.
-  - [SBI moving entire cheque processing to AI, aims to free up workforce for higher-value roles: Chairman CS Setty](https://hr.economictimes.indiatimes.com/news/industry/sbi-moving-entire-cheque-processing-to-ai-aims-to-free-up-workforce-for-higher-value-roles-chairman-cs-setty/133045266) · ET HRWorld · labor
-  - [China Is Betting on Quantum Tech to Fix Its Power Grid](https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html) · OilPrice · energy
-
 **supply chain** — now in 7 sectors. **Utilities** picked it up 5d ago; it was first seen in supply chain coverage on 12 May 2026.
   - [MahaRERA invokes force majeure; extends project completion timeline by four months](https://realty.economictimes.indiatimes.com/news/rera/maharera-invokes-force-majeure-extends-project-completion-timeline-by-four-months/133045575) · ET Realty · real estate
   - [Interview: Lightmatter maps CPO future with Nvidia NVLink, Taiwan supply chain](https://www.digitimes.com/news/a20260807PD228/ocp-cpo-nvidia-taiwan-supply-chain-2026.html) · DigiTimes Asia · technology
+
+**artificial intelligence** — now in 7 sectors. **Utilities** picked it up 5d ago; it was first seen in technology coverage on 31 May 2026.
+  - [SBI moving entire cheque processing to AI, aims to free up workforce for higher-value roles: Chairman CS Setty](https://hr.economictimes.indiatimes.com/news/industry/sbi-moving-entire-cheque-processing-to-ai-aims-to-free-up-workforce-for-higher-value-roles-chairman-cs-setty/133045266) · ET HRWorld · labor
+  - [China Is Betting on Quantum Tech to Fix Its Power Grid](https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html) · OilPrice · energy
 
 **energy storage** — now in 3 sectors. **Technology** picked it up 4d ago; it was first seen in energy coverage on 18 June 2026.
   - [British firm bets on aluminium to break lithium battery dependence](https://www.energylivenews.com/2026/08/07/british-firm-bets-on-aluminium-to-break-lithium-battery-dependence/) · Energy Live News · utilities
