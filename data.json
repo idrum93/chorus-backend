@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-08T03:29:39.616468+00:00",
+ "generated": "2026-08-08T03:59:51.363588+00:00",
  "prices": {
   "Autos": [
    {
@@ -2763,7 +2763,7 @@
   ],
   [
    "IN",
-   216
+   218
   ],
   [
    "TW",
@@ -2926,6 +2926,12 @@
   {
    "articles_list": [
     {
+     "title": "How India is preparing for the next generation of warfare: Defence Secretary Rajesh Kumar Singh",
+     "url": "https://government.economictimes.indiatimes.com/news/defence/how-india-is-preparing-for-the-next-generation-of-warfare-defence-secretary-rajesh-kumar-singh/133045397",
+     "publisher": "ET Government",
+     "sector": "Policy"
+    },
+    {
      "title": "Blackstone's AGS Health files updated draft papers for $500 Mn IPO",
      "url": "https://health.economictimes.indiatimes.com/news/industry/blackstones-ags-health-files-updated-draft-papers-for-500-million-india-ipo/133044893",
      "publisher": "ET HealthWorld",
@@ -2936,12 +2942,6 @@
      "url": "https://health.economictimes.indiatimes.com/news/medical-devices/india-must-build-export-oriented-medical-devices-industry-says-pharma-secretary/133044849",
      "publisher": "ET HealthWorld",
      "sector": "Healthcare"
-    },
-    {
-     "title": "Mitsubishi Motors Gears Up for 2026 Asia Cross Country Rally",
-     "url": "https://www.japanindustrynews.com/2026/08/mitsubishi-motors-gears-up-for-2026-asia-cross-country-rally/",
-     "publisher": "Japan Industry News",
-     "sector": "Industrials"
     }
    ],
    "name": "Securities and Exchange Commission",
@@ -26091,8 +26091,8 @@
   ]
  },
  "daysCollected": 101,
- "articlesStored": 7044,
- "articlesLive": 3326,
+ "articlesStored": 7046,
+ "articlesLive": 3328,
  "windowDays": 90,
  "terms": [
   {
@@ -30498,7 +30498,7 @@
      "new",
      3,
      0,
-     54.4,
+     54.5,
      [
       {
        "title": "India's Crude Oil Output Falls for Third Straight Year",
@@ -30915,6 +30915,520 @@
    ],
    "specificity": 0.949,
    "rank": 2.19
+  },
+  {
+   "id": "persian-gulf",
+   "term": "persian gulf",
+   "direction": "new",
+   "display": true,
+   "sectorCount": 2,
+   "effectiveSectors": 2.0,
+   "newestSector": "Supply chain",
+   "daysSinceNewestSector": 2,
+   "articles14d": 7,
+   "articlesPrior14d": 0,
+   "publishers": 4,
+   "sectors": [
+    {
+     "name": "Energy",
+     "firstSeen": "2026-08-03",
+     "recent": 3,
+     "articles": 3,
+     "share": 0.5,
+     "adopt": 84
+    },
+    {
+     "name": "Supply chain",
+     "firstSeen": "2026-08-06",
+     "recent": 3,
+     "articles": 3,
+     "share": 0.5,
+     "adopt": 87
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "US",
+     4
+    ],
+    [
+     "GB",
+     2
+    ],
+    [
+     "SG",
+     1
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-05-11",
+     "2026-05-18",
+     "2026-05-25",
+     "2026-06-01",
+     "2026-06-08",
+     "2026-06-15",
+     "2026-06-22",
+     "2026-06-29",
+     "2026-07-06",
+     "2026-07-13",
+     "2026-07-20",
+     "2026-07-27",
+     "2026-08-03"
+    ],
+    "bands": [
+     {
+      "sector": "Energy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       3
+      ]
+     },
+     {
+      "sector": "Supply chain",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       3
+      ]
+     },
+     {
+      "sector": "Utilities",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   "cooc": [],
+   "examples": [
+    {
+     "publisher": "The Loadstar",
+     "title": "Troubled SeaLead's ships and boxes quickly snapped up by rivals",
+     "url": "https://theloadstar.com/troubled-sealeads-ships-and-boxes-quickly-snapped-up-by-rivals/",
+     "sector": "Supply chain",
+     "country": "GB"
+    },
+    {
+     "publisher": "The Loadstar",
+     "title": "Growth in transhipment for Middle East prompts niche Red Sea services",
+     "url": "https://theloadstar.com/growth-in-transhipment-for-middle-east-prompts-niche-red-sea-services/",
+     "sector": "Supply chain",
+     "country": "GB"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Aramco Deepens Asia Oil Discount Ahead of Possible Hormuz Deal",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Aramco-Deepens-Asia-Oil-Discount-Ahead-of-Possible-Hormuz-Deal.html",
+     "sector": "Energy",
+     "country": "US"
+    },
+    {
+     "publisher": "Splash247",
+     "title": "Iran and Oman close in on new Hormuz traffic regime",
+     "url": "https://splash247.com/iran-and-oman-close-in-on-new-hormuz-traffic-regime/",
+     "sector": "Supply chain",
+     "country": "SG"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-05-11",
+     "n": 0
+    },
+    {
+     "day": "2026-05-12",
+     "n": 0
+    },
+    {
+     "day": "2026-05-13",
+     "n": 0
+    },
+    {
+     "day": "2026-05-14",
+     "n": 0
+    },
+    {
+     "day": "2026-05-15",
+     "n": 0
+    },
+    {
+     "day": "2026-05-16",
+     "n": 0
+    },
+    {
+     "day": "2026-05-17",
+     "n": 0
+    },
+    {
+     "day": "2026-05-18",
+     "n": 0
+    },
+    {
+     "day": "2026-05-19",
+     "n": 0
+    },
+    {
+     "day": "2026-05-20",
+     "n": 0
+    },
+    {
+     "day": "2026-05-21",
+     "n": 0
+    },
+    {
+     "day": "2026-05-22",
+     "n": 0
+    },
+    {
+     "day": "2026-05-23",
+     "n": 0
+    },
+    {
+     "day": "2026-05-24",
+     "n": 0
+    },
+    {
+     "day": "2026-05-25",
+     "n": 0
+    },
+    {
+     "day": "2026-05-26",
+     "n": 0
+    },
+    {
+     "day": "2026-05-27",
+     "n": 0
+    },
+    {
+     "day": "2026-05-28",
+     "n": 0
+    },
+    {
+     "day": "2026-05-29",
+     "n": 0
+    },
+    {
+     "day": "2026-05-30",
+     "n": 0
+    },
+    {
+     "day": "2026-05-31",
+     "n": 0
+    },
+    {
+     "day": "2026-06-01",
+     "n": 0
+    },
+    {
+     "day": "2026-06-02",
+     "n": 0
+    },
+    {
+     "day": "2026-06-03",
+     "n": 0
+    },
+    {
+     "day": "2026-06-04",
+     "n": 0
+    },
+    {
+     "day": "2026-06-05",
+     "n": 0
+    },
+    {
+     "day": "2026-06-06",
+     "n": 0
+    },
+    {
+     "day": "2026-06-07",
+     "n": 0
+    },
+    {
+     "day": "2026-06-08",
+     "n": 0
+    },
+    {
+     "day": "2026-06-09",
+     "n": 0
+    },
+    {
+     "day": "2026-06-10",
+     "n": 0
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 0
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 0
+    },
+    {
+     "day": "2026-06-16",
+     "n": 0
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 0
+    },
+    {
+     "day": "2026-06-19",
+     "n": 0
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 0
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-31",
+     "n": 0
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 2
+    },
+    {
+     "day": "2026-08-04",
+     "n": 0
+    },
+    {
+     "day": "2026-08-05",
+     "n": 1
+    },
+    {
+     "day": "2026-08-06",
+     "n": 3
+    },
+    {
+     "day": "2026-08-07",
+     "n": 1
+    },
+    {
+     "day": "2026-08-08",
+     "n": 0
+    }
+   ],
+   "specificity": 0.992,
+   "rank": 1.99
   },
   {
    "id": "humanoid-robot",
@@ -36379,7 +36893,7 @@
      "new",
      3,
      0,
-     237.5,
+     237.6,
      [
       {
        "title": "Pacific Halibut Fisheries of the West Coast; Inseason Action for the 2026 Area 2A Pacific Halibut Directed Commercial Fishery",
@@ -36407,7 +36921,7 @@
      "new",
      3,
      0,
-     190.0,
+     190.1,
      [
       {
        "title": "Most VLCC loadings directed northbound in Red Sea: DHT Holdings",
@@ -37348,520 +37862,6 @@
    ],
    "specificity": 0.996,
    "rank": 1.8
-  },
-  {
-   "id": "persian-gulf",
-   "term": "persian gulf",
-   "direction": "new",
-   "display": true,
-   "sectorCount": 2,
-   "effectiveSectors": 2.0,
-   "newestSector": "Supply chain",
-   "daysSinceNewestSector": 2,
-   "articles14d": 7,
-   "articlesPrior14d": 0,
-   "publishers": 4,
-   "sectors": [
-    {
-     "name": "Energy",
-     "firstSeen": "2026-08-03",
-     "recent": 3,
-     "articles": 3,
-     "share": 0.5,
-     "adopt": 84
-    },
-    {
-     "name": "Supply chain",
-     "firstSeen": "2026-08-06",
-     "recent": 3,
-     "articles": 3,
-     "share": 0.5,
-     "adopt": 87
-    }
-   ],
-   "sinceStart": false,
-   "origins": [
-    [
-     "US",
-     4
-    ],
-    [
-     "GB",
-     2
-    ],
-    [
-     "SG",
-     1
-    ]
-   ],
-   "flow": {
-    "weeks": [
-     "2026-05-11",
-     "2026-05-18",
-     "2026-05-25",
-     "2026-06-01",
-     "2026-06-08",
-     "2026-06-15",
-     "2026-06-22",
-     "2026-06-29",
-     "2026-07-06",
-     "2026-07-13",
-     "2026-07-20",
-     "2026-07-27",
-     "2026-08-03"
-    ],
-    "bands": [
-     {
-      "sector": "Energy",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       3
-      ]
-     },
-     {
-      "sector": "Supply chain",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       3
-      ]
-     },
-     {
-      "sector": "Utilities",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1
-      ]
-     }
-    ]
-   },
-   "cooc": [],
-   "examples": [
-    {
-     "publisher": "The Loadstar",
-     "title": "Troubled SeaLead's ships and boxes quickly snapped up by rivals",
-     "url": "https://theloadstar.com/troubled-sealeads-ships-and-boxes-quickly-snapped-up-by-rivals/",
-     "sector": "Supply chain",
-     "country": "GB"
-    },
-    {
-     "publisher": "The Loadstar",
-     "title": "Growth in transhipment for Middle East prompts niche Red Sea services",
-     "url": "https://theloadstar.com/growth-in-transhipment-for-middle-east-prompts-niche-red-sea-services/",
-     "sector": "Supply chain",
-     "country": "GB"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Aramco Deepens Asia Oil Discount Ahead of Possible Hormuz Deal",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Aramco-Deepens-Asia-Oil-Discount-Ahead-of-Possible-Hormuz-Deal.html",
-     "sector": "Energy",
-     "country": "US"
-    },
-    {
-     "publisher": "Splash247",
-     "title": "Iran and Oman close in on new Hormuz traffic regime",
-     "url": "https://splash247.com/iran-and-oman-close-in-on-new-hormuz-traffic-regime/",
-     "sector": "Supply chain",
-     "country": "SG"
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-05-11",
-     "n": 0
-    },
-    {
-     "day": "2026-05-12",
-     "n": 0
-    },
-    {
-     "day": "2026-05-13",
-     "n": 0
-    },
-    {
-     "day": "2026-05-14",
-     "n": 0
-    },
-    {
-     "day": "2026-05-15",
-     "n": 0
-    },
-    {
-     "day": "2026-05-16",
-     "n": 0
-    },
-    {
-     "day": "2026-05-17",
-     "n": 0
-    },
-    {
-     "day": "2026-05-18",
-     "n": 0
-    },
-    {
-     "day": "2026-05-19",
-     "n": 0
-    },
-    {
-     "day": "2026-05-20",
-     "n": 0
-    },
-    {
-     "day": "2026-05-21",
-     "n": 0
-    },
-    {
-     "day": "2026-05-22",
-     "n": 0
-    },
-    {
-     "day": "2026-05-23",
-     "n": 0
-    },
-    {
-     "day": "2026-05-24",
-     "n": 0
-    },
-    {
-     "day": "2026-05-25",
-     "n": 0
-    },
-    {
-     "day": "2026-05-26",
-     "n": 0
-    },
-    {
-     "day": "2026-05-27",
-     "n": 0
-    },
-    {
-     "day": "2026-05-28",
-     "n": 0
-    },
-    {
-     "day": "2026-05-29",
-     "n": 0
-    },
-    {
-     "day": "2026-05-30",
-     "n": 0
-    },
-    {
-     "day": "2026-05-31",
-     "n": 0
-    },
-    {
-     "day": "2026-06-01",
-     "n": 0
-    },
-    {
-     "day": "2026-06-02",
-     "n": 0
-    },
-    {
-     "day": "2026-06-03",
-     "n": 0
-    },
-    {
-     "day": "2026-06-04",
-     "n": 0
-    },
-    {
-     "day": "2026-06-05",
-     "n": 0
-    },
-    {
-     "day": "2026-06-06",
-     "n": 0
-    },
-    {
-     "day": "2026-06-07",
-     "n": 0
-    },
-    {
-     "day": "2026-06-08",
-     "n": 0
-    },
-    {
-     "day": "2026-06-09",
-     "n": 0
-    },
-    {
-     "day": "2026-06-10",
-     "n": 0
-    },
-    {
-     "day": "2026-06-11",
-     "n": 0
-    },
-    {
-     "day": "2026-06-12",
-     "n": 0
-    },
-    {
-     "day": "2026-06-13",
-     "n": 0
-    },
-    {
-     "day": "2026-06-14",
-     "n": 0
-    },
-    {
-     "day": "2026-06-15",
-     "n": 0
-    },
-    {
-     "day": "2026-06-16",
-     "n": 0
-    },
-    {
-     "day": "2026-06-17",
-     "n": 0
-    },
-    {
-     "day": "2026-06-18",
-     "n": 0
-    },
-    {
-     "day": "2026-06-19",
-     "n": 0
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 0
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 0
-    },
-    {
-     "day": "2026-07-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 0
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 2
-    },
-    {
-     "day": "2026-08-04",
-     "n": 0
-    },
-    {
-     "day": "2026-08-05",
-     "n": 1
-    },
-    {
-     "day": "2026-08-06",
-     "n": 3
-    },
-    {
-     "day": "2026-08-07",
-     "n": 1
-    },
-    {
-     "day": "2026-08-08",
-     "n": 0
-    }
-   ],
-   "specificity": 0.992,
-   "rank": 1.99
   },
   {
    "id": "utility-scale",
@@ -40877,7 +40877,7 @@
      "rising",
      3,
      1,
-     13.3,
+     13.4,
      [
       {
        "title": "Y Combinator-backed Impact Drones to offer missile-intercepting drone service for data centers and grid operators",
@@ -41498,7 +41498,7 @@
      "new",
      5,
      0,
-     446.7,
+     446.8,
      [
       {
        "title": "Transgaz-Argent LNG MOU advances US gas route to Central and Eastern Europe",
@@ -43273,7 +43273,7 @@
      "steady",
      1,
      1,
-     43.5,
+     43.6,
      [
       {
        "title": "China Added More Nuclear Power In A Decade Than The Rest Of The World Combined",
@@ -43896,7 +43896,7 @@
      "steady",
      1,
      1,
-     9.0,
+     9.1,
      [
       {
        "title": "Hades licence win puts Germany on rare earth map",
