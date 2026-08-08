@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-08T04:47:03.390169+00:00",
+ "generated": "2026-08-08T04:53:27.979124+00:00",
  "prices": {
   "Autos": [
    {
@@ -26437,34 +26437,6 @@
        "sector": "Energy"
       }
      ]
-    ],
-    [
-     "data center revenue",
-     1.0,
-     "new",
-     3,
-     0,
-     51.1,
-     [
-      {
-       "title": "AMD Sees Data Center Revenue More Than Doubling Next Year as AI Demand Surges",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=12851",
-       "publisher": "The Elec",
-       "sector": "Technology"
-      },
-      {
-       "title": "Onsemi Says AI Data Center Revenue to More Than Double This Year",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=12815",
-       "publisher": "The Elec",
-       "sector": "Technology"
-      },
-      {
-       "title": "SK Telecom Q2 Operating Profit Jumps 67% on Surge in AI Data Center Revenue",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=12833",
-       "publisher": "The Elec",
-       "sector": "Technology"
-      }
-     ]
     ]
    ],
    "examples": [
@@ -27194,64 +27166,7 @@
      }
     ]
    },
-   "cooc": [
-    [
-     "national security",
-     0.75,
-     "new",
-     3,
-     0,
-     8.5,
-     [
-      {
-       "title": "China launches review of Palo Alto Networks as trade tensions with US escalate",
-       "url": "https://www.digitimes.com/news/a20260807VL217/palo-alto-networks-china-cybersecurity-infrastructure-business.html",
-       "publisher": "DigiTimes Asia",
-       "sector": "Technology"
-      },
-      {
-       "title": "Ex-White House official urges South Korea to avoid excessive digital regulation",
-       "url": "https://www.digitimes.com/news/a20260806PD209/regulation-security-investment-south-korea-usa.html",
-       "publisher": "DigiTimes Asia",
-       "sector": "Technology"
-      },
-      {
-       "title": "Gangs hijack Ecuador's gold mining supply chain",
-       "url": "https://www.mining.com/gangs-hijack-ecuadors-gold-mining-supply-chain/",
-       "publisher": "Mining.com",
-       "sector": "Materials"
-      }
-     ]
-    ],
-    [
-     "clean energy",
-     0.75,
-     "rising",
-     3,
-     1,
-     3.5,
-     [
-      {
-       "title": "Malaysia weighs loosening rare earth export limits as global supply chase intensifies",
-       "url": "https://www.digitimes.com/news/a20260807PD218/malaysia-rare-earth-exports-demand.html",
-       "publisher": "DigiTimes Asia",
-       "sector": "Technology"
-      },
-      {
-       "title": "How Geothermal and Nuclear Could Help the U.S. Catch China in the Energy Race",
-       "url": "https://oilprice.com/Energy/Energy-General/How-Geothermal-and-Nuclear-Could-Help-the-US-Catch-China-in-the-Energy-Race.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      },
-      {
-       "title": "India partners with 11 countries to secure critical mineral supply chains for clean energy , defence",
-       "url": "https://www.tribuneindia.com/news/india/india-partners-with-11-countries-to-secure-critical-mineral-supply-chains-for-clean-energy-defence/",
-       "publisher": "tribuneindia.com",
-       "sector": "Materials"
-      }
-     ]
-    ]
-   ],
+   "cooc": [],
    "examples": [
     {
      "publisher": "ET Realty",
@@ -28489,58 +28404,7 @@
      }
     ]
    },
-   "cooc": [
-    [
-     "brent crude",
-     0.33,
-     "steady",
-     1,
-     1,
-     28.4,
-     [
-      {
-       "title": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions",
-       "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Traders-Stay-Bearish-Despite-Deepening-Middle-East-Disruptions.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      },
-      {
-       "title": "Hormuz Bottleneck Pushes Indian Refiners Toward West African Grades",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Bottleneck-Pushes-Indian-Refiners-Toward-West-African-Grades.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      }
-     ]
-    ],
-    [
-     "red sea",
-     1.0,
-     "new",
-     3,
-     0,
-     23.2,
-     [
-      {
-       "title": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions",
-       "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Traders-Stay-Bearish-Despite-Deepening-Middle-East-Disruptions.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      },
-      {
-       "title": "CMA CGM completes FATTAL GROUP acquisition",
-       "url": "https://container-news.com/cma-cgm-completes-fattal-group-acquisition/",
-       "publisher": "Container News",
-       "sector": "Supply chain"
-      },
-      {
-       "title": "Saudi Arabia, Pakistan and Turkey to Sign Defense Deal",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Pakistan-and-Turkey-to-Sign-Defense-Deal.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      }
-     ]
-    ]
-   ],
+   "cooc": [],
    "examples": [
     {
      "publisher": "OilPrice",
@@ -29776,36 +29640,7 @@
      }
     ]
    },
-   "cooc": [
-    [
-     "solar power",
-     1.0,
-     "steady",
-     1,
-     1,
-     20.1,
-     [
-      {
-       "title": "Video gamers give 110-MW Texas solar project a financing boost",
-       "url": "https://www.utilitydive.com/news/video-gamers-give-110-mw-texas-solar-project-a-financing-boost/827228/",
-       "publisher": "Utility Dive",
-       "sector": "Utilities"
-      },
-      {
-       "title": "China puts battery storage at center of renewable energy strategy",
-       "url": "https://www.pv-magazine.com/2026/08/05/china-puts-battery-storage-at-center-of-renewable-energy-strategy/",
-       "publisher": "PV Magazine",
-       "sector": "Energy"
-      },
-      {
-       "title": "India Moves to Rescue Renewable Energy Projects Stalled by Grid Shortages",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Moves-to-Rescue-Renewable-Energy-Projects-Stalled-by-Grid-Shortages.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      }
-     ]
-    ]
-   ],
+   "cooc": [],
    "examples": [
     {
      "publisher": "Waste Dive",
@@ -30430,9 +30265,9 @@
      "lng export",
      1.0,
      "new",
-     5,
+     4,
      0,
-     121.1,
+     96.9,
      [
       {
        "title": "Transgaz-Argent LNG MOU advances US gas route to Central and Eastern Europe",
@@ -30449,34 +30284,6 @@
       {
        "title": "Hormuz Crisis Is Rewriting the Global LPG Trade",
        "url": "https://oilprice.com/Energy/Natural-Gas/Hormuz-Crisis-Is-Rewriting-the-Global-LPG-Trade.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      }
-     ]
-    ],
-    [
-     "oil production",
-     0.6,
-     "new",
-     3,
-     0,
-     54.5,
-     [
-      {
-       "title": "India's Crude Oil Output Falls for Third Straight Year",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Crude-Oil-Output-Falls-for-Third-Straight-Year.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      },
-      {
-       "title": "Argentina's Shale Boom Is Reshaping Energy Security Across the Americas",
-       "url": "https://oilprice.com/Energy/Energy-General/Argentinas-Shale-Boom-Is-Reshaping-Energy-Security-Across-the-Americas.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      },
-      {
-       "title": "ONGC Profit More Than Doubles as Oil Prices Surge",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/ONGC-Profit-More-Than-Doubles-as-Oil-Prices-Surge.html",
        "publisher": "OilPrice",
        "sector": "Energy"
       }
@@ -36842,62 +36649,6 @@
        "sector": "Supply chain"
       }
      ]
-    ],
-    [
-     "houthi threat",
-     1.0,
-     "new",
-     3,
-     0,
-     190.3,
-     [
-      {
-       "title": "Most VLCC loadings directed northbound in Red Sea: DHT Holdings",
-       "url": "https://www.seatrade-maritime.com/tankers/most-vlcc-loadings-directed-northbound-in-red-sea-dht-holdings",
-       "publisher": "Seatrade Maritime",
-       "sector": "Supply chain"
-      },
-      {
-       "title": "Boxship detours round Cape of Good Hope drop to lowest since 2024",
-       "url": "https://container-news.com/boxship-detours-round-cape-of-good-hope-drop-to-lowest-since-2024/",
-       "publisher": "Container News",
-       "sector": "Supply chain"
-      },
-      {
-       "title": "Houthi threat, record VLCC orders - Maritime in Minutes July in review",
-       "url": "https://www.seatrade-maritime.com/security/houthi-threat-record-vlcc-orders-maritime-in-minutes-july-in-review",
-       "publisher": "Seatrade Maritime",
-       "sector": "Supply chain"
-      }
-     ]
-    ],
-    [
-     "middle east",
-     1.0,
-     "new",
-     3,
-     0,
-     23.2,
-     [
-      {
-       "title": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions",
-       "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Traders-Stay-Bearish-Despite-Deepening-Middle-East-Disruptions.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      },
-      {
-       "title": "CMA CGM completes FATTAL GROUP acquisition",
-       "url": "https://container-news.com/cma-cgm-completes-fattal-group-acquisition/",
-       "publisher": "Container News",
-       "sector": "Supply chain"
-      },
-      {
-       "title": "Saudi Arabia, Pakistan and Turkey to Sign Defense Deal",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Pakistan-and-Turkey-to-Sign-Defense-Deal.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      }
-     ]
     ]
    ],
    "examples": [
@@ -38439,28 +38190,28 @@
    },
    "cooc": [
     [
-     "natural gas",
+     "middle east",
      1.0,
      "new",
-     5,
+     3,
      0,
-     19.6,
+     13.8,
      [
       {
-       "title": "India's Crude Oil Output Falls for Third Straight Year",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Crude-Oil-Output-Falls-for-Third-Straight-Year.html",
+       "title": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions",
+       "url": "https://oilprice.com/Energy/Oil-Prices/Oil-Traders-Stay-Bearish-Despite-Deepening-Middle-East-Disruptions.html",
        "publisher": "OilPrice",
        "sector": "Energy"
       },
       {
-       "title": "Hormuz Crisis Is Rewriting the Global LPG Trade",
-       "url": "https://oilprice.com/Energy/Natural-Gas/Hormuz-Crisis-Is-Rewriting-the-Global-LPG-Trade.html",
+       "title": "China's Crude Imports Bounce Back After Historic June Slump",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Crude-Imports-Bounce-Back-After-Historic-June-Slump.html",
        "publisher": "OilPrice",
        "sector": "Energy"
       },
       {
-       "title": "India Weighs Gas Levy to Bankroll $42 Billion Fuel Reserve Plan",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Weighs-Gas-Levy-to-Bankroll-42-Billion-Fuel-Reserve-Plan.html",
+       "title": "China's Top Refiner Pivots to Russian Crude",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Top-Refiner-Pivots-to-Russian-Crude.html",
        "publisher": "OilPrice",
        "sector": "Energy"
       }
@@ -40778,117 +40529,11 @@
    },
    "cooc": [
     [
-     "high performance computing",
-     0.18,
-     "new",
-     3,
-     0,
-     20.1,
-     [
-      {
-       "title": "Sponsored: nVent expands data center liquid cooling capacity",
-       "url": "https://www.datacenterdynamics.com/en/product-news/nvent-expands-data-center-liquid-cooling-capacity/",
-       "publisher": "Data Center Dynamics",
-       "sector": "Technology"
-      },
-      {
-       "title": "Energy Vault Breaks Ground on AI Campus in Texas for Crusoe Spark Modular Data Centers",
-       "url": "https://www.powermag.com/energy-vault-breaks-ground-on-ai-campus-in-texas-for-crusoe-spark-modular-data-centers/",
-       "publisher": "POWER Magazine",
-       "sector": "Energy"
-      }
-     ]
-    ],
-    [
-     "grid operator",
-     0.18,
-     "rising",
-     3,
-     1,
-     13.4,
-     [
-      {
-       "title": "Y Combinator-backed Impact Drones to offer missile-intercepting drone service for data centers and grid operators",
-       "url": "https://www.datacenterdynamics.com/en/news/y-combinator-backed-impact-drones-launches-offers-missile-intercepting-drone-service-for-data-centers-and-grid-operators/",
-       "publisher": "Data Center Dynamics",
-       "sector": "Technology"
-      },
-      {
-       "title": "Facing an estimated 474 GW of interconnection requests, Texas hits pause on data centers",
-       "url": "https://www.utilitydive.com/news/texas-hits-pause-data-center-interconnections/827046/",
-       "publisher": "Utility Dive",
-       "sector": "Utilities"
-      },
-      {
-       "title": "PJM's big new data center plan: Make the states figure it out",
-       "url": "https://www.canarymedia.com/articles/data-centers/pjm-data-center-plan",
-       "publisher": "Canary Media",
-       "sector": "Energy"
-      }
-     ]
-    ],
-    [
-     "pjm interconnection",
-     0.12,
-     "rising",
-     2,
-     1,
-     10.7,
-     [
-      {
-       "title": "Oncor weighs impact of Texas data center freeze on nearly 300-GW load pipeline",
-       "url": "https://www.utilitydive.com/news/fate-of-oncors-nearly-300-gw-load-pipeline-unclear-following-texas-data-ce/827303/",
-       "publisher": "Utility Dive",
-       "sector": "Utilities"
-      },
-      {
-       "title": "Existing power plants are \u2018bedrock' in supplying data centers: Constellation CEO",
-       "url": "https://www.utilitydive.com/news/existing-power-plants-supply-data-centers-constellation/827326/",
-       "publisher": "Utility Dive",
-       "sector": "Utilities"
-      },
-      {
-       "title": "Facing an estimated 474 GW of interconnection requests, Texas hits pause on data centers",
-       "url": "https://www.utilitydive.com/news/texas-hits-pause-data-center-interconnections/827046/",
-       "publisher": "Utility Dive",
-       "sector": "Utilities"
-      }
-     ]
-    ],
-    [
-     "energy demand",
-     0.18,
-     "new",
-     3,
-     0,
-     8.0,
-     [
-      {
-       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
-       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      },
-      {
-       "title": "Big Tech Turns to Fuel Cells to Power the AI Boom",
-       "url": "https://oilprice.com/Alternative-Energy/Fuel-Cells/Big-Tech-Turns-to-Fuel-Cells-to-Power-the-AI-Boom.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      },
-      {
-       "title": "DCD News: July review",
-       "url": "https://www.datacenterdynamics.com/en/videos/dcd-news-july-review/",
-       "publisher": "Data Center Dynamics",
-       "sector": "Technology"
-      }
-     ]
-    ],
-    [
      "artificial intelligence",
      1.0,
-     "rising",
+     "new",
      17,
-     1,
+     0,
      5.5,
      [
       {
@@ -40908,34 +40553,6 @@
        "url": "https://www.thelec.net/news/articleView.html?idxno=12883",
        "publisher": "The Elec",
        "sector": "Technology"
-      }
-     ]
-    ],
-    [
-     "electricity demand",
-     0.12,
-     "rising",
-     2,
-     1,
-     5.3,
-     [
-      {
-       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
-       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      },
-      {
-       "title": "Texas Audit Could Delay 49.8 GW of Data Center Load, Cost Projects Up to $15 Billion, BNEF Warns",
-       "url": "https://www.powermag.com/texas-audit-could-delay-49-8-gw-of-data-center-load-cost-projects-up-to-15-billion-bnef-warns/",
-       "publisher": "POWER Magazine",
-       "sector": "Utilities"
-      },
-      {
-       "title": "Big Tech Turns to Fuel Cells to Power the AI Boom",
-       "url": "https://oilprice.com/Alternative-Energy/Fuel-Cells/Big-Tech-Turns-to-Fuel-Cells-to-Power-the-AI-Boom.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
       }
      ]
     ]
@@ -41436,9 +41053,9 @@
      "lng export",
      1.0,
      "new",
-     5,
+     4,
      0,
-     447.3,
+     357.8,
      [
       {
        "title": "Transgaz-Argent LNG MOU advances US gas route to Central and Eastern Europe",
@@ -42010,58 +41627,7 @@
      }
     ]
    },
-   "cooc": [
-    [
-     "energy industry",
-     0.5,
-     "steady",
-     1,
-     1,
-     47.1,
-     [
-      {
-       "title": "China Added More Nuclear Power In A Decade Than The Rest Of The World Combined",
-       "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/China-Added-More-Nuclear-Power-In-A-Decade-Than-The-Rest-Of-The-World-Combined.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      },
-      {
-       "title": "Europe's Electricity Prices Spike to \u20ac500 a Megawatt-Hour as Drought Bites",
-       "url": "https://oilprice.com/Energy/Energy-General/Europes-Electricity-Prices-Spike-to-500-a-Megawatt-Hour-as-Drought-Bites.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      }
-     ]
-    ],
-    [
-     "nuclear energy",
-     0.5,
-     "steady",
-     1,
-     1,
-     5.5,
-     [
-      {
-       "title": "Water levels to be increased in Zaporizhzhia's used fuel pools",
-       "url": "https://www.world-nuclear-news.org/articles/water-levels-to-be-increased-in-zaporizhzhias-used-fuel-ponds",
-       "publisher": "World Nuclear News",
-       "sector": "Energy"
-      },
-      {
-       "title": "China Added More Nuclear Power In A Decade Than The Rest Of The World Combined",
-       "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/China-Added-More-Nuclear-Power-In-A-Decade-Than-The-Rest-Of-The-World-Combined.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      },
-      {
-       "title": "Europe's Electricity Prices Spike to \u20ac500 a Megawatt-Hour as Drought Bites",
-       "url": "https://oilprice.com/Energy/Energy-General/Europes-Electricity-Prices-Spike-to-500-a-Megawatt-Hour-as-Drought-Bites.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      }
-     ]
-    ]
-   ],
+   "cooc": [],
    "examples": [
     {
      "publisher": "Utility Dive",
@@ -42611,24 +42177,7 @@
      }
     ]
    },
-   "cooc": [
-    [
-     "energy security",
-     0.25,
-     "steady",
-     1,
-     1,
-     3.6,
-     [
-      {
-       "title": "Finland's Sand Battery Cuts Emissions 70% Without a Single Rare Earth",
-       "url": "https://oilprice.com/Energy/Energy-General/Finlands-Sand-Battery-Cuts-Emissions-70-Without-a-Single-Rare-Earth.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      }
-     ]
-    ]
-   ],
+   "cooc": [],
    "examples": [
     {
      "publisher": "Mining.com",
@@ -43174,30 +42723,7 @@
      }
     ]
    },
-   "cooc": [
-    [
-     "energy industry",
-     0.5,
-     "steady",
-     1,
-     1,
-     43.6,
-     [
-      {
-       "title": "China Added More Nuclear Power In A Decade Than The Rest Of The World Combined",
-       "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/China-Added-More-Nuclear-Power-In-A-Decade-Than-The-Rest-Of-The-World-Combined.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      },
-      {
-       "title": "Europe's Electricity Prices Spike to \u20ac500 a Megawatt-Hour as Drought Bites",
-       "url": "https://oilprice.com/Energy/Energy-General/Europes-Electricity-Prices-Spike-to-500-a-Megawatt-Hour-as-Drought-Bites.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      }
-     ]
-    ]
-   ],
+   "cooc": [],
    "examples": [
     {
      "publisher": "Data Center Dynamics",
@@ -43766,50 +43292,6 @@
        "title": "Trump signs memorandum on recoverable critical minerals and materials",
        "url": "https://www.recyclingtoday.com/trump-signs-memo-on-recoverable-critical-minerals-and-materials",
        "publisher": "Recycling Today",
-       "sector": "Materials"
-      }
-     ]
-    ],
-    [
-     "minerals sector",
-     0.2,
-     "steady",
-     1,
-     1,
-     11.3,
-     [
-      {
-       "title": "Podcast: Is the West's mining strategy working? Rebecca Seidl-Inglesby on policy and supply chains",
-       "url": "https://www.northernminer.com/news/podcast-is-the-wests-mining-strategy-working-rebecca-seidl-inglesby-on-policy-and-supply-chains/1003893680/",
-       "publisher": "Northern Miner",
-       "sector": "Materials"
-      },
-      {
-       "title": "Fishlike Nanorobots Could Become America's Answer to China's Lithium Grip",
-       "url": "https://oilprice.com/Metals/Commodities/Fishlike-Nanorobots-Could-Become-Americas-Answer-to-Chinas-Lithium-Grip.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      },
-      {
-       "title": "Queensland government releases critical minerals strategy",
-       "url": "https://www.manmonthly.com.au/queensland-government-releases-critical-minerals-strategy/",
-       "publisher": "Manufacturers' Monthly",
-       "sector": "Industrials"
-      }
-     ]
-    ],
-    [
-     "supply risk",
-     0.2,
-     "falling",
-     1,
-     3,
-     5.7,
-     [
-      {
-       "title": "Critical Mineral Supply Risk to $6 . 5 Trillion Industry : IEA",
-       "url": "https://www.newkerala.com/news/a/global-critical-mineral-concentration-export-controls-puts-usd-697.htm",
-       "publisher": "newkerala.com",
        "sector": "Materials"
       }
      ]
