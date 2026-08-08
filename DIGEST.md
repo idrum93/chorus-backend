@@ -1,6 +1,6 @@
 # Crosstalk — week ending 8 August 2026
 
-*7,046 articles over 101 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*7,049 articles over 101 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
@@ -9,8 +9,8 @@
   - [Document Processing Platform Extend AI Signs 9K-SF Lease at 119 Fifth Avenue](https://commercialobserver.com/2026/08/extend-ai-lease-119-fifth-avenue/) · Commercial Observer · real estate
 
 **supply chain** — now in 7 sectors. **Utilities** picked it up 5d ago; it was first seen in supply chain coverage on 12 May 2026.
+  - [MahaRERA invokes force majeure; extends project completion timeline by four months](https://realty.economictimes.indiatimes.com/news/rera/maharera-invokes-force-majeure-extends-project-completion-timeline-by-four-months/133045575) · ET Realty · real estate
   - [Interview: Lightmatter maps CPO future with Nvidia NVLink, Taiwan supply chain](https://www.digitimes.com/news/a20260807PD228/ocp-cpo-nvidia-taiwan-supply-chain-2026.html) · DigiTimes Asia · technology
-  - [Global tension + rising costs = more pressure on UK SMEs](https://theloadstar.com/global-tension-rising-costs-more-pressure-on-uk-smes/) · The Loadstar · supply chain
 
 **critical mineral** — now in 3 sectors. **Energy** picked it up 4d ago; it was first seen in materials coverage on 12 May 2026.
   - [US unveils $2B of financing commitments for mining](https://www.northernminer.com/news/us-unveils-2b-of-financing-commitments-for-mining/1003893825/) · Northern Miner · materials
@@ -25,7 +25,7 @@
 | phrase | sectors | articles | vs prior fortnight |
 |---|---|---|---|
 | artificial intelligence | 7 | 72 | 18.0× |
-| supply chain | 7 | 77 | 8.6× |
+| supply chain | 7 | 78 | 8.7× |
 | critical mineral | 3 | 64 | 5.8× |
 | data center | 7 | 175 | 5.5× |
 | rare earth | 2 | 64 | 4.6× |
@@ -33,6 +33,7 @@
 | fossil fuel | 2 | 9 | 3.0× |
 | power plant | 2 | 21 | 3.0× |
 | nuclear power | 2 | 21 | 2.6× |
+| west asia conflict | 2 | 5 | 1.7× |
 
 ---
 

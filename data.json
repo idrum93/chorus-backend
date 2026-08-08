@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-08T03:59:51.363588+00:00",
+ "generated": "2026-08-08T04:24:20.828251+00:00",
  "prices": {
   "Autos": [
    {
@@ -998,7 +998,7 @@
    },
    {
     "day": "2026-08-07",
-    "close": 57.5
+    "close": 57.48
    }
   ],
   "Finance": [
@@ -1248,7 +1248,7 @@
    },
    {
     "day": "2026-08-07",
-    "close": 57.6
+    "close": 57.62
    }
   ],
   "Industrials": [
@@ -1498,7 +1498,7 @@
    },
    {
     "day": "2026-08-07",
-    "close": 185.18
+    "close": 185.14
    }
   ],
   "Technology": [
@@ -2498,7 +2498,7 @@
    },
    {
     "day": "2026-08-07",
-    "close": 165.68
+    "close": 165.67
    }
   ],
   "Consumer": [
@@ -2748,7 +2748,7 @@
    },
    {
     "day": "2026-08-07",
-    "close": 119.86
+    "close": 119.81
    }
   ]
  },
@@ -2763,7 +2763,7 @@
   ],
   [
    "IN",
-   218
+   220
   ],
   [
    "TW",
@@ -2783,7 +2783,7 @@
   ],
   [
    "GR",
-   64
+   65
   ],
   [
    "AU",
@@ -2926,6 +2926,12 @@
   {
    "articles_list": [
     {
+     "title": "DynaLiners Shares Index edges higher",
+     "url": "https://container-news.com/dynaliners-shares-index-edges-higher/",
+     "publisher": "Container News",
+     "sector": "Supply chain"
+    },
+    {
      "title": "How India is preparing for the next generation of warfare: Defence Secretary Rajesh Kumar Singh",
      "url": "https://government.economictimes.indiatimes.com/news/defence/how-india-is-preparing-for-the-next-generation-of-warfare-defence-secretary-rajesh-kumar-singh/133045397",
      "publisher": "ET Government",
@@ -2934,12 +2940,6 @@
     {
      "title": "Blackstone's AGS Health files updated draft papers for $500 Mn IPO",
      "url": "https://health.economictimes.indiatimes.com/news/industry/blackstones-ags-health-files-updated-draft-papers-for-500-million-india-ipo/133044893",
-     "publisher": "ET HealthWorld",
-     "sector": "Healthcare"
-    },
-    {
-     "title": "India must build export-oriented medical devices industry, Pharma secy",
-     "url": "https://health.economictimes.indiatimes.com/news/medical-devices/india-must-build-export-oriented-medical-devices-industry-says-pharma-secretary/133044849",
      "publisher": "ET HealthWorld",
      "sector": "Healthcare"
     }
@@ -3641,6 +3641,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "ET Realty",
+       "title": "MahaRERA invokes force majeure; extends project completion timeline by four months",
+       "url": "https://realty.economictimes.indiatimes.com/news/rera/maharera-invokes-force-majeure-extends-project-completion-timeline-by-four-months/133045575",
+       "sector": "Real estate",
+       "country": "IN"
+      },
+      {
        "publisher": "DigiTimes Asia",
        "title": "Interview: Lightmatter maps CPO future with Nvidia NVLink, Taiwan supply chain",
        "url": "https://www.digitimes.com/news/a20260807PD228/ocp-cpo-nvidia-taiwan-supply-chain-2026.html",
@@ -3652,13 +3659,6 @@
        "title": "Global tension + rising costs = more pressure on UK SMEs",
        "url": "https://theloadstar.com/global-tension-rising-costs-more-pressure-on-uk-smes/",
        "sector": "Supply chain",
-       "country": "GB"
-      },
-      {
-       "publisher": "Automotive World",
-       "title": "Enva's new HIPS compound targets automotive manufacturers",
-       "url": "https://www.automotiveworld.com/news/envas-new-hips-compound-targets-automotive-manufacturers/",
-       "sector": "Autos",
        "country": "GB"
       }
      ]
@@ -4216,6 +4216,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "ET Realty",
+       "title": "MahaRERA invokes force majeure; extends project completion timeline by four months",
+       "url": "https://realty.economictimes.indiatimes.com/news/rera/maharera-invokes-force-majeure-extends-project-completion-timeline-by-four-months/133045575",
+       "sector": "Real estate",
+       "country": "IN"
+      },
+      {
        "publisher": "DigiTimes Asia",
        "title": "Interview: Lightmatter maps CPO future with Nvidia NVLink, Taiwan supply chain",
        "url": "https://www.digitimes.com/news/a20260807PD228/ocp-cpo-nvidia-taiwan-supply-chain-2026.html",
@@ -4227,13 +4234,6 @@
        "title": "Global tension + rising costs = more pressure on UK SMEs",
        "url": "https://theloadstar.com/global-tension-rising-costs-more-pressure-on-uk-smes/",
        "sector": "Supply chain",
-       "country": "GB"
-      },
-      {
-       "publisher": "Automotive World",
-       "title": "Enva's new HIPS compound targets automotive manufacturers",
-       "url": "https://www.automotiveworld.com/news/envas-new-hips-compound-targets-automotive-manufacturers/",
-       "sector": "Autos",
        "country": "GB"
       }
      ]
@@ -4617,6 +4617,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "ET Realty",
+       "title": "MahaRERA invokes force majeure; extends project completion timeline by four months",
+       "url": "https://realty.economictimes.indiatimes.com/news/rera/maharera-invokes-force-majeure-extends-project-completion-timeline-by-four-months/133045575",
+       "sector": "Real estate",
+       "country": "IN"
+      },
+      {
        "publisher": "DigiTimes Asia",
        "title": "Interview: Lightmatter maps CPO future with Nvidia NVLink, Taiwan supply chain",
        "url": "https://www.digitimes.com/news/a20260807PD228/ocp-cpo-nvidia-taiwan-supply-chain-2026.html",
@@ -4628,13 +4635,6 @@
        "title": "Global tension + rising costs = more pressure on UK SMEs",
        "url": "https://theloadstar.com/global-tension-rising-costs-more-pressure-on-uk-smes/",
        "sector": "Supply chain",
-       "country": "GB"
-      },
-      {
-       "publisher": "Automotive World",
-       "title": "Enva's new HIPS compound targets automotive manufacturers",
-       "url": "https://www.automotiveworld.com/news/envas-new-hips-compound-targets-automotive-manufacturers/",
-       "sector": "Autos",
        "country": "GB"
       }
      ]
@@ -4799,6 +4799,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "ET Realty",
+       "title": "MahaRERA invokes force majeure; extends project completion timeline by four months",
+       "url": "https://realty.economictimes.indiatimes.com/news/rera/maharera-invokes-force-majeure-extends-project-completion-timeline-by-four-months/133045575",
+       "sector": "Real estate",
+       "country": "IN"
+      },
+      {
        "publisher": "DigiTimes Asia",
        "title": "Interview: Lightmatter maps CPO future with Nvidia NVLink, Taiwan supply chain",
        "url": "https://www.digitimes.com/news/a20260807PD228/ocp-cpo-nvidia-taiwan-supply-chain-2026.html",
@@ -4810,13 +4817,6 @@
        "title": "Global tension + rising costs = more pressure on UK SMEs",
        "url": "https://theloadstar.com/global-tension-rising-costs-more-pressure-on-uk-smes/",
        "sector": "Supply chain",
-       "country": "GB"
-      },
-      {
-       "publisher": "Automotive World",
-       "title": "Enva's new HIPS compound targets automotive manufacturers",
-       "url": "https://www.automotiveworld.com/news/envas-new-hips-compound-targets-automotive-manufacturers/",
-       "sector": "Autos",
        "country": "GB"
       }
      ]
@@ -4894,6 +4894,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "ET Realty",
+       "title": "MahaRERA invokes force majeure; extends project completion timeline by four months",
+       "url": "https://realty.economictimes.indiatimes.com/news/rera/maharera-invokes-force-majeure-extends-project-completion-timeline-by-four-months/133045575",
+       "sector": "Real estate",
+       "country": "IN"
+      },
+      {
        "publisher": "DigiTimes Asia",
        "title": "Interview: Lightmatter maps CPO future with Nvidia NVLink, Taiwan supply chain",
        "url": "https://www.digitimes.com/news/a20260807PD228/ocp-cpo-nvidia-taiwan-supply-chain-2026.html",
@@ -4905,13 +4912,6 @@
        "title": "Global tension + rising costs = more pressure on UK SMEs",
        "url": "https://theloadstar.com/global-tension-rising-costs-more-pressure-on-uk-smes/",
        "sector": "Supply chain",
-       "country": "GB"
-      },
-      {
-       "publisher": "Automotive World",
-       "title": "Enva's new HIPS compound targets automotive manufacturers",
-       "url": "https://www.automotiveworld.com/news/envas-new-hips-compound-targets-automotive-manufacturers/",
-       "sector": "Autos",
        "country": "GB"
       }
      ]
@@ -5171,6 +5171,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "ET Realty",
+       "title": "MahaRERA invokes force majeure; extends project completion timeline by four months",
+       "url": "https://realty.economictimes.indiatimes.com/news/rera/maharera-invokes-force-majeure-extends-project-completion-timeline-by-four-months/133045575",
+       "sector": "Real estate",
+       "country": "IN"
+      },
+      {
        "publisher": "DigiTimes Asia",
        "title": "Interview: Lightmatter maps CPO future with Nvidia NVLink, Taiwan supply chain",
        "url": "https://www.digitimes.com/news/a20260807PD228/ocp-cpo-nvidia-taiwan-supply-chain-2026.html",
@@ -5182,13 +5189,6 @@
        "title": "Global tension + rising costs = more pressure on UK SMEs",
        "url": "https://theloadstar.com/global-tension-rising-costs-more-pressure-on-uk-smes/",
        "sector": "Supply chain",
-       "country": "GB"
-      },
-      {
-       "publisher": "Automotive World",
-       "title": "Enva's new HIPS compound targets automotive manufacturers",
-       "url": "https://www.automotiveworld.com/news/envas-new-hips-compound-targets-automotive-manufacturers/",
-       "sector": "Autos",
        "country": "GB"
       }
      ]
@@ -5580,6 +5580,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "ET Realty",
+       "title": "MahaRERA invokes force majeure; extends project completion timeline by four months",
+       "url": "https://realty.economictimes.indiatimes.com/news/rera/maharera-invokes-force-majeure-extends-project-completion-timeline-by-four-months/133045575",
+       "sector": "Real estate",
+       "country": "IN"
+      },
+      {
        "publisher": "DigiTimes Asia",
        "title": "Interview: Lightmatter maps CPO future with Nvidia NVLink, Taiwan supply chain",
        "url": "https://www.digitimes.com/news/a20260807PD228/ocp-cpo-nvidia-taiwan-supply-chain-2026.html",
@@ -5591,13 +5598,6 @@
        "title": "Global tension + rising costs = more pressure on UK SMEs",
        "url": "https://theloadstar.com/global-tension-rising-costs-more-pressure-on-uk-smes/",
        "sector": "Supply chain",
-       "country": "GB"
-      },
-      {
-       "publisher": "Automotive World",
-       "title": "Enva's new HIPS compound targets automotive manufacturers",
-       "url": "https://www.automotiveworld.com/news/envas-new-hips-compound-targets-automotive-manufacturers/",
-       "sector": "Autos",
        "country": "GB"
       }
      ]
@@ -5646,6 +5646,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "ET Realty",
+       "title": "MahaRERA invokes force majeure; extends project completion timeline by four months",
+       "url": "https://realty.economictimes.indiatimes.com/news/rera/maharera-invokes-force-majeure-extends-project-completion-timeline-by-four-months/133045575",
+       "sector": "Real estate",
+       "country": "IN"
+      },
+      {
        "publisher": "DigiTimes Asia",
        "title": "Interview: Lightmatter maps CPO future with Nvidia NVLink, Taiwan supply chain",
        "url": "https://www.digitimes.com/news/a20260807PD228/ocp-cpo-nvidia-taiwan-supply-chain-2026.html",
@@ -5657,13 +5664,6 @@
        "title": "Global tension + rising costs = more pressure on UK SMEs",
        "url": "https://theloadstar.com/global-tension-rising-costs-more-pressure-on-uk-smes/",
        "sector": "Supply chain",
-       "country": "GB"
-      },
-      {
-       "publisher": "Automotive World",
-       "title": "Enva's new HIPS compound targets automotive manufacturers",
-       "url": "https://www.automotiveworld.com/news/envas-new-hips-compound-targets-automotive-manufacturers/",
-       "sector": "Autos",
        "country": "GB"
       }
      ]
@@ -6026,6 +6026,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "ET Realty",
+       "title": "MahaRERA invokes force majeure; extends project completion timeline by four months",
+       "url": "https://realty.economictimes.indiatimes.com/news/rera/maharera-invokes-force-majeure-extends-project-completion-timeline-by-four-months/133045575",
+       "sector": "Real estate",
+       "country": "IN"
+      },
+      {
        "publisher": "DigiTimes Asia",
        "title": "Interview: Lightmatter maps CPO future with Nvidia NVLink, Taiwan supply chain",
        "url": "https://www.digitimes.com/news/a20260807PD228/ocp-cpo-nvidia-taiwan-supply-chain-2026.html",
@@ -6037,13 +6044,6 @@
        "title": "Global tension + rising costs = more pressure on UK SMEs",
        "url": "https://theloadstar.com/global-tension-rising-costs-more-pressure-on-uk-smes/",
        "sector": "Supply chain",
-       "country": "GB"
-      },
-      {
-       "publisher": "Automotive World",
-       "title": "Enva's new HIPS compound targets automotive manufacturers",
-       "url": "https://www.automotiveworld.com/news/envas-new-hips-compound-targets-automotive-manufacturers/",
-       "sector": "Autos",
        "country": "GB"
       }
      ]
@@ -6414,6 +6414,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "ET Realty",
+       "title": "MahaRERA invokes force majeure; extends project completion timeline by four months",
+       "url": "https://realty.economictimes.indiatimes.com/news/rera/maharera-invokes-force-majeure-extends-project-completion-timeline-by-four-months/133045575",
+       "sector": "Real estate",
+       "country": "IN"
+      },
+      {
        "publisher": "DigiTimes Asia",
        "title": "Interview: Lightmatter maps CPO future with Nvidia NVLink, Taiwan supply chain",
        "url": "https://www.digitimes.com/news/a20260807PD228/ocp-cpo-nvidia-taiwan-supply-chain-2026.html",
@@ -6425,13 +6432,6 @@
        "title": "Global tension + rising costs = more pressure on UK SMEs",
        "url": "https://theloadstar.com/global-tension-rising-costs-more-pressure-on-uk-smes/",
        "sector": "Supply chain",
-       "country": "GB"
-      },
-      {
-       "publisher": "Automotive World",
-       "title": "Enva's new HIPS compound targets automotive manufacturers",
-       "url": "https://www.automotiveworld.com/news/envas-new-hips-compound-targets-automotive-manufacturers/",
-       "sector": "Autos",
        "country": "GB"
       }
      ]
@@ -6876,6 +6876,13 @@
      "direction": "rising",
      "examples": [
       {
+       "publisher": "ET Realty",
+       "title": "MahaRERA invokes force majeure; extends project completion timeline by four months",
+       "url": "https://realty.economictimes.indiatimes.com/news/rera/maharera-invokes-force-majeure-extends-project-completion-timeline-by-four-months/133045575",
+       "sector": "Real estate",
+       "country": "IN"
+      },
+      {
        "publisher": "DigiTimes Asia",
        "title": "Interview: Lightmatter maps CPO future with Nvidia NVLink, Taiwan supply chain",
        "url": "https://www.digitimes.com/news/a20260807PD228/ocp-cpo-nvidia-taiwan-supply-chain-2026.html",
@@ -6887,13 +6894,6 @@
        "title": "Global tension + rising costs = more pressure on UK SMEs",
        "url": "https://theloadstar.com/global-tension-rising-costs-more-pressure-on-uk-smes/",
        "sector": "Supply chain",
-       "country": "GB"
-      },
-      {
-       "publisher": "Automotive World",
-       "title": "Enva's new HIPS compound targets automotive manufacturers",
-       "url": "https://www.automotiveworld.com/news/envas-new-hips-compound-targets-automotive-manufacturers/",
-       "sector": "Autos",
        "country": "GB"
       }
      ]
@@ -26091,8 +26091,8 @@
   ]
  },
  "daysCollected": 101,
- "articlesStored": 7046,
- "articlesLive": 3328,
+ "articlesStored": 7049,
+ "articlesLive": 3331,
  "windowDays": 90,
  "terms": [
   {
@@ -26416,7 +26416,7 @@
      "new",
      3,
      0,
-     64.5,
+     64.6,
      [
       {
        "title": "Texas A & M University joins the Genesis Mission to transform science using artificial intelligence Texas A & M Stories",
@@ -26444,7 +26444,7 @@
      "new",
      3,
      0,
-     51.6,
+     51.7,
      [
       {
        "title": "AMD Sees Data Center Revenue More Than Doubling Next Year as AI Demand Surges",
@@ -26871,9 +26871,9 @@
    "effectiveSectors": 4.52,
    "newestSector": "Utilities",
    "daysSinceNewestSector": 5,
-   "articles14d": 77,
+   "articles14d": 78,
    "articlesPrior14d": 9,
-   "publishers": 37,
+   "publishers": 38,
    "sectors": [
     {
      "name": "Supply chain",
@@ -26951,11 +26951,11 @@
      3
     ],
     [
-     "GR",
-     2
+     "IN",
+     3
     ],
     [
-     "IN",
+     "GR",
      2
     ]
    ],
@@ -27121,6 +27121,24 @@
       ]
      },
      {
+      "sector": "Real estate",
+      "n": [
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     },
+     {
       "sector": "Autos",
       "n": [
        0,
@@ -27136,24 +27154,6 @@
        0,
        0,
        1
-      ]
-     },
-     {
-      "sector": "Real estate",
-      "n": [
-       0,
-       1,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
       ]
      },
      {
@@ -27196,22 +27196,6 @@
    },
    "cooc": [
     [
-     "critical component",
-     0.25,
-     "steady",
-     1,
-     1,
-     9.1,
-     [
-      {
-       "title": "Analysis: Volkswagen-Gotion standoff highlights China's growing leverage in EV batteries",
-       "url": "https://www.digitimes.com/news/a20260805PD233/automotive-volkswagen-gotion-europe-manufacturing.html",
-       "publisher": "DigiTimes Asia",
-       "sector": "Technology"
-      }
-     ]
-    ],
-    [
      "national security",
      0.75,
      "new",
@@ -27236,28 +27220,6 @@
        "url": "https://www.mining.com/gangs-hijack-ecuadors-gold-mining-supply-chain/",
        "publisher": "Mining.com",
        "sector": "Materials"
-      }
-     ]
-    ],
-    [
-     "china dominance",
-     0.25,
-     "steady",
-     1,
-     1,
-     7.6,
-     [
-      {
-       "title": "China's copper smelting grip worries veteran metallurgist",
-       "url": "https://www.mining.com/chinas-copper-smelting-grip-worries-veteran-metallurgist/",
-       "publisher": "Mining.com",
-       "sector": "Materials"
-      },
-      {
-       "title": "How Geothermal and Nuclear Could Help the U.S. Catch China in the Energy Race",
-       "url": "https://oilprice.com/Energy/Energy-General/How-Geothermal-and-Nuclear-Could-Help-the-US-Catch-China-in-the-Energy-Race.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
       }
      ]
     ],
@@ -27292,6 +27254,13 @@
    ],
    "examples": [
     {
+     "publisher": "ET Realty",
+     "title": "MahaRERA invokes force majeure; extends project completion timeline by four months",
+     "url": "https://realty.economictimes.indiatimes.com/news/rera/maharera-invokes-force-majeure-extends-project-completion-timeline-by-four-months/133045575",
+     "sector": "Real estate",
+     "country": "IN"
+    },
+    {
      "publisher": "DigiTimes Asia",
      "title": "Interview: Lightmatter maps CPO future with Nvidia NVLink, Taiwan supply chain",
      "url": "https://www.digitimes.com/news/a20260807PD228/ocp-cpo-nvidia-taiwan-supply-chain-2026.html",
@@ -27311,13 +27280,6 @@
      "url": "https://www.automotiveworld.com/news/envas-new-hips-compound-targets-automotive-manufacturers/",
      "sector": "Autos",
      "country": "GB"
-    },
-    {
-     "publisher": "ET Manufacturing",
-     "title": "GEE secures NPCIL nod to enter India's nuclear power supply chain",
-     "url": "https://manufacturing.economictimes.indiatimes.com/news/energy/gee-secures-npcil-nod-to-enter-indias-nuclear-power-supply-chain/133022314",
-     "sector": "Industrials",
-     "country": "IN"
     }
    ],
    "daily": [
@@ -27679,10 +27641,10 @@
     },
     {
      "day": "2026-08-08",
-     "n": 1
+     "n": 2
     }
    ],
-   "specificity": 0.908,
+   "specificity": 0.907,
    "rank": 4.25
   },
   {
@@ -30470,7 +30432,7 @@
      "new",
      5,
      0,
-     121.0,
+     121.1,
      [
       {
        "title": "Transgaz-Argent LNG MOU advances US gas route to Central and Eastern Europe",
@@ -32072,36 +32034,7 @@
      }
     ]
    },
-   "cooc": [
-    [
-     "oil price",
-     1.0,
-     "steady",
-     1,
-     1,
-     24.2,
-     [
-      {
-       "title": "Citi Lifts Brent Outlook but Still Sees Oil Falling in 2027",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Citi-Lifts-Brent-Outlook-but-Still-Sees-Oil-Falling-in-2027.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      },
-      {
-       "title": "Weak Energy Demand May Signal a Much Bigger Economic Problem",
-       "url": "https://oilprice.com/Energy/Energy-General/Weak-Energy-Demand-May-Signal-a-Much-Bigger-Economic-Problem.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      },
-      {
-       "title": "Oil Prices Plunge 5% as Trump Halts Iran Strike Plans",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-5-as-Trump-Halts-Iran-Strike-Plans.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      }
-     ]
-    ]
-   ],
+   "cooc": [],
    "examples": [
     {
      "publisher": "OilPrice",
@@ -34598,15 +34531,15 @@
   {
    "id": "west-asia-conflict",
    "term": "west asia conflict",
-   "direction": "steady",
+   "direction": "rising",
    "display": true,
    "sectorCount": 2,
    "effectiveSectors": 1.98,
    "newestSector": "Supply chain",
    "daysSinceNewestSector": 17,
-   "articles14d": 4,
+   "articles14d": 5,
    "articlesPrior14d": 3,
-   "publishers": 3,
+   "publishers": 4,
    "sectors": [
     {
      "name": "Consumer",
@@ -34633,7 +34566,7 @@
     ],
     [
      "IN",
-     2
+     3
     ]
    ],
    "flow": {
@@ -34724,11 +34657,36 @@
        0,
        1
       ]
+     },
+     {
+      "sector": "Real estate",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
      }
     ]
    },
    "cooc": [],
    "examples": [
+    {
+     "publisher": "ET Realty",
+     "title": "MahaRERA invokes force majeure; extends project completion timeline by four months",
+     "url": "https://realty.economictimes.indiatimes.com/news/rera/maharera-invokes-force-majeure-extends-project-completion-timeline-by-four-months/133045575",
+     "sector": "Real estate",
+     "country": "IN"
+    },
     {
      "publisher": "ET Auto",
      "title": "Michelin to stay the course on India investments despite global cost pressures",
@@ -34748,13 +34706,6 @@
      "title": "West Asia Conflict Escalates Cost Pressures for Indian Businesses , ETRetail",
      "url": "https://retail.economictimes.indiatimes.com/news/industry/west-asia-conflict-adds-fresh-cost-pressures-for-india-inc/132830683",
      "sector": "Supply chain",
-     "country": "US"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Oil Prices Plunge 5% as Trump Halts Iran Strike Plans",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-5-as-Trump-Halts-Iran-Strike-Plans.html",
-     "sector": "Energy",
      "country": "US"
     }
    ],
@@ -35117,10 +35068,10 @@
     },
     {
      "day": "2026-08-08",
-     "n": 0
+     "n": 1
     }
    ],
-   "specificity": 0.995,
+   "specificity": 0.994,
    "rank": 1.97
   },
   {
@@ -35303,30 +35254,7 @@
      }
     ]
    },
-   "cooc": [
-    [
-     "tax credit",
-     1.0,
-     "steady",
-     1,
-     1,
-     92.9,
-     [
-      {
-       "title": "Shriram Finance to borrow Rs 20,000 Cr in Q2 FY27 as AAA rating lowers funding costs by 50-60 bps",
-       "url": "https://bfsi.economictimes.indiatimes.com/articles/shriram-finance-to-borrow-rs-20000-cr-in-q2-fy27-as-aaa-rating-lowers-funding-costs-by-50-60-bps/132844453",
-       "publisher": "ET BFSI",
-       "sector": "Finance"
-      },
-      {
-       "title": "Hybrid sales rise while battery electric sales remain lower after tax credit expiration",
-       "url": "https://www.eia.gov/todayinenergy/detail.php?id=67885",
-       "publisher": "EIA Today in Energy",
-       "sector": "Utilities"
-      }
-     ]
-    ]
-   ],
+   "cooc": [],
    "examples": [
     {
      "publisher": "DigiTimes Asia",
@@ -36893,7 +36821,7 @@
      "new",
      3,
      0,
-     237.6,
+     237.7,
      [
       {
        "title": "Pacific Halibut Fisheries of the West Coast; Inseason Action for the 2026 Area 2A Pacific Halibut Directed Commercial Fishery",
@@ -36921,7 +36849,7 @@
      "new",
      3,
      0,
-     190.1,
+     190.2,
      [
       {
        "title": "Most VLCC loadings directed northbound in Red Sea: DHT Holdings",
@@ -40984,17 +40912,29 @@
      ]
     ],
     [
-     "virtual power plant",
-     0.06,
-     "steady",
-     1,
+     "electricity demand",
+     0.12,
+     "rising",
+     2,
      1,
      5.3,
      [
       {
-       "title": "US data centers turn to on-site solar, storage, VPPs as grid delays mount",
-       "url": "https://www.pv-magazine.com/2026/08/06/transmission-logjams-and-ai-load-growth-push-data-centers-toward-on-site-solar-storage-and-vpps/",
-       "publisher": "PV Magazine",
+       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
+       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      },
+      {
+       "title": "Texas Audit Could Delay 49.8 GW of Data Center Load, Cost Projects Up to $15 Billion, BNEF Warns",
+       "url": "https://www.powermag.com/texas-audit-could-delay-49-8-gw-of-data-center-load-cost-projects-up-to-15-billion-bnef-warns/",
+       "publisher": "POWER Magazine",
+       "sector": "Utilities"
+      },
+      {
+       "title": "Big Tech Turns to Fuel Cells to Power the AI Boom",
+       "url": "https://oilprice.com/Alternative-Energy/Fuel-Cells/Big-Tech-Turns-to-Fuel-Cells-to-Power-the-AI-Boom.html",
+       "publisher": "OilPrice",
        "sector": "Energy"
       }
      ]
@@ -41498,7 +41438,7 @@
      "new",
      5,
      0,
-     446.8,
+     447.0,
      [
       {
        "title": "Transgaz-Argent LNG MOU advances US gas route to Central and Eastern Europe",
@@ -42673,22 +42613,6 @@
    },
    "cooc": [
     [
-     "domestic supply",
-     0.25,
-     "steady",
-     1,
-     1,
-     11.6,
-     [
-      {
-       "title": "Hades licence win puts Germany on rare earth map",
-       "url": "https://www.mining.com/hades-licence-win-puts-germany-on-rare-earth-map/",
-       "publisher": "Mining.com",
-       "sector": "Materials"
-      }
-     ]
-    ],
-    [
      "energy security",
      0.25,
      "steady",
@@ -42701,22 +42625,6 @@
        "url": "https://oilprice.com/Energy/Energy-General/Finlands-Sand-Battery-Cuts-Emissions-70-Without-a-Single-Rare-Earth.html",
        "publisher": "OilPrice",
        "sector": "Energy"
-      }
-     ]
-    ],
-    [
-     "export control",
-     0.25,
-     "falling",
-     1,
-     3,
-     1.7,
-     [
-      {
-       "title": "China Hits U . S ., Europe With New Rare Earths Export Controls",
-       "url": "https://legalinsurrection.com/2026/07/china-hits-u-s-europe-with-new-rare-earths-export-controls/",
-       "publisher": "legalinsurrection.com",
-       "sector": "Policy"
       }
      ]
     ]
@@ -43113,7 +43021,7 @@
      "n": 0
     }
    ],
-   "specificity": 0.923,
+   "specificity": 0.924,
    "rank": 1.37
   },
   {
@@ -43865,9 +43773,9 @@
     [
      "minerals sector",
      0.2,
-     "falling",
+     "steady",
      1,
-     3,
+     1,
      11.3,
      [
       {
@@ -43887,38 +43795,6 @@
        "url": "https://www.manmonthly.com.au/queensland-government-releases-critical-minerals-strategy/",
        "publisher": "Manufacturers' Monthly",
        "sector": "Industrials"
-      }
-     ]
-    ],
-    [
-     "import dependence",
-     0.2,
-     "steady",
-     1,
-     1,
-     9.1,
-     [
-      {
-       "title": "Hades licence win puts Germany on rare earth map",
-       "url": "https://www.mining.com/hades-licence-win-puts-germany-on-rare-earth-map/",
-       "publisher": "Mining.com",
-       "sector": "Materials"
-      }
-     ]
-    ],
-    [
-     "china dominance",
-     0.2,
-     "falling",
-     1,
-     2,
-     7.5,
-     [
-      {
-       "title": "U.S. Hits New Obstacle on Critical Mineral Security Course",
-       "url": "https://oilprice.com/Energy/Energy-General/US-Hits-New-Obstacle-on-Critical-Mineral-Security-Course.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
       }
      ]
     ],
@@ -44331,7 +44207,7 @@
      "n": 0
     }
    ],
-   "specificity": 0.923,
+   "specificity": 0.924,
    "rank": 1.29
   }
  ]
