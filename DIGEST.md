@@ -1,6 +1,6 @@
 # Crosstalk — week ending 8 August 2026
 
-*7,040 articles over 101 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*7,044 articles over 101 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
@@ -13,8 +13,8 @@
   - [Global tension + rising costs = more pressure on UK SMEs](https://theloadstar.com/global-tension-rising-costs-more-pressure-on-uk-smes/) · The Loadstar · supply chain
 
 **natural gas** — now in 3 sectors. **Utilities** picked it up 5d ago; it was first seen in energy coverage on 12 May 2026.
+  - [Delhi HC stays FSSAI ban on Dabur selling food products with '100 pc' claims](https://health.economictimes.indiatimes.com/news/industry/delhi-hc-stays-fssai-ban-on-dabur-selling-food-products-with-100-pc-claims/133044943) · ET HealthWorld · healthcare
   - [Transgaz-Argent LNG MOU advances US gas route to Central and Eastern Europe](https://www.offshore-energy.biz/transgaz-argent-lng-mou-advances-us-gas-route-to-central-and-eastern-europe/) · Offshore Energy · energy
-  - [Relief for Dabur as Delhi HC stays FSSAI order banning product sale over ‘100%' claims](https://retail.economictimes.indiatimes.com/news/food-entertainment/personal-care-pet-supplies-liquor/relief-for-dabur-as-delhi-hc-stays-fssai-order-banning-product-sale-over-100-claims/133029611) · ET Retail · consumer
 
 ## Being used more than a fortnight ago
 
