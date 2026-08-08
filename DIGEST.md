@@ -1,6 +1,6 @@
 # Crosstalk — week ending 8 August 2026
 
-*7,194 articles over 103 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*7,209 articles over 104 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
@@ -31,7 +31,7 @@
 | artificial intelligence | 7 | 73 | 18.2× |
 | supply chain | 7 | 78 | 8.7× |
 | critical mineral | 3 | 64 | 5.8× |
-| data center | 7 | 185 | 5.8× |
+| data center | 7 | 186 | 5.8× |
 | rare earth | 2 | 65 | 4.6× |
 | renewable energy | 3 | 16 | 4.0× |
 | power plant | 2 | 22 | 3.1× |
