@@ -1,6 +1,6 @@
 # Crosstalk — week ending 9 August 2026
 
-*7,252 articles over 105 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*7,260 articles over 105 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
@@ -9,8 +9,8 @@
   - [MahaRERA invokes force majeure; extends project completion timeline by four months](https://realty.economictimes.indiatimes.com/news/rera/maharera-invokes-force-majeure-extends-project-completion-timeline-by-four-months/133045575) · ET Realty · real estate
 
 **artificial intelligence** — now in 7 sectors. **Utilities** picked it up 6d ago; it was first seen in technology coverage on 31 May 2026.
+  - [AI in MedTech can transform healthcare, report paper highlights five priorities](https://health.economictimes.indiatimes.com/news/medical-devices/ai-in-medtech-can-transform-healthcare-report-paper-highlights-five-priorities/133064274) · ET HealthWorld · healthcare
   - [Innodisk posts record second quarter profit on AI and memory demand](https://www.digitimes.com/news/a20260807PD232/innodisk-profit-2026-demand-revenue.html) · DigiTimes Asia · technology
-  - [SBI moving entire cheque processing to AI, aims to free up workforce for higher-value roles: Chairman CS Setty](https://hr.economictimes.indiatimes.com/news/industry/sbi-moving-entire-cheque-processing-to-ai-aims-to-free-up-workforce-for-higher-value-roles-chairman-cs-setty/133045266) · ET HRWorld · labor
 
 **energy storage** — now in 3 sectors. **Technology** picked it up 5d ago; it was first seen in energy coverage on 18 June 2026.
   - [British firm bets on aluminium to break lithium battery dependence](https://www.energylivenews.com/2026/08/07/british-firm-bets-on-aluminium-to-break-lithium-battery-dependence/) · Energy Live News · utilities
@@ -31,7 +31,7 @@
 | artificial intelligence | 7 | 74 | 24.7× |
 | supply chain | 7 | 79 | 9.9× |
 | critical mineral | 3 | 64 | 5.8× |
-| data center | 6 | 187 | 5.7× |
+| data center | 6 | 188 | 5.7× |
 | renewable energy | 3 | 18 | 4.5× |
 | rare earth | 2 | 64 | 4.3× |
 | fossil fuel | 2 | 10 | 3.3× |
