@@ -1,0 +1,2252 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23E8EAE3'/%3E%3Crect x='4' y='7' width='24' height='4.5' fill='%231A1A18'/%3E%3Crect x='4' y='14' width='16' height='4.5' fill='%231A1A18'/%3E%3Crect x='4' y='21' width='24' height='4.5' fill='%23C4304F'/%3E%3C/svg%3E">
+<title>Crosstalk — cross-sector language monitor</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ground:#E4E6E0; --panel:#F2F3EF; --sunk:#DADCD4;
+  --ink:#151815; --ink-2:#3D423C; --muted:#71766E; --rule:#C5C8BE;
+  --signal:#1B3BC7; --signal-2:#6E86E0; --signal-3:#B3C0EE;
+  --heat:#D81B60; --heat-soft:#F6D3E0; --amber:#A9760F; --good:#1F7A4C;
+  --display:'Archivo Black','Arial Black',system-ui,sans-serif;
+  --body:'IBM Plex Sans','Helvetica Neue',Arial,sans-serif;
+  --mono:'IBM Plex Mono',Menlo,monospace;
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{background:var(--ground);color:var(--ink);font-family:var(--body);font-size:14px;line-height:1.45;-webkit-font-smoothing:antialiased}
+button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
+a{color:var(--signal);text-decoration:none}
+a:hover{text-decoration:underline}
+:focus-visible{outline:2px solid var(--signal);outline-offset:2px}
+.eyebrow{font-family:var(--mono);font-size:10px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--muted)}
+/* A panel title is a heading, not a footnote. */
+.pane-head .eyebrow,.pane > div > .pane-head .eyebrow{font-family:var(--sans);
+  font-size:16px;font-weight:600;letter-spacing:-.01em;text-transform:none;
+  color:var(--ink);line-height:1.3}
+.pane-head{margin-bottom:12px;padding-bottom:10px;border-bottom:1px solid var(--ink-2)}
+/* Section headings within a panel sit one step below. */
+.bandhead span{font-size:13.5px;letter-spacing:.02em;text-transform:none;
+  font-family:var(--sans);font-weight:600;color:var(--ink)}
+.bandhead em{font-size:11.5px;letter-spacing:0;text-transform:none;
+  font-family:var(--sans);color:var(--muted)}
+.num{font-family:var(--mono);font-variant-numeric:tabular-nums}
+
+/* masthead */
+.masthead{display:flex;align-items:flex-end;gap:22px;flex-wrap:wrap;padding:18px 22px 14px;border-bottom:1px solid var(--rule)}
+.wordmark{font-family:var(--display);font-size:28px;line-height:.9;letter-spacing:-.02em;text-transform:uppercase}
+.wordmark span{color:var(--heat)}
+.covkey b,.originkey b{font-weight:inherit}
+.rshort{display:none}
+@media (max-width:640px){ .rfull{display:none} .rshort{display:inline} }
+
+.why{text-decoration:none;border-bottom:1px dotted var(--ink-2);cursor:help}
+.why:hover,.why:focus{border-bottom-color:var(--heat);color:var(--heat);outline:none}
+
+
+.whybtn{display:inline-block;margin-top:12px;font-family:var(--mono);font-size:10px;
+  letter-spacing:.08em;text-transform:uppercase;color:var(--muted);
+  border-bottom:1px solid var(--rule);padding-bottom:1px}
+.whybtn:hover{color:var(--ink);border-bottom-color:var(--ink)}
+
+.descriptor{margin-top:8px;font-family:var(--mono);font-size:11px;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--ink-2)}
+
+.edition{display:flex;flex-wrap:wrap;gap:0 10px;margin-top:11px;padding-top:9px;
+  border-top:1px solid var(--ink);max-width:640px;font-family:var(--mono);
+  font-size:10px;letter-spacing:.09em;text-transform:uppercase;color:var(--ink-2)}
+.edition span:not(:last-child)::after{content:'·';margin-left:10px;color:var(--muted)}
+
+.tagline{max-width:320px;color:var(--ink-2);font-size:12.5px;line-height:1.35}
+.masthead .spacer{flex:1}
+.stamp{border:1px solid var(--rule);background:var(--panel);padding:5px 9px;font-family:var(--mono);
+  font-size:10px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.stamp.live{border-color:var(--good);color:var(--good)}
+.stamp.sample{border-color:var(--heat);color:var(--heat)}
+
+/* shell */
+.shell{display:grid;grid-template-columns:330px minmax(0,1fr);gap:1px;background:var(--rule);border-bottom:1px solid var(--rule)}
+.col{background:var(--ground);min-width:0;display:flex;flex-direction:column}
+/* one spacing step, so panels added later match the ones added first */
+:root{--pad:18px}
+.pane{padding:15px 18px;border-bottom:1px solid var(--rule)}
+.pane:last-child{border-bottom:none}
+.pane-head{display:flex;align-items:baseline;gap:10px;margin-bottom:11px}
+.pane-head .eyebrow{flex:1}
+
+/* tabs */
+.tabs{display:flex;flex-wrap:wrap;border-bottom:1px solid var(--rule);background:var(--panel)}
+.tab{flex:1 1 33%;min-width:0;padding:10px 6px;font-family:var(--mono);font-size:10px;
+  letter-spacing:.06em;text-transform:uppercase;color:var(--muted);text-align:center;
+  border-right:1px solid var(--rule);border-bottom:1px solid var(--rule);
+  white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tab:nth-child(3n){border-right:none}
+.tabs .tab:last-child{border-right:none}
+.tab[aria-selected="true"]{background:var(--ink);color:var(--ground)}
+.tab .count{opacity:.6}
+
+/* filters */
+.filters{display:flex;flex-wrap:wrap;gap:4px;margin-bottom:10px}
+.chip{font-family:var(--mono);font-size:10px;letter-spacing:.06em;text-transform:uppercase;
+  border:1px solid var(--rule);padding:3px 7px;color:var(--muted);background:var(--panel)}
+.chip[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:var(--ground)}
+.search{width:100%;font-family:var(--mono);font-size:12px;border:1px solid var(--rule);
+  background:var(--panel);padding:7px 9px;margin-bottom:9px;color:var(--ink)}
+
+/* term list */
+/* The list ran past the bottom of the data panels, stranding them at the top.
+   The column is a flex box and the list takes the leftover height, so it ends
+   exactly where the right-hand column does and scrolls inside. */
+.termlist{list-style:none;margin:0;padding:0;
+  flex:1 1 auto;min-height:320px;overflow-y:auto;overscroll-behavior:contain}
+.termlist::-webkit-scrollbar{width:9px}
+.termlist::-webkit-scrollbar-thumb{background:var(--rule);border-radius:5px}
+.termlist::-webkit-scrollbar-track{background:transparent}
+.termrow{position:relative;border-top:1px solid var(--rule);display:flex;align-items:stretch}
+.termlist li:first-child .termrow{border-top:none}
+.termbtn{flex:1;text-align:left;padding:9px 4px 9px 12px;min-width:0}
+.termrow:hover{background:var(--panel)}
+.termrow[data-on="true"]{background:var(--ink)}
+.termrow[data-on="true"] /* its own line, wrapping freely: a variant cut off mid-word helps nobody */
+.alsoline{display:block;font-style:italic;font-size:11.5px;color:var(--muted);
+  line-height:1.35;margin-top:2px}
+.alsocalled{font-style:italic;font-weight:400;font-size:11.5px;color:var(--muted);
+  margin-left:7px}
+.term-meta{color:var(--sunk)}
+.termrow[data-on="true"] .termbtn,.termrow[data-on="true"] .star{color:var(--ground)}
+.termrow[data-on="true"]::before{content:"";position:absolute;left:0;top:0;bottom:0;width:3px;background:var(--heat)}
+.tick{font-family:var(--mono);font-size:11px;font-weight:400;color:var(--muted)}
+.term-name{font-weight:600;font-size:13.5px;display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+/* its own line, wrapping freely: a variant cut off mid-word helps nobody */
+.alsoline{display:block;font-style:italic;font-size:11.5px;color:var(--muted);
+  line-height:1.35;margin-top:2px}
+.alsocalled{font-style:italic;font-weight:400;font-size:11.5px;color:var(--muted);
+  margin-left:7px}
+.term-meta{display:flex;align-items:center;gap:7px;margin-top:3px;font-family:var(--mono);font-size:10px;color:var(--muted)}
+.dir{font-family:var(--mono);font-size:9.5px;letter-spacing:.05em;text-transform:uppercase;padding:1px 4px;border:1px solid currentColor}
+.dir.rising{color:var(--heat)} .dir.new{color:var(--signal)}
+.dir.steady{color:var(--muted)} .dir.falling{color:var(--amber)}
+.star{padding:0 11px;display:flex;align-items:center;color:var(--rule);font-size:15px}
+.star[aria-pressed="true"]{color:var(--heat)}
+.empty{padding:16px 2px;color:var(--muted);font-size:12.5px}
+
+/* detail */
+.detailhead{background:var(--panel)}
+.headline{display:flex;align-items:flex-start;gap:16px;flex-wrap:wrap}
+.headline h1{font-family:var(--display);font-size:clamp(24px,3.6vw,38px);line-height:.95;
+  letter-spacing:-.025em;margin:0;text-transform:lowercase}
+/* phrases are lowercase by nature; a ticker and a company name are not */
+#co-name{text-transform:none}
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(126px,1fr));gap:1px;
+  background:var(--rule);border:1px solid var(--rule);margin-top:15px}
+.fact{background:var(--panel);padding:10px 12px}
+.fact .eyebrow{display:block;margin-bottom:4px}
+.fact .val{font-family:var(--mono);font-size:20px;font-weight:600;line-height:1.05}
+.fact .sub{font-family:var(--mono);font-size:10px;color:var(--muted);margin-top:2px}
+
+/* spread map */
+.map svg{width:100%;height:auto;display:block}
+.legend{display:flex;gap:16px;flex-wrap:wrap;margin-top:9px;font-family:var(--mono);font-size:10px;color:var(--muted)}
+.legend i{display:inline-block;width:15px;height:6px;margin-right:5px;vertical-align:middle}
+@keyframes rise{from{opacity:0;transform:translateY(5px)}to{opacity:1;transform:none}}
+.anim{animation:rise .3s ease both}
+
+/* segmented control for chart modes — must read as pressable, not as a label */
+.windows{display:flex;border:1px solid var(--ink-2);width:max-content;
+  border-radius:3px;overflow:hidden;box-shadow:0 1px 0 rgba(0,0,0,.07)}
+.windows button{font-family:var(--mono);font-size:10px;letter-spacing:.08em;
+  text-transform:uppercase;padding:6px 14px;border-right:1px solid var(--ink-2);
+  color:var(--ink-2);background:var(--panel);transition:background .12s,color .12s}
+.windows button:last-child{border-right:none}
+.windows button:hover{background:var(--sunk)}
+.windows button[aria-pressed="true"]{background:var(--ink);color:var(--ground)}
+.windows button[aria-pressed="true"]:hover{background:var(--ink)}
+
+.originbar{display:flex;height:7px;width:100%;margin:5px 0 4px;overflow:hidden;
+  border-radius:1px;background:var(--rule)}
+.originbar span{display:block;height:100%}
+.originkey i{display:inline-block;width:8px;height:8px;margin:0 4px 0 10px;
+  vertical-align:-1px;border-radius:1px}
+.originkey i:first-child{margin-left:0}
+.originkey{display:block;font-family:var(--mono);font-size:9.5px;letter-spacing:.04em;
+  color:var(--muted)}
+
+.covbar{display:flex;height:10px;width:100%;overflow:hidden;border-radius:1px;
+  background:var(--rule);margin-bottom:6px}
+.covbar span{display:block;height:100%}
+/* one entry, one box: the swatch, the label and the figure never separate */
+.covkey span,.originkey span{display:inline-flex;align-items:center;white-space:nowrap;
+  margin-right:14px}
+.originkey{display:flex;flex-wrap:wrap;align-items:center}
+.covkey{display:flex;flex-wrap:wrap;align-items:center;gap:14px;font-family:var(--mono);
+  font-size:10px;letter-spacing:.04em;color:var(--ink-2);margin-bottom:22px}
+.covkey i{display:inline-block;width:9px;height:9px;margin-right:5px;vertical-align:-1px;
+  border-radius:1px}
+.orggrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(320px,1fr));
+  gap:1px;background:var(--rule);border:1px solid var(--rule)}
+.orgcard{position:relative;background:var(--ground);padding:13px 15px;overflow:hidden}
+.orgcard .bar{position:absolute;left:0;top:0;bottom:0;display:block}
+.orgbody{position:relative}
+.orgname{display:flex;align-items:baseline;gap:8px;flex-wrap:wrap}
+.orgac{font-family:var(--mono);font-size:13px;letter-spacing:.06em;font-weight:700}
+.orgfull{font-size:13.5px;font-weight:700}
+.orgname span{font-size:12.5px;color:var(--ink-2)}
+.orgsecs{display:flex;flex-wrap:wrap;gap:4px;margin:7px 0 6px}
+.orgsecs i{font-style:normal;font-family:var(--mono);font-size:9px;letter-spacing:.05em;
+  text-transform:uppercase;padding:2px 5px;border:1px solid var(--rule);color:var(--ink-2)}
+.orgmeta{display:flex;align-items:center;gap:10px;font-family:var(--mono);font-size:10px;
+  letter-spacing:.04em;color:var(--muted)}
+
+.headright{display:flex;flex-direction:column;align-items:flex-end;gap:10px;
+  margin-left:auto}
+.stamps{display:flex;gap:8px;align-items:center}
+.toplinks{display:flex;flex-wrap:wrap;gap:0 18px;align-items:center;justify-content:flex-end;
+  font-family:var(--mono);font-size:10.5px;letter-spacing:.07em;text-transform:uppercase}
+.toplinks a{color:var(--ink-2);border-bottom:1px solid var(--rule);padding-bottom:1px}
+.toplinks a:hover{color:var(--ink);border-bottom-color:var(--ink)}
+.footmail{font-family:var(--mono);font-size:11px;letter-spacing:.06em;
+  text-transform:uppercase;padding-top:12px;margin-top:4px;
+  border-top:1px solid var(--rule)}
+.footmail a{border-bottom:1px solid var(--rule)}
+.build{color:var(--muted);letter-spacing:.08em}
+.footmail a:hover{border-bottom-color:var(--ink)}
+
+.domnote{font-size:12px;color:var(--ink-2);line-height:1.5;max-width:700px;
+  padding:10px 12px;margin:0 0 18px;background:var(--sunk);border-left:3px solid var(--rule)}
+.domnote b{font-weight:600}
+
+.crossgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+  gap:1px;background:var(--rule);border:1px solid var(--rule);margin-bottom:6px}
+.crossrow{background:var(--ground);padding:9px 12px;display:flex;align-items:center;
+  justify-content:space-between;gap:10px}
+.crossrow b{font-size:13px;font-weight:600;min-width:0;overflow:hidden;
+  text-overflow:ellipsis;white-space:nowrap}
+.crossrow span{display:flex;gap:3px;flex:none}
+.crossrow i{font-style:normal;font-family:var(--mono);font-size:9px;letter-spacing:.05em;
+  padding:2px 4px;background:#F3D98B;color:#6B4A00;border:1px solid #D9B44A;border-radius:1px}
+.crossrow i.wide{text-transform:uppercase;letter-spacing:.09em;padding:2px 7px;
+  background:#E8B84B;border-color:#B8912F;font-weight:600}
+
+.regband{font-family:var(--mono);font-size:10.5px;letter-spacing:.12em;
+  text-transform:uppercase;color:var(--muted);margin:20px 0 8px}
+.regband:first-child{margin-top:0}
+
+.reggrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));
+  gap:1px;background:var(--rule);border:1px solid var(--rule)}
+.regcol{background:var(--ground);padding:13px 15px}
+.regheadline{font-family:var(--mono);font-size:12px;letter-spacing:.1em;font-weight:600;
+  padding-bottom:8px;margin-bottom:8px;border-bottom:1px solid var(--ink-2)}
+.regheadline em{font-style:normal;font-size:9.5px;letter-spacing:.04em;color:var(--muted);
+  float:right;font-weight:400;padding-top:2px}
+.regrow{display:block;padding:6px 0;border-bottom:1px solid var(--rule)}
+.regrow:last-child{border-bottom:none}
+.regrow b{display:block;font-size:13px;font-weight:600}
+.sharedtag{font-style:normal;font-family:var(--mono);font-size:8.5px;letter-spacing:.08em;
+  text-transform:uppercase;color:#6B4A00;background:#F3D98B;border:1px solid #D9B44A;
+  padding:1px 4px;margin-left:6px;vertical-align:1px;border-radius:1px}
+.regrow.is-shared{background:linear-gradient(90deg,#FBF0CE 0%,transparent 70%)}
+.regrow.is-shared b{color:#4A3600}
+.regrow span{font-family:var(--mono);font-size:9.5px;letter-spacing:.04em;color:var(--muted)}
+.regrow:hover b{color:var(--heat)}
+
+.focuschips{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin:-4px 0 14px}
+.focuschips:empty{margin:0}
+.focuschip{display:inline-flex;align-items:center;gap:7px;font-size:12.5px;
+  padding:4px 8px 4px 10px;border:1px solid var(--ink-2);border-radius:2px;
+  background:var(--panel);color:var(--ink)}
+.focuschip span{font-family:var(--mono);font-size:13px;color:var(--muted);line-height:1}
+.focuschip:hover{background:var(--sunk)}
+.focuschip:hover span{color:var(--heat)}
+
+.clearfocus{font-family:var(--mono);font-size:10px;letter-spacing:.06em;
+  text-transform:uppercase;color:var(--muted);border-bottom:1px solid var(--rule);
+  padding:4px 2px}
+.clearfocus:hover{color:var(--ink)}
+
+.bandhead{display:flex;align-items:baseline;gap:10px;margin:18px 0 8px;
+  padding-bottom:6px;border-bottom:1px solid var(--ink-2)}
+.bandhead:first-child{margin-top:0}
+.bandhead span{font-family:var(--mono);font-size:11px;letter-spacing:.1em;
+  text-transform:uppercase;font-weight:600}
+.bandhead em{font-style:normal;font-family:var(--mono);font-size:10px;
+  letter-spacing:.05em;color:var(--muted)}
+
+/* two columns, so forty entries read as twenty rows rather than a scroll */
+.compgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(310px,1fr));
+  gap:1px;background:var(--rule);border:1px solid var(--rule)}
+.compcard{position:relative;background:var(--ground);padding:13px 15px 13px 9px;
+  overflow:hidden;display:flex;gap:10px}
+.compgrid > .compcard:nth-child(4n+2),
+.compgrid > .compcard:nth-child(4n+3){background:var(--panel)}
+.compcard .bar{opacity:.16}
+.compgrid > .compcard:nth-child(odd) .bar{opacity:.26}
+.withtopics a{border-bottom:1px solid var(--rule)}
+.withtopics a:hover{color:var(--heat);border-bottom-color:var(--heat)}
+.compcard .bar{position:absolute;left:0;top:0;bottom:0;display:block}
+.comprank{position:relative;flex:none;width:22px;text-align:right;
+  font-family:var(--mono);font-size:10px;color:var(--muted);padding-top:2px}
+.compbody{position:relative;flex:1;min-width:0}
+.compmain{display:flex;align-items:baseline;gap:9px;justify-content:space-between}
+.compmain b{font-size:13.5px;font-weight:600}
+.compmeta{display:flex;justify-content:space-between;gap:10px;margin-top:5px;
+  font-family:var(--mono);font-size:10px;letter-spacing:.05em;color:var(--muted)}
+.showarts{display:block;margin-top:7px;font-family:var(--mono);font-size:9.5px;
+  letter-spacing:.06em;text-transform:uppercase;color:var(--muted);
+  border-bottom:1px solid var(--rule);padding-bottom:1px}
+.showarts:hover{color:var(--ink);border-bottom-color:var(--ink)}
+.compArts{list-style:none;margin:9px 0 0;padding:9px 0 0;border-top:1px solid var(--rule)}
+.compArts li{margin-bottom:8px;font-size:12.5px;line-height:1.42}
+.compArts li:last-child{margin-bottom:0}
+.compArts .src{display:block;font-family:var(--mono);font-size:9px;letter-spacing:.05em;
+  text-transform:uppercase;color:var(--muted);margin-bottom:2px}
+.compArts a{border-bottom:1px solid var(--rule)}
+.compArts a:hover{border-bottom-color:var(--ink)}
+
+.compmeta .withtopics{text-align:right;min-width:0;overflow:hidden;
+  text-overflow:ellipsis;white-space:nowrap;color:var(--ink-2)}
+
+.duo{display:grid;grid-template-columns:1fr 1fr;gap:1px;background:var(--rule)}
+.duo>/* one spacing step, so panels added later match the ones added first */
+:root{--pad:18px}
+.pane{border-bottom:none;background:var(--ground)}
+
+.cooc{list-style:none;margin:0;padding:0}
+.cooc li{position:relative;padding:7px 9px;margin-bottom:3px;background:var(--sunk);
+  display:flex;flex-direction:column;align-items:stretch;min-height:34px}
+.cooc i{position:absolute;inset:0 auto 0 0;display:block;background:var(--sunk);
+  z-index:0;pointer-events:none}
+.cooc li > span,.cooc li > .showarts,.cooc li > .compArts{position:relative;z-index:1}
+.cooc .showarts{align-self:flex-start}
+.cooc li.coocnote{background:none;min-height:0;padding:9px 0 0;margin:0;
+  font-size:11.5px;color:var(--muted);line-height:1.45;display:block}
+.cooc li[data-d="new"] i{background:var(--signal-3)}
+.cooc li[data-d="new"]{border-left:2px solid var(--signal)}
+.cooc li[data-d="rising"]{border-left:2px solid var(--heat)}
+.cooc li[data-d="rising"] i{background:var(--heat-soft)}
+.cooc li[data-d="steady"] i{background:#D3D6CE}
+.cooc li[data-d="falling"] i{background:#E4DCC8}
+.cooc li[data-d="new"]{border-left:2px solid var(--signal)}
+.cooc li[data-d="rising"]{border-left:2px solid var(--heat)}
+.cooc li[data-d="steady"],.cooc li[data-d="falling"]{border-left:2px solid var(--rule)}
+.cooc span{position:relative;display:flex;align-items:center;justify-content:space-between;gap:10px;font-size:12.5px}
+.cooc b{display:flex;align-items:center;gap:7px;min-width:0}
+.cooc .dir{flex:none;font-size:9px;padding:1px 4px;line-height:1.3}
+.cooc em{font-family:var(--mono);font-style:normal;font-size:11px;color:var(--ink-2)}
+
+.arts{list-style:none;margin:0;padding:0}
+.arts li{padding:9px 0;border-top:1px dotted var(--rule)}
+.arts li:first-child{border-top:none}
+.arts .src{font-family:var(--mono);font-size:10px;letter-spacing:.05em;text-transform:uppercase;
+  color:var(--muted);margin-bottom:3px;display:flex;gap:7px}
+.arts .sec{color:var(--signal)}
+.arts p{margin:0;font-size:13px;line-height:1.45}
+
+/* One column: the two statements are one argument, and side by side they read
+   as a layout fault rather than a disclaimer. */
+.note{background:var(--panel);border-top:1px solid var(--rule);padding:17px 22px 20px;
+  font-size:12px;color:var(--ink-2);line-height:1.55}
+.note div{max-width:760px}
+.note div + div{margin-top:9px}
+.note b{color:var(--ink)}
+.hide{display:none}
+/* one spacing step, so panels added later match the ones added first */
+:root{--pad:18px}
+
+@media (max-width:900px){
+  .shell{grid-template-columns:minmax(0,1fr)}
+  .duo{grid-template-columns:minmax(0,1fr)}
+  .duo>*{border-left:none}
+  .pane{border-bottom:1px solid var(--rule)}
+}
+
+/* Phones: the two-column shell, the capped scrolling list and the wide maps
+   all assume a desktop. Undo each so the page becomes one readable column. */
+@media (max-width:640px){
+  body{font-size:15px}
+  .masthead{flex-direction:column;align-items:flex-start;gap:12px;padding:16px 14px}
+  .headright{align-items:flex-start;margin-left:0}
+  .toplinks{justify-content:flex-start}
+  .wordmark{font-size:30px}
+  .descriptor{max-width:100%}
+  .edition{font-size:9px;letter-spacing:.06em}
+  .tabs{overflow-x:auto;-webkit-overflow-scrolling:touch;flex-wrap:nowrap}
+  .tab{flex:0 0 auto;white-space:nowrap}
+  .col{padding:14px}
+  #termlist{max-height:none!important;overflow:visible!important}
+  .facts{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .compgrid,.orggrid,.reggrid,.crossgrid{grid-template-columns:minmax(0,1fr)}
+  .note{padding:14px}
+  .note div{max-width:100%}
+  svg{max-width:100%;height:auto}
+}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div>
+    <div class="wordmark">Cross<span>talk</span></div>
+    <div class="descriptor">Cross-sector language monitor</div>
+    <div class="edition" id="edition"></div>
+  </div>
+  <div class="spacer"></div>
+  <div class="headright">
+    <nav class="toplinks">
+      <a href="https://buttondown.com/crosstalk" id="digest-link" rel="noopener">Weekly digest</a>
+      <a href="./for-organizations.html">For organizations</a>
+    </nav>
+    <div class="stamps">
+      <div class="stamp" id="corpus">loading…</div>
+      <div class="stamp" id="mode">…</div>
+    </div>
+  </div>
+</header>
+
+<div class="shell">
+  <div class="col">
+    <div class="tabs" role="tablist">
+      <button class="tab" id="tab-map" role="tab" aria-selected="true">Overview</button>
+      <button class="tab" id="tab-all" role="tab" aria-selected="false">Phrases <span class="count" id="c-all"></span></button>
+      <button class="tab" id="tab-comp" role="tab" aria-selected="false">Nuance <span class="count" id="c-comp"></span></button>
+      <button class="tab" id="tab-co" role="tab" aria-selected="false">Companies <span class="count" id="c-co"></span></button>
+      <button class="tab" id="tab-org" role="tab" aria-selected="false">Agencies <span class="count" id="c-org"></span></button>
+      <button class="tab" id="tab-reg" role="tab" aria-selected="false">Regions <span class="count" id="c-reg"></span></button>
+      <button class="tab" id="tab-watch" role="tab" aria-selected="false">Watchlist <span class="count" id="c-watch"></span></button>
+    </div>
+    <section class="pane">
+      <input class="search" id="search" type="search" placeholder="Filter phrases…" aria-label="Filter phrases">
+      <div class="filters" id="filters" role="group" aria-label="Filter by sector"></div>
+      <ul class="termlist" id="termlist"></ul>
+    </section>
+  </div>
+
+  <div class="col">
+    <section class="pane hide" id="reg-view">
+      <div class="pane-head">
+        <span class="eyebrow">What each country's trade press discusses more than its share would predict</span>
+      </div>
+      <div id="reg-coverage"></div>
+      <div id="reg-grid"></div>
+      <p style="margin:16px 0 0;font-size:12px;color:var(--muted);max-width:700px;line-height:1.45">
+        A phrase is listed under a country when that country's trade press accounts for
+        far more of its coverage than that country's share of the whole corpus would
+        predict. The comparison is against the corpus, not raw counts — otherwise every
+        phrase would look American simply because most feeds are. Country means where a
+        publication is based, not what an article is about: a US paper writing about
+        China is US coverage. Nothing here says one country used a phrase before another.
+        <b>A phrase can appear under more than one country</b> — two small corpora can
+        both carry it more than their size predicts, which is a real finding rather than
+        a fault. Those are marked <i>shared</i>.</p>
+    </section>
+
+    <section class="pane hide" id="org-view">
+      <div class="pane-head">
+        <span class="eyebrow">Regulators and agencies named in coverage</span>
+      </div>
+      <div id="org-grid"></div>
+      <p style="margin:14px 0 0;font-size:12px;color:var(--muted);max-width:680px;line-height:1.45">
+        Institutions are cross-sector by nature — a regulator does not belong to one
+        sector — so several sectors naming the same body is a different kind of
+        observation from a phrase spreading. Names are read from article summaries,
+        where capitalisation means something; headlines are often title case and would
+        make every phrase look like a name. Articles without a summary contribute
+        nothing, so this undercounts rather than guesses.</p>
+    </section>
+
+    <section class="pane hide" id="comp-view">
+      <div class="pane-head">
+        <span class="eyebrow" id="comp-head">Finer details within a topic</span>
+      </div>
+      <div id="comp-chips" class="focuschips"></div>
+      <div id="comp-grid"></div>
+      <p style="margin:14px 0 0;font-size:12px;color:var(--muted);max-width:680px;line-height:1.45">
+        A broad phrase says little on its own — "data center" could be a property story,
+        a power story or a chip story. What sits beside it is what makes it specific.
+        A companion is listed when it appears alongside this topic far more often than
+        its share of coverage would predict — not merely because it is common. Ranking
+        by raw co-occurrence surfaced the topic's own vocabulary restated, which said
+        nothing. Companions that share a word with the phrase are excluded for the same
+        reason.
+        Two separate readings. <b>Being used more</b> compares a phrase against its own
+        previous fortnight, so the evidence is on both sides of the comparison.
+        <b>First appearance</b> has no previous fortnight to compare with, which makes it
+        thinner — and adding a publication to the reading list produces a burst of them
+        that reflects our coverage changing rather than the conversation changing. They
+        are kept apart so neither displaces the other. Both describe what is being
+        discussed, not what happens next.</p>
+    </section>
+
+    <section class="pane hide" id="map-view">
+      <div class="pane-head">
+        <span class="eyebrow">Cross-sector scoreboard</span>
+      </div>
+      <div id="sectorheat"></div>
+
+      <div style="margin-top:28px;padding-top:22px;border-top:1px solid var(--rule)">
+        <div class="pane-head">
+          <span class="eyebrow">Top phrases</span>
+        </div>
+        <div id="treemap"></div>
+      <div class="legend" style="margin-top:12px">
+        <span><i style="background:var(--heat)"></i>rising</span>
+        <span><i style="background:var(--signal)"></i>first time</span>
+        <span><i style="background:#BFC3BA"></i>steady</span>
+        <span><i style="background:var(--amber)"></i>falling</span>
+        <span>darker edge = in more sectors</span>
+      </div>
+      <p style="margin:12px 0 0;font-size:12px;color:var(--muted);max-width:640px;line-height:1.45">
+        Color is how usage moved over the past fortnight compared with the fortnight
+        before — not a judgment about whether that is good, and not a forecast.
+        Hover a tile for its name; click to open it.</p>
+      </div>
+
+      <div style="margin-top:28px;padding-top:22px;border-top:1px solid var(--rule)"
+           id="cotree-wrap">
+        <div class="pane-head">
+          <span class="eyebrow">Top companies</span>
+        </div>
+        <div id="cotreemap"></div>
+      </div>
+    </section>
+
+    <section class="pane detailhead hide" id="co-detail">
+      <div class="headline">
+        <div style="flex:1;min-width:200px">
+          <h1 id="co-name">—</h1>
+          <div class="eyebrow" id="co-sub" style="margin-top:7px"></div>
+        </div>
+      </div>
+      <div class="facts">
+        <div class="fact"><span class="eyebrow">Phrases attached</span>
+          <div class="val num" id="co-nterms">—</div><div class="sub">phrases in its coverage</div></div>
+        <div class="fact"><span class="eyebrow"><abbr class="why" tabindex="0" data-why="arts">Articles in 90 days</abbr></span>
+          <div class="val num" id="co-arts">—</div><div class="sub" id="co-arts14"></div></div>
+        <div class="fact"><span class="eyebrow">Sector</span>
+          <div class="val" id="co-sector" style="font-size:15px">—</div><div class="sub">as classified here</div></div>
+      </div>
+      <div style="margin-top:16px">
+        <div class="eyebrow" style="margin-bottom:8px">Phrases in this company's coverage</div>
+        <ul class="cooc" id="co-terms"></ul>
+      </div>
+      <div style="margin-top:16px" id="co-arts-wrap">
+        <div class="eyebrow" style="margin-bottom:8px">Recent coverage</div>
+        <ul class="arts" id="co-arts-list"></ul>
+      </div>
+    </section>
+
+    <section class="pane detailhead" id="term-detail">
+      <div class="headline">
+        <div style="flex:1;min-width:200px">
+          <div style="display:flex;align-items:baseline;gap:14px;flex-wrap:wrap">
+            <h1 id="d-term">—</h1>
+            <div class="dir" id="d-dir"></div>
+          </div>
+          <div class="eyebrow" id="d-sub" style="margin-top:7px"></div>
+        </div>
+      </div>
+      <div class="facts">
+        <div class="fact">
+          <span class="eyebrow"><abbr class="why" tabindex="0" data-why="sect">Sectors using it</abbr></span>
+          <div class="val num" id="f-sectors">—</div>
+          <div class="sub" id="f-sectorsub"></div>
+        </div>
+        <div class="fact">
+          <span class="eyebrow"><abbr class="why" tabindex="0" data-why="first">Newest sector</abbr></span>
+          <div class="val" id="f-newest" style="font-size:15px">—</div>
+          <div class="sub" id="f-newestsub"></div>
+        </div>
+        <div class="fact">
+          <span class="eyebrow"><abbr class="why" tabindex="0" data-why="arts">Articles this fortnight</abbr></span>
+          <div class="val num" id="f-arts">—</div>
+          <div class="sub" id="f-artssub"></div>
+        </div>
+        <div class="fact">
+          <span class="eyebrow"><abbr class="why" tabindex="0" data-why="expected">Where it was published</abbr></span>
+          <div class="val num" id="f-origin">—</div>
+          <div class="sub" id="f-originsub"></div>
+        </div>
+        <div class="fact">
+          <span class="eyebrow">Publishers</span>
+          <div class="val num" id="f-pubs">—</div>
+          <div class="sub">carrying the phrase</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="pane map" id="term-map">
+      <div class="pane-head"><span class="eyebrow">When each sector started using it</span></div>
+      <div id="spread"></div>
+      <div class="legend">
+        <span><i style="background:var(--signal)"></i>first</span>
+        <span><i style="background:var(--signal-2)"></i>followed</span>
+        <span><i style="background:var(--heat)"></i>joined in the last month</span>
+        <span>band height = share of recent articles</span>
+      </div>
+    </section>
+
+    <div class="duo" id="term-duo">
+      <section class="pane">
+        <div class="pane-head"><span class="eyebrow">What it's discussed with now</span></div>
+        <ul class="cooc" id="d-cooc"></ul>
+      </section>
+      <section class="pane">
+        <div class="pane-head"><span class="eyebrow">Recent coverage</span></div>
+        <ul class="arts" id="d-arts"></ul>
+      </section>
+    </div>
+
+    <section class="pane hide" id="term-flow">
+      <div class="pane-head">
+        <span class="eyebrow" style="flex:1">How the mix of sectors has shifted · weekly</span>
+        <div class="windows" id="flowmode" role="group" aria-label="Chart style" style="margin:0">
+          <button data-m="lines" aria-pressed="true">Lines</button>
+          <button data-m="share" aria-pressed="false">Share</button>
+        </div>
+      </div>
+      <div id="flowchart"></div>
+      <div class="legend" id="flowlegend"></div>
+      <p style="margin:10px 0 0;font-size:12px;color:var(--muted);max-width:660px;line-height:1.45">
+        Band height is how many of this phrase's articles came from each sector that
+        week. Bands stack, so the outline is total coverage and the slices are who was
+        writing it. A phrase changing hands looks like one band thinning while another
+        swells — sequence, not cause: nobody knows whether one sector took the phrase
+        from another or both responded to the same thing.</p>
+    </section>
+
+    <section class="pane hide" id="term-filings">
+      <div class="pane-head">
+        <span class="eyebrow">Roughly what share of each sector's SEC filings mention it · since 2016</span>
+      </div>
+      <div id="filingchart"></div>
+      <div class="legend" id="filinglegend"></div>
+      <p style="margin:10px 0 0;font-size:12px;color:var(--muted);line-height:1.45">
+        Ten years of the same question the spread map asks over ten weeks, from company
+        disclosures rather than press coverage. Sector labels are the SEC's own.
+        Quarterly and formal, so it lags events — a company writes about a constraint
+        after the trade press has covered it. The denominator is estimated from several
+        near-universal phrases rather than counted exactly, so read the shape and the
+        crossovers rather than the exact percentages.</p>
+    </section>
+
+  </div>
+</div>
+
+<footer class="note">
+  <div><b>Every figure here is a count of articles actually read.</b> Words that are crossing between sectors right now, and how usage has moved over the past fortnight. Nothing is modeled, estimated or inferred — the articles are linked so you can check any of it.</div>
+  <div><b>It makes no forecast.</b> Testing found that neither a phrase accelerating nor spreading across sectors predicted what followed, so scores and historical analogs were removed rather than shown with caveats. "Rising" describes the last fortnight, not the next one.</div>
+  <div class="footmail"><span class="build" title="Dashboard build. Quote this if something looks wrong.">build ef6be01</span> · <a href="mailto:contact@crosstalkwire.com">contact@crosstalkwire.com</a></div>
+</footer>
+
+<script>
+const $ = id => document.getElementById(id);
+const DAY = 864e5;
+
+/* ============================================================
+   Sample data — the exact shape collect.py writes to data.json.
+   Replaced automatically the moment a real data.json exists.
+   Publisher names are invented so no fabricated headline is
+   attributed to a real outlet.
+   ============================================================ */
+function makeSample(){
+  const today = new Date();
+  const iso = d => d.toISOString().slice(0,10);
+  const dayOf = n => iso(new Date(today.getTime() - (89-n)*DAY));
+  const daily = (shape) => {
+    let s = 7;
+    const rnd = () => (s = (s*1664525+1013904223)>>>0, s/4294967296);
+    return Array.from({length:90}, (_,i) => ({ day: dayOf(i), n: Math.max(0, Math.round(shape(i/89) * (0.75+rnd()*0.5))) }));
+  };
+  const T = (o, shape) => ({
+    ...o,
+    id: o.term.replace(/[^a-z0-9]+/g,'-'),
+    daily: daily(shape),
+    sectors: o.sectors.map(s => ({ ...s, firstSeen: dayOf(s.adopt) })),
+    daysSinceNewestSector: 89 - Math.max(...o.sectors.map(s=>s.adopt)),
+    newestSector: o.sectors.reduce((a,b)=>b.adopt>a.adopt?b:a).name,
+    sectorCount: o.sectors.length,
+    publishers: o.publishers
+  });
+
+  const terms = [
+    T({ term:'grid capacity', direction:'rising', articles14d:412, articlesPrior14d:188, publishers:64,
+      sectors:[{name:'Utilities',adopt:6,share:.33,recent:136},{name:'Energy',adopt:22,share:.24,recent:99},
+               {name:'Technology',adopt:47,share:.26,recent:107},{name:'Industrials',adopt:71,share:.17,recent:70}],
+      cooc:[['power demand',1],['interconnection queue',.82],['data center',.77],['load growth',.71],['substation',.58]],
+      examples:[
+        {publisher:'Grid & Power Daily',sector:'Utilities',title:'Three utilities tell regulators that grid capacity now sets the pace of new connections',url:'#'},
+        {publisher:'Cloud Infrastructure Weekly',sector:'Technology',title:'Site selection has become a grid capacity question rather than a real estate one',url:'#'},
+        {publisher:'Heavy Equipment Ledger',sector:'Industrials',title:'Equipment orders increasingly quote grid capacity studies as the gating item',url:'#'}]
+    }, x => 40 + 260*Math.pow(x,2.4)),
+
+    T({ term:'interconnection queue', direction:'rising', articles14d:174, articlesPrior14d:96, publishers:38,
+      sectors:[{name:'Utilities',adopt:14,share:.44,recent:77},{name:'Energy',adopt:38,share:.33,recent:57},
+               {name:'Real estate',adopt:76,share:.23,recent:40}],
+      cooc:[['grid capacity',1],['permitting',.74],['queue reform',.66],['transmission',.61]],
+      examples:[
+        {publisher:'Regional Utility Review',sector:'Utilities',title:'Interconnection queue reform moves to a second state commission',url:'#'},
+        {publisher:'Property & Yield',sector:'Real estate',title:'Developers now price the interconnection queue into land options',url:'#'}]
+    }, x => 30 + 140*Math.pow(x,2.1)),
+
+    T({ term:'transformer lead times', direction:'steady', articles14d:288, articlesPrior14d:301, publishers:52,
+      sectors:[{name:'Industrials',adopt:4,share:.35,recent:101},{name:'Utilities',adopt:12,share:.34,recent:98},
+               {name:'Energy',adopt:31,share:.19,recent:55},{name:'Real estate',adopt:59,share:.12,recent:34}],
+      cooc:[['backlog',1],['grid capacity',.72],['copper',.59],['order book',.54]],
+      examples:[
+        {publisher:'Heavy Equipment Ledger',sector:'Industrials',title:'Transformer lead times remain the longest line item in project schedules',url:'#'},
+        {publisher:'Regional Utility Review',sector:'Utilities',title:'Replacement budgeting shifts as transformer lead times hold near records',url:'#'}]
+    }, x => 120 + 180*Math.sin(Math.min(x*1.15,1)*Math.PI*0.8)),
+
+    T({ term:'rare earth processing', direction:'rising', articles14d:203, articlesPrior14d:112, publishers:46,
+      sectors:[{name:'Materials',adopt:10,share:.37,recent:75},{name:'Industrials',adopt:34,share:.25,recent:51},
+               {name:'Autos',adopt:48,share:.22,recent:45},{name:'Technology',adopt:73,share:.16,recent:32}],
+      cooc:[['export controls',1],['magnets',.88],['offtake agreement',.71],['refining',.63]],
+      examples:[
+        {publisher:'Materials Wire',sector:'Materials',title:'The bottleneck is rare earth processing, not deposits, executives repeat',url:'#'},
+        {publisher:'Drivetrain Monthly',sector:'Autos',title:'Contracts begin specifying rare earth processing origin as a delivery condition',url:'#'}]
+    }, x => 45 + 180*Math.pow(x,1.9)),
+
+    T({ term:'water rights', direction:'new', articles14d:118, articlesPrior14d:0, publishers:29,
+      sectors:[{name:'Agriculture',adopt:52,share:.36,recent:42},{name:'Technology',adopt:68,share:.39,recent:46},
+               {name:'Utilities',adopt:81,share:.25,recent:30}],
+      cooc:[['cooling',1],['permitting',.79],['allocation',.63],['drought',.58]],
+      examples:[
+        {publisher:'Basin Agriculture Report',sector:'Agriculture',title:'Water rights hearings draw attendees from outside farming for the first time',url:'#'},
+        {publisher:'Cloud Infrastructure Weekly',sector:'Technology',title:'Cooling plans hinge on water rights that predate every party at the table',url:'#'}]
+    }, x => x < 0.55 ? 2 : 6 + 130*Math.pow((x-0.55)/0.45, 2)),
+
+    T({ term:'load growth', direction:'rising', articles14d:245, articlesPrior14d:141, publishers:49,
+      sectors:[{name:'Utilities',adopt:2,share:.41,recent:100},{name:'Energy',adopt:18,share:.21,recent:51},
+               {name:'Technology',adopt:44,share:.26,recent:64},{name:'Real estate',adopt:69,share:.12,recent:30}],
+      cooc:[['grid capacity',1],['demand forecast',.86],['data center',.78],['rate case',.62]],
+      examples:[
+        {publisher:'Regional Utility Review',sector:'Utilities',title:'Filings treat load growth as structural rather than cyclical for the first time in decades',url:'#'},
+        {publisher:'Property & Yield',sector:'Real estate',title:'Landlords cite load growth when explaining why parcels near substations reprice',url:'#'}]
+    }, x => 60 + 180*Math.pow(x,1.7)),
+
+    T({ term:'permitting reform', direction:'steady', articles14d:196, articlesPrior14d:203, publishers:57,
+      sectors:[{name:'Policy',adopt:3,share:.31,recent:61},{name:'Energy',adopt:16,share:.28,recent:55},
+               {name:'Materials',adopt:41,share:.22,recent:43},{name:'Real estate',adopt:64,share:.19,recent:37}],
+      cooc:[['environmental review',1],['transmission',.73],['queue reform',.6],['litigation',.55]],
+      examples:[
+        {publisher:'Policy & Permitting Brief',sector:'Policy',title:'Permitting reform language reappears in two competing bills',url:'#'},
+        {publisher:'Materials Wire',sector:'Materials',title:'Processing permits challenged on grounds that predate the current permitting reform debate',url:'#'}]
+    }, x => 150 + 60*Math.sin(x*Math.PI*1.4)),
+
+    T({ term:'inference cost', direction:'falling', articles14d:97, articlesPrior14d:198, publishers:31,
+      sectors:[{name:'Technology',adopt:1,share:.47,recent:46},{name:'Consumer',adopt:27,share:.19,recent:18},
+               {name:'Healthcare',adopt:53,share:.20,recent:19},{name:'Industrials',adopt:70,share:.14,recent:14}],
+      cooc:[['unit economics',1],['token pricing',.85],['gross margin',.7],['utilisation',.52]],
+      examples:[
+        {publisher:'Software Margin Letter',sector:'Technology',title:'Buyers open negotiations with an inference cost benchmark rather than a seat count',url:'#'},
+        {publisher:'Clinical Systems Review',sector:'Healthcare',title:'Procurement documents begin publishing inference cost assumptions',url:'#'}]
+    }, x => 60 + 200*Math.sin(Math.min(x*1.45,1)*Math.PI*0.95))
+  ];
+
+  const companies = [
+    { ticker:'EXC', name:'Exelon', sector:'Utilities', articles:34, articles14d:12,
+      terms:[{term:'data center load',articles:14,sectors:2,direction:'rising'},
+             {term:'grid capacity',articles:9,sectors:4,direction:'rising'},
+             {term:'load growth',articles:6,sectors:4,direction:'rising'}],
+      examples:[{publisher:'Utility Dive',sector:'Utilities',title:'Exelon flags data center load in latest filing',url:'#'}] },
+    { ticker:'MP', name:'MP Materials', sector:'Materials', articles:21, articles14d:9,
+      terms:[{term:'rare earth processing',articles:11,sectors:4,direction:'rising'},
+             {term:'export controls',articles:5,sectors:3,direction:'steady'}],
+      examples:[{publisher:'Materials Wire',sector:'Materials',title:'MP Materials expands processing capacity',url:'#'}] },
+    { ticker:'VRT', name:'Vertiv', sector:'Industrials', articles:18, articles14d:7,
+      terms:[{term:'data center load',articles:8,sectors:2,direction:'rising'},
+             {term:'transformer lead times',articles:4,sectors:4,direction:'steady'}],
+      examples:[{publisher:'Heavy Equipment Ledger',sector:'Industrials',title:'Vertiv cites data center orders',url:'#'}] },
+  ];
+  return { generated:new Date().toISOString(), daysCollected:90, articlesStored:41280,
+           windowDays:90, terms, companies, __sample:true };
+}
+
+/* ---------------- state ---------------- */
+let DATA = null, active = null, activeCo = null, query = '', tab = 'map';
+// A set, so several sectors can be held at once. Empty means all of them.
+let sectors = new Set();
+const inSectors = name => sectors.size === 0 || sectors.has(name);
+/* The address bar carries both the watchlist and the phrase being viewed, so a
+   phrase can be sent to someone as a link and a watchlist survives a bookmark. */
+function readHash(){
+  const out = { watch: [], co: [], term: null };
+  decodeURIComponent(location.hash.slice(1)).split('&').forEach(part => {
+    if (part.startsWith('t=')) out.term = part.slice(2);
+    else if (part.startsWith('c=')) out.co = part.slice(2).split(',').filter(Boolean);
+    else if (part) out.watch = part.replace(/^w=/, '').split(',').filter(Boolean);
+  });
+  return out;
+}
+const _h = readHash();
+let watch = new Set(_h.watch);
+let watchCo = new Set(_h.co);
+const wantedTerm = _h.term;
+
+function saveHash(){
+  const parts = [];
+  if (watch.size) parts.push('w=' + [...watch].join(','));
+  if (watchCo.size) parts.push('c=' + [...watchCo].join(','));
+  if (active) parts.push('t=' + active);
+  location.replace('#' + parts.join('&'));
+}
+const saveWatch = saveHash;
+
+/* ---------------- loading ---------------- */
+/* Every left-hand list — phrases, companies, watchlist — shares one element.
+   Watching it means the height is right regardless of which view filled it. */
+function fitList(){
+  const list = $('termlist'), cols = document.querySelectorAll('.shell > .col');
+  if (!list || cols.length < 2) return;
+  if (window.matchMedia('(max-width:640px)').matches){
+    list.style.maxHeight = '';        // one column: let the page scroll
+    list.style.overflowY = '';
+    return;
+  }
+  const keep = list.scrollTop;
+  list.style.maxHeight = '';                     // measure the right column freely
+  // The grid stretches both columns to the taller of the two — and the taller
+  // one is this list. Measuring the right column's box therefore just returns
+  // the list's own height. Sum its children to get the real content height.
+  const right = [...cols[1].children]
+    .reduce((s, el) => s + el.getBoundingClientRect().height, 0);
+  const used = list.getBoundingClientRect().top - cols[0].getBoundingClientRect().top;
+  const room = Math.max(320, right - used);
+  list.style.maxHeight = room + 'px';
+  list.style.overflowY = 'auto';
+  list.scrollTop = keep;                         // measuring must not lose your place
+}
+
+let fitPending = null;
+function scheduleFit(){
+  clearTimeout(fitPending);
+  fitPending = setTimeout(fitList, 60);          // after the panels have drawn
+}
+window.addEventListener('resize', scheduleFit);
+
+async function boot(){
+  try {
+    const r = await fetch('./data.json', {cache:'no-store'});
+    if (!r.ok) throw new Error('no file');
+    const d = await r.json();
+    if (!d.terms || !d.terms.length) throw new Error('empty');
+    DATA = d;
+    const age = Math.round((Date.now() - new Date(d.generated))/36e5);
+    $('mode').textContent = 'Live';
+    $('mode').className = 'stamp live';
+    $('corpus').textContent = age === 0 ? 'updated within the hour'
+      : `updated ${age}h ago`;
+  } catch {
+    DATA = makeSample();
+    $('mode').textContent = 'Sample data';
+    $('mode').className = 'stamp sample';
+    $('corpus').textContent = 'no data.json found — showing example output';
+  }
+  if (wantedTerm && DATA.terms.some(t => t.id === wantedTerm)){
+    active = wantedTerm; tab = 'all';        // a shared link opens the phrase
+  } else {
+    active = DATA.terms[0].id;
+  }
+  $('c-co').textContent = (DATA.companies || []).length;
+  masthead(); companyMap(); foldNotes(); fillExplains();
+  renderFilters(); renderDetail(); companions(); institutions(); regions();
+
+  const onMap = tab === 'map';
+  TABS.forEach(([id, name]) => $(id).setAttribute('aria-selected', name === tab));
+  $('map-view').classList.toggle('hide', !onMap);
+  $('comp-view').classList.add('hide');
+  $('org-view').classList.add('hide');
+  $('reg-view').classList.add('hide');
+  $('co-detail').classList.add('hide');
+  ['term-detail','term-map','term-duo','term-flow','term-filings']
+    .forEach(x => $(x).classList.toggle('hide', onMap));
+  if (onMap){ treemap(); sectorHeat(); }
+  renderList();
+  scheduleFit();
+}
+
+/* ---------------- list ---------------- */
+const TABS = [['tab-map','map'],['tab-all','all'],['tab-comp','comp'],
+              ['tab-co','co'],['tab-org','org'],['tab-reg','reg'],['tab-watch','watch']];
+
+const MAP_IDS = new Set();     // the phrases the treemap actually had room for
+const MAP_ORDER = [];          // and the order it drew them in
+
+/* Sector and search scope, without any tab logic. The companions board needs
+   this rather than visible(), which on that tab depends on the board's own
+   output — asking it there would be circular. */
+function termsInScope(poolToo){
+  // poolToo: include phrases held back from the list. Companions want them —
+  // that is the whole point of the pool — but Regions must not link to a
+  // phrase the list refuses to show.
+  return (DATA.terms || []).filter(t =>
+    (poolToo || t.display !== false) &&
+    t.sectors.some(s => inSectors(s.name)) &&
+    (!query || t.term.includes(query)));
+}
+
+function visible(ignoreMap){
+  return DATA.terms.filter(t =>
+    t.display !== false &&
+    (tab === 'all' ||
+     (tab === 'map' && (ignoreMap || MAP_IDS.size === 0 || MAP_IDS.has(t.id))) ||
+     (tab === 'comp' && COMP_PARENTS.has(t.id)) || watch.has(t.id)) &&
+    t.sectors.some(s => inSectors(s.name)) &&
+    t.term.toLowerCase().includes(query));
+}
+
+function renderFilters(){
+  const names = [...new Set(DATA.terms.flatMap(t => t.sectors.map(s => s.name)))].sort();
+  $('filters').innerHTML = ['All', ...names].map(f =>
+    `<button class="chip" data-s="${f}" aria-pressed="${
+      f === 'All' ? sectors.size === 0 : sectors.has(f)}">${f}</button>`).join('');
+}
+
+function sparkline(t, w, h){
+  const v = t.daily.map(d => d.n), mx = Math.max(...v, 1), st = w/Math.max(1, v.length-1);
+  const d = v.map((n,i) => `${i?'L':'M'}${(i*st).toFixed(1)},${(h-(n/mx)*(h-2)-1).toFixed(1)}`).join('');
+  const col = t.direction === 'falling' ? 'var(--amber)' : t.direction === 'steady' ? 'var(--muted)' : 'var(--heat)';
+  return `<svg width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" aria-hidden="true">
+    <path d="${d}" fill="none" stroke="${col}" stroke-width="1.3"/></svg>`;
+}
+
+function renderCompanies(){
+  const _list = $('termlist');
+  const _keep = _list ? _list.scrollTop : 0;
+  const cos = (DATA.companies || []).filter(c =>
+    (c.name + " " + c.ticker).toLowerCase().includes(query) &&
+    inSectors(c.sector));
+  $('c-co').textContent = (DATA.companies || []).length;
+  if (cos.length && !cos.some(c => c.ticker === activeCo)) activeCo = cos[0].ticker;
+
+  $('termlist').innerHTML = cos.length ? cos.map(c => `
+    <li><div class="termrow" data-on="${c.ticker===activeCo}">
+      <button class="termbtn" data-co="${c.ticker}">
+        <span class="term-name">${c.name} <span class="tick">(${c.ticker})</span></span>
+        <span class="term-meta">
+          <span>${c.terms.length} phrase${c.terms.length===1?'':'s'}</span>
+          <span>·</span><span>${c.articles14d} articles</span>
+          ${c.direction ? `<span class="dir ${c.direction}">${
+            c.direction === 'new' ? 'first time' : c.direction}</span>` : ''}
+        </span>
+      </button>
+      <button class="star" data-star-co="${c.ticker}" aria-pressed="${watchCo.has(c.ticker)}"
+        title="${watchCo.has(c.ticker) ? 'Remove from watchlist' : 'Add to watchlist'}">
+        ${watchCo.has(c.ticker) ? '\u2605' : '\u2606'}</button>
+    </div></li>`).join('')
+  : `<li class="empty">No companies matched yet. They appear once a tracked business
+     is named in two or more articles.</li>`;
+
+  if (_list) _list.scrollTop = _keep;
+  $('termlist').querySelectorAll('.termbtn').forEach(b =>
+    b.addEventListener('click', () => { activeCo = b.dataset.co; renderCompanies(); renderCoDetail(); }));
+  $('termlist').querySelectorAll('[data-star-co]').forEach(b =>
+    b.addEventListener('click', e => {
+      e.stopPropagation();
+      const k = b.dataset.starCo;
+      watchCo.has(k) ? watchCo.delete(k) : watchCo.add(k);
+      saveHash(); renderCompanies();
+    }));
+}
+
+function renderCoDetail(){
+  const c = (DATA.companies || []).find(x => x.ticker === activeCo);
+  if (!c) return;
+  $('co-name').textContent = c.name;
+  $('co-sub').textContent = `${c.ticker}${c.sector ? ' · ' + c.sector.toLowerCase() + ' coverage' : ''}`;
+  $('co-nterms').textContent = c.terms.length;
+  $('co-arts').textContent = c.articles;
+  $('co-arts14').textContent = `${c.articles14d} in the last fortnight`;
+  $('co-sector').textContent = c.sector || '—';
+
+  const mx = Math.max(...c.terms.map(t => t.articles), 1);
+  const dirFill = { rising:'var(--heat-soft)', new:'var(--signal-3)',
+                    falling:'#E4DCC8', steady:'#D3D6CE' };
+  $('co-terms').innerHTML = c.terms.length ? c.terms.map(t =>
+    `<li data-d="${t.direction}"><i style="width:${Math.round(t.articles/mx*100)}%;
+      background:${dirFill[t.direction] || '#D3D6CE'}"></i><span>
+      <b>${t.term}<span class="dir ${t.direction}" style="margin-left:8px">${
+        t.direction === 'new' ? 'first time' : t.direction}</span></b>
+      ${t.variants && t.variants.length
+        ? `<span class="alsoline">also ${t.variants.join(', ')}</span>` : ''}
+      <em>${t.articles} of this company's articles
+        · the phrase spans ${t.sectors} sector${t.sectors===1?'':'s'}</em>
+     </span>
+     ${(t.examples || []).length ? `
+     <button class="showarts" data-arts="cn-${t.term.replace(/[^a-z0-9]+/g,'-')}"
+       aria-expanded="false">where it appears</button>
+     <ul class="compArts hide" id="cn-${t.term.replace(/[^a-z0-9]+/g,'-')}">
+       ${t.examples.map(a => `<li><span class="src">${a.publisher} · ${a.sector}</span>
+         ${a.url ? `<a href="${a.url}" target="_blank" rel="noopener">${a.title}</a>`
+                 : a.title}</li>`).join('')}
+     </ul>` : ''}
+     </li>`).join('')
+    : '<li class="empty">No tracked phrases in its coverage yet.</li>';
+
+  wireArts($('co-terms'));
+
+  // hide the heading too, not just the empty list beneath it
+  $('co-arts-wrap').classList.toggle('hide', !(c.examples || []).length);
+
+  $('co-arts-list').innerHTML = (c.examples||[]).map(a =>
+    `<li><div class="src"><span>${a.publisher}</span><span class="sec">${a.sector}${
+       a.country && a.country !== 'US' ? ` · ${a.country}` : ''}</span></div>
+     <p>${a.url && a.url !== '#' ? `<a href="${a.url}" target="_blank" rel="noopener">${a.title}</a>` : a.title}</p></li>`).join('')
+    || '<li class="empty">No articles captured yet.</li>';
+}
+
+function renderList(){
+  const _list = $('termlist');
+  const _keep = _list ? _list.scrollTop : 0;
+  // on the overview, follow the map's own order so the two agree
+  const mapOrder = tab === 'map' && MAP_ORDER.length
+    ? new Map(MAP_ORDER.map((id, i) => [id, i])) : null;
+  if (tab === 'co') return renderCompanies();
+  let list = visible();
+  if (mapOrder) list = list.filter(t => mapOrder.has(t.id))
+                           .sort((a, b) => mapOrder.get(a.id) - mapOrder.get(b.id));
+  $('c-all').textContent = DATA.terms.length;
+  $('c-watch').textContent = watch.size;
+
+  $('termlist').innerHTML = list.length ? list.map(t => `
+    <li><div class="termrow" data-on="${tab === 'comp' ? compFocus.has(t.id) : t.id===active}">
+      <button class="termbtn" data-id="${t.id}">
+        <span class="term-name">${t.term}</span>
+        ${t.variants && t.variants.length
+          ? `<span class="alsoline">also ${t.variants.join(', ')}</span>` : ''}
+        <span class="term-meta">
+          ${sparkline(t,66,14)}
+          <span>${why('sect', t.sectorCount + ' sector' + (t.sectorCount===1?'':'s'))}</span>
+          <span class="dir ${t.direction}">${t.direction === 'new' ? 'first time' : t.direction}</span>
+        </span>
+      </button>
+      <button class="star" data-star="${t.id}" aria-pressed="${watch.has(t.id)}"
+        title="${watch.has(t.id)?'Remove from watchlist':'Add to watchlist'}">${watch.has(t.id)?'★':'☆'}</button>
+    </div></li>`).join('')
+  : `<li class="empty">${tab==='watch'
+      ? 'Nothing on the watchlist yet. Tap a star to follow a phrase — the list is stored in the page address, so bookmarking keeps it.'
+      : 'No phrases match that filter.'}</li>`;
+
+  if (_list) _list.scrollTop = _keep;
+  $('termlist').querySelectorAll('.termbtn').forEach(b =>
+    b.addEventListener('click', () => {
+      active = b.dataset.id; saveHash();
+      if (tab === 'comp'){
+        compFocus.has(active) ? compFocus.delete(active) : compFocus.add(active);
+        companions(); renderList();
+      }
+      else if (tab === 'map'){ treemap(); renderList(); }
+      else { renderList(); renderDetail(); }
+      // deliberately no re-fit: changing the cap changes the maximum scroll
+      // position, and the browser then pulls you up the list
+    }));
+  $('termlist').querySelectorAll('.star').forEach(b =>
+    b.addEventListener('click', () => {
+      const id = b.dataset.star;
+      watch.has(id) ? watch.delete(id) : watch.add(id);
+      saveWatch(); renderList();
+    }));
+}
+
+/* ---------------- spread map ---------------- */
+function spreadMap(t){
+  const W=760, PL=124, PR=26, TOP=38, STEP=34;
+  const rows=[...t.sectors].sort((a,b)=>a.adopt-b.adopt);
+  const H=TOP+rows.length*STEP+32;
+  const win = DATA.windowDays || 90;
+
+  // Scale to the history that exists, not the window we hope to have. With
+  // three weeks of data on a 90-day axis every band pins to the right edge and
+  // the ordering - the whole point of the chart - becomes unreadable.
+  const earliest = Math.min(...rows.map(s => s.adopt));
+  const active = Math.max(7, win - earliest);          // days from first use to today
+  const lo = Math.max(0, earliest - Math.max(2, Math.round(active * 0.3)));
+  const span = win - lo;
+  const x = d => PL + ((d - lo)/span)*(W-PL-PR);
+  const y = i => TOP + i*STEP;
+  const fmt = s => { const d=new Date(s+'T00:00:00');
+    return isNaN(d)?s:d.toLocaleDateString('en-US',{month:'short',day:'numeric'}); };
+
+  let s = `<svg viewBox="0 0 ${W} ${H}" class="anim" role="img"
+    aria-label="When each sector started using ${t.term}">`;
+
+  [0,.25,.5,.75,1].forEach(f=>{
+    const d=Math.round(lo + f*span);
+    s+=`<line x1="${x(d)}" y1="${TOP-16}" x2="${x(d)}" y2="${H-28}" stroke="var(--rule)"/>`;
+    s+=`<text x="${x(d)}" y="${H-12}" font-family="var(--mono)" font-size="9.5" fill="var(--muted)"
+      text-anchor="${f===0?'start':f===1?'end':'middle'}">${f===1?'today':fmt(t.daily[Math.min(d,t.daily.length-1)].day)}</text>`;
+  });
+
+  rows.forEach((sec,i)=>{
+    const yy=y(i), h=5+sec.share*24, x0=x(sec.adopt);
+    const recent = (win - sec.adopt) <= Math.max(5, Math.round(active * 0.4));
+    const col = i===0 ? 'var(--signal)' : recent ? 'var(--heat)' : 'var(--signal-2)';
+    s+=`<line x1="${PL}" y1="${yy}" x2="${W-PR}" y2="${yy}" stroke="var(--rule)" stroke-dasharray="1 3"/>`;
+    if (i>0){
+      const py=y(i-1), px=x(rows[i-1].adopt);
+      s+=`<path d="M${px},${py} C${px},${(py+yy)/2} ${x0},${(py+yy)/2} ${x0},${yy}"
+        fill="none" stroke="var(--muted)" stroke-dasharray="2 3" opacity=".55"/>`;
+    }
+    s+=`<rect x="${x0}" y="${yy-h/2}" width="${W-PR-x0}" height="${h}" rx="${h/2}" fill="${col}" opacity=".9">
+      <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23E8EAE3'/%3E%3Crect x='4' y='7' width='24' height='4.5' fill='%231A1A18'/%3E%3Crect x='4' y='14' width='16' height='4.5' fill='%231A1A18'/%3E%3Crect x='4' y='21' width='24' height='4.5' fill='%23C4304F'/%3E%3C/svg%3E">
+<title>${sec.name} — first seen ${fmt(sec.firstSeen)}, ${Math.round(sec.share*100)}% of recent articles</title></rect>`;
+    s+=`<circle cx="${x0}" cy="${yy}" r="3.3" fill="var(--ink)"/>`;
+    s+=`<text x="${PL-12}" y="${yy-1}" text-anchor="end" font-family="var(--mono)" font-size="10.5"
+      fill="var(--ink)">${sec.name.toUpperCase()}</text>`;
+    s+=`<text x="${PL-12}" y="${yy+11}" text-anchor="end" font-family="var(--mono)" font-size="9"
+      fill="var(--muted)">${fmt(sec.firstSeen)} · ${Math.round(sec.share*100)}%</text>`;
+  });
+
+  s+=`<text x="${PL}" y="${TOP-24}" font-family="var(--mono)" font-size="9.5" letter-spacing=".12em"
+    fill="var(--muted)">FIRST SEEN →  CONTINUED USE</text></svg>`;
+  return s;
+}
+
+/* ---------------- detail ---------------- */
+const FILING_COLORS = ['var(--signal)','var(--heat)','var(--amber)','var(--good)',
+  'var(--signal-2)','#7A5AA8','#2E8B8B','#B5651D'];
+
+// The first segment is usually the largest, so it needs to read as a segment
+// rather than as unfilled track — a dark grey against a grey rail looked broken.
+const ORIGIN_COLORS = ['#2A5CE8','#6FA82E','#7A5AA8','#946B00','#4A6FA5','#B03A2E','#1B9AAA','#D14D8B','#2E7D5B'];
+
+// Chosen by measuring separation, not by eye: the previous set had four
+// pairs within 20 degrees of hue — amber against burnt orange, olive
+// against gold — which read as one colour in a stacked chart. Every pair
+// here is at least 55 apart, and adjacent bands far more.
+const FLOW_COLORS = ['#2A5CE8','#6FA82E','#7A5AA8','#946B00','#4A6FA5','#B03A2E','#1B9AAA','#D14D8B','#2E7D5B'];
+
+let flowMode = 'lines';
+
+function flowChart(t){
+  const f = t.flow;
+  const wrap = $('term-flow');
+  if (!f || !f.bands || f.bands.length < 2 || f.weeks.length < 4){
+    wrap.classList.add('hide'); return;
+  }
+  wrap.classList.remove('hide');
+
+  const bands = f.bands.slice(0, 8);
+  const W = 760, H = 190, PL = 40, PR = 14, PT = 12, PB = 26;
+  const n = f.weeks.length;
+  const totals = f.weeks.map((_, i) => bands.reduce((s, b) => s + (b.n[i] || 0), 0));
+  const mx = flowMode === 'share' ? 1 : Math.max(...bands.flatMap(b => b.n), 1);
+  // In share mode a band's value is its slice of that week's total, so the
+  // stack is pinned at 100% and no band sits on a moving baseline.
+  const val = (b, i) => flowMode === 'share'
+    ? (totals[i] ? (b.n[i] || 0) / totals[i] : 0)
+    : (b.n[i] || 0);
+  const x = i => PL + (i / Math.max(1, n - 1)) * (W - PL - PR);
+  const y = v => H - PB - (v / mx) * (H - PT - PB);
+
+  // stacked areas: the outline is total volume, the slices are composition
+  let s = `<svg viewBox="0 0 ${W} ${H}" class="anim" role="img"
+    aria-label="Weekly mix of sectors carrying ${t.term}">`;
+  [0, 0.5, 1].forEach(fr => {
+    const v = mx * fr;
+    s += `<line x1="${PL}" y1="${y(v)}" x2="${W-PR}" y2="${y(v)}" stroke="var(--rule)"
+      ${fr ? 'stroke-dasharray="1 3"' : ''}/>`;
+    s += `<text x="${PL-6}" y="${y(v)+3}" text-anchor="end" font-family="var(--mono)"
+      font-size="9" fill="var(--muted)">${flowMode === 'share'
+        ? Math.round(fr * 100) + '%' : Math.round(v)}</text>`;
+  });
+
+  if (flowMode === 'share'){
+    // slices of each week's coverage, always summing to the full height
+    const lower = new Array(n).fill(0);
+    bands.forEach((b, k) => {
+      const upper = lower.map((v, i) => v + val(b, i));
+      const top = upper.map((v, i) => `${x(i).toFixed(1)},${y(v).toFixed(1)}`);
+      const bot = lower.map((v, i) => `${x(i).toFixed(1)},${y(v).toFixed(1)}`).reverse();
+      s += `<polygon points="${top.concat(bot).join(' ')}"
+        fill="${FLOW_COLORS[k % FLOW_COLORS.length]}" opacity="0.75"
+        stroke="var(--ground)" stroke-width="0.6"><link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23E8EAE3'/%3E%3Crect x='4' y='7' width='24' height='4.5' fill='%231A1A18'/%3E%3Crect x='4' y='14' width='16' height='4.5' fill='%231A1A18'/%3E%3Crect x='4' y='21' width='24' height='4.5' fill='%23C4304F'/%3E%3C/svg%3E">
+<title>${b.sector}</title></polygon>`;
+      for (let i = 0; i < n; i++) lower[i] = upper[i];
+    });
+  } else {
+    // each sector on a shared baseline, so crossovers are visible
+    bands.forEach((b, k) => {
+      const d = b.n.map((v, i) => `${i?'L':'M'}${x(i).toFixed(1)},${y(val(b, i)).toFixed(1)}`).join('');
+      s += `<path d="${d}" fill="none" stroke="${FLOW_COLORS[k % FLOW_COLORS.length]}"
+        stroke-width="1.8" stroke-linejoin="round"><link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23E8EAE3'/%3E%3Crect x='4' y='7' width='24' height='4.5' fill='%231A1A18'/%3E%3Crect x='4' y='14' width='16' height='4.5' fill='%231A1A18'/%3E%3Crect x='4' y='21' width='24' height='4.5' fill='%23C4304F'/%3E%3C/svg%3E">
+<title>${b.sector}</title></path>`;
+    });
+  }
+
+  const fmt = d => { const dt = new Date(d + 'T00:00:00');
+    return isNaN(dt) ? d : dt.toLocaleDateString('en-US',{month:'short',day:'numeric'}); };
+  [0, Math.floor(n/2), n-1].forEach(i => {
+    s += `<text x="${x(i)}" y="${H-9}" font-family="var(--mono)" font-size="9"
+      fill="var(--muted)" text-anchor="${i===0?'start':i===n-1?'end':'middle'}">${
+        i===n-1 ? 'now' : fmt(f.weeks[i])}</text>`;
+  });
+  $('flowchart').innerHTML = s + '</svg>';
+  const note = $('flownote');
+  if (note) note.textContent = flowMode === 'share'
+    ? 'Each week split into shares of that week\u2019s coverage, so the height always fills. A phrase changing hands looks like one band squeezing another out. Volume is deliberately not shown here — the facts above carry it.'
+    : 'Each sector on the same baseline, so you can see which overtakes which. Heights are article counts for that week, not shares.';
+  $('flowlegend').innerHTML = bands.map((b, k) =>
+    `<span><i style="background:${FLOW_COLORS[k % FLOW_COLORS.length]}"></i>${b.sector}</span>`).join('');
+}
+
+function filingChart(term){
+  let rows = (DATA.filings || {})[term];
+  const wrap = $('term-filings');
+  if (!rows || rows.length < 8){ wrap.classList.add('hide'); return; }
+  wrap.classList.remove('hide');
+
+  // Drop the quarter still in progress. It holds a few weeks of filings, so
+  // every line either dives or spikes at the right edge for no real reason —
+  // which is why two sectors appeared to stop dead at the corpus marker.
+  const now = new Date();
+  const liveQ = `${now.getFullYear()}Q${Math.floor(now.getMonth()/3)+1}`;
+  const quarters = [...new Set(rows.map(r => r.q))].filter(q => q < liveQ).sort();
+  rows = rows.filter(r => r.q < liveQ);
+  const bySector = {};
+  rows.forEach(r => (bySector[r.sector] = bySector[r.sector] || {})[r.q] = r.share);
+
+  // only sectors that reach a visible level, most prominent first
+  const ranked = Object.entries(bySector)
+    .map(([s, m]) => [s, Math.max(...Object.values(m))])
+    .filter(([, mx]) => mx > 0.004)
+    .sort((a, b) => b[1] - a[1]).slice(0, 6);
+  if (!ranked.length){ wrap.classList.add('hide'); return; }
+
+  const W = 760, H = 220, PL = 44, PR = 16, PT = 14, PB = 30;
+  const mx = Math.max(...ranked.map(([, m]) => m));
+  const x = i => PL + (i / Math.max(1, quarters.length - 1)) * (W - PL - PR);
+  const y = v => H - PB - (v / mx) * (H - PT - PB);
+
+  let s = `<svg viewBox="0 0 ${W} ${H}" class="anim" role="img"
+    aria-label="Filing share by sector for ${term}">`;
+  [0, 0.5, 1].forEach(f => {
+    const v = mx * f;
+    s += `<line x1="${PL}" y1="${y(v)}" x2="${W-PR}" y2="${y(v)}" stroke="var(--rule)"
+      stroke-dasharray="${f===0?'':'1 3'}"/>`;
+    s += `<text x="${PL-6}" y="${y(v)+3}" text-anchor="end" font-family="var(--mono)"
+      font-size="9" fill="var(--muted)">${(v*100).toFixed(1)}%</text>`;
+  });
+  quarters.forEach((q, i) => {
+    if (q.endsWith('Q1') && (i === 0 || i > 2))
+      s += `<text x="${x(i)}" y="${H-10}" text-anchor="middle" font-family="var(--mono)"
+        font-size="9" fill="var(--muted)">${q.slice(0,4)}</text>`;
+  });
+
+  // Where the news corpus starts. Without this a reader cannot tell that the
+  // chart above spans ten years and the map above it spans a few weeks.
+  const started = new Date(new Date(DATA.generated) - (DATA.daysCollected || 0) * 864e5);
+  const startQ = `${started.getFullYear()}Q${Math.floor(started.getMonth()/3)+1}`;
+  const qi = quarters.indexOf(startQ);
+  if (qi > 2){
+    s += `<line x1="${x(qi)}" y1="${PT}" x2="${x(qi)}" y2="${H-PB}"
+      stroke="var(--ink-2)" stroke-width="1" stroke-dasharray="3 3" opacity=".7"/>`;
+    const anchor = qi > quarters.length - 8 ? 'end' : 'start';
+    const off = anchor === 'end' ? -6 : 6;
+    s += `<text x="${x(qi)+off}" y="${PT+10}" text-anchor="${anchor}"
+      font-family="var(--mono)" font-size="9" fill="var(--ink-2)">news corpus starts</text>`;
+  }
+  ranked.forEach(([sector], k) => {
+    const pts = quarters.map((q, i) => [x(i), bySector[sector][q]])
+      .filter(p => p[1] !== undefined);
+    if (pts.length < 2) return;
+    const d = pts.map((p, i) => `${i?'L':'M'}${p[0].toFixed(1)},${y(p[1]).toFixed(1)}`).join('');
+    s += `<path d="${d}" fill="none" stroke="${FILING_COLORS[k]}" stroke-width="1.6"
+      opacity=".9"><link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23E8EAE3'/%3E%3Crect x='4' y='7' width='24' height='4.5' fill='%231A1A18'/%3E%3Crect x='4' y='14' width='16' height='4.5' fill='%231A1A18'/%3E%3Crect x='4' y='21' width='24' height='4.5' fill='%23C4304F'/%3E%3C/svg%3E">
+<title>${sector}</title></path>`;
+  });
+  s += '</svg>';
+  $('filingchart').innerHTML = s;
+  $('filinglegend').innerHTML = ranked.map(([sector], k) =>
+    `<span><i style="background:${FILING_COLORS[k]}"></i>${sector}</span>`).join('');
+}
+
+// Break a phrase across lines so every word survives, shrinking the type
+// before dropping any of it. Returns null when even the smallest size cannot
+// hold the whole phrase in the box.
+function wrapLabel(term, w, h, reserve){
+  const words = term.split(' ');
+  // largest type this tile can justify, so dominance shows in the lettering
+  const cap = Math.max(9, Math.min(26, Math.round(Math.sqrt(w * h) / 7)));
+  const sizes = [26, 22, 19, 17, 15, 13, 12, 11, 10, 9].filter(s => s <= cap);
+  for (const size of sizes){
+    const per = (w - 14) / (size * 0.58);          // characters that fit a line
+    if (per < 3) continue;
+    const lines = [];
+    let line = '';
+    for (const word of words){
+      if (word.length > per){ line = null; break; }   // one word cannot fit
+      const test = line ? line + ' ' + word : word;
+      if (test.length <= per) line = test;
+      else { lines.push(line); line = word; }
+    }
+    if (line === null) continue;
+    if (line) lines.push(line);
+    // baseline of the last line plus its descender must sit inside the tile
+    const need = 8 + size + (lines.length - 1) * (size + 2)
+               + Math.ceil(size * 0.26) + reserve;
+    if (need <= h - 4) return { lines, size };
+  }
+  return null;
+}
+
+function treemap(){
+  const pool = visible(true);      // rank across everything, then record what fitted
+  if (!pool.length){
+    $('treemap').innerHTML = `<p style="padding:24px 2px;color:var(--muted);font-size:13px">
+      No phrases match that filter.</p>`;
+    return;
+  }
+  const ranked = pool.map(t => ({ t, v: Math.max(1, t.articles14d || 1) }))
+                     .sort((a, b) => b.v - a.v);
+  const W = 940, H = 340;   // was 520, which filled the screen on its own
+
+  // Lay out, check every tile can hold its own name, and if not drop the
+  // smallest and try again. Tile count follows from what is legible rather
+  // than being guessed — an unlabeled rectangle is not information.
+  const fits = (w, term) => {
+    for (const px of [13, 12, 11, 10, 9])
+      if (term.length * px * 0.62 <= w - 16) return px;
+    return 0;
+  };
+
+  let tiles = [];
+  for (let n = Math.min(16, ranked.length); n >= 8; n--){
+    const items = ranked.slice(0, n).map(o => ({ ...o }));
+    const total = items.reduce((s, i) => s + i.v, 0);
+    items.forEach(i => i.area = i.v / total * W * H);
+    const laid = squarify(items, W, H);
+    const ok = laid.filter(tl => wrapLabel(tl.t.term, tl.w, tl.h, 13)).length;
+    if (ok >= laid.length * 0.9){ tiles = laid; break; }
+    if (n === 8) tiles = laid;
+  }
+
+  function squarify(items, W, H){
+    const out = [];
+    let x = 0, y = 0, w = W, h = H, row = [], i = 0;
+    const worst = (r, len) => {
+      const s = r.reduce((a, b) => a + b.area, 0);
+      const mx = Math.max(...r.map(a => a.area)), mn = Math.min(...r.map(a => a.area));
+      return Math.max(len*len*mx/(s*s), s*s/(len*len*mn));
+    };
+    const lay = r => {
+      if (w <= 0.5 || h <= 0.5) return;
+      const s = r.reduce((a, b) => a + b.area, 0);
+      const horizontal = w >= h, thick = s / (horizontal ? h : w);
+      let off = 0;
+      r.forEach(item => {
+        const long = item.area / thick;
+        const tl = horizontal ? { x, y: y + off, w: thick, h: long, t: item.t }
+                              : { x: x + off, y, w: long, h: thick, t: item.t };
+        if (tl.w > 0.5 && tl.h > 0.5) out.push(tl);
+        off += long;
+      });
+      if (horizontal){ x += thick; w -= thick; } else { y += thick; h -= thick; }
+    };
+    while (i < items.length){
+      const len = Math.min(w, h), next = row.concat([items[i]]);
+      if (!row.length || worst(next, len) <= worst(row, len)){ row = next; i++; continue; }
+      lay(row); row = [];
+    }
+    if (row.length) lay(row);
+    return out;
+  }
+
+  const fill = { rising:'var(--heat)', new:'var(--signal)',
+                 falling:'var(--amber)', steady:'#BFC3BA' };
+
+  // Two passes: every rectangle first, then every label. A tile drawn later can
+  // then never cover a label drawn earlier, which is what produced stray words
+  // floating inside the larger tiles.
+  let s = `<svg viewBox="0 0 ${W} ${H}" style="width:100%;height:auto;display:block">`;
+  tiles.forEach(tl => {
+    const t = tl.t;
+    const op = 0.30 + Math.min(0.55, (t.sectorCount - 2) * 0.11);
+    const on = t.id === active;
+    s += `<g class="tile" data-id="${t.id}" style="cursor:pointer">
+      <rect x="${tl.x+1}" y="${tl.y+1}" width="${Math.max(0,tl.w-2)}" height="${Math.max(0,tl.h-2)}"
+        fill="${fill[t.direction] || '#BFC3BA'}" opacity="${(on ? op + 0.2 : op).toFixed(2)}"
+        stroke="${on ? 'var(--ink)' : 'var(--ground)'}" stroke-width="${on ? 2.5 : 1.5}"/>
+      <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23E8EAE3'/%3E%3Crect x='4' y='7' width='24' height='4.5' fill='%231A1A18'/%3E%3Crect x='4' y='14' width='16' height='4.5' fill='%231A1A18'/%3E%3Crect x='4' y='21' width='24' height='4.5' fill='%23C4304F'/%3E%3C/svg%3E">
+<title>${t.term} — ${t.sectorCount} sectors${
+  t.effectiveSectors && t.effectiveSectors < t.sectorCount - 0.4
+    ? ` (evenly across about ${Math.round(t.effectiveSectors)})` : ''} · ${t.articles14d} articles · ${
+        t.direction === 'new' ? 'first time in two or more sectors' : t.direction}</title>
+    </g>`;
+  });
+
+  s += '<g style="pointer-events:none">';
+  tiles.forEach(tl => {
+    const t = tl.t;
+    let lay = wrapLabel(t.term, tl.w, tl.h, 0);
+    if (!lay && tl.h >= 18){
+      const room = Math.floor((tl.w - 12) / 5.4);
+      if (room >= 5) lay = { lines: [t.term.slice(0, room - 1) + '\u2026'], size: 9 };
+    }
+    if (!lay) return;
+    lay.lines.forEach((ln, k) => {
+      s += `<text x="${tl.x+8}" y="${tl.y + 8 + lay.size + k*(lay.size+2)}"
+        font-size="${lay.size}" font-weight="600" fill="var(--ink)">${ln}</text>`;
+    });
+  });
+  s += '</g>';
+
+  MAP_IDS.clear();
+  MAP_ORDER.length = 0;
+  tiles.forEach(tl => { MAP_IDS.add(tl.t.id); MAP_ORDER.push(tl.t.id); });
+  $('treemap').innerHTML = s + '</svg>';
+  $('treemap').querySelectorAll('.tile').forEach(g =>
+    g.addEventListener('click', () => {
+      active = g.dataset.id; tab = 'all';
+      ['tab-all','tab-watch','tab-co','tab-map','tab-comp'].forEach((id,k) =>
+        $(id).setAttribute('aria-selected', k === 0));
+      $('map-view').classList.add('hide');
+      ['term-detail','term-map','term-duo','term-flow','term-filings'].forEach(x => $(x).classList.remove('hide'));
+      renderList(); renderDetail();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }));
+}
+
+const COUNTRY_NAMES = {
+  US:'United States', GB:'United Kingdom', IN:'India', DE:'Germany', NL:'Netherlands',
+  KR:'South Korea', TW:'Taiwan', JP:'Japan', SG:'Singapore', HK:'Hong Kong',
+  AU:'Australia', CA:'Canada', GR:'Greece', FR:'France', IT:'Italy', ES:'Spain',
+  NO:'Norway', SE:'Sweden', DK:'Denmark', FI:'Finland', IE:'Ireland', CH:'Switzerland',
+  BE:'Belgium', AT:'Austria', PL:'Poland', BR:'Brazil', MX:'Mexico', ZA:'South Africa',
+  AE:'United Arab Emirates', SA:'Saudi Arabia', CN:'China', NZ:'New Zealand',
+};
+
+// Grouping by continent because a reader scans that way — not a map, which would
+// imply language travelled between the places rather than merely appearing in both.
+const REGION_OF = {
+  US:'Americas', CA:'Americas', BR:'Americas', MX:'Americas',
+  GB:'Europe', DE:'Europe', NL:'Europe', FR:'Europe', IT:'Europe', ES:'Europe',
+  NO:'Europe', SE:'Europe', DK:'Europe', FI:'Europe', IE:'Europe', CH:'Europe',
+  BE:'Europe', AT:'Europe', PL:'Europe', GR:'Europe',
+  IN:'Asia-Pacific', KR:'Asia-Pacific', TW:'Asia-Pacific', JP:'Asia-Pacific',
+  SG:'Asia-Pacific', HK:'Asia-Pacific', CN:'Asia-Pacific', AU:'Asia-Pacific',
+  NZ:'Asia-Pacific', AE:'Middle East & Africa', SA:'Middle East & Africa',
+  ZA:'Middle East & Africa',
+};
+const REGION_ORDER = ['Americas','Europe','Asia-Pacific','Middle East & Africa','Elsewhere'];
+const REGION_SHORT = { 'Asia-Pacific':'Asia-Pac', 'Middle East & Africa':'MEA' };
+const rshort = r => REGION_SHORT[r] || r;
+const cname = cc => COUNTRY_NAMES[cc] || cc;
+
+function regions(){
+  const cov = DATA.coverage || [];
+  const total = cov.reduce((s, c) => s + c[1], 0);
+  const share = Object.fromEntries(cov.map(c => [c[0], c[1] / (total || 1)]));
+
+  // Grouped into regions: four wide bands read at a glance where fourteen
+  // slivers do not, and the columns underneath already name every country.
+  const regTotals = {};
+  cov.forEach(([cc, n]) => {
+    const r = REGION_OF[cc] || 'Elsewhere';
+    (regTotals[r] = regTotals[r] || { n: 0, countries: [] }).n += n;
+    regTotals[r].countries.push(cc);
+  });
+  const regList = REGION_ORDER.filter(r => regTotals[r])
+    .map(r => [r, regTotals[r].n, regTotals[r].countries])
+    .sort((a, b) => b[1] - a[1]);
+
+  $('reg-coverage').innerHTML = regList.length ? `
+    <div class="covbar">${regList.map(([r, n, ccs], i) =>
+      `<span title="${r} · ${n.toLocaleString()} articles · ${(n/total*100).toFixed(1)}% · ${ccs.join(', ')}"
+        style="width:${n/total*100}%;background:${ORIGIN_COLORS[i % ORIGIN_COLORS.length]}"></span>`
+      ).join('')}</div>
+    <div class="covkey">${regList.map(([r, n], i) =>
+      `<span><i style="background:${ORIGIN_COLORS[i % ORIGIN_COLORS.length]}"></i><b
+        class="rfull">${r}</b><b class="rshort">${rshort(r)}</b>&nbsp;${
+        (n/total*100).toFixed(n/total < 0.01 ? 1 : 0)}%</span>`).join('')}
+      <span style="color:var(--muted);margin-left:4px">— ${total.toLocaleString()} articles</span></div>` : '';
+
+  // lift: a phrase's share from a country against that country's share of all
+  // coverage. 1.0 is exactly what the corpus would predict.
+  const MIN_ARTICLES = 3, MIN_LIFT = 2.0;
+  const byCountry = {};
+  termsInScope().forEach(t => {
+    const og = t.origins || [];
+    const tot = og.reduce((s, o) => s + o[1], 0);
+    if (!tot) return;
+    og.forEach(([cc, n]) => {
+      if (n < MIN_ARTICLES || !share[cc]) return;
+      const lift = (n / tot) / share[cc];
+      if (lift < MIN_LIFT) return;
+      (byCountry[cc] = byCountry[cc] || []).push({ term: t.term, id: t.id, n, tot, lift });
+    });
+  });
+
+  const dedupe = items => {
+    const out = [];
+    for (const it of items.sort((a, b) => b.lift - a.lift)) {
+      const w = new Set(it.term.split(' '));
+      // Variants share most of their words without either containing the
+      // other: "natural gas lng" beside "liquefied natural gas" is one story.
+      const overlaps = out.some(k => {
+        const kw = k.term.split(' ');
+        const shared = kw.filter(x => w.has(x)).length;
+        return shared / Math.min(kw.length, w.size) >= 0.6;
+      });
+      if (!overlaps) out.push(it);
+    }
+    return out;
+  };
+
+  const cols = Object.entries(byCountry)
+    .map(([cc, items]) => ({ cc, items: dedupe(items).slice(0, 12) }))
+    .sort((a, b) => (share[b.cc] || 0) - (share[a.cc] || 0));
+
+  $('c-reg').textContent = cols.reduce((s, c) => s + c.items.length, 0);
+
+  // a phrase over-represented in two countries at once is worth marking, not hiding
+  const seenIn = {};
+  cols.forEach(col => col.items.forEach(it =>
+    (seenIn[it.term] = seenIn[it.term] || []).push(col.cc)));
+  const shared = new Set(Object.keys(seenIn).filter(t => seenIn[t].length > 1));
+
+  const grouped = {};
+  cols.forEach(col => (grouped[REGION_OF[col.cc] || 'Elsewhere'] ||= []).push(col));
+  const order = REGION_ORDER.filter(r => grouped[r]);
+
+  // A country supplying most of the corpus cannot clear the threshold: if the US
+  // is 92% of everything, the most lopsided phrase imaginable reaches 1.09x. That
+  // is arithmetic, not an absence of American vocabulary, and saying so is better
+  // than leaving a reader to wonder where it went.
+  const dominant = cov.find(c => share[c[0]] > 0.5);
+  const domNote = dominant ? `<p class="domnote"><b>${cname(dominant[0])}</b> supplies
+    ${(share[dominant[0]]*100).toFixed(0)}% of all coverage, so nothing can stand out
+    against it — the most one-sided phrase possible would still only reach
+    ${(1/share[dominant[0]]).toFixed(2)}× expected. This view can only show what the
+    smaller corpora carry that the large one does not.</p>` : '';
+
+  // Phrases carried by several countries at once, ranked by how many. The
+  // columns below answer "what is distinctive here"; this answers "what is
+  // distinctive in more than one place", which is the harder thing to see.
+  // which countries this view actually has data for, by region
+  const presentBy = {};
+  cov.forEach(([cc]) => (presentBy[REGION_OF[cc] || 'Elsewhere'] ||= []).push(cc));
+
+  const regionColor = r => {
+    const i = REGION_ORDER.indexOf(r);
+    return ORIGIN_COLORS[(i < 0 ? REGION_ORDER.length : i) % ORIGIN_COLORS.length];
+  };
+
+  const label = ccs => {
+    const byReg = {};
+    ccs.forEach(cc => (byReg[REGION_OF[cc] || 'Elsewhere'] ||= []).push(cc));
+    const swept = Object.keys(byReg).filter(r =>
+      (presentBy[r] || []).length > 1 &&
+      (presentBy[r] || []).every(cc => byReg[r].includes(cc)));
+    const everywhere = swept.length === Object.keys(presentBy).length && swept.length > 1;
+    if (everywhere) return [{ text: 'every region', wide: true, color: 'var(--ink)' }];
+    return Object.entries(byReg).map(([r, list]) =>
+      swept.includes(r) ? { text: r, wide: true, color: regionColor(r) }
+                        : list.map(cc => ({ text: cc, wide: false,
+                                            color: regionColor(r) }))).flat();
+  };
+
+  const crossing = Object.entries(seenIn)
+    .filter(([, ccs]) => ccs.length > 1)
+    .map(([term, ccs]) => ({ term, ccs, tags: label(ccs),
+      id: (cols.flatMap(c => c.items).find(i => i.term === term) || {}).id }))
+    .sort((a, b) => b.ccs.length - a.ccs.length || a.term.localeCompare(b.term))
+    .slice(0, 12);
+
+  const crossBlock = crossing.length ? `
+    <div class="bandhead"><span>Carried in more than one country</span>
+      <em>${crossing.length} · over-represented in several trade presses at once</em></div>
+    <div class="crossgrid">${crossing.map(x => `
+      <div class="crossrow">
+        <b>${x.id ? `<a href="#t=${x.id}" data-jump="${x.id}">${x.term}</a>` : x.term}</b>
+        <span>${x.tags.map(t => `<i class="${t.wide ? 'wide' : ''}"
+          style="background:${t.color};border-color:${t.color};color:var(--ground)"
+          title="${t.wide ? x.ccs.map(cname).join(', ') : cname(t.text)}">${t.text}</i>`
+          ).join('')}</span>
+      </div>`).join('')}</div>` : '';
+
+  $('reg-grid').innerHTML = cols.length ? domNote + crossBlock + order.map(region => `
+    <div class="regband">${region}</div>
+    <div class="reggrid">${grouped[region].map(col => `
+      <div class="regcol">
+        <div class="regheadline">${cname(col.cc)}
+          <em>${col.cc} · ${(share[col.cc]*100).toFixed(share[col.cc] < 0.01 ? 1 : 0)}% of coverage</em></div>
+        ${col.items.map(it => `
+          <a class="regrow${shared.has(it.term) ? ' is-shared' : ''}"
+             href="#t=${it.id}" data-jump="${it.id}">
+            <b>${it.term}${shared.has(it.term)
+              ? ' <em class="sharedtag">shared</em>' : ''}</b>
+            <span>${it.n} of ${it.tot} articles · ${
+              why('expected', it.lift.toFixed(1) + '\u00d7 its share of coverage')}</span>
+          </a>`).join('')}
+      </div>`).join('')}</div>`).join('')
+    : domNote + `<p class="empty" style="padding:var(--pad) 2px">Nothing stands out by country yet.
+       Non-US coverage is still a small share of the corpus, so a phrase appearing
+       mostly in one country is more likely to be a thin sample than a real
+       difference. This fills in as those feeds accumulate.</p>`;
+
+  $('reg-grid').querySelectorAll('[data-jump]').forEach(a =>
+    a.addEventListener('click', e => {
+      e.preventDefault();
+      active = a.dataset.jump; tab = 'all'; saveHash();
+      TABS.forEach(([id, n]) => $(id).setAttribute('aria-selected', n === 'all'));
+      ['map-view','comp-view','org-view','reg-view','co-detail']
+        .forEach(x => $(x).classList.add('hide'));
+      ['term-detail','term-map','term-duo','term-flow','term-filings']
+        .forEach(x => $(x).classList.remove('hide'));
+      renderList(); renderDetail(); scheduleFit();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }));
+}
+
+function institutions(){
+  const list = (DATA.institutions || []).filter(o =>
+    o.sectors.some(s => inSectors(s)) &&
+    (!query || o.name.toLowerCase().includes(query) ||
+     (o.acronym || '').toLowerCase().includes(query)));
+  $('c-org').textContent = (DATA.institutions || []).length;
+  const mx = Math.max(...list.map(o => o.articles), 1);
+  const orgRising = list.filter(o => o.direction === 'rising')
+    .sort((a, b) => (b.articles / Math.max(1, b.prior)) - (a.articles / Math.max(1, a.prior)));
+  const orgSteady = list.filter(o => o.direction === 'steady' || o.direction === 'falling')
+    .sort((a, b) => b.articles - a.articles);
+  const orgFresh = list.filter(o => o.direction === 'new')
+    .sort((a, b) => b.articles - a.articles);
+
+  const card = o => {
+    const c = o.direction === 'new' ? 'var(--signal)'
+            : o.direction === 'rising' ? 'var(--heat)'
+            : o.direction === 'falling' ? 'var(--amber)' : '#BFC3BA';
+    return `<div class="orgcard">
+      <span class="bar" style="width:${Math.max(4, Math.round(o.articles/mx*100))}%;
+        background:${c};opacity:.14;border-left:3px solid ${c}"></span>
+      <div class="orgbody">
+        <div class="orgname">
+          ${o.acronym
+            ? `<b class="orgac">${o.acronym}</b><span>${o.name}</span>`
+            : `<b class="orgfull">${o.name}</b>`}
+        </div>
+        <div class="orgsecs">${o.sectors.map(s =>
+          `<i>${s}</i>`).join('')}</div>
+        <div class="orgmeta">
+          <span>${o.sectors.length} sector${o.sectors.length === 1 ? '' : 's'}</span>
+          <span>${o.articles} article${o.articles === 1 ? '' : 's'}${
+            o.prior ? ` · was ${o.prior}` : ''}</span>
+          <span class="dir ${o.direction}">${o.direction === 'new' ? 'first time' : o.direction}</span>
+        </div>
+        ${(o.articles_list || []).length ? `
+        <button class="showarts" data-arts="og-${o.name.replace(/[^a-zA-Z0-9]+/g,'-')}"
+          aria-expanded="false">where it is named</button>
+        <ul class="compArts hide" id="og-${o.name.replace(/[^a-zA-Z0-9]+/g,'-')}">
+          ${o.articles_list.map(a => `<li>
+            <span class="src">${a.publisher} · ${a.sector}</span>
+            ${a.url ? `<a href="${a.url}" target="_blank" rel="noopener">${a.title}</a>`
+                    : a.title}</li>`).join('')}
+        </ul>` : ''}
+      </div>
+    </div>`;
+  };
+
+  const orgSection = (title, note, items) => items.length ? `
+    <div class="bandhead"><span>${title}</span><em>${items.length} · ${note}</em></div>
+    <div class="orggrid">${items.map(card).join('')}</div>` : '';
+
+  $('org-grid').innerHTML = list.length
+    ? orgSection('Named more', 'named more often than the fortnight before', orgRising)
+    + orgSection('Consistently named', 'steady presence in coverage', orgSteady)
+    + orgSection('First appearance', 'not named in the previous fortnight — a newly added '
+                 + 'publication can produce these', orgFresh)
+    : `<p class="empty" style="padding:var(--pad) 2px">No agency named in two or more
+       articles yet. Names are read from article summaries, so this fills in as
+       coverage accumulates.</p>`;
+  wireArts($('org-grid'));
+}
+
+/* Shared by the companions, agencies and companies panels. It used to be a
+   local of institutions(), so every other caller threw and the toggle did
+   nothing at all. */
+function wireArts(root){
+  if (!root) return;
+  root.querySelectorAll('[data-arts]').forEach(b => {
+    if (b._wired) return;
+    b._wired = true;
+    b.dataset.label = b.textContent.trim();
+    b.addEventListener('click', e => {
+      e.stopPropagation();
+      const ul = $(b.dataset.arts);
+      if (!ul) return;
+      const closed = ul.classList.toggle('hide');
+      b.setAttribute('aria-expanded', String(!closed));
+      b.textContent = closed ? b.dataset.label : 'hide articles';
+    });
+  });
+}
+
+const COMP_PARENTS = new Set();
+// A set: selecting several topics compares their companions against each other,
+// which is the question "what are these conversations turning toward together".
+let compFocus = new Set();
+
+function companions(){
+  COMP_PARENTS.clear();
+  const rows = [];
+  termsInScope(true).forEach(t => (t.cooc || []).forEach(c => {
+    const dir = c[2] || 'steady';
+    if (dir !== 'new' && dir !== 'rising') return;
+    const hasCounts = c.length > 3 && typeof c[3] === 'number';
+    const n = hasCounts ? c[3] : null, prior = hasCounts ? (c[4] || 0) : null;
+    const lift = c.length > 5 ? c[5] : 0;
+    const arts = c.length > 6 && Array.isArray(c[6]) ? c[6] : [];
+    if (hasCounts && n < 2) return;          // one article is not a turn
+    rows.push({ phrase: c[0], parent: t.term, parentId: t.id, dir, n, prior, lift, arts,
+                weight: c[1] || 0,
+                growth: hasCounts ? n - prior : (c[1] || 0) });
+  }));
+
+  // the same companion can sit under several topics; keep the strongest and
+  // remember the others, since "appears with" is itself the interesting part
+  const best = {};
+  rows.forEach(r => {
+    const cur = best[r.phrase];
+    if (!cur){ best[r.phrase] = { ...r, parents: [r.parent], parentIds: [r.parentId] }; return; }
+    if (r.arts && r.arts.length > (cur.arts || []).length) cur.arts = r.arts;
+    if (!cur.parents.includes(r.parent)){ cur.parents.push(r.parent); cur.parentIds.push(r.parentId); }
+    if (r.growth > cur.growth)
+      Object.assign(cur, r, { parents: cur.parents, parentIds: cur.parentIds });
+  });
+
+  let list = Object.values(best)
+    .filter(r => !(DATA.terms || []).some(t => t.term === r.phrase))   // not a topic already listed
+    .sort((a, b) => (b.growth - a.growth) || (b.n - a.n));
+  list.forEach(r => r.parentIds.forEach(id => COMP_PARENTS.add(id)));
+  if (compFocus.size)
+    list = list.filter(r => r.parentIds.some(id => compFocus.has(id)));
+  list = list.slice(0, 40);
+
+  $('c-comp').textContent = list.length;
+  const names = [...compFocus]
+    .map(id => (DATA.terms || []).find(t => t.id === id))
+    .filter(Boolean).map(t => t.term);
+  const head = $('comp-head');
+  if (head) head.innerHTML = names.length
+    ? `Finer details within ${names.length === 1 ? 'this topic' : 'these topics'}`
+    : 'Finer details within a topic';
+
+  const chips = $('comp-chips');
+  if (chips){
+    const held = [...compFocus]
+      .map(id => (DATA.terms || []).find(t => t.id === id)).filter(Boolean);
+    chips.innerHTML = held.length
+      ? held.map(t => `<button class="focuschip" data-drop="${t.id}"
+          title="Remove ${t.term}">${t.term}<span>\u00d7</span></button>`).join('')
+        + `<button id="comp-clear" class="clearfocus">clear all</button>`
+      : '';
+    chips.querySelectorAll('[data-drop]').forEach(b =>
+      b.addEventListener('click', () => {
+        compFocus.delete(b.dataset.drop); companions(); renderList();
+      }));
+  }
+  // Rising and first-appearance are different claims measured in different
+  // units — a delta against a level — so ranking them in one list let a thin
+  // newcomer outrank a phrase with four times the evidence. They are now
+  // separate sections, and neither can displace the other.
+  const bmax = Math.max(...list.map(r => r.n || r.weight * 10 || 0), 1);
+  // no more than three companions from any one topic, so a single busy story
+  // cannot fill the board
+  // one story, several namings: same shared word, comparable volume
+  const mergeTwins = arr => {
+    const out = [];
+    for (const r of arr){
+      const w = new Set(r.phrase.split(' '));
+      const twin = out.find(k => {
+        const kw = k.phrase.split(' ');
+        const shared = kw.filter(x => w.has(x)).length;
+        const vol = Math.min(r.n || 0, k.n || 0) / Math.max(1, k.n || 0);
+        return shared / Math.min(kw.length, w.size) >= 0.5 && vol >= 0.6;
+      });
+      if (twin){ (twin.twins = twin.twins || []).push(r.phrase); continue; }
+      out.push(r);
+    }
+    return out;
+  };
+
+  const capByParent = arr => {
+    const seen = {}, out = [];
+    for (const r of arr){
+      const p = r.parents[0] || '';
+      if ((seen[p] = (seen[p] || 0) + 1) <= 3) out.push(r);
+    }
+    return out;
+  };
+
+  const rising = list.filter(r => r.dir === 'rising')
+    .sort((a, b) => (b.n / Math.max(1, b.prior)) - (a.n / Math.max(1, a.prior))
+                    || ((b.lift || 0) - (a.lift || 0)) || b.growth - a.growth);
+  const risingCapped = capByParent(mergeTwins(rising));
+  const fresh = capByParent(mergeTwins(
+    list.filter(r => r.dir === 'new')
+        .sort((a, b) => (b.n - a.n) || ((b.lift || 0) - (a.lift || 0)))));
+
+  const card = (r, i) => {
+    const v = r.n || r.weight * 10 || 0;
+    const c = r.dir === 'new' ? 'var(--signal)' : 'var(--heat)';
+    const mult = r.prior ? ` · ${(r.n / r.prior).toFixed(1)}×` : '';
+    const aid = 'ca' + i + '-' + (r.phrase.replace(/[^a-z0-9]+/g, '-'));
+    return `<div class="compcard">
+      <span class="bar" style="width:${Math.max(5, Math.round(v / bmax * 100))}%;
+        background:${c};opacity:.18;border-left:3px solid ${c}"></span>
+      <div class="comprank">${i + 1}</div>
+      <div class="compbody">
+        <div class="compmain"><b>${r.phrase}</b>${r.twins
+          ? `<i class="alsocalled">also ${r.twins.join(', ')}</i>` : ''}</div>
+        <div class="compmeta">
+          <span>${r.n === null ? '—' : r.n} article${r.n === 1 ? '' : 's'}${
+            r.prior ? ` · was ${r.prior}${mult}` : ''}${
+            r.lift ? ` · ` + why('lift', `${r.lift}× more often than chance`) : ''}</span>
+          <span class="withtopics">${r.parents.slice(0,2).map((p, k) =>
+            `<a href="#t=${r.parentIds[k]}" data-jump="${r.parentIds[k]}"
+                title="Open ${p}">${p}</a>`).join(', ')}${
+            r.parents.length > 2 ? ` +${r.parents.length-2}` : ''}</span>
+        </div>
+        ${r.arts && r.arts.length ? `
+        <button class="showarts" data-arts="${aid}" aria-expanded="false">
+          where they appear together</button>
+        <ul class="compArts hide" id="${aid}">
+          ${r.arts.map(a => `<li>
+            <span class="src">${a.publisher} · ${a.sector}</span>
+            ${a.url ? `<a href="${a.url}" target="_blank" rel="noopener">${a.title}</a>`
+                    : a.title}</li>`).join('')}
+        </ul>` : ''}
+      </div>
+    </div>`;
+  };
+
+  const section = (title, note, items) => items.length ? `
+    <div class="bandhead"><span>${title}</span><em>${items.length} · ${note}</em></div>
+    <div class="compgrid">${items.map((r, i) => card(r, i)).join('')}</div>` : '';
+
+  $('comp-grid').innerHTML = (rising.length || fresh.length)
+    ? section('Being used more', 'already present, and used more than the fortnight before',
+              risingCapped)
+    + section('First appearance', 'no coverage in the previous fortnight — thinner evidence, '
+              + 'and a newly added publication can produce these', fresh)
+    : `<p class="empty" style="padding:var(--pad) 2px">Nothing new alongside the tracked
+       phrases this fortnight.</p>`;
+
+  const clear = $('comp-clear');
+  if (clear) clear.addEventListener('click', e => {
+    e.stopPropagation(); compFocus.clear(); companions(); renderList();
+  });
+  // Removed by an earlier rewrite while its call sites survived, so every click
+  // threw instead of navigating.
+  const openParent = el => {
+    if (!el.dataset.jump) return;
+    active = el.dataset.jump; tab = 'all'; saveHash();
+    TABS.forEach(([id, n]) => $(id).setAttribute('aria-selected', n === 'all'));
+    ['map-view','comp-view','org-view','reg-view','co-detail']
+      .forEach(x => $(x).classList.add('hide'));
+    ['term-detail','term-map','term-duo','term-flow','term-filings']
+      .forEach(x => $(x).classList.remove('hide'));
+    renderList(); renderDetail();
+    setTimeout(() => {
+      const panel = $('term-duo');
+      if (panel) panel.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    }, 90);
+  };
+
+  wireArts($('comp-grid'));
+
+  $('comp-grid').querySelectorAll('.withtopics [data-jump]').forEach(a =>
+    a.addEventListener('click', e => { e.preventDefault(); openParent(a); }));
+}
+
+function companyMap(){
+  const wrap = $('cotree-wrap'), host = $('cotreemap');
+  if (!wrap || !host) return;
+  // A label a reader can act on: "7203.T" identifies nothing, so foreign and
+  // numeric tickers fall back to the first word of the company name.
+  const shortName = c => c.name || c.ticker;
+
+  const all = (DATA.companies || [])
+    .filter(c => c.articles14d > 0 && inSectors(c.sector))
+    .sort((a, b) => b.articles14d - a.articles14d);
+  wrap.classList.toggle('hide', all.length < 4);
+  if (all.length < 4) return;
+
+  const W = Math.max(320, host.clientWidth || 900), H = 260;
+
+  // fewer tiles until most of them can carry a name, same rule as the phrase map
+  let cos = all.slice(0, 20), laid = [];
+  for (let n = Math.min(20, all.length); n >= 8; n -= 1){
+    cos = all.slice(0, n);
+    const total = cos.reduce((s, c) => s + c.articles14d, 0) || 1;
+    laid = squarifyBox(cos.map(c => ({ c, area: c.articles14d / total * W * H })), W, H);
+    const named = laid.filter(t => wrapLabel(shortName(t.c), t.w, t.h, 0)).length;
+    if (named >= laid.length * 0.75) break;
+  }
+
+  host.innerHTML = `<svg viewBox="0 0 ${W} ${H}" width="100%" role="img"
+    aria-label="Tracked companies by article count">${laid.map(t => {
+    const dir = t.c.direction || 'steady';
+    const fill = dir === 'new' ? 'var(--signal)' : dir === 'rising' ? 'var(--heat)'
+               : dir === 'falling' ? 'var(--amber)' : '#BFC3BA';
+    // shorten to whatever the tile can hold; an unlabelled box helps nobody
+    const full = shortName(t.c);
+    // scale with the tile: the biggest name should look biggest
+    const lay = wrapLabel(full, t.w, t.h, 0);
+    return `<g class="tile" data-co="${t.c.ticker}" style="cursor:pointer">
+      <title>${t.c.name} (${t.c.ticker}) · ${t.c.articles14d} articles · ${t.c.sector} · ${dir}</title>
+      <rect x="${t.x}" y="${t.y}" width="${t.w}" height="${t.h}" fill="${fill}"
+        fill-opacity=".16" stroke="var(--ground)" stroke-width="1.5"/>
+      ${lay ? lay.lines.map((ln, k) =>
+        `<text x="${t.x + 7}" y="${t.y + 7 + lay.size + k*(lay.size+2)}"
+          font-family="var(--mono)" font-size="${lay.size}" font-weight="600"
+          fill="var(--ink)">${ln}</text>`).join('') : ''}
+    </g>`;
+  }).join('')}</svg>`;
+
+  host.querySelectorAll('[data-co]').forEach(g =>
+    g.addEventListener('click', () => {
+      activeCo = g.dataset.co; tab = 'co'; saveHash();
+      TABS.forEach(([id, n]) => $(id).setAttribute('aria-selected', n === 'co'));
+      ['map-view','comp-view','org-view','reg-view'].forEach(x => $(x).classList.add('hide'));
+      $('co-detail').classList.remove('hide');
+      renderCompanies(); renderCoDetail();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    }));
+}
+
+// shared layout: the phrase map had this inline, and a second map needs it too
+function squarifyBox(items, W, H){
+  const out = [];
+  let x = 0, y = 0, w = W, h = H, i = 0;
+  while (i < items.length){
+    const horiz = w >= h;
+    let run = [items[i]], area = items[i].area, best = Infinity, j = i + 1;
+    const worst = (arr, len, side) => {
+      const a = arr.reduce((s, t) => s + t.area, 0);
+      const thick = a / side;
+      return Math.max(...arr.map(t => {
+        const l = t.area / thick;
+        return Math.max(thick / l, l / thick);
+      }));
+    };
+    best = worst(run, run.length, horiz ? h : w);
+    while (j < items.length){
+      const test = run.concat([items[j]]);
+      const r = worst(test, test.length, horiz ? h : w);
+      if (r > best) break;
+      run = test; area += items[j].area; best = r; j++;
+    }
+    const thick = area / (horiz ? h : w);
+    let off = 0;
+    run.forEach(t => {
+      const len = t.area / thick;
+      out.push(horiz ? { ...t, x, y: y + off, w: thick, h: len }
+                     : { ...t, x: x + off, y, w: len, h: thick });
+      off += len;
+    });
+    if (horiz){ x += thick; w -= thick; } else { y += thick; h -= thick; }
+    i = j;
+  }
+  return out;
+}
+
+function sectorHeat(){
+  const buckets = {};   // sector -> { total, d7, d30, terms:[] }
+  visible(true).forEach(t => t.sectors.forEach(s => {
+    const b = buckets[s.name] = buckets[s.name] || { total:0, d7:0, d30:0, terms:[] };
+    b.total++;
+    const age = (DATA.windowDays || 90) - s.adopt;
+    if (age <= 7){ b.d7++; b.terms.push(t.term); }
+    else if (age <= 30) b.d30++;
+  }));
+  const rows = Object.entries(buckets)
+    .map(([name, b]) => ({ name, ...b }))
+    .sort((a, b) => (b.d7 - a.d7) || (b.d30 - a.d30) || (b.total - a.total));
+  if (!rows.length){ $('sectorheat').innerHTML = ''; return; }
+
+  const mx = Math.max(...rows.map(r => r.total), 1);
+  $('sectorheat').innerHTML = `<table style="width:100%;border-collapse:collapse">
+    <thead><tr>
+      <th style="width:150px">Sector</th><th class="n">Last 7d</th>
+      <th class="n">8–30d</th><th class="n">Total</th><th>Arrived this week</th>
+    </tr></thead><tbody>` + rows.map(r => {
+      const w = Math.round(r.total / mx * 100);
+      const heat = r.d7 >= 4 ? 'var(--heat)' : r.d7 >= 2 ? 'var(--heat-soft)'
+                 : r.d7 === 1 ? 'var(--signal-3)' : 'var(--sunk)';
+      return `<tr>
+        <td class="term" style="position:relative">
+          <span style="position:absolute;left:0;top:6px;bottom:6px;width:${w}%;
+            background:${heat};opacity:.55"></span>
+          <span style="position:relative">${r.name}</span></td>
+        <td class="n" style="font-weight:${r.d7 ? 600 : 400}">${r.d7 || '—'}</td>
+        <td class="n">${r.d30 || '—'}</td>
+        <td class="n">${r.total}</td>
+        <td style="font-size:14px;color:var(--ink);font-weight:500;line-height:1.4">${
+          r.terms.slice(0, 4).join(', ') || '—'}${r.terms.length > 4
+            ? ` <span style="color:var(--muted);font-weight:400">+${r.terms.length-4}</span>` : ''}</td>
+      </tr>`;
+    }).join('') + '</tbody></table>';
+}
+
+function refresh(){
+  // Every view that reads the sector chips has to be redrawn, not just the list.
+  // The companions board was missing here, so filtering moved the left column
+  // and left the board showing an unfiltered ranking.
+  if (tab === 'map'){ treemap(); sectorHeat(); companyMap(); }
+  if (tab === 'comp') companions();
+  if (tab === 'org') institutions();
+  if (tab === 'reg') regions();
+  renderList();
+  if (tab === 'co') renderCoDetail();
+  scheduleFit();
+}
+
+// Collapse the long explanatory notes into "why this measure" toggles. They
+// are the product's integrity and none are removed — but four dense paragraphs
+// before a single number is a wall, and a reader who wants them can open them.
+function foldNotes(){
+  document.querySelectorAll('.pane p').forEach(p => {
+    if (p._folded || p.classList.contains('empty') || p.textContent.trim().length < 260) return;
+    p._folded = true;
+    const btn = document.createElement('button');
+    btn.className = 'whybtn';
+    btn.textContent = 'why this measure';
+    btn.setAttribute('aria-expanded', 'false');
+    p.classList.add('hide');
+    p.parentNode.insertBefore(btn, p);
+    btn.addEventListener('click', () => {
+      const shut = p.classList.toggle('hide');
+      btn.setAttribute('aria-expanded', String(!shut));
+      btn.textContent = shut ? 'why this measure' : 'hide';
+    });
+  });
+}
+
+const EXPLAIN = {
+  lift: 'How much more often these two appear together than they would if the '
+      + 'pairing were coincidence. 1x is what chance alone would produce.',
+  sect: 'How many sectors used this phrase in the last fortnight. A phrase in '
+      + 'one sector is that sector\u2019s vocabulary; in several, it is crossing.',
+  arts: 'Articles containing this phrase in the last fortnight. Every one is a real '
+      + 'article we read, and they are linked below.',
+  prior: 'The same count for the fortnight before, so you can see the direction.',
+  first: 'The first time we saw this phrase in that sector\u2019s coverage. It may '
+       + 'have been used earlier, before collection began.',
+  expected: 'Compared with how much of all coverage this country supplies. 3x means '
+          + 'three times as much attention as its size would predict.',
+  evenly: 'A phrase can touch five sectors while most of its articles sit in two. '
+        + 'This is how many it behaves like.',
+};
+const why = (key, text) =>
+  `<abbr class="why" tabindex="0" title="${EXPLAIN[key]}">${text}</abbr>`;
+
+// Fill the hover explanations from one place, so the wording lives in EXPLAIN
+// rather than being repeated across the markup.
+function fillExplains(){
+  document.querySelectorAll('abbr.why[data-why]').forEach(a => {
+    const k = a.dataset.why;
+    if (EXPLAIN[k]) a.setAttribute('title', EXPLAIN[k]);
+  });
+}
+
+function masthead(){
+  const el = $('edition');
+  if (!el || !DATA) return;
+  const d = new Date(DATA.generated);
+  const stamp = isNaN(d) ? '' : d.toLocaleDateString('en-US',
+    { weekday:'long', day:'numeric', month:'long', year:'numeric' });
+  const bits = [stamp,
+    `${(DATA.articlesStored || 0).toLocaleString()} articles`,
+    `${DATA.publishers || 0} publications`,
+    `${DATA.countryCount || 0} ${DATA.countryCount === 1 ? 'country' : 'countries'}`,
+    // duration and a referent, short enough to stay on the line
+    (() => {
+      const start = new Date(new Date(DATA.generated) - (DATA.daysCollected || 0) * 864e5);
+      const since = isNaN(start) ? '' : start.toLocaleDateString('en-US',
+        { day:'numeric', month:'short' });
+      return since ? `${DATA.daysCollected} days · since ${since}` : '';
+    })()];
+  el.innerHTML = bits.filter(Boolean).map(b => `<span>${b}</span>`).join('');
+}
+
+function renderDetail(){
+  const t = DATA.terms.find(x => x.id === active) || DATA.terms[0];
+  if (!t) return;
+  const fmt = s => { const d=new Date(s+'T00:00:00');
+    return isNaN(d)?s:d.toLocaleDateString('en-US',{month:'short',day:'numeric'}); };
+  const first = [...t.sectors].sort((a,b)=>a.adopt-b.adopt)[0];
+
+  $('d-term').innerHTML = t.term + (t.variants && t.variants.length
+    ? ` <i class="alsocalled">(also ${t.variants.join(', ')})</i>` : '');
+  $('d-sub').innerHTML = t.sinceStart
+    ? `already in ${first.name.toLowerCase()} coverage when collection began
+       <span style="color:var(--muted)">\u00b7 earlier use not observed</span>`
+    : `first seen ${fmt(first.firstSeen)} in ${first.name.toLowerCase()} coverage`;
+  $('d-dir').textContent = t.direction === 'new' ? 'first time' : t.direction;
+
+  // Provenance, so a phrase carried only by one country's trade press is never
+  // mistaken for a broad move. Country is where a publication is based, not
+  // what an article is about.
+  const og = t.origins || [];
+  const tot = og.reduce((s, o) => s + o[1], 0);
+  if (!og.length){
+    $('f-origin').textContent = '—';
+    $('f-originsub').innerHTML = '';
+  } else if (og.length === 1){
+    $('f-origin').textContent = og[0][0];
+    $('f-originsub').innerHTML = 'trade press only';
+  } else {
+    // Countries do partition — every article was published in exactly one — so a
+    // proportional bar is honest here in a way a pie of companions was not. It
+    // also shows every country, which a truncated list could not.
+    $('f-origin').textContent = `${og.length} countries`;
+    const byReg = {};
+    og.forEach(([cc, n]) => {
+      const r = REGION_OF[cc] || 'Elsewhere';
+      (byReg[r] = byReg[r] || { n: 0, ccs: [], codes: [] });
+      byReg[r].n += n;
+      byReg[r].ccs.push(`${cc} ${n}`);
+      byReg[r].codes.push(cc);
+    });
+    const regColor = r => ORIGIN_COLORS[
+      (REGION_ORDER.indexOf(r) < 0 ? REGION_ORDER.length : REGION_ORDER.indexOf(r))
+      % ORIGIN_COLORS.length];
+    const regs = REGION_ORDER.filter(r => byReg[r]).sort(
+      (a, b) => byReg[b].n - byReg[a].n).map(r => {
+      const d = byReg[r];
+      // one country from a region is that country, not the region
+      const name = d.codes.length > 1 ? r : d.codes[0];
+      return { r, name, n: d.n, codes: d.codes, ccs: d.ccs };
+    });
+    const bar = regs.map(g => {
+      const pct = g.n / tot * 100;
+      return `<span title="${g.name} · ${g.n} article${g.n===1?'':'s'} · ${pct.toFixed(0)}%${
+        g.codes.length > 1 ? ` · ${g.ccs.join(', ')}` : ''}"
+        style="width:${pct}%;background:${regColor(g.r)}"></span>`;
+    }).join('');
+    $('f-originsub').innerHTML =
+      `<span class="originbar">${bar}</span>` +
+      `<span class="originkey">${regs.map(g =>
+        `<span><i style="background:${regColor(g.r)}"></i><b class="rfull">${
+          g.name}</b><b class="rshort">${rshort(g.name)}</b>&nbsp;${
+          Math.round(g.n / tot * 100)}%</span>`).join('')}</span>`;
+  }
+  $('d-dir').className = 'dir ' + t.direction;
+
+  $('f-sectors').textContent = t.sectorCount;
+  // Where there is room to say what it means: a phrase can touch five sectors
+  // while most of its articles sit in one or two.
+  const evenly = t.effectiveSectors && t.effectiveSectors < t.sectorCount - 0.4
+    ? ` — but the articles sit mostly in ${Math.round(t.effectiveSectors)} of them`
+    : '';
+  $('f-sectorsub').textContent = t.sectors.map(s => s.name).join(', ') + evenly;
+  $('f-newest').textContent = t.newestSector;
+  $('f-newestsub').textContent = t.daysSinceNewestSector === 0
+    ? 'joined today' : `joined ${t.daysSinceNewestSector} days ago`;
+  $('f-arts').textContent = t.articles14d.toLocaleString();
+  $('f-artssub').textContent = t.articlesPrior14d
+    ? `${t.articlesPrior14d.toLocaleString()} the fortnight before`
+    : 'not seen before this fortnight';
+  $('f-pubs').textContent = t.publishers;
+
+  $('spread').innerHTML = spreadMap(t);
+  flowChart(t);
+  filingChart(t.term);
+
+  const mx = Math.max(...t.cooc.map(c=>c[1]), 1);
+  const dirs = new Set(t.cooc.map(c => c[2] || 'steady'));
+  const mixed = dirs.size > 1;      // a label on every row distinguishes nothing
+  $('d-cooc').innerHTML = t.cooc.map((c, i) => {
+    const [w, v, dir] = [c[0], c[1], c[2] || 'steady'];
+    const lift = c.length > 5 ? c[5] : 0;
+    const arts = c.length > 6 && Array.isArray(c[6]) ? c[6] : [];
+    const id = 'dc' + i;
+    const tag = (mixed && (dir === 'new' || dir === 'rising'))
+      ? `<span class="dir ${dir}">${dir === 'new' ? 'first time' : dir}</span>` : '';
+    return `<li data-d="${dir}"><i style="width:${Math.round(v/mx*100)}%"></i><span>
+      <b>${w}${tag}</b><em>${lift
+        ? why('lift', lift + '\u00d7 more often than chance') : v.toFixed(2)}</em></span>
+      ${arts.length ? `<button class="showarts" data-arts="${id}" aria-expanded="false"
+        >where they appear together</button>
+        <ul class="compArts hide" id="${id}">${arts.map(a => `<li>
+          <span class="src">${a.publisher} · ${a.sector}</span>
+          ${a.url ? `<a href="${a.url}" target="_blank" rel="noopener">${a.title}</a>`
+                  : a.title}</li>`).join('')}</ul>` : ''}
+    </li>`;
+  }).join('') + (t.cooc.length ? '' : `<li class="coocnote">Nothing appears alongside
+      this phrase more often than its own share of coverage would predict. That is a
+      finding rather than a gap — the phrase travels without a companion.</li>`)
+    + `<li class="coocnote">
+      The figure is how much more often they appear together than either would
+      alone. ${mixed
+        ? 'Color marks which pairings appear for the first time or are rising.'
+        : (dirs.has('new') ? 'All of these appear alongside it for the first time this fortnight.'
+           : 'These pairings are long-standing.')}
+      A broad phrase means something different when what it sits beside changes.</li>`;
+
+  wireArts($('d-cooc'));
+
+  $('d-arts').innerHTML = (t.examples||[]).map(a =>
+    `<li><div class="src"><span>${a.publisher}</span><span class="sec">${a.sector}${
+       a.country && a.country !== 'US' ? ` · ${a.country}` : ''}</span></div>
+     <p>${a.url && a.url !== '#' ? `<a href="${a.url}" target="_blank" rel="noopener">${a.title}</a>` : a.title}</p></li>`).join('')
+    || '<li class="empty">No articles captured yet.</li>';
+}
+
+/* ---------------- controls ---------------- */
+$('filters').addEventListener('click', e => {
+  const b = e.target.closest('.chip'); if (!b) return;
+  const s = b.dataset.s;
+  if (s === 'All') sectors.clear();
+  else sectors.has(s) ? sectors.delete(s) : sectors.add(s);
+  renderFilters();
+  refresh();
+});
+$('search').addEventListener('input', e => {
+  query = e.target.value.trim().toLowerCase();
+  refresh();
+});
+$('flowmode').addEventListener('click', e => {
+  const b = e.target.closest('button'); if (!b) return;
+  flowMode = b.dataset.m;
+  $('flowmode').querySelectorAll('button').forEach(x =>
+    x.setAttribute('aria-pressed', x.dataset.m === flowMode));
+  const t = DATA.terms.find(x => x.id === active);
+  if (t) flowChart(t);
+});
+
+TABS.forEach(([id,name]) =>
+  $(id).addEventListener('click', () => {
+    tab = name;
+    TABS.forEach(([t,n]) => $(t).setAttribute('aria-selected', n === name));
+    const isCo = name === 'co', isMap = name === 'map', isComp = name === 'comp',
+          isOrg = name === 'org', isReg = name === 'reg';
+    $('co-detail').classList.toggle('hide', !isCo);
+    $('map-view').classList.toggle('hide', !isMap);
+    $('comp-view').classList.toggle('hide', !isComp);
+    $('org-view').classList.toggle('hide', !isOrg);
+    $('reg-view').classList.toggle('hide', !isReg);
+    ['term-detail','term-map','term-duo','term-flow','term-filings']
+      .forEach(x => $(x).classList.toggle('hide', isCo || isMap || isComp || isOrg || isReg));
+    if (isComp) companions();      // fills COMP_PARENTS before the list is drawn
+    if (isOrg) institutions();
+    if (isReg) regions();
+    setTimeout(foldNotes, 0);
+    if (isMap){ treemap(); sectorHeat(); companyMap(); }   // fills MAP_IDS before the list is drawn
+    renderList();
+    if (isCo) renderCoDetail();
+    scheduleFit();
+  }));
+
+boot();
+</script>
+</body>
+</html>
