@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-09T14:48:54.366266+00:00",
+ "generated": "2026-08-09T15:15:16.833248+00:00",
  "prices": {
   "Autos": [
    {
@@ -2711,7 +2711,7 @@
  "coverage": [
   [
    "US",
-   5910
+   5911
   ],
   [
    "GB",
@@ -2739,7 +2739,7 @@
   ],
   [
    "GR",
-   78
+   79
   ],
   [
    "DE",
@@ -3059,6 +3059,12 @@
   {
    "articles_list": [
     {
+     "title": "How Engineers Are Reinventing the Wind Turbine",
+     "url": "https://oilprice.com/Alternative-Energy/Wind-Power/How-Engineers-Are-Reinventing-the-Wind-Turbine.html",
+     "publisher": "OilPrice",
+     "sector": "Energy"
+    },
+    {
      "title": "Ostrava orders up to 70 more Solaris electric buses",
      "url": "https://www.electrive.com/2026/08/08/ostrava-orders-up-to-70-more-solaris-electric-buses/",
      "publisher": "Electrive",
@@ -3069,12 +3075,6 @@
      "url": "https://www.digitimes.com/news/a20260807PD252/data-center-compeq-manufacturing-demand-revenue-2026.html",
      "publisher": "DigiTimes Asia",
      "sector": "Technology"
-    },
-    {
-     "title": "RBI's revolving credit proposal puts Bajaj Finance, Tata Capital among most exposed NBFCs; may hit customer acquisition, growth",
-     "url": "https://bfsi.economictimes.indiatimes.com/articles/rbis-revolving-credit-proposal-puts-bajaj-finance-tata-capital-among-most-exposed-nbfcs-may-hit-customer-acquisition-growth/133032675",
-     "publisher": "ET BFSI",
-     "sector": "Finance"
     }
    ],
    "name": "Reserve Bank of India",
@@ -3927,6 +3927,13 @@
      "examples": [
       {
        "publisher": "Container News",
+       "title": "Hapag-Lloyd updates PSS to Conakry",
+       "url": "https://container-news.com/hapag-lloyd-updates-pss-to-conakry/",
+       "sector": "Supply chain",
+       "country": "GR"
+      },
+      {
+       "publisher": "Container News",
        "title": "CMA CGM increases FAK rates from Asia to the Mediterranean and North Africa",
        "url": "https://container-news.com/cma-cgm-increases-fak-rates-from-asia-to-the-mediterranean-and-north-africa/",
        "sector": "Supply chain",
@@ -3938,13 +3945,6 @@
        "url": "https://container-news.com/hapag-lloyd-updates-pss-on-several-trades/",
        "sector": "Supply chain",
        "country": "GR"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Genius Electronic Optical revenue rose 39% in July as lens demand entered peak season",
-       "url": "https://www.digitimes.com/news/a20260807PD247/2026-demand-revenue-shipments.html",
-       "sector": "Technology",
-       "country": "TW"
       }
      ]
     }
@@ -4304,6 +4304,13 @@
      "examples": [
       {
        "publisher": "OilPrice",
+       "title": "How Engineers Are Reinventing the Wind Turbine",
+       "url": "https://oilprice.com/Alternative-Energy/Wind-Power/How-Engineers-Are-Reinventing-the-Wind-Turbine.html",
+       "sector": "Energy",
+       "country": "US"
+      },
+      {
+       "publisher": "OilPrice",
        "title": "Why Southeast Asia's Clean Energy Surge Could Stall Before It Starts",
        "url": "https://oilprice.com/Energy/Energy-General/Why-Southeast-Asias-Clean-Energy-Surge-Could-Stall-Before-It-Starts.html",
        "sector": "Energy",
@@ -4315,13 +4322,6 @@
        "url": "https://oilprice.com/Energy/Energy-General/Europe-Bets-Billions-on-North-Africas-Clean-Energy-Potential.html",
        "sector": "Energy",
        "country": "US"
-      },
-      {
-       "publisher": "ET Manufacturing",
-       "title": "Juniper Green Energy bags 230 MW project from SECI",
-       "url": "https://manufacturing.economictimes.indiatimes.com/news/energy/juniper-green-energy-bags-230-mw-project-from-seci/133046604",
-       "sector": "Industrials",
-       "country": "IN"
       }
      ]
     },
@@ -26560,8 +26560,8 @@
   ]
  },
  "daysCollected": 105,
- "articlesStored": 7260,
- "articlesLive": 3486,
+ "articlesStored": 7262,
+ "articlesLive": 3488,
  "windowDays": 90,
  "terms": [
   {
@@ -26933,7 +26933,7 @@
      "new",
      4,
      0,
-     15.9,
+     16.0,
      [
       {
        "title": "Sponsored: nVent expands data center liquid cooling capacity",
@@ -28563,7 +28563,7 @@
      "new",
      5,
      0,
-     50.6,
+     50.7,
      [
       {
        "title": "AMD Sees Data Center Revenue More Than Doubling Next Year as AI Demand Surges",
@@ -29911,7 +29911,7 @@
      "new",
      3,
      0,
-     57.6,
+     57.7,
      [
       {
        "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
@@ -33054,7 +33054,7 @@
      "new",
      6,
      0,
-     281.0,
+     281.2,
      [
       {
        "title": "Oil Prices Jump as Houthi Attacks Raise Saudi Supply Risks",
@@ -33071,6 +33071,34 @@
       {
        "title": "China's Top Refiner Pivots to Russian Crude",
        "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Top-Refiner-Pivots-to-Russian-Crude.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      }
+     ]
+    ],
+    [
+     "mandeb strait",
+     0.67,
+     "new",
+     4,
+     0,
+     187.5,
+     [
+      {
+       "title": "Hormuz Bottleneck Pushes Indian Refiners Toward West African Grades",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Bottleneck-Pushes-Indian-Refiners-Toward-West-African-Grades.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      },
+      {
+       "title": "No charge for Bab al-Mandab Strait transits, Houthis tell The Loadstar",
+       "url": "https://theloadstar.com/no-charge-for-bab-al-mandab-strait-transits-houthis-tell-the-loadstar/",
+       "publisher": "The Loadstar",
+       "sector": "Supply chain"
+      },
+      {
+       "title": "Tanker Traffic Remains Subdued Despite Trump's Talk of Peace",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Tanker-Traffic-Remains-Subdued-Despite-Trumps-Talk-of-Peace.html",
        "publisher": "OilPrice",
        "sector": "Energy"
       }
@@ -33110,7 +33138,7 @@
      "new",
      5,
      0,
-     187.3,
+     187.4,
      [
       {
        "title": "Most VLCC loadings directed northbound in Red Sea: DHT Holdings",
@@ -33131,37 +33159,16 @@
        "sector": "Supply chain"
       }
      ]
-    ],
-    [
-     "mandeb strait",
-     0.67,
-     "new",
-     4,
-     0,
-     187.3,
-     [
-      {
-       "title": "Hormuz Bottleneck Pushes Indian Refiners Toward West African Grades",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Bottleneck-Pushes-Indian-Refiners-Toward-West-African-Grades.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      },
-      {
-       "title": "No charge for Bab al-Mandab Strait transits, Houthis tell The Loadstar",
-       "url": "https://theloadstar.com/no-charge-for-bab-al-mandab-strait-transits-houthis-tell-the-loadstar/",
-       "publisher": "The Loadstar",
-       "sector": "Supply chain"
-      },
-      {
-       "title": "Tanker Traffic Remains Subdued Despite Trump's Talk of Peace",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Tanker-Traffic-Remains-Subdued-Despite-Trumps-Talk-of-Peace.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      }
-     ]
     ]
    ],
    "examples": [
+    {
+     "publisher": "Container News",
+     "title": "Hapag-Lloyd updates PSS to Conakry",
+     "url": "https://container-news.com/hapag-lloyd-updates-pss-to-conakry/",
+     "sector": "Supply chain",
+     "country": "GR"
+    },
     {
      "publisher": "Container News",
      "title": "CMA CGM increases FAK rates from Asia to the Mediterranean and North Africa",
@@ -33182,13 +33189,6 @@
      "url": "https://www.digitimes.com/news/a20260807PD247/2026-demand-revenue-shipments.html",
      "sector": "Technology",
      "country": "TW"
-    },
-    {
-     "publisher": "Container News",
-     "title": "SeaLead ceases trading following US sanctions",
-     "url": "https://container-news.com/sealead-ceases-trading-following-us-sanctions/",
-     "sector": "Supply chain",
-     "country": "GR"
     }
    ],
    "daily": [
@@ -33562,10 +33562,10 @@
    "direction": "rising",
    "display": true,
    "sectorCount": 3,
-   "effectiveSectors": 2.27,
+   "effectiveSectors": 2.23,
    "newestSector": "Policy",
    "daysSinceNewestSector": 11,
-   "articles14d": 18,
+   "articles14d": 19,
    "articlesPrior14d": 4,
    "publishers": 11,
    "sectors": [
@@ -33574,15 +33574,15 @@
      "firstSeen": "2026-06-05",
      "recent": 2,
      "articles": 5,
-     "share": 0.143,
+     "share": 0.133,
      "adopt": 24
     },
     {
      "name": "Energy",
      "firstSeen": "2026-06-10",
-     "recent": 9,
-     "articles": 18,
-     "share": 0.643,
+     "recent": 10,
+     "articles": 19,
+     "share": 0.667,
      "adopt": 29
     },
     {
@@ -33590,7 +33590,7 @@
      "firstSeen": "2026-07-29",
      "recent": 3,
      "articles": 3,
-     "share": 0.214,
+     "share": 0.2,
      "adopt": 78
     }
    ],
@@ -33598,7 +33598,7 @@
    "origins": [
     [
      "US",
-     26
+     27
     ],
     [
      "IN",
@@ -33645,7 +33645,7 @@
        0,
        2,
        3,
-       6
+       7
       ]
      },
      {
@@ -33783,7 +33783,7 @@
      "steady",
      2,
      2,
-     69.4,
+     65.8,
      [
       {
        "title": "Video gamers give 110-MW Texas solar project a financing boost",
@@ -33804,9 +33804,32 @@
        "sector": "Energy"
       }
      ]
+    ],
+    [
+     "solar panel",
+     0.5,
+     "falling",
+     1,
+     2,
+     32.9,
+     [
+      {
+       "title": "How Engineers Are Reinventing the Wind Turbine",
+       "url": "https://oilprice.com/Alternative-Energy/Wind-Power/How-Engineers-Are-Reinventing-the-Wind-Turbine.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      }
+     ]
     ]
    ],
    "examples": [
+    {
+     "publisher": "OilPrice",
+     "title": "How Engineers Are Reinventing the Wind Turbine",
+     "url": "https://oilprice.com/Alternative-Energy/Wind-Power/How-Engineers-Are-Reinventing-the-Wind-Turbine.html",
+     "sector": "Energy",
+     "country": "US"
+    },
     {
      "publisher": "OilPrice",
      "title": "Why Southeast Asia's Clean Energy Surge Could Stall Before It Starts",
@@ -33827,13 +33850,6 @@
      "url": "https://manufacturing.economictimes.indiatimes.com/news/energy/juniper-green-energy-bags-230-mw-project-from-seci/133046604",
      "sector": "Industrials",
      "country": "IN"
-    },
-    {
-     "publisher": "Waste Dive",
-     "title": "What's next as Hawai'i enacts clean fuels program; Biogas news from Waga, Convertus",
-     "url": "https://www.wastedive.com/news/hawaii-enacts-clean-fuels-standard-biogas-news-waga-convertus-redtail/827285/",
-     "sector": "Waste & water",
-     "country": "US"
     }
    ],
    "daily": [
@@ -34195,11 +34211,11 @@
     },
     {
      "day": "2026-08-09",
-     "n": 0
+     "n": 1
     }
    ],
-   "specificity": 0.979,
-   "rank": 2.24
+   "specificity": 0.978,
+   "rank": 2.2
   },
   {
    "id": "electric-vehicle",
@@ -35992,7 +36008,7 @@
      "new",
      4,
      0,
-     374.7,
+     374.9,
      [
       {
        "title": "UK records strongest EV July to date",
@@ -37641,7 +37657,7 @@
      "new",
      4,
      0,
-     749.4,
+     749.8,
      [
       {
        "title": "Michelin to stay the course on India investments despite global cost pressures",
@@ -40357,7 +40373,7 @@
      "new",
      4,
      0,
-     416.3,
+     416.6,
      [
       {
        "title": "China Added More Nuclear Power In A Decade Than The Rest Of The World Combined",
@@ -41441,7 +41457,7 @@
      "new",
      3,
      0,
-     351.3,
+     351.5,
      [
       {
        "title": "Airlines Scramble for Jet Fuel as Hormuz Disruption Drags On",
@@ -44365,7 +44381,7 @@
      "new",
      4,
      0,
-     237.9,
+     238.0,
      [
       {
        "title": "DOE Approves Safety Design of Deep Fission's Underground SMR",
@@ -45567,7 +45583,7 @@
      "new",
      4,
      0,
-     374.7,
+     374.9,
      [
       {
        "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
