@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-10T18:04:25.588115+00:00",
+ "generated": "2026-08-10T18:18:24.447095+00:00",
  "prices": {
   "Autos": [
    {
@@ -736,7 +736,7 @@
    },
    {
     "day": "2026-08-10",
-    "close": 52.98
+    "close": 52.94
    }
   ],
   "Energy": [
@@ -982,7 +982,7 @@
    },
    {
     "day": "2026-08-10",
-    "close": 59.97
+    "close": 60.07
    }
   ],
   "Finance": [
@@ -1228,7 +1228,7 @@
    },
    {
     "day": "2026-08-10",
-    "close": 57.73
+    "close": 57.72
    }
   ],
   "Industrials": [
@@ -1474,7 +1474,7 @@
    },
    {
     "day": "2026-08-10",
-    "close": 185.06
+    "close": 184.88
    }
   ],
   "Technology": [
@@ -1966,7 +1966,7 @@
    },
    {
     "day": "2026-08-10",
-    "close": 44.3
+    "close": 44.37
    }
   ],
   "Utilities": [
@@ -2458,7 +2458,7 @@
    },
    {
     "day": "2026-08-10",
-    "close": 167.73
+    "close": 167.69
    }
   ],
   "Consumer": [
@@ -2704,14 +2704,14 @@
    },
    {
     "day": "2026-08-10",
-    "close": 119.27
+    "close": 119.33
    }
   ]
  },
  "coverage": [
   [
    "US",
-   6049
+   6051
   ],
   [
    "GB",
@@ -2955,6 +2955,12 @@
   {
    "articles_list": [
     {
+     "title": "Fluor targets energy over data centers",
+     "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
+     "publisher": "Construction Dive",
+     "sector": "Real estate"
+    },
+    {
      "title": "Healthcare job growth decelerated in July",
      "url": "https://www.healthcaredive.com/news/healthcare-job-growth-decelerated-in-july/827457/",
      "publisher": "Healthcare Dive",
@@ -2965,12 +2971,6 @@
      "url": "https://semiengineering.com/femtosecond-laser-process-targets-depth-controlled-4h-sic-wafer-slicing-texas-am-kimm-ust/",
      "publisher": "Semiconductor Engineering",
      "sector": "Technology"
-    },
-    {
-     "title": "Why Iran Just Replaced Its Security Chief Days After A Hardline Ultimatum",
-     "url": "https://oilprice.com/Geopolitics/Africa/Why-Iran-Just-Replaced-Its-Security-Chief-Days-After-A-Hardline-Ultimatum.html",
-     "publisher": "OilPrice",
-     "sector": "Energy"
     }
    ],
    "name": "Securities and Exchange Commission",
@@ -3195,6 +3195,12 @@
   {
    "articles_list": [
     {
+     "title": "Fluor targets energy over data centers",
+     "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
+     "publisher": "Construction Dive",
+     "sector": "Real estate"
+    },
+    {
      "title": "Secure development can help turn the tables as AI alters cyber landscape",
      "url": "https://www.cybersecuritydive.com/news/secure-development-ai-cyber-vulnerabilities-Black-Hat/827435/",
      "publisher": "Cybersecurity Dive",
@@ -3205,12 +3211,6 @@
      "url": "https://semiengineering.com/optimizing-chiplet-placement-and-interposer-footprint-for-2-5d-systems-astar/",
      "publisher": "Semiconductor Engineering",
      "sector": "Technology"
-    },
-    {
-     "title": "The Hormuz Crisis Has Forever Changed the Economics of Energy Security",
-     "url": "https://oilprice.com/Energy/Energy-General/The-Hormuz-Crisis-Has-Forever-Changed-the-Economics-of-Energy-Security.html",
-     "publisher": "OilPrice",
-     "sector": "Energy"
     }
    ],
    "name": "European Commission",
@@ -3869,6 +3869,13 @@
      "variants": [],
      "examples": [
       {
+       "publisher": "Renewable Energy World",
+       "title": "Case study: Solar on the reservoir? Engineering tank-mounted PV for municipal water systems",
+       "url": "https://www.renewableenergyworld.com/solar/case-study-solar-on-the-reservoir-engineering-tank-mounted-pv-for-municipal-water-systems/",
+       "sector": "Utilities",
+       "country": "US"
+      },
+      {
        "publisher": "Waste Management Review",
        "title": "Council pushing for old landfill to become renewable energy hub",
        "url": "https://wastemanagementreview.com.au/council-pushing-for-old-landfill-to-become-renewable-energy-hub/",
@@ -3879,13 +3886,6 @@
        "publisher": "The Elec",
        "title": "Delta X Expands 'ESS Production Platform' Model to Japan and India to Ride the AI Data Center Boom",
        "url": "https://www.thelec.net/news/articleView.html?idxno=12900",
-       "sector": "Technology",
-       "country": "KR"
-      },
-      {
-       "publisher": "The Elec",
-       "title": "LG Energy Solution Signs More Than 5 Trillion Won in LFP Cathode Supply Deals With China's Lopal Tech",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=12923",
        "sector": "Technology",
        "country": "KR"
       }
@@ -3962,6 +3962,13 @@
      ],
      "examples": [
       {
+       "publisher": "Construction Dive",
+       "title": "Fluor targets energy over data centers",
+       "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
+       "sector": "Real estate",
+       "country": "US"
+      },
+      {
        "publisher": "ESG Dive",
        "title": "Revamping legacy data centers could help meet AI's energy, load growth: Pado",
        "url": "https://www.esgdive.com/news/legacy-data-centers-could-help-ai-energy-load-growth-pado-ai/827288/",
@@ -3972,13 +3979,6 @@
        "publisher": "Data Center Dynamics",
        "title": "Energy Vault signs 1.25GW power supply deal with Texas data center developer",
        "url": "https://www.datacenterdynamics.com/en/news/energy-vault-signs-125gw-power-supply-deal-with-texas-data-center-developer/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Alabama city considers data center moratorium, could kill Edged project",
-       "url": "https://www.datacenterdynamics.com/en/news/alabama-city-considers-data-center-moratorium-could-kill-edged-project/",
        "sector": "Technology",
        "country": "US"
       }
@@ -4315,6 +4315,13 @@
      ],
      "examples": [
       {
+       "publisher": "Construction Dive",
+       "title": "Fluor targets energy over data centers",
+       "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
+       "sector": "Real estate",
+       "country": "US"
+      },
+      {
        "publisher": "ESG Dive",
        "title": "Revamping legacy data centers could help meet AI's energy, load growth: Pado",
        "url": "https://www.esgdive.com/news/legacy-data-centers-could-help-ai-energy-load-growth-pado-ai/827288/",
@@ -4325,13 +4332,6 @@
        "publisher": "Data Center Dynamics",
        "title": "Energy Vault signs 1.25GW power supply deal with Texas data center developer",
        "url": "https://www.datacenterdynamics.com/en/news/energy-vault-signs-125gw-power-supply-deal-with-texas-data-center-developer/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Alabama city considers data center moratorium, could kill Edged project",
-       "url": "https://www.datacenterdynamics.com/en/news/alabama-city-considers-data-center-moratorium-could-kill-edged-project/",
        "sector": "Technology",
        "country": "US"
       }
@@ -4377,6 +4377,13 @@
      "variants": [],
      "examples": [
       {
+       "publisher": "Renewable Energy World",
+       "title": "Case study: Solar on the reservoir? Engineering tank-mounted PV for municipal water systems",
+       "url": "https://www.renewableenergyworld.com/solar/case-study-solar-on-the-reservoir-engineering-tank-mounted-pv-for-municipal-water-systems/",
+       "sector": "Utilities",
+       "country": "US"
+      },
+      {
        "publisher": "Waste Management Review",
        "title": "Council pushing for old landfill to become renewable energy hub",
        "url": "https://wastemanagementreview.com.au/council-pushing-for-old-landfill-to-become-renewable-energy-hub/",
@@ -4387,13 +4394,6 @@
        "publisher": "The Elec",
        "title": "Delta X Expands 'ESS Production Platform' Model to Japan and India to Ride the AI Data Center Boom",
        "url": "https://www.thelec.net/news/articleView.html?idxno=12900",
-       "sector": "Technology",
-       "country": "KR"
-      },
-      {
-       "publisher": "The Elec",
-       "title": "LG Energy Solution Signs More Than 5 Trillion Won in LFP Cathode Supply Deals With China's Lopal Tech",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=12923",
        "sector": "Technology",
        "country": "KR"
       }
@@ -4540,6 +4540,13 @@
      ],
      "examples": [
       {
+       "publisher": "Construction Dive",
+       "title": "Fluor targets energy over data centers",
+       "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
+       "sector": "Real estate",
+       "country": "US"
+      },
+      {
        "publisher": "ESG Dive",
        "title": "Revamping legacy data centers could help meet AI's energy, load growth: Pado",
        "url": "https://www.esgdive.com/news/legacy-data-centers-could-help-ai-energy-load-growth-pado-ai/827288/",
@@ -4550,13 +4557,6 @@
        "publisher": "Data Center Dynamics",
        "title": "Energy Vault signs 1.25GW power supply deal with Texas data center developer",
        "url": "https://www.datacenterdynamics.com/en/news/energy-vault-signs-125gw-power-supply-deal-with-texas-data-center-developer/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Alabama city considers data center moratorium, could kill Edged project",
-       "url": "https://www.datacenterdynamics.com/en/news/alabama-city-considers-data-center-moratorium-could-kill-edged-project/",
        "sector": "Technology",
        "country": "US"
       }
@@ -4660,6 +4660,13 @@
      "variants": [],
      "examples": [
       {
+       "publisher": "Construction Dive",
+       "title": "Fluor targets energy over data centers",
+       "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
+       "sector": "Real estate",
+       "country": "US"
+      },
+      {
        "publisher": "Splash247",
        "title": "Cierco's Celtic Sea floating wind project gets green light",
        "url": "https://splash247.com/ciercos-celtic-sea-floating-wind-project-gets-green-light/",
@@ -4672,13 +4679,6 @@
        "url": "https://www.energylivenews.com/2026/08/10/heatwave-returns-as-drought-and-power-demand-pile-pressure-on-britain/",
        "sector": "Utilities",
        "country": "GB"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Rohm sees AI server demand lift first-quarter profit 4,825%",
-       "url": "https://www.digitimes.com/news/a20260806PD222/rohm-demand-profit-2026-revenue.html",
-       "sector": "Technology",
-       "country": "TW"
       }
      ]
     },
@@ -4790,6 +4790,13 @@
      ],
      "examples": [
       {
+       "publisher": "Construction Dive",
+       "title": "Fluor targets energy over data centers",
+       "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
+       "sector": "Real estate",
+       "country": "US"
+      },
+      {
        "publisher": "ESG Dive",
        "title": "Revamping legacy data centers could help meet AI's energy, load growth: Pado",
        "url": "https://www.esgdive.com/news/legacy-data-centers-could-help-ai-energy-load-growth-pado-ai/827288/",
@@ -4800,13 +4807,6 @@
        "publisher": "Data Center Dynamics",
        "title": "Energy Vault signs 1.25GW power supply deal with Texas data center developer",
        "url": "https://www.datacenterdynamics.com/en/news/energy-vault-signs-125gw-power-supply-deal-with-texas-data-center-developer/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Alabama city considers data center moratorium, could kill Edged project",
-       "url": "https://www.datacenterdynamics.com/en/news/alabama-city-considers-data-center-moratorium-could-kill-edged-project/",
        "sector": "Technology",
        "country": "US"
       }
@@ -4912,6 +4912,13 @@
      "variants": [],
      "examples": [
       {
+       "publisher": "Construction Dive",
+       "title": "Fluor targets energy over data centers",
+       "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
+       "sector": "Real estate",
+       "country": "US"
+      },
+      {
        "publisher": "Splash247",
        "title": "Cierco's Celtic Sea floating wind project gets green light",
        "url": "https://splash247.com/ciercos-celtic-sea-floating-wind-project-gets-green-light/",
@@ -4924,13 +4931,6 @@
        "url": "https://www.energylivenews.com/2026/08/10/heatwave-returns-as-drought-and-power-demand-pile-pressure-on-britain/",
        "sector": "Utilities",
        "country": "GB"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Rohm sees AI server demand lift first-quarter profit 4,825%",
-       "url": "https://www.digitimes.com/news/a20260806PD222/rohm-demand-profit-2026-revenue.html",
-       "sector": "Technology",
-       "country": "TW"
       }
      ]
     }
@@ -5074,6 +5074,13 @@
      ],
      "examples": [
       {
+       "publisher": "Construction Dive",
+       "title": "Fluor targets energy over data centers",
+       "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
+       "sector": "Real estate",
+       "country": "US"
+      },
+      {
        "publisher": "ESG Dive",
        "title": "Revamping legacy data centers could help meet AI's energy, load growth: Pado",
        "url": "https://www.esgdive.com/news/legacy-data-centers-could-help-ai-energy-load-growth-pado-ai/827288/",
@@ -5084,13 +5091,6 @@
        "publisher": "Data Center Dynamics",
        "title": "Energy Vault signs 1.25GW power supply deal with Texas data center developer",
        "url": "https://www.datacenterdynamics.com/en/news/energy-vault-signs-125gw-power-supply-deal-with-texas-data-center-developer/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Alabama city considers data center moratorium, could kill Edged project",
-       "url": "https://www.datacenterdynamics.com/en/news/alabama-city-considers-data-center-moratorium-could-kill-edged-project/",
        "sector": "Technology",
        "country": "US"
       }
@@ -5144,6 +5144,13 @@
      ],
      "examples": [
       {
+       "publisher": "Construction Dive",
+       "title": "Fluor targets energy over data centers",
+       "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
+       "sector": "Real estate",
+       "country": "US"
+      },
+      {
        "publisher": "ESG Dive",
        "title": "Revamping legacy data centers could help meet AI's energy, load growth: Pado",
        "url": "https://www.esgdive.com/news/legacy-data-centers-could-help-ai-energy-load-growth-pado-ai/827288/",
@@ -5154,13 +5161,6 @@
        "publisher": "Data Center Dynamics",
        "title": "Energy Vault signs 1.25GW power supply deal with Texas data center developer",
        "url": "https://www.datacenterdynamics.com/en/news/energy-vault-signs-125gw-power-supply-deal-with-texas-data-center-developer/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Alabama city considers data center moratorium, could kill Edged project",
-       "url": "https://www.datacenterdynamics.com/en/news/alabama-city-considers-data-center-moratorium-could-kill-edged-project/",
        "sector": "Technology",
        "country": "US"
       }
@@ -5845,6 +5845,13 @@
      "variants": [],
      "examples": [
       {
+       "publisher": "Renewable Energy World",
+       "title": "Case study: Solar on the reservoir? Engineering tank-mounted PV for municipal water systems",
+       "url": "https://www.renewableenergyworld.com/solar/case-study-solar-on-the-reservoir-engineering-tank-mounted-pv-for-municipal-water-systems/",
+       "sector": "Utilities",
+       "country": "US"
+      },
+      {
        "publisher": "Waste Management Review",
        "title": "Council pushing for old landfill to become renewable energy hub",
        "url": "https://wastemanagementreview.com.au/council-pushing-for-old-landfill-to-become-renewable-energy-hub/",
@@ -5855,13 +5862,6 @@
        "publisher": "The Elec",
        "title": "Delta X Expands 'ESS Production Platform' Model to Japan and India to Ride the AI Data Center Boom",
        "url": "https://www.thelec.net/news/articleView.html?idxno=12900",
-       "sector": "Technology",
-       "country": "KR"
-      },
-      {
-       "publisher": "The Elec",
-       "title": "LG Energy Solution Signs More Than 5 Trillion Won in LFP Cathode Supply Deals With China's Lopal Tech",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=12923",
        "sector": "Technology",
        "country": "KR"
       }
@@ -5912,6 +5912,13 @@
      "variants": [],
      "examples": [
       {
+       "publisher": "Renewable Energy World",
+       "title": "Case study: Solar on the reservoir? Engineering tank-mounted PV for municipal water systems",
+       "url": "https://www.renewableenergyworld.com/solar/case-study-solar-on-the-reservoir-engineering-tank-mounted-pv-for-municipal-water-systems/",
+       "sector": "Utilities",
+       "country": "US"
+      },
+      {
        "publisher": "Waste Management Review",
        "title": "Council pushing for old landfill to become renewable energy hub",
        "url": "https://wastemanagementreview.com.au/council-pushing-for-old-landfill-to-become-renewable-energy-hub/",
@@ -5922,13 +5929,6 @@
        "publisher": "The Elec",
        "title": "Delta X Expands 'ESS Production Platform' Model to Japan and India to Ride the AI Data Center Boom",
        "url": "https://www.thelec.net/news/articleView.html?idxno=12900",
-       "sector": "Technology",
-       "country": "KR"
-      },
-      {
-       "publisher": "The Elec",
-       "title": "LG Energy Solution Signs More Than 5 Trillion Won in LFP Cathode Supply Deals With China's Lopal Tech",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=12923",
        "sector": "Technology",
        "country": "KR"
       }
@@ -5975,6 +5975,13 @@
      ],
      "examples": [
       {
+       "publisher": "Construction Dive",
+       "title": "Fluor targets energy over data centers",
+       "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
+       "sector": "Real estate",
+       "country": "US"
+      },
+      {
        "publisher": "ESG Dive",
        "title": "Revamping legacy data centers could help meet AI's energy, load growth: Pado",
        "url": "https://www.esgdive.com/news/legacy-data-centers-could-help-ai-energy-load-growth-pado-ai/827288/",
@@ -5985,13 +5992,6 @@
        "publisher": "Data Center Dynamics",
        "title": "Energy Vault signs 1.25GW power supply deal with Texas data center developer",
        "url": "https://www.datacenterdynamics.com/en/news/energy-vault-signs-125gw-power-supply-deal-with-texas-data-center-developer/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Alabama city considers data center moratorium, could kill Edged project",
-       "url": "https://www.datacenterdynamics.com/en/news/alabama-city-considers-data-center-moratorium-could-kill-edged-project/",
        "sector": "Technology",
        "country": "US"
       }
@@ -6303,6 +6303,13 @@
      ],
      "examples": [
       {
+       "publisher": "Construction Dive",
+       "title": "Fluor targets energy over data centers",
+       "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
+       "sector": "Real estate",
+       "country": "US"
+      },
+      {
        "publisher": "ESG Dive",
        "title": "Revamping legacy data centers could help meet AI's energy, load growth: Pado",
        "url": "https://www.esgdive.com/news/legacy-data-centers-could-help-ai-energy-load-growth-pado-ai/827288/",
@@ -6313,13 +6320,6 @@
        "publisher": "Data Center Dynamics",
        "title": "Energy Vault signs 1.25GW power supply deal with Texas data center developer",
        "url": "https://www.datacenterdynamics.com/en/news/energy-vault-signs-125gw-power-supply-deal-with-texas-data-center-developer/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Alabama city considers data center moratorium, could kill Edged project",
-       "url": "https://www.datacenterdynamics.com/en/news/alabama-city-considers-data-center-moratorium-could-kill-edged-project/",
        "sector": "Technology",
        "country": "US"
       }
@@ -6502,6 +6502,13 @@
      ],
      "examples": [
       {
+       "publisher": "Construction Dive",
+       "title": "Fluor targets energy over data centers",
+       "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
+       "sector": "Real estate",
+       "country": "US"
+      },
+      {
        "publisher": "ESG Dive",
        "title": "Revamping legacy data centers could help meet AI's energy, load growth: Pado",
        "url": "https://www.esgdive.com/news/legacy-data-centers-could-help-ai-energy-load-growth-pado-ai/827288/",
@@ -6512,13 +6519,6 @@
        "publisher": "Data Center Dynamics",
        "title": "Energy Vault signs 1.25GW power supply deal with Texas data center developer",
        "url": "https://www.datacenterdynamics.com/en/news/energy-vault-signs-125gw-power-supply-deal-with-texas-data-center-developer/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Alabama city considers data center moratorium, could kill Edged project",
-       "url": "https://www.datacenterdynamics.com/en/news/alabama-city-considers-data-center-moratorium-could-kill-edged-project/",
        "sector": "Technology",
        "country": "US"
       }
@@ -7387,6 +7387,13 @@
      ],
      "examples": [
       {
+       "publisher": "Construction Dive",
+       "title": "Fluor targets energy over data centers",
+       "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
+       "sector": "Real estate",
+       "country": "US"
+      },
+      {
        "publisher": "ESG Dive",
        "title": "Revamping legacy data centers could help meet AI's energy, load growth: Pado",
        "url": "https://www.esgdive.com/news/legacy-data-centers-could-help-ai-energy-load-growth-pado-ai/827288/",
@@ -7397,13 +7404,6 @@
        "publisher": "Data Center Dynamics",
        "title": "Energy Vault signs 1.25GW power supply deal with Texas data center developer",
        "url": "https://www.datacenterdynamics.com/en/news/energy-vault-signs-125gw-power-supply-deal-with-texas-data-center-developer/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Alabama city considers data center moratorium, could kill Edged project",
-       "url": "https://www.datacenterdynamics.com/en/news/alabama-city-considers-data-center-moratorium-could-kill-edged-project/",
        "sector": "Technology",
        "country": "US"
       }
@@ -7487,6 +7487,13 @@
      ],
      "examples": [
       {
+       "publisher": "Construction Dive",
+       "title": "Fluor targets energy over data centers",
+       "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
+       "sector": "Real estate",
+       "country": "US"
+      },
+      {
        "publisher": "ESG Dive",
        "title": "Revamping legacy data centers could help meet AI's energy, load growth: Pado",
        "url": "https://www.esgdive.com/news/legacy-data-centers-could-help-ai-energy-load-growth-pado-ai/827288/",
@@ -7497,13 +7504,6 @@
        "publisher": "Data Center Dynamics",
        "title": "Energy Vault signs 1.25GW power supply deal with Texas data center developer",
        "url": "https://www.datacenterdynamics.com/en/news/energy-vault-signs-125gw-power-supply-deal-with-texas-data-center-developer/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Alabama city considers data center moratorium, could kill Edged project",
-       "url": "https://www.datacenterdynamics.com/en/news/alabama-city-considers-data-center-moratorium-could-kill-edged-project/",
        "sector": "Technology",
        "country": "US"
       }
@@ -7948,6 +7948,13 @@
      ],
      "examples": [
       {
+       "publisher": "Construction Dive",
+       "title": "Fluor targets energy over data centers",
+       "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
+       "sector": "Real estate",
+       "country": "US"
+      },
+      {
        "publisher": "ESG Dive",
        "title": "Revamping legacy data centers could help meet AI's energy, load growth: Pado",
        "url": "https://www.esgdive.com/news/legacy-data-centers-could-help-ai-energy-load-growth-pado-ai/827288/",
@@ -7958,13 +7965,6 @@
        "publisher": "Data Center Dynamics",
        "title": "Energy Vault signs 1.25GW power supply deal with Texas data center developer",
        "url": "https://www.datacenterdynamics.com/en/news/energy-vault-signs-125gw-power-supply-deal-with-texas-data-center-developer/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Alabama city considers data center moratorium, could kill Edged project",
-       "url": "https://www.datacenterdynamics.com/en/news/alabama-city-considers-data-center-moratorium-could-kill-edged-project/",
        "sector": "Technology",
        "country": "US"
       }
@@ -8152,6 +8152,13 @@
      ],
      "examples": [
       {
+       "publisher": "Construction Dive",
+       "title": "Fluor targets energy over data centers",
+       "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
+       "sector": "Real estate",
+       "country": "US"
+      },
+      {
        "publisher": "ESG Dive",
        "title": "Revamping legacy data centers could help meet AI's energy, load growth: Pado",
        "url": "https://www.esgdive.com/news/legacy-data-centers-could-help-ai-energy-load-growth-pado-ai/827288/",
@@ -8162,13 +8169,6 @@
        "publisher": "Data Center Dynamics",
        "title": "Energy Vault signs 1.25GW power supply deal with Texas data center developer",
        "url": "https://www.datacenterdynamics.com/en/news/energy-vault-signs-125gw-power-supply-deal-with-texas-data-center-developer/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Alabama city considers data center moratorium, could kill Edged project",
-       "url": "https://www.datacenterdynamics.com/en/news/alabama-city-considers-data-center-moratorium-could-kill-edged-project/",
        "sector": "Technology",
        "country": "US"
       }
@@ -8222,6 +8222,13 @@
      ],
      "examples": [
       {
+       "publisher": "Construction Dive",
+       "title": "Fluor targets energy over data centers",
+       "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
+       "sector": "Real estate",
+       "country": "US"
+      },
+      {
        "publisher": "ESG Dive",
        "title": "Revamping legacy data centers could help meet AI's energy, load growth: Pado",
        "url": "https://www.esgdive.com/news/legacy-data-centers-could-help-ai-energy-load-growth-pado-ai/827288/",
@@ -8232,13 +8239,6 @@
        "publisher": "Data Center Dynamics",
        "title": "Energy Vault signs 1.25GW power supply deal with Texas data center developer",
        "url": "https://www.datacenterdynamics.com/en/news/energy-vault-signs-125gw-power-supply-deal-with-texas-data-center-developer/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Alabama city considers data center moratorium, could kill Edged project",
-       "url": "https://www.datacenterdynamics.com/en/news/alabama-city-considers-data-center-moratorium-could-kill-edged-project/",
        "sector": "Technology",
        "country": "US"
       }
@@ -8292,6 +8292,13 @@
      ],
      "examples": [
       {
+       "publisher": "Construction Dive",
+       "title": "Fluor targets energy over data centers",
+       "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
+       "sector": "Real estate",
+       "country": "US"
+      },
+      {
        "publisher": "ESG Dive",
        "title": "Revamping legacy data centers could help meet AI's energy, load growth: Pado",
        "url": "https://www.esgdive.com/news/legacy-data-centers-could-help-ai-energy-load-growth-pado-ai/827288/",
@@ -8302,13 +8309,6 @@
        "publisher": "Data Center Dynamics",
        "title": "Energy Vault signs 1.25GW power supply deal with Texas data center developer",
        "url": "https://www.datacenterdynamics.com/en/news/energy-vault-signs-125gw-power-supply-deal-with-texas-data-center-developer/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Alabama city considers data center moratorium, could kill Edged project",
-       "url": "https://www.datacenterdynamics.com/en/news/alabama-city-considers-data-center-moratorium-could-kill-edged-project/",
        "sector": "Technology",
        "country": "US"
       }
@@ -8362,6 +8362,13 @@
      ],
      "examples": [
       {
+       "publisher": "Construction Dive",
+       "title": "Fluor targets energy over data centers",
+       "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
+       "sector": "Real estate",
+       "country": "US"
+      },
+      {
        "publisher": "ESG Dive",
        "title": "Revamping legacy data centers could help meet AI's energy, load growth: Pado",
        "url": "https://www.esgdive.com/news/legacy-data-centers-could-help-ai-energy-load-growth-pado-ai/827288/",
@@ -8372,13 +8379,6 @@
        "publisher": "Data Center Dynamics",
        "title": "Energy Vault signs 1.25GW power supply deal with Texas data center developer",
        "url": "https://www.datacenterdynamics.com/en/news/energy-vault-signs-125gw-power-supply-deal-with-texas-data-center-developer/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Alabama city considers data center moratorium, could kill Edged project",
-       "url": "https://www.datacenterdynamics.com/en/news/alabama-city-considers-data-center-moratorium-could-kill-edged-project/",
        "sector": "Technology",
        "country": "US"
       }
@@ -8702,6 +8702,13 @@
      ],
      "examples": [
       {
+       "publisher": "Construction Dive",
+       "title": "Fluor targets energy over data centers",
+       "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
+       "sector": "Real estate",
+       "country": "US"
+      },
+      {
        "publisher": "ESG Dive",
        "title": "Revamping legacy data centers could help meet AI's energy, load growth: Pado",
        "url": "https://www.esgdive.com/news/legacy-data-centers-could-help-ai-energy-load-growth-pado-ai/827288/",
@@ -8712,13 +8719,6 @@
        "publisher": "Data Center Dynamics",
        "title": "Energy Vault signs 1.25GW power supply deal with Texas data center developer",
        "url": "https://www.datacenterdynamics.com/en/news/energy-vault-signs-125gw-power-supply-deal-with-texas-data-center-developer/",
-       "sector": "Technology",
-       "country": "US"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Alabama city considers data center moratorium, could kill Edged project",
-       "url": "https://www.datacenterdynamics.com/en/news/alabama-city-considers-data-center-moratorium-could-kill-edged-project/",
        "sector": "Technology",
        "country": "US"
       }
@@ -27174,8 +27174,8 @@
   ]
  },
  "daysCollected": 105,
- "articlesStored": 7670,
- "articlesLive": 3896,
+ "articlesStored": 7672,
+ "articlesLive": 3898,
  "windowDays": 90,
  "terms": [
   {
@@ -27185,10 +27185,10 @@
    "display": true,
    "kind": "concept",
    "sectorCount": 6,
-   "effectiveSectors": 3.15,
+   "effectiveSectors": 3.17,
    "newestSector": "Supply chain",
    "daysSinceNewestSector": 10,
-   "articles14d": 220,
+   "articles14d": 221,
    "articlesPrior14d": 31,
    "publishers": 25,
    "sectors": [
@@ -27197,7 +27197,7 @@
      "firstSeen": "2026-05-18",
      "recent": 33,
      "articles": 51,
-     "share": 0.153,
+     "share": 0.152,
      "adopt": 5
     },
     {
@@ -27205,15 +27205,15 @@
      "firstSeen": "2026-05-18",
      "recent": 149,
      "articles": 185,
-     "share": 0.69,
+     "share": 0.687,
      "adopt": 5
     },
     {
      "name": "Real estate",
      "firstSeen": "2026-05-19",
-     "recent": 11,
-     "articles": 14,
-     "share": 0.051,
+     "recent": 12,
+     "articles": 15,
+     "share": 0.055,
      "adopt": 6
     },
     {
@@ -27229,7 +27229,7 @@
      "firstSeen": "2026-07-13",
      "recent": 9,
      "articles": 11,
-     "share": 0.042,
+     "share": 0.041,
      "adopt": 61
     },
     {
@@ -27245,7 +27245,7 @@
    "origins": [
     [
      "US",
-     250
+     251
     ],
     [
      "TW",
@@ -27354,7 +27354,7 @@
        0,
        0,
        6,
-       5
+       6
       ]
      },
      {
@@ -27492,7 +27492,7 @@
      "new",
      6,
      0,
-     27.5,
+     27.4,
      [
       {
        "title": "Nvidia invests up to US$3B in Lancium as energy becomes new AI bottleneck",
@@ -27520,7 +27520,7 @@
      "new",
      3,
      0,
-     18.4,
+     18.3,
      [
       {
        "title": "LS Electric, GS E&C Partner on DC Power Distribution for AI Data Centers",
@@ -27548,8 +27548,14 @@
      "new",
      5,
      0,
-     18.4,
+     18.3,
      [
+      {
+       "title": "Fluor targets energy over data centers",
+       "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
+       "publisher": "Construction Dive",
+       "sector": "Real estate"
+      },
       {
        "title": "Delta X Expands 'ESS Production Platform' Model to Japan and India to Ride the AI Data Center Boom",
        "url": "https://www.thelec.net/news/articleView.html?idxno=12900",
@@ -27561,12 +27567,6 @@
        "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
        "publisher": "OilPrice",
        "sector": "Energy"
-      },
-      {
-       "title": "Big Tech Turns to Fuel Cells to Power the AI Boom",
-       "url": "https://oilprice.com/Alternative-Energy/Fuel-Cells/Big-Tech-Turns-to-Fuel-Cells-to-Power-the-AI-Boom.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
       }
      ]
     ],
@@ -27576,7 +27576,7 @@
      "new",
      3,
      0,
-     13.8,
+     13.7,
      [
       {
        "title": "AI fills India's data centers as inference moves to production",
@@ -27651,6 +27651,13 @@
    ],
    "examples": [
     {
+     "publisher": "Construction Dive",
+     "title": "Fluor targets energy over data centers",
+     "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
+     "sector": "Real estate",
+     "country": "US"
+    },
+    {
      "publisher": "ESG Dive",
      "title": "Revamping legacy data centers could help meet AI's energy, load growth: Pado",
      "url": "https://www.esgdive.com/news/legacy-data-centers-could-help-ai-energy-load-growth-pado-ai/827288/",
@@ -27668,13 +27675,6 @@
      "publisher": "Data Center Dynamics",
      "title": "Alabama city considers data center moratorium, could kill Edged project",
      "url": "https://www.datacenterdynamics.com/en/news/alabama-city-considers-data-center-moratorium-could-kill-edged-project/",
-     "sector": "Technology",
-     "country": "US"
-    },
-    {
-     "publisher": "Data Center Dynamics",
-     "title": "Data center opens on tribal lands in California to support fiber network",
-     "url": "https://www.datacenterdynamics.com/en/news/data-center-opens-on-tribal-lands-in-california-to-support-fiber-network/",
      "sector": "Technology",
      "country": "US"
     }
@@ -28038,15 +28038,15 @@
     },
     {
      "day": "2026-08-10",
-     "n": 31
+     "n": 32
     }
    ],
    "variants": [
     "intelligence data center",
     "grid operator"
    ],
-   "specificity": 0.757,
-   "rank": 2.65
+   "specificity": 0.756,
+   "rank": 2.67
   },
   {
    "id": "supply-chain",
@@ -29885,7 +29885,7 @@
      "new",
      6,
      0,
-     75.2,
+     75.3,
      [
       {
        "title": "Trump Faces Growing Pressure to Restrict U.S. Oil Exports",
@@ -30519,7 +30519,7 @@
      "new",
      4,
      0,
-     73.4,
+     73.5,
      [
       {
        "title": "How the UAE Has Kept Its Oil Flowing Through Hormuz",
@@ -31146,7 +31146,7 @@
      "new",
      3,
      0,
-     86.5,
+     86.6,
      [
       {
        "title": "Base Power raises another US$1 billion in Series D financing for US residential BESS",
@@ -31793,7 +31793,7 @@
      "new",
      4,
      0,
-     86.8,
+     86.9,
      [
       {
        "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
@@ -32467,7 +32467,7 @@
      "new",
      5,
      0,
-     93.0,
+     93.1,
      [
       {
        "title": "Oil Prices Rise as Iran Hardens Hormuz Demands",
@@ -33696,7 +33696,7 @@
      "new",
      5,
      0,
-     320.5,
+     320.6,
      [
       {
        "title": "Pacific Halibut Fisheries of the West Coast; Inseason Action for the 2026 Area 2A Pacific Halibut Directed Commercial Fishery",
@@ -33724,7 +33724,7 @@
      "new",
      5,
      0,
-     240.4,
+     240.5,
      [
       {
        "title": "Most VLCC loadings directed northbound in Red Sea: DHT Holdings",
@@ -33747,40 +33747,12 @@
      ]
     ],
     [
-     "mandeb strait",
-     0.67,
-     "new",
-     4,
-     0,
-     192.3,
-     [
-      {
-       "title": "Hormuz Bottleneck Pushes Indian Refiners Toward West African Grades",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Bottleneck-Pushes-Indian-Refiners-Toward-West-African-Grades.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      },
-      {
-       "title": "No charge for Bab al-Mandab Strait transits, Houthis tell The Loadstar",
-       "url": "https://theloadstar.com/no-charge-for-bab-al-mandab-strait-transits-houthis-tell-the-loadstar/",
-       "publisher": "The Loadstar",
-       "sector": "Supply chain"
-      },
-      {
-       "title": "Tanker Traffic Remains Subdued Despite Trump's Talk of Peace",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Tanker-Traffic-Remains-Subdued-Despite-Trumps-Talk-of-Peace.html",
-       "publisher": "OilPrice",
-       "sector": "Energy"
-      }
-     ]
-    ],
-    [
      "vessel traffic",
      0.5,
      "new",
      3,
      0,
-     192.3,
+     192.4,
      [
       {
        "title": "Reliance Industries books supertanker at record $23-25 million freight to lift Iraqi crude",
@@ -33797,6 +33769,34 @@
       {
        "title": "Shipping Through Hormuz Drops Sharply as Tensions Rise",
        "url": "https://oilprice.com/Latest-Energy-News/World-News/Shipping-Through-Hormuz-Drops-Sharply-as-Tensions-Rise.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      }
+     ]
+    ],
+    [
+     "mandeb strait",
+     0.67,
+     "new",
+     4,
+     0,
+     192.4,
+     [
+      {
+       "title": "Hormuz Bottleneck Pushes Indian Refiners Toward West African Grades",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Bottleneck-Pushes-Indian-Refiners-Toward-West-African-Grades.html",
+       "publisher": "OilPrice",
+       "sector": "Energy"
+      },
+      {
+       "title": "No charge for Bab al-Mandab Strait transits, Houthis tell The Loadstar",
+       "url": "https://theloadstar.com/no-charge-for-bab-al-mandab-strait-transits-houthis-tell-the-loadstar/",
+       "publisher": "The Loadstar",
+       "sector": "Supply chain"
+      },
+      {
+       "title": "Tanker Traffic Remains Subdued Despite Trump's Talk of Peace",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Tanker-Traffic-Remains-Subdued-Despite-Trumps-Talk-of-Peace.html",
        "publisher": "OilPrice",
        "sector": "Energy"
       }
@@ -35654,6 +35654,13 @@
    ],
    "examples": [
     {
+     "publisher": "Renewable Energy World",
+     "title": "Case study: Solar on the reservoir? Engineering tank-mounted PV for municipal water systems",
+     "url": "https://www.renewableenergyworld.com/solar/case-study-solar-on-the-reservoir-engineering-tank-mounted-pv-for-municipal-water-systems/",
+     "sector": "Utilities",
+     "country": "US"
+    },
+    {
      "publisher": "Waste Management Review",
      "title": "Council pushing for old landfill to become renewable energy hub",
      "url": "https://wastemanagementreview.com.au/council-pushing-for-old-landfill-to-become-renewable-energy-hub/",
@@ -35673,13 +35680,6 @@
      "url": "https://www.thelec.net/news/articleView.html?idxno=12923",
      "sector": "Technology",
      "country": "KR"
-    },
-    {
-     "publisher": "Energy Storage News",
-     "title": "Spanish government awards \u20ac360 million for co-located battery storage projects",
-     "url": "https://www.energy-storage.news/spanish-government-awards-e360-million-for-co-located-battery-storage-projects/",
-     "sector": "Utilities",
-     "country": "GB"
     }
    ],
    "daily": [
@@ -36780,7 +36780,7 @@
      "new",
      4,
      0,
-     403.8,
+     404.0,
      [
       {
        "title": "AI boom puts shipowners in race with tech giants for engines",
@@ -36802,7 +36802,7 @@
      "new",
      4,
      0,
-     95.0,
+     95.1,
      [
       {
        "title": "AI boom puts shipowners in race with tech giants for engines",
@@ -37859,7 +37859,7 @@
      "new",
      4,
      0,
-     403.8,
+     404.0,
      [
       {
        "title": "Black Sea drone strikes send CPC tanker rates to $400,000 a day",
@@ -37887,7 +37887,7 @@
      "new",
      6,
      0,
-     346.1,
+     346.3,
      [
       {
        "title": "Kazakhstan Weighs New Routes as Drone Strikes Squeeze Black Sea Oil Exports",
@@ -37915,7 +37915,7 @@
      "new",
      4,
      0,
-     230.7,
+     230.9,
      [
       {
        "title": "Kazakhstan Weighs New Routes as Drone Strikes Squeeze Black Sea Oil Exports",
@@ -38459,7 +38459,7 @@
      "new",
      4,
      0,
-     299.1,
+     299.3,
      [
       {
        "title": "UK records strongest EV July to date",
@@ -38487,7 +38487,7 @@
      "new",
      3,
      0,
-     269.2,
+     269.3,
      [
       {
        "title": "Toyota to join Volvo, Daimler heavy-duty fuel-cell joint venture",
@@ -42768,7 +42768,7 @@
      "new",
      4,
      0,
-     316.7,
+     316.9,
      [
       {
        "title": "China Added More Nuclear Power In A Decade Than The Rest Of The World Combined",
@@ -42790,7 +42790,7 @@
      "new",
      4,
      0,
-     237.5,
+     237.6,
      [
       {
        "title": "AI boom puts shipowners in race with tech giants for engines",
@@ -42812,7 +42812,7 @@
      "new",
      3,
      0,
-     142.5,
+     142.6,
      [
       {
        "title": "HD Hydrogen Completes SOFC Mass Production System",
@@ -42834,7 +42834,7 @@
      "new",
      4,
      0,
-     95.0,
+     95.1,
      [
       {
        "title": "AI boom puts shipowners in race with tech giants for engines",
@@ -43492,7 +43492,7 @@
      "new",
      3,
      0,
-     123.6,
+     123.7,
      [
       {
        "title": "Ukrainian Drone Strike Kills 12 in Major Attack on Russian Refining Hub",
@@ -44088,7 +44088,7 @@
      "new",
      4,
      0,
-     323.0,
+     323.2,
      [
       {
        "title": "Europe's Next Energy Crisis Won't Be a War, It'll Be Peak Oil",
@@ -46176,7 +46176,7 @@
      "new",
      6,
      0,
-     346.1,
+     346.3,
      [
       {
        "title": "Kazakhstan Weighs New Routes as Drone Strikes Squeeze Black Sea Oil Exports",
@@ -46204,7 +46204,7 @@
      "new",
      3,
      0,
-     123.6,
+     123.7,
      [
       {
        "title": "Ukrainian Drone Strike Kills 12 in Major Attack on Russian Refining Hub",
@@ -46752,6 +46752,13 @@
    "cooc": [],
    "examples": [
     {
+     "publisher": "Construction Dive",
+     "title": "Fluor targets energy over data centers",
+     "url": "https://www.constructiondive.com/news/fluor-targets-energy-data-centers-earnings-ceo/827465/",
+     "sector": "Real estate",
+     "country": "US"
+    },
+    {
      "publisher": "Splash247",
      "title": "Cierco's Celtic Sea floating wind project gets green light",
      "url": "https://splash247.com/ciercos-celtic-sea-floating-wind-project-gets-green-light/",
@@ -46771,13 +46778,6 @@
      "url": "https://www.digitimes.com/news/a20260806PD222/rohm-demand-profit-2026-revenue.html",
      "sector": "Technology",
      "country": "TW"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
-     "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
-     "sector": "Energy",
-     "country": "US"
     }
    ],
    "daily": [
@@ -47303,7 +47303,7 @@
      "new",
      3,
      0,
-     605.7,
+     606.0,
      [
       {
        "title": "Michelin to stay the course on India investments despite global cost pressures",
@@ -48414,7 +48414,7 @@
      "new",
      5,
      0,
-     80.1,
+     80.2,
      [
       {
        "title": "US announces US$2bn investment in critical minerals supply chains",
@@ -50208,7 +50208,7 @@
      "new",
      4,
      0,
-     207.1,
+     207.2,
      [
       {
        "title": "DOE Approves Safety Design of Deep Fission's Underground SMR",
@@ -50236,7 +50236,7 @@
      "steady",
      2,
      2,
-     103.5,
+     103.6,
      [
       {
        "title": "China Added More Nuclear Power In A Decade Than The Rest Of The World Combined",
@@ -51434,7 +51434,7 @@
      "steady",
      2,
      2,
-     288.4,
+     288.6,
      [
       {
        "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
