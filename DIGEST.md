@@ -1,12 +1,12 @@
 # Crosstalk — week ending 10 August 2026
 
-*7,672 articles over 105 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*7,675 articles over 105 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
 **supply chain** — now in 7 sectors. **Utilities** picked it up 7d ago; it was first seen in supply chain coverage on 13 May 2026.
+  - [US container imports rise in July despite ongoing trade uncertainty](https://container-news.com/us-container-imports-rise-in-july-despite-ongoing-trade-uncertainty/) · Container News · supply chain
   - [US announces US$2bn investment in critical minerals supply chains](https://www.logisticsmanager.com/us-announces-us2bn-investment-in-critical-minerals-supply-chains/) · Logistics Manager · supply chain
-  - [Clorox expects $200M inflation hit, supply chain costs a factor](https://www.supplychaindive.com/news/clorox-expects-200m-inflation-hit-supply-chain-costs-a-factor/827252/) · Supply Chain Dive · supply chain
 
 **artificial intelligence** — now in 7 sectors. **Utilities** picked it up 7d ago; it was first seen in technology coverage on 31 May 2026.
   - [While layoffs slow overall, job losses in tech soar](https://www.hrdive.com/news/layoffs-slow-hiring-speeds-up-and-the-tech-sector-suffers-most/827425/) · HR Dive · labor
@@ -17,8 +17,8 @@
   - [PPL-Blackstone joint venture secures 5 GW of gas turbines for data centers in Pennsylvania](https://www.utilitydive.com/news/ppl-blackstone-joint-venture-secures-5-gw-of-gas-turbines-for-data-centers/827408/) · Utility Dive · utilities
 
 **energy infrastructure** — now in 3 sectors. **Technology** picked it up 1d ago; it was first seen in energy coverage on 27 July 2026.
-  - [Russian agency gears up for regular NSR voyages](https://theloadstar.com/russian-agency-gears-up-for-regular-nsr-voyages/) · The Loadstar · supply chain
   - [Ukraine's Drone War Is Breaking Russia's Fuel Grip on Central Asia](https://oilprice.com/Energy/Energy-General/Ukraines-Drone-War-Is-Breaking-Russias-Fuel-Grip-on-Central-Asia.html) · OilPrice · energy
+  - [Council pushing for old landfill to become renewable energy hub](https://wastemanagementreview.com.au/council-pushing-for-old-landfill-to-become-renewable-energy-hub/) · Waste Management Review · waste & water
 
 **offshore wind** — now in 3 sectors. **Supply chain** picked it up 3d ago; it was first seen in energy coverage on 17 June 2026.
   - [Cierco's Celtic Sea floating wind project gets green light](https://splash247.com/ciercos-celtic-sea-floating-wind-project-gets-green-light/) · Splash247 · supply chain
@@ -41,7 +41,7 @@
 | phrase | sectors | articles | vs prior fortnight |
 |---|---|---|---|
 | artificial intelligence | 7 | 83 | 16.6× |
-| supply chain | 7 | 87 | 7.2× |
+| supply chain | 7 | 88 | 7.3× |
 | data center | 6 | 221 | 7.1× |
 | critical mineral | 3 | 63 | 4.2× |
 | power plant | 2 | 27 | 3.9× |
