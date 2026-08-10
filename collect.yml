@@ -1,0 +1,96 @@
+name: collect
+
+on:
+  schedule:
+    - cron: "23 */6 * * *"
+  workflow_dispatch:
+    inputs:
+      backfill_weeks:
+        description: "Weeks of GDELT history to pull (0 = normal run)"
+        required: false
+        default: "0"
+
+permissions:
+  contents: write
+
+# Shared with the edgar workflow so the two never commit at once. The cost is
+# that a stuck run blocks the queue, which is why the timeout above is short.
+concurrency:
+  group: crosstalk-write
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+
+      - name: Backfill (only when you ask for it)
+        if: github.event.inputs.backfill_weeks != '0' && github.event.inputs.backfill_weeks != ''
+        env:
+          NEWSAPI_AI_KEY: ${{ secrets.NEWSAPI_AI_KEY }}
+        run: python3 collect.py --backfill --weeks ${{ github.event.inputs.backfill_weeks }}
+
+      # Prices are context, not a dependency. A failure here must never stop
+      # the article collection, which is the actual product.
+      - name: Sector prices
+        continue-on-error: true
+        env:
+          TWELVEDATA_KEY: ${{ secrets.TWELVEDATA_KEY }}
+          ALPHAVANTAGE_KEY: ${{ secrets.ALPHAVANTAGE_KEY }}
+        run: python3 prices.py
+
+      - name: Collect
+        env:
+          NEWSAPI_AI_KEY: ${{ secrets.NEWSAPI_AI_KEY }}
+        run: python3 collect.py 2>&1 | tee run.txt
+
+      - name: Report
+        if: always()
+        run: |
+          {
+            echo "## Crosstalk collection"
+            echo '```'
+            tail -40 run.txt
+            echo '```'
+          } >> $GITHUB_STEP_SUMMARY
+          python3 - <<'PY' >> $GITHUB_STEP_SUMMARY || true
+          import json
+          d = json.load(open("data.json"))
+          print(f"\n**{d['articlesStored']}** articles over **{d['daysCollected']}** days "
+                f"({d.get('articlesLive','?')} live)\n")
+          print("| phrase | sectors | direction | newest |")
+          print("|---|---|---|---|")
+          for t in d["terms"][:15]:
+              print(f"| {t['term']} | {t['sectorCount']} | {t['direction']} | "
+                    f"{t['newestSector']} ({t['daysSinceNewestSector']}d) |")
+          PY
+
+      - name: Save
+        run: |
+          git config user.name  "crosstalk-collector"
+          git config user.email "collector@users.noreply.github.com"
+          git add chorus.db data.json DIGEST.md
+          git diff --staged --quiet && echo "nothing changed" && exit 0
+          git commit -m "collect $(date -u +'%Y-%m-%d %H:%M')"
+          if git push; then
+            echo "Saved."
+            exit 0
+          fi
+          echo "Push rejected. Checking whether the remote moved..."
+          git fetch origin main
+          BEHIND=$(git rev-list --count HEAD..origin/main)
+          if [ "$BEHIND" -gt 0 ]; then
+            echo "::error::PUSH REJECTED — another workflow committed while this one ran"
+            echo "::error::($BEHIND commits ahead). This run's data was NOT saved."
+            echo "::error::Re-run it; the workflows now share a concurrency group so"
+            echo "::error::they should no longer overlap."
+          else
+            echo "::error::PUSH DENIED and the remote has not moved, so this is"
+            echo "::error::permissions. Settings > Actions > General > Workflow"
+            echo "::error::permissions > Read and write permissions > Save."
+          fi
+          exit 1
