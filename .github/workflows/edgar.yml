@@ -36,6 +36,11 @@ jobs:
     timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
+
+      - name: Fetch the database
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh release download database --pattern chorus.db --clobber || true
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
 
@@ -60,12 +65,18 @@ jobs:
         run: |
           { echo "## EDGAR"; echo '```'; tail -60 edgar.txt; echo '```'; } >> $GITHUB_STEP_SUMMARY
 
+      - name: Store the database
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          test -f chorus.db || exit 0
+          gh release upload database chorus.db --clobber
+
       - name: Save
         if: github.event.inputs.mode == 'build'
         run: |
           git config user.name  "crosstalk-collector"
           git config user.email "collector@users.noreply.github.com"
-          git add chorus.db
           git diff --staged --quiet && echo "nothing new" && exit 0
           git commit -m "edgar filing history $(date -u +'%Y-%m-%d')"
           git push
