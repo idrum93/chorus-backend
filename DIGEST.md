@@ -1,6 +1,6 @@
 # Crosstalk — week ending 10 August 2026
 
-*7,663 articles over 105 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*7,670 articles over 105 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
@@ -13,8 +13,8 @@
   - [Interview with Peter Mantel, Chief Commercial Officer at Theyr: The Next Evolution of Voyage Optimisation](https://container-news.com/interview-with-peter-mantel-chief-commercial-officer-at-theyr-the-next-evolution-of-voyage-optimisation/) · Container News · supply chain
 
 **joint venture** — now in 5 sectors. **Supply chain** picked it up 5d ago; it was first seen in real estate coverage on 16 June 2026.
+  - [GM and SAIC Motor extend China joint venture through 2047](https://www.wardsauto.com/news/gm-and-saic-motor-extend-china-joint-venture-through-2047/827354/) · Automotive Dive · autos
   - [PPL-Blackstone joint venture secures 5 GW of gas turbines for data centers in Pennsylvania](https://www.utilitydive.com/news/ppl-blackstone-joint-venture-secures-5-gw-of-gas-turbines-for-data-centers/827408/) · Utility Dive · utilities
-  - [Sony, TSMC to spend US$6.3 billion on Japan image sensor venture, Nikkei says](https://www.digitimes.com/news/a20260810VL211/sony-tsmc-sensor-nikkei-production.html) · DigiTimes Asia · technology
 
 **energy infrastructure** — now in 3 sectors. **Technology** picked it up 1d ago; it was first seen in energy coverage on 27 July 2026.
   - [Russian agency gears up for regular NSR voyages](https://theloadstar.com/russian-agency-gears-up-for-regular-nsr-voyages/) · The Loadstar · supply chain
