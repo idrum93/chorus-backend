@@ -28,6 +28,18 @@ jobs:
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
 
+      - name: Fetch the database
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if gh release download database --pattern chorus.db --clobber 2>/dev/null; then
+            echo "Database restored: $(du -h chorus.db | cut -f1)"
+          elif [ -f chorus.db ]; then
+            echo "No release yet — using the copy still in the repository."
+          else
+            echo "No database anywhere. Starting a fresh one."
+          fi
+
       - name: Backfill (only when you ask for it)
         if: github.event.inputs.backfill_weeks != '0' && github.event.inputs.backfill_weeks != ''
         env:
@@ -69,11 +81,22 @@ jobs:
                     f"{t['newestSector']} ({t['daysSinceNewestSector']}d) |")
           PY
 
+      - name: Store the database
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          test -f chorus.db || { echo "::error::no database to store"; exit 1; }
+          gh release view database >/dev/null 2>&1 || \
+            gh release create database --title "Database" --notes \
+              "Working database. Replaced by each collection run; not a release of the code."
+          gh release upload database chorus.db --clobber
+          echo "Stored $(du -h chorus.db | cut -f1) as a release asset."
+
       - name: Save
         run: |
           git config user.name  "crosstalk-collector"
           git config user.email "collector@users.noreply.github.com"
-          git add chorus.db data.json DIGEST.md
+          git add data.json DIGEST.md
           git diff --staged --quiet && echo "nothing changed" && exit 0
           git commit -m "collect $(date -u +'%Y-%m-%d %H:%M')"
           if git push; then
