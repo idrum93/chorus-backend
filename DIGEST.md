@@ -1,6 +1,6 @@
 # Crosstalk — week ending 11 August 2026
 
-*8,189 articles over 107 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*8,198 articles over 107 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
@@ -13,8 +13,8 @@
   - [Ukraine's Drone War Is Breaking Russia's Fuel Grip on Central Asia](https://oilprice.com/Energy/Energy-General/Ukraines-Drone-War-Is-Breaking-Russias-Fuel-Grip-on-Central-Asia.html) · OilPrice · energy
 
 **offshore wind** — now in 3 sectors. **Supply chain** picked it up 4d ago; it was first seen in energy coverage on 17 June 2026.
+  - [ABB to power Allseas heavy transport vessel for ⼀offshore wind⼁ operations](https://container-news.com/abb-to-power-allseas-heavy-transport-vessel-for-offshore-wind-operations/) · Container News · supply chain
   - [Taiwan's ⼀offshore wind⼁ project secures $1.7bn financing](https://splash247.com/taiwans-offshore-wind-project-secures-1-7bn-financing/) · Splash247 · supply chain
-  - [Trump's war on ⼀offshore wind⼁ is robbing a generation of workers](https://www.canarymedia.com/articles/offshore-wind/trump-offshore-wind-robbing-workers) · Canary Media · energy
 
 **energy storage** — now in 3 sectors. **Technology** picked it up 7d ago; it was first seen in energy coverage on 18 June 2026.
   - [Market intelligence, innovation, and trust: The manufacturer's new playbook for staying ahead in Europe's storage market](https://www.pv-magazine.com/2026/08/11/market-intelligence-innovation-and-trust-the-manufacturers-new-playbook-for-staying-ahead-in-europes-storage-market/) · PV Magazine · energy
@@ -28,16 +28,16 @@
 
 | phrase | sectors | articles | vs prior fortnight |
 |---|---|---|---|
-| artificial intelligence | 8 | 99 | 16.5× |
+| artificial intelligence | 8 | 100 | 16.7× |
 | oil price | 2 | 33 | 11.0× |
 | data center | 6 | 248 | 9.2× |
-| supply chain | 7 | 99 | 7.1× |
-| clean energy | 3 | 27 | 6.8× |
+| supply chain | 7 | 100 | 7.1× |
 | iran war | 3 | 16 | 4.0× |
 | black sea | 2 | 10 | 3.3× |
 | critical mineral | 3 | 58 | 2.9× |
 | power demand | 2 | 7 | 2.3× |
 | rare earth | 2 | 56 | 2.3× |
+| fossil fuel | 2 | 11 | 1.8× |
 
 ---
 
