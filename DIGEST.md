@@ -1,12 +1,12 @@
 # Crosstalk — week ending 11 August 2026
 
-*8,130 articles over 106 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*8,187 articles over 106 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
 **joint venture** — now in 5 sectors. **Supply chain** picked it up 6d ago; it was first seen in real estate coverage on 16 June 2026.
+  - [Northwestern Mutual Provides $110M Perm Loan for Jersey City Multifamily Tower](https://commercialobserver.com/2026/08/northwestern-mutual-jersey-city-apartments/) · Commercial Observer · real estate
   - [GM exits Samsung SDI battery cell joint venture](https://www.electrive.com/2026/08/11/gm-exits-samsung-sdi-battery-cell-joint-venture/) · Electrive · autos
-  - [OOCL Logistics launches new container depot in Port Klang](https://container-news.com/oocl-logistics-launches-new-container-depot-in-port-klang/) · Container News · supply chain
 
 **energy infrastructure** — now in 3 sectors. **Technology** picked it up 2d ago; it was first seen in energy coverage on 27 July 2026.
   - [IC distributors post strong July sales on AI, cloud, and infrastructure demand](https://www.digitimes.com/news/a20260811PD232/wt-revenue-demand-taiwan-ic.html) · DigiTimes Asia · technology
@@ -28,16 +28,16 @@
 
 | phrase | sectors | articles | vs prior fortnight |
 |---|---|---|---|
-| artificial intelligence | 8 | 98 | 16.3× |
-| oil price | 2 | 32 | 10.7× |
-| data center | 6 | 243 | 9.0× |
+| artificial intelligence | 8 | 99 | 16.5× |
+| oil price | 2 | 33 | 11.0× |
+| data center | 6 | 247 | 9.1× |
 | supply chain | 7 | 99 | 7.1× |
+| clean energy | 3 | 27 | 6.8× |
 | iran war | 3 | 16 | 4.0× |
 | black sea | 2 | 10 | 3.3× |
 | critical mineral | 3 | 58 | 2.9× |
 | power demand | 2 | 7 | 2.3× |
 | rare earth | 2 | 56 | 2.3× |
-| fossil fuel | 2 | 10 | 1.7× |
 
 ---
 
