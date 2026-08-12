@@ -1,12 +1,12 @@
 # Crosstalk — week ending 12 August 2026
 
-*8,680 articles over 108 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*8,726 articles over 108 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
 **joint venture** — now in 5 sectors. **Supply chain** picked it up 7d ago; it was first seen in real estate coverage on 16 June 2026.
+  - [YEST Signs MOU With Yonata Electronics to Form ⼀Joint Venture⼁ for Semiconductor Test Equipment](https://www.thelec.net/news/articleView.html?idxno=13002) · The Elec · technology
   - [ArrowMark Partners Refis Utah Apartments With $58M Bridge Loan](https://commercialobserver.com/2026/08/arrowmark-partners-utah-apartments/) · Commercial Observer · real estate
-  - [Tata, Mahindra, HAL in race as govt floats ₹1 lakh crore IAF tender for 60 aircraft](https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/tata-mahindra-hal-in-race-as-govt-floats-1-lakh-crore-iaf-tender-for-60-aircraft/133185226) · ET Manufacturing · industrials
 
 **energy infrastructure** — now in 4 sectors. **Supply chain** picked it up 2d ago; it was first seen in energy coverage on 27 July 2026.
   - [Drone strikes put Libya's Zawiya oil hub at risk](https://splash247.com/drone-strikes-put-libyas-zawiya-oil-hub-at-risk/) · Splash247 · supply chain
@@ -25,14 +25,14 @@
 | phrase | sectors | articles | vs prior fortnight |
 |---|---|---|---|
 | artificial intelligence | 8 | 110 | 15.7× |
-| oil price | 2 | 35 | 11.7× |
+| oil price | 2 | 36 | 12.0× |
 | data center | 7 | 273 | 10.5× |
 | supply chain | 7 | 106 | 6.6× |
 | red sea | 2 | 28 | 4.7× |
 | clean energy | 3 | 29 | 4.1× |
+| black sea | 2 | 12 | 4.0× |
 | iran war | 3 | 16 | 4.0× |
-| black sea | 2 | 11 | 3.7× |
-| interest rate | 2 | 7 | 2.3× |
+| interest rate | 2 | 8 | 2.7× |
 | critical mineral | 3 | 54 | 2.2× |
 
 ---
