@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-12T20:05:00.489623+00:00",
+ "generated": "2026-08-12T20:31:30.511508+00:00",
  "prices": {
   "Autos": [
    {
@@ -490,7 +490,7 @@
    },
    {
     "day": "2026-08-12",
-    "close": 86.91
+    "close": 86.94
    }
   ],
   "Materials": [
@@ -736,7 +736,7 @@
    },
    {
     "day": "2026-08-12",
-    "close": 52.55
+    "close": 52.59
    }
   ],
   "Energy": [
@@ -982,7 +982,7 @@
    },
    {
     "day": "2026-08-12",
-    "close": 60.99
+    "close": 61.02
    }
   ],
   "Finance": [
@@ -1228,7 +1228,7 @@
    },
    {
     "day": "2026-08-12",
-    "close": 57.9
+    "close": 57.91
    }
   ],
   "Industrials": [
@@ -1474,7 +1474,7 @@
    },
    {
     "day": "2026-08-12",
-    "close": 185.86
+    "close": 185.89
    }
   ],
   "Technology": [
@@ -1720,7 +1720,7 @@
    },
    {
     "day": "2026-08-12",
-    "close": 188.59
+    "close": 188.84
    }
   ],
   "Real estate": [
@@ -1966,7 +1966,7 @@
    },
    {
     "day": "2026-08-12",
-    "close": 44.45
+    "close": 44.48
    }
   ],
   "Utilities": [
@@ -2212,7 +2212,7 @@
    },
    {
     "day": "2026-08-12",
-    "close": 43.74
+    "close": 43.84
    }
   ],
   "Healthcare": [
@@ -2458,7 +2458,7 @@
    },
    {
     "day": "2026-08-12",
-    "close": 168.39
+    "close": 168.43
    }
   ],
   "Consumer": [
@@ -2704,14 +2704,14 @@
    },
    {
     "day": "2026-08-12",
-    "close": 117.92
+    "close": 117.89
    }
   ]
  },
  "coverage": [
   [
    "US",
-   6425
+   6430
   ],
   [
    "GB",
@@ -2739,7 +2739,7 @@
   ],
   [
    "GR",
-   144
+   145
   ],
   [
    "JP",
@@ -2894,6 +2894,13 @@
   {
    "articles_list": [
     {
+     "title": "Ex-hedge fund CFO pleads guilty to $3M embezzlement scheme",
+     "url": "https://www.cfodive.com/news/ex-hedge-fund-cfo-pleads-guilty-3m-embezzlement-scheme/827727/",
+     "publisher": "CFO Dive",
+     "sector": "Finance",
+     "quote": "\u2026o steal money from his employer, pro\u2f00secutors\u2f01 said."
+    },
+    {
      "title": "Peachtree Recaps Ritz-Carlton Portland With $141M C-PACE Loan",
      "url": "https://commercialobserver.com/2026/08/peachtree-ritz-carlton-portland-c-pace-loan/",
      "publisher": "Commercial Observer",
@@ -2906,13 +2913,6 @@
      "publisher": "Commercial Observer",
      "sector": "Real estate",
      "quote": "\u2026billion asset management firm, has \u2f00secured\u2f01 $225 million in permanent financing to refinance three stabilized luxury multifamily properties in South Flor\u2026"
-    },
-    {
-     "title": "CMBS Loan Backed by Vornado, Related's 85 10th Avenue Sent to Special Servicing",
-     "url": "https://commercialobserver.com/2026/08/cmbs-loan-vornado-related-85-10th-avenue-sent-special-servicing/",
-     "publisher": "Commercial Observer",
-     "sector": "Real estate",
-     "quote": "\u2026million commercial mortgage-backed \u2f00securities\u2f01 (CMBS) loan secured by 85 10th Avenue, a 633,000-square-foot office property in Manhattan's Chelsea neighborh\u2026"
     }
    ],
    "name": "Securities and Exchange Commission",
@@ -3065,11 +3065,11 @@
      "quote": "\u2026r says the productivity gains from t\u2f00echnology\u2f01 may now be plateauing. \u201cI am investing 2000 crore\u201d in IT, he said, questioning whether banks are getting enou\u2026"
     },
     {
-     "title": "Sweden OKs Boliden's Laver copper concession",
-     "url": "https://www.northernminer.com/news/sweden-oks-bolidens-laver-copper-concession/1003893948/",
-     "publisher": "Northern Miner",
-     "sector": "Materials",
-     "quote": "Sweden rej\u2f00ected\u2f01 appeals against Boliden's (STO: BOL) mining concession for Laver, clearing a key hurdle for a copper project\u2026"
+     "title": "Healthcare CFOs face decision readiness gap: Deloitte",
+     "url": "https://www.cfodive.com/news/healthcare-cfos-face-decision-readiness-gap-deloitte/827715/",
+     "publisher": "CFO Dive",
+     "sector": "Finance",
+     "quote": "The findings could refl\u2f00ect\u2f01 a \u201cmismatch\u201d between expanding expectations for CFOs and the support systems available to finance teams, Delo\u2026"
     }
    ],
    "name": "European Commission",
@@ -7576,6 +7576,115 @@
    ]
   },
   {
+   "prior14d": 4,
+   "direction": "rising",
+   "ticker": "MMM",
+   "name": "3M",
+   "sector": "Industrials",
+   "borrowed": [
+    "clean energy",
+    "natural gas"
+   ],
+   "articles": 11,
+   "articles14d": 6,
+   "terms": [
+    {
+     "term": "clean energy",
+     "articles": 1,
+     "home": "Energy",
+     "sectors": 3,
+     "direction": "rising",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "Commercial Observer",
+       "title": "Peachtree Recaps Ritz-Carlton Portland With $141M C-PACE Loan",
+       "url": "https://commercialobserver.com/2026/08/peachtree-ritz-carlton-portland-c-pace-loan/",
+       "sector": "Real estate",
+       "country": "US",
+       "quote": "\u2026ion of commercial property accessed \u2f00clean energy\u2f01 (C-PACE) debt for the recapitalization of the 35-story tower, Commercial Observer has learned. [\u2026]"
+      },
+      {
+       "publisher": "LaborPress",
+       "title": "Laborers' Unions In Buffalo & The Hudson Valley Receive A Combined $1 Million-Plus In New York Power Authority Funding",
+       "url": "https://www.laborpress.org/laborers-unions-in-buffalo-the-hudson-valley-receive-a-combined-1-million-plus-in-new-york-power-authority-funding/",
+       "sector": "Labor",
+       "country": "US",
+       "quote": "\u2026d $13 million in funding to support \u2f00Clean Energy\u2f01 Workforce development across New York State. The funding, approved by NYPA's Board of Trustees, includes $3 m\u2026"
+      },
+      {
+       "publisher": "Energy Live News",
+       "title": "Waste plant creates income for unpaid women",
+       "url": "https://www.energylivenews.com/2026/08/12/waste-plant-creates-income-for-unpaid-women/",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "\u2026ill convert agricultural waste into \u2f00clean energy\u2f01 The post Waste plant creates income for unpaid women appeared first on Energy Live News ."
+      }
+     ]
+    },
+    {
+     "term": "natural gas",
+     "articles": 1,
+     "home": "Energy",
+     "sectors": 3,
+     "direction": "rising",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "OilPrice",
+       "title": "5 LNG Megaprojects Poised to Power the Next Gas Boom",
+       "url": "https://oilprice.com/Energy/Natural-Gas/5-LNG-Megaprojects-Poised-to-Power-the-Next-Gas-Boom.html",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2026tween the US and Iran has driven up \u2f00natural gas\u2f01 prices, particularly in Europe and Asia. Asia accounts for nearly 90% of liquefied natural gas (LNG) shipment\u2026"
+      },
+      {
+       "publisher": "OilPrice",
+       "title": "LME Aluminum Stockpiles Sink to Lowest Level Since 1990",
+       "url": "https://oilprice.com/Metals/Commodities/LME-Aluminum-Stockpiles-Sink-to-Lowest-Level-Since-1990.html",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2026put by 50% following disruptions to \u2f00natural gas\u2f01 availability. Bloomberg reports that disruptions to NatGas availability at Alunorte forced a 50% reduction in\u2026"
+      },
+      {
+       "publisher": "EIA Today in Energy",
+       "title": "United States on track for record \u2f00natural gas\u2f01 production in 2026",
+       "url": "https://www.eia.gov/todayinenergy/detail.php?id=67944",
+       "sector": "Utilities",
+       "country": "US",
+       "quote": "We forecast U.S. marketed \u2f00natural gas\u2f01 production will average 122.5 billion cubic feet per day (Bcf/d) in 2026, surpassing the previous record of 1\u2026"
+      }
+     ]
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "CFO Dive",
+     "title": "Ex-hedge fund CFO pleads guilty to $3M embezzlement scheme",
+     "url": "https://www.cfodive.com/news/ex-hedge-fund-cfo-pleads-guilty-3m-embezzlement-scheme/827727/",
+     "sector": "Finance"
+    },
+    {
+     "publisher": "Commercial Observer",
+     "title": "Benefit Street Partners Provides $103M Bridge Debt for Texas Multifamily Portfolio",
+     "url": "https://commercialobserver.com/2026/08/benefit-street-partners-103m-texas-multifamily-portfolio/",
+     "sector": "Real estate"
+    },
+    {
+     "publisher": "Construction Dive",
+     "title": "Cadiz contracts 2 builders for $403M Southern California water pipeline",
+     "url": "https://www.constructiondive.com/news/cadiz-northern-pipeline-construction-contracts/826959/",
+     "sector": "Real estate"
+    },
+    {
+     "publisher": "Mining.com",
+     "title": "S\u00e9gu\u00e9la revamp sets up decade of 200,000\u2011oz production",
+     "url": "https://www.mining.com/seguela-revamp-sets-up-decade-of-200000%e2%80%91oz-production/",
+     "sector": "Materials"
+    }
+   ]
+  },
+  {
    "prior14d": 0,
    "direction": "new",
    "ticker": "GS",
@@ -7681,115 +7790,6 @@
      "title": "U.S. Diesel Exports Hit Record High as Global Supply Crunch Deepens",
      "url": "https://oilprice.com/Energy/Energy-General/US-Diesel-Exports-Hit-Record-High-as-Global-Supply-Crunch-Deepens.html",
      "sector": "Energy"
-    }
-   ]
-  },
-  {
-   "prior14d": 4,
-   "direction": "steady",
-   "ticker": "MMM",
-   "name": "3M",
-   "sector": "Industrials",
-   "borrowed": [
-    "clean energy",
-    "natural gas"
-   ],
-   "articles": 10,
-   "articles14d": 5,
-   "terms": [
-    {
-     "term": "clean energy",
-     "articles": 1,
-     "home": "Energy",
-     "sectors": 3,
-     "direction": "rising",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "Commercial Observer",
-       "title": "Peachtree Recaps Ritz-Carlton Portland With $141M C-PACE Loan",
-       "url": "https://commercialobserver.com/2026/08/peachtree-ritz-carlton-portland-c-pace-loan/",
-       "sector": "Real estate",
-       "country": "US",
-       "quote": "\u2026ion of commercial property accessed \u2f00clean energy\u2f01 (C-PACE) debt for the recapitalization of the 35-story tower, Commercial Observer has learned. [\u2026]"
-      },
-      {
-       "publisher": "LaborPress",
-       "title": "Laborers' Unions In Buffalo & The Hudson Valley Receive A Combined $1 Million-Plus In New York Power Authority Funding",
-       "url": "https://www.laborpress.org/laborers-unions-in-buffalo-the-hudson-valley-receive-a-combined-1-million-plus-in-new-york-power-authority-funding/",
-       "sector": "Labor",
-       "country": "US",
-       "quote": "\u2026d $13 million in funding to support \u2f00Clean Energy\u2f01 Workforce development across New York State. The funding, approved by NYPA's Board of Trustees, includes $3 m\u2026"
-      },
-      {
-       "publisher": "Energy Live News",
-       "title": "Waste plant creates income for unpaid women",
-       "url": "https://www.energylivenews.com/2026/08/12/waste-plant-creates-income-for-unpaid-women/",
-       "sector": "Utilities",
-       "country": "GB",
-       "quote": "\u2026ill convert agricultural waste into \u2f00clean energy\u2f01 The post Waste plant creates income for unpaid women appeared first on Energy Live News ."
-      }
-     ]
-    },
-    {
-     "term": "natural gas",
-     "articles": 1,
-     "home": "Energy",
-     "sectors": 3,
-     "direction": "rising",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "OilPrice",
-       "title": "5 LNG Megaprojects Poised to Power the Next Gas Boom",
-       "url": "https://oilprice.com/Energy/Natural-Gas/5-LNG-Megaprojects-Poised-to-Power-the-Next-Gas-Boom.html",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026tween the US and Iran has driven up \u2f00natural gas\u2f01 prices, particularly in Europe and Asia. Asia accounts for nearly 90% of liquefied natural gas (LNG) shipment\u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "LME Aluminum Stockpiles Sink to Lowest Level Since 1990",
-       "url": "https://oilprice.com/Metals/Commodities/LME-Aluminum-Stockpiles-Sink-to-Lowest-Level-Since-1990.html",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026put by 50% following disruptions to \u2f00natural gas\u2f01 availability. Bloomberg reports that disruptions to NatGas availability at Alunorte forced a 50% reduction in\u2026"
-      },
-      {
-       "publisher": "EIA Today in Energy",
-       "title": "United States on track for record \u2f00natural gas\u2f01 production in 2026",
-       "url": "https://www.eia.gov/todayinenergy/detail.php?id=67944",
-       "sector": "Utilities",
-       "country": "US",
-       "quote": "We forecast U.S. marketed \u2f00natural gas\u2f01 production will average 122.5 billion cubic feet per day (Bcf/d) in 2026, surpassing the previous record of 1\u2026"
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "Commercial Observer",
-     "title": "Benefit Street Partners Provides $103M Bridge Debt for Texas Multifamily Portfolio",
-     "url": "https://commercialobserver.com/2026/08/benefit-street-partners-103m-texas-multifamily-portfolio/",
-     "sector": "Real estate"
-    },
-    {
-     "publisher": "Construction Dive",
-     "title": "Cadiz contracts 2 builders for $403M Southern California water pipeline",
-     "url": "https://www.constructiondive.com/news/cadiz-northern-pipeline-construction-contracts/826959/",
-     "sector": "Real estate"
-    },
-    {
-     "publisher": "Mining.com",
-     "title": "S\u00e9gu\u00e9la revamp sets up decade of 200,000\u2011oz production",
-     "url": "https://www.mining.com/seguela-revamp-sets-up-decade-of-200000%e2%80%91oz-production/",
-     "sector": "Materials"
-    },
-    {
-     "publisher": "Federal Register",
-     "title": "Pipeline Safety: Standards Update-ASTM A53/A53M",
-     "url": "https://www.federalregister.gov/documents/2026/07/31/2026-15584/pipeline-safety-standards-update-astm-a53a53m",
-     "sector": "Policy"
     }
    ]
   },
@@ -25624,8 +25624,8 @@
   ]
  },
  "daysCollected": 108,
- "articlesStored": 8674,
- "articlesLive": 4898,
+ "articlesStored": 8680,
+ "articlesLive": 4904,
  "windowDays": 90,
  "terms": [
   {
@@ -25991,7 +25991,7 @@
      "new",
      4,
      0,
-     42.0,
+     42.1,
      [
       {
        "title": "Why countering drones is the ultimate stress test for on-device AI",
@@ -26015,7 +26015,7 @@
      "rising",
      6,
      2,
-     36.0,
+     36.1,
      [
       {
        "title": "SPIL breaks ground on NT$100B Douliu plant, targeting operations in 2028",
@@ -26046,7 +26046,7 @@
      "new",
      6,
      0,
-     31.5,
+     31.6,
      [
       {
        "title": "AI pushes India's C\u2011suite to flexible offices: Report",
@@ -26077,7 +26077,7 @@
      "new",
      4,
      0,
-     24.0,
+     24.1,
      [
       {
        "title": "Samsung weighs power subsidiary to secure semiconductor electricity by 2027",
@@ -26885,7 +26885,7 @@
      "new",
      4,
      0,
-     43.6,
+     43.7,
      [
       {
        "title": "General Motors drives toward supply chain resiliency",
@@ -26916,7 +26916,7 @@
      "new",
      6,
      0,
-     43.6,
+     43.7,
      [
       {
        "title": "Gymshark names new chief supply chain officer",
@@ -27420,8 +27420,8 @@
    "variants": [
     "supply chain resilience"
    ],
-   "specificity": 0.895,
-   "rank": 4.3
+   "specificity": 0.896,
+   "rank": 4.31
   },
   {
    "id": "natural-gas",
@@ -27679,7 +27679,7 @@
      "new",
      6,
      0,
-     130.9,
+     131.0,
      [
       {
        "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
@@ -27710,7 +27710,7 @@
      "new",
      8,
      0,
-     87.2,
+     87.4,
      [
       {
        "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
@@ -27741,7 +27741,7 @@
      "new",
      4,
      0,
-     69.8,
+     69.9,
      [
       {
        "title": "US DOE closes US$489 million loan with Pattern Energy to support BESS, natural gas in Puerto Rico",
@@ -27789,7 +27789,7 @@
      "new",
      8,
      0,
-     16.2,
+     16.3,
      [
       {
        "title": "5 LNG Megaprojects Poised to Power the Next Gas Boom",
@@ -28422,7 +28422,7 @@
      "new",
      4,
      0,
-     92.5,
+     92.6,
      [
       {
        "title": "Invinity sells 43MWh long-duration flow battery system to US Midwest rural electric cooperative",
@@ -28439,7 +28439,7 @@
      "new",
      4,
      0,
-     74.0,
+     74.1,
      [
       {
        "title": "\u00d8rsted turns on 500 \u2f00MWh battery\u2f01 project with co-located solar in Texas",
@@ -28456,7 +28456,7 @@
      "new",
      4,
      0,
-     33.6,
+     33.7,
      [
       {
        "title": "Market intelligence, innovation, and trust: The manufacturer's new playbook for staying ahead in Europe's storage market",
@@ -28480,7 +28480,7 @@
      "new",
      4,
      0,
-     8.0,
+     8.1,
      [
       {
        "title": "British firm bets on aluminium to break lithium battery dependence",
@@ -29154,7 +29154,7 @@
      "new",
      6,
      0,
-     129.0,
+     107.7,
      [
       {
        "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
@@ -29216,7 +29216,7 @@
      "new",
      4,
      0,
-     39.1,
+     39.2,
      [
       {
        "title": "US container imports rise in July despite ongoing trade uncertainty",
@@ -29240,7 +29240,7 @@
      "new",
      4,
      0,
-     30.7,
+     30.8,
      [
       {
        "title": "China's Teapot Refiners Poised to Ramp Up Iranian Oil Buying",
@@ -29966,7 +29966,7 @@
      "new",
      4,
      0,
-     166.6,
+     166.8,
      [
       {
        "title": "GM exits Samsung SDI \u2f00battery cell\u2f01 joint venture",
@@ -30636,7 +30636,7 @@
      "new",
      4,
      0,
-     123.3,
+     123.5,
      [
       {
        "title": "\u00d8rsted turns on 500 \u2f00MWh battery\u2f01 project with co-located solar in Texas",
@@ -31365,7 +31365,7 @@
      "rising",
      4,
      2,
-     212.6,
+     212.9,
      [
       {
        "title": "Why Illinois has struggled to turn old coal sites into solar farms",
@@ -31389,7 +31389,7 @@
      "new",
      4,
      0,
-     159.4,
+     159.7,
      [
       {
        "title": "Why Illinois has struggled to turn old coal sites into \u2f00solar farms\u2f01",
@@ -31413,7 +31413,7 @@
      "rising",
      4,
      2,
-     58.0,
+     58.1,
      [
       {
        "title": "Colombia Revives Oil And Gas After Four-Year Renewable Energy Push",
@@ -32016,7 +32016,7 @@
      "new",
      6,
      0,
-     330.3,
+     330.7,
      [
       {
        "title": "Red Sea Attack Sinks India-Flagged Cargo Vessel Off Yemen",
@@ -32047,7 +32047,7 @@
      "new",
      8,
      0,
-     264.2,
+     264.6,
      [
       {
        "title": "Middle East War Pushes China Toward the Arctic Trade Route",
@@ -32078,7 +32078,7 @@
      "new",
      10,
      0,
-     183.5,
+     183.7,
      [
       {
        "title": "Middle East War Pushes China Toward the Arctic Trade Route",
@@ -32109,7 +32109,7 @@
      "new",
      4,
      0,
-     165.1,
+     165.4,
      [
       {
        "title": "US disables boxship while Red Sea attack kills six",
@@ -32133,7 +32133,7 @@
      "new",
      4,
      0,
-     132.1,
+     132.3,
      [
       {
        "title": "Saudi oil tanker heads to India as Red Sea, Hormuz traffic slows amid attacks",
@@ -32774,7 +32774,7 @@
      "new",
      4,
      0,
-     246.6,
+     246.9,
      [
       {
        "title": "Tesla emerges as biggest winner from Germany's EV subsidies, while China-made models \u2f00gain ground\u2f01",
@@ -32798,7 +32798,7 @@
      "new",
      4,
      0,
-     148.0,
+     148.2,
      [
       {
        "title": "German EV subsidies lift Chinese automakers in a reshaped market",
@@ -33429,7 +33429,7 @@
      "new",
      4,
      0,
-     420.4,
+     420.9,
      [
       {
        "title": "China Added More Nuclear Power In A Decade Than The Rest Of The World Combined",
@@ -33453,7 +33453,7 @@
      "new",
      4,
      0,
-     210.2,
+     210.5,
      [
       {
        "title": "HD Hyundai Heavy Industries Wins 956 Billion-Won Power Generation Deal for U.S. Data Centers",
@@ -33470,7 +33470,7 @@
      "new",
      4,
      0,
-     168.1,
+     168.4,
      [
       {
        "title": "HD Hydrogen Completes SOFC Mass Production System",
@@ -33494,7 +33494,7 @@
      "new",
      4,
      0,
-     140.1,
+     140.3,
      [
       {
        "title": "A Pioneering Approach to Building New Generation Resources",
@@ -34188,7 +34188,7 @@
      "new",
      6,
      0,
-     192.7,
+     192.9,
      [
       {
        "title": "\u2f00Drone strikes\u2f01 put Libya's Zawiya oil hub at risk",
@@ -34219,7 +34219,7 @@
      "new",
      4,
      0,
-     52.5,
+     52.6,
      [
       {
        "title": "HD Hyundai Heavy Industries Wins 956 Billion-Won \u2f00Power Generation\u2f01 Deal for U.S. Data Centers",
@@ -35437,7 +35437,7 @@
      "new",
      4,
      0,
-     560.5,
+     561.2,
      [
       {
        "title": "Haechitech enters eSSD sensors as it prepares Kosdaq listing",
@@ -35461,7 +35461,7 @@
      "new",
      4,
      0,
-     33.6,
+     33.7,
      [
       {
        "title": "AI technology could improve \u2f00energy storage\u2f01",
@@ -36572,7 +36572,7 @@
      "new",
      4,
      0,
-     336.3,
+     336.7,
      [
       {
        "title": "Toyota to join Volvo, Daimler heavy-duty fuel-cell joint venture",
@@ -36596,7 +36596,7 @@
      "new",
      4,
      0,
-     186.8,
+     187.1,
      [
       {
        "title": "Philippines unveils 60bn pesos EV manufacturing incentive scheme",
@@ -37776,7 +37776,7 @@
      "new",
      4,
      0,
-     513.8,
+     514.4,
      [
       {
        "title": "Michelin to stay the course on India investments despite global cost pressures",
@@ -39899,7 +39899,7 @@
      "new",
      4,
      0,
-     165.1,
+     165.4,
      [
       {
        "title": "Houthis Claim Ballistic Missile Hit on Saudi Oil Tanker in \u2f00Red Sea\u2f01",
@@ -40477,7 +40477,7 @@
      "new",
      4,
      0,
-     924.8,
+     926.0,
      [
       {
        "title": "Michelin to stay the course on India investments despite global cost pressures",
@@ -41656,7 +41656,7 @@
      "new",
      4,
      0,
-     115.6,
+     115.8,
      [
       {
        "title": "Trump extends Jones Act waiver despite mounting maritime opposition",
@@ -41680,7 +41680,7 @@
      "new",
      4,
      0,
-     33.0,
+     33.1,
      [
       {
        "title": "Exxon and Chevron\u2019s $26.5 Billion Quarter Draws Trump\u2019s Ire",
@@ -42772,7 +42772,7 @@
      "new",
      6,
      0,
-     578.0,
+     578.8,
      [
       {
        "title": "Drone Attack Hits Power Plant at Key Libyan Oil Hub",
@@ -42796,7 +42796,7 @@
      "new",
      4,
      0,
-     385.3,
+     385.8,
      [
       {
        "title": "Drone Attack Hits Power Plant at Key Libyan Oil Hub",
@@ -42820,7 +42820,7 @@
      "new",
      4,
      0,
-     140.1,
+     140.3,
      [
       {
        "title": "FESCO suspends \u2f00Black Sea\u2f01 bookings after vessel sinking",
@@ -43384,7 +43384,7 @@
      "new",
      4,
      0,
-     336.3,
+     336.7,
      [
       {
        "title": "Europe's Next \u2f00Energy Crisis\u2f01 Won't Be a War, It'll Be Peak Oil",
@@ -44513,7 +44513,7 @@
      "steady",
      2,
      2,
-     154.1,
+     154.3,
      [
       {
        "title": "China Is Betting on Quantum Tech to Fix Its \u2f00Power Grid\u2f01",
@@ -44530,7 +44530,7 @@
      "new",
      4,
      0,
-     115.6,
+     115.8,
      [
       {
        "title": "Trump extends Jones Act waiver despite mounting maritime opposition",
@@ -45127,7 +45127,7 @@
      "new",
      6,
      0,
-     616.5,
+     617.3,
      [
       {
        "title": "Middle East War Pushes China Toward the Arctic Trade Route",
@@ -45158,7 +45158,7 @@
      "new",
      4,
      0,
-     513.8,
+     514.4,
      [
       {
        "title": "Death toll rises to six after Houthi attack on Tihamah in Bab el-Mandeb",
@@ -45182,7 +45182,7 @@
      "new",
      10,
      0,
-     183.5,
+     183.7,
      [
       {
        "title": "Middle East War Pushes China Toward the Arctic Trade Route",
@@ -45713,7 +45713,7 @@
      "new",
      4,
      0,
-     513.8,
+     514.4,
      [
       {
        "title": "Drone strikes put Libya's Zawiya oil hub at risk",
@@ -45737,7 +45737,7 @@
      "new",
      6,
      0,
-     280.2,
+     280.6,
      [
       {
        "title": "Kazakhstan Weighs New Routes as Drone Strikes Squeeze \u2f00Black Sea\u2f01 Oil Exports",
@@ -45768,7 +45768,7 @@
      "new",
      4,
      0,
-     256.9,
+     257.2,
      [
       {
        "title": "Drone strikes put Libya's Zawiya oil hub at risk",
@@ -45792,7 +45792,7 @@
      "new",
      6,
      0,
-     192.7,
+     192.9,
      [
       {
        "title": "Drone strikes put Libya's Zawiya oil hub at risk",
@@ -46371,7 +46371,7 @@
      "new",
      4,
      0,
-     411.0,
+     411.6,
      [
       {
        "title": "EU Locks In Plan To Triple Energy Storage Capacity By 2030",
@@ -46906,7 +46906,7 @@
      "new",
      4,
      0,
-     513.8,
+     514.4,
      [
       {
        "title": "OCP APAC 2026: Murata upgrades power, optical products as AI data centers strain global infrastructure",
@@ -49130,7 +49130,7 @@
      "new",
      4,
      0,
-     24.0,
+     24.1,
      [
       {
        "title": "Samsung weighs power subsidiary to secure semiconductor electricity by 2027",
@@ -50540,7 +50540,7 @@
      "new",
      6,
      0,
-     20.3,
+     20.4,
      [
       {
        "title": "Amazon acquires 8,000-acre site in Pecos, Texas, for natural \u2f00gas powered\u2f01 behind-the-meter data center - report",
@@ -51137,7 +51137,7 @@
      "new",
      8,
      0,
-     171.3,
+     171.5,
      [
       {
        "title": "US announces US$2bn investment in critical \u2f00minerals supply chains\u2f01",
@@ -51168,7 +51168,7 @@
      "new",
      10,
      0,
-     171.3,
+     171.5,
      [
       {
        "title": "DPAS Directive Allocation Order and Additional Requirements for Recoverable Critical Minerals and Materials",
@@ -51199,7 +51199,7 @@
      "new",
      4,
      0,
-     85.6,
+     85.7,
      [
       {
        "title": "U.S. Moves to Keep Tungsten Scrap and Battery Metals at Home",
@@ -51216,7 +51216,7 @@
      "new",
      4,
      0,
-     48.9,
+     49.0,
      [
       {
        "title": "Updated \u2f00feasibility study\u2f01 gives NioCorp's Elk Creek critical minerals project a $4B valuation",
@@ -51240,7 +51240,7 @@
      "new",
      4,
      0,
-     7.4,
+     7.5,
      [
       {
        "title": "DPAS Directive Allocation Order and Additional Requirements for Recoverable Critical Minerals and Materials",
@@ -51839,7 +51839,7 @@
      "new",
      4,
      0,
-     118.6,
+     118.7,
      [
       {
        "title": "Hormuz Crisis Is Rewriting the Global LPG Trade",
@@ -51858,33 +51858,33 @@
      ]
     ],
     [
-     "fuel supply",
+     "fuel price",
      1.0,
      "new",
      6,
      0,
-     106.7,
+     106.8,
      [
       {
-       "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
-       "url": "https://oilprice.com/Energy/Energy-General/US-Energy-Helps-Cushion-Global-Supply-Shock-From-Hormuz.html",
+       "title": "IEA Numbers Point to a Two-Speed Recovery in Global \u2f00Fuel Prices\u2f01",
+       "url": "https://oilprice.com/Energy/Gas-Prices/IEA-Numbers-Point-to-a-Two-Speed-Recovery-in-Global-Fuel-Prices.html",
        "publisher": "OilPrice",
        "sector": "Energy",
-       "quote": "\u2026r to increase oil, natural gas, and \u2f00fuel supply\u2f01, the American Petroleum Institute (API) said in an analysis this week. But the role of \u201cthe\u2026"
+       "quote": "\u2026actually higher than June, even as \u2f00crude oil\u2f01 kept sliding through most of the summer. Gasoline tells a similar\u2026"
       },
       {
-       "title": "Middle East War Triggers New Global Refining Boom",
-       "url": "https://oilprice.com/Energy/Energy-General/Middle-East-War-Triggers-New-Global-Refining-Boom.html",
-       "publisher": "OilPrice",
-       "sector": "Energy",
-       "quote": "\u2026ners. The war in Iran has tightened \u2f00fuel supply\u2f01 as crude oil has struggled to move through the Strait of Hormuz, triggering reduced refining throughput in As\u2026"
+       "title": "RBI lowers FY27 inflation forecast to 5% despite food, \u2f00fuel price\u2f01 pressures",
+       "url": "https://manufacturing.economictimes.indiatimes.com/news/industry/rbi-lowers-fy27-inflation-forecast-to-5-despite-food-fuel-price-pressures/132892415",
+       "publisher": "ET Manufacturing",
+       "sector": "Industrials",
+       "quote": "\u2026tion to remain contained, but flags \u2f00crude oil\u2f01 prices and monsoon uncertainty as major risks."
       },
       {
        "title": "U.S. jet fuel production rises after prices doubled in March",
        "url": "https://www.eia.gov/todayinenergy/detail.php?id=67764",
        "publisher": "EIA Today in Energy",
        "sector": "Utilities",
-       "quote": "\u2026eviously imported much of their jet \u2f00fuel supply\u2f01 from the Persian Gulf, have driven up jet fuel prices. Much of the increased U.S. jet fuel production is bein\u2026"
+       "quote": "\u2026d highs in response to elevated jet \u2f00fuel prices\u2f01 after the Strait of Hormuz closed on February 28. Higher crude oil prices and supply concerns, particularly i\u2026"
       }
      ]
     ],
@@ -51894,7 +51894,7 @@
      "new",
      4,
      0,
-     88.9,
+     89.0,
      [
       {
        "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
@@ -51918,7 +51918,7 @@
      "new",
      4,
      0,
-     59.3,
+     59.4,
      [
       {
        "title": "India's Imports of Russian Crude Hit New High in July",
@@ -51942,7 +51942,7 @@
      "new",
      4,
      0,
-     22.2,
+     22.3,
      [
       {
        "title": "Trump Faces Growing Pressure to Restrict U.S. Oil Exports",
@@ -52582,7 +52582,7 @@
      "new",
      6,
      0,
-     264.2,
+     264.6,
      [
       {
        "title": "Brent Tops $89 Amid U.S.-Iran Stalemate Over Hormuz",
@@ -52613,7 +52613,7 @@
      "new",
      6,
      0,
-     198.2,
+     198.4,
      [
       {
        "title": "ONGC Profit More Than Doubles as Oil Prices Surge",
@@ -52644,7 +52644,7 @@
      "new",
      12,
      0,
-     144.1,
+     144.3,
      [
       {
        "title": "Trump Puts 81 Million Gulf Acres Up for Oil and Gas Auction",
@@ -52675,7 +52675,7 @@
      "new",
      4,
      0,
-     132.1,
+     132.3,
      [
       {
        "title": "Lower Oil Prices Lend Support For The Gold Rally",
@@ -52699,7 +52699,7 @@
      "new",
      4,
      0,
-     105.7,
+     88.2,
      [
       {
        "title": "Middle East War Triggers New Global Refining Boom",
@@ -52723,7 +52723,7 @@
      "new",
      4,
      0,
-     33.0,
+     33.1,
      [
       {
        "title": "Exxon and Chevron\u2019s $26.5 Billion Quarter Draws Trump\u2019s Ire",
@@ -53138,8 +53138,8 @@
      "n": 2
     }
    ],
-   "specificity": 0.965,
-   "rank": 1.52
+   "specificity": 0.966,
+   "rank": 1.53
   },
   {
    "id": "battery-storage",
@@ -53880,7 +53880,7 @@
      "new",
      4,
      0,
-     220.2,
+     220.5,
      [
       {
        "title": "Coast Guard coordinates rescue after fire aboard Min Jiang Kou",
@@ -54426,7 +54426,7 @@
      "new",
      4,
      0,
-     420.4,
+     420.9,
      [
       {
        "title": "Black Sea drone strikes send CPC tanker rates to $400,000 a day",
@@ -54450,7 +54450,7 @@
      "new",
      6,
      0,
-     280.2,
+     280.6,
      [
       {
        "title": "Kazakhstan Weighs New Routes as \u2f00Drone Strikes\u2f01 Squeeze Black Sea Oil Exports",
@@ -54481,7 +54481,7 @@
      "new",
      4,
      0,
-     186.8,
+     187.1,
      [
       {
        "title": "Kazakhstan Weighs New Routes as Drone Strikes Squeeze Black Sea \u2f00Oil Exports\u2f01",
@@ -55045,7 +55045,7 @@
      "steady",
      2,
      2,
-     154.1,
+     154.3,
      [
       {
        "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
@@ -55079,7 +55079,7 @@
      "steady",
      2,
      2,
-     5.6,
+     5.7,
      [
       {
        "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
