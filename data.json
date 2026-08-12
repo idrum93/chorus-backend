@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-12T18:23:07.338117+00:00",
+ "generated": "2026-08-12T18:51:49.732726+00:00",
  "prices": {
   "Autos": [
    {
@@ -241,6 +241,10 @@
    {
     "day": "2026-08-11",
     "close": 106.97
+   },
+   {
+    "day": "2026-08-12",
+    "close": 108.35
    }
   ],
   "Supply chain": [
@@ -728,7 +732,7 @@
    },
    {
     "day": "2026-08-12",
-    "close": 52.69
+    "close": 52.73
    }
   ],
   "Energy": [
@@ -974,7 +978,7 @@
    },
    {
     "day": "2026-08-12",
-    "close": 61.1
+    "close": 61.02
    }
   ],
   "Finance": [
@@ -1220,7 +1224,7 @@
    },
    {
     "day": "2026-08-12",
-    "close": 57.86
+    "close": 57.9
    }
   ],
   "Industrials": [
@@ -1466,7 +1470,7 @@
    },
    {
     "day": "2026-08-12",
-    "close": 186.36
+    "close": 186.56
    }
   ],
   "Technology": [
@@ -2692,14 +2696,14 @@
    },
    {
     "day": "2026-08-12",
-    "close": 117.93
+    "close": 117.97
    }
   ]
  },
  "coverage": [
   [
    "US",
-   6415
+   6420
   ],
   [
    "GB",
@@ -3039,25 +3043,25 @@
   {
    "articles_list": [
     {
-     "title": "Peachtree Recaps Ritz-Carlton Portland With $141M C-PACE Loan",
-     "url": "https://commercialobserver.com/2026/08/peachtree-ritz-carlton-portland-c-pace-loan/",
+     "title": "Fund Administrator Hanover Park Inks 19K-SF Deal at 387 Park Avenue South",
+     "url": "https://commercialobserver.com/2026/08/hanover-park-lease-tf-cornerstone-387-park-avenue-south/",
      "publisher": "Commercial Observer",
      "sector": "Real estate",
-     "quote": "\u2026Ritz-Carlton Portland mixed-use proj\u2f00ect\u2f01 following a foreclosure in July 2025, just secured $141 million of commercial property accessed clean energy\u2026"
+     "quote": "\u2026EO Chris Hladczuk. The firm's most r\u2f00ecent\u2f01 office address is [\u2026]"
     },
     {
-     "title": "Case study: Preparing to power data-driven demand with solar and storage at the Appledale Energy Center",
-     "url": "https://www.renewableenergyworld.com/solar/case-study-preparing-to-power-data-driven-demand-with-solar-and-storage-at-the-appledale-energy-center/",
-     "publisher": "Renewable Energy World",
-     "sector": "Utilities",
-     "quote": "\u2026pment of a planned 300 MW solar proj\u2f00ect\u2f01 combined with a 4-hour, 300 MW battery energy storage system."
+     "title": "How construction pros used tech to save money, vet drawings and improve site safety",
+     "url": "https://www.constructiondive.com/news/construction-pros-jobsite-technology-ai-safety/827678/",
+     "publisher": "Construction Dive",
+     "sector": "Real estate",
+     "quote": "\u2026contractors are actually applying t\u2f00ech\u2f01 on jobsites, including challenges and benefits."
     },
     {
-     "title": "NYC Mayor Mamdani Backs \u201cThe Delivery Protection Act\u201d",
-     "url": "https://www.laborpress.org/nyc-mayor-mamdani-backs-the-delivery-protection-act/",
-     "publisher": "LaborPress",
-     "sector": "Labor",
-     "quote": "\u2026ed his support for the Delivery Prot\u2f00ection\u2f01 Act. This legislation that would rein in the power of corporate delivery giants like Amazon. This New York Ci\u2026"
+     "title": "Olipop taps Electrolit head as next CEO",
+     "url": "https://www.fooddive.com/news/olipop-new-ceo-ben-goodwin-Christian-Patino-Webb/827716/",
+     "publisher": "Food Dive",
+     "sector": "Consumer",
+     "quote": "\u2026ristian Pati\u00f1o Webb takes the top ex\u2f00ecutive\u2f01 spot."
     }
    ],
    "name": "European Commission",
@@ -4108,7 +4112,6 @@
      "sectors": 7,
      "direction": "rising",
      "variants": [
-      "intelligence data center",
       "grid operator"
      ],
      "examples": [
@@ -4248,10 +4251,16 @@
      "articles": 3,
      "sectors": 8,
      "direction": "rising",
-     "variants": [
-      "artificial intelligence data"
-     ],
+     "variants": [],
      "examples": [
+      {
+       "publisher": "Commercial Observer",
+       "title": "Fund Administrator Hanover Park Inks 19K-SF Deal at 387 Park Avenue South",
+       "url": "https://commercialobserver.com/2026/08/hanover-park-lease-tf-cornerstone-387-park-avenue-south/",
+       "sector": "Real estate",
+       "country": "US",
+       "quote": "An \u2f00artificial intelligence\u2f01-driven fund administrator is moving its headquarters to TF Cornerstone's 387 Park Avenue South, Commercial Ob\u2026"
+      },
       {
        "publisher": "Commercial Observer",
        "title": "AI Insurance Firm WithCoverage Signs 18K-SF Lease at 200 Varick Street",
@@ -4267,14 +4276,6 @@
        "sector": "Supply chain",
        "country": "SG",
        "quote": "\u2026echnology alone, but from combining \u2f00artificial intelligence\u2f01 with trusted shipping data. Goudchaux has been around maritime technology long enough to have witnessed sever\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "OCP APAC 2026: Applied Materials exec calls for hardware co-optimization to solve AI power crisis",
-       "url": "https://www.digitimes.com/news/a20260812VL218/apac-taipei-applied-materials-hardware-technology.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026elivered a keynote warning that the \u2f00artificial intelligence\u2f01 boom faces a critical bottleneck: energy efficiency."
       }
      ]
     },
@@ -4416,7 +4417,6 @@
      "sectors": 7,
      "direction": "rising",
      "variants": [
-      "intelligence data center",
       "grid operator"
      ],
      "examples": [
@@ -4488,10 +4488,16 @@
      "articles": 1,
      "sectors": 8,
      "direction": "rising",
-     "variants": [
-      "artificial intelligence data"
-     ],
+     "variants": [],
      "examples": [
+      {
+       "publisher": "Commercial Observer",
+       "title": "Fund Administrator Hanover Park Inks 19K-SF Deal at 387 Park Avenue South",
+       "url": "https://commercialobserver.com/2026/08/hanover-park-lease-tf-cornerstone-387-park-avenue-south/",
+       "sector": "Real estate",
+       "country": "US",
+       "quote": "An \u2f00artificial intelligence\u2f01-driven fund administrator is moving its headquarters to TF Cornerstone's 387 Park Avenue South, Commercial Ob\u2026"
+      },
       {
        "publisher": "Commercial Observer",
        "title": "AI Insurance Firm WithCoverage Signs 18K-SF Lease at 200 Varick Street",
@@ -4507,14 +4513,6 @@
        "sector": "Supply chain",
        "country": "SG",
        "quote": "\u2026echnology alone, but from combining \u2f00artificial intelligence\u2f01 with trusted shipping data. Goudchaux has been around maritime technology long enough to have witnessed sever\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "OCP APAC 2026: Applied Materials exec calls for hardware co-optimization to solve AI power crisis",
-       "url": "https://www.digitimes.com/news/a20260812VL218/apac-taipei-applied-materials-hardware-technology.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026elivered a keynote warning that the \u2f00artificial intelligence\u2f01 boom faces a critical bottleneck: energy efficiency."
       }
      ]
     },
@@ -4766,7 +4764,6 @@
      "sectors": 7,
      "direction": "rising",
      "variants": [
-      "intelligence data center",
       "grid operator"
      ],
      "examples": [
@@ -4905,10 +4902,7 @@
      "articles": 1,
      "sectors": 3,
      "direction": "rising",
-     "variants": [
-      "liquefied natural gas",
-      "natural gas lng"
-     ],
+     "variants": [],
      "examples": [
       {
        "publisher": "OilPrice",
@@ -5012,7 +5006,6 @@
      "sectors": 7,
      "direction": "rising",
      "variants": [
-      "intelligence data center",
       "grid operator"
      ],
      "examples": [
@@ -5217,7 +5210,6 @@
      "sectors": 7,
      "direction": "rising",
      "variants": [
-      "intelligence data center",
       "grid operator"
      ],
      "examples": [
@@ -5252,10 +5244,16 @@
      "articles": 3,
      "sectors": 8,
      "direction": "rising",
-     "variants": [
-      "artificial intelligence data"
-     ],
+     "variants": [],
      "examples": [
+      {
+       "publisher": "Commercial Observer",
+       "title": "Fund Administrator Hanover Park Inks 19K-SF Deal at 387 Park Avenue South",
+       "url": "https://commercialobserver.com/2026/08/hanover-park-lease-tf-cornerstone-387-park-avenue-south/",
+       "sector": "Real estate",
+       "country": "US",
+       "quote": "An \u2f00artificial intelligence\u2f01-driven fund administrator is moving its headquarters to TF Cornerstone's 387 Park Avenue South, Commercial Ob\u2026"
+      },
       {
        "publisher": "Commercial Observer",
        "title": "AI Insurance Firm WithCoverage Signs 18K-SF Lease at 200 Varick Street",
@@ -5271,14 +5269,6 @@
        "sector": "Supply chain",
        "country": "SG",
        "quote": "\u2026echnology alone, but from combining \u2f00artificial intelligence\u2f01 with trusted shipping data. Goudchaux has been around maritime technology long enough to have witnessed sever\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "OCP APAC 2026: Applied Materials exec calls for hardware co-optimization to solve AI power crisis",
-       "url": "https://www.digitimes.com/news/a20260812VL218/apac-taipei-applied-materials-hardware-technology.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026elivered a keynote warning that the \u2f00artificial intelligence\u2f01 boom faces a critical bottleneck: energy efficiency."
       }
      ]
     },
@@ -5772,10 +5762,7 @@
      "articles": 1,
      "sectors": 3,
      "direction": "rising",
-     "variants": [
-      "liquefied natural gas",
-      "natural gas lng"
-     ],
+     "variants": [],
      "examples": [
       {
        "publisher": "OilPrice",
@@ -6118,10 +6105,7 @@
      "articles": 1,
      "sectors": 3,
      "direction": "rising",
-     "variants": [
-      "liquefied natural gas",
-      "natural gas lng"
-     ],
+     "variants": [],
      "examples": [
       {
        "publisher": "OilPrice",
@@ -6155,7 +6139,6 @@
      "sectors": 7,
      "direction": "rising",
      "variants": [
-      "intelligence data center",
       "grid operator"
      ],
      "examples": [
@@ -6261,7 +6244,6 @@
      "sectors": 7,
      "direction": "rising",
      "variants": [
-      "intelligence data center",
       "grid operator"
      ],
      "examples": [
@@ -6296,10 +6278,16 @@
      "articles": 1,
      "sectors": 8,
      "direction": "rising",
-     "variants": [
-      "artificial intelligence data"
-     ],
+     "variants": [],
      "examples": [
+      {
+       "publisher": "Commercial Observer",
+       "title": "Fund Administrator Hanover Park Inks 19K-SF Deal at 387 Park Avenue South",
+       "url": "https://commercialobserver.com/2026/08/hanover-park-lease-tf-cornerstone-387-park-avenue-south/",
+       "sector": "Real estate",
+       "country": "US",
+       "quote": "An \u2f00artificial intelligence\u2f01-driven fund administrator is moving its headquarters to TF Cornerstone's 387 Park Avenue South, Commercial Ob\u2026"
+      },
       {
        "publisher": "Commercial Observer",
        "title": "AI Insurance Firm WithCoverage Signs 18K-SF Lease at 200 Varick Street",
@@ -6315,14 +6303,6 @@
        "sector": "Supply chain",
        "country": "SG",
        "quote": "\u2026echnology alone, but from combining \u2f00artificial intelligence\u2f01 with trusted shipping data. Goudchaux has been around maritime technology long enough to have witnessed sever\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "OCP APAC 2026: Applied Materials exec calls for hardware co-optimization to solve AI power crisis",
-       "url": "https://www.digitimes.com/news/a20260812VL218/apac-taipei-applied-materials-hardware-technology.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026elivered a keynote warning that the \u2f00artificial intelligence\u2f01 boom faces a critical bottleneck: energy efficiency."
       }
      ]
     },
@@ -6539,10 +6519,16 @@
      "articles": 1,
      "sectors": 8,
      "direction": "rising",
-     "variants": [
-      "artificial intelligence data"
-     ],
+     "variants": [],
      "examples": [
+      {
+       "publisher": "Commercial Observer",
+       "title": "Fund Administrator Hanover Park Inks 19K-SF Deal at 387 Park Avenue South",
+       "url": "https://commercialobserver.com/2026/08/hanover-park-lease-tf-cornerstone-387-park-avenue-south/",
+       "sector": "Real estate",
+       "country": "US",
+       "quote": "An \u2f00artificial intelligence\u2f01-driven fund administrator is moving its headquarters to TF Cornerstone's 387 Park Avenue South, Commercial Ob\u2026"
+      },
       {
        "publisher": "Commercial Observer",
        "title": "AI Insurance Firm WithCoverage Signs 18K-SF Lease at 200 Varick Street",
@@ -6558,14 +6544,6 @@
        "sector": "Supply chain",
        "country": "SG",
        "quote": "\u2026echnology alone, but from combining \u2f00artificial intelligence\u2f01 with trusted shipping data. Goudchaux has been around maritime technology long enough to have witnessed sever\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "OCP APAC 2026: Applied Materials exec calls for hardware co-optimization to solve AI power crisis",
-       "url": "https://www.digitimes.com/news/a20260812VL218/apac-taipei-applied-materials-hardware-technology.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026elivered a keynote warning that the \u2f00artificial intelligence\u2f01 boom faces a critical bottleneck: energy efficiency."
       }
      ]
     },
@@ -6951,7 +6929,6 @@
      "sectors": 7,
      "direction": "rising",
      "variants": [
-      "intelligence data center",
       "grid operator"
      ],
      "examples": [
@@ -7158,7 +7135,6 @@
      "sectors": 7,
      "direction": "rising",
      "variants": [
-      "intelligence data center",
       "grid operator"
      ],
      "examples": [
@@ -7471,10 +7447,16 @@
      "articles": 3,
      "sectors": 8,
      "direction": "rising",
-     "variants": [
-      "artificial intelligence data"
-     ],
+     "variants": [],
      "examples": [
+      {
+       "publisher": "Commercial Observer",
+       "title": "Fund Administrator Hanover Park Inks 19K-SF Deal at 387 Park Avenue South",
+       "url": "https://commercialobserver.com/2026/08/hanover-park-lease-tf-cornerstone-387-park-avenue-south/",
+       "sector": "Real estate",
+       "country": "US",
+       "quote": "An \u2f00artificial intelligence\u2f01-driven fund administrator is moving its headquarters to TF Cornerstone's 387 Park Avenue South, Commercial Ob\u2026"
+      },
       {
        "publisher": "Commercial Observer",
        "title": "AI Insurance Firm WithCoverage Signs 18K-SF Lease at 200 Varick Street",
@@ -7490,14 +7472,6 @@
        "sector": "Supply chain",
        "country": "SG",
        "quote": "\u2026echnology alone, but from combining \u2f00artificial intelligence\u2f01 with trusted shipping data. Goudchaux has been around maritime technology long enough to have witnessed sever\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "OCP APAC 2026: Applied Materials exec calls for hardware co-optimization to solve AI power crisis",
-       "url": "https://www.digitimes.com/news/a20260812VL218/apac-taipei-applied-materials-hardware-technology.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026elivered a keynote warning that the \u2f00artificial intelligence\u2f01 boom faces a critical bottleneck: energy efficiency."
       }
      ]
     }
@@ -7544,7 +7518,6 @@
      "sectors": 7,
      "direction": "rising",
      "variants": [
-      "intelligence data center",
       "grid operator"
      ],
      "examples": [
@@ -7579,10 +7552,16 @@
      "articles": 1,
      "sectors": 8,
      "direction": "rising",
-     "variants": [
-      "artificial intelligence data"
-     ],
+     "variants": [],
      "examples": [
+      {
+       "publisher": "Commercial Observer",
+       "title": "Fund Administrator Hanover Park Inks 19K-SF Deal at 387 Park Avenue South",
+       "url": "https://commercialobserver.com/2026/08/hanover-park-lease-tf-cornerstone-387-park-avenue-south/",
+       "sector": "Real estate",
+       "country": "US",
+       "quote": "An \u2f00artificial intelligence\u2f01-driven fund administrator is moving its headquarters to TF Cornerstone's 387 Park Avenue South, Commercial Ob\u2026"
+      },
       {
        "publisher": "Commercial Observer",
        "title": "AI Insurance Firm WithCoverage Signs 18K-SF Lease at 200 Varick Street",
@@ -7598,14 +7577,6 @@
        "sector": "Supply chain",
        "country": "SG",
        "quote": "\u2026echnology alone, but from combining \u2f00artificial intelligence\u2f01 with trusted shipping data. Goudchaux has been around maritime technology long enough to have witnessed sever\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "OCP APAC 2026: Applied Materials exec calls for hardware co-optimization to solve AI power crisis",
-       "url": "https://www.digitimes.com/news/a20260812VL218/apac-taipei-applied-materials-hardware-technology.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026elivered a keynote warning that the \u2f00artificial intelligence\u2f01 boom faces a critical bottleneck: energy efficiency."
       }
      ]
     }
@@ -7747,7 +7718,6 @@
      "sectors": 7,
      "direction": "rising",
      "variants": [
-      "intelligence data center",
       "grid operator"
      ],
      "examples": [
@@ -7782,10 +7752,16 @@
      "articles": 1,
      "sectors": 8,
      "direction": "rising",
-     "variants": [
-      "artificial intelligence data"
-     ],
+     "variants": [],
      "examples": [
+      {
+       "publisher": "Commercial Observer",
+       "title": "Fund Administrator Hanover Park Inks 19K-SF Deal at 387 Park Avenue South",
+       "url": "https://commercialobserver.com/2026/08/hanover-park-lease-tf-cornerstone-387-park-avenue-south/",
+       "sector": "Real estate",
+       "country": "US",
+       "quote": "An \u2f00artificial intelligence\u2f01-driven fund administrator is moving its headquarters to TF Cornerstone's 387 Park Avenue South, Commercial Ob\u2026"
+      },
       {
        "publisher": "Commercial Observer",
        "title": "AI Insurance Firm WithCoverage Signs 18K-SF Lease at 200 Varick Street",
@@ -7801,14 +7777,6 @@
        "sector": "Supply chain",
        "country": "SG",
        "quote": "\u2026echnology alone, but from combining \u2f00artificial intelligence\u2f01 with trusted shipping data. Goudchaux has been around maritime technology long enough to have witnessed sever\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "OCP APAC 2026: Applied Materials exec calls for hardware co-optimization to solve AI power crisis",
-       "url": "https://www.digitimes.com/news/a20260812VL218/apac-taipei-applied-materials-hardware-technology.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026elivered a keynote warning that the \u2f00artificial intelligence\u2f01 boom faces a critical bottleneck: energy efficiency."
       }
      ]
     }
@@ -7959,10 +7927,16 @@
      "articles": 1,
      "sectors": 8,
      "direction": "rising",
-     "variants": [
-      "artificial intelligence data"
-     ],
+     "variants": [],
      "examples": [
+      {
+       "publisher": "Commercial Observer",
+       "title": "Fund Administrator Hanover Park Inks 19K-SF Deal at 387 Park Avenue South",
+       "url": "https://commercialobserver.com/2026/08/hanover-park-lease-tf-cornerstone-387-park-avenue-south/",
+       "sector": "Real estate",
+       "country": "US",
+       "quote": "An \u2f00artificial intelligence\u2f01-driven fund administrator is moving its headquarters to TF Cornerstone's 387 Park Avenue South, Commercial Ob\u2026"
+      },
       {
        "publisher": "Commercial Observer",
        "title": "AI Insurance Firm WithCoverage Signs 18K-SF Lease at 200 Varick Street",
@@ -7978,14 +7952,6 @@
        "sector": "Supply chain",
        "country": "SG",
        "quote": "\u2026echnology alone, but from combining \u2f00artificial intelligence\u2f01 with trusted shipping data. Goudchaux has been around maritime technology long enough to have witnessed sever\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "OCP APAC 2026: Applied Materials exec calls for hardware co-optimization to solve AI power crisis",
-       "url": "https://www.digitimes.com/news/a20260812VL218/apac-taipei-applied-materials-hardware-technology.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026elivered a keynote warning that the \u2f00artificial intelligence\u2f01 boom faces a critical bottleneck: energy efficiency."
       }
      ]
     },
@@ -8202,10 +8168,7 @@
      "articles": 1,
      "sectors": 3,
      "direction": "rising",
-     "variants": [
-      "liquefied natural gas",
-      "natural gas lng"
-     ],
+     "variants": [],
      "examples": [
       {
        "publisher": "OilPrice",
@@ -8276,7 +8239,6 @@
      "sectors": 7,
      "direction": "rising",
      "variants": [
-      "intelligence data center",
       "grid operator"
      ],
      "examples": [
@@ -8382,7 +8344,6 @@
      "sectors": 7,
      "direction": "rising",
      "variants": [
-      "intelligence data center",
       "grid operator"
      ],
      "examples": [
@@ -8558,7 +8519,6 @@
      "sectors": 7,
      "direction": "rising",
      "variants": [
-      "intelligence data center",
       "grid operator"
      ],
      "examples": [
@@ -8702,10 +8662,16 @@
      "articles": 2,
      "sectors": 8,
      "direction": "rising",
-     "variants": [
-      "artificial intelligence data"
-     ],
+     "variants": [],
      "examples": [
+      {
+       "publisher": "Commercial Observer",
+       "title": "Fund Administrator Hanover Park Inks 19K-SF Deal at 387 Park Avenue South",
+       "url": "https://commercialobserver.com/2026/08/hanover-park-lease-tf-cornerstone-387-park-avenue-south/",
+       "sector": "Real estate",
+       "country": "US",
+       "quote": "An \u2f00artificial intelligence\u2f01-driven fund administrator is moving its headquarters to TF Cornerstone's 387 Park Avenue South, Commercial Ob\u2026"
+      },
       {
        "publisher": "Commercial Observer",
        "title": "AI Insurance Firm WithCoverage Signs 18K-SF Lease at 200 Varick Street",
@@ -8721,14 +8687,6 @@
        "sector": "Supply chain",
        "country": "SG",
        "quote": "\u2026echnology alone, but from combining \u2f00artificial intelligence\u2f01 with trusted shipping data. Goudchaux has been around maritime technology long enough to have witnessed sever\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "OCP APAC 2026: Applied Materials exec calls for hardware co-optimization to solve AI power crisis",
-       "url": "https://www.digitimes.com/news/a20260812VL218/apac-taipei-applied-materials-hardware-technology.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026elivered a keynote warning that the \u2f00artificial intelligence\u2f01 boom faces a critical bottleneck: energy efficiency."
       }
      ]
     }
@@ -8775,7 +8733,6 @@
      "sectors": 7,
      "direction": "rising",
      "variants": [
-      "intelligence data center",
       "grid operator"
      ],
      "examples": [
@@ -8918,7 +8875,6 @@
      "sectors": 7,
      "direction": "rising",
      "variants": [
-      "intelligence data center",
       "grid operator"
      ],
      "examples": [
@@ -8991,7 +8947,6 @@
      "sectors": 7,
      "direction": "rising",
      "variants": [
-      "intelligence data center",
       "grid operator"
      ],
      "examples": [
@@ -9204,7 +9159,6 @@
      "sectors": 7,
      "direction": "rising",
      "variants": [
-      "intelligence data center",
       "grid operator"
      ],
      "examples": [
@@ -9350,7 +9304,6 @@
      "sectors": 7,
      "direction": "rising",
      "variants": [
-      "intelligence data center",
       "grid operator"
      ],
      "examples": [
@@ -26563,8 +26516,8 @@
   ]
  },
  "daysCollected": 107,
- "articlesStored": 8661,
- "articlesLive": 4885,
+ "articlesStored": 8666,
+ "articlesLive": 4890,
  "windowDays": 90,
  "terms": [
   {
@@ -26576,10 +26529,10 @@
    "pace": "gradual",
    "kind": "concept",
    "sectorCount": 8,
-   "effectiveSectors": 4.7,
+   "effectiveSectors": 4.72,
    "newestSector": "Utilities",
    "daysSinceNewestSector": 9,
-   "articles14d": 109,
+   "articles14d": 110,
    "articlesPrior14d": 7,
    "publishers": 24,
    "sectors": [
@@ -26588,7 +26541,7 @@
      "firstSeen": "2026-05-31",
      "recent": 55,
      "articles": 62,
-     "share": 0.519,
+     "share": 0.514,
      "adopt": 16
     },
     {
@@ -26610,9 +26563,9 @@
     {
      "name": "Real estate",
      "firstSeen": "2026-07-30",
-     "recent": 14,
-     "articles": 14,
-     "share": 0.132,
+     "recent": 15,
+     "articles": 15,
+     "share": 0.14,
      "adopt": 76
     },
     {
@@ -26620,7 +26573,7 @@
      "firstSeen": "2026-07-30",
      "recent": 15,
      "articles": 15,
-     "share": 0.142,
+     "share": 0.14,
      "adopt": 76
     },
     {
@@ -26628,7 +26581,7 @@
      "firstSeen": "2026-08-03",
      "recent": 4,
      "articles": 4,
-     "share": 0.038,
+     "share": 0.037,
      "adopt": 80
     },
     {
@@ -26636,7 +26589,7 @@
      "firstSeen": "2026-08-03",
      "recent": 7,
      "articles": 7,
-     "share": 0.066,
+     "share": 0.065,
      "adopt": 80
     },
     {
@@ -26644,7 +26597,7 @@
      "firstSeen": "2026-08-03",
      "recent": 4,
      "articles": 4,
-     "share": 0.038,
+     "share": 0.037,
      "adopt": 80
     }
    ],
@@ -26652,7 +26605,7 @@
    "origins": [
     [
      "US",
-     50
+     51
     ],
     [
      "KR",
@@ -26711,6 +26664,24 @@
       ]
      },
      {
+      "sector": "Real estate",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       6,
+       8
+      ]
+     },
+     {
       "sector": "Labor",
       "n": [
        0,
@@ -26726,24 +26697,6 @@
        1,
        5,
        9
-      ]
-     },
-     {
-      "sector": "Real estate",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       6,
-       7
       ]
      },
      {
@@ -26899,7 +26852,7 @@
      "new",
      6,
      0,
-     63.5,
+     62.9,
      [
       {
        "title": "AMD Sees \u2f00Data Center Revenue\u2f01 More Than Doubling Next Year as AI Demand Surges",
@@ -26930,7 +26883,7 @@
      "new",
      4,
      0,
-     42.3,
+     42.0,
      [
       {
        "title": "Why countering drones is the ultimate stress test for on-device AI",
@@ -26954,7 +26907,7 @@
      "rising",
      6,
      2,
-     36.3,
+     36.0,
      [
       {
        "title": "SPIL breaks ground on NT$100B Douliu plant, targeting operations in 2028",
@@ -26985,7 +26938,7 @@
      "new",
      6,
      0,
-     31.7,
+     31.5,
      [
       {
        "title": "AI pushes India's C\u2011suite to flexible offices: Report",
@@ -27016,7 +26969,7 @@
      "new",
      4,
      0,
-     24.2,
+     24.0,
      [
       {
        "title": "Samsung weighs power subsidiary to secure semiconductor electricity by 2027",
@@ -27040,7 +26993,7 @@
      "new",
      4,
      0,
-     14.1,
+     14.0,
      [
       {
        "title": "In \u2f00Commercial Real Estate\u2f01, a Plausible Answer From AI Is Not Enough",
@@ -27060,6 +27013,14 @@
     ]
    ],
    "examples": [
+    {
+     "publisher": "Commercial Observer",
+     "title": "Fund Administrator Hanover Park Inks 19K-SF Deal at 387 Park Avenue South",
+     "url": "https://commercialobserver.com/2026/08/hanover-park-lease-tf-cornerstone-387-park-avenue-south/",
+     "sector": "Real estate",
+     "country": "US",
+     "quote": "An \u2f00artificial intelligence\u2f01-driven fund administrator is moving its headquarters to TF Cornerstone's 387 Park Avenue South, Commercial Ob\u2026"
+    },
     {
      "publisher": "Commercial Observer",
      "title": "AI Insurance Firm WithCoverage Signs 18K-SF Lease at 200 Varick Street",
@@ -27083,14 +27044,6 @@
      "sector": "Technology",
      "country": "TW",
      "quote": "\u2026elivered a keynote warning that the \u2f00artificial intelligence\u2f01 boom faces a critical bottleneck: energy efficiency."
-    },
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "SPIL breaks ground on NT$100B Douliu plant, targeting operations in 2028",
-     "url": "https://www.digitimes.com/news/a20260811PD262/spil-plant-2028-subsidiary-ase.html",
-     "sector": "Technology",
-     "country": "TW",
-     "quote": "\u2026wan, amid surging global demand for \u2f00artificial intelligence\u2f01 (AI) and high-performance computing (HPC). The plant will cover an area of approximately six hectares and is\u2026"
     }
    ],
    "daily": [
@@ -27452,14 +27405,11 @@
     },
     {
      "day": "2026-08-12",
-     "n": 6
+     "n": 7
     }
    ],
-   "variants": [
-    "artificial intelligence data"
-   ],
-   "specificity": 0.892,
-   "rank": 4.37
+   "specificity": 0.891,
+   "rank": 4.39
   },
   {
    "id": "supply-chain",
@@ -27803,7 +27753,7 @@
      "new",
      4,
      0,
-     58.0,
+     58.1,
      [
       {
        "title": "Amazon to add supply chain facilities in New York, Texas",
@@ -28621,7 +28571,7 @@
      "new",
      6,
      0,
-     133.0,
+     133.2,
      [
       {
        "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
@@ -28652,7 +28602,7 @@
      "new",
      8,
      0,
-     88.7,
+     88.8,
      [
       {
        "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
@@ -28683,7 +28633,7 @@
      "new",
      4,
      0,
-     70.9,
+     71.0,
      [
       {
        "title": "US DOE closes US$489 million loan with Pattern Energy to support BESS, natural gas in Puerto Rico",
@@ -29177,10 +29127,6 @@
      "n": 2
     }
    ],
-   "variants": [
-    "liquefied natural gas",
-    "natural gas lng"
-   ],
    "specificity": 0.949,
    "rank": 2.34
   },
@@ -29368,7 +29314,7 @@
      "new",
      4,
      0,
-     92.2,
+     92.3,
      [
       {
        "title": "Invinity sells 43MWh long-duration flow battery system to US Midwest rural electric cooperative",
@@ -29385,7 +29331,7 @@
      "new",
      4,
      0,
-     73.8,
+     73.9,
      [
       {
        "title": "\u00d8rsted turns on 500 \u2f00MWh battery\u2f01 project with co-located solar in Texas",
@@ -29402,7 +29348,7 @@
      "new",
      4,
      0,
-     33.5,
+     33.6,
      [
       {
        "title": "Market intelligence, innovation, and trust: The manufacturer's new playbook for staying ahead in Europe's storage market",
@@ -30100,7 +30046,7 @@
      "new",
      6,
      0,
-     131.7,
+     131.9,
      [
       {
        "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
@@ -30162,7 +30108,7 @@
      "new",
      4,
      0,
-     39.9,
+     40.0,
      [
       {
        "title": "US container imports rise in July despite ongoing trade uncertainty",
@@ -30912,7 +30858,7 @@
      "new",
      4,
      0,
-     166.2,
+     166.3,
      [
       {
        "title": "GM exits Samsung SDI \u2f00battery cell\u2f01 joint venture",
@@ -30936,7 +30882,7 @@
      "new",
      4,
      0,
-     41.5,
+     41.6,
      [
       {
        "title": "Dixon Tech, Vivo JV transaction to be completed in 2 months, revenue flow from Oct-Dec qtr: CEO",
@@ -31582,7 +31528,7 @@
      "new",
      4,
      0,
-     123.0,
+     123.1,
      [
       {
        "title": "\u00d8rsted turns on 500 \u2f00MWh battery\u2f01 project with co-located solar in Texas",
@@ -32067,7 +32013,7 @@
    "effectiveSectors": 2.06,
    "newestSector": "Utilities",
    "daysSinceNewestSector": 34,
-   "articles14d": 28,
+   "articles14d": 29,
    "articlesPrior14d": 7,
    "publishers": 15,
    "sectors": [
@@ -32100,7 +32046,7 @@
    "origins": [
     [
      "US",
-     39
+     40
     ],
     [
      "GB",
@@ -32231,6 +32177,24 @@
       ]
      },
      {
+      "sector": "Real estate",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       1
+      ]
+     },
+     {
       "sector": "Waste & water",
       "n": [
        0,
@@ -32267,24 +32231,6 @@
       ]
      },
      {
-      "sector": "Real estate",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0
-      ]
-     },
-     {
       "sector": "Labor",
       "n": [
        0,
@@ -32311,7 +32257,7 @@
      "rising",
      4,
      2,
-     219.6,
+     212.2,
      [
       {
        "title": "Why Illinois has struggled to turn old coal sites into solar farms",
@@ -32335,7 +32281,7 @@
      "new",
      4,
      0,
-     164.7,
+     159.2,
      [
       {
        "title": "Why Illinois has struggled to turn old coal sites into \u2f00solar farms\u2f01",
@@ -32359,7 +32305,7 @@
      "rising",
      4,
      2,
-     59.9,
+     57.9,
      [
       {
        "title": "Colombia Revives Oil And Gas After Four-Year Renewable Energy Push",
@@ -32383,7 +32329,7 @@
      "new",
      8,
      0,
-     12.4,
+     12.0,
      [
       {
        "title": "Why Southeast Asia's Clean Energy Surge Could Stall Before It Starts",
@@ -32802,10 +32748,10 @@
     },
     {
      "day": "2026-08-12",
-     "n": 4
+     "n": 5
     }
    ],
-   "specificity": 0.972,
+   "specificity": 0.971,
    "rank": 2.02
   },
   {
@@ -32962,7 +32908,7 @@
      "new",
      6,
      0,
-     329.4,
+     329.7,
      [
       {
        "title": "Red Sea Attack Sinks India-Flagged Cargo Vessel Off Yemen",
@@ -32993,7 +32939,7 @@
      "new",
      8,
      0,
-     263.5,
+     263.8,
      [
       {
        "title": "Middle East War Pushes China Toward the Arctic Trade Route",
@@ -33024,7 +32970,7 @@
      "new",
      10,
      0,
-     183.0,
+     183.2,
      [
       {
        "title": "Middle East War Pushes China Toward the Arctic Trade Route",
@@ -33055,7 +33001,7 @@
      "new",
      4,
      0,
-     164.7,
+     164.9,
      [
       {
        "title": "US disables boxship while Red Sea attack kills six",
@@ -33079,7 +33025,7 @@
      "new",
      4,
      0,
-     131.7,
+     131.9,
      [
       {
        "title": "Saudi oil tanker heads to India as Red Sea, Hormuz traffic slows amid attacks",
@@ -33720,7 +33666,7 @@
      "new",
      4,
      0,
-     245.9,
+     246.2,
      [
       {
        "title": "Tesla emerges as biggest winner from Germany's EV subsidies, while China-made models \u2f00gain ground\u2f01",
@@ -33744,7 +33690,7 @@
      "new",
      4,
      0,
-     147.6,
+     147.7,
      [
       {
        "title": "German EV subsidies lift Chinese automakers in a reshaped market",
@@ -34375,7 +34321,7 @@
      "new",
      4,
      0,
-     419.2,
+     419.6,
      [
       {
        "title": "China Added More Nuclear Power In A Decade Than The Rest Of The World Combined",
@@ -34399,7 +34345,7 @@
      "new",
      4,
      0,
-     209.6,
+     209.8,
      [
       {
        "title": "HD Hyundai Heavy Industries Wins 956 Billion-Won Power Generation Deal for U.S. Data Centers",
@@ -34416,7 +34362,7 @@
      "new",
      4,
      0,
-     167.7,
+     167.9,
      [
       {
        "title": "HD Hydrogen Completes SOFC Mass Production System",
@@ -34440,7 +34386,7 @@
      "new",
      4,
      0,
-     139.7,
+     139.9,
      [
       {
        "title": "A Pioneering Approach to Building New Generation Resources",
@@ -35134,7 +35080,7 @@
      "new",
      6,
      0,
-     192.1,
+     192.3,
      [
       {
        "title": "\u2f00Drone strikes\u2f01 put Libya's Zawiya oil hub at risk",
@@ -35165,7 +35111,7 @@
      "new",
      4,
      0,
-     52.4,
+     52.5,
      [
       {
        "title": "HD Hyundai Heavy Industries Wins 956 Billion-Won \u2f00Power Generation\u2f01 Deal for U.S. Data Centers",
@@ -35206,7 +35152,7 @@
      "steady",
      2,
      2,
-     5.3,
+     5.2,
      [
       {
        "title": "AI boom puts shipowners in race with tech giants for engines",
@@ -35811,7 +35757,7 @@
      "new",
      4,
      0,
-     41.5,
+     41.6,
      [
       {
        "title": "Dixon Tech, Vivo JV transaction to be completed in 2 months, revenue flow from Oct-Dec qtr: CEO",
@@ -36383,7 +36329,7 @@
      "new",
      4,
      0,
-     558.9,
+     559.5,
      [
       {
        "title": "Haechitech enters eSSD sensors as it prepares Kosdaq listing",
@@ -36407,7 +36353,7 @@
      "new",
      4,
      0,
-     33.5,
+     33.6,
      [
       {
        "title": "AI technology could improve \u2f00energy storage\u2f01",
@@ -37518,7 +37464,7 @@
      "new",
      4,
      0,
-     335.3,
+     335.7,
      [
       {
        "title": "Toyota to join Volvo, Daimler heavy-duty fuel-cell joint venture",
@@ -37542,7 +37488,7 @@
      "new",
      4,
      0,
-     186.3,
+     186.5,
      [
       {
        "title": "Philippines unveils 60bn pesos EV manufacturing incentive scheme",
@@ -38722,7 +38668,7 @@
      "new",
      4,
      0,
-     512.3,
+     512.9,
      [
       {
        "title": "Michelin to stay the course on India investments despite global cost pressures",
@@ -40845,7 +40791,7 @@
      "new",
      4,
      0,
-     164.7,
+     164.9,
      [
       {
        "title": "Houthis Claim Ballistic Missile Hit on Saudi Oil Tanker in \u2f00Red Sea\u2f01",
@@ -41423,7 +41369,7 @@
      "new",
      4,
      0,
-     922.2,
+     923.2,
      [
       {
        "title": "Michelin to stay the course on India investments despite global cost pressures",
@@ -42602,7 +42548,7 @@
      "new",
      4,
      0,
-     115.3,
+     115.4,
      [
       {
        "title": "Trump extends Jones Act waiver despite mounting maritime opposition",
@@ -42626,7 +42572,7 @@
      "new",
      4,
      0,
-     32.9,
+     33.0,
      [
       {
        "title": "Exxon and Chevron\u2019s $26.5 Billion Quarter Draws Trump\u2019s Ire",
@@ -43754,7 +43700,7 @@
      "new",
      4,
      0,
-     335.3,
+     335.7,
      [
       {
        "title": "Europe's Next \u2f00Energy Crisis\u2f01 Won't Be a War, It'll Be Peak Oil",
@@ -44839,7 +44785,7 @@
      "new",
      6,
      0,
-     628.8,
+     629.5,
      [
       {
        "title": "Drone Attack Hits Power Plant at Key Libyan Oil Hub",
@@ -44863,7 +44809,7 @@
      "new",
      4,
      0,
-     419.2,
+     419.6,
      [
       {
        "title": "Drone Attack Hits Power Plant at Key Libyan Oil Hub",
@@ -44887,7 +44833,7 @@
      "new",
      4,
      0,
-     152.4,
+     152.6,
      [
       {
        "title": "FESCO suspends \u2f00Black Sea\u2f01 bookings after vessel sinking",
@@ -45459,7 +45405,7 @@
      "steady",
      2,
      2,
-     153.7,
+     153.9,
      [
       {
        "title": "China Is Betting on Quantum Tech to Fix Its \u2f00Power Grid\u2f01",
@@ -45476,7 +45422,7 @@
      "new",
      4,
      0,
-     115.3,
+     115.4,
      [
       {
        "title": "Trump extends Jones Act waiver despite mounting maritime opposition",
@@ -45531,7 +45477,7 @@
      "steady",
      2,
      2,
-     8.5,
+     8.4,
      [
       {
        "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
@@ -46073,7 +46019,7 @@
      "new",
      6,
      0,
-     614.8,
+     615.5,
      [
       {
        "title": "Middle East War Pushes China Toward the Arctic Trade Route",
@@ -46104,7 +46050,7 @@
      "new",
      4,
      0,
-     512.3,
+     512.9,
      [
       {
        "title": "Death toll rises to six after Houthi attack on Tihamah in Bab el-Mandeb",
@@ -46128,7 +46074,7 @@
      "new",
      10,
      0,
-     183.0,
+     183.2,
      [
       {
        "title": "Middle East War Pushes China Toward the Arctic Trade Route",
@@ -46659,7 +46605,7 @@
      "new",
      4,
      0,
-     512.3,
+     512.9,
      [
       {
        "title": "Drone strikes put Libya's Zawiya oil hub at risk",
@@ -46683,7 +46629,7 @@
      "new",
      6,
      0,
-     279.5,
+     279.8,
      [
       {
        "title": "Kazakhstan Weighs New Routes as Drone Strikes Squeeze \u2f00Black Sea\u2f01 Oil Exports",
@@ -46714,7 +46660,7 @@
      "new",
      4,
      0,
-     256.2,
+     256.4,
      [
       {
        "title": "Drone strikes put Libya's Zawiya oil hub at risk",
@@ -46738,7 +46684,7 @@
      "new",
      6,
      0,
-     192.1,
+     192.3,
      [
       {
        "title": "Drone strikes put Libya's Zawiya oil hub at risk",
@@ -47317,7 +47263,7 @@
      "new",
      4,
      0,
-     409.9,
+     410.3,
      [
       {
        "title": "EU Locks In Plan To Triple Energy Storage Capacity By 2030",
@@ -47852,7 +47798,7 @@
      "new",
      4,
      0,
-     512.3,
+     512.9,
      [
       {
        "title": "OCP APAC 2026: Murata upgrades power, optical products as AI data centers strain global infrastructure",
@@ -50076,7 +50022,7 @@
      "new",
      4,
      0,
-     24.2,
+     24.0,
      [
       {
        "title": "Samsung weighs power subsidiary to secure semiconductor electricity by 2027",
@@ -51362,7 +51308,7 @@
      "new",
      6,
      0,
-     25.3,
+     25.4,
      [
       {
        "title": "Nvidia invests up to US$3B in Lancium as energy becomes new AI bottleneck",
@@ -51393,7 +51339,7 @@
      "rising",
      10,
      2,
-     24.1,
+     24.2,
      [
       {
        "title": "PJM eyes data center, crypto reliability requirements after 3.8 GW of load trips offline",
@@ -51902,7 +51848,6 @@
     }
    ],
    "variants": [
-    "intelligence data center",
     "grid operator"
    ],
    "specificity": 0.73,
@@ -52084,7 +52029,7 @@
      "new",
      10,
      0,
-     170.8,
+     171.0,
      [
       {
        "title": "DPAS Directive Allocation Order and Additional Requirements for Recoverable Critical Minerals and Materials",
@@ -52115,7 +52060,7 @@
      "new",
      8,
      0,
-     170.8,
+     171.0,
      [
       {
        "title": "US announces US$2bn investment in critical \u2f00minerals supply chains\u2f01",
@@ -52146,7 +52091,7 @@
      "new",
      4,
      0,
-     85.4,
+     85.5,
      [
       {
        "title": "U.S. Moves to Keep Tungsten Scrap and Battery Metals at Home",
@@ -52786,7 +52731,7 @@
      "new",
      4,
      0,
-     118.2,
+     118.4,
      [
       {
        "title": "Hormuz Crisis Is Rewriting the Global LPG Trade",
@@ -52810,7 +52755,7 @@
      "new",
      6,
      0,
-     106.4,
+     106.5,
      [
       {
        "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
@@ -52841,7 +52786,7 @@
      "new",
      4,
      0,
-     88.7,
+     88.8,
      [
       {
        "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
@@ -52865,7 +52810,7 @@
      "new",
      4,
      0,
-     59.1,
+     59.2,
      [
       {
        "title": "India's Imports of Russian Crude Hit New High in July",
@@ -53529,7 +53474,7 @@
      "new",
      6,
      0,
-     263.5,
+     263.8,
      [
       {
        "title": "Brent Tops $89 Amid U.S.-Iran Stalemate Over Hormuz",
@@ -53560,7 +53505,7 @@
      "new",
      6,
      0,
-     197.6,
+     197.8,
      [
       {
        "title": "ONGC Profit More Than Doubles as Oil Prices Surge",
@@ -53591,7 +53536,7 @@
      "new",
      12,
      0,
-     143.7,
+     143.9,
      [
       {
        "title": "Trump Puts 81 Million Gulf Acres Up for Oil and Gas Auction",
@@ -53622,7 +53567,7 @@
      "new",
      4,
      0,
-     131.7,
+     131.9,
      [
       {
        "title": "Lower Oil Prices Lend Support For The Gold Rally",
@@ -53646,7 +53591,7 @@
      "new",
      4,
      0,
-     105.4,
+     105.5,
      [
       {
        "title": "Middle East War Triggers New Global Refining Boom",
@@ -53670,7 +53615,7 @@
      "new",
      4,
      0,
-     32.9,
+     33.0,
      [
       {
        "title": "Exxon and Chevron\u2019s $26.5 Billion Quarter Draws Trump\u2019s Ire",
@@ -54827,7 +54772,7 @@
      "new",
      4,
      0,
-     219.6,
+     219.8,
      [
       {
        "title": "Coast Guard coordinates rescue after fire aboard Min Jiang Kou",
@@ -55373,7 +55318,7 @@
      "new",
      4,
      0,
-     419.2,
+     419.6,
      [
       {
        "title": "Black Sea drone strikes send CPC tanker rates to $400,000 a day",
@@ -55397,7 +55342,7 @@
      "new",
      6,
      0,
-     279.5,
+     279.8,
      [
       {
        "title": "Kazakhstan Weighs New Routes as \u2f00Drone Strikes\u2f01 Squeeze Black Sea Oil Exports",
@@ -55428,7 +55373,7 @@
      "new",
      4,
      0,
-     186.3,
+     186.5,
      [
       {
        "title": "Kazakhstan Weighs New Routes as Drone Strikes Squeeze Black Sea \u2f00Oil Exports\u2f01",
@@ -55992,7 +55937,7 @@
      "steady",
      2,
      2,
-     153.7,
+     153.9,
      [
       {
        "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
@@ -56009,7 +55954,7 @@
      "steady",
      2,
      2,
-     14.1,
+     14.0,
      [
       {
        "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
