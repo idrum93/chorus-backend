@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-12T19:50:52.759545+00:00",
+ "generated": "2026-08-12T20:05:00.489623+00:00",
  "prices": {
   "Autos": [
    {
@@ -486,7 +486,11 @@
    },
    {
     "day": "2026-08-11",
-    "close": 87.12
+    "close": 86.98
+   },
+   {
+    "day": "2026-08-12",
+    "close": 86.91
    }
   ],
   "Materials": [
@@ -732,7 +736,7 @@
    },
    {
     "day": "2026-08-12",
-    "close": 52.72
+    "close": 52.55
    }
   ],
   "Energy": [
@@ -978,7 +982,7 @@
    },
    {
     "day": "2026-08-12",
-    "close": 60.95
+    "close": 60.99
    }
   ],
   "Finance": [
@@ -1224,7 +1228,7 @@
    },
    {
     "day": "2026-08-12",
-    "close": 57.98
+    "close": 57.9
    }
   ],
   "Industrials": [
@@ -1470,7 +1474,7 @@
    },
    {
     "day": "2026-08-12",
-    "close": 186.26
+    "close": 185.86
    }
   ],
   "Technology": [
@@ -1712,7 +1716,11 @@
    },
    {
     "day": "2026-08-11",
-    "close": 186.06
+    "close": 186.09
+   },
+   {
+    "day": "2026-08-12",
+    "close": 188.59
    }
   ],
   "Real estate": [
@@ -1958,7 +1966,7 @@
    },
    {
     "day": "2026-08-12",
-    "close": 44.48
+    "close": 44.45
    }
   ],
   "Utilities": [
@@ -2204,7 +2212,7 @@
    },
    {
     "day": "2026-08-12",
-    "close": 43.76
+    "close": 43.74
    }
   ],
   "Healthcare": [
@@ -2450,7 +2458,7 @@
    },
    {
     "day": "2026-08-12",
-    "close": 168.83
+    "close": 168.39
    }
   ],
   "Consumer": [
@@ -2696,14 +2704,14 @@
    },
    {
     "day": "2026-08-12",
-    "close": 118.2
+    "close": 117.92
    }
   ]
  },
  "coverage": [
   [
    "US",
-   6423
+   6425
   ],
   [
    "GB",
@@ -3057,11 +3065,11 @@
      "quote": "\u2026r says the productivity gains from t\u2f00echnology\u2f01 may now be plateauing. \u201cI am investing 2000 crore\u201d in IT, he said, questioning whether banks are getting enou\u2026"
     },
     {
-     "title": "Apple settles EEOC's claims the company denied Jewish worker his Sabbath days off",
-     "url": "https://www.hrdive.com/news/apple-settles-eeocs-claims-the-company-denied-jewish-worker-his-sabbath-da/827703/",
-     "publisher": "HR Dive",
-     "sector": "Labor",
-     "quote": "Despite agreeing to the consent d\u2f00ecree\u2f01, the company denies the allegations, per court documents."
+     "title": "Sweden OKs Boliden's Laver copper concession",
+     "url": "https://www.northernminer.com/news/sweden-oks-bolidens-laver-copper-concession/1003893948/",
+     "publisher": "Northern Miner",
+     "sector": "Materials",
+     "quote": "Sweden rej\u2f00ected\u2f01 appeals against Boliden's (STO: BOL) mining concession for Laver, clearing a key hurdle for a copper project\u2026"
     }
    ],
    "name": "European Commission",
@@ -3902,7 +3910,6 @@
    "sector": "Autos",
    "borrowed": [
     "energy storage",
-    "electric vehicle",
     "storage system",
     "joint venture",
     "supply chain",
@@ -3916,7 +3923,7 @@
     {
      "term": "energy storage",
      "articles": 2,
-     "home": "Energy",
+     "home": "Utilities",
      "sectors": 3,
      "direction": "rising",
      "variants": [
@@ -3951,43 +3958,9 @@
      ]
     },
     {
-     "term": "electric vehicle",
-     "articles": 1,
-     "home": "Energy",
-     "sectors": 3,
-     "direction": "rising",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "Carbon Brief",
-       "title": "Analysis: Weaker EV targets could cost UK consumers \u00a33bn a year by 2030",
-       "url": "https://www.carbonbrief.org/analysis-weaker-ev-targets-could-cost-uk-consumers-3bn-a-year-by-2030",
-       "sector": "Policy",
-       "country": "GB",
-       "quote": "\u2026nsultation on weakening targets for \u2f00electric vehicles\u2f01 (EVs) could cost consumers as much as \u00a33bn a\u2026 The post Analysis: Weaker EV targets could cost UK consumers \u00a33\u2026"
-      },
-      {
-       "publisher": "Electrive",
-       "title": "Early switch to EVs delivers significant climate benefits",
-       "url": "https://www.electrive.com/2026/08/12/early-switch-to-evs-delivers-significant-climate-benefits/",
-       "sector": "Autos",
-       "country": "DE",
-       "quote": "\u2026ar rather than replacing it with an \u2f00electric vehicle\u2f01 is not necessarily the more climate-friendly option. A US study finds that switching to an electric car reduc\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Tesla emerges as biggest winner from Germany's EV subsidies, while China-made models gain ground",
-       "url": "https://www.digitimes.com/news/a20260812PD233/data-germany-ev-subsidies-tesla.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "Whether Germany's renewed \u2f00electric vehicle\u2f01 (EV) subsidies are inadvertently helping Chinese brands accelerate their push into Europe has become a closel\u2026"
-      }
-     ]
-    },
-    {
      "term": "storage system",
      "articles": 1,
-     "home": "Policy",
+     "home": "Utilities",
      "sectors": 4,
      "direction": "rising",
      "variants": [],
@@ -4021,7 +3994,7 @@
     {
      "term": "joint venture",
      "articles": 1,
-     "home": "Real estate",
+     "home": "Technology",
      "sectors": 5,
      "direction": "rising",
      "variants": [],
@@ -4091,7 +4064,7 @@
     {
      "term": "middle east",
      "articles": 1,
-     "home": "Supply chain",
+     "home": "Energy",
      "sectors": 4,
      "direction": "rising",
      "variants": [],
@@ -4125,7 +4098,7 @@
     {
      "term": "data center",
      "articles": 1,
-     "home": "Utilities",
+     "home": "Technology",
      "sectors": 7,
      "direction": "rising",
      "variants": [
@@ -4191,6 +4164,40 @@
        "quote": "\u2026as a 'sunscreen' for heterojunction \u2f00solar cells\u2f01, reducing UV-induced degradation while maintaining high visible-light transmission. ZnO-coated modules achiev\u2026"
       }
      ]
+    },
+    {
+     "term": "electric vehicle",
+     "articles": 1,
+     "home": "Autos",
+     "sectors": 3,
+     "direction": "rising",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "Carbon Brief",
+       "title": "Analysis: Weaker EV targets could cost UK consumers \u00a33bn a year by 2030",
+       "url": "https://www.carbonbrief.org/analysis-weaker-ev-targets-could-cost-uk-consumers-3bn-a-year-by-2030",
+       "sector": "Policy",
+       "country": "GB",
+       "quote": "\u2026nsultation on weakening targets for \u2f00electric vehicles\u2f01 (EVs) could cost consumers as much as \u00a33bn a\u2026 The post Analysis: Weaker EV targets could cost UK consumers \u00a33\u2026"
+      },
+      {
+       "publisher": "Electrive",
+       "title": "Early switch to EVs delivers significant climate benefits",
+       "url": "https://www.electrive.com/2026/08/12/early-switch-to-evs-delivers-significant-climate-benefits/",
+       "sector": "Autos",
+       "country": "DE",
+       "quote": "\u2026ar rather than replacing it with an \u2f00electric vehicle\u2f01 is not necessarily the more climate-friendly option. A US study finds that switching to an electric car reduc\u2026"
+      },
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "Tesla emerges as biggest winner from Germany's EV subsidies, while China-made models gain ground",
+       "url": "https://www.digitimes.com/news/a20260812PD233/data-germany-ev-subsidies-tesla.html",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "Whether Germany's renewed \u2f00electric vehicle\u2f01 (EV) subsidies are inadvertently helping Chinese brands accelerate their push into Europe has become a closel\u2026"
+      }
+     ]
     }
    ],
    "examples": [
@@ -4228,11 +4235,8 @@
    "sector": "Technology",
    "borrowed": [
     "supply chain",
-    "production capacity",
-    "joint venture",
     "storage capacity",
-    "power demand",
-    "data center"
+    "power demand"
    ],
    "articles": 51,
    "articles14d": 43,
@@ -4274,74 +4278,6 @@
      ]
     },
     {
-     "term": "production capacity",
-     "articles": 3,
-     "home": "Autos",
-     "sectors": 2,
-     "direction": "rising",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Compal doubles AI server capacity, targets 30 40% revenue share by 2027",
-       "url": "https://www.digitimes.com/news/a20260811PD246/compal-ai-server-manufacturing-revenue-capacity.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026, bringing new-generation AI server \u2f00production capacity\u2f01 online. Compal chairman Ray Chen said the company was still a newcomer to AI servers two years ago but has si\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Samsung races to qualify Taylor fab as 2nm demand turns US capacity into a strategic asset",
-       "url": "https://www.digitimes.com/news/a20260811VL206/samsung-fab-2nm-capacity-demand.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026xpanding the nation's semiconductor \u2f00production capacity\u2f01. But the broader objective extends beyond capacity ramps alone toward building a more self-reinforcing semico\u2026"
-      },
-      {
-       "publisher": "ET Retail",
-       "title": "Dixon Tech, Vivo JV transaction to be completed in 2 months, revenue flow from Oct-Dec qtr: CEO",
-       "url": "https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology/dixon-tech-vivo-jv-transaction-to-be-completed-in-2-months-revenue-flow-from-oct-dec-qtr-ceo/133078944",
-       "sector": "Consumer",
-       "country": "IN",
-       "quote": "\u2026is also expanding its camera module \u2f00production capacity\u2f01 significantly. Its new display facility construction is complete, with machinery installation underway. Mass\u2026"
-      }
-     ]
-    },
-    {
-     "term": "joint venture",
-     "articles": 3,
-     "home": "Real estate",
-     "sectors": 5,
-     "direction": "rising",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "Commercial Observer",
-       "title": "ArrowMark Partners Refis Utah Apartments With $58M Bridge Loan",
-       "url": "https://commercialobserver.com/2026/08/arrowmark-partners-utah-apartments/",
-       "sector": "Real estate",
-       "country": "US",
-       "quote": "A \u2f00joint venture\u2f01 between Alpha Development Group and Bow River Capital has sealed $58 million of bridge debt to refinance two\u2026"
-      },
-      {
-       "publisher": "ET Manufacturing",
-       "title": "Tata, Mahindra, HAL in race as govt floats \u20b91 lakh crore IAF tender for 60 aircraft",
-       "url": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/tata-mahindra-hal-in-race-as-govt-floats-1-lakh-crore-iaf-tender-for-60-aircraft/133185226",
-       "sector": "Industrials",
-       "country": "IN",
-       "quote": "\u2026mpanies will lead the program, with \u2f00joint ventures\u2f01 manufacturing the planes. Around 20% of aircraft will arrive in fly-away condition."
-      },
-      {
-       "publisher": "Splash247",
-       "title": "Samudera-Imoto venture orders first newbuild for Japan push",
-       "url": "https://splash247.com/samudera-imoto-venture-orders-first-newbuild-for-japan-push/",
-       "sector": "Supply chain",
-       "country": "SG",
-       "quote": "\u2026ne and Imoto Corporation's Japanese \u2f00joint venture\u2f01 has moved into newbuildings, ordering a 696 teu feeder in China. Blue Ocean Shipping has signed the contract\u2026"
-      }
-     ]
-    },
-    {
      "term": "storage capacity",
      "articles": 1,
      "home": "Energy",
@@ -4378,7 +4314,7 @@
     {
      "term": "power demand",
      "articles": 1,
-     "home": "Utilities",
+     "home": "Energy",
      "sectors": 3,
      "direction": "rising",
      "variants": [],
@@ -4406,42 +4342,6 @@
        "sector": "Energy",
        "country": "US",
        "quote": ""
-      }
-     ]
-    },
-    {
-     "term": "data center",
-     "articles": 1,
-     "home": "Utilities",
-     "sectors": 7,
-     "direction": "rising",
-     "variants": [
-      "grid operator"
-     ],
-     "examples": [
-      {
-       "publisher": "Banking Dive",
-       "title": "Bank of America pledges $250B toward US infrastructure update",
-       "url": "https://www.bankingdive.com/news/bank-of-america-pledges-250b-toward-us-infrastructure-update/827705/",
-       "sector": "Finance",
-       "country": "US",
-       "quote": "\u2026t in and advise on projects such as \u2f00data centers\u2f01, power generation and transportation."
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Landmark Dividend acquires \u2f00data center\u2f01 in Jacksonville, Florida, for $8.1m",
-       "url": "https://www.datacenterdynamics.com/en/news/landmark-dividend-acquires-data-center-in-jacksonville-florida-for-81m/",
-       "sector": "Technology",
-       "country": "US",
-       "quote": ""
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Former LBNL supercomputing facility in Oakland, California, targeted for 20MW \u2f00data center\u2f01",
-       "url": "https://www.datacenterdynamics.com/en/news/former-lbnl-supercomputing-facility-in-oakland-california-targeted-for-20mw-data-center/",
-       "sector": "Technology",
-       "country": "US",
-       "quote": "\u2026to turn vacant site back into live \u2f00data center\u2f01"
       }
      ]
     },
@@ -4476,6 +4376,110 @@
        "sector": "Supply chain",
        "country": "SG",
        "quote": "\u2026echnology alone, but from combining \u2f00artificial intelligence\u2f01 with trusted shipping data. Goudchaux has been around maritime technology long enough to have witnessed sever\u2026"
+      }
+     ]
+    },
+    {
+     "term": "production capacity",
+     "articles": 3,
+     "home": "Technology",
+     "sectors": 2,
+     "direction": "rising",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "Compal doubles AI server capacity, targets 30 40% revenue share by 2027",
+       "url": "https://www.digitimes.com/news/a20260811PD246/compal-ai-server-manufacturing-revenue-capacity.html",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026, bringing new-generation AI server \u2f00production capacity\u2f01 online. Compal chairman Ray Chen said the company was still a newcomer to AI servers two years ago but has si\u2026"
+      },
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "Samsung races to qualify Taylor fab as 2nm demand turns US capacity into a strategic asset",
+       "url": "https://www.digitimes.com/news/a20260811VL206/samsung-fab-2nm-capacity-demand.html",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026xpanding the nation's semiconductor \u2f00production capacity\u2f01. But the broader objective extends beyond capacity ramps alone toward building a more self-reinforcing semico\u2026"
+      },
+      {
+       "publisher": "ET Retail",
+       "title": "Dixon Tech, Vivo JV transaction to be completed in 2 months, revenue flow from Oct-Dec qtr: CEO",
+       "url": "https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology/dixon-tech-vivo-jv-transaction-to-be-completed-in-2-months-revenue-flow-from-oct-dec-qtr-ceo/133078944",
+       "sector": "Consumer",
+       "country": "IN",
+       "quote": "\u2026is also expanding its camera module \u2f00production capacity\u2f01 significantly. Its new display facility construction is complete, with machinery installation underway. Mass\u2026"
+      }
+     ]
+    },
+    {
+     "term": "joint venture",
+     "articles": 3,
+     "home": "Technology",
+     "sectors": 5,
+     "direction": "rising",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "Commercial Observer",
+       "title": "ArrowMark Partners Refis Utah Apartments With $58M Bridge Loan",
+       "url": "https://commercialobserver.com/2026/08/arrowmark-partners-utah-apartments/",
+       "sector": "Real estate",
+       "country": "US",
+       "quote": "A \u2f00joint venture\u2f01 between Alpha Development Group and Bow River Capital has sealed $58 million of bridge debt to refinance two\u2026"
+      },
+      {
+       "publisher": "ET Manufacturing",
+       "title": "Tata, Mahindra, HAL in race as govt floats \u20b91 lakh crore IAF tender for 60 aircraft",
+       "url": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/tata-mahindra-hal-in-race-as-govt-floats-1-lakh-crore-iaf-tender-for-60-aircraft/133185226",
+       "sector": "Industrials",
+       "country": "IN",
+       "quote": "\u2026mpanies will lead the program, with \u2f00joint ventures\u2f01 manufacturing the planes. Around 20% of aircraft will arrive in fly-away condition."
+      },
+      {
+       "publisher": "Splash247",
+       "title": "Samudera-Imoto venture orders first newbuild for Japan push",
+       "url": "https://splash247.com/samudera-imoto-venture-orders-first-newbuild-for-japan-push/",
+       "sector": "Supply chain",
+       "country": "SG",
+       "quote": "\u2026ne and Imoto Corporation's Japanese \u2f00joint venture\u2f01 has moved into newbuildings, ordering a 696 teu feeder in China. Blue Ocean Shipping has signed the contract\u2026"
+      }
+     ]
+    },
+    {
+     "term": "data center",
+     "articles": 1,
+     "home": "Technology",
+     "sectors": 7,
+     "direction": "rising",
+     "variants": [
+      "grid operator"
+     ],
+     "examples": [
+      {
+       "publisher": "Banking Dive",
+       "title": "Bank of America pledges $250B toward US infrastructure update",
+       "url": "https://www.bankingdive.com/news/bank-of-america-pledges-250b-toward-us-infrastructure-update/827705/",
+       "sector": "Finance",
+       "country": "US",
+       "quote": "\u2026t in and advise on projects such as \u2f00data centers\u2f01, power generation and transportation."
+      },
+      {
+       "publisher": "Data Center Dynamics",
+       "title": "Landmark Dividend acquires \u2f00data center\u2f01 in Jacksonville, Florida, for $8.1m",
+       "url": "https://www.datacenterdynamics.com/en/news/landmark-dividend-acquires-data-center-in-jacksonville-florida-for-81m/",
+       "sector": "Technology",
+       "country": "US",
+       "quote": ""
+      },
+      {
+       "publisher": "Data Center Dynamics",
+       "title": "Former LBNL supercomputing facility in Oakland, California, targeted for 20MW \u2f00data center\u2f01",
+       "url": "https://www.datacenterdynamics.com/en/news/former-lbnl-supercomputing-facility-in-oakland-california-targeted-for-20mw-data-center/",
+       "sector": "Technology",
+       "country": "US",
+       "quote": "\u2026to turn vacant site back into live \u2f00data center\u2f01"
       }
      ]
     }
@@ -4515,8 +4519,8 @@
    "sector": "Energy",
    "borrowed": [
     "artificial intelligence",
+    "battery storage",
     "oil tanker",
-    "crude oil",
     "red sea"
    ],
    "articles": 13,
@@ -4557,6 +4561,40 @@
      ]
     },
     {
+     "term": "battery storage",
+     "articles": 1,
+     "home": "Utilities",
+     "sectors": 2,
+     "direction": "rising",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "Data Center Dynamics",
+       "title": "SpaceX to power TeraFab chip factory in Texas via on-site generation and \u2f00battery storage\u2f01",
+       "url": "https://www.datacenterdynamics.com/en/news/spacex-to-power-terafab-chip-factory-in-texas-via-on-site-generation-and-battery-storage/",
+       "sector": "Technology",
+       "country": "US",
+       "quote": ""
+      },
+      {
+       "publisher": "Energy Live News",
+       "title": "Cornwall to house renewable energy project",
+       "url": "https://www.energylivenews.com/2026/08/12/cornwall-to-house-renewable-energy-project/",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "The solar park and \u2f00battery storage\u2f01 system is expected to begin commercial operations in 2027 The post Cornwall to house renewable energy project\u2026"
+      },
+      {
+       "publisher": "Energy Storage News",
+       "title": "US on track to double BESS capacity by 2028, EIA reports",
+       "url": "https://www.energy-storage.news/us-double-bess-capacity-2028-eia-reports/",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "\u2026pate bringing an additional 54GW of \u2f00battery storage\u2f01 capacity online over the next two and half years, according to the US Energy Information Administration (EIA)\u2026"
+      }
+     ]
+    },
+    {
      "term": "oil tanker",
      "articles": 1,
      "home": "Supply chain",
@@ -4587,43 +4625,6 @@
        "sector": "Energy",
        "country": "US",
        "quote": "\u2026claimed a \u201cprecise hit\u201d on a Saudi \u2f00oil tanker\u2f01 in the Red Sea, Houthi military spokesperson Yahya Saree said. \u201cThe Yemeni Armed Forces conducted a military\u2026"
-      }
-     ]
-    },
-    {
-     "term": "crude oil",
-     "articles": 1,
-     "home": "Utilities",
-     "sectors": 2,
-     "direction": "new",
-     "variants": [
-      "crude oil price",
-      "crude oil inventory"
-     ],
-     "examples": [
-      {
-       "publisher": "OilPrice",
-       "title": "Indian Refiners Seek 6 Million Barrels of Spot Crude",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Refiners-Seek-6-Million-Barrels-of-Spot-Crude.html",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026buy a combined 6 million barrels of \u2f00crude oil\u2f01 via spot tenders, Reuters reported on Wednesday, citing tender documents it has seen. HPCL is seeking up to 4\u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "EIA Sees Massive Uptick in US \u2f00Crude Oil\u2f01 Inventories",
-       "url": "https://oilprice.com/Energy/Crude-Oil/EIA-Sees-Massive-Uptick-in-US-Crude-Oil-Inventories.html",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2f00Crude oil\u2f01 inventories in the United States saw a massive increase of 17.4 million barrels during the week ending August\u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Brent Tops $89 Amid U.S.-Iran Stalemate Over Hormuz",
-       "url": "https://oilprice.com/Energy/Oil-Prices/Brent-Tops-89-Amid-US-Iran-Stalemate-Over-Hormuz.html",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "Brent \u2f00Crude oil\u2f01 prices rose above $89 per barrel in early trade in Europe on Wednesday as Iran and the United States offered\u2026"
       }
      ]
     },
@@ -4664,40 +4665,6 @@
      ]
     },
     {
-     "term": "battery storage",
-     "articles": 1,
-     "home": "Energy",
-     "sectors": 2,
-     "direction": "rising",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "SpaceX to power TeraFab chip factory in Texas via on-site generation and \u2f00battery storage\u2f01",
-       "url": "https://www.datacenterdynamics.com/en/news/spacex-to-power-terafab-chip-factory-in-texas-via-on-site-generation-and-battery-storage/",
-       "sector": "Technology",
-       "country": "US",
-       "quote": ""
-      },
-      {
-       "publisher": "Energy Live News",
-       "title": "Cornwall to house renewable energy project",
-       "url": "https://www.energylivenews.com/2026/08/12/cornwall-to-house-renewable-energy-project/",
-       "sector": "Utilities",
-       "country": "GB",
-       "quote": "The solar park and \u2f00battery storage\u2f01 system is expected to begin commercial operations in 2027 The post Cornwall to house renewable energy project\u2026"
-      },
-      {
-       "publisher": "Energy Storage News",
-       "title": "US on track to double BESS capacity by 2028, EIA reports",
-       "url": "https://www.energy-storage.news/us-double-bess-capacity-2028-eia-reports/",
-       "sector": "Utilities",
-       "country": "GB",
-       "quote": "\u2026pate bringing an additional 54GW of \u2f00battery storage\u2f01 capacity online over the next two and half years, according to the US Energy Information Administration (EIA)\u2026"
-      }
-     ]
-    },
-    {
      "term": "mandeb strait",
      "articles": 1,
      "home": "Energy",
@@ -4728,6 +4695,43 @@
        "sector": "Energy",
        "country": "US",
        "quote": "\u2026the Strait of Hormuz and the Bab el-\u2f00Mandeb Strait\u2f01 -- for at least as long as the Islamic regime remains in place in Iran. Washington, London, Brussels, Beijing\u2026"
+      }
+     ]
+    },
+    {
+     "term": "crude oil",
+     "articles": 1,
+     "home": "Energy",
+     "sectors": 2,
+     "direction": "new",
+     "variants": [
+      "crude oil price",
+      "crude oil inventory"
+     ],
+     "examples": [
+      {
+       "publisher": "OilPrice",
+       "title": "Indian Refiners Seek 6 Million Barrels of Spot Crude",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Refiners-Seek-6-Million-Barrels-of-Spot-Crude.html",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2026buy a combined 6 million barrels of \u2f00crude oil\u2f01 via spot tenders, Reuters reported on Wednesday, citing tender documents it has seen. HPCL is seeking up to 4\u2026"
+      },
+      {
+       "publisher": "OilPrice",
+       "title": "EIA Sees Massive Uptick in US \u2f00Crude Oil\u2f01 Inventories",
+       "url": "https://oilprice.com/Energy/Crude-Oil/EIA-Sees-Massive-Uptick-in-US-Crude-Oil-Inventories.html",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2f00Crude oil\u2f01 inventories in the United States saw a massive increase of 17.4 million barrels during the week ending August\u2026"
+      },
+      {
+       "publisher": "OilPrice",
+       "title": "Brent Tops $89 Amid U.S.-Iran Stalemate Over Hormuz",
+       "url": "https://oilprice.com/Energy/Oil-Prices/Brent-Tops-89-Amid-US-Iran-Stalemate-Over-Hormuz.html",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "Brent \u2f00Crude oil\u2f01 prices rose above $89 per barrel in early trade in Europe on Wednesday as Iran and the United States offered\u2026"
       }
      ]
     },
@@ -4802,7 +4806,6 @@
    "name": "Amazon",
    "sector": "Technology",
    "borrowed": [
-    "data center",
     "energy storage",
     "storage system",
     "supply chain",
@@ -4813,45 +4816,9 @@
    "articles14d": 37,
    "terms": [
     {
-     "term": "data center",
-     "articles": 8,
-     "home": "Utilities",
-     "sectors": 7,
-     "direction": "rising",
-     "variants": [
-      "grid operator"
-     ],
-     "examples": [
-      {
-       "publisher": "Banking Dive",
-       "title": "Bank of America pledges $250B toward US infrastructure update",
-       "url": "https://www.bankingdive.com/news/bank-of-america-pledges-250b-toward-us-infrastructure-update/827705/",
-       "sector": "Finance",
-       "country": "US",
-       "quote": "\u2026t in and advise on projects such as \u2f00data centers\u2f01, power generation and transportation."
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Landmark Dividend acquires \u2f00data center\u2f01 in Jacksonville, Florida, for $8.1m",
-       "url": "https://www.datacenterdynamics.com/en/news/landmark-dividend-acquires-data-center-in-jacksonville-florida-for-81m/",
-       "sector": "Technology",
-       "country": "US",
-       "quote": ""
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Former LBNL supercomputing facility in Oakland, California, targeted for 20MW \u2f00data center\u2f01",
-       "url": "https://www.datacenterdynamics.com/en/news/former-lbnl-supercomputing-facility-in-oakland-california-targeted-for-20mw-data-center/",
-       "sector": "Technology",
-       "country": "US",
-       "quote": "\u2026to turn vacant site back into live \u2f00data center\u2f01"
-      }
-     ]
-    },
-    {
      "term": "energy storage",
      "articles": 1,
-     "home": "Energy",
+     "home": "Utilities",
      "sectors": 3,
      "direction": "rising",
      "variants": [
@@ -4888,7 +4855,7 @@
     {
      "term": "storage system",
      "articles": 1,
-     "home": "Policy",
+     "home": "Utilities",
      "sectors": 4,
      "direction": "rising",
      "variants": [],
@@ -4992,7 +4959,7 @@
     {
      "term": "water level",
      "articles": 1,
-     "home": "Energy",
+     "home": "Supply chain",
      "sectors": 2,
      "direction": "new",
      "variants": [],
@@ -5020,6 +4987,42 @@
        "sector": "Supply chain",
        "country": "GB",
        "quote": "\u2f00Water levels\u2f01 along the Rhine are continuing to fall, as repeated heatwaves across Europe prolong drought, with shipping bo\u2026"
+      }
+     ]
+    },
+    {
+     "term": "data center",
+     "articles": 8,
+     "home": "Technology",
+     "sectors": 7,
+     "direction": "rising",
+     "variants": [
+      "grid operator"
+     ],
+     "examples": [
+      {
+       "publisher": "Banking Dive",
+       "title": "Bank of America pledges $250B toward US infrastructure update",
+       "url": "https://www.bankingdive.com/news/bank-of-america-pledges-250b-toward-us-infrastructure-update/827705/",
+       "sector": "Finance",
+       "country": "US",
+       "quote": "\u2026t in and advise on projects such as \u2f00data centers\u2f01, power generation and transportation."
+      },
+      {
+       "publisher": "Data Center Dynamics",
+       "title": "Landmark Dividend acquires \u2f00data center\u2f01 in Jacksonville, Florida, for $8.1m",
+       "url": "https://www.datacenterdynamics.com/en/news/landmark-dividend-acquires-data-center-in-jacksonville-florida-for-81m/",
+       "sector": "Technology",
+       "country": "US",
+       "quote": ""
+      },
+      {
+       "publisher": "Data Center Dynamics",
+       "title": "Former LBNL supercomputing facility in Oakland, California, targeted for 20MW \u2f00data center\u2f01",
+       "url": "https://www.datacenterdynamics.com/en/news/former-lbnl-supercomputing-facility-in-oakland-california-targeted-for-20mw-data-center/",
+       "sector": "Technology",
+       "country": "US",
+       "quote": "\u2026to turn vacant site back into live \u2f00data center\u2f01"
       }
      ]
     }
@@ -5058,44 +5061,47 @@
    "name": "Dominion Energy",
    "sector": "Utilities",
    "borrowed": [
-    "battery storage",
+    "data center",
     "offshore wind",
+    "power demand",
     "fossil fuel"
    ],
    "articles": 26,
    "articles14d": 7,
    "terms": [
     {
-     "term": "battery storage",
-     "articles": 1,
-     "home": "Energy",
-     "sectors": 2,
+     "term": "data center",
+     "articles": 5,
+     "home": "Technology",
+     "sectors": 7,
      "direction": "rising",
-     "variants": [],
+     "variants": [
+      "grid operator"
+     ],
      "examples": [
       {
+       "publisher": "Banking Dive",
+       "title": "Bank of America pledges $250B toward US infrastructure update",
+       "url": "https://www.bankingdive.com/news/bank-of-america-pledges-250b-toward-us-infrastructure-update/827705/",
+       "sector": "Finance",
+       "country": "US",
+       "quote": "\u2026t in and advise on projects such as \u2f00data centers\u2f01, power generation and transportation."
+      },
+      {
        "publisher": "Data Center Dynamics",
-       "title": "SpaceX to power TeraFab chip factory in Texas via on-site generation and \u2f00battery storage\u2f01",
-       "url": "https://www.datacenterdynamics.com/en/news/spacex-to-power-terafab-chip-factory-in-texas-via-on-site-generation-and-battery-storage/",
+       "title": "Landmark Dividend acquires \u2f00data center\u2f01 in Jacksonville, Florida, for $8.1m",
+       "url": "https://www.datacenterdynamics.com/en/news/landmark-dividend-acquires-data-center-in-jacksonville-florida-for-81m/",
        "sector": "Technology",
        "country": "US",
        "quote": ""
       },
       {
-       "publisher": "Energy Live News",
-       "title": "Cornwall to house renewable energy project",
-       "url": "https://www.energylivenews.com/2026/08/12/cornwall-to-house-renewable-energy-project/",
-       "sector": "Utilities",
-       "country": "GB",
-       "quote": "The solar park and \u2f00battery storage\u2f01 system is expected to begin commercial operations in 2027 The post Cornwall to house renewable energy project\u2026"
-      },
-      {
-       "publisher": "Energy Storage News",
-       "title": "US on track to double BESS capacity by 2028, EIA reports",
-       "url": "https://www.energy-storage.news/us-double-bess-capacity-2028-eia-reports/",
-       "sector": "Utilities",
-       "country": "GB",
-       "quote": "\u2026pate bringing an additional 54GW of \u2f00battery storage\u2f01 capacity online over the next two and half years, according to the US Energy Information Administration (EIA)\u2026"
+       "publisher": "Data Center Dynamics",
+       "title": "Former LBNL supercomputing facility in Oakland, California, targeted for 20MW \u2f00data center\u2f01",
+       "url": "https://www.datacenterdynamics.com/en/news/former-lbnl-supercomputing-facility-in-oakland-california-targeted-for-20mw-data-center/",
+       "sector": "Technology",
+       "country": "US",
+       "quote": "\u2026to turn vacant site back into live \u2f00data center\u2f01"
       }
      ]
     },
@@ -5134,9 +5140,43 @@
      ]
     },
     {
+     "term": "power demand",
+     "articles": 1,
+     "home": "Energy",
+     "sectors": 3,
+     "direction": "rising",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "As renewables overtake coal, microgrids become AI's next frontier",
+       "url": "https://www.digitimes.com/news/a20260810PD236/demand-data-electricity-delta-electronics-2026.html",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "AI-driven \u2f00power demand\u2f01 is surging, and Delta Electronics Chairman Ping Cheng said microgrids and energy resilience are becoming the\u2026"
+      },
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "Samsung weighs power subsidiary to secure semiconductor electricity by 2027",
+       "url": "https://www.digitimes.com/news/a20260811PD210/samsung-electricity-subsidiary-2027-business.html",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026ce and chip production drive higher \u2f00power demand\u2f01 at Samsung Electronics' wafer fabs, making stable electricity supply a growing factor in manufacturing compet\u2026"
+      },
+      {
+       "publisher": "OilPrice",
+       "title": "Global Gas Turbine Orders Hit Record High as \u2f00Power Demand\u2f01 Surges",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Global-Gas-Turbine-Orders-Hit-Record-High-as-Power-Demand-Surges.html",
+       "sector": "Energy",
+       "country": "US",
+       "quote": ""
+      }
+     ]
+    },
+    {
      "term": "fossil fuel",
      "articles": 1,
-     "home": "Policy",
+     "home": "Energy",
      "sectors": 2,
      "direction": "rising",
      "variants": [],
@@ -5168,72 +5208,36 @@
      ]
     },
     {
-     "term": "data center",
-     "articles": 5,
-     "home": "Utilities",
-     "sectors": 7,
-     "direction": "rising",
-     "variants": [
-      "grid operator"
-     ],
-     "examples": [
-      {
-       "publisher": "Banking Dive",
-       "title": "Bank of America pledges $250B toward US infrastructure update",
-       "url": "https://www.bankingdive.com/news/bank-of-america-pledges-250b-toward-us-infrastructure-update/827705/",
-       "sector": "Finance",
-       "country": "US",
-       "quote": "\u2026t in and advise on projects such as \u2f00data centers\u2f01, power generation and transportation."
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Landmark Dividend acquires \u2f00data center\u2f01 in Jacksonville, Florida, for $8.1m",
-       "url": "https://www.datacenterdynamics.com/en/news/landmark-dividend-acquires-data-center-in-jacksonville-florida-for-81m/",
-       "sector": "Technology",
-       "country": "US",
-       "quote": ""
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Former LBNL supercomputing facility in Oakland, California, targeted for 20MW \u2f00data center\u2f01",
-       "url": "https://www.datacenterdynamics.com/en/news/former-lbnl-supercomputing-facility-in-oakland-california-targeted-for-20mw-data-center/",
-       "sector": "Technology",
-       "country": "US",
-       "quote": "\u2026to turn vacant site back into live \u2f00data center\u2f01"
-      }
-     ]
-    },
-    {
-     "term": "power demand",
+     "term": "battery storage",
      "articles": 1,
      "home": "Utilities",
-     "sectors": 3,
+     "sectors": 2,
      "direction": "rising",
      "variants": [],
      "examples": [
       {
-       "publisher": "DigiTimes Asia",
-       "title": "As renewables overtake coal, microgrids become AI's next frontier",
-       "url": "https://www.digitimes.com/news/a20260810PD236/demand-data-electricity-delta-electronics-2026.html",
+       "publisher": "Data Center Dynamics",
+       "title": "SpaceX to power TeraFab chip factory in Texas via on-site generation and \u2f00battery storage\u2f01",
+       "url": "https://www.datacenterdynamics.com/en/news/spacex-to-power-terafab-chip-factory-in-texas-via-on-site-generation-and-battery-storage/",
        "sector": "Technology",
-       "country": "TW",
-       "quote": "AI-driven \u2f00power demand\u2f01 is surging, and Delta Electronics Chairman Ping Cheng said microgrids and energy resilience are becoming the\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Samsung weighs power subsidiary to secure semiconductor electricity by 2027",
-       "url": "https://www.digitimes.com/news/a20260811PD210/samsung-electricity-subsidiary-2027-business.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026ce and chip production drive higher \u2f00power demand\u2f01 at Samsung Electronics' wafer fabs, making stable electricity supply a growing factor in manufacturing compet\u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Global Gas Turbine Orders Hit Record High as \u2f00Power Demand\u2f01 Surges",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Global-Gas-Turbine-Orders-Hit-Record-High-as-Power-Demand-Surges.html",
-       "sector": "Energy",
        "country": "US",
        "quote": ""
+      },
+      {
+       "publisher": "Energy Live News",
+       "title": "Cornwall to house renewable energy project",
+       "url": "https://www.energylivenews.com/2026/08/12/cornwall-to-house-renewable-energy-project/",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "The solar park and \u2f00battery storage\u2f01 system is expected to begin commercial operations in 2027 The post Cornwall to house renewable energy project\u2026"
+      },
+      {
+       "publisher": "Energy Storage News",
+       "title": "US on track to double BESS capacity by 2028, EIA reports",
+       "url": "https://www.energy-storage.news/us-double-bess-capacity-2028-eia-reports/",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "\u2026pate bringing an additional 54GW of \u2f00battery storage\u2f01 capacity online over the next two and half years, according to the US Energy Information Administration (EIA)\u2026"
       }
      ]
     }
@@ -5272,49 +5276,12 @@
    "name": "Alphabet",
    "sector": "Technology",
    "borrowed": [
-    "data center",
     "supply chain",
     "red sea"
    ],
    "articles": 56,
    "articles14d": 34,
    "terms": [
-    {
-     "term": "data center",
-     "articles": 4,
-     "home": "Utilities",
-     "sectors": 7,
-     "direction": "rising",
-     "variants": [
-      "grid operator"
-     ],
-     "examples": [
-      {
-       "publisher": "Banking Dive",
-       "title": "Bank of America pledges $250B toward US infrastructure update",
-       "url": "https://www.bankingdive.com/news/bank-of-america-pledges-250b-toward-us-infrastructure-update/827705/",
-       "sector": "Finance",
-       "country": "US",
-       "quote": "\u2026t in and advise on projects such as \u2f00data centers\u2f01, power generation and transportation."
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Landmark Dividend acquires \u2f00data center\u2f01 in Jacksonville, Florida, for $8.1m",
-       "url": "https://www.datacenterdynamics.com/en/news/landmark-dividend-acquires-data-center-in-jacksonville-florida-for-81m/",
-       "sector": "Technology",
-       "country": "US",
-       "quote": ""
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Former LBNL supercomputing facility in Oakland, California, targeted for 20MW \u2f00data center\u2f01",
-       "url": "https://www.datacenterdynamics.com/en/news/former-lbnl-supercomputing-facility-in-oakland-california-targeted-for-20mw-data-center/",
-       "sector": "Technology",
-       "country": "US",
-       "quote": "\u2026to turn vacant site back into live \u2f00data center\u2f01"
-      }
-     ]
-    },
     {
      "term": "supply chain",
      "articles": 1,
@@ -5384,6 +5351,42 @@
        "sector": "Supply chain",
        "country": "SG",
        "quote": ""
+      }
+     ]
+    },
+    {
+     "term": "data center",
+     "articles": 4,
+     "home": "Technology",
+     "sectors": 7,
+     "direction": "rising",
+     "variants": [
+      "grid operator"
+     ],
+     "examples": [
+      {
+       "publisher": "Banking Dive",
+       "title": "Bank of America pledges $250B toward US infrastructure update",
+       "url": "https://www.bankingdive.com/news/bank-of-america-pledges-250b-toward-us-infrastructure-update/827705/",
+       "sector": "Finance",
+       "country": "US",
+       "quote": "\u2026t in and advise on projects such as \u2f00data centers\u2f01, power generation and transportation."
+      },
+      {
+       "publisher": "Data Center Dynamics",
+       "title": "Landmark Dividend acquires \u2f00data center\u2f01 in Jacksonville, Florida, for $8.1m",
+       "url": "https://www.datacenterdynamics.com/en/news/landmark-dividend-acquires-data-center-in-jacksonville-florida-for-81m/",
+       "sector": "Technology",
+       "country": "US",
+       "quote": ""
+      },
+      {
+       "publisher": "Data Center Dynamics",
+       "title": "Former LBNL supercomputing facility in Oakland, California, targeted for 20MW \u2f00data center\u2f01",
+       "url": "https://www.datacenterdynamics.com/en/news/former-lbnl-supercomputing-facility-in-oakland-california-targeted-for-20mw-data-center/",
+       "sector": "Technology",
+       "country": "US",
+       "quote": "\u2026to turn vacant site back into live \u2f00data center\u2f01"
       }
      ]
     },
@@ -5501,7 +5504,7 @@
     {
      "term": "battery storage",
      "articles": 1,
-     "home": "Energy",
+     "home": "Utilities",
      "sectors": 2,
      "direction": "rising",
      "variants": [],
@@ -5535,7 +5538,7 @@
     {
      "term": "storage system",
      "articles": 1,
-     "home": "Policy",
+     "home": "Utilities",
      "sectors": 4,
      "direction": "rising",
      "variants": [],
@@ -5635,8 +5638,7 @@
    "name": "Chevron",
    "sector": "Energy",
    "borrowed": [
-    "supply chain",
-    "crude oil"
+    "supply chain"
    ],
    "articles": 8,
    "articles14d": 7,
@@ -5678,43 +5680,6 @@
      ]
     },
     {
-     "term": "crude oil",
-     "articles": 1,
-     "home": "Utilities",
-     "sectors": 2,
-     "direction": "new",
-     "variants": [
-      "crude oil price",
-      "crude oil inventory"
-     ],
-     "examples": [
-      {
-       "publisher": "OilPrice",
-       "title": "Indian Refiners Seek 6 Million Barrels of Spot Crude",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Refiners-Seek-6-Million-Barrels-of-Spot-Crude.html",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026buy a combined 6 million barrels of \u2f00crude oil\u2f01 via spot tenders, Reuters reported on Wednesday, citing tender documents it has seen. HPCL is seeking up to 4\u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "EIA Sees Massive Uptick in US \u2f00Crude Oil\u2f01 Inventories",
-       "url": "https://oilprice.com/Energy/Crude-Oil/EIA-Sees-Massive-Uptick-in-US-Crude-Oil-Inventories.html",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2f00Crude oil\u2f01 inventories in the United States saw a massive increase of 17.4 million barrels during the week ending August\u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Brent Tops $89 Amid U.S.-Iran Stalemate Over Hormuz",
-       "url": "https://oilprice.com/Energy/Oil-Prices/Brent-Tops-89-Amid-US-Iran-Stalemate-Over-Hormuz.html",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "Brent \u2f00Crude oil\u2f01 prices rose above $89 per barrel in early trade in Europe on Wednesday as Iran and the United States offered\u2026"
-      }
-     ]
-    },
-    {
      "term": "oil price",
      "articles": 3,
      "home": "Energy",
@@ -5745,6 +5710,43 @@
        "sector": "Materials",
        "country": "US",
        "quote": ""
+      }
+     ]
+    },
+    {
+     "term": "crude oil",
+     "articles": 1,
+     "home": "Energy",
+     "sectors": 2,
+     "direction": "new",
+     "variants": [
+      "crude oil price",
+      "crude oil inventory"
+     ],
+     "examples": [
+      {
+       "publisher": "OilPrice",
+       "title": "Indian Refiners Seek 6 Million Barrels of Spot Crude",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Refiners-Seek-6-Million-Barrels-of-Spot-Crude.html",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2026buy a combined 6 million barrels of \u2f00crude oil\u2f01 via spot tenders, Reuters reported on Wednesday, citing tender documents it has seen. HPCL is seeking up to 4\u2026"
+      },
+      {
+       "publisher": "OilPrice",
+       "title": "EIA Sees Massive Uptick in US \u2f00Crude Oil\u2f01 Inventories",
+       "url": "https://oilprice.com/Energy/Crude-Oil/EIA-Sees-Massive-Uptick-in-US-Crude-Oil-Inventories.html",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2f00Crude oil\u2f01 inventories in the United States saw a massive increase of 17.4 million barrels during the week ending August\u2026"
+      },
+      {
+       "publisher": "OilPrice",
+       "title": "Brent Tops $89 Amid U.S.-Iran Stalemate Over Hormuz",
+       "url": "https://oilprice.com/Energy/Oil-Prices/Brent-Tops-89-Amid-US-Iran-Stalemate-Over-Hormuz.html",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "Brent \u2f00Crude oil\u2f01 prices rose above $89 per barrel in early trade in Europe on Wednesday as Iran and the United States offered\u2026"
       }
      ]
     },
@@ -5815,187 +5817,6 @@
   {
    "prior14d": 0,
    "direction": "new",
-   "ticker": "XOM",
-   "name": "Exxon Mobil",
-   "sector": "Energy",
-   "borrowed": [
-    "crude oil"
-   ],
-   "articles": 7,
-   "articles14d": 6,
-   "terms": [
-    {
-     "term": "crude oil",
-     "articles": 1,
-     "home": "Utilities",
-     "sectors": 2,
-     "direction": "new",
-     "variants": [
-      "crude oil price",
-      "crude oil inventory"
-     ],
-     "examples": [
-      {
-       "publisher": "OilPrice",
-       "title": "Indian Refiners Seek 6 Million Barrels of Spot Crude",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Refiners-Seek-6-Million-Barrels-of-Spot-Crude.html",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026buy a combined 6 million barrels of \u2f00crude oil\u2f01 via spot tenders, Reuters reported on Wednesday, citing tender documents it has seen. HPCL is seeking up to 4\u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "EIA Sees Massive Uptick in US \u2f00Crude Oil\u2f01 Inventories",
-       "url": "https://oilprice.com/Energy/Crude-Oil/EIA-Sees-Massive-Uptick-in-US-Crude-Oil-Inventories.html",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2f00Crude oil\u2f01 inventories in the United States saw a massive increase of 17.4 million barrels during the week ending August\u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Brent Tops $89 Amid U.S.-Iran Stalemate Over Hormuz",
-       "url": "https://oilprice.com/Energy/Oil-Prices/Brent-Tops-89-Amid-US-Iran-Stalemate-Over-Hormuz.html",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "Brent \u2f00Crude oil\u2f01 prices rose above $89 per barrel in early trade in Europe on Wednesday as Iran and the United States offered\u2026"
-      }
-     ]
-    },
-    {
-     "term": "oil price",
-     "articles": 2,
-     "home": "Energy",
-     "sectors": 2,
-     "direction": "rising",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "OilPrice",
-       "title": "Trump Puts 81 Million Gulf Acres Up for Oil and Gas Auction",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Puts-81-Million-Gulf-Acres-Up-for-Oil-and-Gas-Auction.html",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026dle East crude supplies and sending \u2f00oil prices\u2f01 to four-year highs. Brent crude was trading above $89 per barrel on Wednesday. The Interior Department will o\u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Brent Tops $89 Amid U.S.-Iran Stalemate Over Hormuz",
-       "url": "https://oilprice.com/Energy/Oil-Prices/Brent-Tops-89-Amid-US-Iran-Stalemate-Over-Hormuz.html",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "Brent Crude \u2f00oil prices\u2f01 rose above $89 per barrel in early trade in Europe on Wednesday as Iran and the United States offered contras\u2026"
-      },
-      {
-       "publisher": "Mining.com",
-       "title": "Gold price hits two-month high, retreats after Hormuz escalation spikes \u2f00oil price\u2f01",
-       "url": "https://www.mining.com/gold-price-hits-two-month-high-retreats-after-hormuz-turns-oil/",
-       "sector": "Materials",
-       "country": "US",
-       "quote": ""
-      }
-     ]
-    },
-    {
-     "term": "natural gas",
-     "articles": 1,
-     "home": "Energy",
-     "sectors": 3,
-     "direction": "rising",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "OilPrice",
-       "title": "5 LNG Megaprojects Poised to Power the Next Gas Boom",
-       "url": "https://oilprice.com/Energy/Natural-Gas/5-LNG-Megaprojects-Poised-to-Power-the-Next-Gas-Boom.html",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026tween the US and Iran has driven up \u2f00natural gas\u2f01 prices, particularly in Europe and Asia. Asia accounts for nearly 90% of liquefied natural gas (LNG) shipment\u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "LME Aluminum Stockpiles Sink to Lowest Level Since 1990",
-       "url": "https://oilprice.com/Metals/Commodities/LME-Aluminum-Stockpiles-Sink-to-Lowest-Level-Since-1990.html",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026put by 50% following disruptions to \u2f00natural gas\u2f01 availability. Bloomberg reports that disruptions to NatGas availability at Alunorte forced a 50% reduction in\u2026"
-      },
-      {
-       "publisher": "EIA Today in Energy",
-       "title": "United States on track for record \u2f00natural gas\u2f01 production in 2026",
-       "url": "https://www.eia.gov/todayinenergy/detail.php?id=67944",
-       "sector": "Utilities",
-       "country": "US",
-       "quote": "We forecast U.S. marketed \u2f00natural gas\u2f01 production will average 122.5 billion cubic feet per day (Bcf/d) in 2026, surpassing the previous record of 1\u2026"
-      }
-     ]
-    },
-    {
-     "term": "iran war",
-     "articles": 1,
-     "home": "Energy",
-     "sectors": 3,
-     "direction": "rising",
-     "variants": [
-      "iran conflict"
-     ],
-     "examples": [
-      {
-       "publisher": "Splash247",
-       "title": "Trump extends Jones Act waiver despite mounting maritime opposition",
-       "url": "https://splash247.com/trump-extends-jones-act-waiver-despite-mounting-maritime-opposition/",
-       "sector": "Supply chain",
-       "country": "SG",
-       "quote": "\u2026waiver, introduced in March as the \u2f00Iran war\u2f01 disrupted global energy flows, is already the longest suspension \u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Trump Faces Growing Pressure to Restrict U.S. Oil Exports",
-       "url": "https://oilprice.com/Energy/Energy-General/Trump-Faces-Growing-Pressure-to-Restrict-US-Oil-Exports.html",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026pplies worldwide in the wake of the \u2f00Iran war\u2f01. But a Trump administration spokesperson said the administration has no plans to ban exports of oil or natura\u2026"
-      },
-      {
-       "publisher": "Splash247",
-       "title": "China's coal buildout offers fresh ballast for dry bulk",
-       "url": "https://splash247.com/chinas-coal-buildout-offers-fresh-ballast-for-dry-bulk/",
-       "sector": "Supply chain",
-       "country": "SG",
-       "quote": "\u2026nergy buffers in the wake of the US-\u2f00Iran war\u2f01, reinforcing a power-generation strategy that continues to look remarkably supportive for dry bulk shipping d\u2026"
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "Offshore Energy",
-     "title": "ExxonMobil books McDermott for Mozambique's multibillion-dollar LNG project",
-     "url": "https://www.offshore-energy.biz/exxonmobil-books-mcdermott-for-mozambiques-multibillion-dollar-lng-project/",
-     "sector": "Energy"
-    },
-    {
-     "publisher": "Offshore Energy",
-     "title": "ExxonMobil picks Sercel technology to support operations offshore Guyana",
-     "url": "https://www.offshore-energy.biz/exxonmobil-picks-sercel-technology-to-support-operations-offshore-guyana/",
-     "sector": "Energy"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Oil Extends Losses After US, Qatar Signal Progress on Iran Draft Deal",
-     "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Extends-Losses-After-US-Qatar-Signal-Progress-on-Iran-Draft-Deal.html",
-     "sector": "Energy"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Seven Months After Maduro's Fall, Big Oil Still Won't Commit To Venezuela",
-     "url": "https://oilprice.com/Energy/Crude-Oil/Seven-Months-After-Maduros-Fall-Big-Oil-Still-Wont-Commit-To-Venezuela.html",
-     "sector": "Energy"
-    }
-   ]
-  },
-  {
-   "prior14d": 0,
-   "direction": "new",
    "ticker": "JPM",
    "name": "JPMorgan Chase",
    "sector": "Finance",
@@ -6011,7 +5832,7 @@
     {
      "term": "power generation",
      "articles": 1,
-     "home": "Utilities",
+     "home": "Energy",
      "sectors": 3,
      "direction": "rising",
      "variants": [],
@@ -6045,7 +5866,7 @@
     {
      "term": "joint venture",
      "articles": 1,
-     "home": "Real estate",
+     "home": "Technology",
      "sectors": 5,
      "direction": "rising",
      "variants": [],
@@ -6079,7 +5900,7 @@
     {
      "term": "power demand",
      "articles": 1,
-     "home": "Utilities",
+     "home": "Energy",
      "sectors": 3,
      "direction": "rising",
      "variants": [],
@@ -6190,7 +6011,7 @@
     {
      "term": "power generation",
      "articles": 1,
-     "home": "Utilities",
+     "home": "Energy",
      "sectors": 3,
      "direction": "rising",
      "variants": [],
@@ -6258,7 +6079,7 @@
     {
      "term": "data center",
      "articles": 1,
-     "home": "Utilities",
+     "home": "Technology",
      "sectors": 7,
      "direction": "rising",
      "variants": [
@@ -6360,48 +6181,11 @@
    "name": "Microsoft",
    "sector": "Technology",
    "borrowed": [
-    "data center",
     "supply chain"
    ],
    "articles": 38,
    "articles14d": 29,
    "terms": [
-    {
-     "term": "data center",
-     "articles": 5,
-     "home": "Utilities",
-     "sectors": 7,
-     "direction": "rising",
-     "variants": [
-      "grid operator"
-     ],
-     "examples": [
-      {
-       "publisher": "Banking Dive",
-       "title": "Bank of America pledges $250B toward US infrastructure update",
-       "url": "https://www.bankingdive.com/news/bank-of-america-pledges-250b-toward-us-infrastructure-update/827705/",
-       "sector": "Finance",
-       "country": "US",
-       "quote": "\u2026t in and advise on projects such as \u2f00data centers\u2f01, power generation and transportation."
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Landmark Dividend acquires \u2f00data center\u2f01 in Jacksonville, Florida, for $8.1m",
-       "url": "https://www.datacenterdynamics.com/en/news/landmark-dividend-acquires-data-center-in-jacksonville-florida-for-81m/",
-       "sector": "Technology",
-       "country": "US",
-       "quote": ""
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Former LBNL supercomputing facility in Oakland, California, targeted for 20MW \u2f00data center\u2f01",
-       "url": "https://www.datacenterdynamics.com/en/news/former-lbnl-supercomputing-facility-in-oakland-california-targeted-for-20mw-data-center/",
-       "sector": "Technology",
-       "country": "US",
-       "quote": "\u2026to turn vacant site back into live \u2f00data center\u2f01"
-      }
-     ]
-    },
     {
      "term": "supply chain",
      "articles": 1,
@@ -6435,6 +6219,42 @@
        "sector": "Technology",
        "country": "TW",
        "quote": ""
+      }
+     ]
+    },
+    {
+     "term": "data center",
+     "articles": 5,
+     "home": "Technology",
+     "sectors": 7,
+     "direction": "rising",
+     "variants": [
+      "grid operator"
+     ],
+     "examples": [
+      {
+       "publisher": "Banking Dive",
+       "title": "Bank of America pledges $250B toward US infrastructure update",
+       "url": "https://www.bankingdive.com/news/bank-of-america-pledges-250b-toward-us-infrastructure-update/827705/",
+       "sector": "Finance",
+       "country": "US",
+       "quote": "\u2026t in and advise on projects such as \u2f00data centers\u2f01, power generation and transportation."
+      },
+      {
+       "publisher": "Data Center Dynamics",
+       "title": "Landmark Dividend acquires \u2f00data center\u2f01 in Jacksonville, Florida, for $8.1m",
+       "url": "https://www.datacenterdynamics.com/en/news/landmark-dividend-acquires-data-center-in-jacksonville-florida-for-81m/",
+       "sector": "Technology",
+       "country": "US",
+       "quote": ""
+      },
+      {
+       "publisher": "Data Center Dynamics",
+       "title": "Former LBNL supercomputing facility in Oakland, California, targeted for 20MW \u2f00data center\u2f01",
+       "url": "https://www.datacenterdynamics.com/en/news/former-lbnl-supercomputing-facility-in-oakland-california-targeted-for-20mw-data-center/",
+       "sector": "Technology",
+       "country": "US",
+       "quote": "\u2026to turn vacant site back into live \u2f00data center\u2f01"
       }
      ]
     },
@@ -6507,7 +6327,6 @@
    "name": "Toyota",
    "sector": "Autos",
    "borrowed": [
-    "commercial vehicle",
     "joint venture",
     "middle east"
    ],
@@ -6515,43 +6334,9 @@
    "articles14d": 16,
    "terms": [
     {
-     "term": "commercial vehicle",
-     "articles": 2,
-     "home": "Supply chain",
-     "sectors": 2,
-     "direction": "new",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "The Elec",
-       "title": "HD Hyundai Oilbank Commercializes Engine Oil for Hydrogen Internal Combustion Engines",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=12964",
-       "sector": "Technology",
-       "country": "KR",
-       "quote": "\u2026XTeer H2-ICE engine oil to hydrogen \u2f00commercial vehicle\u2f01 manufacturers, including Tata Daewoo Mobi"
-      },
-      {
-       "publisher": "Energy Storage News",
-       "title": "REPT BATTERO surpasses 2025 full-year results in H1 2026, launches AIDC-tailored storage systems",
-       "url": "https://www.energy-storage.news/rept-battero-surpasses-2025-full-year-results-in-h1-2026-launches-aidc-tailored-storage-systems/",
-       "sector": "Utilities",
-       "country": "GB",
-       "quote": "\u2026products for AIDC (AI Data Center), \u2f00commercial vehicles\u2f01, and low-altitude aircrafts."
-      },
-      {
-       "publisher": "Electrive",
-       "title": "India to deploy 33 hydrogen \u2f00commercial vehicles\u2f01",
-       "url": "https://www.electrive.com/2026/08/10/india-to-deploy-33-hydrogen-commercial-vehicles/",
-       "sector": "Autos",
-       "country": "DE",
-       "quote": "\u2026ced plans to commission 33 hydrogen \u2f00commercial vehicles\u2f01 under seven new pilot projects in five states: Gujarat, Himachal Pradesh, Kerala, Madhya Pradesh, and Maharas\u2026"
-      }
-     ]
-    },
-    {
      "term": "joint venture",
      "articles": 2,
-     "home": "Real estate",
+     "home": "Technology",
      "sectors": 5,
      "direction": "rising",
      "variants": [],
@@ -6585,7 +6370,7 @@
     {
      "term": "middle east",
      "articles": 1,
-     "home": "Supply chain",
+     "home": "Energy",
      "sectors": 4,
      "direction": "rising",
      "variants": [],
@@ -6613,6 +6398,40 @@
        "sector": "Supply chain",
        "country": "GB",
        "quote": "\u2026closures across the Gulf and wider \u2f00Middle East\u2f01 region. The conflict also saw national carrier Oman Air come into its own, keeping cargo moving with the crea\u2026"
+      }
+     ]
+    },
+    {
+     "term": "commercial vehicle",
+     "articles": 2,
+     "home": "Autos",
+     "sectors": 2,
+     "direction": "new",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "The Elec",
+       "title": "HD Hyundai Oilbank Commercializes Engine Oil for Hydrogen Internal Combustion Engines",
+       "url": "https://www.thelec.net/news/articleView.html?idxno=12964",
+       "sector": "Technology",
+       "country": "KR",
+       "quote": "\u2026XTeer H2-ICE engine oil to hydrogen \u2f00commercial vehicle\u2f01 manufacturers, including Tata Daewoo Mobi"
+      },
+      {
+       "publisher": "Energy Storage News",
+       "title": "REPT BATTERO surpasses 2025 full-year results in H1 2026, launches AIDC-tailored storage systems",
+       "url": "https://www.energy-storage.news/rept-battero-surpasses-2025-full-year-results-in-h1-2026-launches-aidc-tailored-storage-systems/",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "\u2026products for AIDC (AI Data Center), \u2f00commercial vehicles\u2f01, and low-altitude aircrafts."
+      },
+      {
+       "publisher": "Electrive",
+       "title": "India to deploy 33 hydrogen \u2f00commercial vehicles\u2f01",
+       "url": "https://www.electrive.com/2026/08/10/india-to-deploy-33-hydrogen-commercial-vehicles/",
+       "sector": "Autos",
+       "country": "DE",
+       "quote": "\u2026ced plans to commission 33 hydrogen \u2f00commercial vehicles\u2f01 under seven new pilot projects in five states: Gujarat, Himachal Pradesh, Kerala, Madhya Pradesh, and Maharas\u2026"
       }
      ]
     }
@@ -6651,46 +6470,11 @@
    "name": "Intel",
    "sector": "Technology",
    "borrowed": [
-    "joint venture",
     "supply chain"
    ],
    "articles": 26,
    "articles14d": 6,
    "terms": [
-    {
-     "term": "joint venture",
-     "articles": 1,
-     "home": "Real estate",
-     "sectors": 5,
-     "direction": "rising",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "Commercial Observer",
-       "title": "ArrowMark Partners Refis Utah Apartments With $58M Bridge Loan",
-       "url": "https://commercialobserver.com/2026/08/arrowmark-partners-utah-apartments/",
-       "sector": "Real estate",
-       "country": "US",
-       "quote": "A \u2f00joint venture\u2f01 between Alpha Development Group and Bow River Capital has sealed $58 million of bridge debt to refinance two\u2026"
-      },
-      {
-       "publisher": "ET Manufacturing",
-       "title": "Tata, Mahindra, HAL in race as govt floats \u20b91 lakh crore IAF tender for 60 aircraft",
-       "url": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/tata-mahindra-hal-in-race-as-govt-floats-1-lakh-crore-iaf-tender-for-60-aircraft/133185226",
-       "sector": "Industrials",
-       "country": "IN",
-       "quote": "\u2026mpanies will lead the program, with \u2f00joint ventures\u2f01 manufacturing the planes. Around 20% of aircraft will arrive in fly-away condition."
-      },
-      {
-       "publisher": "Splash247",
-       "title": "Samudera-Imoto venture orders first newbuild for Japan push",
-       "url": "https://splash247.com/samudera-imoto-venture-orders-first-newbuild-for-japan-push/",
-       "sector": "Supply chain",
-       "country": "SG",
-       "quote": "\u2026ne and Imoto Corporation's Japanese \u2f00joint venture\u2f01 has moved into newbuildings, ordering a 696 teu feeder in China. Blue Ocean Shipping has signed the contract\u2026"
-      }
-     ]
-    },
     {
      "term": "supply chain",
      "articles": 1,
@@ -6760,6 +6544,40 @@
        "quote": "\u2026echnology alone, but from combining \u2f00artificial intelligence\u2f01 with trusted shipping data. Goudchaux has been around maritime technology long enough to have witnessed sever\u2026"
       }
      ]
+    },
+    {
+     "term": "joint venture",
+     "articles": 1,
+     "home": "Technology",
+     "sectors": 5,
+     "direction": "rising",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "Commercial Observer",
+       "title": "ArrowMark Partners Refis Utah Apartments With $58M Bridge Loan",
+       "url": "https://commercialobserver.com/2026/08/arrowmark-partners-utah-apartments/",
+       "sector": "Real estate",
+       "country": "US",
+       "quote": "A \u2f00joint venture\u2f01 between Alpha Development Group and Bow River Capital has sealed $58 million of bridge debt to refinance two\u2026"
+      },
+      {
+       "publisher": "ET Manufacturing",
+       "title": "Tata, Mahindra, HAL in race as govt floats \u20b91 lakh crore IAF tender for 60 aircraft",
+       "url": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/tata-mahindra-hal-in-race-as-govt-floats-1-lakh-crore-iaf-tender-for-60-aircraft/133185226",
+       "sector": "Industrials",
+       "country": "IN",
+       "quote": "\u2026mpanies will lead the program, with \u2f00joint ventures\u2f01 manufacturing the planes. Around 20% of aircraft will arrive in fly-away condition."
+      },
+      {
+       "publisher": "Splash247",
+       "title": "Samudera-Imoto venture orders first newbuild for Japan push",
+       "url": "https://splash247.com/samudera-imoto-venture-orders-first-newbuild-for-japan-push/",
+       "sector": "Supply chain",
+       "country": "SG",
+       "quote": "\u2026ne and Imoto Corporation's Japanese \u2f00joint venture\u2f01 has moved into newbuildings, ordering a 696 teu feeder in China. Blue Ocean Shipping has signed the contract\u2026"
+      }
+     ]
     }
    ],
    "examples": [
@@ -6805,7 +6623,7 @@
     {
      "term": "joint venture",
      "articles": 3,
-     "home": "Real estate",
+     "home": "Technology",
      "sectors": 5,
      "direction": "rising",
      "variants": [],
@@ -6927,164 +6745,54 @@
    ]
   },
   {
-   "prior14d": 0,
-   "direction": "new",
-   "ticker": "2222.SR",
-   "name": "Saudi Aramco",
-   "sector": "Energy",
-   "borrowed": [
-    "crude oil"
-   ],
-   "articles": 5,
-   "articles14d": 5,
-   "terms": [
-    {
-     "term": "crude oil",
-     "articles": 2,
-     "home": "Utilities",
-     "sectors": 2,
-     "direction": "new",
-     "variants": [
-      "crude oil price",
-      "crude oil inventory"
-     ],
-     "examples": [
-      {
-       "publisher": "OilPrice",
-       "title": "Indian Refiners Seek 6 Million Barrels of Spot Crude",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Indian-Refiners-Seek-6-Million-Barrels-of-Spot-Crude.html",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026buy a combined 6 million barrels of \u2f00crude oil\u2f01 via spot tenders, Reuters reported on Wednesday, citing tender documents it has seen. HPCL is seeking up to 4\u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "EIA Sees Massive Uptick in US \u2f00Crude Oil\u2f01 Inventories",
-       "url": "https://oilprice.com/Energy/Crude-Oil/EIA-Sees-Massive-Uptick-in-US-Crude-Oil-Inventories.html",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2f00Crude oil\u2f01 inventories in the United States saw a massive increase of 17.4 million barrels during the week ending August\u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Brent Tops $89 Amid U.S.-Iran Stalemate Over Hormuz",
-       "url": "https://oilprice.com/Energy/Oil-Prices/Brent-Tops-89-Amid-US-Iran-Stalemate-Over-Hormuz.html",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "Brent \u2f00Crude oil\u2f01 prices rose above $89 per barrel in early trade in Europe on Wednesday as Iran and the United States offered\u2026"
-      }
-     ]
-    },
-    {
-     "term": "oil price",
-     "articles": 4,
-     "home": "Energy",
-     "sectors": 2,
-     "direction": "rising",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "OilPrice",
-       "title": "Trump Puts 81 Million Gulf Acres Up for Oil and Gas Auction",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Puts-81-Million-Gulf-Acres-Up-for-Oil-and-Gas-Auction.html",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026dle East crude supplies and sending \u2f00oil prices\u2f01 to four-year highs. Brent crude was trading above $89 per barrel on Wednesday. The Interior Department will o\u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Brent Tops $89 Amid U.S.-Iran Stalemate Over Hormuz",
-       "url": "https://oilprice.com/Energy/Oil-Prices/Brent-Tops-89-Amid-US-Iran-Stalemate-Over-Hormuz.html",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "Brent Crude \u2f00oil prices\u2f01 rose above $89 per barrel in early trade in Europe on Wednesday as Iran and the United States offered contras\u2026"
-      },
-      {
-       "publisher": "Mining.com",
-       "title": "Gold price hits two-month high, retreats after Hormuz escalation spikes \u2f00oil price\u2f01",
-       "url": "https://www.mining.com/gold-price-hits-two-month-high-retreats-after-hormuz-turns-oil/",
-       "sector": "Materials",
-       "country": "US",
-       "quote": ""
-      }
-     ]
-    },
-    {
-     "term": "iran war",
-     "articles": 1,
-     "home": "Energy",
-     "sectors": 3,
-     "direction": "rising",
-     "variants": [
-      "iran conflict"
-     ],
-     "examples": [
-      {
-       "publisher": "Splash247",
-       "title": "Trump extends Jones Act waiver despite mounting maritime opposition",
-       "url": "https://splash247.com/trump-extends-jones-act-waiver-despite-mounting-maritime-opposition/",
-       "sector": "Supply chain",
-       "country": "SG",
-       "quote": "\u2026waiver, introduced in March as the \u2f00Iran war\u2f01 disrupted global energy flows, is already the longest suspension \u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Trump Faces Growing Pressure to Restrict U.S. Oil Exports",
-       "url": "https://oilprice.com/Energy/Energy-General/Trump-Faces-Growing-Pressure-to-Restrict-US-Oil-Exports.html",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026pplies worldwide in the wake of the \u2f00Iran war\u2f01. But a Trump administration spokesperson said the administration has no plans to ban exports of oil or natura\u2026"
-      },
-      {
-       "publisher": "Splash247",
-       "title": "China's coal buildout offers fresh ballast for dry bulk",
-       "url": "https://splash247.com/chinas-coal-buildout-offers-fresh-ballast-for-dry-bulk/",
-       "sector": "Supply chain",
-       "country": "SG",
-       "quote": "\u2026nergy buffers in the wake of the US-\u2f00Iran war\u2f01, reinforcing a power-generation strategy that continues to look remarkably supportive for dry bulk shipping d\u2026"
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "OilPrice",
-     "title": "Oil Prices Rise as Iran Hardens Hormuz Demands",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rise-as-Iran-Hardens-Hormuz-Demands.html",
-     "sector": "Energy"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Aramco Deepens Asia Oil Discount Ahead of Possible Hormuz Deal",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Aramco-Deepens-Asia-Oil-Discount-Ahead-of-Possible-Hormuz-Deal.html",
-     "sector": "Energy"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Aramco's Record Profits Hide a Growing Cash Flow Crisis",
-     "url": "https://oilprice.com/Energy/Energy-General/Aramcos-Record-Profits-Hide-a-Growing-Cash-Flow-Crisis.html",
-     "sector": "Energy"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Saudi Aramco's Adjusted Profit Jumps 33% as Oil Prices Surge",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramcos-Adjusted-Profit-Jumps-33-as-Oil-Prices-Surge.html",
-     "sector": "Energy"
-    }
-   ]
-  },
-  {
    "prior14d": 1,
    "direction": "rising",
    "ticker": "DUK",
    "name": "Duke Energy",
    "sector": "Utilities",
    "borrowed": [
+    "data center",
     "clean energy"
    ],
    "articles": 9,
    "articles14d": 4,
    "terms": [
+    {
+     "term": "data center",
+     "articles": 4,
+     "home": "Technology",
+     "sectors": 7,
+     "direction": "rising",
+     "variants": [
+      "grid operator"
+     ],
+     "examples": [
+      {
+       "publisher": "Banking Dive",
+       "title": "Bank of America pledges $250B toward US infrastructure update",
+       "url": "https://www.bankingdive.com/news/bank-of-america-pledges-250b-toward-us-infrastructure-update/827705/",
+       "sector": "Finance",
+       "country": "US",
+       "quote": "\u2026t in and advise on projects such as \u2f00data centers\u2f01, power generation and transportation."
+      },
+      {
+       "publisher": "Data Center Dynamics",
+       "title": "Landmark Dividend acquires \u2f00data center\u2f01 in Jacksonville, Florida, for $8.1m",
+       "url": "https://www.datacenterdynamics.com/en/news/landmark-dividend-acquires-data-center-in-jacksonville-florida-for-81m/",
+       "sector": "Technology",
+       "country": "US",
+       "quote": ""
+      },
+      {
+       "publisher": "Data Center Dynamics",
+       "title": "Former LBNL supercomputing facility in Oakland, California, targeted for 20MW \u2f00data center\u2f01",
+       "url": "https://www.datacenterdynamics.com/en/news/former-lbnl-supercomputing-facility-in-oakland-california-targeted-for-20mw-data-center/",
+       "sector": "Technology",
+       "country": "US",
+       "quote": "\u2026to turn vacant site back into live \u2f00data center\u2f01"
+      }
+     ]
+    },
     {
      "term": "clean energy",
      "articles": 1,
@@ -7116,42 +6824,6 @@
        "sector": "Utilities",
        "country": "GB",
        "quote": "\u2026ill convert agricultural waste into \u2f00clean energy\u2f01 The post Waste plant creates income for unpaid women appeared first on Energy Live News ."
-      }
-     ]
-    },
-    {
-     "term": "data center",
-     "articles": 4,
-     "home": "Utilities",
-     "sectors": 7,
-     "direction": "rising",
-     "variants": [
-      "grid operator"
-     ],
-     "examples": [
-      {
-       "publisher": "Banking Dive",
-       "title": "Bank of America pledges $250B toward US infrastructure update",
-       "url": "https://www.bankingdive.com/news/bank-of-america-pledges-250b-toward-us-infrastructure-update/827705/",
-       "sector": "Finance",
-       "country": "US",
-       "quote": "\u2026t in and advise on projects such as \u2f00data centers\u2f01, power generation and transportation."
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Landmark Dividend acquires \u2f00data center\u2f01 in Jacksonville, Florida, for $8.1m",
-       "url": "https://www.datacenterdynamics.com/en/news/landmark-dividend-acquires-data-center-in-jacksonville-florida-for-81m/",
-       "sector": "Technology",
-       "country": "US",
-       "quote": ""
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Former LBNL supercomputing facility in Oakland, California, targeted for 20MW \u2f00data center\u2f01",
-       "url": "https://www.datacenterdynamics.com/en/news/former-lbnl-supercomputing-facility-in-oakland-california-targeted-for-20mw-data-center/",
-       "sector": "Technology",
-       "country": "US",
-       "quote": "\u2026to turn vacant site back into live \u2f00data center\u2f01"
       }
      ]
     },
@@ -7225,8 +6897,7 @@
    "sector": "Technology",
    "borrowed": [
     "storage system",
-    "supply chain",
-    "data center"
+    "supply chain"
    ],
    "articles": 37,
    "articles14d": 3,
@@ -7234,7 +6905,7 @@
     {
      "term": "storage system",
      "articles": 1,
-     "home": "Policy",
+     "home": "Utilities",
      "sectors": 4,
      "direction": "rising",
      "variants": [],
@@ -7304,7 +6975,7 @@
     {
      "term": "data center",
      "articles": 1,
-     "home": "Utilities",
+     "home": "Technology",
      "sectors": 7,
      "direction": "rising",
      "variants": [
@@ -7372,50 +7043,15 @@
    "name": "Tata Motors",
    "sector": "Autos",
    "borrowed": [
-    "commercial vehicle",
     "joint venture"
    ],
    "articles": 36,
    "articles14d": 24,
    "terms": [
     {
-     "term": "commercial vehicle",
-     "articles": 4,
-     "home": "Supply chain",
-     "sectors": 2,
-     "direction": "new",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "The Elec",
-       "title": "HD Hyundai Oilbank Commercializes Engine Oil for Hydrogen Internal Combustion Engines",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=12964",
-       "sector": "Technology",
-       "country": "KR",
-       "quote": "\u2026XTeer H2-ICE engine oil to hydrogen \u2f00commercial vehicle\u2f01 manufacturers, including Tata Daewoo Mobi"
-      },
-      {
-       "publisher": "Energy Storage News",
-       "title": "REPT BATTERO surpasses 2025 full-year results in H1 2026, launches AIDC-tailored storage systems",
-       "url": "https://www.energy-storage.news/rept-battero-surpasses-2025-full-year-results-in-h1-2026-launches-aidc-tailored-storage-systems/",
-       "sector": "Utilities",
-       "country": "GB",
-       "quote": "\u2026products for AIDC (AI Data Center), \u2f00commercial vehicles\u2f01, and low-altitude aircrafts."
-      },
-      {
-       "publisher": "Electrive",
-       "title": "India to deploy 33 hydrogen \u2f00commercial vehicles\u2f01",
-       "url": "https://www.electrive.com/2026/08/10/india-to-deploy-33-hydrogen-commercial-vehicles/",
-       "sector": "Autos",
-       "country": "DE",
-       "quote": "\u2026ced plans to commission 33 hydrogen \u2f00commercial vehicles\u2f01 under seven new pilot projects in five states: Gujarat, Himachal Pradesh, Kerala, Madhya Pradesh, and Maharas\u2026"
-      }
-     ]
-    },
-    {
      "term": "joint venture",
      "articles": 1,
-     "home": "Real estate",
+     "home": "Technology",
      "sectors": 5,
      "direction": "rising",
      "variants": [],
@@ -7443,6 +7079,40 @@
        "sector": "Supply chain",
        "country": "SG",
        "quote": "\u2026ne and Imoto Corporation's Japanese \u2f00joint venture\u2f01 has moved into newbuildings, ordering a 696 teu feeder in China. Blue Ocean Shipping has signed the contract\u2026"
+      }
+     ]
+    },
+    {
+     "term": "commercial vehicle",
+     "articles": 4,
+     "home": "Autos",
+     "sectors": 2,
+     "direction": "new",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "The Elec",
+       "title": "HD Hyundai Oilbank Commercializes Engine Oil for Hydrogen Internal Combustion Engines",
+       "url": "https://www.thelec.net/news/articleView.html?idxno=12964",
+       "sector": "Technology",
+       "country": "KR",
+       "quote": "\u2026XTeer H2-ICE engine oil to hydrogen \u2f00commercial vehicle\u2f01 manufacturers, including Tata Daewoo Mobi"
+      },
+      {
+       "publisher": "Energy Storage News",
+       "title": "REPT BATTERO surpasses 2025 full-year results in H1 2026, launches AIDC-tailored storage systems",
+       "url": "https://www.energy-storage.news/rept-battero-surpasses-2025-full-year-results-in-h1-2026-launches-aidc-tailored-storage-systems/",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "\u2026products for AIDC (AI Data Center), \u2f00commercial vehicles\u2f01, and low-altitude aircrafts."
+      },
+      {
+       "publisher": "Electrive",
+       "title": "India to deploy 33 hydrogen \u2f00commercial vehicles\u2f01",
+       "url": "https://www.electrive.com/2026/08/10/india-to-deploy-33-hydrogen-commercial-vehicles/",
+       "sector": "Autos",
+       "country": "DE",
+       "quote": "\u2026ced plans to commission 33 hydrogen \u2f00commercial vehicles\u2f01 under seven new pilot projects in five states: Gujarat, Himachal Pradesh, Kerala, Madhya Pradesh, and Maharas\u2026"
       }
      ]
     }
@@ -7475,220 +7145,112 @@
    ]
   },
   {
-   "prior14d": 14,
-   "direction": "steady",
-   "ticker": "TSM",
-   "name": "TSMC",
-   "sector": "Technology",
-   "borrowed": [
-    "joint venture"
-   ],
-   "articles": 41,
-   "articles14d": 16,
-   "terms": [
-    {
-     "term": "joint venture",
-     "articles": 4,
-     "home": "Real estate",
-     "sectors": 5,
-     "direction": "rising",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "Commercial Observer",
-       "title": "ArrowMark Partners Refis Utah Apartments With $58M Bridge Loan",
-       "url": "https://commercialobserver.com/2026/08/arrowmark-partners-utah-apartments/",
-       "sector": "Real estate",
-       "country": "US",
-       "quote": "A \u2f00joint venture\u2f01 between Alpha Development Group and Bow River Capital has sealed $58 million of bridge debt to refinance two\u2026"
-      },
-      {
-       "publisher": "ET Manufacturing",
-       "title": "Tata, Mahindra, HAL in race as govt floats \u20b91 lakh crore IAF tender for 60 aircraft",
-       "url": "https://manufacturing.economictimes.indiatimes.com/news/aerospace-defence/tata-mahindra-hal-in-race-as-govt-floats-1-lakh-crore-iaf-tender-for-60-aircraft/133185226",
-       "sector": "Industrials",
-       "country": "IN",
-       "quote": "\u2026mpanies will lead the program, with \u2f00joint ventures\u2f01 manufacturing the planes. Around 20% of aircraft will arrive in fly-away condition."
-      },
-      {
-       "publisher": "Splash247",
-       "title": "Samudera-Imoto venture orders first newbuild for Japan push",
-       "url": "https://splash247.com/samudera-imoto-venture-orders-first-newbuild-for-japan-push/",
-       "sector": "Supply chain",
-       "country": "SG",
-       "quote": "\u2026ne and Imoto Corporation's Japanese \u2f00joint venture\u2f01 has moved into newbuildings, ordering a 696 teu feeder in China. Blue Ocean Shipping has signed the contract\u2026"
-      }
-     ]
-    },
-    {
-     "term": "artificial intelligence",
-     "articles": 3,
-     "home": "Technology",
-     "sectors": 8,
-     "direction": "rising",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "Commercial Observer",
-       "title": "Fund Administrator Hanover Park Inks 19K-SF Deal at 387 Park Avenue South",
-       "url": "https://commercialobserver.com/2026/08/hanover-park-lease-tf-cornerstone-387-park-avenue-south/",
-       "sector": "Real estate",
-       "country": "US",
-       "quote": "An \u2f00artificial intelligence\u2f01-driven fund administrator is moving its headquarters to TF Cornerstone's 387 Park Avenue South, Commercial Ob\u2026"
-      },
-      {
-       "publisher": "Commercial Observer",
-       "title": "AI Insurance Firm WithCoverage Signs 18K-SF Lease at 200 Varick Street",
-       "url": "https://commercialobserver.com/2026/08/withcoverage-sublease-200-varick-street/",
-       "sector": "Real estate",
-       "country": "US",
-       "quote": "An \u2f00artificial intelligence\u2f01-powered insurance technology company subleasing space in Hudson Square has the attention of Gov. Kathy Hochul\u2026"
-      },
-      {
-       "publisher": "Splash247",
-       "title": "AXSMarine: AI, blockchain and the technologies shipping actually needs",
-       "url": "https://splash247.com/axsmarine-ai-blockchain-and-the-technologies-shipping-actually-needs/",
-       "sector": "Supply chain",
-       "country": "SG",
-       "quote": "\u2026echnology alone, but from combining \u2f00artificial intelligence\u2f01 with trusted shipping data. Goudchaux has been around maritime technology long enough to have witnessed sever\u2026"
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "TSMC-Sony's US$4.69B sensor venture is a defensive play against Samsung and China",
-     "url": "https://www.digitimes.com/news/a20260812VL203/tsmc-sony-samsung-sensor-manufacturing.html",
-     "sector": "Technology"
-    },
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "DB HiTek profit jumps 43% as TSMC, Samsung scale back 8-inch capacity",
-     "url": "https://www.digitimes.com/news/a20260812VL212/capacity-tsmc-samsung-demand-operating-profit.html",
-     "sector": "Technology"
-    },
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "TSMC tackles CoWoS material risks while cutting 3DIC development cycle to one year",
-     "url": "https://www.digitimes.com/news/a20260811PD250/development-tsmc-demand-cowos-packaging.html",
-     "sector": "Technology"
-    },
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "TSMC says AI advanced packaging enters system-level battle",
-     "url": "https://www.digitimes.com/news/a20260811PD258/packaging-tsmc-demand-design-development.html",
-     "sector": "Technology"
-    }
-   ]
-  },
-  {
-   "prior14d": 3,
+   "prior14d": 1,
    "direction": "rising",
-   "ticker": "AMD",
-   "name": "Advanced Micro Devices",
-   "sector": "Technology",
+   "ticker": "MAERSK",
+   "name": "Maersk",
+   "sector": "Supply chain",
    "borrowed": [
-    "data center"
+    "middle east"
    ],
-   "articles": 32,
-   "articles14d": 15,
+   "articles": 18,
+   "articles14d": 17,
    "terms": [
     {
-     "term": "data center",
-     "articles": 4,
-     "home": "Utilities",
-     "sectors": 7,
+     "term": "middle east",
+     "articles": 1,
+     "home": "Energy",
+     "sectors": 4,
+     "direction": "rising",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "OilPrice",
+       "title": "5 LNG Megaprojects Poised to Power the Next Gas Boom",
+       "url": "https://oilprice.com/Energy/Natural-Gas/5-LNG-Megaprojects-Poised-to-Power-the-Next-Gas-Boom.html",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2026atural gas (LNG) shipments from key \u2f00Middle East\u2f01 producers like Qatar and the UAE, while Europe imports 7-11% of its LNG from the region. During spring 2026 m\u2026"
+      },
+      {
+       "publisher": "Container News",
+       "title": "Maersk raises \u2f00Middle East\u2f01-Pakistan surcharge and updates European fuel fees",
+       "url": "https://container-news.com/maersk-raises-middle-east-pakistan-surcharge-and-updates-european-fuel-fees/",
+       "sector": "Supply chain",
+       "country": "GR",
+       "quote": "\u2026several surcharge changes covering \u2f00Middle East\u2f01-Pakistan cargo and inland transport across parts of Europe. The carrier will increase its Emergency Contingen\u2026"
+      },
+      {
+       "publisher": "The Loadstar",
+       "title": "Muscat-Dubai road feeder expected to remain part of Oman Air network",
+       "url": "https://theloadstar.com/muscat-dubai-road-feeder-expected-to-remain-part-of-oman-air-network/",
+       "sector": "Supply chain",
+       "country": "GB",
+       "quote": "\u2026closures across the Gulf and wider \u2f00Middle East\u2f01 region. The conflict also saw national carrier Oman Air come into its own, keeping cargo moving with the crea\u2026"
+      }
+     ]
+    },
+    {
+     "term": "red sea",
+     "articles": 2,
+     "home": "Supply chain",
+     "sectors": 2,
      "direction": "rising",
      "variants": [
-      "grid operator"
+      "houthi threat"
      ],
      "examples": [
       {
-       "publisher": "Banking Dive",
-       "title": "Bank of America pledges $250B toward US infrastructure update",
-       "url": "https://www.bankingdive.com/news/bank-of-america-pledges-250b-toward-us-infrastructure-update/827705/",
-       "sector": "Finance",
-       "country": "US",
-       "quote": "\u2026t in and advise on projects such as \u2f00data centers\u2f01, power generation and transportation."
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Landmark Dividend acquires \u2f00data center\u2f01 in Jacksonville, Florida, for $8.1m",
-       "url": "https://www.datacenterdynamics.com/en/news/landmark-dividend-acquires-data-center-in-jacksonville-florida-for-81m/",
-       "sector": "Technology",
-       "country": "US",
+       "publisher": "Seatrade Maritime",
+       "title": "IMO calls for careful \u2f00Red Sea\u2f01 risk assessments after fatal Houthi attack",
+       "url": "https://www.seatrade-maritime.com/security/imo-calls-for-careful-red-sea-risk-assessments-after-fatal-houthi-attack",
+       "sector": "Supply chain",
+       "country": "SG",
        "quote": ""
       },
       {
-       "publisher": "Data Center Dynamics",
-       "title": "Former LBNL supercomputing facility in Oakland, California, targeted for 20MW \u2f00data center\u2f01",
-       "url": "https://www.datacenterdynamics.com/en/news/former-lbnl-supercomputing-facility-in-oakland-california-targeted-for-20mw-data-center/",
-       "sector": "Technology",
-       "country": "US",
-       "quote": "\u2026to turn vacant site back into live \u2f00data center\u2f01"
-      }
-     ]
-    },
-    {
-     "term": "artificial intelligence",
-     "articles": 1,
-     "home": "Technology",
-     "sectors": 8,
-     "direction": "rising",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "Commercial Observer",
-       "title": "Fund Administrator Hanover Park Inks 19K-SF Deal at 387 Park Avenue South",
-       "url": "https://commercialobserver.com/2026/08/hanover-park-lease-tf-cornerstone-387-park-avenue-south/",
-       "sector": "Real estate",
-       "country": "US",
-       "quote": "An \u2f00artificial intelligence\u2f01-driven fund administrator is moving its headquarters to TF Cornerstone's 387 Park Avenue South, Commercial Ob\u2026"
-      },
-      {
-       "publisher": "Commercial Observer",
-       "title": "AI Insurance Firm WithCoverage Signs 18K-SF Lease at 200 Varick Street",
-       "url": "https://commercialobserver.com/2026/08/withcoverage-sublease-200-varick-street/",
-       "sector": "Real estate",
-       "country": "US",
-       "quote": "An \u2f00artificial intelligence\u2f01-powered insurance technology company subleasing space in Hudson Square has the attention of Gov. Kathy Hochul\u2026"
+       "publisher": "Seatrade Maritime",
+       "title": "Indian Subcontinent container capacity from East Asia falls 14%",
+       "url": "https://www.seatrade-maritime.com/containers/indian-subcontinent-container-capacity-from-east-asia-falls-14-",
+       "sector": "Supply chain",
+       "country": "SG",
+       "quote": "\u2026of the reduction as conflict in the \u2f00Red Sea\u2f01 and Strait of Hormuz impacts deployed capacity"
       },
       {
        "publisher": "Splash247",
-       "title": "AXSMarine: AI, blockchain and the technologies shipping actually needs",
-       "url": "https://splash247.com/axsmarine-ai-blockchain-and-the-technologies-shipping-actually-needs/",
+       "title": "US disables boxship while \u2f00Red Sea\u2f01 attack kills six",
+       "url": "https://splash247.com/us-disables-boxship-while-red-sea-attack-kills-six/",
        "sector": "Supply chain",
        "country": "SG",
-       "quote": "\u2026echnology alone, but from combining \u2f00artificial intelligence\u2f01 with trusted shipping data. Goudchaux has been around maritime technology long enough to have witnessed sever\u2026"
+       "quote": ""
       }
      ]
     }
    ],
    "examples": [
     {
-     "publisher": "DigiTimes Asia",
-     "title": "OCP APAC 2026: AMD sees AI agents pushing CPU-GPU ratio toward 1:1",
-     "url": "https://www.digitimes.com/news/a20260812VL224/amd-apac-cpu-2026-infrastructure.html",
-     "sector": "Technology"
+     "publisher": "Container News",
+     "title": "Maersk raises Middle East-Pakistan surcharge and updates European fuel fees",
+     "url": "https://container-news.com/maersk-raises-middle-east-pakistan-surcharge-and-updates-european-fuel-fees/",
+     "sector": "Supply chain"
     },
     {
-     "publisher": "Data Center Dynamics",
-     "title": "Fermi signs agreement with TensorWave for up to 650MW of data center capacity at Project Matador site",
-     "url": "https://www.datacenterdynamics.com/en/news/fermi-signs-agreement-with-tensorwave-for-up-to-650mw-of-data-center-capacity-at-project-matador-site/",
-     "sector": "Technology"
+     "publisher": "Container News",
+     "title": "Maersk updates heavy weight surcharges for Canada and Mexico trades",
+     "url": "https://container-news.com/maersk-updates-heavy-weight-surcharges-for-canada-and-mexico-trades/",
+     "sector": "Supply chain"
     },
     {
-     "publisher": "DigiTimes Asia",
-     "title": "AMD to buy Taalas in push for faster AI inference chips",
-     "url": "https://www.digitimes.com/news/a20260807PR200/amd-ai-inference-technology-startup-acquisition.html",
-     "sector": "Technology"
+     "publisher": "Container News",
+     "title": "Maersk reports operational disruptions after Colombia earthquake",
+     "url": "https://container-news.com/maersk-reports-operational-disruptions-after-colombia-earthquake/",
+     "sector": "Supply chain"
     },
     {
-     "publisher": "The Register",
-     "title": "MIT boffins' TONTOU attack slips through Spectre defenses on Intel and AMD CPUs",
-     "url": "https://www.theregister.com/security/2026/08/07/mit-boffins-tontou-attack-slips-through-spectre-defenses-on-intel-and-amd-cpus/5284081",
-     "sector": "Technology"
+     "publisher": "Container News",
+     "title": "Maersk reinstates Ashdod call on SLB service",
+     "url": "https://container-news.com/maersk-reinstates-ashdod-call-on-slb-service/",
+     "sector": "Supply chain"
     }
    ]
   },
@@ -7707,7 +7269,7 @@
     {
      "term": "joint venture",
      "articles": 1,
-     "home": "Real estate",
+     "home": "Technology",
      "sectors": 5,
      "direction": "rising",
      "variants": [],
@@ -7793,162 +7355,17 @@
    ]
   },
   {
-   "prior14d": 2,
-   "direction": "rising",
-   "ticker": "META",
-   "name": "Meta Platforms",
-   "sector": "Technology",
-   "borrowed": [
-    "data center"
-   ],
-   "articles": 20,
-   "articles14d": 13,
-   "terms": [
-    {
-     "term": "data center",
-     "articles": 2,
-     "home": "Utilities",
-     "sectors": 7,
-     "direction": "rising",
-     "variants": [
-      "grid operator"
-     ],
-     "examples": [
-      {
-       "publisher": "Banking Dive",
-       "title": "Bank of America pledges $250B toward US infrastructure update",
-       "url": "https://www.bankingdive.com/news/bank-of-america-pledges-250b-toward-us-infrastructure-update/827705/",
-       "sector": "Finance",
-       "country": "US",
-       "quote": "\u2026t in and advise on projects such as \u2f00data centers\u2f01, power generation and transportation."
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Landmark Dividend acquires \u2f00data center\u2f01 in Jacksonville, Florida, for $8.1m",
-       "url": "https://www.datacenterdynamics.com/en/news/landmark-dividend-acquires-data-center-in-jacksonville-florida-for-81m/",
-       "sector": "Technology",
-       "country": "US",
-       "quote": ""
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Former LBNL supercomputing facility in Oakland, California, targeted for 20MW \u2f00data center\u2f01",
-       "url": "https://www.datacenterdynamics.com/en/news/former-lbnl-supercomputing-facility-in-oakland-california-targeted-for-20mw-data-center/",
-       "sector": "Technology",
-       "country": "US",
-       "quote": "\u2026to turn vacant site back into live \u2f00data center\u2f01"
-      }
-     ]
-    },
-    {
-     "term": "artificial intelligence",
-     "articles": 1,
-     "home": "Technology",
-     "sectors": 8,
-     "direction": "rising",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "Commercial Observer",
-       "title": "Fund Administrator Hanover Park Inks 19K-SF Deal at 387 Park Avenue South",
-       "url": "https://commercialobserver.com/2026/08/hanover-park-lease-tf-cornerstone-387-park-avenue-south/",
-       "sector": "Real estate",
-       "country": "US",
-       "quote": "An \u2f00artificial intelligence\u2f01-driven fund administrator is moving its headquarters to TF Cornerstone's 387 Park Avenue South, Commercial Ob\u2026"
-      },
-      {
-       "publisher": "Commercial Observer",
-       "title": "AI Insurance Firm WithCoverage Signs 18K-SF Lease at 200 Varick Street",
-       "url": "https://commercialobserver.com/2026/08/withcoverage-sublease-200-varick-street/",
-       "sector": "Real estate",
-       "country": "US",
-       "quote": "An \u2f00artificial intelligence\u2f01-powered insurance technology company subleasing space in Hudson Square has the attention of Gov. Kathy Hochul\u2026"
-      },
-      {
-       "publisher": "Splash247",
-       "title": "AXSMarine: AI, blockchain and the technologies shipping actually needs",
-       "url": "https://splash247.com/axsmarine-ai-blockchain-and-the-technologies-shipping-actually-needs/",
-       "sector": "Supply chain",
-       "country": "SG",
-       "quote": "\u2026echnology alone, but from combining \u2f00artificial intelligence\u2f01 with trusted shipping data. Goudchaux has been around maritime technology long enough to have witnessed sever\u2026"
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "Manus breaks from Meta, returns to independence after China blocks US$2B AI deal",
-     "url": "https://www.digitimes.com/news/a20260812VL211/meta-data-startup-acquisition-2025.html",
-     "sector": "Technology"
-    },
-    {
-     "publisher": "The Elec",
-     "title": "Meta Launches Paid AI Coding Service 'Muse Code,' Expands Into Developer Market",
-     "url": "https://www.thelec.net/news/articleView.html?idxno=12879",
-     "sector": "Technology"
-    },
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "Meta bets open, on-device model can win AI power struggle",
-     "url": "https://www.digitimes.com/news/a20260811VL200/meta-ai-agent-ai-mark-zuckerberg.html",
-     "sector": "Technology"
-    },
-    {
-     "publisher": "The Register",
-     "title": "Zuck rekindles open weights Llama drama with Muse Glimmer",
-     "url": "https://www.theregister.com/ai-and-ml/2026/08/10/zuck-rekindles-open-weights-llama-drama-with-muse-glimmer/5285666",
-     "sector": "Technology"
-    }
-   ]
-  },
-  {
    "prior14d": 7,
    "direction": "rising",
    "ticker": "000660.KS",
    "name": "SK Hynix",
    "sector": "Technology",
    "borrowed": [
-    "production capacity",
     "supply chain"
    ],
    "articles": 24,
    "articles14d": 12,
    "terms": [
-    {
-     "term": "production capacity",
-     "articles": 1,
-     "home": "Autos",
-     "sectors": 2,
-     "direction": "rising",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Compal doubles AI server capacity, targets 30 40% revenue share by 2027",
-       "url": "https://www.digitimes.com/news/a20260811PD246/compal-ai-server-manufacturing-revenue-capacity.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026, bringing new-generation AI server \u2f00production capacity\u2f01 online. Compal chairman Ray Chen said the company was still a newcomer to AI servers two years ago but has si\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Samsung races to qualify Taylor fab as 2nm demand turns US capacity into a strategic asset",
-       "url": "https://www.digitimes.com/news/a20260811VL206/samsung-fab-2nm-capacity-demand.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026xpanding the nation's semiconductor \u2f00production capacity\u2f01. But the broader objective extends beyond capacity ramps alone toward building a more self-reinforcing semico\u2026"
-      },
-      {
-       "publisher": "ET Retail",
-       "title": "Dixon Tech, Vivo JV transaction to be completed in 2 months, revenue flow from Oct-Dec qtr: CEO",
-       "url": "https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology/dixon-tech-vivo-jv-transaction-to-be-completed-in-2-months-revenue-flow-from-oct-dec-qtr-ceo/133078944",
-       "sector": "Consumer",
-       "country": "IN",
-       "quote": "\u2026is also expanding its camera module \u2f00production capacity\u2f01 significantly. Its new display facility construction is complete, with machinery installation underway. Mass\u2026"
-      }
-     ]
-    },
     {
      "term": "supply chain",
      "articles": 1,
@@ -7982,6 +7399,40 @@
        "sector": "Technology",
        "country": "TW",
        "quote": ""
+      }
+     ]
+    },
+    {
+     "term": "production capacity",
+     "articles": 1,
+     "home": "Technology",
+     "sectors": 2,
+     "direction": "rising",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "Compal doubles AI server capacity, targets 30 40% revenue share by 2027",
+       "url": "https://www.digitimes.com/news/a20260811PD246/compal-ai-server-manufacturing-revenue-capacity.html",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026, bringing new-generation AI server \u2f00production capacity\u2f01 online. Compal chairman Ray Chen said the company was still a newcomer to AI servers two years ago but has si\u2026"
+      },
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "Samsung races to qualify Taylor fab as 2nm demand turns US capacity into a strategic asset",
+       "url": "https://www.digitimes.com/news/a20260811VL206/samsung-fab-2nm-capacity-demand.html",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026xpanding the nation's semiconductor \u2f00production capacity\u2f01. But the broader objective extends beyond capacity ramps alone toward building a more self-reinforcing semico\u2026"
+      },
+      {
+       "publisher": "ET Retail",
+       "title": "Dixon Tech, Vivo JV transaction to be completed in 2 months, revenue flow from Oct-Dec qtr: CEO",
+       "url": "https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology/dixon-tech-vivo-jv-transaction-to-be-completed-in-2-months-revenue-flow-from-oct-dec-qtr-ceo/133078944",
+       "sector": "Consumer",
+       "country": "IN",
+       "quote": "\u2026is also expanding its camera module \u2f00production capacity\u2f01 significantly. Its new display facility construction is complete, with machinery installation underway. Mass\u2026"
       }
      ]
     }
@@ -8174,7 +7625,7 @@
     {
      "term": "drone strike",
      "articles": 1,
-     "home": "Supply chain",
+     "home": "Energy",
      "sectors": 2,
      "direction": "new",
      "variants": [],
@@ -8358,7 +7809,7 @@
     {
      "term": "data center",
      "articles": 3,
-     "home": "Utilities",
+     "home": "Technology",
      "sectors": 7,
      "direction": "rising",
      "variants": [
@@ -8394,7 +7845,7 @@
     {
      "term": "power generation",
      "articles": 2,
-     "home": "Utilities",
+     "home": "Energy",
      "sectors": 3,
      "direction": "rising",
      "variants": [],
@@ -8460,11 +7911,48 @@
    "name": "American Electric Power",
    "sector": "Utilities",
    "borrowed": [
+    "data center",
     "grid connection"
    ],
    "articles": 5,
    "articles14d": 3,
    "terms": [
+    {
+     "term": "data center",
+     "articles": 2,
+     "home": "Technology",
+     "sectors": 7,
+     "direction": "rising",
+     "variants": [
+      "grid operator"
+     ],
+     "examples": [
+      {
+       "publisher": "Banking Dive",
+       "title": "Bank of America pledges $250B toward US infrastructure update",
+       "url": "https://www.bankingdive.com/news/bank-of-america-pledges-250b-toward-us-infrastructure-update/827705/",
+       "sector": "Finance",
+       "country": "US",
+       "quote": "\u2026t in and advise on projects such as \u2f00data centers\u2f01, power generation and transportation."
+      },
+      {
+       "publisher": "Data Center Dynamics",
+       "title": "Landmark Dividend acquires \u2f00data center\u2f01 in Jacksonville, Florida, for $8.1m",
+       "url": "https://www.datacenterdynamics.com/en/news/landmark-dividend-acquires-data-center-in-jacksonville-florida-for-81m/",
+       "sector": "Technology",
+       "country": "US",
+       "quote": ""
+      },
+      {
+       "publisher": "Data Center Dynamics",
+       "title": "Former LBNL supercomputing facility in Oakland, California, targeted for 20MW \u2f00data center\u2f01",
+       "url": "https://www.datacenterdynamics.com/en/news/former-lbnl-supercomputing-facility-in-oakland-california-targeted-for-20mw-data-center/",
+       "sector": "Technology",
+       "country": "US",
+       "quote": "\u2026to turn vacant site back into live \u2f00data center\u2f01"
+      }
+     ]
+    },
     {
      "term": "grid connection",
      "articles": 1,
@@ -8496,42 +7984,6 @@
        "sector": "Utilities",
        "country": "GB",
        "quote": "\u2026e market cope with demand? The post \u2f00Grid connection\u2f01 poses threat to offshore wind appeared first on Energy Live News ."
-      }
-     ]
-    },
-    {
-     "term": "data center",
-     "articles": 2,
-     "home": "Utilities",
-     "sectors": 7,
-     "direction": "rising",
-     "variants": [
-      "grid operator"
-     ],
-     "examples": [
-      {
-       "publisher": "Banking Dive",
-       "title": "Bank of America pledges $250B toward US infrastructure update",
-       "url": "https://www.bankingdive.com/news/bank-of-america-pledges-250b-toward-us-infrastructure-update/827705/",
-       "sector": "Finance",
-       "country": "US",
-       "quote": "\u2026t in and advise on projects such as \u2f00data centers\u2f01, power generation and transportation."
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Landmark Dividend acquires \u2f00data center\u2f01 in Jacksonville, Florida, for $8.1m",
-       "url": "https://www.datacenterdynamics.com/en/news/landmark-dividend-acquires-data-center-in-jacksonville-florida-for-81m/",
-       "sector": "Technology",
-       "country": "US",
-       "quote": ""
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Former LBNL supercomputing facility in Oakland, California, targeted for 20MW \u2f00data center\u2f01",
-       "url": "https://www.datacenterdynamics.com/en/news/former-lbnl-supercomputing-facility-in-oakland-california-targeted-for-20mw-data-center/",
-       "sector": "Technology",
-       "country": "US",
-       "quote": "\u2026to turn vacant site back into live \u2f00data center\u2f01"
       }
      ]
     }
@@ -8566,80 +8018,6 @@
   {
    "prior14d": 0,
    "direction": "new",
-   "ticker": "7211.T",
-   "name": "Mitsubishi Motors",
-   "sector": "Autos",
-   "borrowed": [
-    "electric vehicle"
-   ],
-   "articles": 13,
-   "articles14d": 11,
-   "terms": [
-    {
-     "term": "electric vehicle",
-     "articles": 2,
-     "home": "Energy",
-     "sectors": 3,
-     "direction": "rising",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "Carbon Brief",
-       "title": "Analysis: Weaker EV targets could cost UK consumers \u00a33bn a year by 2030",
-       "url": "https://www.carbonbrief.org/analysis-weaker-ev-targets-could-cost-uk-consumers-3bn-a-year-by-2030",
-       "sector": "Policy",
-       "country": "GB",
-       "quote": "\u2026nsultation on weakening targets for \u2f00electric vehicles\u2f01 (EVs) could cost consumers as much as \u00a33bn a\u2026 The post Analysis: Weaker EV targets could cost UK consumers \u00a33\u2026"
-      },
-      {
-       "publisher": "Electrive",
-       "title": "Early switch to EVs delivers significant climate benefits",
-       "url": "https://www.electrive.com/2026/08/12/early-switch-to-evs-delivers-significant-climate-benefits/",
-       "sector": "Autos",
-       "country": "DE",
-       "quote": "\u2026ar rather than replacing it with an \u2f00electric vehicle\u2f01 is not necessarily the more climate-friendly option. A US study finds that switching to an electric car reduc\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Tesla emerges as biggest winner from Germany's EV subsidies, while China-made models gain ground",
-       "url": "https://www.digitimes.com/news/a20260812PD233/data-germany-ev-subsidies-tesla.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "Whether Germany's renewed \u2f00electric vehicle\u2f01 (EV) subsidies are inadvertently helping Chinese brands accelerate their push into Europe has become a closel\u2026"
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "Just Auto",
-     "title": "Mitsubishi eyes EV battery plant in Philippines",
-     "url": "https://www.just-auto.com/news/mitsubishi-ev-battery-plant-philippines/",
-     "sector": "Autos"
-    },
-    {
-     "publisher": "Electrive",
-     "title": "Mitsubishi to launch ASX VR-e in Australia and New Zealand",
-     "url": "https://www.electrive.com/2026/08/11/mitsubishi-to-launch-asx-vr-e-in-australia-and-new-zealand/",
-     "sector": "Autos"
-    },
-    {
-     "publisher": "Japan Industry News",
-     "title": "Mitsubishi and MEDIPAL Form Strategic Alliance to Expand Healthcare and Consumer Products",
-     "url": "https://www.japanindustrynews.com/2026/08/mitsubishi-and-medipal-form-strategic-alliance-to-expand-healthcare-and-consumer-products/",
-     "sector": "Industrials"
-    },
-    {
-     "publisher": "Japan Industry News",
-     "title": "Mitsubishi Motors Gears Up for 2026 Asia Cross Country Rally",
-     "url": "https://www.japanindustrynews.com/2026/08/mitsubishi-motors-gears-up-for-2026-asia-cross-country-rally/",
-     "sector": "Industrials"
-    }
-   ]
-  },
-  {
-   "prior14d": 0,
-   "direction": "new",
    "ticker": "UPS",
    "name": "United Parcel Service",
    "sector": "Supply chain",
@@ -8652,7 +8030,7 @@
     {
      "term": "data center",
      "articles": 1,
-     "home": "Utilities",
+     "home": "Technology",
      "sectors": 7,
      "direction": "rising",
      "variants": [
@@ -8804,7 +8182,7 @@
     {
      "term": "data center",
      "articles": 5,
-     "home": "Utilities",
+     "home": "Technology",
      "sectors": 7,
      "direction": "rising",
      "variants": [
@@ -8866,80 +8244,6 @@
    ]
   },
   {
-   "prior14d": 0,
-   "direction": "new",
-   "ticker": "LCID",
-   "name": "Lucid Motors",
-   "sector": "Autos",
-   "borrowed": [
-    "electric vehicle"
-   ],
-   "articles": 12,
-   "articles14d": 6,
-   "terms": [
-    {
-     "term": "electric vehicle",
-     "articles": 1,
-     "home": "Energy",
-     "sectors": 3,
-     "direction": "rising",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "Carbon Brief",
-       "title": "Analysis: Weaker EV targets could cost UK consumers \u00a33bn a year by 2030",
-       "url": "https://www.carbonbrief.org/analysis-weaker-ev-targets-could-cost-uk-consumers-3bn-a-year-by-2030",
-       "sector": "Policy",
-       "country": "GB",
-       "quote": "\u2026nsultation on weakening targets for \u2f00electric vehicles\u2f01 (EVs) could cost consumers as much as \u00a33bn a\u2026 The post Analysis: Weaker EV targets could cost UK consumers \u00a33\u2026"
-      },
-      {
-       "publisher": "Electrive",
-       "title": "Early switch to EVs delivers significant climate benefits",
-       "url": "https://www.electrive.com/2026/08/12/early-switch-to-evs-delivers-significant-climate-benefits/",
-       "sector": "Autos",
-       "country": "DE",
-       "quote": "\u2026ar rather than replacing it with an \u2f00electric vehicle\u2f01 is not necessarily the more climate-friendly option. A US study finds that switching to an electric car reduc\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Tesla emerges as biggest winner from Germany's EV subsidies, while China-made models gain ground",
-       "url": "https://www.digitimes.com/news/a20260812PD233/data-germany-ev-subsidies-tesla.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "Whether Germany's renewed \u2f00electric vehicle\u2f01 (EV) subsidies are inadvertently helping Chinese brands accelerate their push into Europe has become a closel\u2026"
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "Electrive",
-     "title": "California activates $3,500 rebates for first-time ZEV buyers",
-     "url": "https://www.electrive.com/2026/08/10/california-activates-3500-rebates-for-first-time-zev-buyers/",
-     "sector": "Autos"
-    },
-    {
-     "publisher": "Smart Cities Dive",
-     "title": "Uber to operate robotaxis in Los Angeles, San Francisco this year",
-     "url": "https://www.smartcitiesdive.com/news/uber-robotaxi-lucid-rivian-strategy/827132/",
-     "sector": "Waste & water"
-    },
-    {
-     "publisher": "Just Auto",
-     "title": "Lucid rolls out operational reset as Q2 net loss widens",
-     "url": "https://www.just-auto.com/news/lucid-rolls-out-operational-reset/",
-     "sector": "Autos"
-    },
-    {
-     "publisher": "Automotive World",
-     "title": "Lucid delays debut affordable EV to 2027, resets operations",
-     "url": "https://www.automotiveworld.com/news/lucid-delays-debut-affordable-ev-to-2027-resets-operations/",
-     "sector": "Autos"
-    }
-   ]
-  },
-  {
    "prior14d": 1,
    "direction": "rising",
    "ticker": "CBRE",
@@ -8954,7 +8258,7 @@
     {
      "term": "data center",
      "articles": 2,
-     "home": "Utilities",
+     "home": "Technology",
      "sectors": 7,
      "direction": "rising",
      "variants": [
@@ -9030,7 +8334,7 @@
     {
      "term": "data center",
      "articles": 1,
-     "home": "Utilities",
+     "home": "Technology",
      "sectors": 7,
      "direction": "rising",
      "variants": [
@@ -9106,7 +8410,7 @@
     {
      "term": "joint venture",
      "articles": 1,
-     "home": "Real estate",
+     "home": "Technology",
      "sectors": 5,
      "direction": "rising",
      "variants": [],
@@ -9162,309 +8466,6 @@
      "title": "Cameco announces IPO plan for Westinghouse",
      "url": "https://www.world-nuclear-news.org/articles/cameco-announces-go-public-plans-for-westinghouse",
      "sector": "Energy"
-    }
-   ]
-  },
-  {
-   "prior14d": 9,
-   "direction": "falling",
-   "ticker": "IBN",
-   "name": "ICICI Bank",
-   "sector": "Finance",
-   "borrowed": [
-    "interest rate"
-   ],
-   "articles": 20,
-   "articles14d": 4,
-   "terms": [
-    {
-     "term": "interest rate",
-     "articles": 1,
-     "home": "Consumer",
-     "sectors": 2,
-     "direction": "rising",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "ET BFSI",
-       "title": "RBI redraws \u2f00interest rate\u2f01 framework for banks, NBFCs; tighter benchmark, spread norms proposed",
-       "url": "https://bfsi.economictimes.indiatimes.com/articles/rbi-redraws-interest-rate-framework-for-banks-nbfcs-tighter-benchmark-spread-norms-proposed/133186167",
-       "sector": "Finance",
-       "country": "IN",
-       "quote": ""
-      },
-      {
-       "publisher": "ET BFSI",
-       "title": "RBI's new FD rules from October 1: What changes for depositors and banks",
-       "url": "https://bfsi.economictimes.indiatimes.com/articles/rbis-new-fd-rules-from-october-1-what-changes-for-depositors-and-banks/133086374",
-       "sector": "Finance",
-       "country": "IN",
-       "quote": "\u2026nd standardised the way banks offer \u2f00interest rates\u2f01 to retail customers."
-      },
-      {
-       "publisher": "ET BFSI",
-       "title": "Is RBI's Low \u2f00Interest Rate\u2f01 Regime Really Powering India's Growth?",
-       "url": "https://bfsi.economictimes.indiatimes.com/news/editors-view/is-rbis-low-interest-rate-regime-really-powering-indias-growth/133019368",
-       "sector": "Finance",
-       "country": "IN",
-       "quote": ""
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "ET Manufacturing",
-     "title": "India's economic growth may moderate in H2FY27, accelerate to 7.2% in FY28: Report",
-     "url": "https://manufacturing.economictimes.indiatimes.com/news/industry/indias-economic-growth-may-moderate-in-h2fy27-accelerate-to-7-2-in-fy28-report/132988718",
-     "sector": "Industrials"
-    },
-    {
-     "publisher": "ET BFSI",
-     "title": "FCNR(B) deposits nearly double to USD 60.5 bn after RBI relaxation; HSBC, SBI, ICICI lead inflows",
-     "url": "https://bfsi.economictimes.indiatimes.com/articles/fcnrb-deposits-nearly-double-to-usd-60-5-bn-after-rbi-relaxation-hsbc-sbi-icici-lead-inflows/132840610",
-     "sector": "Finance"
-    },
-    {
-     "publisher": "aninews.in",
-     "title": "Direct tax collections rise 12 % in Q1FY27 , giving Centre fiscal buffer amid global uncertainties : ICICI Bank",
-     "url": "https://aninews.in/news/business/direct-tax-collections-rise-12-in-q1fy27-giving-centre-fiscal-buffer-amid-global-uncertainties-icici-bank20260801132543/",
-     "sector": "Finance"
-    },
-    {
-     "publisher": "newkerala.com",
-     "title": "Direct Tax Collections Up 12 % in Q1FY27 : ICICI Bank",
-     "url": "https://www.newkerala.com/news/a/direct-tax-collections-rise-12-q1fy27-giving-centre-455.htm",
-     "sector": "Finance"
-    }
-   ]
-  },
-  {
-   "prior14d": 1,
-   "direction": "rising",
-   "ticker": "NVDA",
-   "name": "NVIDIA",
-   "sector": "Technology",
-   "borrowed": [
-    "data center"
-   ],
-   "articles": 15,
-   "articles14d": 4,
-   "terms": [
-    {
-     "term": "data center",
-     "articles": 1,
-     "home": "Utilities",
-     "sectors": 7,
-     "direction": "rising",
-     "variants": [
-      "grid operator"
-     ],
-     "examples": [
-      {
-       "publisher": "Banking Dive",
-       "title": "Bank of America pledges $250B toward US infrastructure update",
-       "url": "https://www.bankingdive.com/news/bank-of-america-pledges-250b-toward-us-infrastructure-update/827705/",
-       "sector": "Finance",
-       "country": "US",
-       "quote": "\u2026t in and advise on projects such as \u2f00data centers\u2f01, power generation and transportation."
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Landmark Dividend acquires \u2f00data center\u2f01 in Jacksonville, Florida, for $8.1m",
-       "url": "https://www.datacenterdynamics.com/en/news/landmark-dividend-acquires-data-center-in-jacksonville-florida-for-81m/",
-       "sector": "Technology",
-       "country": "US",
-       "quote": ""
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Former LBNL supercomputing facility in Oakland, California, targeted for 20MW \u2f00data center\u2f01",
-       "url": "https://www.datacenterdynamics.com/en/news/former-lbnl-supercomputing-facility-in-oakland-california-targeted-for-20mw-data-center/",
-       "sector": "Technology",
-       "country": "US",
-       "quote": "\u2026to turn vacant site back into live \u2f00data center\u2f01"
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "The Register",
-     "title": "Sovereign AI overcomes compliance challenges and feeds innovation in public sector and other regulated industries, say HPE and NVIDIA",
-     "url": "https://www.theregister.com/ai-and-ml/2026/08/12/sponsored-sovereign-ai-overcomes-compliance-challenges-and-feeds-innovation-in-public-sector-and-other-regulated-industries-say-hpe-and-nvidia/5285522",
-     "sector": "Technology"
-    },
-    {
-     "publisher": "Just Auto",
-     "title": "Innoviz to develop LiDAR-based perception stack for highway driving with \u2018Top 10 Global Automotive OEM'",
-     "url": "https://www.just-auto.com/news/innoviz-to-develop-lidar-based-perception-stack-for-highway-driving-with-top-10-global-automotive-oem/",
-     "sector": "Autos"
-    },
-    {
-     "publisher": "The Register",
-     "title": "Operationalize AI at scale with HPE and NVIDIA",
-     "url": "https://www.theregister.com/ai-and-ml/2026/08/05/sponsored-operational-ai-at-scale-with-hpe-and-nvidia/5282929",
-     "sector": "Technology"
-    },
-    {
-     "publisher": "blogs.itmedia.co.jp",
-     "title": "DeepSeek - V4 - Flash Shock ! The Inference Cost Deflation Shock and the Structural De - Rating of U . S . AI Infrastructure \uff1a \u7d4c\u55b6\u8005\u304c\u8aad\u3080NVIDIA\u306e\u30d5\u30a3\u30b8\u30ab\u30ebAI / ADAS\u696d\u754c\u65e5\u5831 by \u4eca\u6cc9\u5927\u8f14 \uff1a \u30aa\u30eb\u30bf\u30ca\u30c6\u30a3\u30d6 \u30fb \u30d6\u30ed\u30b0",
-     "url": "https://blogs.itmedia.co.jp/serial/2026/08/deepseek-v4-flash_shock_the_inference_cost_deflation_shock_and_the_structural_de-rating_of_us_ai_inf.html",
-     "sector": "Finance"
-    }
-   ]
-  },
-  {
-   "prior14d": 0,
-   "direction": "new",
-   "ticker": "PRIVATE-BASEPOWER",
-   "name": "Base Power",
-   "sector": "Utilities",
-   "borrowed": [
-    "energy storage"
-   ],
-   "articles": 6,
-   "articles14d": 4,
-   "terms": [
-    {
-     "term": "energy storage",
-     "articles": 1,
-     "home": "Energy",
-     "sectors": 3,
-     "direction": "rising",
-     "variants": [
-      "energy storage system",
-      "battery energy storage"
-     ],
-     "examples": [
-      {
-       "publisher": "Renewable Energy World",
-       "title": "Case study: Preparing to power data-driven demand with solar and storage at the Appledale Energy Center",
-       "url": "https://www.renewableenergyworld.com/solar/case-study-preparing-to-power-data-driven-demand-with-solar-and-storage-at-the-appledale-energy-center/",
-       "sector": "Utilities",
-       "country": "US",
-       "quote": "\u2026bined with a 4-hour, 300 MW battery \u2f00energy storage\u2f01 system."
-      },
-      {
-       "publisher": "PV Magazine",
-       "title": "Europe's largest battery comes online in Scotland",
-       "url": "https://www.pv-magazine.com/2026/08/12/europes-largest-battery-comes-online-in-scotland/",
-       "sector": "Energy",
-       "country": "DE",
-       "quote": "\u2026e UK transmission-connected battery \u2f00energy storage\u2f01 system (BESS) projects developed by Copenhagen Infrastructure Partners (CIP) to enter commercial operations.\u2026"
-      },
-      {
-       "publisher": "Energy Live News",
-       "title": "AI technology could improve \u2f00energy storage\u2f01",
-       "url": "https://www.energylivenews.com/2026/08/12/ai-technology-could-improve-energy-storage/",
-       "sector": "Utilities",
-       "country": "GB",
-       "quote": "\u2026he post AI technology could improve \u2f00energy storage\u2f01 appeared first on Energy Live News ."
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "Renewable Energy World",
-     "title": "Is it the future yet? | Factor This Brief",
-     "url": "https://www.renewableenergyworld.com/solar/is-it-the-future-yet-factor-this-brief/",
-     "sector": "Utilities"
-    },
-    {
-     "publisher": "Energy Storage News",
-     "title": "Base Power raises another US$1 billion in Series D financing for US residential BESS",
-     "url": "https://www.energy-storage.news/base-power-raises-another-us1-billion-in-series-d-financing-for-us-residential-bess/",
-     "sector": "Utilities"
-    },
-    {
-     "publisher": "Canary Media",
-     "title": "Base Power raises $1B to get big batteries into more homes",
-     "url": "https://www.canarymedia.com/articles/batteries/base-power-raises-1b-to-get-big-batteries-into-more-homes",
-     "sector": "Energy"
-    },
-    {
-     "publisher": "Utility Dive",
-     "title": "America's permitting crisis lives at City Hall",
-     "url": "https://www.utilitydive.com/news/americas-permitting-crisis-lives-at-city-hall-residential-battery-storage-solar/825670/",
-     "sector": "Utilities"
-    }
-   ]
-  },
-  {
-   "prior14d": 5,
-   "direction": "falling",
-   "ticker": "AVGO",
-   "name": "Broadcom",
-   "sector": "Technology",
-   "borrowed": [
-    "data center"
-   ],
-   "articles": 24,
-   "articles14d": 2,
-   "terms": [
-    {
-     "term": "data center",
-     "articles": 1,
-     "home": "Utilities",
-     "sectors": 7,
-     "direction": "rising",
-     "variants": [
-      "grid operator"
-     ],
-     "examples": [
-      {
-       "publisher": "Banking Dive",
-       "title": "Bank of America pledges $250B toward US infrastructure update",
-       "url": "https://www.bankingdive.com/news/bank-of-america-pledges-250b-toward-us-infrastructure-update/827705/",
-       "sector": "Finance",
-       "country": "US",
-       "quote": "\u2026t in and advise on projects such as \u2f00data centers\u2f01, power generation and transportation."
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Landmark Dividend acquires \u2f00data center\u2f01 in Jacksonville, Florida, for $8.1m",
-       "url": "https://www.datacenterdynamics.com/en/news/landmark-dividend-acquires-data-center-in-jacksonville-florida-for-81m/",
-       "sector": "Technology",
-       "country": "US",
-       "quote": ""
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "Former LBNL supercomputing facility in Oakland, California, targeted for 20MW \u2f00data center\u2f01",
-       "url": "https://www.datacenterdynamics.com/en/news/former-lbnl-supercomputing-facility-in-oakland-california-targeted-for-20mw-data-center/",
-       "sector": "Technology",
-       "country": "US",
-       "quote": "\u2026to turn vacant site back into live \u2f00data center\u2f01"
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "Nvidia, Broadcom diverge on how to scale AI networks beyond the rack",
-     "url": "https://www.digitimes.com/news/a20260812VL216/nvidia-broadcom-ethernet-cpo-ocp-taipei.html",
-     "sector": "Technology"
-    },
-    {
-     "publisher": "Manufacturing Dive",
-     "title": "Samsung, Broadcom reach $200B AI memory chip deal",
-     "url": "https://www.manufacturingdive.com/news/samsung-broadcom-200b-memory-chip-deal-AI-semiconductors/826479/",
-     "sector": "Industrials"
-    },
-    {
-     "publisher": "finance.yahoo.com",
-     "title": "How a $10 , 000 Investment in Broadcom Under Hock Tan Grew to $3 . 2M",
-     "url": "https://finance.yahoo.com/markets/stocks/articles/10-000-investment-broadcom-under-142527327.html",
-     "sector": "Technology"
-    },
-    {
-     "publisher": "finance.yahoo.com",
-     "title": "Broadcom AI Mix Shift : How AVGO Booming AI Chip Business Changes the Investment Thesis",
-     "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-ai-mix-shift-avgo-171151763.html",
-     "sector": "Technology"
     }
    ]
   }
@@ -26623,8 +25624,8 @@
   ]
  },
  "daysCollected": 108,
- "articlesStored": 8672,
- "articlesLive": 4896,
+ "articlesStored": 8674,
+ "articlesLive": 4898,
  "windowDays": 90,
  "terms": [
   {
@@ -26959,7 +25960,7 @@
      "new",
      6,
      0,
-     63.0,
+     63.1,
      [
       {
        "title": "AMD Sees \u2f00Data Center Revenue\u2f01 More Than Doubling Next Year as AI Demand Surges",
@@ -27515,7 +26516,7 @@
      "n": 7
     }
    ],
-   "specificity": 0.891,
+   "specificity": 0.892,
    "rank": 4.39
   },
   {
@@ -27860,7 +26861,7 @@
      "new",
      4,
      0,
-     58.1,
+     58.2,
      [
       {
        "title": "Amazon to add supply chain facilities in New York, Texas",
@@ -28678,7 +27679,7 @@
      "new",
      6,
      0,
-     130.8,
+     130.9,
      [
       {
        "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
@@ -29421,7 +28422,7 @@
      "new",
      4,
      0,
-     92.4,
+     92.5,
      [
       {
        "title": "Invinity sells 43MWh long-duration flow battery system to US Midwest rural electric cooperative",
@@ -30989,7 +29990,7 @@
      "new",
      4,
      0,
-     41.6,
+     41.7,
      [
       {
        "title": "Dixon Tech, Vivo JV transaction to be completed in 2 months, revenue flow from Oct-Dec qtr: CEO",
@@ -31404,7 +30405,7 @@
      "n": 5
     }
    ],
-   "specificity": 0.963,
+   "specificity": 0.964,
    "rank": 4.65
   },
   {
@@ -32364,7 +31365,7 @@
      "rising",
      4,
      2,
-     212.5,
+     212.6,
      [
       {
        "title": "Why Illinois has struggled to turn old coal sites into solar farms",
@@ -33015,7 +32016,7 @@
      "new",
      6,
      0,
-     330.1,
+     330.3,
      [
       {
        "title": "Red Sea Attack Sinks India-Flagged Cargo Vessel Off Yemen",
@@ -33046,7 +32047,7 @@
      "new",
      8,
      0,
-     264.1,
+     264.2,
      [
       {
        "title": "Middle East War Pushes China Toward the Arctic Trade Route",
@@ -33077,7 +32078,7 @@
      "new",
      10,
      0,
-     183.4,
+     183.5,
      [
       {
        "title": "Middle East War Pushes China Toward the Arctic Trade Route",
@@ -33773,7 +32774,7 @@
      "new",
      4,
      0,
-     246.5,
+     246.6,
      [
       {
        "title": "Tesla emerges as biggest winner from Germany's EV subsidies, while China-made models \u2f00gain ground\u2f01",
@@ -33797,7 +32798,7 @@
      "new",
      4,
      0,
-     147.9,
+     148.0,
      [
       {
        "title": "German EV subsidies lift Chinese automakers in a reshaped market",
@@ -34428,7 +33429,7 @@
      "new",
      4,
      0,
-     420.2,
+     420.4,
      [
       {
        "title": "China Added More Nuclear Power In A Decade Than The Rest Of The World Combined",
@@ -34452,7 +33453,7 @@
      "new",
      4,
      0,
-     210.1,
+     210.2,
      [
       {
        "title": "HD Hyundai Heavy Industries Wins 956 Billion-Won Power Generation Deal for U.S. Data Centers",
@@ -35187,7 +34188,7 @@
      "new",
      6,
      0,
-     192.6,
+     192.7,
      [
       {
        "title": "\u2f00Drone strikes\u2f01 put Libya's Zawiya oil hub at risk",
@@ -35864,7 +34865,7 @@
      "new",
      4,
      0,
-     41.6,
+     41.7,
      [
       {
        "title": "Dixon Tech, Vivo JV transaction to be completed in 2 months, revenue flow from Oct-Dec qtr: CEO",
@@ -36436,7 +35437,7 @@
      "new",
      4,
      0,
-     560.2,
+     560.5,
      [
       {
        "title": "Haechitech enters eSSD sensors as it prepares Kosdaq listing",
@@ -37571,7 +36572,7 @@
      "new",
      4,
      0,
-     336.1,
+     336.3,
      [
       {
        "title": "Toyota to join Volvo, Daimler heavy-duty fuel-cell joint venture",
@@ -37595,7 +36596,7 @@
      "new",
      4,
      0,
-     186.7,
+     186.8,
      [
       {
        "title": "Philippines unveils 60bn pesos EV manufacturing incentive scheme",
@@ -38775,7 +37776,7 @@
      "new",
      4,
      0,
-     513.6,
+     513.8,
      [
       {
        "title": "Michelin to stay the course on India investments despite global cost pressures",
@@ -41476,7 +40477,7 @@
      "new",
      4,
      0,
-     924.4,
+     924.8,
      [
       {
        "title": "Michelin to stay the course on India investments despite global cost pressures",
@@ -43771,7 +42772,7 @@
      "new",
      6,
      0,
-     577.8,
+     578.0,
      [
       {
        "title": "Drone Attack Hits Power Plant at Key Libyan Oil Hub",
@@ -43795,7 +42796,7 @@
      "new",
      4,
      0,
-     385.2,
+     385.3,
      [
       {
        "title": "Drone Attack Hits Power Plant at Key Libyan Oil Hub",
@@ -44383,7 +43384,7 @@
      "new",
      4,
      0,
-     336.1,
+     336.3,
      [
       {
        "title": "Europe's Next \u2f00Energy Crisis\u2f01 Won't Be a War, It'll Be Peak Oil",
@@ -44933,7 +43934,7 @@
      "new",
      4,
      0,
-     60.0,
+     60.1,
      [
       {
        "title": "EV manufacturer Ola Electric brings cell-to-pack vertical integration into India's utility-scale BESS market with 20GWh MoU",
@@ -46126,7 +45127,7 @@
      "new",
      6,
      0,
-     616.3,
+     616.5,
      [
       {
        "title": "Middle East War Pushes China Toward the Arctic Trade Route",
@@ -46157,7 +45158,7 @@
      "new",
      4,
      0,
-     513.6,
+     513.8,
      [
       {
        "title": "Death toll rises to six after Houthi attack on Tihamah in Bab el-Mandeb",
@@ -46181,7 +45182,7 @@
      "new",
      10,
      0,
-     183.4,
+     183.5,
      [
       {
        "title": "Middle East War Pushes China Toward the Arctic Trade Route",
@@ -46712,7 +45713,7 @@
      "new",
      4,
      0,
-     513.6,
+     513.8,
      [
       {
        "title": "Drone strikes put Libya's Zawiya oil hub at risk",
@@ -46736,7 +45737,7 @@
      "new",
      6,
      0,
-     280.1,
+     280.2,
      [
       {
        "title": "Kazakhstan Weighs New Routes as Drone Strikes Squeeze \u2f00Black Sea\u2f01 Oil Exports",
@@ -46767,7 +45768,7 @@
      "new",
      4,
      0,
-     256.8,
+     256.9,
      [
       {
        "title": "Drone strikes put Libya's Zawiya oil hub at risk",
@@ -46791,7 +45792,7 @@
      "new",
      6,
      0,
-     192.6,
+     192.7,
      [
       {
        "title": "Drone strikes put Libya's Zawiya oil hub at risk",
@@ -47370,7 +46371,7 @@
      "new",
      4,
      0,
-     410.8,
+     411.0,
      [
       {
        "title": "EU Locks In Plan To Triple Energy Storage Capacity By 2030",
@@ -47905,7 +46906,7 @@
      "new",
      4,
      0,
-     513.6,
+     513.8,
      [
       {
        "title": "OCP APAC 2026: Murata upgrades power, optical products as AI data centers strain global infrastructure",
@@ -52131,43 +51132,12 @@
    },
    "cooc": [
     [
-     "defense production act",
-     1.0,
-     "new",
-     10,
-     0,
-     171.2,
-     [
-      {
-       "title": "DPAS Directive Allocation Order and Additional Requirements for Recoverable Critical Minerals and Materials",
-       "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16078/dpas-directive-allocation-order-and-additional-requirements-for-recoverable-critical-minerals-and",
-       "publisher": "Federal Register",
-       "sector": "Policy",
-       "quote": "\u2026aken pursuant to section 101 of the \u2f00Defense Production Act\u2f01 of 1950, as amended (\"DPA\" or the \"Act\"), the Defense Priorities and Allocations System (15 CFR part 700) and\u2026"
-      },
-      {
-       "title": "U.S. Moves to Keep Tungsten Scrap and Battery Metals at Home",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Moves-to-Keep-Tungsten-Scrap-and-Battery-Metals-at-Home.html",
-       "publisher": "OilPrice",
-       "sector": "Energy",
-       "quote": "\u2026tion pursuant to Section 101 of the \u2f00Defense Production Act\u2f01 (DPA) from last week. The determination says that recoverable critical minerals and materials (CMMs) are scar\u2026"
-      },
-      {
-       "title": "Trump signs memorandum on recoverable critical minerals and materials",
-       "url": "https://www.recyclingtoday.com/trump-signs-memo-on-recoverable-critical-minerals-and-materials",
-       "publisher": "Recycling Today",
-       "sector": "Materials",
-       "quote": "\u2026te action under section 101\u201d of the \u2f00Defense Production Act\u2f01 of 1950 related to recoverable critical minerals and materials."
-      }
-     ]
-    ],
-    [
      "minerals supply chain",
      0.8,
      "new",
      8,
      0,
-     171.2,
+     171.3,
      [
       {
        "title": "US announces US$2bn investment in critical \u2f00minerals supply chains\u2f01",
@@ -52189,6 +51159,37 @@
        "publisher": "Mining.com",
        "sector": "Materials",
        "quote": "\u2026engthen Britain's domestic critical \u2f00minerals supply chain\u2f01."
+      }
+     ]
+    ],
+    [
+     "defense production act",
+     1.0,
+     "new",
+     10,
+     0,
+     171.3,
+     [
+      {
+       "title": "DPAS Directive Allocation Order and Additional Requirements for Recoverable Critical Minerals and Materials",
+       "url": "https://www.federalregister.gov/documents/2026/08/06/2026-16078/dpas-directive-allocation-order-and-additional-requirements-for-recoverable-critical-minerals-and",
+       "publisher": "Federal Register",
+       "sector": "Policy",
+       "quote": "\u2026aken pursuant to section 101 of the \u2f00Defense Production Act\u2f01 of 1950, as amended (\"DPA\" or the \"Act\"), the Defense Priorities and Allocations System (15 CFR part 700) and\u2026"
+      },
+      {
+       "title": "U.S. Moves to Keep Tungsten Scrap and Battery Metals at Home",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Moves-to-Keep-Tungsten-Scrap-and-Battery-Metals-at-Home.html",
+       "publisher": "OilPrice",
+       "sector": "Energy",
+       "quote": "\u2026tion pursuant to Section 101 of the \u2f00Defense Production Act\u2f01 (DPA) from last week. The determination says that recoverable critical minerals and materials (CMMs) are scar\u2026"
+      },
+      {
+       "title": "Trump signs memorandum on recoverable critical minerals and materials",
+       "url": "https://www.recyclingtoday.com/trump-signs-memo-on-recoverable-critical-minerals-and-materials",
+       "publisher": "Recycling Today",
+       "sector": "Materials",
+       "quote": "\u2026te action under section 101\u201d of the \u2f00Defense Production Act\u2f01 of 1950 related to recoverable critical minerals and materials."
       }
      ]
     ],
@@ -52838,7 +51839,7 @@
      "new",
      4,
      0,
-     118.5,
+     118.6,
      [
       {
        "title": "Hormuz Crisis Is Rewriting the Global LPG Trade",
@@ -53581,7 +52582,7 @@
      "new",
      6,
      0,
-     264.1,
+     264.2,
      [
       {
        "title": "Brent Tops $89 Amid U.S.-Iran Stalemate Over Hormuz",
@@ -53612,7 +52613,7 @@
      "new",
      6,
      0,
-     198.1,
+     198.2,
      [
       {
        "title": "ONGC Profit More Than Doubles as Oil Prices Surge",
@@ -53698,7 +52699,7 @@
      "new",
      4,
      0,
-     105.6,
+     105.7,
      [
       {
        "title": "Middle East War Triggers New Global Refining Boom",
@@ -54344,7 +53345,7 @@
      "new",
      4,
      0,
-     60.0,
+     60.1,
      [
       {
        "title": "EV manufacturer Ola Electric brings cell-to-pack vertical integration into India's utility-scale BESS market with 20GWh MoU",
@@ -54879,7 +53880,7 @@
      "new",
      4,
      0,
-     220.1,
+     220.2,
      [
       {
        "title": "Coast Guard coordinates rescue after fire aboard Min Jiang Kou",
@@ -55425,7 +54426,7 @@
      "new",
      4,
      0,
-     420.2,
+     420.4,
      [
       {
        "title": "Black Sea drone strikes send CPC tanker rates to $400,000 a day",
@@ -55449,7 +54450,7 @@
      "new",
      6,
      0,
-     280.1,
+     280.2,
      [
       {
        "title": "Kazakhstan Weighs New Routes as \u2f00Drone Strikes\u2f01 Squeeze Black Sea Oil Exports",
@@ -55480,7 +54481,7 @@
      "new",
      4,
      0,
-     186.7,
+     186.8,
      [
       {
        "title": "Kazakhstan Weighs New Routes as Drone Strikes Squeeze Black Sea \u2f00Oil Exports\u2f01",
