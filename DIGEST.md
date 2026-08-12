@@ -1,6 +1,6 @@
 # Crosstalk — week ending 12 August 2026
 
-*8,653 articles over 107 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*8,661 articles over 107 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
@@ -13,8 +13,8 @@
   - [IC distributors post strong July sales on AI, cloud, and infrastructure demand](https://www.digitimes.com/news/a20260811PD232/wt-revenue-demand-taiwan-ic.html) · DigiTimes Asia · technology
 
 **storage system** — now in 4 sectors. **Energy** picked it up 6d ago; it was first seen in policy coverage on 1 July 2026.
+  - [Case study: Preparing to power data-driven demand with solar and storage at the Appledale Energy Center](https://www.renewableenergyworld.com/solar/case-study-preparing-to-power-data-driven-demand-with-solar-and-storage-at-the-appledale-energy-center/) · Renewable Energy World · utilities
   - [Europe's largest battery comes online in Scotland](https://www.pv-magazine.com/2026/08/12/europes-largest-battery-comes-online-in-scotland/) · PV Magazine · energy
-  - [Cornwall to house renewable energy project](https://www.energylivenews.com/2026/08/12/cornwall-to-house-renewable-energy-project/) · Energy Live News · utilities
 
 **offshore wind** — now in 3 sectors. **Supply chain** picked it up 5d ago; it was first seen in energy coverage on 17 June 2026.
   - [ABB to power Allseas heavy transport vessel for ⼀offshore wind⼁ operations](https://container-news.com/abb-to-power-allseas-heavy-transport-vessel-for-offshore-wind-operations/) · Container News · supply chain
@@ -29,8 +29,8 @@
 | data center | 7 | 273 | 10.5× |
 | supply chain | 7 | 106 | 6.6× |
 | red sea | 2 | 28 | 4.7× |
+| clean energy | 3 | 28 | 4.0× |
 | iran war | 3 | 16 | 4.0× |
-| clean energy | 3 | 27 | 3.9× |
 | black sea | 2 | 11 | 3.7× |
 | interest rate | 2 | 7 | 2.3× |
 | critical mineral | 3 | 54 | 2.2× |
