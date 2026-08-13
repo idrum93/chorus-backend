@@ -1,12 +1,12 @@
 # Crosstalk — week ending 13 August 2026
 
-*9,085 articles over 108 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*9,166 articles over 108 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
 **energy infrastructure** — now in 4 sectors. **Supply chain** picked it up 3d ago; it was first seen in energy coverage on 27 July 2026.
+  - [Solar Surpasses Wind In Global Electricity Generation For The First Time](https://oilprice.com/Alternative-Energy/Solar-Energy/Solar-Surpasses-Wind-In-Global-Electricity-Generation-For-The-First-Time.html) · OilPrice · energy
   - [Seetel tops NT$8.2B in first seven months amid US and Australia expansion](https://www.digitimes.com/news/a20260811PD230/revenue-2026-australia-north-america-shipments.html) · DigiTimes Asia · technology
-  - [Drone strikes put Libya's Zawiya oil hub at risk](https://splash247.com/drone-strikes-put-libyas-zawiya-oil-hub-at-risk/) · Splash247 · supply chain
 
 **storage system** — now in 4 sectors. **Energy** picked it up 7d ago; it was first seen in policy coverage on 1 July 2026.
   - [GM and LGES ramp up cell production in Ohio again](https://www.electrive.com/2026/08/13/gm-and-lges-ramp-up-cell-production-in-ohio-again/) · Electrive · autos
@@ -21,8 +21,8 @@
   - [Taiwan's ⼀offshore wind⼁ project secures $1.7bn financing](https://splash247.com/taiwans-offshore-wind-project-secures-1-7bn-financing/) · Splash247 · supply chain
 
 **power grid** — now in 3 sectors. **Technology** picked it up 7d ago; it was first seen in utilities coverage on 18 May 2026.
+  - [Oil Shocks Could Accelerate EV Adoption, WoodMac Says](https://oilprice.com/Latest-Energy-News/World-News/Oil-Shocks-Could-Accelerate-EV-Adoption-WoodMac-Says.html) · OilPrice · energy
   - [Hungary puts EV charging on a power diet](https://www.electrive.com/2026/08/13/hungary-puts-ev-charging-on-a-power-diet/) · Electrive · autos
-  - [South Korea plans new sovereign wealth fund to back AI, robots, supply chains](https://www.digitimes.com/news/a20260812PD228/investment-government-industrial-2027-robotics.html) · DigiTimes Asia · technology
 
 ## Being used more than a fortnight ago
 
@@ -30,14 +30,14 @@
 |---|---|---|---|
 | energy storage | 3 | 57 | 19.0× |
 | artificial intelligence | 8 | 127 | 14.1× |
-| middle east | 3 | 48 | 12.0× |
-| data center | 7 | 296 | 9.9× |
+| middle east | 3 | 49 | 12.2× |
+| data center | 7 | 300 | 10.0× |
 | joint venture | 5 | 38 | 9.5× |
 | oil price | 2 | 38 | 9.5× |
 | power generation | 3 | 22 | 7.3× |
 | battery storage | 2 | 32 | 6.4× |
 | red sea | 2 | 30 | 6.0× |
-| real estate | 2 | 76 | 5.8× |
+| real estate | 2 | 77 | 5.9× |
 
 ---
 
