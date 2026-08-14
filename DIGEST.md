@@ -1,6 +1,6 @@
 # Crosstalk — week ending 14 August 2026
 
-*9,593 articles over 109 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*9,628 articles over 109 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
@@ -20,16 +20,16 @@
 
 | phrase | sectors | articles | vs prior fortnight |
 |---|---|---|---|
-| natural gas | 3 | 55 | 13.8× |
+| natural gas | 3 | 56 | 14.0× |
 | middle east | 3 | 52 | 13.0× |
-| artificial intelligence | 8 | 141 | 12.8× |
+| artificial intelligence | 8 | 142 | 12.9× |
 | energy storage | 3 | 58 | 9.7× |
 | red sea | 2 | 32 | 8.0× |
 | power generation | 3 | 22 | 7.3× |
-| joint venture | 5 | 39 | 6.5× |
+| joint venture | 5 | 41 | 6.8× |
 | oil price | 3 | 38 | 6.3× |
-| data center | 7 | 306 | 6.2× |
-| energy infrastructure | 4 | 17 | 5.7× |
+| data center | 7 | 309 | 6.3× |
+| private equity | 3 | 17 | 5.7× |
 
 ---
 
