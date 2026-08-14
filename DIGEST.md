@@ -1,43 +1,35 @@
-# Crosstalk — week ending 13 August 2026
+# Crosstalk — week ending 14 August 2026
 
-*9,166 articles over 108 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*9,303 articles over 109 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
-**energy infrastructure** — now in 4 sectors. **Supply chain** picked it up 3d ago; it was first seen in energy coverage on 27 July 2026.
+**energy infrastructure** — now in 4 sectors. **Supply chain** picked it up 4d ago; it was first seen in energy coverage on 27 July 2026.
   - [Solar Surpasses Wind In Global Electricity Generation For The First Time](https://oilprice.com/Alternative-Energy/Solar-Energy/Solar-Surpasses-Wind-In-Global-Electricity-Generation-For-The-First-Time.html) · OilPrice · energy
   - [Seetel tops NT$8.2B in first seven months amid US and Australia expansion](https://www.digitimes.com/news/a20260811PD230/revenue-2026-australia-north-america-shipments.html) · DigiTimes Asia · technology
 
-**storage system** — now in 4 sectors. **Energy** picked it up 7d ago; it was first seen in policy coverage on 1 July 2026.
-  - [GM and LGES ramp up cell production in Ohio again](https://www.electrive.com/2026/08/13/gm-and-lges-ramp-up-cell-production-in-ohio-again/) · Electrive · autos
-  - [QBE survey finds DC cabling and plug connections are most common causes of PV fires](https://www.pv-magazine.com/2026/08/13/qbe-survey-finds-dc-cabling-and-plug-connections-are-most-common-causes-of-pv-fires/) · PV Magazine · energy
-
-**raw material** — now in 3 sectors. **Technology** picked it up 3d ago; it was first seen in consumer coverage on 10 July 2026.
+**raw material** — now in 3 sectors. **Technology** picked it up 4d ago; it was first seen in consumer coverage on 10 July 2026.
+  - [Asia Tech Image eyes 3Q26 growth as ⼀raw material⼁ costs hit 1H margins](https://www.digitimes.com/news/a20260812PD218/asia-tech-image-sensor-revenue-growth.html) · DigiTimes Asia · technology
   - [JSW Dulux to sustain double-digit volume growth in FY27; festive demand to remain strong: CEO](https://retail.economictimes.indiatimes.com/news/home-and-decor/paints/jsw-dulux-to-sustain-double-digit-volume-growth-in-fy27-festive-demand-to-remain-strong-ceo/133196240) · ET Retail · consumer
-  - [Savannah Resources signs agreements with local communities for Barroso lithium project](https://www.mining.com/savannah-resources-signs-agreements-with-local-communities-for-barroso-lithium-project/) · Mining.com · materials
 
-**offshore wind** — now in 3 sectors. **Supply chain** picked it up 6d ago; it was first seen in energy coverage on 17 June 2026.
+**offshore wind** — now in 3 sectors. **Supply chain** picked it up 7d ago; it was first seen in energy coverage on 17 June 2026.
   - [ABB to power Allseas heavy transport vessel for ⼀offshore wind⼁ operations](https://container-news.com/abb-to-power-allseas-heavy-transport-vessel-for-offshore-wind-operations/) · Container News · supply chain
   - [Taiwan's ⼀offshore wind⼁ project secures $1.7bn financing](https://splash247.com/taiwans-offshore-wind-project-secures-1-7bn-financing/) · Splash247 · supply chain
-
-**power grid** — now in 3 sectors. **Technology** picked it up 7d ago; it was first seen in utilities coverage on 18 May 2026.
-  - [Oil Shocks Could Accelerate EV Adoption, WoodMac Says](https://oilprice.com/Latest-Energy-News/World-News/Oil-Shocks-Could-Accelerate-EV-Adoption-WoodMac-Says.html) · OilPrice · energy
-  - [Hungary puts EV charging on a power diet](https://www.electrive.com/2026/08/13/hungary-puts-ev-charging-on-a-power-diet/) · Electrive · autos
 
 ## Being used more than a fortnight ago
 
 | phrase | sectors | articles | vs prior fortnight |
 |---|---|---|---|
-| energy storage | 3 | 57 | 19.0× |
-| artificial intelligence | 8 | 127 | 14.1× |
+| natural gas | 3 | 55 | 13.8× |
 | middle east | 3 | 49 | 12.2× |
-| data center | 7 | 300 | 10.0× |
-| joint venture | 5 | 38 | 9.5× |
-| oil price | 2 | 38 | 9.5× |
+| artificial intelligence | 8 | 128 | 11.6× |
+| energy storage | 3 | 54 | 9.0× |
+| red sea | 2 | 30 | 7.5× |
 | power generation | 3 | 22 | 7.3× |
-| battery storage | 2 | 32 | 6.4× |
-| red sea | 2 | 30 | 6.0× |
-| real estate | 2 | 77 | 5.9× |
+| joint venture | 5 | 37 | 6.2× |
+| oil price | 2 | 37 | 6.2× |
+| data center | 7 | 284 | 5.8× |
+| energy infrastructure | 4 | 17 | 5.7× |
 
 ---
 
