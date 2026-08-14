@@ -1,6 +1,6 @@
 # Crosstalk — week ending 14 August 2026
 
-*9,403 articles over 109 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*9,593 articles over 109 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
@@ -13,22 +13,22 @@
   - [JSW Dulux to sustain double-digit volume growth in FY27; festive demand to remain strong: CEO](https://retail.economictimes.indiatimes.com/news/home-and-decor/paints/jsw-dulux-to-sustain-double-digit-volume-growth-in-fy27-festive-demand-to-remain-strong-ceo/133196240) · ET Retail · consumer
 
 **offshore wind** — now in 3 sectors. **Supply chain** picked it up 7d ago; it was first seen in energy coverage on 17 June 2026.
+  - [Scottish port to create 180 jobs](https://www.energylivenews.com/2026/08/14/scottish-port-to-create-180-jobs/) · Energy Live News · utilities
   - [ABB to power Allseas heavy transport vessel for ⼀offshore wind⼁ operations](https://container-news.com/abb-to-power-allseas-heavy-transport-vessel-for-offshore-wind-operations/) · Container News · supply chain
-  - [Taiwan's ⼀offshore wind⼁ project secures $1.7bn financing](https://splash247.com/taiwans-offshore-wind-project-secures-1-7bn-financing/) · Splash247 · supply chain
 
 ## Being used more than a fortnight ago
 
 | phrase | sectors | articles | vs prior fortnight |
 |---|---|---|---|
 | natural gas | 3 | 55 | 13.8× |
-| middle east | 3 | 50 | 12.5× |
-| artificial intelligence | 8 | 136 | 12.4× |
-| energy storage | 3 | 56 | 9.3× |
-| red sea | 2 | 31 | 7.8× |
+| middle east | 3 | 52 | 13.0× |
+| artificial intelligence | 8 | 141 | 12.8× |
+| energy storage | 3 | 58 | 9.7× |
+| red sea | 2 | 32 | 8.0× |
 | power generation | 3 | 22 | 7.3× |
-| joint venture | 5 | 38 | 6.3× |
-| oil price | 2 | 37 | 6.2× |
-| data center | 7 | 293 | 6.0× |
+| joint venture | 5 | 39 | 6.5× |
+| oil price | 3 | 38 | 6.3× |
+| data center | 7 | 306 | 6.2× |
 | energy infrastructure | 4 | 17 | 5.7× |
 
 ---
