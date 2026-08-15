@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-15T15:01:51.451200+00:00",
+ "generated": "2026-08-15T16:42:57.375658+00:00",
  "prices": {
   "Autos": [
    {
@@ -2755,7 +2755,7 @@
  "coverage": [
   [
    "US",
-   6680
+   6682
   ],
   [
    "GB",
@@ -2783,7 +2783,7 @@
   ],
   [
    "GR",
-   205
+   206
   ],
   [
    "JP",
@@ -4023,7 +4023,7 @@
      "home": "Technology",
      "shown": true,
      "sectors": 5,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [],
      "examples": [
       {
@@ -4058,7 +4058,7 @@
      "home": "Supply chain",
      "shown": true,
      "sectors": 9,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [
       "supply chain resilience"
      ],
@@ -4095,7 +4095,7 @@
      "home": "Energy",
      "shown": false,
      "sectors": 4,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [],
      "examples": [
       {
@@ -4130,7 +4130,7 @@
      "home": "Energy",
      "shown": false,
      "sectors": 2,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [],
      "examples": [
       {
@@ -4165,12 +4165,20 @@
      "home": "Technology",
      "shown": false,
      "sectors": 7,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [
       "data center power",
       "grid operator"
      ],
      "examples": [
+      {
+       "publisher": "Data Center Dynamics",
+       "title": "Sponsored: Power on the critical path: why the IPP is moving to the center of \u2f00data center\u2f01 development",
+       "url": "https://www.datacenterdynamics.com/en/opinions/power-on-the-critical-path-why-the-ipp-is-moving-to-the-center-of-data-center-development/",
+       "sector": "Technology",
+       "country": "US",
+       "quote": ""
+      },
       {
        "publisher": "Data Center Dynamics",
        "title": "Are orbital AI \u2f00data centers\u2f01 the next frontier for compute infrastructure?",
@@ -4186,14 +4194,6 @@
        "sector": "Energy",
        "country": "DE",
        "quote": "A \u2f00data center\u2f01 can be built in 18 to 24 months, but connecting it to the grid is another matter, writes Laura Hoffmann-Osten\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Asia Vital Components sees stronger AI server demand and faster liquid cooling adoption",
-       "url": "https://www.digitimes.com/news/a20260813PD220/avc-ai-server-liquid-cooling-demand-adoption.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026n a shift carrying implications for \u2f00data center\u2f01 operators and suppliers worldwide. The company sees higher shipments of ASIC chips and Nvidia's Vera Rubin pl\u2026"
       }
      ]
     },
@@ -4357,7 +4357,7 @@
      "home": "Technology",
      "shown": true,
      "sectors": 5,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [],
      "examples": [
       {
@@ -4392,7 +4392,7 @@
      "home": "Supply chain",
      "shown": true,
      "sectors": 9,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [
       "supply chain resilience"
      ],
@@ -4499,12 +4499,20 @@
      "home": "Technology",
      "shown": false,
      "sectors": 7,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [
       "data center power",
       "grid operator"
      ],
      "examples": [
+      {
+       "publisher": "Data Center Dynamics",
+       "title": "Sponsored: Power on the critical path: why the IPP is moving to the center of \u2f00data center\u2f01 development",
+       "url": "https://www.datacenterdynamics.com/en/opinions/power-on-the-critical-path-why-the-ipp-is-moving-to-the-center-of-data-center-development/",
+       "sector": "Technology",
+       "country": "US",
+       "quote": ""
+      },
       {
        "publisher": "Data Center Dynamics",
        "title": "Are orbital AI \u2f00data centers\u2f01 the next frontier for compute infrastructure?",
@@ -4520,14 +4528,6 @@
        "sector": "Energy",
        "country": "DE",
        "quote": "A \u2f00data center\u2f01 can be built in 18 to 24 months, but connecting it to the grid is another matter, writes Laura Hoffmann-Osten\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Asia Vital Components sees stronger AI server demand and faster liquid cooling adoption",
-       "url": "https://www.digitimes.com/news/a20260813PD220/avc-ai-server-liquid-cooling-demand-adoption.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026n a shift carrying implications for \u2f00data center\u2f01 operators and suppliers worldwide. The company sees higher shipments of ASIC chips and Nvidia's Vera Rubin pl\u2026"
       }
      ]
     },
@@ -4613,7 +4613,7 @@
      "home": "Supply chain",
      "shown": true,
      "sectors": 9,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [
       "supply chain resilience"
      ],
@@ -4650,7 +4650,7 @@
      "home": "Energy",
      "shown": true,
      "sectors": 3,
-     "direction": "rising",
+     "direction": "falling",
      "variants": [],
      "examples": [
       {
@@ -4685,7 +4685,7 @@
      "home": "Technology",
      "shown": true,
      "sectors": 5,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [],
      "examples": [
       {
@@ -4790,12 +4790,20 @@
      "home": "Technology",
      "shown": false,
      "sectors": 7,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [
       "data center power",
       "grid operator"
      ],
      "examples": [
+      {
+       "publisher": "Data Center Dynamics",
+       "title": "Sponsored: Power on the critical path: why the IPP is moving to the center of \u2f00data center\u2f01 development",
+       "url": "https://www.datacenterdynamics.com/en/opinions/power-on-the-critical-path-why-the-ipp-is-moving-to-the-center-of-data-center-development/",
+       "sector": "Technology",
+       "country": "US",
+       "quote": ""
+      },
       {
        "publisher": "Data Center Dynamics",
        "title": "Are orbital AI \u2f00data centers\u2f01 the next frontier for compute infrastructure?",
@@ -4811,14 +4819,6 @@
        "sector": "Energy",
        "country": "DE",
        "quote": "A \u2f00data center\u2f01 can be built in 18 to 24 months, but connecting it to the grid is another matter, writes Laura Hoffmann-Osten\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Asia Vital Components sees stronger AI server demand and faster liquid cooling adoption",
-       "url": "https://www.digitimes.com/news/a20260813PD220/avc-ai-server-liquid-cooling-demand-adoption.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026n a shift carrying implications for \u2f00data center\u2f01 operators and suppliers worldwide. The company sees higher shipments of ASIC chips and Nvidia's Vera Rubin pl\u2026"
       }
      ]
     }
@@ -4871,7 +4871,7 @@
      "home": "Supply chain",
      "shown": true,
      "sectors": 9,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [
       "supply chain resilience"
      ],
@@ -5020,12 +5020,20 @@
      "home": "Technology",
      "shown": false,
      "sectors": 7,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [
       "data center power",
       "grid operator"
      ],
      "examples": [
+      {
+       "publisher": "Data Center Dynamics",
+       "title": "Sponsored: Power on the critical path: why the IPP is moving to the center of \u2f00data center\u2f01 development",
+       "url": "https://www.datacenterdynamics.com/en/opinions/power-on-the-critical-path-why-the-ipp-is-moving-to-the-center-of-data-center-development/",
+       "sector": "Technology",
+       "country": "US",
+       "quote": ""
+      },
       {
        "publisher": "Data Center Dynamics",
        "title": "Are orbital AI \u2f00data centers\u2f01 the next frontier for compute infrastructure?",
@@ -5041,14 +5049,6 @@
        "sector": "Energy",
        "country": "DE",
        "quote": "A \u2f00data center\u2f01 can be built in 18 to 24 months, but connecting it to the grid is another matter, writes Laura Hoffmann-Osten\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Asia Vital Components sees stronger AI server demand and faster liquid cooling adoption",
-       "url": "https://www.digitimes.com/news/a20260813PD220/avc-ai-server-liquid-cooling-demand-adoption.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026n a shift carrying implications for \u2f00data center\u2f01 operators and suppliers worldwide. The company sees higher shipments of ASIC chips and Nvidia's Vera Rubin pl\u2026"
       }
      ]
     },
@@ -5209,7 +5209,7 @@
      "home": "Utilities",
      "shown": false,
      "sectors": 2,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [],
      "examples": [
       {
@@ -5244,7 +5244,7 @@
      "home": "Energy",
      "shown": true,
      "sectors": 2,
-     "direction": "rising",
+     "direction": "falling",
      "variants": [],
      "examples": [
       {
@@ -5317,7 +5317,7 @@
      "home": "Energy",
      "shown": false,
      "sectors": 2,
-     "direction": "rising",
+     "direction": "falling",
      "variants": [
       "iran conflict"
      ],
@@ -5396,7 +5396,7 @@
      "home": "Technology",
      "shown": true,
      "sectors": 5,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [],
      "examples": [
       {
@@ -5431,7 +5431,7 @@
      "home": "Supply chain",
      "shown": true,
      "sectors": 9,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [
       "supply chain resilience"
      ],
@@ -5540,7 +5540,7 @@
      "home": "Utilities",
      "shown": false,
      "sectors": 2,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [],
      "examples": [
       {
@@ -5575,7 +5575,7 @@
      "home": "Energy",
      "shown": false,
      "sectors": 2,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [],
      "examples": [
       {
@@ -5688,7 +5688,7 @@
      "home": "Supply chain",
      "shown": true,
      "sectors": 9,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [
       "supply chain resilience"
      ],
@@ -5725,7 +5725,7 @@
      "home": "Energy",
      "shown": false,
      "sectors": 4,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [],
      "examples": [
       {
@@ -5760,7 +5760,7 @@
      "home": "Utilities",
      "shown": false,
      "sectors": 2,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [],
      "examples": [
       {
@@ -5795,7 +5795,7 @@
      "home": "Energy",
      "shown": false,
      "sectors": 4,
-     "direction": "rising",
+     "direction": "falling",
      "variants": [],
      "examples": [
       {
@@ -5870,7 +5870,7 @@
      "home": "Energy",
      "shown": true,
      "sectors": 3,
-     "direction": "rising",
+     "direction": "falling",
      "variants": [],
      "examples": [
       {
@@ -5905,12 +5905,20 @@
      "home": "Technology",
      "shown": false,
      "sectors": 7,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [
       "data center power",
       "grid operator"
      ],
      "examples": [
+      {
+       "publisher": "Data Center Dynamics",
+       "title": "Sponsored: Power on the critical path: why the IPP is moving to the center of \u2f00data center\u2f01 development",
+       "url": "https://www.datacenterdynamics.com/en/opinions/power-on-the-critical-path-why-the-ipp-is-moving-to-the-center-of-data-center-development/",
+       "sector": "Technology",
+       "country": "US",
+       "quote": ""
+      },
       {
        "publisher": "Data Center Dynamics",
        "title": "Are orbital AI \u2f00data centers\u2f01 the next frontier for compute infrastructure?",
@@ -5926,14 +5934,6 @@
        "sector": "Energy",
        "country": "DE",
        "quote": "A \u2f00data center\u2f01 can be built in 18 to 24 months, but connecting it to the grid is another matter, writes Laura Hoffmann-Osten\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Asia Vital Components sees stronger AI server demand and faster liquid cooling adoption",
-       "url": "https://www.digitimes.com/news/a20260813PD220/avc-ai-server-liquid-cooling-demand-adoption.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026n a shift carrying implications for \u2f00data center\u2f01 operators and suppliers worldwide. The company sees higher shipments of ASIC chips and Nvidia's Vera Rubin pl\u2026"
       }
      ]
     },
@@ -5943,7 +5943,7 @@
      "home": "Utilities",
      "shown": false,
      "sectors": 2,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [],
      "examples": [
       {
@@ -6013,7 +6013,7 @@
      "home": "Energy",
      "shown": false,
      "sectors": 2,
-     "direction": "rising",
+     "direction": "falling",
      "variants": [],
      "examples": [
       {
@@ -6125,7 +6125,7 @@
      "home": "Energy",
      "shown": true,
      "sectors": 3,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [],
      "examples": [
       {
@@ -6198,7 +6198,7 @@
      "home": "Energy",
      "shown": false,
      "sectors": 2,
-     "direction": "rising",
+     "direction": "falling",
      "variants": [
       "iran conflict"
      ],
@@ -6311,7 +6311,7 @@
      "home": "Supply chain",
      "shown": true,
      "sectors": 9,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [
       "supply chain resilience"
      ],
@@ -6385,12 +6385,20 @@
      "home": "Technology",
      "shown": false,
      "sectors": 7,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [
       "data center power",
       "grid operator"
      ],
      "examples": [
+      {
+       "publisher": "Data Center Dynamics",
+       "title": "Sponsored: Power on the critical path: why the IPP is moving to the center of \u2f00data center\u2f01 development",
+       "url": "https://www.datacenterdynamics.com/en/opinions/power-on-the-critical-path-why-the-ipp-is-moving-to-the-center-of-data-center-development/",
+       "sector": "Technology",
+       "country": "US",
+       "quote": ""
+      },
       {
        "publisher": "Data Center Dynamics",
        "title": "Are orbital AI \u2f00data centers\u2f01 the next frontier for compute infrastructure?",
@@ -6406,14 +6414,6 @@
        "sector": "Energy",
        "country": "DE",
        "quote": "A \u2f00data center\u2f01 can be built in 18 to 24 months, but connecting it to the grid is another matter, writes Laura Hoffmann-Osten\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Asia Vital Components sees stronger AI server demand and faster liquid cooling adoption",
-       "url": "https://www.digitimes.com/news/a20260813PD220/avc-ai-server-liquid-cooling-demand-adoption.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026n a shift carrying implications for \u2f00data center\u2f01 operators and suppliers worldwide. The company sees higher shipments of ASIC chips and Nvidia's Vera Rubin pl\u2026"
       }
      ]
     },
@@ -6498,7 +6498,7 @@
      "home": "Supply chain",
      "shown": true,
      "sectors": 9,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [
       "supply chain resilience"
      ],
@@ -6535,12 +6535,20 @@
      "home": "Technology",
      "shown": false,
      "sectors": 7,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [
       "data center power",
       "grid operator"
      ],
      "examples": [
+      {
+       "publisher": "Data Center Dynamics",
+       "title": "Sponsored: Power on the critical path: why the IPP is moving to the center of \u2f00data center\u2f01 development",
+       "url": "https://www.datacenterdynamics.com/en/opinions/power-on-the-critical-path-why-the-ipp-is-moving-to-the-center-of-data-center-development/",
+       "sector": "Technology",
+       "country": "US",
+       "quote": ""
+      },
       {
        "publisher": "Data Center Dynamics",
        "title": "Are orbital AI \u2f00data centers\u2f01 the next frontier for compute infrastructure?",
@@ -6556,14 +6564,6 @@
        "sector": "Energy",
        "country": "DE",
        "quote": "A \u2f00data center\u2f01 can be built in 18 to 24 months, but connecting it to the grid is another matter, writes Laura Hoffmann-Osten\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Asia Vital Components sees stronger AI server demand and faster liquid cooling adoption",
-       "url": "https://www.digitimes.com/news/a20260813PD220/avc-ai-server-liquid-cooling-demand-adoption.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026n a shift carrying implications for \u2f00data center\u2f01 operators and suppliers worldwide. The company sees higher shipments of ASIC chips and Nvidia's Vera Rubin pl\u2026"
       }
      ]
     },
@@ -6608,7 +6608,7 @@
      "home": "Real estate",
      "shown": false,
      "sectors": 2,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [],
      "examples": [
       {
@@ -6683,7 +6683,7 @@
      "home": "Real estate",
      "shown": true,
      "sectors": 3,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [],
      "examples": [
       {
@@ -6867,7 +6867,7 @@
      "home": "Supply chain",
      "shown": true,
      "sectors": 9,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [
       "supply chain resilience"
      ],
@@ -6904,12 +6904,20 @@
      "home": "Technology",
      "shown": false,
      "sectors": 7,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [
       "data center power",
       "grid operator"
      ],
      "examples": [
+      {
+       "publisher": "Data Center Dynamics",
+       "title": "Sponsored: Power on the critical path: why the IPP is moving to the center of \u2f00data center\u2f01 development",
+       "url": "https://www.datacenterdynamics.com/en/opinions/power-on-the-critical-path-why-the-ipp-is-moving-to-the-center-of-data-center-development/",
+       "sector": "Technology",
+       "country": "US",
+       "quote": ""
+      },
       {
        "publisher": "Data Center Dynamics",
        "title": "Are orbital AI \u2f00data centers\u2f01 the next frontier for compute infrastructure?",
@@ -6925,14 +6933,6 @@
        "sector": "Energy",
        "country": "DE",
        "quote": "A \u2f00data center\u2f01 can be built in 18 to 24 months, but connecting it to the grid is another matter, writes Laura Hoffmann-Osten\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Asia Vital Components sees stronger AI server demand and faster liquid cooling adoption",
-       "url": "https://www.digitimes.com/news/a20260813PD220/avc-ai-server-liquid-cooling-demand-adoption.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026n a shift carrying implications for \u2f00data center\u2f01 operators and suppliers worldwide. The company sees higher shipments of ASIC chips and Nvidia's Vera Rubin pl\u2026"
       }
      ]
     },
@@ -6977,7 +6977,7 @@
      "home": "Technology",
      "shown": true,
      "sectors": 5,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [],
      "examples": [
       {
@@ -7088,7 +7088,7 @@
      "home": "Energy",
      "shown": true,
      "sectors": 3,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [],
      "examples": [
       {
@@ -7123,12 +7123,20 @@
      "home": "Technology",
      "shown": false,
      "sectors": 7,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [
       "data center power",
       "grid operator"
      ],
      "examples": [
+      {
+       "publisher": "Data Center Dynamics",
+       "title": "Sponsored: Power on the critical path: why the IPP is moving to the center of \u2f00data center\u2f01 development",
+       "url": "https://www.datacenterdynamics.com/en/opinions/power-on-the-critical-path-why-the-ipp-is-moving-to-the-center-of-data-center-development/",
+       "sector": "Technology",
+       "country": "US",
+       "quote": ""
+      },
       {
        "publisher": "Data Center Dynamics",
        "title": "Are orbital AI \u2f00data centers\u2f01 the next frontier for compute infrastructure?",
@@ -7144,14 +7152,6 @@
        "sector": "Energy",
        "country": "DE",
        "quote": "A \u2f00data center\u2f01 can be built in 18 to 24 months, but connecting it to the grid is another matter, writes Laura Hoffmann-Osten\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Asia Vital Components sees stronger AI server demand and faster liquid cooling adoption",
-       "url": "https://www.digitimes.com/news/a20260813PD220/avc-ai-server-liquid-cooling-demand-adoption.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026n a shift carrying implications for \u2f00data center\u2f01 operators and suppliers worldwide. The company sees higher shipments of ASIC chips and Nvidia's Vera Rubin pl\u2026"
       }
      ]
     },
@@ -7239,7 +7239,7 @@
      "home": "Supply chain",
      "shown": true,
      "sectors": 9,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [
       "supply chain resilience"
      ],
@@ -7276,7 +7276,7 @@
      "home": "Energy",
      "shown": true,
      "sectors": 3,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [],
      "examples": [
       {
@@ -7349,7 +7349,7 @@
      "home": "Energy",
      "shown": false,
      "sectors": 2,
-     "direction": "rising",
+     "direction": "falling",
      "variants": [
       "iran conflict"
      ],
@@ -7464,7 +7464,7 @@
      "home": "Technology",
      "shown": true,
      "sectors": 5,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [],
      "examples": [
       {
@@ -7499,7 +7499,7 @@
      "home": "Energy",
      "shown": true,
      "sectors": 3,
-     "direction": "rising",
+     "direction": "falling",
      "variants": [],
      "examples": [
       {
@@ -7534,7 +7534,7 @@
      "home": "Energy",
      "shown": true,
      "sectors": 3,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [],
      "examples": [
       {
@@ -7609,7 +7609,7 @@
      "home": "Supply chain",
      "shown": true,
      "sectors": 9,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [
       "supply chain resilience"
      ],
@@ -7646,7 +7646,7 @@
      "home": "Technology",
      "shown": true,
      "sectors": 5,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [],
      "examples": [
       {
@@ -7756,7 +7756,7 @@
      "home": "Supply chain",
      "shown": true,
      "sectors": 9,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [
       "supply chain resilience"
      ],
@@ -7793,12 +7793,20 @@
      "home": "Technology",
      "shown": false,
      "sectors": 7,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [
       "data center power",
       "grid operator"
      ],
      "examples": [
+      {
+       "publisher": "Data Center Dynamics",
+       "title": "Sponsored: Power on the critical path: why the IPP is moving to the center of \u2f00data center\u2f01 development",
+       "url": "https://www.datacenterdynamics.com/en/opinions/power-on-the-critical-path-why-the-ipp-is-moving-to-the-center-of-data-center-development/",
+       "sector": "Technology",
+       "country": "US",
+       "quote": ""
+      },
       {
        "publisher": "Data Center Dynamics",
        "title": "Are orbital AI \u2f00data centers\u2f01 the next frontier for compute infrastructure?",
@@ -7814,14 +7822,6 @@
        "sector": "Energy",
        "country": "DE",
        "quote": "A \u2f00data center\u2f01 can be built in 18 to 24 months, but connecting it to the grid is another matter, writes Laura Hoffmann-Osten\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Asia Vital Components sees stronger AI server demand and faster liquid cooling adoption",
-       "url": "https://www.digitimes.com/news/a20260813PD220/avc-ai-server-liquid-cooling-demand-adoption.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026n a shift carrying implications for \u2f00data center\u2f01 operators and suppliers worldwide. The company sees higher shipments of ASIC chips and Nvidia's Vera Rubin pl\u2026"
       }
      ]
     },
@@ -7906,7 +7906,7 @@
      "home": "Technology",
      "shown": true,
      "sectors": 5,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [],
      "examples": [
       {
@@ -8089,7 +8089,7 @@
      "home": "Supply chain",
      "shown": true,
      "sectors": 9,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [
       "supply chain resilience"
      ],
@@ -8126,12 +8126,20 @@
      "home": "Technology",
      "shown": false,
      "sectors": 7,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [
       "data center power",
       "grid operator"
      ],
      "examples": [
+      {
+       "publisher": "Data Center Dynamics",
+       "title": "Sponsored: Power on the critical path: why the IPP is moving to the center of \u2f00data center\u2f01 development",
+       "url": "https://www.datacenterdynamics.com/en/opinions/power-on-the-critical-path-why-the-ipp-is-moving-to-the-center-of-data-center-development/",
+       "sector": "Technology",
+       "country": "US",
+       "quote": ""
+      },
       {
        "publisher": "Data Center Dynamics",
        "title": "Are orbital AI \u2f00data centers\u2f01 the next frontier for compute infrastructure?",
@@ -8147,14 +8155,6 @@
        "sector": "Energy",
        "country": "DE",
        "quote": "A \u2f00data center\u2f01 can be built in 18 to 24 months, but connecting it to the grid is another matter, writes Laura Hoffmann-Osten\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Asia Vital Components sees stronger AI server demand and faster liquid cooling adoption",
-       "url": "https://www.digitimes.com/news/a20260813PD220/avc-ai-server-liquid-cooling-demand-adoption.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026n a shift carrying implications for \u2f00data center\u2f01 operators and suppliers worldwide. The company sees higher shipments of ASIC chips and Nvidia's Vera Rubin pl\u2026"
       }
      ]
     }
@@ -8241,7 +8241,7 @@
      "home": "Energy",
      "shown": true,
      "sectors": 3,
-     "direction": "rising",
+     "direction": "falling",
      "variants": [],
      "examples": [
       {
@@ -8276,7 +8276,7 @@
      "home": "Utilities",
      "shown": true,
      "sectors": 3,
-     "direction": "rising",
+     "direction": "falling",
      "variants": [],
      "examples": [
       {
@@ -8352,7 +8352,7 @@
      "home": "Technology",
      "shown": true,
      "sectors": 5,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [],
      "examples": [
       {
@@ -8387,7 +8387,7 @@
      "home": "Supply chain",
      "shown": true,
      "sectors": 9,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [
       "supply chain resilience"
      ],
@@ -8500,7 +8500,7 @@
      "home": "Supply chain",
      "shown": true,
      "sectors": 9,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [
       "supply chain resilience"
      ],
@@ -8687,7 +8687,7 @@
      "home": "Supply chain",
      "shown": true,
      "sectors": 9,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [
       "supply chain resilience"
      ],
@@ -8764,7 +8764,7 @@
      "home": "Technology",
      "shown": true,
      "sectors": 5,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [],
      "examples": [
       {
@@ -8839,7 +8839,7 @@
      "home": "Supply chain",
      "shown": true,
      "sectors": 9,
-     "direction": "rising",
+     "direction": "steady",
      "variants": [
       "supply chain resilience"
      ],
@@ -30659,8 +30659,8 @@
   ]
  },
  "daysCollected": 111,
- "articlesStored": 9699,
- "articlesLive": 5950,
+ "articlesStored": 9702,
+ "articlesLive": 5953,
  "windowDays": 90,
  "terms": [
   {
@@ -31172,7 +31172,7 @@
   {
    "id": "supply-chain",
    "term": "supply chain",
-   "direction": "rising",
+   "direction": "steady",
    "display": true,
    "adoptionSpan": 76,
    "pace": "gradual",
@@ -32106,7 +32106,7 @@
   {
    "id": "oil-tanker",
    "term": "oil tanker",
-   "direction": "rising",
+   "direction": "falling",
    "display": true,
    "adoptionSpan": 40,
    "pace": "gradual",
@@ -32213,7 +32213,7 @@
      "new",
      4,
      0,
-     174.0,
+     174.1,
      [
       {
        "title": "Somali Piracy Surges Amid Hormuz Blockade",
@@ -32237,7 +32237,7 @@
      "new",
      4,
      0,
-     103.3,
+     103.4,
      [
       {
        "title": "Houthis Claim Ballistic Missile Hit on Saudi Oil Tanker in \u2f00Red Sea\u2f01",
@@ -32872,7 +32872,7 @@
      "new",
      4,
      0,
-     177.1,
+     177.2,
      [
       {
        "title": "Shinsung E&G Launches New \u2f00Solar Module\u2f01 Production Line",
@@ -33296,7 +33296,7 @@
   {
    "id": "interest-rate",
    "term": "interest rate",
-   "direction": "rising",
+   "direction": "falling",
    "display": true,
    "adoptionSpan": 23,
    "pace": "mixed",
@@ -34833,30 +34833,6 @@
    },
    "cooc": [
     [
-     "unmanned system",
-     0.4,
-     "new",
-     4,
-     0,
-     35.2,
-     [
-      {
-       "title": "Why countering drones is the ultimate stress test for on-device AI",
-       "url": "https://www.digitimes.com/news/a20260806PD214/on-device-ai-elan-technology.html",
-       "publisher": "DigiTimes Asia",
-       "sector": "Technology",
-       "quote": "\u2026e itself, is becoming essential for \u2f00unmanned systems\u2f01. Few applications demand more sp"
-      },
-      {
-       "title": "Hanwha Systems Unveils AI-Powered Maritime Unmanned Warfare System",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=12772",
-       "publisher": "The Elec",
-       "sector": "Technology",
-       "quote": "\u2026icial intelligence-powered maritime \u2f00unmanned system\u2f01 and a manned-unmanned teaming combat architecture designed for future naval operations.The company said on Au\u2026"
-      }
-     ]
-    ],
-    [
      "office space",
      0.6,
      "new",
@@ -34884,6 +34860,30 @@
        "publisher": "Commercial Observer",
        "sector": "Real estate",
        "quote": "\u2026nywhere anytime soon, and they need \u2f00office space\u2f01. Generative AI music platform Suno has taken 12,048 square feet across the fifth floor of 515 West 20th Stree\u2026"
+      }
+     ]
+    ],
+    [
+     "unmanned system",
+     0.4,
+     "new",
+     4,
+     0,
+     35.2,
+     [
+      {
+       "title": "Why countering drones is the ultimate stress test for on-device AI",
+       "url": "https://www.digitimes.com/news/a20260806PD214/on-device-ai-elan-technology.html",
+       "publisher": "DigiTimes Asia",
+       "sector": "Technology",
+       "quote": "\u2026e itself, is becoming essential for \u2f00unmanned systems\u2f01. Few applications demand more sp"
+      },
+      {
+       "title": "Hanwha Systems Unveils AI-Powered Maritime Unmanned Warfare System",
+       "url": "https://www.thelec.net/news/articleView.html?idxno=12772",
+       "publisher": "The Elec",
+       "sector": "Technology",
+       "quote": "\u2026icial intelligence-powered maritime \u2f00unmanned system\u2f01 and a manned-unmanned teaming combat architecture designed for future naval operations.The company said on Au\u2026"
       }
      ]
     ],
@@ -34924,7 +34924,7 @@
      "rising",
      4,
      2,
-     23.4,
+     23.5,
      [
       {
        "title": "Naver backs Anthropic in broader AI push",
@@ -34979,7 +34979,7 @@
      "new",
      6,
      0,
-     10.5,
+     10.6,
      [
       {
        "title": "Grand Process's Challentech partners with Japan's Seiki for bonding tech",
@@ -35627,7 +35627,7 @@
      "new",
      4,
      0,
-     472.2,
+     472.5,
      [
       {
        "title": "China Added More Nuclear Power In A Decade Than The Rest Of The World Combined",
@@ -35651,7 +35651,7 @@
      "new",
      4,
      0,
-     236.1,
+     236.2,
      [
       {
        "title": "HD Hyundai Heavy Industries Wins 956 Billion-Won Power Generation Deal for U.S. Data Centers",
@@ -35668,7 +35668,7 @@
      "new",
      4,
      0,
-     188.9,
+     189.0,
      [
       {
        "title": "HD Hydrogen Completes SOFC Mass Production System",
@@ -35692,7 +35692,7 @@
      "new",
      4,
      0,
-     134.9,
+     135.0,
      [
       {
        "title": "A Pioneering Approach to Building New Generation Resources",
@@ -35709,7 +35709,7 @@
      "steady",
      2,
      2,
-     3.3,
+     3.4,
      [
       {
        "title": "Naver Invests in Panthalassa, Wave-Powered Floating AI Data Center Developer",
@@ -36164,7 +36164,7 @@
   {
    "id": "oil-price",
    "term": "oil price",
-   "direction": "rising",
+   "direction": "steady",
    "display": true,
    "adoptionSpan": 75,
    "pace": "gradual",
@@ -36387,7 +36387,7 @@
      "new",
      6,
      0,
-     247.9,
+     248.1,
      [
       {
        "title": "Brent Tops $89 Amid U.S.-Iran Stalemate Over Hormuz",
@@ -36418,7 +36418,7 @@
      "new",
      6,
      0,
-     185.9,
+     186.0,
      [
       {
        "title": "ONGC Profit More Than Doubles as Oil Prices Surge",
@@ -36504,7 +36504,7 @@
      "new",
      4,
      0,
-     70.8,
+     70.9,
      [
       {
        "title": "Middle East War Triggers New Global Refining Boom",
@@ -36959,7 +36959,7 @@
   {
    "id": "china-auto",
    "term": "china auto",
-   "direction": "rising",
+   "direction": "steady",
    "display": true,
    "adoptionSpan": 57,
    "pace": "gradual",
@@ -38148,7 +38148,7 @@
      "new",
      4,
      0,
-     305.1,
+     305.3,
      [
       {
        "title": "Global South Utilities completes 50 MW solar, 15 \u2f00MWh BESS\u2f01 project in Central African Republic",
@@ -38804,7 +38804,7 @@
      "new",
      4,
      0,
-     150.2,
+     150.3,
      [
       {
        "title": "Trump Is Spending Billions On The Minerals That Power EVs",
@@ -38828,7 +38828,7 @@
      "new",
      4,
      0,
-     120.2,
+     120.3,
      [
       {
        "title": "German EV subsidies lift Chinese automakers in a reshaped market",
@@ -39374,7 +39374,7 @@
      "new",
      4,
      0,
-     283.3,
+     283.5,
      [
       {
        "title": "Romania Shuts Down Last Nuclear Reactor As Danube Hits 90-Year Low",
@@ -40376,7 +40376,7 @@
   {
    "id": "power-grid",
    "term": "power grid",
-   "direction": "rising",
+   "direction": "falling",
    "display": true,
    "adoptionSpan": 80,
    "pace": "gradual",
@@ -40549,7 +40549,7 @@
      "new",
      4,
      0,
-     163.9,
+     164.0,
      [
       {
        "title": "When heat becomes a stress test: What extreme temperatures mean for photovoltaic systems and battery storage",
@@ -41246,7 +41246,7 @@
      "new",
      4,
      0,
-     157.4,
+     157.5,
      [
       {
        "title": "Australia: Battery storage systems hit record 4,325MW discharge as NEM cycling swing reaches 8.3GW",
@@ -41277,7 +41277,7 @@
      "new",
      8,
      0,
-     134.9,
+     135.0,
      [
       {
        "title": "BW ESS acquires 1,000MWh Yanco BESS from ACEnergy in Australia",
@@ -41308,7 +41308,7 @@
      "new",
      4,
      0,
-     94.4,
+     94.5,
      [
       {
        "title": "Hithium to supply 421\u2f00MWh BESS\u2f01 for GPG's Fraser Coast project in Australia",
@@ -41363,7 +41363,7 @@
      "new",
      4,
      0,
-     3.3,
+     3.4,
      [
       {
        "title": "Delta X Expands 'ESS Production Platform' Model to Japan and India to Ride the AI Data Center Boom",
@@ -42012,7 +42012,7 @@
      "new",
      4,
      0,
-     381.4,
+     381.6,
      [
       {
        "title": "Michelin to stay the course on India investments despite global cost pressures",
@@ -42439,7 +42439,7 @@
   {
    "id": "lng-carrier",
    "term": "lng carrier",
-   "direction": "rising",
+   "direction": "steady",
    "display": true,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -42550,7 +42550,7 @@
      "new",
      4,
      0,
-     129.6,
+     129.7,
      [
       {
        "title": "South Korean Fleet Reshuffle Creates Asia's Largest LNG Carrier Operator",
@@ -43244,7 +43244,7 @@
      "new",
      4,
      0,
-     48.8,
+     48.9,
      [
       {
        "title": "LGES, Lopal sign three-year LFP supply deal worth up to CNY27 billion",
@@ -43847,7 +43847,7 @@
      "new",
      6,
      0,
-     309.9,
+     310.1,
      [
       {
        "title": "Red Sea Attack Sinks India-Flagged Cargo Vessel Off Yemen",
@@ -43878,7 +43878,7 @@
      "new",
      8,
      0,
-     247.9,
+     248.0,
      [
       {
        "title": "Middle East War Pushes China Toward the Arctic Trade Route",
@@ -43909,7 +43909,7 @@
      "new",
      4,
      0,
-     206.6,
+     206.7,
      [
       {
        "title": "Insurers pull war-risk cover from swathe of Red Sea",
@@ -43933,7 +43933,7 @@
      "new",
      4,
      0,
-     154.9,
+     155.0,
      [
       {
        "title": "US disables boxship while Red Sea attack kills six",
@@ -43981,7 +43981,7 @@
      "new",
      4,
      0,
-     103.3,
+     103.4,
      [
       {
        "title": "Houthis Claim Ballistic Missile Hit on Saudi \u2f00Oil Tanker\u2f01 in Red Sea",
@@ -44408,7 +44408,7 @@
   {
    "id": "joint-venture",
    "term": "joint venture",
-   "direction": "rising",
+   "direction": "steady",
    "display": true,
    "adoptionSpan": 53,
    "pace": "gradual",
@@ -44713,7 +44713,7 @@
      "new",
      6,
      0,
-     90.7,
+     90.8,
      [
       {
        "title": "LG Chem reportedly wins cathode supply deal for Hyundai-LG Energy Solution's US battery venture",
@@ -45271,7 +45271,7 @@
   {
    "id": "private-equity",
    "term": "private equity",
-   "direction": "rising",
+   "direction": "steady",
    "display": true,
    "adoptionSpan": 19,
    "pace": "mixed",
@@ -45534,7 +45534,7 @@
      "new",
      4,
      0,
-     129.6,
+     129.7,
      [
       {
        "title": "SK Shipping takes aim at Asia LNG top spot in H-Line tanker swap",
@@ -45999,7 +45999,7 @@
   {
    "id": "west-asia-conflict",
    "term": "west asia conflict",
-   "direction": "steady",
+   "direction": "falling",
    "display": true,
    "adoptionSpan": 56,
    "pace": "gradual",
@@ -46156,7 +46156,7 @@
      "new",
      4,
      0,
-     1652.7,
+     1653.7,
      [
       {
        "title": "Michelin to stay the course on India investments despite global \u2f00cost pressures\u2f01",
@@ -47086,7 +47086,7 @@
   {
    "id": "cross-border",
    "term": "cross border",
-   "direction": "rising",
+   "direction": "steady",
    "display": true,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -47237,7 +47237,7 @@
      "new",
      4,
      0,
-     413.2,
+     413.4,
      [
       {
        "title": "RBI exploring new payment infrastructure, CBDCs to reduce cost, improve speed of cross border payments: Governor",
@@ -48136,7 +48136,7 @@
   {
    "id": "power-demand",
    "term": "power demand",
-   "direction": "rising",
+   "direction": "falling",
    "display": true,
    "adoptionSpan": 58,
    "pace": "gradual",
@@ -48291,7 +48291,7 @@
      "steady",
      2,
      2,
-     10.0,
+     10.1,
      [
       {
        "title": "Samsung weighs power subsidiary to secure semiconductor electricity by 2027",
@@ -48725,7 +48725,7 @@
   {
    "id": "humanoid-robot",
    "term": "humanoid robot",
-   "direction": "rising",
+   "direction": "steady",
    "display": false,
    "adoptionSpan": 46,
    "pace": "gradual",
@@ -49417,7 +49417,7 @@
      "rising",
      4,
      2,
-     661.1,
+     661.5,
      [
       {
        "title": "Black Sea grain trade buckles under maritime war",
@@ -49441,7 +49441,7 @@
      "new",
      4,
      0,
-     264.4,
+     264.6,
      [
       {
        "title": "Black Sea drone strikes send CPC tanker rates to $400,000 a day",
@@ -49465,7 +49465,7 @@
      "steady",
      2,
      2,
-     220.4,
+     220.5,
      [
       {
        "title": "Ukrainian Attack Halts Operations at Key Russian Black Sea Grain Terminals",
@@ -49482,7 +49482,7 @@
      "new",
      6,
      0,
-     220.4,
+     220.5,
      [
       {
        "title": "Kazakhstan Weighs New Routes as \u2f00Drone Strikes\u2f01 Squeeze Black Sea Oil Exports",
@@ -49513,7 +49513,7 @@
      "new",
      4,
      0,
-     132.2,
+     132.3,
      [
       {
        "title": "Kazakhstan Weighs New Routes as Drone Strikes Squeeze Black Sea \u2f00Oil Exports\u2f01",
@@ -49937,7 +49937,7 @@
   {
    "id": "battery-storage",
    "term": "battery storage",
-   "direction": "rising",
+   "direction": "steady",
    "display": false,
    "adoptionSpan": 19,
    "pace": "mixed",
@@ -50138,7 +50138,7 @@
      "steady",
      2,
      2,
-     150.2,
+     150.3,
      [
       {
        "title": "GM and LGES ramp up \u2f00cell production\u2f01 in Ohio again",
@@ -50155,7 +50155,7 @@
      "new",
      4,
      0,
-     150.2,
+     150.3,
      [
       {
        "title": "AMPYR Australia bags 5.3.4 letter for 270MW grid-forming battery storage system",
@@ -50179,7 +50179,7 @@
      "new",
      4,
      0,
-     46.2,
+     46.3,
      [
       {
        "title": "EV manufacturer Ola Electric brings cell-to-pack vertical integration into India's utility-scale BESS market with 20GWh MoU",
@@ -50210,7 +50210,7 @@
      "steady",
      2,
      2,
-     30.0,
+     30.1,
      [
       {
        "title": "GM and LGES ramp up cell production in Ohio again",
@@ -50812,7 +50812,7 @@
      "new",
      6,
      0,
-     82.6,
+     82.7,
      [
       {
        "title": "\u2f00Hormuz Crisis\u2f01 Pushes Asian Refiners Toward U.S. Oil",
@@ -50843,7 +50843,7 @@
      "new",
      6,
      0,
-     70.8,
+     70.9,
      [
       {
        "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
@@ -51326,7 +51326,7 @@
   {
    "id": "coast-guard",
    "term": "coast guard",
-   "direction": "rising",
+   "direction": "falling",
    "display": false,
    "adoptionSpan": 29,
    "pace": "gradual",
@@ -51433,7 +51433,7 @@
      "new",
      4,
      0,
-     158.7,
+     158.8,
      [
       {
        "title": "Coast Guard coordinates rescue after fire aboard Min Jiang Kou",
@@ -51857,7 +51857,7 @@
   {
    "id": "real-estate",
    "term": "real estate",
-   "direction": "rising",
+   "direction": "steady",
    "display": false,
    "adoptionSpan": 74,
    "pace": "gradual",
@@ -52107,7 +52107,7 @@
      "new",
      4,
      0,
-     59.7,
+     59.8,
      [
       {
        "title": "Commercial real estate benefiting from \u2018deep structural demand,' Cushman & Wakefield CEO says",
@@ -52155,7 +52155,7 @@
      "new",
      4,
      0,
-     19.9,
+     18.4,
      [
       {
        "title": "Malaysian real estate firm DPS Resources eyes \u2f00data center developments\u2f01 in Melaka",
@@ -52627,7 +52627,7 @@
   {
    "id": "critical-mineral",
    "term": "critical mineral",
-   "direction": "steady",
+   "direction": "falling",
    "display": false,
    "adoptionSpan": 76,
    "pace": "gradual",
@@ -52800,7 +52800,7 @@
      "rising",
      8,
      4,
-     268.0,
+     268.2,
      [
       {
        "title": "Modern Mining eyes US expansion as e-waste emerges as domestic metals resource",
@@ -52831,7 +52831,7 @@
      "new",
      10,
      0,
-     268.0,
+     268.2,
      [
       {
        "title": "Global mining leaders turn focus to Australia's resources future",
@@ -52862,7 +52862,7 @@
      "new",
      4,
      0,
-     134.0,
+     134.1,
      [
       {
        "title": "U.S. Moves to Keep Tungsten Scrap and Battery Metals at Home",
@@ -52879,7 +52879,7 @@
      "new",
      4,
      0,
-     107.2,
+     107.3,
      [
       {
        "title": "DPAS Directive Allocation Order and Additional Requirements for Recoverable Critical Minerals and Materials",
@@ -53351,7 +53351,7 @@
   {
    "id": "nuclear-energy",
    "term": "nuclear energy",
-   "direction": "steady",
+   "direction": "falling",
    "display": false,
    "adoptionSpan": 72,
    "pace": "gradual",
@@ -53490,7 +53490,7 @@
      "new",
      4,
      0,
-     200.3,
+     200.4,
      [
       {
        "title": "Greek ministers to examine nuclear energy options",
@@ -53907,7 +53907,7 @@
   {
    "id": "data-center",
    "term": "data center",
-   "direction": "rising",
+   "direction": "steady",
    "display": false,
    "adoptionSpan": 74,
    "pace": "gradual",
@@ -53916,7 +53916,7 @@
    "effectiveSectors": 3.06,
    "newestSector": "Supply chain",
    "daysSinceNewestSector": 15,
-   "articles14d": 311,
+   "articles14d": 312,
    "articlesPrior14d": 49,
    "publishers": 23,
    "sectors": [
@@ -53925,15 +53925,15 @@
      "firstSeen": "2026-05-18",
      "recent": 31,
      "articles": 56,
-     "share": 0.101,
+     "share": 0.1,
      "adopt": 0
     },
     {
      "name": "Technology",
      "firstSeen": "2026-05-18",
-     "recent": 232,
-     "articles": 284,
-     "share": 0.753,
+     "recent": 233,
+     "articles": 285,
+     "share": 0.754,
      "adopt": 0
     },
     {
@@ -53941,7 +53941,7 @@
      "firstSeen": "2026-05-19",
      "recent": 19,
      "articles": 23,
-     "share": 0.062,
+     "share": 0.061,
      "adopt": 1
     },
     {
@@ -53981,7 +53981,7 @@
    "origins": [
     [
      "US",
-     322
+     323
     ],
     [
      "TW",
@@ -54036,7 +54036,7 @@
        0,
        17,
        108,
-       123
+       124
       ]
      },
      {
@@ -54241,36 +54241,12 @@
    },
    "cooc": [
     [
-     "power distribution",
-     0.09,
-     "rising",
-     4,
-     2,
-     31.9,
-     [
-      {
-       "title": "LS Electric, GS E&C Partner on DC \u2f00Power Distribution\u2f01 for AI Data Centers",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=12933",
-       "publisher": "The Elec",
-       "sector": "Technology",
-       "quote": "\u2026collaborate on direct current (DC) \u2f00power distribution\u2f01 technology and power equipment supply for artificial intelligence (AI) data centers.LS Electric said on Aug.\u2026"
-      },
-      {
-       "title": "Bridge DC launches prefabricated data center power module",
-       "url": "https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/",
-       "publisher": "Data Center Dynamics",
-       "sector": "Technology",
-       "quote": "Container contains transformers, \u2f00power distribution\u2f01, UPS, and cooling infrastructure"
-      }
-     ]
-    ],
-    [
      "load pipeline",
      0.13,
      "rising",
      6,
      2,
-     31.9,
+     31.8,
      [
       {
        "title": "US utility Southern Co reports 55% higher data center power usage compared to last year",
@@ -54292,6 +54268,30 @@
        "publisher": "Utility Dive",
        "sector": "Utilities",
        "quote": ""
+      }
+     ]
+    ],
+    [
+     "power distribution",
+     0.09,
+     "rising",
+     4,
+     2,
+     31.8,
+     [
+      {
+       "title": "LS Electric, GS E&C Partner on DC \u2f00Power Distribution\u2f01 for AI Data Centers",
+       "url": "https://www.thelec.net/news/articleView.html?idxno=12933",
+       "publisher": "The Elec",
+       "sector": "Technology",
+       "quote": "\u2026collaborate on direct current (DC) \u2f00power distribution\u2f01 technology and power equipment supply for artificial intelligence (AI) data centers.LS Electric said on Aug.\u2026"
+      },
+      {
+       "title": "Bridge DC launches prefabricated data center power module",
+       "url": "https://www.datacenterdynamics.com/en/news/bridge-dc-launches-prefabricated-data-center-power-module/",
+       "publisher": "Data Center Dynamics",
+       "sector": "Technology",
+       "quote": "Container contains transformers, \u2f00power distribution\u2f01, UPS, and cooling infrastructure"
       }
      ]
     ],
@@ -54332,7 +54332,7 @@
      "new",
      10,
      0,
-     22.8,
+     22.7,
      [
       {
        "title": "PJM eyes data center, crypto reliability requirements after 3.8 GW of load trips offline",
@@ -54363,7 +54363,7 @@
      "new",
      12,
      0,
-     21.3,
+     21.2,
      [
       {
        "title": "Texas hits new peak demand record, but supply constraints will limit growth",
@@ -54423,6 +54423,14 @@
    "examples": [
     {
      "publisher": "Data Center Dynamics",
+     "title": "Sponsored: Power on the critical path: why the IPP is moving to the center of \u2f00data center\u2f01 development",
+     "url": "https://www.datacenterdynamics.com/en/opinions/power-on-the-critical-path-why-the-ipp-is-moving-to-the-center-of-data-center-development/",
+     "sector": "Technology",
+     "country": "US",
+     "quote": ""
+    },
+    {
+     "publisher": "Data Center Dynamics",
      "title": "Are orbital AI \u2f00data centers\u2f01 the next frontier for compute infrastructure?",
      "url": "https://www.datacenterdynamics.com/en/opinions/are-orbital-ai-data-centers-the-next-frontier-for-compute-infrastructure/",
      "sector": "Technology",
@@ -54444,14 +54452,6 @@
      "sector": "Technology",
      "country": "TW",
      "quote": "\u2026n a shift carrying implications for \u2f00data center\u2f01 operators and suppliers worldwide. The company sees higher shipments of ASIC chips and Nvidia's Vera Rubin pl\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Oracle's $165 Billion \u2f00Data Center\u2f01 Plan Hits a Gas Pipeline Delay",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Oracles-165-Billion-Data-Center-Plan-Hits-a-Gas-Pipeline-Delay.html",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "Oracle's proposed $165 billion \u2f00data center\u2f01 project in New Mexico has run into a decidedly low-tech problem: the natural gas pipeline meant to help power\u2026"
     }
    ],
    "daily": [
@@ -54813,18 +54813,18 @@
     },
     {
      "day": "2026-08-15",
-     "n": 3
+     "n": 4
     }
    ],
    "variants": [
     "data center power",
     "grid operator"
    ],
-   "docFreq": 0.0331,
+   "docFreq": 0.0332,
    "specificity": 0.0,
-   "homeShare": 0.753,
+   "homeShare": 0.754,
    "daysSeen": 14,
-   "rank": 0.7
+   "rank": 0.701
   },
   {
    "id": "rare-earth",
@@ -55030,7 +55030,7 @@
      "steady",
      2,
      2,
-     220.4,
+     220.5,
      [
       {
        "title": "Apex's rare earth assays elevate Rift among US projects",
@@ -55495,7 +55495,7 @@
   {
    "id": "fossil-fuel",
    "term": "fossil fuel",
-   "direction": "rising",
+   "direction": "falling",
    "display": false,
    "adoptionSpan": 17,
    "pace": "mixed",
@@ -55656,7 +55656,7 @@
      "steady",
      2,
      2,
-     206.6,
+     206.7,
      [
       {
        "title": "Europe's Next \u2f00Energy Crisis\u2f01 Won't Be a War, It'll Be Peak Oil",
@@ -55673,7 +55673,7 @@
      "new",
      4,
      0,
-     206.6,
+     206.7,
      [
       {
        "title": "Solar Surpasses Wind In Global Electricity Generation For The First Time",
@@ -55697,7 +55697,7 @@
      "new",
      6,
      0,
-     72.9,
+     73.0,
      [
       {
        "title": "Trump Is Spending Billions On The Minerals That Power EVs",
@@ -56128,7 +56128,7 @@
   {
    "id": "iran-war",
    "term": "iran war",
-   "direction": "rising",
+   "direction": "falling",
    "display": false,
    "adoptionSpan": 43,
    "pace": "gradual",
@@ -56369,7 +56369,7 @@
      "new",
      4,
      0,
-     174.0,
+     174.1,
      [
       {
        "title": "Somali Piracy Surges Amid Hormuz Blockade",
@@ -56472,7 +56472,7 @@
      "new",
      4,
      0,
-     18.6,
+     18.7,
      [
       {
        "title": "Trump Faces Growing Pressure to Restrict U.S. Oil Exports",
@@ -57002,7 +57002,7 @@
      "new",
      4,
      0,
-     550.9,
+     551.2,
      [
       {
        "title": "Drone strikes put Libya's Zawiya oil hub at risk",
@@ -57026,7 +57026,7 @@
      "new",
      6,
      0,
-     220.4,
+     220.5,
      [
       {
        "title": "Kazakhstan Weighs New Routes as Drone Strikes Squeeze \u2f00Black Sea\u2f01 Oil Exports",
@@ -57057,7 +57057,7 @@
      "new",
      6,
      0,
-     194.4,
+     194.5,
      [
       {
        "title": "Drone strikes put Libya's Zawiya oil hub at risk",
@@ -57595,7 +57595,7 @@
      "new",
      6,
      0,
-     572.1,
+     572.4,
      [
       {
        "title": "Drone Attack Hits Power Plant at Key Libyan Oil Hub",
@@ -57619,7 +57619,7 @@
      "new",
      4,
      0,
-     381.4,
+     381.6,
      [
       {
        "title": "Drone Attack Hits Power Plant at Key Libyan \u2f00Oil Hub\u2f01",
@@ -57643,7 +57643,7 @@
      "new",
      4,
      0,
-     305.1,
+     305.3,
      [
       {
        "title": "Drone Attack Hits Power Plant at Key Libyan Oil Hub",
@@ -57667,7 +57667,7 @@
      "new",
      4,
      0,
-     101.7,
+     101.8,
      [
       {
        "title": "FESCO suspends \u2f00Black Sea\u2f01 bookings after vessel sinking",
@@ -58091,7 +58091,7 @@
   {
    "id": "clean-energy",
    "term": "clean energy",
-   "direction": "rising",
+   "direction": "falling",
    "display": false,
    "adoptionSpan": 54,
    "pace": "gradual",
@@ -58352,7 +58352,7 @@
      "rising",
      4,
      2,
-     194.4,
+     194.5,
      [
       {
        "title": "Why Illinois has struggled to turn old coal sites into solar farms",
@@ -58376,7 +58376,7 @@
      "rising",
      4,
      2,
-     145.8,
+     145.9,
      [
       {
        "title": "China Races to Finish Molten-Salt Solar Plant as Stocks Whipsaw",
@@ -58400,7 +58400,7 @@
      "new",
      4,
      0,
-     97.2,
+     97.3,
      [
       {
        "title": "MIT's New Framework Aims to Tackle Nuclear Fusion's Money Problem",
@@ -58424,7 +58424,7 @@
      "new",
      6,
      0,
-     72.9,
+     73.0,
      [
       {
        "title": "Trump Is Spending Billions On The Minerals That Power EVs",
@@ -59156,7 +59156,7 @@
      "new",
      4,
      0,
-     127.1,
+     127.2,
      [
       {
        "title": "HMM maintains profitability in H1 2026 despite volatile shipping market",
@@ -59180,7 +59180,7 @@
      "new",
      6,
      0,
-     81.7,
+     81.8,
      [
       {
        "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
@@ -59992,7 +59992,7 @@
      "new",
      6,
      0,
-     132.8,
+     132.9,
      [
       {
        "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
@@ -60023,7 +60023,7 @@
      "new",
      8,
      0,
-     88.5,
+     88.6,
      [
       {
        "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
@@ -60054,7 +60054,7 @@
      "new",
      4,
      0,
-     70.8,
+     70.9,
      [
       {
        "title": "Phinia third sustainability report cites 35% emissions cut",
@@ -60078,7 +60078,7 @@
      "new",
      4,
      0,
-     39.3,
+     39.4,
      [
       {
        "title": "South Korean Fleet Reshuffle Creates Asia's Largest \u2f00LNG Carrier\u2f01 Operator",
@@ -60095,7 +60095,7 @@
      "new",
      4,
      0,
-     29.5,
+     27.3,
      [
       {
        "title": "Oracle's $165 Billion Data Center Plan Hits a Gas Pipeline Delay",
@@ -60119,7 +60119,7 @@
      "new",
      4,
      0,
-     18.6,
+     18.7,
      [
       {
        "title": "Trump Faces Growing Pressure to Restrict U.S. Oil Exports",
@@ -60547,7 +60547,7 @@
   {
    "id": "wind-farm",
    "term": "wind farm",
-   "direction": "rising",
+   "direction": "steady",
    "display": false,
    "adoptionSpan": 16,
    "pace": "mixed",
@@ -61178,7 +61178,7 @@
      "new",
      4,
      0,
-     472.2,
+     472.5,
      [
       {
        "title": "Solar generation in CAISO surpassed natural gas in the first five months of 2026",
@@ -61731,7 +61731,7 @@
      "new",
      4,
      0,
-     381.4,
+     381.6,
      [
       {
        "title": "Finland adds 478 MW of large-scale solar in H1",
@@ -61755,7 +61755,7 @@
      "new",
      4,
      0,
-     46.2,
+     46.3,
      [
       {
        "title": "EV manufacturer Ola Electric brings cell-to-pack vertical integration into India's utility-scale BESS market with 20GWh MoU",
@@ -62186,7 +62186,7 @@
   {
    "id": "energy-infrastructure",
    "term": "energy infrastructure",
-   "direction": "rising",
+   "direction": "steady",
    "display": false,
    "adoptionSpan": 14,
    "pace": "mixed",
@@ -62411,7 +62411,7 @@
      "new",
      6,
      0,
-     194.4,
+     194.5,
      [
       {
        "title": "\u2f00Drone strikes\u2f01 put Libya's Zawiya oil hub at risk",
@@ -63603,7 +63603,7 @@
      "steady",
      2,
      2,
-     275.4,
+     275.6,
      [
       {
        "title": "EU Locks In Plan To Triple Energy Storage Capacity By 2030",
@@ -65090,7 +65090,7 @@
   {
    "id": "energy-solution",
    "term": "energy solution",
-   "direction": "rising",
+   "direction": "steady",
    "display": false,
    "adoptionSpan": 49,
    "pace": "gradual",
@@ -65299,7 +65299,7 @@
      "new",
      8,
      0,
-     566.6,
+     567.0,
      [
       {
        "title": "LG Chem reportedly wins cathode supply deal for Hyundai-LG Energy Solution's US battery venture",
@@ -65330,7 +65330,7 @@
      "steady",
      2,
      2,
-     495.8,
+     496.1,
      [
       {
        "title": "GM and LGES ramp up \u2f00cell production\u2f01 in Ohio again",
@@ -65347,7 +65347,7 @@
      "new",
      6,
      0,
-     371.9,
+     372.1,
      [
       {
        "title": "GM and LGES ramp up cell production in Ohio again",
@@ -65378,7 +65378,7 @@
      "new",
      4,
      0,
-     330.5,
+     330.7,
      [
       {
        "title": "LGES, Lopal sign three-year LFP supply deal worth up to CNY27 billion",
