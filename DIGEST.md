@@ -1,8 +1,12 @@
 # Crosstalk — week ending 15 August 2026
 
-*9,715 articles over 111 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*9,699 articles over 111 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
+
+**joint venture** — now in 5 sectors. **Supply chain** picked it up 7d ago; it was first seen in real estate coverage on 16 June 2026.
+  - [Skanska JV Lands $2.43B Contract for Light Rail Project in L.A.](https://commercialobserver.com/2026/08/skanska-stacy-witbeck-contract-light-rail-san-fernando-valley-la-metro/) · Commercial Observer · real estate
+  - [PPM America Provides $236M Acquisition Debt for 20-Property Industrial Deal](https://commercialobserver.com/2026/08/ppm-america-236m-acquisition-20-property-industrial/) · Commercial Observer · real estate
 
 **energy infrastructure** — now in 4 sectors. **Supply chain** picked it up 5d ago; it was first seen in energy coverage on 27 July 2026.
   - [Solar Surpasses Wind In Global Electricity Generation For The First Time](https://oilprice.com/Alternative-Energy/Solar-Energy/Solar-Surpasses-Wind-In-Global-Electricity-Generation-For-The-First-Time.html) · OilPrice · energy
@@ -22,9 +26,9 @@
 | energy storage | 3 | 58 | 8.3× |
 | red sea | 2 | 32 | 8.0× |
 | power generation | 3 | 21 | 7.0× |
-| joint venture | 5 | 42 | 7.0× |
+| joint venture | 5 | 41 | 6.8× |
 | oil price | 3 | 40 | 6.7× |
-| data center | 7 | 312 | 6.4× |
+| data center | 7 | 311 | 6.3× |
 | private equity | 3 | 17 | 5.7× |
 
 ---
