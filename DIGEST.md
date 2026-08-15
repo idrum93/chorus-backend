@@ -1,6 +1,6 @@
 # Crosstalk — week ending 15 August 2026
 
-*9,684 articles over 110 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*9,703 articles over 111 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
@@ -24,7 +24,7 @@
 | power generation | 3 | 21 | 7.0× |
 | joint venture | 5 | 42 | 7.0× |
 | oil price | 3 | 40 | 6.7× |
-| data center | 7 | 310 | 6.3× |
+| data center | 7 | 311 | 6.3× |
 | private equity | 3 | 17 | 5.7× |
 
 ---
