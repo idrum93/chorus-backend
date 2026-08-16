@@ -21,7 +21,7 @@
 | middle east | 3 | 52 | 10.4× |
 | natural gas | 3 | 56 | 9.3× |
 | energy storage | 3 | 59 | 8.4× |
-| joint venture | 5 | 41 | 6.8× |
+| joint venture | 5 | 42 | 7.0× |
 | data center | 7 | 313 | 6.4× |
 | red sea | 2 | 31 | 6.2× |
 | oil price | 3 | 40 | 5.7× |
