@@ -1,14 +1,18 @@
-# Crosstalk — week ending 16 August 2026
+# Crosstalk — week ending 17 August 2026
 
-*9,779 articles over 112 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*9,796 articles over 112 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
-**energy infrastructure** — now in 4 sectors. **Supply chain** picked it up 6d ago; it was first seen in energy coverage on 27 July 2026.
+**offshore wind** — now in 4 sectors. **Technology** picked it up 3d ago; it was first seen in energy coverage on 17 June 2026.
+  - [Taiwan's Century Group eyes SMR supply chain as AI power demand accelerates](https://www.digitimes.com/news/a20260814PD213/taiwan-offshore-wind-demand-supply-chain-electricity.html) · DigiTimes Asia · technology
+  - [Taiwan ⼀offshore wind⼁ lifts marine engineering and ocean industry output](https://www.digitimes.com/news/a20260813PD254/taiwan-offshore-wind-2024-2018.html) · DigiTimes Asia · technology
+
+**energy infrastructure** — now in 4 sectors. **Supply chain** picked it up 7d ago; it was first seen in energy coverage on 27 July 2026.
   - [Solar Surpasses Wind In Global Electricity Generation For The First Time](https://oilprice.com/Alternative-Energy/Solar-Energy/Solar-Surpasses-Wind-In-Global-Electricity-Generation-For-The-First-Time.html) · OilPrice · energy
   - [Seetel tops NT$8.2B in first seven months amid US and Australia expansion](https://www.digitimes.com/news/a20260811PD230/revenue-2026-australia-north-america-shipments.html) · DigiTimes Asia · technology
 
-**raw material** — now in 3 sectors. **Technology** picked it up 6d ago; it was first seen in consumer coverage on 10 July 2026.
+**raw material** — now in 3 sectors. **Technology** picked it up 7d ago; it was first seen in consumer coverage on 10 July 2026.
   - [Tripod posts record second-quarter margins on strong server and memory demand](https://www.digitimes.com/news/a20260813PD251/revenue-profit-tripod-demand-2026.html?chid=10) · DigiTimes Asia · technology
   - [Asia Tech Image eyes 3Q26 growth as ⼀raw material⼁ costs hit 1H margins](https://www.digitimes.com/news/a20260812PD218/asia-tech-image-sensor-revenue-growth.html) · DigiTimes Asia · technology
 
@@ -16,16 +20,16 @@
 
 | phrase | sectors | articles | vs prior fortnight |
 |---|---|---|---|
-| artificial intelligence | 8 | 142 | 12.9× |
-| electric vehicle | 4 | 33 | 11.0× |
-| middle east | 3 | 53 | 10.6× |
-| natural gas | 3 | 56 | 9.3× |
-| energy storage | 3 | 59 | 8.4× |
-| joint venture | 5 | 43 | 7.2× |
-| data center | 7 | 313 | 6.4× |
-| red sea | 2 | 31 | 6.2× |
-| oil price | 3 | 40 | 5.7× |
-| private equity | 3 | 17 | 5.7× |
+| storage system | 4 | 42 | 14.0× |
+| electric vehicle | 4 | 32 | 8.0× |
+| energy storage | 3 | 58 | 7.2× |
+| middle east | 3 | 50 | 6.2× |
+| joint venture | 5 | 42 | 6.0× |
+| artificial intelligence | 8 | 131 | 5.7× |
+| energy infrastructure | 4 | 17 | 5.7× |
+| battery storage | 2 | 33 | 4.1× |
+| data center | 7 | 288 | 3.8× |
+| utility scale | 2 | 11 | 3.7× |
 
 ---
 
