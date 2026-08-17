@@ -1,6 +1,6 @@
 # Crosstalk — week ending 17 August 2026
 
-*9,869 articles over 112 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*9,893 articles over 112 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
@@ -13,8 +13,8 @@
   - [Seetel tops NT$8.2B in first seven months amid US and Australia expansion](https://www.digitimes.com/news/a20260811PD230/revenue-2026-australia-north-america-shipments.html) · DigiTimes Asia · technology
 
 **raw material** — now in 3 sectors. **Technology** picked it up 7d ago; it was first seen in consumer coverage on 10 July 2026.
+  - [Giant warns rising bicycle parts costs will pressure margins](https://www.digitimes.com/news/a20260817PD208/2026-revenue-supplier-price-high-end.html) · DigiTimes Asia · technology
   - [Tripod posts record second-quarter margins on strong server and memory demand](https://www.digitimes.com/news/a20260813PD251/revenue-profit-tripod-demand-2026.html?chid=10) · DigiTimes Asia · technology
-  - [Asia Tech Image eyes 3Q26 growth as ⼀raw material⼁ costs hit 1H margins](https://www.digitimes.com/news/a20260812PD218/asia-tech-image-sensor-revenue-growth.html) · DigiTimes Asia · technology
 
 ## Being used more than a fortnight ago
 
@@ -23,12 +23,12 @@
 | storage system | 4 | 44 | 14.7× |
 | electric vehicle | 4 | 32 | 8.0× |
 | energy storage | 3 | 59 | 7.4× |
-| middle east | 3 | 52 | 6.5× |
+| middle east | 3 | 53 | 6.6× |
 | joint venture | 5 | 42 | 6.0× |
 | artificial intelligence | 8 | 135 | 5.9× |
 | energy infrastructure | 4 | 17 | 5.7× |
 | battery storage | 2 | 36 | 4.5× |
-| data center | 7 | 293 | 3.9× |
+| data center | 7 | 295 | 3.9× |
 | supply chain | 9 | 125 | 3.7× |
 
 ---
