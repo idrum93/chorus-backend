@@ -1,35 +1,27 @@
-# Crosstalk — week ending 17 August 2026
+# Crosstalk — week ending 18 August 2026
 
-*10,164 articles over 112 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*10,240 articles over 113 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
-**offshore wind** — now in 4 sectors. **Technology** picked it up 3d ago; it was first seen in energy coverage on 17 June 2026.
+**offshore wind** — now in 4 sectors. **Technology** picked it up 4d ago; it was first seen in energy coverage on 17 June 2026.
+  - [Energy Dominance Requires Commitments That Last](https://www.powermag.com/energy-dominance-requires-commitments-that-last/) · POWER Magazine · utilities
   - [Taiwan's Century Group eyes SMR supply chain as AI power demand accelerates](https://www.digitimes.com/news/a20260814PD213/taiwan-offshore-wind-demand-supply-chain-electricity.html) · DigiTimes Asia · technology
-  - [Taiwan ⼀offshore wind⼁ lifts marine engineering and ocean industry output](https://www.digitimes.com/news/a20260813PD254/taiwan-offshore-wind-2024-2018.html) · DigiTimes Asia · technology
-
-**energy infrastructure** — now in 4 sectors. **Supply chain** picked it up 7d ago; it was first seen in energy coverage on 27 July 2026.
-  - [Solar Surpasses Wind In Global Electricity Generation For The First Time](https://oilprice.com/Alternative-Energy/Solar-Energy/Solar-Surpasses-Wind-In-Global-Electricity-Generation-For-The-First-Time.html) · OilPrice · energy
-  - [Seetel tops NT$8.2B in first seven months amid US and Australia expansion](https://www.digitimes.com/news/a20260811PD230/revenue-2026-australia-north-america-shipments.html) · DigiTimes Asia · technology
-
-**raw material** — now in 3 sectors. **Technology** picked it up 7d ago; it was first seen in consumer coverage on 10 July 2026.
-  - [Giant warns rising bicycle parts costs will pressure margins](https://www.digitimes.com/news/a20260817PD208/2026-revenue-supplier-price-high-end.html) · DigiTimes Asia · technology
-  - [Tripod posts record second-quarter margins on strong server and memory demand](https://www.digitimes.com/news/a20260813PD251/revenue-profit-tripod-demand-2026.html?chid=10) · DigiTimes Asia · technology
 
 ## Being used more than a fortnight ago
 
 | phrase | sectors | articles | vs prior fortnight |
 |---|---|---|---|
-| storage system | 4 | 46 | 15.3× |
-| energy storage | 3 | 68 | 8.5× |
-| electric vehicle | 4 | 32 | 8.0× |
-| middle east | 3 | 58 | 7.2× |
-| joint venture | 5 | 42 | 6.0× |
-| artificial intelligence | 9 | 137 | 6.0× |
-| energy infrastructure | 4 | 17 | 5.7× |
-| battery storage | 2 | 39 | 4.9× |
-| data center | 8 | 316 | 4.2× |
-| red sea | 2 | 32 | 4.0× |
+| storage system | 4 | 43 | 7.2× |
+| joint venture | 5 | 42 | 5.2× |
+| electric vehicle | 4 | 30 | 5.0× |
+| water level | 2 | 15 | 5.0× |
+| black sea | 2 | 15 | 5.0× |
+| energy storage | 3 | 62 | 4.4× |
+| raw material | 3 | 12 | 4.0× |
+| energy infrastructure | 4 | 16 | 4.0× |
+| middle east | 3 | 52 | 3.7× |
+| global energy | 2 | 11 | 3.7× |
 
 ---
 
