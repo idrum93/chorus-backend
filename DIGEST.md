@@ -1,12 +1,12 @@
 # Crosstalk — week ending 19 August 2026
 
-*11,050 articles over 114 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*11,107 articles over 114 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
 **artificial intelligence** — now in 10 sectors. **Healthcare** picked it up 5d ago; it was first seen in technology coverage on 31 May 2026.
+  - [Immersive environment to accelerate UK nuclear decommissioning](https://www.world-nuclear-news.org/articles/immersive-environment-to-accelerate-uk-nuclear-decommissioning) · World Nuclear News · energy
   - [Stripe acquisition may bolster its AI strategy](https://www.paymentsdive.com/news/stripe-openrouter-acquisition-may-bolster-its-ai-strategy/828216/) · Payments Dive · finance
-  - [Epic targets outpatient visits with new AI tool](https://www.healthcaredive.com/news/epic-targets-outpatient-visits-with-new-ai-tool/828230/) · Healthcare Dive · healthcare
 
 **offshore wind** — now in 4 sectors. **Technology** picked it up 5d ago; it was first seen in energy coverage on 17 June 2026.
   - [Energy Dominance Requires Commitments That Last](https://www.powermag.com/energy-dominance-requires-commitments-that-last/) · POWER Magazine · utilities
