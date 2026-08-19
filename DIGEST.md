@@ -1,12 +1,12 @@
 # Crosstalk — week ending 19 August 2026
 
-*11,038 articles over 114 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*11,050 articles over 114 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
 **artificial intelligence** — now in 10 sectors. **Healthcare** picked it up 5d ago; it was first seen in technology coverage on 31 May 2026.
+  - [Stripe acquisition may bolster its AI strategy](https://www.paymentsdive.com/news/stripe-openrouter-acquisition-may-bolster-its-ai-strategy/828216/) · Payments Dive · finance
   - [Epic targets outpatient visits with new AI tool](https://www.healthcaredive.com/news/epic-targets-outpatient-visits-with-new-ai-tool/828230/) · Healthcare Dive · healthcare
-  - [Socionext taps Intel 18A-P process for high-performance compute chiplet development](https://www.digitimes.com/news/a20260819PR201/socionext-soc-intel-intel-foundry-silicon.html) · DigiTimes Asia · technology
 
 **offshore wind** — now in 4 sectors. **Technology** picked it up 5d ago; it was first seen in energy coverage on 17 June 2026.
   - [Energy Dominance Requires Commitments That Last](https://www.powermag.com/energy-dominance-requires-commitments-that-last/) · POWER Magazine · utilities
@@ -24,8 +24,8 @@
 | solid state | 2 | 11 | 3.7× |
 | net zero | 2 | 11 | 3.7× |
 | electric vehicle | 5 | 32 | 3.6× |
+| drone strike | 2 | 10 | 3.3× |
 | oil export | 2 | 10 | 3.3× |
-| middle east | 3 | 58 | 3.1× |
 
 ---
 

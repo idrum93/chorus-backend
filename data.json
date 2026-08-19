@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-19T14:47:02.957850+00:00",
+ "generated": "2026-08-19T15:23:19.445211+00:00",
  "placeWords": [
   "africa",
   "alberta",
@@ -794,7 +794,7 @@
    },
    {
     "day": "2026-08-19",
-    "close": 53.05
+    "close": 53.02
    }
   ],
   "Energy": [
@@ -1040,7 +1040,7 @@
    },
    {
     "day": "2026-08-19",
-    "close": 64.12
+    "close": 64.18
    }
   ],
   "Finance": [
@@ -1286,7 +1286,7 @@
    },
    {
     "day": "2026-08-19",
-    "close": 58.02
+    "close": 57.96
    }
   ],
   "Industrials": [
@@ -2020,7 +2020,7 @@
    },
    {
     "day": "2026-08-19",
-    "close": 44.91
+    "close": 44.9
    }
   ],
   "Utilities": [
@@ -2508,7 +2508,7 @@
    },
    {
     "day": "2026-08-19",
-    "close": 176.0
+    "close": 175.15
    }
   ],
   "Consumer": [
@@ -2754,14 +2754,14 @@
    },
    {
     "day": "2026-08-19",
-    "close": 118.46
+    "close": 118.72
    }
   ]
  },
  "coverage": [
   [
    "US",
-   7069
+   7077
   ],
   [
    "TW",
@@ -2773,7 +2773,7 @@
   ],
   [
    "IN",
-   613
+   614
   ],
   [
    "KR",
@@ -2781,7 +2781,7 @@
   ],
   [
    "GR",
-   293
+   294
   ],
   [
    "DE",
@@ -2789,7 +2789,7 @@
   ],
   [
    "SG",
-   282
+   283
   ],
   [
    "AU",
@@ -2805,7 +2805,7 @@
   ],
   [
    "IE",
-   44
+   45
   ],
   [
    "NL",
@@ -3920,6 +3920,46 @@
   {
    "articles_list": [
     {
+     "title": "EIA Shows Crude Oil Inventories Still Rising",
+     "url": "https://oilprice.com/Energy/Crude-Oil/EIA-Shows-Crude-Oil-Inventories-Still-Rising.html",
+     "publisher": "OilPrice",
+     "sector": "Energy",
+     "quote": "\u2026according to new data from the U.S. \u2f00Energy Information Administration\u2f01 (EIA) released on Wednesday. The increase brings commercial stockpiles to 428.8 million barrels, according to\u2026"
+    },
+    {
+     "title": "US Oil Drillers Add Even More Rigs As Oil Prices Stay Higher",
+     "url": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Drillers-Add-Even-More-Rigs-As-Oil-Prices-Stay-Higher.html",
+     "publisher": "OilPrice",
+     "sector": "Energy",
+     "quote": "\u2026neous rigs stayed at 10. The latest \u2f00EIA\u2f01 data showed that weekly\u2026"
+    },
+    {
+     "title": "U.S. Power Grid Strains Under Record Electricity Demand",
+     "url": "https://oilprice.com/Energy/Energy-General/US-Power-Grid-Strains-Under-Record-Electricity-Demand.html",
+     "publisher": "OilPrice",
+     "sector": "Energy",
+     "quote": "\u2026of record-demand projections by the \u2f00Energy Information Administration\u2f01. There is one problem, though. That problem is the grid. Electricity consumption in the United States has alr\u2026"
+    }
+   ],
+   "name": "Energy Information Administration",
+   "acronym": "EIA",
+   "sectors": [
+    "Energy",
+    "Utilities"
+   ],
+   "sectorCount": 2,
+   "home": "Energy",
+   "away": [],
+   "awayShare": 0.0,
+   "articles": 12,
+   "recent": 11,
+   "prior": 1,
+   "firstSeen": "2026-08-05",
+   "direction": "rising"
+  },
+  {
+   "articles_list": [
+    {
      "title": "Air Plan Approval; Illinois; Clean Data Determination for the Illinois Portion of the St. Louis Area for the 2015 Ozone Standard",
      "url": "https://www.federalregister.gov/documents/2026/08/13/2026-16514/air-plan-approval-illinois-clean-data-determination-for-the-illinois-portion-of-the-st-louis-area",
      "publisher": "Federal Register",
@@ -3956,46 +3996,6 @@
    "prior": 7,
    "firstSeen": "2026-07-16",
    "direction": "falling"
-  },
-  {
-   "articles_list": [
-    {
-     "title": "US Oil Drillers Add Even More Rigs As Oil Prices Stay Higher",
-     "url": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Drillers-Add-Even-More-Rigs-As-Oil-Prices-Stay-Higher.html",
-     "publisher": "OilPrice",
-     "sector": "Energy",
-     "quote": "\u2026neous rigs stayed at 10. The latest \u2f00EIA\u2f01 data showed that weekly\u2026"
-    },
-    {
-     "title": "U.S. Power Grid Strains Under Record Electricity Demand",
-     "url": "https://oilprice.com/Energy/Energy-General/US-Power-Grid-Strains-Under-Record-Electricity-Demand.html",
-     "publisher": "OilPrice",
-     "sector": "Energy",
-     "quote": "\u2026of record-demand projections by the \u2f00Energy Information Administration\u2f01. There is one problem, though. That problem is the grid. Electricity consumption in the United States has alr\u2026"
-    },
-    {
-     "title": "U.S. battery storage capacity grows 70% annually over the past three years",
-     "url": "https://www.pv-magazine.com/2026/08/13/u-s-battery-storage-capacity-grows-70-annually-over-the-past-three-years/",
-     "publisher": "PV Magazine",
-     "sector": "Energy",
-     "quote": "\u2026rough 2028, according to the latest \u2f00EIA\u2f01 data. The post U.S. battery storage capacity grows 70% annually over the past three years appeared first on p\u2026"
-    }
-   ],
-   "name": "Energy Information Administration",
-   "acronym": "EIA",
-   "sectors": [
-    "Energy",
-    "Utilities"
-   ],
-   "sectorCount": 2,
-   "home": "Energy",
-   "away": [],
-   "awayShare": 0.0,
-   "articles": 11,
-   "recent": 10,
-   "prior": 1,
-   "firstSeen": "2026-08-05",
-   "direction": "rising"
   },
   {
    "articles_list": [
@@ -4174,6 +4174,14 @@
      "variants": [],
      "examples": [
       {
+       "publisher": "Payments Dive",
+       "title": "Stripe acquisition may bolster its AI strategy",
+       "url": "https://www.paymentsdive.com/news/stripe-openrouter-acquisition-may-bolster-its-ai-strategy/828216/",
+       "sector": "Finance",
+       "country": "US",
+       "quote": "\u2026et itself up to be at the center of \u2f00artificial intelligence\u2f01 token payments."
+      },
+      {
        "publisher": "Healthcare Dive",
        "title": "Epic targets outpatient visits with new AI tool",
        "url": "https://www.healthcaredive.com/news/epic-targets-outpatient-visits-with-new-ai-tool/828230/",
@@ -4188,14 +4196,6 @@
        "sector": "Technology",
        "country": "TW",
        "quote": "\u2026s data centers, edge computing, and \u2f00artificial intelligence\u2f01 (AI)."
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "TAITRA Chair: Taiwan's economy relies on AI capex; warns of weak ROI risk",
-       "url": "https://www.digitimes.com/news/a20260819PD218/taiwan-taitra-2026-economy-capex.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026g at the opening of the 2026 Taiwan \u2f00Artificial Intelligence\u2f01 Conference on August 18, Taiwan External Trade Development Council (TAITRA) Chairman James C.F. Huang urged e\u2026"
       }
      ]
     },
@@ -4249,6 +4249,14 @@
      ],
      "examples": [
       {
+       "publisher": "ET Manufacturing",
+       "title": "India now moving to build deeper \u2f00supply chain\u2f01 of electronics manufacturing: Vaishnaw",
+       "url": "https://manufacturing.economictimes.indiatimes.com/news/hi-tech/india-now-moving-to-build-deeper-supply-chain-of-electronics-manufacturing-vaishnaw/133349479",
+       "sector": "Industrials",
+       "country": "IN",
+       "quote": ""
+      },
+      {
        "publisher": "Logistics Manager",
        "title": "Webinar: Building \u2f00supply chain\u2f01 resilience navigating uncertainty, disruption and change",
        "url": "https://www.logisticsmanager.com/webinar-building-supply-chain-resilience-navigating-uncertainty-disruption-and-change/",
@@ -4263,14 +4271,6 @@
        "sector": "Technology",
        "country": "TW",
        "quote": "\u2026rategic partner in the global drone \u2f00supply chain\u2f01. The discussion takes place at a time when drones have become the frontier of warfare, and countries such as\u2026"
-      },
-      {
-       "publisher": "The Register",
-       "title": "Baidu says Chinese buyers want local AI chips due to \u2018\u2f00supply chain\u2f01' issues",
-       "url": "https://www.theregister.com/systems/2026/08/19/baidu-says-chinese-buyers-want-local-ai-chips-due-to-supply-chain-issues/5289377",
-       "sector": "Technology",
-       "country": "US",
-       "quote": ""
       }
      ]
     },
@@ -4518,6 +4518,14 @@
      "variants": [],
      "examples": [
       {
+       "publisher": "Payments Dive",
+       "title": "Stripe acquisition may bolster its AI strategy",
+       "url": "https://www.paymentsdive.com/news/stripe-openrouter-acquisition-may-bolster-its-ai-strategy/828216/",
+       "sector": "Finance",
+       "country": "US",
+       "quote": "\u2026et itself up to be at the center of \u2f00artificial intelligence\u2f01 token payments."
+      },
+      {
        "publisher": "Healthcare Dive",
        "title": "Epic targets outpatient visits with new AI tool",
        "url": "https://www.healthcaredive.com/news/epic-targets-outpatient-visits-with-new-ai-tool/828230/",
@@ -4532,14 +4540,6 @@
        "sector": "Technology",
        "country": "TW",
        "quote": "\u2026s data centers, edge computing, and \u2f00artificial intelligence\u2f01 (AI)."
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "TAITRA Chair: Taiwan's economy relies on AI capex; warns of weak ROI risk",
-       "url": "https://www.digitimes.com/news/a20260819PD218/taiwan-taitra-2026-economy-capex.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026g at the opening of the 2026 Taiwan \u2f00Artificial Intelligence\u2f01 Conference on August 18, Taiwan External Trade Development Council (TAITRA) Chairman James C.F. Huang urged e\u2026"
       }
      ]
     },
@@ -4557,6 +4557,14 @@
      ],
      "examples": [
       {
+       "publisher": "ET Manufacturing",
+       "title": "India now moving to build deeper \u2f00supply chain\u2f01 of electronics manufacturing: Vaishnaw",
+       "url": "https://manufacturing.economictimes.indiatimes.com/news/hi-tech/india-now-moving-to-build-deeper-supply-chain-of-electronics-manufacturing-vaishnaw/133349479",
+       "sector": "Industrials",
+       "country": "IN",
+       "quote": ""
+      },
+      {
        "publisher": "Logistics Manager",
        "title": "Webinar: Building \u2f00supply chain\u2f01 resilience navigating uncertainty, disruption and change",
        "url": "https://www.logisticsmanager.com/webinar-building-supply-chain-resilience-navigating-uncertainty-disruption-and-change/",
@@ -4571,14 +4579,6 @@
        "sector": "Technology",
        "country": "TW",
        "quote": "\u2026rategic partner in the global drone \u2f00supply chain\u2f01. The discussion takes place at a time when drones have become the frontier of warfare, and countries such as\u2026"
-      },
-      {
-       "publisher": "The Register",
-       "title": "Baidu says Chinese buyers want local AI chips due to \u2018\u2f00supply chain\u2f01' issues",
-       "url": "https://www.theregister.com/systems/2026/08/19/baidu-says-chinese-buyers-want-local-ai-chips-due-to-supply-chain-issues/5289377",
-       "sector": "Technology",
-       "country": "US",
-       "quote": ""
       }
      ]
     }
@@ -4801,6 +4801,14 @@
      ],
      "examples": [
       {
+       "publisher": "ET Manufacturing",
+       "title": "India now moving to build deeper \u2f00supply chain\u2f01 of electronics manufacturing: Vaishnaw",
+       "url": "https://manufacturing.economictimes.indiatimes.com/news/hi-tech/india-now-moving-to-build-deeper-supply-chain-of-electronics-manufacturing-vaishnaw/133349479",
+       "sector": "Industrials",
+       "country": "IN",
+       "quote": ""
+      },
+      {
        "publisher": "Logistics Manager",
        "title": "Webinar: Building \u2f00supply chain\u2f01 resilience navigating uncertainty, disruption and change",
        "url": "https://www.logisticsmanager.com/webinar-building-supply-chain-resilience-navigating-uncertainty-disruption-and-change/",
@@ -4815,14 +4823,6 @@
        "sector": "Technology",
        "country": "TW",
        "quote": "\u2026rategic partner in the global drone \u2f00supply chain\u2f01. The discussion takes place at a time when drones have become the frontier of warfare, and countries such as\u2026"
-      },
-      {
-       "publisher": "The Register",
-       "title": "Baidu says Chinese buyers want local AI chips due to \u2018\u2f00supply chain\u2f01' issues",
-       "url": "https://www.theregister.com/systems/2026/08/19/baidu-says-chinese-buyers-want-local-ai-chips-due-to-supply-chain-issues/5289377",
-       "sector": "Technology",
-       "country": "US",
-       "quote": ""
       }
      ]
     }
@@ -4957,6 +4957,14 @@
      "variants": [],
      "examples": [
       {
+       "publisher": "Payments Dive",
+       "title": "Stripe acquisition may bolster its AI strategy",
+       "url": "https://www.paymentsdive.com/news/stripe-openrouter-acquisition-may-bolster-its-ai-strategy/828216/",
+       "sector": "Finance",
+       "country": "US",
+       "quote": "\u2026et itself up to be at the center of \u2f00artificial intelligence\u2f01 token payments."
+      },
+      {
        "publisher": "Healthcare Dive",
        "title": "Epic targets outpatient visits with new AI tool",
        "url": "https://www.healthcaredive.com/news/epic-targets-outpatient-visits-with-new-ai-tool/828230/",
@@ -4971,14 +4979,6 @@
        "sector": "Technology",
        "country": "TW",
        "quote": "\u2026s data centers, edge computing, and \u2f00artificial intelligence\u2f01 (AI)."
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "TAITRA Chair: Taiwan's economy relies on AI capex; warns of weak ROI risk",
-       "url": "https://www.digitimes.com/news/a20260819PD218/taiwan-taitra-2026-economy-capex.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026g at the opening of the 2026 Taiwan \u2f00Artificial Intelligence\u2f01 Conference on August 18, Taiwan External Trade Development Council (TAITRA) Chairman James C.F. Huang urged e\u2026"
       }
      ]
     },
@@ -4996,6 +4996,14 @@
      ],
      "examples": [
       {
+       "publisher": "ET Manufacturing",
+       "title": "India now moving to build deeper \u2f00supply chain\u2f01 of electronics manufacturing: Vaishnaw",
+       "url": "https://manufacturing.economictimes.indiatimes.com/news/hi-tech/india-now-moving-to-build-deeper-supply-chain-of-electronics-manufacturing-vaishnaw/133349479",
+       "sector": "Industrials",
+       "country": "IN",
+       "quote": ""
+      },
+      {
        "publisher": "Logistics Manager",
        "title": "Webinar: Building \u2f00supply chain\u2f01 resilience navigating uncertainty, disruption and change",
        "url": "https://www.logisticsmanager.com/webinar-building-supply-chain-resilience-navigating-uncertainty-disruption-and-change/",
@@ -5010,14 +5018,6 @@
        "sector": "Technology",
        "country": "TW",
        "quote": "\u2026rategic partner in the global drone \u2f00supply chain\u2f01. The discussion takes place at a time when drones have become the frontier of warfare, and countries such as\u2026"
-      },
-      {
-       "publisher": "The Register",
-       "title": "Baidu says Chinese buyers want local AI chips due to \u2018\u2f00supply chain\u2f01' issues",
-       "url": "https://www.theregister.com/systems/2026/08/19/baidu-says-chinese-buyers-want-local-ai-chips-due-to-supply-chain-issues/5289377",
-       "sector": "Technology",
-       "country": "US",
-       "quote": ""
       }
      ]
     },
@@ -5033,6 +5033,14 @@
      "examples": [
       {
        "publisher": "Commercial Observer",
+       "title": "Investors Are Gaining More Confidence in Office: Survey",
+       "url": "https://commercialobserver.com/2026/08/investors-confidence-office-situsamc-survey/",
+       "sector": "Real estate",
+       "country": "US",
+       "quote": "\u2026in 2026. Preference from commercial \u2f00real estate\u2f01 investors for office transactions reached 11 percent in the second quarter. That compares to just 4 percent i\u2026"
+      },
+      {
+       "publisher": "Commercial Observer",
        "title": "REITs Report Strong Q2 Results Even as Interest Rates Weigh on Investor Sentiment",
        "url": "https://commercialobserver.com/2026/08/reits-q2-hoya-capital-investors-report/",
        "sector": "Real estate",
@@ -5046,14 +5054,6 @@
        "sector": "Real estate",
        "country": "US",
        "quote": "\u2026out selling a mixture of commercial \u2f00real estate\u2f01 assets across the New York City region as part of an estate sale produced a winning result. A joint venture [\u2026"
-      },
-      {
-       "publisher": "ET Realty",
-       "title": "Builders line up to buy bankrupt developers as land prices rise",
-       "url": "https://realty.economictimes.indiatimes.com/news/industry/builders-line-up-to-buy-bankrupt-developers-as-land-prices-rise/133336465",
-       "sector": "Real estate",
-       "country": "IN",
-       "quote": "\u2026y proceedings to acquire distressed \u2f00real estate\u2f01 companies as land prices soar in major cities. With projects, development rights and urban assets on offer, N\u2026"
       }
      ]
     }
@@ -5230,6 +5230,14 @@
      ],
      "examples": [
       {
+       "publisher": "ET Manufacturing",
+       "title": "India now moving to build deeper \u2f00supply chain\u2f01 of electronics manufacturing: Vaishnaw",
+       "url": "https://manufacturing.economictimes.indiatimes.com/news/hi-tech/india-now-moving-to-build-deeper-supply-chain-of-electronics-manufacturing-vaishnaw/133349479",
+       "sector": "Industrials",
+       "country": "IN",
+       "quote": ""
+      },
+      {
        "publisher": "Logistics Manager",
        "title": "Webinar: Building \u2f00supply chain\u2f01 resilience navigating uncertainty, disruption and change",
        "url": "https://www.logisticsmanager.com/webinar-building-supply-chain-resilience-navigating-uncertainty-disruption-and-change/",
@@ -5244,14 +5252,6 @@
        "sector": "Technology",
        "country": "TW",
        "quote": "\u2026rategic partner in the global drone \u2f00supply chain\u2f01. The discussion takes place at a time when drones have become the frontier of warfare, and countries such as\u2026"
-      },
-      {
-       "publisher": "The Register",
-       "title": "Baidu says Chinese buyers want local AI chips due to \u2018\u2f00supply chain\u2f01' issues",
-       "url": "https://www.theregister.com/systems/2026/08/19/baidu-says-chinese-buyers-want-local-ai-chips-due-to-supply-chain-issues/5289377",
-       "sector": "Technology",
-       "country": "US",
-       "quote": ""
       }
      ]
     },
@@ -5389,6 +5389,14 @@
      ],
      "examples": [
       {
+       "publisher": "ET Manufacturing",
+       "title": "India now moving to build deeper \u2f00supply chain\u2f01 of electronics manufacturing: Vaishnaw",
+       "url": "https://manufacturing.economictimes.indiatimes.com/news/hi-tech/india-now-moving-to-build-deeper-supply-chain-of-electronics-manufacturing-vaishnaw/133349479",
+       "sector": "Industrials",
+       "country": "IN",
+       "quote": ""
+      },
+      {
        "publisher": "Logistics Manager",
        "title": "Webinar: Building \u2f00supply chain\u2f01 resilience navigating uncertainty, disruption and change",
        "url": "https://www.logisticsmanager.com/webinar-building-supply-chain-resilience-navigating-uncertainty-disruption-and-change/",
@@ -5403,14 +5411,6 @@
        "sector": "Technology",
        "country": "TW",
        "quote": "\u2026rategic partner in the global drone \u2f00supply chain\u2f01. The discussion takes place at a time when drones have become the frontier of warfare, and countries such as\u2026"
-      },
-      {
-       "publisher": "The Register",
-       "title": "Baidu says Chinese buyers want local AI chips due to \u2018\u2f00supply chain\u2f01' issues",
-       "url": "https://www.theregister.com/systems/2026/08/19/baidu-says-chinese-buyers-want-local-ai-chips-due-to-supply-chain-issues/5289377",
-       "sector": "Technology",
-       "country": "US",
-       "quote": ""
       }
      ]
     },
@@ -5523,13 +5523,206 @@
    ]
   },
   {
+   "prior14d": 7,
+   "direction": "rising",
+   "ticker": "WM",
+   "name": "Waste Management",
+   "sector": "Waste & water",
+   "borrowed": [
+    "energy infrastructure",
+    "clean energy"
+   ],
+   "articles": 30,
+   "articles14d": 23,
+   "terms": [
+    {
+     "term": "energy infrastructure",
+     "id": "energy-infrastructure",
+     "articles": 1,
+     "home": "Energy",
+     "shown": true,
+     "sectors": 4,
+     "direction": "steady",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "OilPrice",
+       "title": "Fire Breaks Out at Rosneft-Owned Refinery After Ukrainian Drone Strike",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Fire-Breaks-Out-at-Rosneft-Owned-Refinery-After-Ukrainian-Drone-Strike.html",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2026as Kyiv continues to pound Russian \u2f00energy infrastructure\u2f01 to reduce Russian fuel supply. One of the refineries in Ufa, in the Bashkortostan republic, caught fire as a\u2026"
+      },
+      {
+       "publisher": "OilPrice",
+       "title": "U.S. Diesel Reserves Sit Near 23-Year Lows",
+       "url": "https://oilprice.com/Energy/Gas-Prices/US-Diesel-Reserves-Sit-Near-23-Year-Lows.html",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2026Russia-Ukraine war, strikes against \u2f00energy infrastructure\u2f01, and continued disruptions around the Strait of Hormuz are fueling the refined-products \"perfect storm\" we ha\u2026"
+      },
+      {
+       "publisher": "OilPrice",
+       "title": "Solar Surpasses Wind In Global Electricity Generation For The First Time",
+       "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/Solar-Surpasses-Wind-In-Global-Electricity-Generation-For-The-First-Time.html",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2026a major challenge, and the world's \u2f00energy infrastructure\u2f01 was built around fossil fuels. But the direction seemed clear. It has been a long time coming, but the number\u2026"
+      }
+     ]
+    },
+    {
+     "term": "clean energy",
+     "id": "clean-energy",
+     "articles": 1,
+     "home": "Energy",
+     "shown": true,
+     "sectors": 5,
+     "direction": "falling",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "Renewable Energy World",
+       "title": "European \u2f00clean energy\u2f01 developers show a renewed appetite for risk",
+       "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/european-clean-energy-developers-show-a-renewed-appetite-for-risk/",
+       "sector": "Utilities",
+       "country": "US",
+       "quote": ""
+      },
+      {
+       "publisher": "Energy Live News",
+       "title": "Net Hero Podcast How just is the transition?",
+       "url": "https://www.energylivenews.com/2026/08/19/net-hero-podcast-how-just-is-the-transition/",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "\u2026orkers are being left behind in the \u2f00clean energy\u2f01 revolution The post Net Hero Podcast How just is the transition? appeared first on Energy Live News ."
+      },
+      {
+       "publisher": "ET Energyworld",
+       "title": "NHPC J&K project may get \u20b918,700 cr subordinated debt",
+       "url": "https://energy.economictimes.indiatimes.com/news/power/nhpc-jk-project-may-get-18700-cr-subordinated-debt/133336449",
+       "sector": "Energy",
+       "country": "IN",
+       "quote": "\u2026ammu & Kashmir as India accelerates \u2f00clean energy\u2f01 capacity on western rivers."
+      }
+     ]
+    },
+    {
+     "term": "asset management",
+     "id": "asset-management",
+     "articles": 1,
+     "home": "Real estate",
+     "shown": false,
+     "sectors": 2,
+     "direction": "falling",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "Energy Storage News",
+       "title": "US capacity markets create \u2018major disconnect' for LDES financing, says Camelot's Raafe Khan",
+       "url": "https://www.energy-storage.news/us-capacity-markets-create-major-disconnect-for-ldes-financing-says-camelots-raafe-khan/",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "\u2026roup, ahead of the upcoming Battery \u2f00Asset Management\u2f01 Summit (BAMS) USA in Garden Grove, California."
+      },
+      {
+       "publisher": "Commercial Observer",
+       "title": "Starwood Lands $483M CMBS Loan to Refi Single-Family Rental Portfolio",
+       "url": "https://commercialobserver.com/2026/08/starwood-nomura-single-family-rental/",
+       "sector": "Real estate",
+       "country": "US",
+       "quote": "Barry Sternlicht's Starwood \u2f00Asset Management\u2f01 secured a $482.5 million commercial mortgage-backed securities (CMBS) loan to refinance a nearly full single-\u2026"
+      },
+      {
+       "publisher": "Commercial Observer",
+       "title": "How Trent Johnson, Brian Landrum at Harbert Management Corp. Invest in Senior Housing",
+       "url": "https://commercialobserver.com/2026/08/trent-johnson-brian-landrum-harbert-management-corp-senior-housing/",
+       "sector": "Real estate",
+       "country": "US",
+       "quote": "\u2026oration, an $8 billion alternatives \u2f00asset management\u2f01 firm founded in 1993. The group has been investing in the seniors housing space for 15 years, raising a $210\u2026"
+      }
+     ]
+    },
+    {
+     "term": "supply chain",
+     "id": "supply-chain",
+     "articles": 1,
+     "home": "Technology",
+     "shown": false,
+     "sectors": 8,
+     "direction": "falling",
+     "variants": [
+      "global supply chain",
+      "supply chain resilience"
+     ],
+     "examples": [
+      {
+       "publisher": "ET Manufacturing",
+       "title": "India now moving to build deeper \u2f00supply chain\u2f01 of electronics manufacturing: Vaishnaw",
+       "url": "https://manufacturing.economictimes.indiatimes.com/news/hi-tech/india-now-moving-to-build-deeper-supply-chain-of-electronics-manufacturing-vaishnaw/133349479",
+       "sector": "Industrials",
+       "country": "IN",
+       "quote": ""
+      },
+      {
+       "publisher": "Logistics Manager",
+       "title": "Webinar: Building \u2f00supply chain\u2f01 resilience navigating uncertainty, disruption and change",
+       "url": "https://www.logisticsmanager.com/webinar-building-supply-chain-resilience-navigating-uncertainty-disruption-and-change/",
+       "sector": "Supply chain",
+       "country": "GB",
+       "quote": "The post Webinar: Building \u2f00supply chain\u2f01 resilience navigating uncertainty, disruption and change appeared first on Logistics Manager ."
+      },
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "Taiwan seeks shift from drone supplier to strategic partner in entering US market",
+       "url": "https://www.digitimes.com/news/a20260819VL209/taiwan-supplier-market-supply-chain-manufacturing.html",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026rategic partner in the global drone \u2f00supply chain\u2f01. The discussion takes place at a time when drones have become the frontier of warfare, and countries such as\u2026"
+      }
+     ]
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "Waste Management Review",
+     "title": "New TSA data strengthens case for mandatory tyre stewardship",
+     "url": "https://wastemanagementreview.com.au/new-tsa-data-strengthens-case-for-mandatory-tyre-stewardship/",
+     "sector": "Waste & water",
+     "quote": "\u2026tyre stewardship appeared first on \u2f00Waste Management\u2f01 Review ."
+    },
+    {
+     "publisher": "Waste Management Review",
+     "title": "Penske names 2026 Master Technicians",
+     "url": "https://wastemanagementreview.com.au/penske-names-2026-master-technicians/",
+     "sector": "Waste & water",
+     "quote": "\u2026aster Technicians appeared first on \u2f00Waste Management\u2f01 Review ."
+    },
+    {
+     "publisher": "Waste Management Review",
+     "title": "New program to increase circular economy of construction sector",
+     "url": "https://wastemanagementreview.com.au/new-program-to-increase-circular-economy-of-construction-sector/",
+     "sector": "Waste & water",
+     "quote": "\u2026nstruction sector appeared first on \u2f00Waste Management\u2f01 Review ."
+    },
+    {
+     "publisher": "Waste Management Review",
+     "title": "Petition calls for ministers to act on EPR regulation",
+     "url": "https://wastemanagementreview.com.au/petition-calls-for-ministers-to-act-on-epr-regulation/",
+     "sector": "Waste & water",
+     "quote": "\u2026on EPR regulation appeared first on \u2f00Waste Management\u2f01 Review ."
+    }
+   ]
+  },
+  {
    "prior14d": 1,
    "direction": "rising",
    "ticker": "GS",
    "name": "Goldman Sachs",
    "sector": "Finance",
    "borrowed": [
-    "energy infrastructure"
+    "energy infrastructure",
+    "drone strike"
    ],
    "articles": 14,
    "articles14d": 6,
@@ -5571,51 +5764,23 @@
      ]
     },
     {
-     "term": "artificial intelligence",
-     "id": "artificial-intelligence",
-     "articles": 1,
-     "home": "Technology",
-     "shown": false,
-     "sectors": 10,
-     "direction": "falling",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "Healthcare Dive",
-       "title": "Epic targets outpatient visits with new AI tool",
-       "url": "https://www.healthcaredive.com/news/epic-targets-outpatient-visits-with-new-ai-tool/828230/",
-       "sector": "Healthcare",
-       "country": "US",
-       "quote": "\u2026e visit tool, which leans on Epic's \u2f00artificial intelligence\u2f01 capabilities to pull insights from patient records."
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Socionext taps Intel 18A-P process for high-performance compute chiplet development",
-       "url": "https://www.digitimes.com/news/a20260819PR201/socionext-soc-intel-intel-foundry-silicon.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026s data centers, edge computing, and \u2f00artificial intelligence\u2f01 (AI)."
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "TAITRA Chair: Taiwan's economy relies on AI capex; warns of weak ROI risk",
-       "url": "https://www.digitimes.com/news/a20260819PD218/taiwan-taitra-2026-economy-capex.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026g at the opening of the 2026 Taiwan \u2f00Artificial Intelligence\u2f01 Conference on August 18, Taiwan External Trade Development Council (TAITRA) Chairman James C.F. Huang urged e\u2026"
-      }
-     ]
-    },
-    {
      "term": "drone strike",
      "id": "drone-strike",
      "articles": 1,
      "home": "Energy",
-     "shown": false,
+     "shown": true,
      "sectors": 2,
      "direction": "steady",
      "variants": [],
      "examples": [
+      {
+       "publisher": "Seatrade Maritime",
+       "title": "Bulker pounded by five \u2f00drone strikes\u2f01 in Black Sea",
+       "url": "https://www.seatrade-maritime.com/security/bulker-pounded-by-five-drone-strikes-in-black-sea",
+       "sector": "Supply chain",
+       "country": "SG",
+       "quote": ""
+      },
       {
        "publisher": "OilPrice",
        "title": "Fire Breaks Out at Rosneft-Owned Refinery After Ukrainian \u2f00Drone Strike\u2f01",
@@ -5631,14 +5796,42 @@
        "sector": "Supply chain",
        "country": "SG",
        "quote": "\u2026IMS has suffered another Black Sea \u2f00drone strike\u2f01, with its suezmax Skiros hit on the bridge while loading oil off Novorossiysk, Russia. Footage obtained by Gr\u2026"
+      }
+     ]
+    },
+    {
+     "term": "artificial intelligence",
+     "id": "artificial-intelligence",
+     "articles": 1,
+     "home": "Technology",
+     "shown": false,
+     "sectors": 10,
+     "direction": "falling",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "Payments Dive",
+       "title": "Stripe acquisition may bolster its AI strategy",
+       "url": "https://www.paymentsdive.com/news/stripe-openrouter-acquisition-may-bolster-its-ai-strategy/828216/",
+       "sector": "Finance",
+       "country": "US",
+       "quote": "\u2026et itself up to be at the center of \u2f00artificial intelligence\u2f01 token payments."
       },
       {
-       "publisher": "OilPrice",
-       "title": "\u2f00Drone Strike\u2f01 Sparks Blaze at Key Russian Oil and Fuel Terminal",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Drone-Strike-Sparks-Blaze-at-Key-Russian-Oil-and-Fuel-Terminal.html",
-       "sector": "Energy",
+       "publisher": "Healthcare Dive",
+       "title": "Epic targets outpatient visits with new AI tool",
+       "url": "https://www.healthcaredive.com/news/epic-targets-outpatient-visits-with-new-ai-tool/828230/",
+       "sector": "Healthcare",
        "country": "US",
-       "quote": ""
+       "quote": "\u2026e visit tool, which leans on Epic's \u2f00artificial intelligence\u2f01 capabilities to pull insights from patient records."
+      },
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "Socionext taps Intel 18A-P process for high-performance compute chiplet development",
+       "url": "https://www.digitimes.com/news/a20260819PR201/socionext-soc-intel-intel-foundry-silicon.html",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026s data centers, edge computing, and \u2f00artificial intelligence\u2f01 (AI)."
       }
      ]
     },
@@ -5654,6 +5847,14 @@
      "examples": [
       {
        "publisher": "Commercial Observer",
+       "title": "Investors Are Gaining More Confidence in Office: Survey",
+       "url": "https://commercialobserver.com/2026/08/investors-confidence-office-situsamc-survey/",
+       "sector": "Real estate",
+       "country": "US",
+       "quote": "\u2026in 2026. Preference from commercial \u2f00real estate\u2f01 investors for office transactions reached 11 percent in the second quarter. That compares to just 4 percent i\u2026"
+      },
+      {
+       "publisher": "Commercial Observer",
        "title": "REITs Report Strong Q2 Results Even as Interest Rates Weigh on Investor Sentiment",
        "url": "https://commercialobserver.com/2026/08/reits-q2-hoya-capital-investors-report/",
        "sector": "Real estate",
@@ -5667,14 +5868,6 @@
        "sector": "Real estate",
        "country": "US",
        "quote": "\u2026out selling a mixture of commercial \u2f00real estate\u2f01 assets across the New York City region as part of an estate sale produced a winning result. A joint venture [\u2026"
-      },
-      {
-       "publisher": "ET Realty",
-       "title": "Builders line up to buy bankrupt developers as land prices rise",
-       "url": "https://realty.economictimes.indiatimes.com/news/industry/builders-line-up-to-buy-bankrupt-developers-as-land-prices-rise/133336465",
-       "sector": "Real estate",
-       "country": "IN",
-       "quote": "\u2026y proceedings to acquire distressed \u2f00real estate\u2f01 companies as land prices soar in major cities. With projects, development rights and urban assets on offer, N\u2026"
       }
      ]
     }
@@ -5911,8 +6104,8 @@
    "borrowed": [
     "regulatory approval"
    ],
-   "articles": 43,
-   "articles14d": 38,
+   "articles": 44,
+   "articles14d": 39,
    "terms": [
     {
      "term": "regulatory approval",
@@ -6029,6 +6222,13 @@
    "examples": [
     {
      "publisher": "Container News",
+     "title": "\u2f00Maersk\u2f01 cancels AE15 sailing from Qingdao in week 37",
+     "url": "https://container-news.com/maersk-cancels-ae15-sailing-from-qingdao-in-week-37/",
+     "sector": "Supply chain",
+     "quote": "\u2f00Maersk\u2f01 has announced a sailing cancellation on its AE15 service as part of a schedule adjustment in week 37. The aff\u2026"
+    },
+    {
+     "publisher": "Container News",
      "title": "\u2f00Maersk\u2f01 removes equipment positioning charge for Zambia imports",
      "url": "https://container-news.com/maersk-removes-equipment-positioning-charge-for-zambia-imports/",
      "sector": "Supply chain",
@@ -6047,169 +6247,6 @@
      "url": "https://container-news.com/maersk-introduces-us500-pss-from-east-africa-to-north-europe/",
      "sector": "Supply chain",
      "quote": "\u2f00Maersk\u2f01 will introduce a Peak Season Surcharge (PSS) for cargo moving from East Africa to five European markets. The\u2026"
-    },
-    {
-     "publisher": "Container News",
-     "title": "\u2f00Maersk\u2f01 updates intermodal fuel fees in UK and Ireland",
-     "url": "https://container-news.com/maersk-updates-intermodal-fuel-fees-in-uk-and-ireland/",
-     "sector": "Supply chain",
-     "quote": "\u2f00Maersk\u2f01 has updated its Intermodal Fuel Fee (EFS/IFS) for truck transportation in the United Kingdom and the Republic\u2026"
-    }
-   ]
-  },
-  {
-   "prior14d": 7,
-   "direction": "rising",
-   "ticker": "WM",
-   "name": "Waste Management",
-   "sector": "Waste & water",
-   "borrowed": [
-    "energy infrastructure",
-    "clean energy"
-   ],
-   "articles": 30,
-   "articles14d": 23,
-   "terms": [
-    {
-     "term": "energy infrastructure",
-     "id": "energy-infrastructure",
-     "articles": 1,
-     "home": "Energy",
-     "shown": true,
-     "sectors": 4,
-     "direction": "steady",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "OilPrice",
-       "title": "Fire Breaks Out at Rosneft-Owned Refinery After Ukrainian Drone Strike",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Fire-Breaks-Out-at-Rosneft-Owned-Refinery-After-Ukrainian-Drone-Strike.html",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026as Kyiv continues to pound Russian \u2f00energy infrastructure\u2f01 to reduce Russian fuel supply. One of the refineries in Ufa, in the Bashkortostan republic, caught fire as a\u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "U.S. Diesel Reserves Sit Near 23-Year Lows",
-       "url": "https://oilprice.com/Energy/Gas-Prices/US-Diesel-Reserves-Sit-Near-23-Year-Lows.html",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026Russia-Ukraine war, strikes against \u2f00energy infrastructure\u2f01, and continued disruptions around the Strait of Hormuz are fueling the refined-products \"perfect storm\" we ha\u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Solar Surpasses Wind In Global Electricity Generation For The First Time",
-       "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/Solar-Surpasses-Wind-In-Global-Electricity-Generation-For-The-First-Time.html",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026a major challenge, and the world's \u2f00energy infrastructure\u2f01 was built around fossil fuels. But the direction seemed clear. It has been a long time coming, but the number\u2026"
-      }
-     ]
-    },
-    {
-     "term": "clean energy",
-     "id": "clean-energy",
-     "articles": 1,
-     "home": "Energy",
-     "shown": true,
-     "sectors": 5,
-     "direction": "falling",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "Renewable Energy World",
-       "title": "European \u2f00clean energy\u2f01 developers show a renewed appetite for risk",
-       "url": "https://www.renewableenergyworld.com/energy-business/new-project-development/european-clean-energy-developers-show-a-renewed-appetite-for-risk/",
-       "sector": "Utilities",
-       "country": "US",
-       "quote": ""
-      },
-      {
-       "publisher": "Energy Live News",
-       "title": "Net Hero Podcast How just is the transition?",
-       "url": "https://www.energylivenews.com/2026/08/19/net-hero-podcast-how-just-is-the-transition/",
-       "sector": "Utilities",
-       "country": "GB",
-       "quote": "\u2026orkers are being left behind in the \u2f00clean energy\u2f01 revolution The post Net Hero Podcast How just is the transition? appeared first on Energy Live News ."
-      },
-      {
-       "publisher": "ET Energyworld",
-       "title": "NHPC J&K project may get \u20b918,700 cr subordinated debt",
-       "url": "https://energy.economictimes.indiatimes.com/news/power/nhpc-jk-project-may-get-18700-cr-subordinated-debt/133336449",
-       "sector": "Energy",
-       "country": "IN",
-       "quote": "\u2026ammu & Kashmir as India accelerates \u2f00clean energy\u2f01 capacity on western rivers."
-      }
-     ]
-    },
-    {
-     "term": "supply chain",
-     "id": "supply-chain",
-     "articles": 1,
-     "home": "Technology",
-     "shown": false,
-     "sectors": 8,
-     "direction": "falling",
-     "variants": [
-      "global supply chain",
-      "supply chain resilience"
-     ],
-     "examples": [
-      {
-       "publisher": "Logistics Manager",
-       "title": "Webinar: Building \u2f00supply chain\u2f01 resilience navigating uncertainty, disruption and change",
-       "url": "https://www.logisticsmanager.com/webinar-building-supply-chain-resilience-navigating-uncertainty-disruption-and-change/",
-       "sector": "Supply chain",
-       "country": "GB",
-       "quote": "The post Webinar: Building \u2f00supply chain\u2f01 resilience navigating uncertainty, disruption and change appeared first on Logistics Manager ."
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Taiwan seeks shift from drone supplier to strategic partner in entering US market",
-       "url": "https://www.digitimes.com/news/a20260819VL209/taiwan-supplier-market-supply-chain-manufacturing.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026rategic partner in the global drone \u2f00supply chain\u2f01. The discussion takes place at a time when drones have become the frontier of warfare, and countries such as\u2026"
-      },
-      {
-       "publisher": "The Register",
-       "title": "Baidu says Chinese buyers want local AI chips due to \u2018\u2f00supply chain\u2f01' issues",
-       "url": "https://www.theregister.com/systems/2026/08/19/baidu-says-chinese-buyers-want-local-ai-chips-due-to-supply-chain-issues/5289377",
-       "sector": "Technology",
-       "country": "US",
-       "quote": ""
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "Waste Management Review",
-     "title": "New TSA data strengthens case for mandatory tyre stewardship",
-     "url": "https://wastemanagementreview.com.au/new-tsa-data-strengthens-case-for-mandatory-tyre-stewardship/",
-     "sector": "Waste & water",
-     "quote": "\u2026tyre stewardship appeared first on \u2f00Waste Management\u2f01 Review ."
-    },
-    {
-     "publisher": "Waste Management Review",
-     "title": "Penske names 2026 Master Technicians",
-     "url": "https://wastemanagementreview.com.au/penske-names-2026-master-technicians/",
-     "sector": "Waste & water",
-     "quote": "\u2026aster Technicians appeared first on \u2f00Waste Management\u2f01 Review ."
-    },
-    {
-     "publisher": "Waste Management Review",
-     "title": "New program to increase circular economy of construction sector",
-     "url": "https://wastemanagementreview.com.au/new-program-to-increase-circular-economy-of-construction-sector/",
-     "sector": "Waste & water",
-     "quote": "\u2026nstruction sector appeared first on \u2f00Waste Management\u2f01 Review ."
-    },
-    {
-     "publisher": "Waste Management Review",
-     "title": "Petition calls for ministers to act on EPR regulation",
-     "url": "https://wastemanagementreview.com.au/petition-calls-for-ministers-to-act-on-epr-regulation/",
-     "sector": "Waste & water",
-     "quote": "\u2026on EPR regulation appeared first on \u2f00Waste Management\u2f01 Review ."
     }
    ]
   },
@@ -6980,6 +7017,14 @@
      "examples": [
       {
        "publisher": "OilPrice",
+       "title": "EIA Shows \u2f00Crude Oil\u2f01 Inventories Still Rising",
+       "url": "https://oilprice.com/Energy/Crude-Oil/EIA-Shows-Crude-Oil-Inventories-Still-Rising.html",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2f00Crude oil\u2f01 inventories in the United States saw a massive increase of 4.4 million barrels during the week ending August\u2026"
+      },
+      {
+       "publisher": "OilPrice",
        "title": "Murban Crude Jumps to 4-Month High as ADNOC Curbs Supply to Asia",
        "url": "https://oilprice.com/Latest-Energy-News/World-News/Murban-Crude-Jumps-to-4-Month-High-as-ADNOC-Curbs-Supply-to-Asia.html",
        "sector": "Energy",
@@ -6993,14 +7038,6 @@
        "sector": "Utilities",
        "country": "US",
        "quote": ""
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Chinese Oil Tankers Turn Back as Hormuz Risks Mount",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinese-Oil-Tankers-Turn-Back-as-Hormuz-Risks-Mount.html",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026of the supertankers, Sea V, loaded \u2f00crude oil\u2f01 in Iraq and set off for Hormuz yesterday, but turned back and is now idling in the waterway, the data showed.\u2026"
       }
      ]
     }
@@ -22235,8 +22272,8 @@
   ]
  },
  "daysCollected": 114,
- "articlesStored": 11038,
- "articlesLive": 7288,
+ "articlesStored": 11050,
+ "articlesLive": 7300,
  "windowDays": 90,
  "terms": [
   {
@@ -22437,7 +22474,7 @@
      "steady",
      2,
      2,
-     346.9,
+     347.7,
      [
       {
        "title": "Michelin to stay the course on India investments despite global cost pressures",
@@ -22454,7 +22491,7 @@
      "steady",
      2,
      2,
-     115.6,
+     115.9,
      [
       {
        "title": "Rattled supply chains: Over half of Taiwan firms feel the squeeze of US-Iran conflict",
@@ -23159,7 +23196,7 @@
      "steady",
      2,
      2,
-     511.2,
+     512.4,
      [
       {
        "title": "China Added More Nuclear Power In A Decade Than The Rest Of The World Combined",
@@ -23176,7 +23213,7 @@
      "new",
      4,
      0,
-     255.6,
+     256.2,
      [
       {
        "title": "HD Hyundai Heavy Industries Wins 956 Billion-Won Power Generation Deal for U.S. Data Centers",
@@ -23193,7 +23230,7 @@
      "new",
      4,
      0,
-     102.2,
+     102.5,
      [
       {
        "title": "China's Renewables Boom Faces Record Clean Power Curtailments",
@@ -23217,7 +23254,7 @@
      "new",
      4,
      0,
-     85.2,
+     85.4,
      [
       {
        "title": "China's Renewables Boom Faces Record Clean Power Curtailments",
@@ -25183,11 +25220,11 @@
    "cooc": [
     [
      "drone campaign",
-     0.57,
+     0.5,
      "new",
      4,
      0,
-     359.7,
+     360.6,
      [
       {
        "title": "Drone strikes put Libya's Zawiya oil hub at risk",
@@ -25209,9 +25246,9 @@
      "drone strike",
      1.0,
      "new",
-     7,
+     8,
      0,
-     209.8,
+     216.4,
      [
       {
        "title": "Fire Breaks Out at Rosneft-Owned Refinery After Ukrainian \u2f00Drone Strike\u2f01",
@@ -25245,11 +25282,11 @@
     ],
     [
      "fuel supply",
-     0.43,
+     0.5,
      "new",
-     3,
+     4,
      0,
-     115.6,
+     154.5,
      [
       {
        "title": "Fire Breaks Out at Rosneft-Owned Refinery After Ukrainian Drone Strike",
@@ -25262,11 +25299,11 @@
     ],
     [
      "power generation",
-     0.57,
+     0.5,
      "new",
      4,
      0,
-     56.8,
+     56.9,
      [
       {
        "title": "HD Hyundai Heavy Industries Wins 956 Billion-Won \u2f00Power Generation\u2f01 Deal for U.S. Data Centers",
@@ -25279,7 +25316,7 @@
     ],
     [
      "supply chain",
-     0.29,
+     0.25,
      "steady",
      2,
      2,
@@ -25291,6 +25328,23 @@
        "publisher": "DigiTimes Asia",
        "sector": "Technology",
        "quote": "\u2026momentum that could ripple through \u2f00supply chains\u2f01 worldwide. Analysts say continued spending by cloud, AI, and industrial customers remains a key support for t\u2026"
+      }
+     ]
+    ],
+    [
+     "artificial intelligence",
+     0.25,
+     "steady",
+     2,
+     2,
+     4.0,
+     [
+      {
+       "title": "AI boom puts shipowners in race with tech giants for engines",
+       "url": "https://splash247.com/ai-boom-puts-shipowners-in-race-with-tech-giants-for-engines/",
+       "publisher": "Splash247",
+       "sector": "Supply chain",
+       "quote": "\u2026ngine contract, underlining how the \u2f00artificial intelligence\u2f01 boom is opening a huge new market for marine equipment manufacturers and potentially creating another supply\u2026"
       }
      ]
     ]
@@ -25954,7 +26008,7 @@
      "new",
      4,
      0,
-     588.6,
+     590.1,
      [
       {
        "title": "Taiwan's carbon fee era begins, science parks roll out measures",
@@ -25978,7 +26032,7 @@
      "steady",
      2,
      2,
-     294.3,
+     295.0,
      [
       {
        "title": "Kaohsiung mayor, BOT, SEMI address low-carbon power for chips, AI",
@@ -25995,7 +26049,7 @@
      "new",
      4,
      0,
-     5.8,
+     5.7,
      [
       {
        "title": "AI Set to Extend Fossil Fuel Dominance",
@@ -26541,7 +26595,7 @@
      "new",
      6,
      0,
-     560.3,
+     561.7,
      [
       {
        "title": "Drone Attack Hits Power Plant at Key Libyan Oil Hub",
@@ -26565,7 +26619,7 @@
      "new",
      4,
      0,
-     373.5,
+     374.5,
      [
       {
        "title": "Drone Attack Hits Power Plant at Key Libyan \u2f00Oil Hub\u2f01",
@@ -26589,7 +26643,7 @@
      "new",
      4,
      0,
-     298.8,
+     299.6,
      [
       {
        "title": "Drone Attack Hits Power Plant at Key Libyan Oil Hub",
@@ -26609,11 +26663,11 @@
     ],
     [
      "energy infrastructure",
-     0.5,
+     0.67,
      "new",
-     3,
+     4,
      0,
-     62.3,
+     83.2,
      [
       {
        "title": "Fire Breaks Out at Rosneft-Owned Refinery After Ukrainian Drone Strike",
@@ -26637,7 +26691,7 @@
      "steady",
      2,
      2,
-     57.5,
+     53.5,
      [
       {
        "title": "FESCO suspends \u2f00Black Sea\u2f01 bookings after vessel sinking",
@@ -27393,7 +27447,7 @@
      "rising",
      4,
      2,
-     142.8,
+     143.2,
      [
       {
        "title": "Why Illinois has struggled to turn old coal sites into solar farms",
@@ -27417,7 +27471,7 @@
      "new",
      6,
      0,
-     61.2,
+     61.4,
      [
       {
        "title": "Trump Is Spending Billions On The Minerals That Power EVs",
@@ -29224,7 +29278,7 @@
      "steady",
      4,
      4,
-     346.9,
+     347.7,
      [
       {
        "title": "Middle East War Pushes China Toward the Arctic Trade Route",
@@ -29248,7 +29302,7 @@
      "rising",
      6,
      2,
-     173.4,
+     173.9,
      [
       {
        "title": "Houthis Claim Third Attack on Saudi Aramco Refinery in Two Weeks",
@@ -29279,7 +29333,7 @@
      "new",
      4,
      0,
-     138.7,
+     139.1,
      [
       {
        "title": "Red Sea transits: selectivity rules for liners as the arithmetic changes",
@@ -29303,7 +29357,7 @@
      "steady",
      2,
      2,
-     115.6,
+     115.9,
      [
       {
        "title": "Insurers pull war-risk cover from swathe of Red Sea",
@@ -29337,7 +29391,7 @@
      "steady",
      2,
      2,
-     7.7,
+     7.6,
      [
       {
        "title": "Asian Refiners Seek Alternative Pickup Point for Saudi Crude",
@@ -29950,7 +30004,7 @@
      "new",
      4,
      0,
-     89.9,
+     90.1,
      [
       {
        "title": "Edify reaches renewable energy milestone",
@@ -31202,7 +31256,7 @@
      "new",
      4,
      0,
-     121.4,
+     121.7,
      [
       {
        "title": "Trump Is Spending Billions On The Minerals That Power EVs",
@@ -31796,7 +31850,7 @@
      "new",
      4,
      0,
-     277.5,
+     278.2,
      [
       {
        "title": "Oil Majors Reap $93 Billion Windfall From the Iran War",
@@ -32378,7 +32432,7 @@
      "new",
      4,
      0,
-     134.9,
+     135.2,
      [
       {
        "title": "Romania Shuts Down Last Nuclear Reactor As Danube Hits 90-Year Low",
@@ -33610,7 +33664,7 @@
      "new",
      6,
      0,
-     107.1,
+     107.4,
      [
       {
        "title": "\u2f00Copenhagen Infrastructure Partners\u2f01 reaches commercial operations on 500MW BESS in Scotland",
@@ -33641,7 +33695,7 @@
      "new",
      4,
      0,
-     71.4,
+     71.6,
      []
     ],
     [
@@ -33650,7 +33704,7 @@
      "new",
      4,
      0,
-     47.6,
+     47.7,
      [
       {
        "title": "LGES, Lopal sign three-year LFP supply deal worth up to CNY27 billion",
@@ -33674,7 +33728,7 @@
      "new",
      4,
      0,
-     40.8,
+     40.9,
      [
       {
        "title": "British firm bets on aluminium to break \u2f00lithium battery\u2f01 dependence",
@@ -33691,7 +33745,7 @@
      "steady",
      2,
      2,
-     35.7,
+     35.8,
      []
     ],
     [
@@ -34904,7 +34958,7 @@
      "rising",
      6,
      2,
-     173.4,
+     173.9,
      [
       {
        "title": "Houthis Claim Third Attack on Saudi Aramco Refinery in Two Weeks",
@@ -35626,7 +35680,7 @@
      "rising",
      4,
      2,
-     255.6,
+     256.2,
      [
       {
        "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
@@ -35650,7 +35704,7 @@
      "steady",
      2,
      2,
-     127.8,
+     128.1,
      [
       {
        "title": "US DOE closes US$489 million loan with Pattern Energy to support BESS, natural gas in Puerto Rico",
@@ -35667,7 +35721,7 @@
      "steady",
      4,
      4,
-     102.2,
+     102.5,
      [
       {
        "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
@@ -35698,7 +35752,7 @@
      "steady",
      2,
      2,
-     85.2,
+     85.4,
      [
       {
        "title": "Phinia third sustainability report cites 35% emissions cut",
@@ -35715,7 +35769,7 @@
      "new",
      4,
      0,
-     51.1,
+     51.2,
      [
       {
        "title": "New Zealand Approves New Oil and Gas Production as \u2f00Energy Security\u2f01 Concerns Grow",
@@ -36215,7 +36269,7 @@
     "gas production"
    ],
    "docFreq": 0.0036,
-   "specificity": 0.88,
+   "specificity": 0.881,
    "homeShare": 0.656,
    "daysSeen": 11,
    "rank": 0.913
@@ -36387,7 +36441,7 @@
      "new",
      4,
      0,
-     277.5,
+     278.2,
      [
       {
        "title": "Oil Majors Reap $93 Billion Windfall From the Iran War",
@@ -36411,7 +36465,7 @@
      "new",
      4,
      0,
-     173.4,
+     173.9,
      [
       {
        "title": "Solar Surpasses Wind In Global Electricity Generation For The First Time",
@@ -36435,7 +36489,7 @@
      "steady",
      2,
      2,
-     138.7,
+     139.1,
      [
       {
        "title": "Europe's Next \u2f00Energy Crisis\u2f01 Won't Be a War, It'll Be Peak Oil",
@@ -36452,7 +36506,7 @@
      "new",
      6,
      0,
-     61.2,
+     61.4,
      [
       {
        "title": "Trump Is Spending Billions On The Minerals That Power EVs",
@@ -36483,7 +36537,7 @@
      "steady",
      2,
      2,
-     38.5,
+     38.6,
      [
       {
        "title": "Oil Majors Reap $93 Billion Windfall From the \u2f00Iran War\u2f01",
@@ -38235,7 +38289,7 @@
      "steady",
      4,
      4,
-     12.7,
+     12.6,
      [
       {
        "title": "OCP: Murata upgrades power, optical products as AI \u2f00data centers\u2f01 strain global infrastructure",
@@ -38835,7 +38889,7 @@
      "new",
      4,
      0,
-     179.9,
+     180.3,
      [
       {
        "title": "When heat becomes a stress test: What extreme temperatures mean for photovoltaic systems and battery storage",
@@ -38859,7 +38913,7 @@
      "steady",
      6,
      0,
-     24.3,
+     24.2,
      [
       {
        "title": "U.S. Power Grid Strains Under Record Electricity Demand",
@@ -38890,7 +38944,7 @@
      "new",
      4,
      0,
-     16.4,
+     16.3,
      [
       {
        "title": "Oil Shocks Could Accelerate EV Adoption, WoodMac Says",
@@ -39352,6 +39406,660 @@
    "rank": 0.692
   },
   {
+   "id": "drone-strike",
+   "term": "drone strike",
+   "direction": "steady",
+   "display": true,
+   "adoptionSpan": 4,
+   "pace": "simultaneous",
+   "kind": "concept",
+   "sectorCount": 2,
+   "effectiveSectors": 1.99,
+   "newestSector": "Energy",
+   "daysSinceNewestSector": 16,
+   "articles14d": 10,
+   "articlesPrior14d": 3,
+   "publishers": 3,
+   "topPubShare": 0.6,
+   "sectors": [
+    {
+     "name": "Supply chain",
+     "firstSeen": "2026-07-30",
+     "recent": 4,
+     "articles": 6,
+     "share": 0.4,
+     "atSectorStart": false,
+     "adopt": 69
+    },
+    {
+     "name": "Energy",
+     "firstSeen": "2026-08-03",
+     "recent": 6,
+     "articles": 7,
+     "share": 0.6,
+     "atSectorStart": false,
+     "adopt": 73
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "US",
+     7
+    ],
+    [
+     "SG",
+     6
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-05-22",
+     "2026-05-29",
+     "2026-06-05",
+     "2026-06-12",
+     "2026-06-19",
+     "2026-06-26",
+     "2026-07-03",
+     "2026-07-10",
+     "2026-07-17",
+     "2026-07-24",
+     "2026-07-31",
+     "2026-08-07",
+     "2026-08-14"
+    ],
+    "bands": [
+     {
+      "sector": "Energy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       2,
+       3,
+       2
+      ]
+     },
+     {
+      "sector": "Supply chain",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       1,
+       2,
+       2
+      ]
+     }
+    ]
+   },
+   "cooc": [
+    [
+     "oil hub",
+     0.5,
+     "new",
+     4,
+     0,
+     486.8,
+     [
+      {
+       "title": "Drone strikes put Libya's Zawiya \u2f00oil hub\u2f01 at risk",
+       "url": "https://splash247.com/drone-strikes-put-libyas-zawiya-oil-hub-at-risk/",
+       "publisher": "Splash247",
+       "sector": "Supply chain",
+       "quote": ""
+      },
+      {
+       "title": "Libya Weighs Force Majeure After Drone Attacks on Zawiya \u2f00Oil Hub\u2f01",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Libya-Weighs-Force-Majeure-After-Drone-Attacks-on-Zawiya-Oil-Hub.html",
+       "publisher": "OilPrice",
+       "sector": "Energy",
+       "quote": "\u2026eclaration. According to reports, a \u2f00drone strike\u2f01 had destroyed a storage tank and another drone had targeted an oil blending facility at the Zawya terminal. T\u2026"
+      }
+     ]
+    ],
+    [
+     "black sea",
+     0.88,
+     "rising",
+     7,
+     2,
+     243.4,
+     [
+      {
+       "title": "Bulker pounded by five drone strikes in \u2f00Black Sea\u2f01",
+       "url": "https://www.seatrade-maritime.com/security/bulker-pounded-by-five-drone-strikes-in-black-sea",
+       "publisher": "Seatrade Maritime",
+       "sector": "Supply chain",
+       "quote": ""
+      },
+      {
+       "title": "Second IMS tanker hit in \u2f00Black Sea\u2f01 drone campaign",
+       "url": "https://splash247.com/second-ims-tanker-hit-in-black-sea-drone-campaign/",
+       "publisher": "Splash247",
+       "sector": "Supply chain",
+       "quote": "\u2026nker owner IMS has suffered another \u2f00Black Sea\u2f01 drone strike, with its suezmax Skiros hit on the bridge while loading oil off Novorossiysk, Russia. Footage o\u2026"
+      },
+      {
+       "title": "Kazakhstan Weighs New Routes as Drone Strikes Squeeze \u2f00Black Sea\u2f01 Oil Exports",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Kazakhstan-Weighs-New-Routes-as-Drone-Strikes-Squeeze-Black-Sea-Oil-Exports.html",
+       "publisher": "OilPrice",
+       "sector": "Energy",
+       "quote": "\u2026its crude oil exports away from its \u2f00Black Sea\u2f01 export terminal and on pipelines through Azerbaijan, Georgia, and Turkey amid continued threats to its shipme\u2026"
+      },
+      {
+       "title": "\u2f00Black Sea\u2f01 drone strikes send CPC tanker rates to $400,000 a day",
+       "url": "https://www.seatrade-maritime.com/security/black-sea-drone-strikes-send-cpc-tanker-rates-to-400-000-a-day",
+       "publisher": "Seatrade Maritime",
+       "sector": "Supply chain",
+       "quote": "\u2026ng war risk costs deter owners from \u2f00Black Sea\u2f01 trades."
+      }
+     ]
+    ],
+    [
+     "energy infrastructure",
+     1.0,
+     "new",
+     8,
+     0,
+     216.4,
+     [
+      {
+       "title": "Fire Breaks Out at Rosneft-Owned Refinery After Ukrainian Drone Strike",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Fire-Breaks-Out-at-Rosneft-Owned-Refinery-After-Ukrainian-Drone-Strike.html",
+       "publisher": "OilPrice",
+       "sector": "Energy",
+       "quote": "\u2026as Kyiv continues to pound Russian \u2f00energy infrastructure\u2f01 to reduce Russian fuel supply. One of the refineries in Ufa, in the Bashkortostan republic, caught fire as a\u2026"
+      },
+      {
+       "title": "Drone strikes put Libya's Zawiya oil hub at risk",
+       "url": "https://splash247.com/drone-strikes-put-libyas-zawiya-oil-hub-at-risk/",
+       "publisher": "Splash247",
+       "sector": "Supply chain",
+       "quote": "\u2026A succession of drones has targeted \u2f00energy infrastructure\u2f01 around Zawiya, approximately 40 km west of Tripoli, hitting the refinery complex, fuel storage \u2026"
+      },
+      {
+       "title": "Ukrainian Drone Strike Kills 12 in Major Attack on Russian Refining Hub",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Ukrainian-Drone-Strike-Kills-12-in-Major-Attack-on-Russian-Refining-Hub.html",
+       "publisher": "OilPrice",
+       "sector": "Energy",
+       "quote": "\u2026of the deadliest attacks on Russian \u2f00energy infrastructure\u2f01 since the beginning of the war four and a half years ago. Tatneft's Taneco refinery,\u2026"
+      },
+      {
+       "title": "U.S. Diesel Exports Hit Record High as Global Supply Crunch Deepens",
+       "url": "https://oilprice.com/Energy/Energy-General/US-Diesel-Exports-Hit-Record-High-as-Global-Supply-Crunch-Deepens.html",
+       "publisher": "OilPrice",
+       "sector": "Energy",
+       "quote": "\u2026have paralyzed portions of Russia's \u2f00energy infrastructure\u2f01, have been a major boon for US refiners and export terminals along the Gulf of America. To begin the week, Sa\u2026"
+      }
+     ]
+    ]
+   ],
+   "examples": [
+    {
+     "publisher": "Seatrade Maritime",
+     "title": "Bulker pounded by five \u2f00drone strikes\u2f01 in Black Sea",
+     "url": "https://www.seatrade-maritime.com/security/bulker-pounded-by-five-drone-strikes-in-black-sea",
+     "sector": "Supply chain",
+     "country": "SG",
+     "quote": ""
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Fire Breaks Out at Rosneft-Owned Refinery After Ukrainian \u2f00Drone Strike\u2f01",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Fire-Breaks-Out-at-Rosneft-Owned-Refinery-After-Ukrainian-Drone-Strike.html",
+     "sector": "Energy",
+     "country": "US",
+     "quote": ""
+    },
+    {
+     "publisher": "Splash247",
+     "title": "Second IMS tanker hit in Black Sea drone campaign",
+     "url": "https://splash247.com/second-ims-tanker-hit-in-black-sea-drone-campaign/",
+     "sector": "Supply chain",
+     "country": "SG",
+     "quote": "\u2026IMS has suffered another Black Sea \u2f00drone strike\u2f01, with its suezmax Skiros hit on the bridge while loading oil off Novorossiysk, Russia. Footage obtained by Gr\u2026"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "\u2f00Drone Strike\u2f01 Sparks Blaze at Key Russian Oil and Fuel Terminal",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Drone-Strike-Sparks-Blaze-at-Key-Russian-Oil-and-Fuel-Terminal.html",
+     "sector": "Energy",
+     "country": "US",
+     "quote": ""
+    },
+    {
+     "publisher": "Splash247",
+     "title": "\u2f00Drone strikes\u2f01 put Libya's Zawiya oil hub at risk",
+     "url": "https://splash247.com/drone-strikes-put-libyas-zawiya-oil-hub-at-risk/",
+     "sector": "Supply chain",
+     "country": "SG",
+     "quote": ""
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Libya Weighs Force Majeure After Drone Attacks on Zawiya Oil Hub",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Libya-Weighs-Force-Majeure-After-Drone-Attacks-on-Zawiya-Oil-Hub.html",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026eclaration. According to reports, a \u2f00drone strike\u2f01 had destroyed a storage tank and another drone had targeted an oil blending facility at the Zawya terminal. T\u2026"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Kazakhstan Weighs New Routes as \u2f00Drone Strikes\u2f01 Squeeze Black Sea Oil Exports",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Kazakhstan-Weighs-New-Routes-as-Drone-Strikes-Squeeze-Black-Sea-Oil-Exports.html",
+     "sector": "Energy",
+     "country": "US",
+     "quote": ""
+    },
+    {
+     "publisher": "Seatrade Maritime",
+     "title": "Black Sea \u2f00drone strikes\u2f01 send CPC tanker rates to $400,000 a day",
+     "url": "https://www.seatrade-maritime.com/security/black-sea-drone-strikes-send-cpc-tanker-rates-to-400-000-a-day",
+     "sector": "Supply chain",
+     "country": "SG",
+     "quote": ""
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Ukrainian \u2f00Drone Strike\u2f01 Kills 12 in Major Attack on Russian Refining Hub",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Ukrainian-Drone-Strike-Kills-12-in-Major-Attack-on-Russian-Refining-Hub.html",
+     "sector": "Energy",
+     "country": "US",
+     "quote": ""
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "U.S. Diesel Exports Hit Record High as Global Supply Crunch Deepens",
+     "url": "https://oilprice.com/Energy/Energy-General/US-Diesel-Exports-Hit-Record-High-as-Global-Supply-Crunch-Deepens.html",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026as well as Ukrainian one-way attack \u2f00drone strikes\u2f01 that have paralyzed portions of Russia's energy infrastructure, have been a major boon for US refiners and ex\u2026"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-05-22",
+     "n": 0
+    },
+    {
+     "day": "2026-05-23",
+     "n": 0
+    },
+    {
+     "day": "2026-05-24",
+     "n": 0
+    },
+    {
+     "day": "2026-05-25",
+     "n": 0
+    },
+    {
+     "day": "2026-05-26",
+     "n": 0
+    },
+    {
+     "day": "2026-05-27",
+     "n": 0
+    },
+    {
+     "day": "2026-05-28",
+     "n": 0
+    },
+    {
+     "day": "2026-05-29",
+     "n": 0
+    },
+    {
+     "day": "2026-05-30",
+     "n": 0
+    },
+    {
+     "day": "2026-05-31",
+     "n": 0
+    },
+    {
+     "day": "2026-06-01",
+     "n": 0
+    },
+    {
+     "day": "2026-06-02",
+     "n": 0
+    },
+    {
+     "day": "2026-06-03",
+     "n": 0
+    },
+    {
+     "day": "2026-06-04",
+     "n": 0
+    },
+    {
+     "day": "2026-06-05",
+     "n": 0
+    },
+    {
+     "day": "2026-06-06",
+     "n": 0
+    },
+    {
+     "day": "2026-06-07",
+     "n": 0
+    },
+    {
+     "day": "2026-06-08",
+     "n": 0
+    },
+    {
+     "day": "2026-06-09",
+     "n": 0
+    },
+    {
+     "day": "2026-06-10",
+     "n": 0
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 0
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 0
+    },
+    {
+     "day": "2026-06-16",
+     "n": 0
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 0
+    },
+    {
+     "day": "2026-06-19",
+     "n": 0
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 0
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 1
+    },
+    {
+     "day": "2026-07-31",
+     "n": 0
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 1
+    },
+    {
+     "day": "2026-08-04",
+     "n": 1
+    },
+    {
+     "day": "2026-08-05",
+     "n": 0
+    },
+    {
+     "day": "2026-08-06",
+     "n": 1
+    },
+    {
+     "day": "2026-08-07",
+     "n": 0
+    },
+    {
+     "day": "2026-08-08",
+     "n": 0
+    },
+    {
+     "day": "2026-08-09",
+     "n": 0
+    },
+    {
+     "day": "2026-08-10",
+     "n": 3
+    },
+    {
+     "day": "2026-08-11",
+     "n": 1
+    },
+    {
+     "day": "2026-08-12",
+     "n": 1
+    },
+    {
+     "day": "2026-08-13",
+     "n": 0
+    },
+    {
+     "day": "2026-08-14",
+     "n": 1
+    },
+    {
+     "day": "2026-08-15",
+     "n": 0
+    },
+    {
+     "day": "2026-08-16",
+     "n": 0
+    },
+    {
+     "day": "2026-08-17",
+     "n": 1
+    },
+    {
+     "day": "2026-08-18",
+     "n": 0
+    },
+    {
+     "day": "2026-08-19",
+     "n": 2
+    }
+   ],
+   "docFreq": 0.0009,
+   "specificity": 0.969,
+   "homeShare": 0.6,
+   "daysSeen": 7,
+   "rank": 0.689
+  },
+  {
    "id": "utility-scale",
    "term": "utility scale",
    "direction": "falling",
@@ -39486,7 +40194,7 @@
      "new",
      4,
      0,
-     647.5,
+     649.1,
      [
       {
        "title": "Finland adds 478 MW of large-scale solar in H1",
@@ -39510,7 +40218,7 @@
      "steady",
      2,
      2,
-     51.1,
+     51.2,
      [
       {
        "title": "Solar, storage, and staying ahead: OCI Energy's growth story",
@@ -39976,545 +40684,6 @@
    "rank": 0.671
   },
   {
-   "id": "vessel-attack",
-   "term": "vessel attack",
-   "direction": "new",
-   "display": true,
-   "adoptionSpan": 10,
-   "pace": "mixed",
-   "kind": "concept",
-   "sectorCount": 2,
-   "effectiveSectors": 2.0,
-   "newestSector": "Supply chain",
-   "daysSinceNewestSector": 2,
-   "articles14d": 6,
-   "articlesPrior14d": 0,
-   "publishers": 3,
-   "topPubShare": 0.5,
-   "sectors": [
-    {
-     "name": "Energy",
-     "firstSeen": "2026-08-07",
-     "recent": 3,
-     "articles": 3,
-     "share": 0.5,
-     "atSectorStart": false,
-     "adopt": 77
-    },
-    {
-     "name": "Supply chain",
-     "firstSeen": "2026-08-17",
-     "recent": 3,
-     "articles": 3,
-     "share": 0.5,
-     "atSectorStart": false,
-     "adopt": 87
-    }
-   ],
-   "sinceStart": false,
-   "origins": [
-    [
-     "SG",
-     3
-    ],
-    [
-     "US",
-     3
-    ]
-   ],
-   "flow": {
-    "weeks": [
-     "2026-05-22",
-     "2026-05-29",
-     "2026-06-05",
-     "2026-06-12",
-     "2026-06-19",
-     "2026-06-26",
-     "2026-07-03",
-     "2026-07-10",
-     "2026-07-17",
-     "2026-07-24",
-     "2026-07-31",
-     "2026-08-07",
-     "2026-08-14"
-    ],
-    "bands": [
-     {
-      "sector": "Energy",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       2
-      ]
-     },
-     {
-      "sector": "Supply chain",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       3
-      ]
-     }
-    ]
-   },
-   "cooc": [
-    [
-     "refined product",
-     1.0,
-     "new",
-     4,
-     0,
-     647.5,
-     [
-      {
-       "title": "ADNOC Reports 15 Vessel Attacks as Hormuz Risks Mount",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Reports-15-Vessel-Attacks-as-Hormuz-Risks-Mount.html",
-       "publisher": "OilPrice",
-       "sector": "Energy",
-       "quote": "\u2026ompany tries to keep crude, gas and \u2f00refined products\u2f01 moving through the Strait of Hormuz. Fifteen ADNOC vessels have been hit by missiles or drones since the war\u2026"
-      }
-     ]
-    ]
-   ],
-   "examples": [
-    {
-     "publisher": "OilPrice",
-     "title": "Strait of Hormuz Shipping Slows After \u2f00Vessel Attack\u2f01",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Strait-of-Hormuz-Shipping-Slows-After-Vessel-Attack.html",
-     "sector": "Energy",
-     "country": "US",
-     "quote": ""
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "U.S. Diesel Reserves Sit Near 23-Year Lows",
-     "url": "https://oilprice.com/Energy/Gas-Prices/US-Diesel-Reserves-Sit-Near-23-Year-Lows.html",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026g around $91 a barrel after another \u2f00vessel attack\u2f01 was reported near the Hormuz maritime\u2026"
-    },
-    {
-     "publisher": "Seatrade Maritime",
-     "title": "Crew injured in Hormuz \u2f00vessel attack\u2f01",
-     "url": "https://www.seatrade-maritime.com/security/crew-injured-in-hormuz-vessel-attack",
-     "sector": "Supply chain",
-     "country": "SG",
-     "quote": ""
-    },
-    {
-     "publisher": "Splash247",
-     "title": "Dark transits keep Hormuz oil flowing",
-     "url": "https://splash247.com/dark-transits-keep-hormuz-oil-flowing/",
-     "sector": "Supply chain",
-     "country": "SG",
-     "quote": "\u2026Dhabi's ADNOC has suffered another \u2f00vessel attack\u2f01 in the Strait of Hormuz even as increasingly sophisticated shuttle operations allow Gulf oil exports to keep\u2026"
-    },
-    {
-     "publisher": "Seatrade Maritime",
-     "title": "Frequency of \u2f00vessel attacks\u2f01 in Hormuz increases",
-     "url": "https://www.seatrade-maritime.com/security/frequency-of-vessel-attacks-in-hormuz-increases",
-     "sector": "Supply chain",
-     "country": "SG",
-     "quote": ""
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "ADNOC Reports 15 \u2f00Vessel Attacks\u2f01 as Hormuz Risks Mount",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Reports-15-Vessel-Attacks-as-Hormuz-Risks-Mount.html",
-     "sector": "Energy",
-     "country": "US",
-     "quote": ""
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-05-22",
-     "n": 0
-    },
-    {
-     "day": "2026-05-23",
-     "n": 0
-    },
-    {
-     "day": "2026-05-24",
-     "n": 0
-    },
-    {
-     "day": "2026-05-25",
-     "n": 0
-    },
-    {
-     "day": "2026-05-26",
-     "n": 0
-    },
-    {
-     "day": "2026-05-27",
-     "n": 0
-    },
-    {
-     "day": "2026-05-28",
-     "n": 0
-    },
-    {
-     "day": "2026-05-29",
-     "n": 0
-    },
-    {
-     "day": "2026-05-30",
-     "n": 0
-    },
-    {
-     "day": "2026-05-31",
-     "n": 0
-    },
-    {
-     "day": "2026-06-01",
-     "n": 0
-    },
-    {
-     "day": "2026-06-02",
-     "n": 0
-    },
-    {
-     "day": "2026-06-03",
-     "n": 0
-    },
-    {
-     "day": "2026-06-04",
-     "n": 0
-    },
-    {
-     "day": "2026-06-05",
-     "n": 0
-    },
-    {
-     "day": "2026-06-06",
-     "n": 0
-    },
-    {
-     "day": "2026-06-07",
-     "n": 0
-    },
-    {
-     "day": "2026-06-08",
-     "n": 0
-    },
-    {
-     "day": "2026-06-09",
-     "n": 0
-    },
-    {
-     "day": "2026-06-10",
-     "n": 0
-    },
-    {
-     "day": "2026-06-11",
-     "n": 0
-    },
-    {
-     "day": "2026-06-12",
-     "n": 0
-    },
-    {
-     "day": "2026-06-13",
-     "n": 0
-    },
-    {
-     "day": "2026-06-14",
-     "n": 0
-    },
-    {
-     "day": "2026-06-15",
-     "n": 0
-    },
-    {
-     "day": "2026-06-16",
-     "n": 0
-    },
-    {
-     "day": "2026-06-17",
-     "n": 0
-    },
-    {
-     "day": "2026-06-18",
-     "n": 0
-    },
-    {
-     "day": "2026-06-19",
-     "n": 0
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 0
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 0
-    },
-    {
-     "day": "2026-07-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 0
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 0
-    },
-    {
-     "day": "2026-08-04",
-     "n": 0
-    },
-    {
-     "day": "2026-08-05",
-     "n": 0
-    },
-    {
-     "day": "2026-08-06",
-     "n": 0
-    },
-    {
-     "day": "2026-08-07",
-     "n": 1
-    },
-    {
-     "day": "2026-08-08",
-     "n": 0
-    },
-    {
-     "day": "2026-08-09",
-     "n": 0
-    },
-    {
-     "day": "2026-08-10",
-     "n": 0
-    },
-    {
-     "day": "2026-08-11",
-     "n": 0
-    },
-    {
-     "day": "2026-08-12",
-     "n": 0
-    },
-    {
-     "day": "2026-08-13",
-     "n": 0
-    },
-    {
-     "day": "2026-08-14",
-     "n": 0
-    },
-    {
-     "day": "2026-08-15",
-     "n": 0
-    },
-    {
-     "day": "2026-08-16",
-     "n": 0
-    },
-    {
-     "day": "2026-08-17",
-     "n": 2
-    },
-    {
-     "day": "2026-08-18",
-     "n": 2
-    },
-    {
-     "day": "2026-08-19",
-     "n": 1
-    }
-   ],
-   "docFreq": 0.0006,
-   "specificity": 0.981,
-   "homeShare": 0.5,
-   "daysSeen": 4,
-   "rank": 0.67
-  },
-  {
    "id": "artificial-intelligence",
    "term": "artificial intelligence",
    "direction": "falling",
@@ -40523,20 +40692,20 @@
    "pace": "gradual",
    "kind": "concept",
    "sectorCount": 10,
-   "effectiveSectors": 4.04,
+   "effectiveSectors": 4.09,
    "newestSector": "Healthcare",
    "daysSinceNewestSector": 5,
-   "articles14d": 133,
+   "articles14d": 134,
    "articlesPrior14d": 55,
-   "publishers": 22,
-   "topPubShare": 0.391,
+   "publishers": 23,
+   "topPubShare": 0.388,
    "sectors": [
     {
      "name": "Technology",
      "firstSeen": "2026-05-31",
      "recent": 93,
      "articles": 122,
-     "share": 0.705,
+     "share": 0.699,
      "atSectorStart": false,
      "adopt": 9
     },
@@ -40572,7 +40741,7 @@
      "firstSeen": "2026-07-30",
      "recent": 10,
      "articles": 16,
-     "share": 0.076,
+     "share": 0.075,
      "atSectorStart": false,
      "adopt": 69
     },
@@ -40597,9 +40766,9 @@
     {
      "name": "Finance",
      "firstSeen": "2026-08-03",
-     "recent": 2,
-     "articles": 4,
-     "share": 0.015,
+     "recent": 3,
+     "articles": 5,
+     "share": 0.023,
      "atSectorStart": false,
      "adopt": 73
     },
@@ -40630,7 +40799,7 @@
     ],
     [
      "US",
-     55
+     56
     ],
     [
      "TW",
@@ -40757,6 +40926,24 @@
       ]
      },
      {
+      "sector": "Finance",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       2,
+       2,
+       1
+      ]
+     },
+     {
       "sector": "Materials",
       "n": [
        0,
@@ -40789,24 +40976,6 @@
        0,
        4,
        0,
-       0
-      ]
-     },
-     {
-      "sector": "Finance",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       2,
-       2,
        0
       ]
      },
@@ -40891,7 +41060,7 @@
      "new",
      4,
      0,
-     48.7,
+     48.4,
      [
       {
        "title": "OpenAI revenue chief to exit as company advances IPO preparations",
@@ -40915,7 +41084,7 @@
      "rising",
      12,
      4,
-     31.3,
+     31.1,
      [
       {
        "title": "Topoint's high-end drill bits hit 56% share ahead of schedule, aims to double capacity by end of 2028",
@@ -40967,7 +41136,7 @@
      "new",
      4,
      0,
-     29.2,
+     29.1,
      [
       {
        "title": "European industrial suppliers gain from AI \u2f00data center buildout\u2f01",
@@ -40991,7 +41160,7 @@
      "new",
      4,
      0,
-     24.3,
+     24.2,
      [
       {
        "title": "Unique Opto sees AI demand lift 1H26 results, but CPO upside remains uncertain",
@@ -41015,7 +41184,7 @@
      "steady",
      6,
      0,
-     24.3,
+     24.2,
      [
       {
        "title": "U.S. \u2f00Power Grid\u2f01 Strains Under Record Electricity Demand",
@@ -41046,7 +41215,7 @@
      "new",
      4,
      0,
-     20.9,
+     20.8,
      [
       {
        "title": "AMD Quadruples Rack-Scale \u2f00Energy Efficiency\u2f01",
@@ -41066,6 +41235,14 @@
     ]
    ],
    "examples": [
+    {
+     "publisher": "Payments Dive",
+     "title": "Stripe acquisition may bolster its AI strategy",
+     "url": "https://www.paymentsdive.com/news/stripe-openrouter-acquisition-may-bolster-its-ai-strategy/828216/",
+     "sector": "Finance",
+     "country": "US",
+     "quote": "\u2026et itself up to be at the center of \u2f00artificial intelligence\u2f01 token payments."
+    },
     {
      "publisher": "Healthcare Dive",
      "title": "Epic targets outpatient visits with new AI tool",
@@ -41153,14 +41330,6 @@
      "sector": "Technology",
      "country": "KR",
      "quote": "\u2026competition to develop a sovereign \u2f00artificial intelligence\u2f01 (AI) foundation model representing Korea has narrowed to three teams led by LG AI Research, SK Telecom and Up\u2026"
-    },
-    {
-     "publisher": "The Elec",
-     "title": "Semiconductor Materials Makers See Profitability Recover",
-     "url": "https://www.thelec.net/news/articleView.html?idxno=13141",
-     "sector": "Technology",
-     "country": "KR",
-     "quote": "\u2026the second quarter as investment in \u2f00artificial intelligence\u2f01 (AI) chips boosted demand for advanced materials. Revenue growth is expected to accelerate next year as custo\u2026"
     }
    ],
    "daily": [
@@ -41522,14 +41691,14 @@
     },
     {
      "day": "2026-08-19",
-     "n": 20
+     "n": 21
     }
    ],
    "docFreq": 0.0126,
-   "specificity": 0.581,
-   "homeShare": 0.705,
+   "specificity": 0.579,
+   "homeShare": 0.699,
    "daysSeen": 13,
-   "rank": 1.573
+   "rank": 1.571
   },
   {
    "id": "supply-chain",
@@ -41540,13 +41709,13 @@
    "pace": "gradual",
    "kind": "concept",
    "sectorCount": 8,
-   "effectiveSectors": 4.65,
+   "effectiveSectors": 4.67,
    "newestSector": "Consumer",
    "daysSinceNewestSector": 21,
-   "articles14d": 132,
+   "articles14d": 133,
    "articlesPrior14d": 56,
    "publishers": 24,
-   "topPubShare": 0.554,
+   "topPubShare": 0.549,
    "sectors": [
     {
      "name": "Real estate",
@@ -41562,7 +41731,7 @@
      "firstSeen": "2026-05-22",
      "recent": 21,
      "articles": 75,
-     "share": 0.16,
+     "share": 0.159,
      "atSectorStart": false,
      "adopt": 0
     },
@@ -41587,9 +41756,9 @@
     {
      "name": "Industrials",
      "firstSeen": "2026-05-30",
-     "recent": 5,
-     "articles": 12,
-     "share": 0.038,
+     "recent": 6,
+     "articles": 13,
+     "share": 0.045,
      "atSectorStart": false,
      "adopt": 8
     },
@@ -41607,7 +41776,7 @@
      "firstSeen": "2026-07-14",
      "recent": 85,
      "articles": 94,
-     "share": 0.649,
+     "share": 0.644,
      "atSectorStart": false,
      "adopt": 53
     },
@@ -41640,11 +41809,11 @@
      8
     ],
     [
-     "GR",
-     6
+     "IN",
+     7
     ],
     [
-     "IN",
+     "GR",
      6
     ]
    ],
@@ -41734,7 +41903,7 @@
        0,
        2,
        2,
-       3
+       4
       ]
      },
      {
@@ -41908,7 +42077,7 @@
      "new",
      4,
      0,
-     49.1,
+     48.8,
      [
       {
        "title": "Agastya Energy plans 12 GW ingot, wafer factory in India",
@@ -41927,12 +42096,50 @@
      ]
     ],
     [
+     "optical transceiver",
+     0.7,
+     "new",
+     7,
+     0,
+     42.7,
+     [
+      {
+       "title": "India now moving to build deeper supply chain of electronics manufacturing: Vaishnaw",
+       "url": "https://manufacturing.economictimes.indiatimes.com/news/hi-tech/india-now-moving-to-build-deeper-supply-chain-of-electronics-manufacturing-vaishnaw/133349479",
+       "publisher": "ET Manufacturing",
+       "sector": "Industrials",
+       "quote": "\u2026Bs, enclosures, speakers, antennas, \u2f00optical transceivers\u2f01 and filters are now being manufactured in India as the country seeks to deepen domestic value addition, the U\u2026"
+      },
+      {
+       "title": "China dominates optical modules but US allies hold the upstream keys",
+       "url": "https://www.digitimes.com/news/a20260819PD207/technology-supply-chain-production-equipment-data.html",
+       "publisher": "DigiTimes Asia",
+       "sector": "Technology",
+       "quote": "\u2026a new part of the AI supply chain: \u2f00optical transceivers\u2f01, the critical devices that connect AI servers to fiber-optic networks by converting electrical signals into o\u2026"
+      },
+      {
+       "title": "FCC 26-50 extends US tech controls to chips, \u2f00optical transceivers\u2f01 and supply-chain origins",
+       "url": "https://www.digitimes.com/news/a20260810VL204/fcc-technology-chips-equipment-component.html",
+       "publisher": "DigiTimes Asia",
+       "sector": "Technology",
+       "quote": "\u2026l, raising new compliance risks for \u2f00optical transceivers\u2f01, networking equipment and ODM suppliers."
+      },
+      {
+       "title": "Chinese optical suppliers confront FCC threat after US$19.1B sell-off",
+       "url": "https://www.digitimes.com/news/a20260805VL223/data-center-fcc-regulation-capacity.html",
+       "publisher": "DigiTimes Asia",
+       "sector": "Technology",
+       "quote": "Chinese \u2f00optical transceiver\u2f01 suppliers are trying to calm investors after reports that the US Federal Communications Commission (FCC) may\u2026"
+      }
+     ]
+    ],
+    [
      "critical component",
      0.4,
      "new",
      4,
      0,
-     36.8,
+     36.6,
      [
       {
        "title": "US tariffs and FCC curbs redraw the drone supply chain and Taiwan sees an opening",
@@ -41956,7 +42163,7 @@
      "new",
      4,
      0,
-     29.4,
+     29.3,
      [
       {
        "title": "Rattled supply chains: Over half of Taiwan firms feel the squeeze of US-\u2f00Iran conflict\u2f01",
@@ -41980,7 +42187,7 @@
      "rising",
      4,
      2,
-     24.5,
+     24.4,
      [
       {
        "title": "Rattled supply chains: Over half of Taiwan firms feel the squeeze of US-Iran conflict",
@@ -42004,7 +42211,7 @@
      "rising",
      10,
      4,
-     21.6,
+     21.5,
      [
       {
        "title": "American \u2f00rare Earths\u2f01, Novex to boost US magnet production",
@@ -42042,40 +42249,17 @@
        "quote": "\u2026is reviewing limits on unprocessed \u2f00rare earth\u2f01 exports as investors seek access and governments worldwide race to secure strategic minerals. Any policy shif\u2026"
       }
      ]
-    ],
-    [
-     "humanoid robot",
-     0.8,
-     "new",
-     8,
-     0,
-     21.0,
-     [
-      {
-       "title": "Taiwan machinery makers target \u2f00humanoid robot\u2f01 joints",
-       "url": "https://www.digitimes.com/news/a20260819PD212/robot-taiwan-robotics-taipei-industrial.html",
-       "publisher": "DigiTimes Asia",
-       "sector": "Technology",
-       "quote": "\u2026as an entry point into the emerging \u2f00humanoid robotics\u2f01 supply chain, with a wave of new products set to debut at Automation Taipei 2026."
-      },
-      {
-       "title": "Research Insight: Unitree IPO reveals \u2f00humanoid robot\u2f01 commercialization still in early innings",
-       "url": "https://www.digitimes.com/news/a20260814PD218/robot-ipo-industrial-2025-manufacturing.html",
-       "publisher": "DigiTimes Asia",
-       "sector": "Technology",
-       "quote": "Chinese \u2f00humanoid robot\u2f01 maker Unitree Robotics has drawn significant market attention with its IPO. Based on DIGITIMES' review of the\u2026"
-      },
-      {
-       "title": "Qisda unit expands robot computing platform into Europe and U.S. supply chains",
-       "url": "https://www.digitimes.com/news/a20260813PD233/qisda-robot-industrial-europe-automation.html",
-       "publisher": "DigiTimes Asia",
-       "sector": "Technology",
-       "quote": "\u2026l, and automation capabilities into \u2f00humanoid robotics\u2f01 as global demand shifts toward high-compute, low-latency control systems. The company said its integrated com\u2026"
-      }
-     ]
     ]
    ],
    "examples": [
+    {
+     "publisher": "ET Manufacturing",
+     "title": "India now moving to build deeper \u2f00supply chain\u2f01 of electronics manufacturing: Vaishnaw",
+     "url": "https://manufacturing.economictimes.indiatimes.com/news/hi-tech/india-now-moving-to-build-deeper-supply-chain-of-electronics-manufacturing-vaishnaw/133349479",
+     "sector": "Industrials",
+     "country": "IN",
+     "quote": ""
+    },
     {
      "publisher": "Logistics Manager",
      "title": "Webinar: Building \u2f00supply chain\u2f01 resilience navigating uncertainty, disruption and change",
@@ -42163,14 +42347,6 @@
      "sector": "Supply chain",
      "country": "GR",
      "quote": "\u2026ilway and NFI, a leading integrated \u2f00supply chain\u2f01 solutions provider, have announced a strategic partnership at the future Barstow International Gateway, combi\u2026"
-    },
-    {
-     "publisher": "Supply Chain Dive",
-     "title": "3 ways Kimberly-Clark is leveraging technology to boost \u2f00supply chain\u2f01 efficiency",
-     "url": "https://www.supplychaindive.com/news/3-ways-kimberly-clark-is-leveraging-technology-to-boost-supply-chain-effici/828037/",
-     "sector": "Supply chain",
-     "country": "US",
-     "quote": ""
     }
    ],
    "daily": [
@@ -42532,7 +42708,7 @@
     },
     {
      "day": "2026-08-19",
-     "n": 8
+     "n": 9
     }
    ],
    "variants": [
@@ -42540,10 +42716,10 @@
     "supply chain resilience"
    ],
    "docFreq": 0.0125,
-   "specificity": 0.585,
-   "homeShare": 0.649,
+   "specificity": 0.582,
+   "homeShare": 0.644,
    "daysSeen": 14,
-   "rank": 1.27
+   "rank": 1.258
   },
   {
    "id": "general-manager",
@@ -43215,7 +43391,7 @@
      "steady",
      2,
      2,
-     107.9,
+     108.2,
      [
       {
        "title": "Somali Piracy Surges Amid Hormuz Blockade",
@@ -43232,7 +43408,7 @@
      "steady",
      2,
      2,
-     33.5,
+     33.6,
      [
       {
        "title": "\u2f00Middle East\u2f01 Oil Tankers Are Going Dark for Longer",
@@ -44144,29 +44320,29 @@
    "pace": "simultaneous",
    "kind": "concept",
    "sectorCount": 2,
-   "effectiveSectors": 1.6,
+   "effectiveSectors": 1.59,
    "newestSector": "Utilities",
    "daysSinceNewestSector": 16,
-   "articles14d": 45,
+   "articles14d": 46,
    "articlesPrior14d": 31,
    "publishers": 4,
-   "topPubShare": 0.889,
+   "topPubShare": 0.891,
    "sectors": [
     {
      "name": "Utilities",
      "firstSeen": "2026-08-03",
      "recent": 2,
      "articles": 13,
-     "share": 0.045,
+     "share": 0.044,
      "atSectorStart": false,
      "adopt": 73
     },
     {
      "name": "Energy",
      "firstSeen": "2026-08-03",
-     "recent": 42,
-     "articles": 60,
-     "share": 0.955,
+     "recent": 43,
+     "articles": 61,
+     "share": 0.956,
      "atSectorStart": false,
      "adopt": 73
     }
@@ -44175,7 +44351,7 @@
    "origins": [
     [
      "US",
-     71
+     72
     ],
     [
      "IN",
@@ -44218,7 +44394,7 @@
        0,
        20,
        20,
-       20
+       21
       ]
      },
      {
@@ -44302,7 +44478,7 @@
      "steady",
      4,
      4,
-     215.8,
+     211.7,
      [
       {
        "title": "Waterborne shipments from the U.S. Gulf Coast increased in April and May",
@@ -44326,7 +44502,7 @@
      "new",
      4,
      0,
-     143.9,
+     141.1,
      [
       {
        "title": "Chinese Oil Tankers Turn Back as \u2f00Hormuz Risks\u2f01 Mount",
@@ -44350,7 +44526,7 @@
      "new",
      6,
      0,
-     129.5,
+     127.0,
      [
       {
        "title": "Oil Prices Rise for Fourth Day as Hormuz Traffic Slows",
@@ -44381,7 +44557,7 @@
      "steady",
      2,
      2,
-     107.9,
+     105.8,
      [
       {
        "title": "Brent Tops $89 Amid U.S.-Iran Stalemate Over Hormuz",
@@ -44398,7 +44574,7 @@
      "new",
      4,
      0,
-     107.9,
+     105.8,
      [
       {
        "title": "Murban Crude Jumps to 4-Month High as ADNOC Curbs Supply to Asia",
@@ -44422,7 +44598,7 @@
      "steady",
      2,
      2,
-     71.9,
+     70.6,
      [
       {
        "title": "Longer wells boost Permian crude oil and \u2f00natural gas production\u2f01",
@@ -44442,6 +44618,14 @@
     ]
    ],
    "examples": [
+    {
+     "publisher": "OilPrice",
+     "title": "EIA Shows \u2f00Crude Oil\u2f01 Inventories Still Rising",
+     "url": "https://oilprice.com/Energy/Crude-Oil/EIA-Shows-Crude-Oil-Inventories-Still-Rising.html",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2f00Crude oil\u2f01 inventories in the United States saw a massive increase of 4.4 million barrels during the week ending August\u2026"
+    },
     {
      "publisher": "OilPrice",
      "title": "Murban Crude Jumps to 4-Month High as ADNOC Curbs Supply to Asia",
@@ -44529,14 +44713,6 @@
      "sector": "Energy",
      "country": "US",
      "quote": "\u2026d on the Middle East for 90% of its \u2f00crude oil\u2f01 supply has managed to diversify purchases and moved to release stocks from strategic reserves. However, the e\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Asian Refiners Seek Alternative Pickup Point for Saudi Crude",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Asian-Refiners-Seek-Alternative-Pickup-Point-for-Saudi-Crude.html",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026ate oil giant Aramco to pick up its \u2f00crude oil\u2f01 cargoes at Egypt's Mediterranean port of Sidi Kerir as vessel owners are increasingly reluctant to pass throu\u2026"
     }
    ],
    "daily": [
@@ -44898,14 +45074,14 @@
     },
     {
      "day": "2026-08-19",
-     "n": 4
+     "n": 5
     }
    ],
-   "docFreq": 0.0042,
-   "specificity": 0.858,
-   "homeShare": 0.955,
+   "docFreq": 0.0043,
+   "specificity": 0.855,
+   "homeShare": 0.956,
    "daysSeen": 11,
-   "rank": 1.029
+   "rank": 1.022
   },
   {
    "id": "growth-driver",
@@ -45547,29 +45723,29 @@
    "pace": "gradual",
    "kind": "place",
    "sectorCount": 2,
-   "effectiveSectors": 1.67,
+   "effectiveSectors": 1.65,
    "newestSector": "Supply chain",
    "daysSinceNewestSector": 23,
-   "articles14d": 13,
+   "articles14d": 14,
    "articlesPrior14d": 5,
    "publishers": 4,
-   "topPubShare": 0.385,
+   "topPubShare": 0.357,
    "sectors": [
     {
      "name": "Energy",
      "firstSeen": "2026-06-24",
      "recent": 2,
      "articles": 4,
-     "share": 0.154,
+     "share": 0.143,
      "atSectorStart": false,
      "adopt": 33
     },
     {
      "name": "Supply chain",
      "firstSeen": "2026-07-27",
-     "recent": 11,
-     "articles": 15,
-     "share": 0.846,
+     "recent": 12,
+     "articles": 16,
+     "share": 0.857,
      "atSectorStart": false,
      "adopt": 66
     }
@@ -45578,7 +45754,7 @@
    "origins": [
     [
      "SG",
-     11
+     12
     ],
     [
      "US",
@@ -45621,7 +45797,7 @@
        1,
        4,
        6,
-       4
+       5
       ]
      },
      {
@@ -45665,11 +45841,11 @@
    "cooc": [
     [
      "port infrastructure",
-     0.33,
+     0.29,
      "falling",
      2,
      4,
-     373.5,
+     347.7,
      [
       {
        "title": "Black Sea grain trade buckles under maritime war",
@@ -45682,11 +45858,11 @@
     ],
     [
      "war risk",
-     0.67,
+     0.57,
      "new",
      4,
      0,
-     298.8,
+     278.2,
      [
       {
        "title": "Black Sea drone strikes send CPC tanker rates to $400,000 a day",
@@ -45705,30 +45881,20 @@
      ]
     ],
     [
-     "missile strike",
-     0.33,
-     "steady",
-     2,
-     2,
-     249.0,
-     [
-      {
-       "title": "Ukrainian Attack Halts Operations at Key Russian Black Sea Grain Terminals",
-       "url": "https://oilprice.com/Geopolitics/Europe/Ukrainian-Attack-Halts-Operations-at-Key-Russian-Black-Sea-Grain-Terminals.html",
-       "publisher": "OilPrice",
-       "sector": "Energy",
-       "quote": "\u2026day a \"massive\" Ukrainian drone and \u2f00missile strike\u2f01 was unleashed on Russia's port city of Novorossiysk, which badly damaged grain export terminals at what also\u2026"
-      }
-     ]
-    ],
-    [
      "drone strike",
      1.0,
      "rising",
-     6,
+     7,
      2,
-     249.0,
+     243.4,
      [
+      {
+       "title": "Bulker pounded by five \u2f00drone strikes\u2f01 in Black Sea",
+       "url": "https://www.seatrade-maritime.com/security/bulker-pounded-by-five-drone-strikes-in-black-sea",
+       "publisher": "Seatrade Maritime",
+       "sector": "Supply chain",
+       "quote": ""
+      },
       {
        "title": "Second IMS tanker hit in Black Sea drone campaign",
        "url": "https://splash247.com/second-ims-tanker-hit-in-black-sea-drone-campaign/",
@@ -45753,12 +45919,29 @@
      ]
     ],
     [
+     "missile strike",
+     0.29,
+     "steady",
+     2,
+     2,
+     231.8,
+     [
+      {
+       "title": "Ukrainian Attack Halts Operations at Key Russian Black Sea Grain Terminals",
+       "url": "https://oilprice.com/Geopolitics/Europe/Ukrainian-Attack-Halts-Operations-at-Key-Russian-Black-Sea-Grain-Terminals.html",
+       "publisher": "OilPrice",
+       "sector": "Energy",
+       "quote": "\u2026day a \"massive\" Ukrainian drone and \u2f00missile strike\u2f01 was unleashed on Russia's port city of Novorossiysk, which badly damaged grain export terminals at what also\u2026"
+      }
+     ]
+    ],
+    [
      "oil export",
-     0.67,
+     0.57,
      "new",
      4,
      0,
-     149.4,
+     139.1,
      [
       {
        "title": "Kazakhstan Weighs New Routes as Drone Strikes Squeeze Black Sea \u2f00Oil Exports\u2f01",
@@ -45778,6 +45961,14 @@
     ]
    ],
    "examples": [
+    {
+     "publisher": "Seatrade Maritime",
+     "title": "Bulker pounded by five drone strikes in \u2f00Black Sea\u2f01",
+     "url": "https://www.seatrade-maritime.com/security/bulker-pounded-by-five-drone-strikes-in-black-sea",
+     "sector": "Supply chain",
+     "country": "SG",
+     "quote": ""
+    },
     {
      "publisher": "Seatrade Maritime",
      "title": "Filipino seafarers on the frontline of global conflicts",
@@ -45865,14 +46056,6 @@
      "sector": "Supply chain",
      "country": "GR",
      "quote": "\u2026ast Mediterranean US$5,100 US$7,100 \u2f00Black Sea\u2f01 US$5,300 US$7,200 [\u2026] The post CMA CGM increases FAK rates from Asia to the Mediterranean and North Africa ap\u2026"
-    },
-    {
-     "publisher": "Container News",
-     "title": "FESCO suspends \u2f00Black Sea\u2f01 bookings after vessel sinking",
-     "url": "https://container-news.com/fesco-suspends-black-sea-bookings-after-vessel-sinking/",
-     "sector": "Supply chain",
-     "country": "GR",
-     "quote": "\u2026ESCO has suspended bookings for the \u2f00Black Sea\u2f01 following the sinking of its container ship FESCO Yanina, according to DynaLiners. A Ukrainian drone attack s\u2026"
     }
    ],
    "daily": [
@@ -46234,14 +46417,14 @@
     },
     {
      "day": "2026-08-19",
-     "n": 0
+     "n": 1
     }
    ],
-   "docFreq": 0.0012,
-   "specificity": 0.959,
-   "homeShare": 0.846,
-   "daysSeen": 8,
-   "rank": 0.886
+   "docFreq": 0.0013,
+   "specificity": 0.956,
+   "homeShare": 0.857,
+   "daysSeen": 9,
+   "rank": 0.891
   },
   {
    "id": "iran-war",
@@ -46490,7 +46673,7 @@
      "rising",
      4,
      2,
-     215.8,
+     216.4,
      [
       {
        "title": "India Turns to Piped Gas as Iran War Drives Up LPG Costs",
@@ -46514,7 +46697,7 @@
      "new",
      4,
      0,
-     179.9,
+     180.3,
      [
       {
        "title": "Iran War Set to Drive UK Energy Bills to 3-Year High",
@@ -46538,7 +46721,7 @@
      "steady",
      2,
      2,
-     134.9,
+     135.2,
      [
       {
        "title": "A 4-Million-Bpd Shadow Oil Highway Is Running Through Hormuz",
@@ -46555,7 +46738,7 @@
      "steady",
      2,
      2,
-     107.9,
+     108.2,
      [
       {
        "title": "China Added 200,000 Bpd to Crude Reserves in July Despite \u2f00Hormuz Crisis\u2f01",
@@ -46572,7 +46755,7 @@
      "new",
      4,
      0,
-     60.0,
+     60.1,
      [
       {
        "title": "5 Energy Stocks Cashing In On The New Energy Crunch",
@@ -46596,7 +46779,7 @@
      "steady",
      2,
      2,
-     38.5,
+     38.6,
      [
       {
        "title": "Oil Majors Reap $93 Billion Windfall From the Iran War",
@@ -47186,7 +47369,7 @@
      "new",
      4,
      0,
-     388.5,
+     389.4,
      [
       {
        "title": "Drone Attack Hits Power Plant at Key Libyan Oil Hub",
@@ -47210,7 +47393,7 @@
      "new",
      4,
      0,
-     149.4,
+     139.1,
      [
       {
        "title": "Kazakhstan Weighs New Routes as Drone Strikes Squeeze \u2f00Black Sea\u2f01 Oil Exports",
@@ -47696,6 +47879,718 @@
    "rank": 0.832
   },
   {
+   "id": "asset-management",
+   "term": "asset management",
+   "direction": "falling",
+   "display": false,
+   "adoptionSpan": 13,
+   "pace": "mixed",
+   "kind": "concept",
+   "sectorCount": 2,
+   "effectiveSectors": 1.57,
+   "newestSector": "Utilities",
+   "daysSinceNewestSector": 7,
+   "articles14d": 13,
+   "articlesPrior14d": 9,
+   "publishers": 4,
+   "topPubShare": 0.417,
+   "sectors": [
+    {
+     "name": "Real estate",
+     "firstSeen": "2026-07-30",
+     "recent": 8,
+     "articles": 15,
+     "share": 0.727,
+     "atSectorStart": false,
+     "adopt": 69
+    },
+    {
+     "name": "Utilities",
+     "firstSeen": "2026-08-12",
+     "recent": 3,
+     "articles": 3,
+     "share": 0.273,
+     "atSectorStart": false,
+     "adopt": 82
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "US",
+     13
+    ],
+    [
+     "HK",
+     4
+    ],
+    [
+     "GB",
+     3
+    ],
+    [
+     "TW",
+     2
+    ],
+    [
+     "AU",
+     1
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-05-22",
+     "2026-05-29",
+     "2026-06-05",
+     "2026-06-12",
+     "2026-06-19",
+     "2026-06-26",
+     "2026-07-03",
+     "2026-07-10",
+     "2026-07-17",
+     "2026-07-24",
+     "2026-07-31",
+     "2026-08-07",
+     "2026-08-14"
+    ],
+    "bands": [
+     {
+      "sector": "Real estate",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       2,
+       5,
+       5,
+       3
+      ]
+     },
+     {
+      "sector": "Utilities",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "sector": "Technology",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       1
+      ]
+     },
+     {
+      "sector": "Healthcare",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "sector": "Finance",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "sector": "Waste & water",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "cooc": [
+    [
+     "affordable housing",
+     1.0,
+     "new",
+     4,
+     0,
+     249.6,
+     [
+      {
+       "title": "Barry Sternlicht's Starwood Scoops Up More Miami-Dade \u2f00Affordable Housing\u2f01",
+       "url": "https://commercialobserver.com/2026/08/barry-sternlicht-starwood-miami-dade-affordable-housing-lafayette-emerald-terrace/",
+       "publisher": "Commercial Observer",
+       "sector": "Real estate",
+       "quote": "\u2026sset Management has bought two more \u2f00affordable housing\u2f01 properties in Miami-Dade County, following two acquisitions last week, bringing the total to $115.4 million a\u2026"
+      },
+      {
+       "title": "Barry Sternlicht's Starwood Buys Two Miami \u2f00Affordable Housing\u2f01 Rentals",
+       "url": "https://commercialobserver.com/2026/08/barry-sternlicht-starwood-miami-affordable-housing/",
+       "publisher": "Commercial Observer",
+       "sector": "Real estate",
+       "quote": "\u2026d Asset Management has acquired two \u2f00affordable housing\u2f01 properties in Miami-Dade County from the Gatehouse Group, paying a combined $63.8 million, property records s\u2026"
+      }
+     ]
+    ],
+    [
+     "real estate",
+     0.5,
+     "falling",
+     2,
+     6,
+     10.9,
+     [
+      {
+       "title": "Macquarie-Led Consortium Completes $8B Qube Buyout and More APAC \u2f00Real Estate\u2f01 Headlines",
+       "url": "https://www.mingtiandi.com/real-estate/crelist/macquarie-led-consortium-completes-8b-qube-buyout-and-more-apac-real-estate-headlines/",
+       "publisher": "Mingtiandi",
+       "sector": "Real estate",
+       "quote": "\u2026arie Asset Management leads today's \u2f00real estate\u2f01 headlines with a consortium buyout of ports operator Qube Holdings worth $8.3 billion. Also in the news are T\u2026"
+      }
+     ]
+    ],
+    [
+     "data center",
+     1.0,
+     "new",
+     4,
+     0,
+     4.8,
+     [
+      {
+       "title": "Anthropic taps Macquarie and GIC to build AI \u2f00data centers\u2f01 under new venture",
+       "url": "https://www.digitimes.com/news/a20260811VL202/anthropic-data-partnership-infrastructure-google.html",
+       "publisher": "DigiTimes Asia",
+       "sector": "Technology",
+       "quote": "\u2026gement and Singapore's GIC to build \u2f00data centers\u2f01 dedicated to its Claude chatbot, the companies said on August 10, the latest sign that institutional capital\u2026"
+      }
+     ]
+    ]
+   ],
+   "examples": [
+    {
+     "publisher": "Energy Storage News",
+     "title": "US capacity markets create \u2018major disconnect' for LDES financing, says Camelot's Raafe Khan",
+     "url": "https://www.energy-storage.news/us-capacity-markets-create-major-disconnect-for-ldes-financing-says-camelots-raafe-khan/",
+     "sector": "Utilities",
+     "country": "GB",
+     "quote": "\u2026roup, ahead of the upcoming Battery \u2f00Asset Management\u2f01 Summit (BAMS) USA in Garden Grove, California."
+    },
+    {
+     "publisher": "Commercial Observer",
+     "title": "Starwood Lands $483M CMBS Loan to Refi Single-Family Rental Portfolio",
+     "url": "https://commercialobserver.com/2026/08/starwood-nomura-single-family-rental/",
+     "sector": "Real estate",
+     "country": "US",
+     "quote": "Barry Sternlicht's Starwood \u2f00Asset Management\u2f01 secured a $482.5 million commercial mortgage-backed securities (CMBS) loan to refinance a nearly full single-\u2026"
+    },
+    {
+     "publisher": "Commercial Observer",
+     "title": "How Trent Johnson, Brian Landrum at Harbert Management Corp. Invest in Senior Housing",
+     "url": "https://commercialobserver.com/2026/08/trent-johnson-brian-landrum-harbert-management-corp-senior-housing/",
+     "sector": "Real estate",
+     "country": "US",
+     "quote": "\u2026oration, an $8 billion alternatives \u2f00asset management\u2f01 firm founded in 1993. The group has been investing in the seniors housing space for 15 years, raising a $210\u2026"
+    },
+    {
+     "publisher": "Mingtiandi",
+     "title": "Macquarie-Led Consortium Completes $8B Qube Buyout and More APAC Real Estate Headlines",
+     "url": "https://www.mingtiandi.com/real-estate/crelist/macquarie-led-consortium-completes-8b-qube-buyout-and-more-apac-real-estate-headlines/",
+     "sector": "Real estate",
+     "country": "HK",
+     "quote": "Australia's Macquarie \u2f00Asset Management\u2f01 leads today's real estate headlines with a consortium buyout of ports operator Qube Holdings worth $8.3 billi\u2026"
+    },
+    {
+     "publisher": "Energy Storage News",
+     "title": "Optimising US BESS markets: Insights from Caerus Commodities",
+     "url": "https://www.energy-storage.news/optimising-us-bess-markets-insights-from-caerus-commodities/",
+     "sector": "Utilities",
+     "country": "GB",
+     "quote": "\u2026orage, ahead of the 2026 US Battery \u2f00Asset Management\u2f01 Summit taking place in California on 15-16 September."
+    },
+    {
+     "publisher": "Commercial Observer",
+     "title": "Barry Sternlicht's Starwood Scoops Up More Miami-Dade Affordable Housing",
+     "url": "https://commercialobserver.com/2026/08/barry-sternlicht-starwood-miami-dade-affordable-housing-lafayette-emerald-terrace/",
+     "sector": "Real estate",
+     "country": "US",
+     "quote": "Barry Sternlicht's Starwood \u2f00Asset Management\u2f01 has bought two more affordable housing properties in Miami-Dade County, following two acquisitions last week,\u2026"
+    },
+    {
+     "publisher": "Commercial Observer",
+     "title": "Richman Group Secures $225M Loan to Refinance Three South Florida Multifamily Assets",
+     "url": "https://commercialobserver.com/2026/08/richman-group-225m-loan-refinance-three-south-florida-multifamily/",
+     "sector": "Real estate",
+     "country": "US",
+     "quote": "The Richman Group, an $18.5 billion \u2f00asset management\u2f01 firm, has secured $225 million in permanent financing to refinance three stabilized luxury multifamily proper\u2026"
+    },
+    {
+     "publisher": "Energy Storage News",
+     "title": "Trends to look out for at the Battery \u2f00Asset Management\u2f01 Summit Australia 2026",
+     "url": "https://www.energy-storage.news/trends-to-look-out-for-at-the-battery-asset-management-summit-australia-2026/",
+     "sector": "Utilities",
+     "country": "GB",
+     "quote": "Ahead of the Battery \u2f00Asset Management\u2f01 Summit Australia 2026, we take a look at some of the key debates set to take centre stage at the event."
+    },
+    {
+     "publisher": "Mingtiandi",
+     "title": "GIC, Macquarie Set Up US Data Centre Platform for AI Chatbot Maker Anthropic",
+     "url": "https://www.mingtiandi.com/real-estate/data-centres/gic-macquarie-set-up-us-data-centre-platform-for-ai-chatbot-maker-anthropic/",
+     "sector": "Real estate",
+     "country": "HK",
+     "quote": "\u2026fund GIC and Australia's Macquarie \u2f00Asset Management\u2f01 have teamed with Claude chatbot maker Anthropic to establish a US-focused data centre platform, as the artifi\u2026"
+    },
+    {
+     "publisher": "DigiTimes Asia",
+     "title": "Anthropic taps Macquarie and GIC to build AI data centers under new venture",
+     "url": "https://www.digitimes.com/news/a20260811VL202/anthropic-data-partnership-infrastructure-google.html",
+     "sector": "Technology",
+     "country": "TW",
+     "quote": "\u2026trategic partnership with Macquarie \u2f00Asset Management\u2f01 and Singapore's GIC to build data centers dedicated to its Claude chatbot, the companies said on August 10, t\u2026"
+    },
+    {
+     "publisher": "Mingtiandi",
+     "title": "Samsung SRA Sells Gangnam Tower to Korean Non-Profit for $314M",
+     "url": "https://www.mingtiandi.com/real-estate/finance/samsung-sra-sells-gangnam-tower-to-korean-non-profit-for-314m/",
+     "sector": "Real estate",
+     "country": "HK",
+     "quote": "Samsung SRA \u2f00Asset Management\u2f01 has completed the sale of an office tower in Seoul's Gangnam district to the Hyunsong Educational & Cultural\u2026"
+    },
+    {
+     "publisher": "Commercial Observer",
+     "title": "Barry Sternlicht's Starwood Buys Two Miami Affordable Housing Rentals",
+     "url": "https://commercialobserver.com/2026/08/barry-sternlicht-starwood-miami-affordable-housing/",
+     "sector": "Real estate",
+     "country": "US",
+     "quote": "Barry Sternlicht's Starwood \u2f00Asset Management\u2f01 has acquired two affordable housing properties in Miami-Dade County from the Gatehouse Group, paying a combin\u2026"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-05-22",
+     "n": 0
+    },
+    {
+     "day": "2026-05-23",
+     "n": 0
+    },
+    {
+     "day": "2026-05-24",
+     "n": 0
+    },
+    {
+     "day": "2026-05-25",
+     "n": 0
+    },
+    {
+     "day": "2026-05-26",
+     "n": 0
+    },
+    {
+     "day": "2026-05-27",
+     "n": 0
+    },
+    {
+     "day": "2026-05-28",
+     "n": 0
+    },
+    {
+     "day": "2026-05-29",
+     "n": 0
+    },
+    {
+     "day": "2026-05-30",
+     "n": 0
+    },
+    {
+     "day": "2026-05-31",
+     "n": 0
+    },
+    {
+     "day": "2026-06-01",
+     "n": 0
+    },
+    {
+     "day": "2026-06-02",
+     "n": 0
+    },
+    {
+     "day": "2026-06-03",
+     "n": 0
+    },
+    {
+     "day": "2026-06-04",
+     "n": 0
+    },
+    {
+     "day": "2026-06-05",
+     "n": 0
+    },
+    {
+     "day": "2026-06-06",
+     "n": 0
+    },
+    {
+     "day": "2026-06-07",
+     "n": 0
+    },
+    {
+     "day": "2026-06-08",
+     "n": 0
+    },
+    {
+     "day": "2026-06-09",
+     "n": 0
+    },
+    {
+     "day": "2026-06-10",
+     "n": 0
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 0
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 0
+    },
+    {
+     "day": "2026-06-16",
+     "n": 0
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 0
+    },
+    {
+     "day": "2026-06-19",
+     "n": 0
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 0
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 1
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 1
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 2
+    },
+    {
+     "day": "2026-07-31",
+     "n": 0
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 3
+    },
+    {
+     "day": "2026-08-04",
+     "n": 0
+    },
+    {
+     "day": "2026-08-05",
+     "n": 3
+    },
+    {
+     "day": "2026-08-06",
+     "n": 0
+    },
+    {
+     "day": "2026-08-07",
+     "n": 1
+    },
+    {
+     "day": "2026-08-08",
+     "n": 0
+    },
+    {
+     "day": "2026-08-09",
+     "n": 0
+    },
+    {
+     "day": "2026-08-10",
+     "n": 1
+    },
+    {
+     "day": "2026-08-11",
+     "n": 2
+    },
+    {
+     "day": "2026-08-12",
+     "n": 2
+    },
+    {
+     "day": "2026-08-13",
+     "n": 1
+    },
+    {
+     "day": "2026-08-14",
+     "n": 3
+    },
+    {
+     "day": "2026-08-15",
+     "n": 0
+    },
+    {
+     "day": "2026-08-16",
+     "n": 0
+    },
+    {
+     "day": "2026-08-17",
+     "n": 2
+    },
+    {
+     "day": "2026-08-18",
+     "n": 0
+    },
+    {
+     "day": "2026-08-19",
+     "n": 1
+    }
+   ],
+   "docFreq": 0.0012,
+   "specificity": 0.959,
+   "homeShare": 0.727,
+   "daysSeen": 8,
+   "rank": 0.827
+  },
+  {
    "id": "low-carbon",
    "term": "low carbon",
    "direction": "rising",
@@ -47874,7 +48769,7 @@
      "rising",
      4,
      2,
-     220.7,
+     221.3,
      [
       {
        "title": "The Case for Britain Backing Its North Sea Oil and Gas Industry",
@@ -47898,7 +48793,7 @@
      "new",
      4,
      0,
-     202.3,
+     202.8,
      [
       {
        "title": "Taiwan's Century Group eyes SMR supply chain as AI power demand accelerates",
@@ -48408,7 +49303,7 @@
      "new",
      4,
      0,
-     149.4,
+     149.8,
      [
       {
        "title": "Coast Guard coordinates rescue after fire aboard Min Jiang Kou",
@@ -48894,645 +49789,6 @@
    "rank": 0.801
   },
   {
-   "id": "drone-strike",
-   "term": "drone strike",
-   "direction": "steady",
-   "display": false,
-   "adoptionSpan": 4,
-   "pace": "simultaneous",
-   "kind": "concept",
-   "sectorCount": 2,
-   "effectiveSectors": 1.97,
-   "newestSector": "Energy",
-   "daysSinceNewestSector": 16,
-   "articles14d": 9,
-   "articlesPrior14d": 3,
-   "publishers": 3,
-   "topPubShare": 0.667,
-   "sectors": [
-    {
-     "name": "Supply chain",
-     "firstSeen": "2026-07-30",
-     "recent": 3,
-     "articles": 5,
-     "share": 0.333,
-     "atSectorStart": false,
-     "adopt": 69
-    },
-    {
-     "name": "Energy",
-     "firstSeen": "2026-08-03",
-     "recent": 6,
-     "articles": 7,
-     "share": 0.667,
-     "atSectorStart": false,
-     "adopt": 73
-    }
-   ],
-   "sinceStart": false,
-   "origins": [
-    [
-     "US",
-     7
-    ],
-    [
-     "SG",
-     5
-    ]
-   ],
-   "flow": {
-    "weeks": [
-     "2026-05-22",
-     "2026-05-29",
-     "2026-06-05",
-     "2026-06-12",
-     "2026-06-19",
-     "2026-06-26",
-     "2026-07-03",
-     "2026-07-10",
-     "2026-07-17",
-     "2026-07-24",
-     "2026-07-31",
-     "2026-08-07",
-     "2026-08-14"
-    ],
-    "bands": [
-     {
-      "sector": "Energy",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       2,
-       3,
-       2
-      ]
-     },
-     {
-      "sector": "Supply chain",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       1,
-       2,
-       1
-      ]
-     }
-    ]
-   },
-   "cooc": [
-    [
-     "oil hub",
-     0.57,
-     "new",
-     4,
-     0,
-     539.6,
-     [
-      {
-       "title": "Drone strikes put Libya's Zawiya \u2f00oil hub\u2f01 at risk",
-       "url": "https://splash247.com/drone-strikes-put-libyas-zawiya-oil-hub-at-risk/",
-       "publisher": "Splash247",
-       "sector": "Supply chain",
-       "quote": ""
-      },
-      {
-       "title": "Libya Weighs Force Majeure After Drone Attacks on Zawiya \u2f00Oil Hub\u2f01",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Libya-Weighs-Force-Majeure-After-Drone-Attacks-on-Zawiya-Oil-Hub.html",
-       "publisher": "OilPrice",
-       "sector": "Energy",
-       "quote": "\u2026eclaration. According to reports, a \u2f00drone strike\u2f01 had destroyed a storage tank and another drone had targeted an oil blending facility at the Zawya terminal. T\u2026"
-      }
-     ]
-    ],
-    [
-     "black sea",
-     0.86,
-     "rising",
-     6,
-     2,
-     249.0,
-     [
-      {
-       "title": "Second IMS tanker hit in \u2f00Black Sea\u2f01 drone campaign",
-       "url": "https://splash247.com/second-ims-tanker-hit-in-black-sea-drone-campaign/",
-       "publisher": "Splash247",
-       "sector": "Supply chain",
-       "quote": "\u2026nker owner IMS has suffered another \u2f00Black Sea\u2f01 drone strike, with its suezmax Skiros hit on the bridge while loading oil off Novorossiysk, Russia. Footage o\u2026"
-      },
-      {
-       "title": "Kazakhstan Weighs New Routes as Drone Strikes Squeeze \u2f00Black Sea\u2f01 Oil Exports",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Kazakhstan-Weighs-New-Routes-as-Drone-Strikes-Squeeze-Black-Sea-Oil-Exports.html",
-       "publisher": "OilPrice",
-       "sector": "Energy",
-       "quote": "\u2026its crude oil exports away from its \u2f00Black Sea\u2f01 export terminal and on pipelines through Azerbaijan, Georgia, and Turkey amid continued threats to its shipme\u2026"
-      },
-      {
-       "title": "\u2f00Black Sea\u2f01 drone strikes send CPC tanker rates to $400,000 a day",
-       "url": "https://www.seatrade-maritime.com/security/black-sea-drone-strikes-send-cpc-tanker-rates-to-400-000-a-day",
-       "publisher": "Seatrade Maritime",
-       "sector": "Supply chain",
-       "quote": "\u2026ng war risk costs deter owners from \u2f00Black Sea\u2f01 trades."
-      }
-     ]
-    ],
-    [
-     "energy infrastructure",
-     1.0,
-     "new",
-     7,
-     0,
-     209.8,
-     [
-      {
-       "title": "Fire Breaks Out at Rosneft-Owned Refinery After Ukrainian Drone Strike",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Fire-Breaks-Out-at-Rosneft-Owned-Refinery-After-Ukrainian-Drone-Strike.html",
-       "publisher": "OilPrice",
-       "sector": "Energy",
-       "quote": "\u2026as Kyiv continues to pound Russian \u2f00energy infrastructure\u2f01 to reduce Russian fuel supply. One of the refineries in Ufa, in the Bashkortostan republic, caught fire as a\u2026"
-      },
-      {
-       "title": "Drone strikes put Libya's Zawiya oil hub at risk",
-       "url": "https://splash247.com/drone-strikes-put-libyas-zawiya-oil-hub-at-risk/",
-       "publisher": "Splash247",
-       "sector": "Supply chain",
-       "quote": "\u2026A succession of drones has targeted \u2f00energy infrastructure\u2f01 around Zawiya, approximately 40 km west of Tripoli, hitting the refinery complex, fuel storage \u2026"
-      },
-      {
-       "title": "Ukrainian Drone Strike Kills 12 in Major Attack on Russian Refining Hub",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Ukrainian-Drone-Strike-Kills-12-in-Major-Attack-on-Russian-Refining-Hub.html",
-       "publisher": "OilPrice",
-       "sector": "Energy",
-       "quote": "\u2026of the deadliest attacks on Russian \u2f00energy infrastructure\u2f01 since the beginning of the war four and a half years ago. Tatneft's Taneco refinery,\u2026"
-      },
-      {
-       "title": "U.S. Diesel Exports Hit Record High as Global Supply Crunch Deepens",
-       "url": "https://oilprice.com/Energy/Energy-General/US-Diesel-Exports-Hit-Record-High-as-Global-Supply-Crunch-Deepens.html",
-       "publisher": "OilPrice",
-       "sector": "Energy",
-       "quote": "\u2026have paralyzed portions of Russia's \u2f00energy infrastructure\u2f01, have been a major boon for US refiners and export terminals along the Gulf of America. To begin the week, Sa\u2026"
-      }
-     ]
-    ]
-   ],
-   "examples": [
-    {
-     "publisher": "OilPrice",
-     "title": "Fire Breaks Out at Rosneft-Owned Refinery After Ukrainian \u2f00Drone Strike\u2f01",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Fire-Breaks-Out-at-Rosneft-Owned-Refinery-After-Ukrainian-Drone-Strike.html",
-     "sector": "Energy",
-     "country": "US",
-     "quote": ""
-    },
-    {
-     "publisher": "Splash247",
-     "title": "Second IMS tanker hit in Black Sea drone campaign",
-     "url": "https://splash247.com/second-ims-tanker-hit-in-black-sea-drone-campaign/",
-     "sector": "Supply chain",
-     "country": "SG",
-     "quote": "\u2026IMS has suffered another Black Sea \u2f00drone strike\u2f01, with its suezmax Skiros hit on the bridge while loading oil off Novorossiysk, Russia. Footage obtained by Gr\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "\u2f00Drone Strike\u2f01 Sparks Blaze at Key Russian Oil and Fuel Terminal",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Drone-Strike-Sparks-Blaze-at-Key-Russian-Oil-and-Fuel-Terminal.html",
-     "sector": "Energy",
-     "country": "US",
-     "quote": ""
-    },
-    {
-     "publisher": "Splash247",
-     "title": "\u2f00Drone strikes\u2f01 put Libya's Zawiya oil hub at risk",
-     "url": "https://splash247.com/drone-strikes-put-libyas-zawiya-oil-hub-at-risk/",
-     "sector": "Supply chain",
-     "country": "SG",
-     "quote": ""
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Libya Weighs Force Majeure After Drone Attacks on Zawiya Oil Hub",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Libya-Weighs-Force-Majeure-After-Drone-Attacks-on-Zawiya-Oil-Hub.html",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026eclaration. According to reports, a \u2f00drone strike\u2f01 had destroyed a storage tank and another drone had targeted an oil blending facility at the Zawya terminal. T\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Kazakhstan Weighs New Routes as \u2f00Drone Strikes\u2f01 Squeeze Black Sea Oil Exports",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Kazakhstan-Weighs-New-Routes-as-Drone-Strikes-Squeeze-Black-Sea-Oil-Exports.html",
-     "sector": "Energy",
-     "country": "US",
-     "quote": ""
-    },
-    {
-     "publisher": "Seatrade Maritime",
-     "title": "Black Sea \u2f00drone strikes\u2f01 send CPC tanker rates to $400,000 a day",
-     "url": "https://www.seatrade-maritime.com/security/black-sea-drone-strikes-send-cpc-tanker-rates-to-400-000-a-day",
-     "sector": "Supply chain",
-     "country": "SG",
-     "quote": ""
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Ukrainian \u2f00Drone Strike\u2f01 Kills 12 in Major Attack on Russian Refining Hub",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Ukrainian-Drone-Strike-Kills-12-in-Major-Attack-on-Russian-Refining-Hub.html",
-     "sector": "Energy",
-     "country": "US",
-     "quote": ""
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "U.S. Diesel Exports Hit Record High as Global Supply Crunch Deepens",
-     "url": "https://oilprice.com/Energy/Energy-General/US-Diesel-Exports-Hit-Record-High-as-Global-Supply-Crunch-Deepens.html",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026as well as Ukrainian one-way attack \u2f00drone strikes\u2f01 that have paralyzed portions of Russia's energy infrastructure, have been a major boon for US refiners and ex\u2026"
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-05-22",
-     "n": 0
-    },
-    {
-     "day": "2026-05-23",
-     "n": 0
-    },
-    {
-     "day": "2026-05-24",
-     "n": 0
-    },
-    {
-     "day": "2026-05-25",
-     "n": 0
-    },
-    {
-     "day": "2026-05-26",
-     "n": 0
-    },
-    {
-     "day": "2026-05-27",
-     "n": 0
-    },
-    {
-     "day": "2026-05-28",
-     "n": 0
-    },
-    {
-     "day": "2026-05-29",
-     "n": 0
-    },
-    {
-     "day": "2026-05-30",
-     "n": 0
-    },
-    {
-     "day": "2026-05-31",
-     "n": 0
-    },
-    {
-     "day": "2026-06-01",
-     "n": 0
-    },
-    {
-     "day": "2026-06-02",
-     "n": 0
-    },
-    {
-     "day": "2026-06-03",
-     "n": 0
-    },
-    {
-     "day": "2026-06-04",
-     "n": 0
-    },
-    {
-     "day": "2026-06-05",
-     "n": 0
-    },
-    {
-     "day": "2026-06-06",
-     "n": 0
-    },
-    {
-     "day": "2026-06-07",
-     "n": 0
-    },
-    {
-     "day": "2026-06-08",
-     "n": 0
-    },
-    {
-     "day": "2026-06-09",
-     "n": 0
-    },
-    {
-     "day": "2026-06-10",
-     "n": 0
-    },
-    {
-     "day": "2026-06-11",
-     "n": 0
-    },
-    {
-     "day": "2026-06-12",
-     "n": 0
-    },
-    {
-     "day": "2026-06-13",
-     "n": 0
-    },
-    {
-     "day": "2026-06-14",
-     "n": 0
-    },
-    {
-     "day": "2026-06-15",
-     "n": 0
-    },
-    {
-     "day": "2026-06-16",
-     "n": 0
-    },
-    {
-     "day": "2026-06-17",
-     "n": 0
-    },
-    {
-     "day": "2026-06-18",
-     "n": 0
-    },
-    {
-     "day": "2026-06-19",
-     "n": 0
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 0
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 0
-    },
-    {
-     "day": "2026-07-30",
-     "n": 1
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 0
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 1
-    },
-    {
-     "day": "2026-08-04",
-     "n": 1
-    },
-    {
-     "day": "2026-08-05",
-     "n": 0
-    },
-    {
-     "day": "2026-08-06",
-     "n": 1
-    },
-    {
-     "day": "2026-08-07",
-     "n": 0
-    },
-    {
-     "day": "2026-08-08",
-     "n": 0
-    },
-    {
-     "day": "2026-08-09",
-     "n": 0
-    },
-    {
-     "day": "2026-08-10",
-     "n": 3
-    },
-    {
-     "day": "2026-08-11",
-     "n": 1
-    },
-    {
-     "day": "2026-08-12",
-     "n": 1
-    },
-    {
-     "day": "2026-08-13",
-     "n": 0
-    },
-    {
-     "day": "2026-08-14",
-     "n": 1
-    },
-    {
-     "day": "2026-08-15",
-     "n": 0
-    },
-    {
-     "day": "2026-08-16",
-     "n": 0
-    },
-    {
-     "day": "2026-08-17",
-     "n": 1
-    },
-    {
-     "day": "2026-08-18",
-     "n": 0
-    },
-    {
-     "day": "2026-08-19",
-     "n": 1
-    }
-   ],
-   "docFreq": 0.0008,
-   "specificity": 0.972,
-   "homeShare": 0.667,
-   "daysSeen": 7,
-   "rank": 0.8
-  },
-  {
    "id": "lng-carrier",
    "term": "lng carrier",
    "direction": "falling",
@@ -49649,7 +49905,7 @@
      "new",
      4,
      0,
-     308.3,
+     309.1,
      [
       {
        "title": "South Korean Fleet Reshuffle Creates Asia's Largest LNG Carrier Operator",
@@ -50094,7 +50350,7 @@
    "articles14d": 69,
    "articlesPrior14d": 43,
    "publishers": 10,
-   "topPubShare": 0.609,
+   "topPubShare": 0.614,
    "sectors": [
     {
      "name": "Real estate",
@@ -50331,7 +50587,7 @@
      "steady",
      4,
      4,
-     93.8,
+     94.1,
      [
       {
        "title": "IOI Properties Wins Conditional Approval for $1.9B REIT and More APAC Real Estate Headlines",
@@ -50355,7 +50611,7 @@
      "steady",
      2,
      2,
-     70.4,
+     70.6,
      [
       {
        "title": "AI Insurance Firm WithCoverage Signs 18K-SF Lease at 200 Varick Street",
@@ -50372,7 +50628,7 @@
      "new",
      4,
      0,
-     56.3,
+     56.4,
      [
       {
        "title": "Zimmet Law Group Relocates to 5K SF at GFP's 515 Madison Avenue",
@@ -50396,7 +50652,7 @@
      "falling",
      2,
      6,
-     11.7,
+     10.9,
      [
       {
        "title": "Macquarie-Led Consortium Completes $8B Qube Buyout and More APAC Real Estate Headlines",
@@ -50409,6 +50665,14 @@
     ]
    ],
    "examples": [
+    {
+     "publisher": "Commercial Observer",
+     "title": "Investors Are Gaining More Confidence in Office: Survey",
+     "url": "https://commercialobserver.com/2026/08/investors-confidence-office-situsamc-survey/",
+     "sector": "Real estate",
+     "country": "US",
+     "quote": "\u2026in 2026. Preference from commercial \u2f00real estate\u2f01 investors for office transactions reached 11 percent in the second quarter. That compares to just 4 percent i\u2026"
+    },
     {
      "publisher": "Commercial Observer",
      "title": "REITs Report Strong Q2 Results Even as Interest Rates Weigh on Investor Sentiment",
@@ -50496,14 +50760,6 @@
      "sector": "Real estate",
      "country": "US",
      "quote": "\u2026their revenues. Insurance premiums, \u2f00real estate\u2f01 taxes, water and sewer charges, fuel, labor, repairs and maintenance have all increased significantly, while\u2026"
-    },
-    {
-     "publisher": "Commercial Observer",
-     "title": "Arrow Adds Veteran Multifamily Lender Ari Mandelbaum to Grow Platform",
-     "url": "https://commercialobserver.com/2026/08/arrow-real-estate-advisors-ari-mandelbaum/",
-     "sector": "Real estate",
-     "country": "US",
-     "quote": "Arrow \u2f00Real Estate\u2f01 Advisors continues to ramp up its roster nearly two years after its founding. The capital markets advisory fi\u2026"
     }
    ],
    "daily": [
@@ -51663,7 +51919,7 @@
      "falling",
      4,
      8,
-     404.7,
+     405.7,
      [
       {
        "title": "Modern Mining eyes US expansion as e-waste emerges as domestic metals resource",
@@ -51687,7 +51943,7 @@
      "rising",
      8,
      2,
-     404.7,
+     405.7,
      [
       {
        "title": "Global mining leaders turn focus to Australia's resources future",
@@ -51725,7 +51981,7 @@
      "steady",
      2,
      2,
-     202.3,
+     202.8,
      [
       {
        "title": "DPAS Directive Allocation Order and Additional Requirements for Recoverable Critical Minerals and Materials",
@@ -51742,7 +51998,7 @@
      "new",
      4,
      0,
-     89.9,
+     90.1,
      [
       {
        "title": "Updated \u2f00feasibility study\u2f01 gives NioCorp's Elk Creek critical minerals project a $4B valuation",
@@ -51766,7 +52022,7 @@
      "steady",
      2,
      2,
-     23.8,
+     23.9,
      [
       {
        "title": "Iluka cuts mineral sands debt as Balranald and Eneabba projects advance",
@@ -52256,10 +52512,10 @@
     }
    ],
    "docFreq": 0.0023,
-   "specificity": 0.924,
+   "specificity": 0.925,
    "homeShare": 0.81,
    "daysSeen": 11,
-   "rank": 0.768
+   "rank": 0.769
   },
   {
    "id": "global-energy",
@@ -52422,7 +52678,7 @@
      "new",
      4,
      0,
-     107.9,
+     108.2,
      [
       {
        "title": "Trump extends Jones Act waiver despite mounting maritime opposition",
@@ -52446,7 +52702,7 @@
      "new",
      4,
      0,
-     102.2,
+     102.5,
      [
       {
        "title": "China's Renewables Boom Faces Record Clean Power Curtailments",
@@ -52470,7 +52726,7 @@
      "falling",
      2,
      4,
-     7.4,
+     7.3,
      [
       {
        "title": "Why Southeast Asia's Clean Energy Surge Could Stall Before It Starts",
@@ -52478,23 +52734,6 @@
        "publisher": "OilPrice",
        "sector": "Energy",
        "quote": "\u2026mbling to shore up localized energy \u2f00supply chains\u2f01. The newfound volatility in global energy markets has catalyzed the clean energy transition worldwide, but pa\u2026"
-      }
-     ]
-    ],
-    [
-     "artificial intelligence",
-     0.5,
-     "steady",
-     2,
-     2,
-     7.3,
-     [
-      {
-       "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
-       "url": "https://oilprice.com/Energy/Energy-General/China-Is-Betting-on-Quantum-Tech-to-Fix-Its-Power-Grid.html",
-       "publisher": "OilPrice",
-       "sector": "Energy",
-       "quote": "\u2026intermittent energy sources and the \u2f00artificial intelligence\u2f01 boom drives demand to new heights. Managing variable inflows and outflows of electricity while also keeping u\u2026"
       }
      ]
     ],
@@ -53598,7 +53837,7 @@
      "steady",
      2,
      2,
-     154.2,
+     154.5,
      [
       {
        "title": "List of Approved Spent Fuel Storage Casks: NAC International, Inc., MAGNASTOR\u00ae Storage System, Certificate of Compliance No. 1031, Amendment Nos. 16 and 17 and Revisions to Amendment Nos. 0 through 16",
@@ -54139,7 +54378,7 @@
      "new",
      4,
      0,
-     346.9,
+     347.7,
      [
       {
        "title": "San Pedro Bay ports commit $40M in truck \u2f00charging network\u2f01",
@@ -54649,7 +54888,7 @@
      "steady",
      2,
      2,
-     151.8,
+     152.1,
      [
       {
        "title": "Nuclear startup Oklo splits its first atoms in test reactor",
@@ -54666,7 +54905,7 @@
      "new",
      4,
      0,
-     18.4,
+     18.3,
      [
       {
        "title": "Taiwan's Century Group eyes SMR \u2f00supply chain\u2f01 as AI power demand accelerates",
@@ -55256,7 +55495,7 @@
      "steady",
      2,
      2,
-     151.8,
+     152.1,
      [
       {
        "title": "Nuclear startup Oklo splits its first atoms in test reactor",
@@ -55891,7 +56130,7 @@
      "new",
      4,
      0,
-     228.5,
+     229.1,
      []
     ]
    ],
@@ -56356,7 +56595,7 @@
     }
    ],
    "docFreq": 0.0016,
-   "specificity": 0.946,
+   "specificity": 0.947,
    "homeShare": 0.769,
    "daysSeen": 10,
    "rank": 0.61
@@ -56370,10 +56609,10 @@
    "pace": "gradual",
    "kind": "concept",
    "sectorCount": 9,
-   "effectiveSectors": 3.13,
+   "effectiveSectors": 3.11,
    "newestSector": "Supply chain",
    "daysSinceNewestSector": 19,
-   "articles14d": 306,
+   "articles14d": 309,
    "articlesPrior14d": 130,
    "publishers": 23,
    "topPubShare": 0.504,
@@ -56381,9 +56620,9 @@
     {
      "name": "Technology",
      "firstSeen": "2026-05-22",
-     "recent": 230,
-     "articles": 345,
-     "share": 0.754,
+     "recent": 233,
+     "articles": 348,
+     "share": 0.756,
      "atSectorStart": false,
      "adopt": 0
     },
@@ -56401,7 +56640,7 @@
      "firstSeen": "2026-05-31",
      "recent": 27,
      "articles": 62,
-     "share": 0.089,
+     "share": 0.088,
      "atSectorStart": false,
      "adopt": 9
     },
@@ -56428,7 +56667,7 @@
      "firstSeen": "2026-07-07",
      "recent": 2,
      "articles": 3,
-     "share": 0.007,
+     "share": 0.006,
      "atSectorStart": false,
      "adopt": 46
     },
@@ -56446,7 +56685,7 @@
      "firstSeen": "2026-07-22",
      "recent": 2,
      "articles": 4,
-     "share": 0.007,
+     "share": 0.006,
      "atSectorStart": false,
      "adopt": 61
     },
@@ -56455,7 +56694,7 @@
      "firstSeen": "2026-07-31",
      "recent": 6,
      "articles": 8,
-     "share": 0.02,
+     "share": 0.019,
      "atSectorStart": false,
      "adopt": 70
     }
@@ -56464,7 +56703,7 @@
    "origins": [
     [
      "US",
-     370
+     373
     ],
     [
      "TW",
@@ -56519,7 +56758,7 @@
        2,
        98,
        123,
-       87
+       90
       ]
      },
      {
@@ -56729,7 +56968,7 @@
      "rising",
      6,
      2,
-     31.7,
+     31.5,
      [
       {
        "title": "LS ELECTRIC to Supply 48.6 Billion Won of \u2f00Power Distribution\u2f01 Systems to Bloom Energy",
@@ -56760,7 +56999,7 @@
      "rising",
      10,
      4,
-     26.4,
+     26.3,
      [
       {
        "title": "The \u2f00large load\u2f01 Irish goodbye | Factor This Brief",
@@ -56798,7 +57037,7 @@
      "new",
      6,
      0,
-     23.8,
+     23.6,
      [
       {
        "title": "Nvidia invests up to US$3B in Lancium as energy becomes new AI bottleneck",
@@ -56829,7 +57068,7 @@
      "rising",
      4,
      2,
-     21.2,
+     21.0,
      [
       {
        "title": "Amazon builds 7.65 GW gas plant for Texas AI data center campus",
@@ -56853,7 +57092,7 @@
      "rising",
      6,
      4,
-     19.0,
+     18.9,
      [
       {
        "title": "Anthropic's US$9.1B Riot deal underscores its scramble for AI computing power",
@@ -56870,7 +57109,7 @@
      "new",
      12,
      0,
-     17.3,
+     17.2,
      [
       {
        "title": "Sponsored: Castrol ON PG25 cooling fluids validated for NVIDIA AI factory and data center infrastructure",
@@ -57367,7 +57606,7 @@
     },
     {
      "day": "2026-08-19",
-     "n": 16
+     "n": 19
     }
    ],
    "variants": [
@@ -57375,11 +57614,11 @@
     "data center load",
     "grid operator"
    ],
-   "docFreq": 0.0289,
-   "specificity": 0.037,
-   "homeShare": 0.754,
+   "docFreq": 0.0291,
+   "specificity": 0.029,
+   "homeShare": 0.756,
    "daysSeen": 14,
-   "rank": 0.561
+   "rank": 0.553
   },
   {
    "id": "rare-earth",
@@ -57601,7 +57840,7 @@
      "rising",
      6,
      2,
-     571.3,
+     572.7,
      [
       {
        "title": "India draws 20 bids for rare earth magnet manufacturing scheme",
@@ -57618,7 +57857,7 @@
      "steady",
      2,
      2,
-     571.3,
+     572.7,
      [
       {
        "title": "Apex's rare earth assays elevate Rift among US projects",
@@ -57635,7 +57874,7 @@
      "steady",
      2,
      2,
-     190.4,
+     190.9,
      [
       {
        "title": "American rare Earths, Novex to boost US magnet production",
@@ -57652,7 +57891,7 @@
      "steady",
      2,
      2,
-     114.3,
+     114.5,
      [
       {
        "title": "The Next \u2f00Energy Crisis\u2f01 Could Be a Water Crisis",
@@ -57669,7 +57908,7 @@
      "rising",
      10,
      4,
-     21.6,
+     21.5,
      [
       {
        "title": "American rare Earths, Novex to boost US magnet production",
@@ -58170,10 +58409,549 @@
     }
    ],
    "docFreq": 0.0016,
-   "specificity": 0.946,
+   "specificity": 0.947,
    "homeShare": 0.667,
    "daysSeen": 8,
    "rank": 0.541
+  },
+  {
+   "id": "vessel-attack",
+   "term": "vessel attack",
+   "direction": "new",
+   "display": false,
+   "adoptionSpan": 10,
+   "pace": "mixed",
+   "kind": "concept",
+   "sectorCount": 2,
+   "effectiveSectors": 2.0,
+   "newestSector": "Supply chain",
+   "daysSinceNewestSector": 2,
+   "articles14d": 6,
+   "articlesPrior14d": 0,
+   "publishers": 3,
+   "topPubShare": 0.5,
+   "sectors": [
+    {
+     "name": "Energy",
+     "firstSeen": "2026-08-07",
+     "recent": 3,
+     "articles": 3,
+     "share": 0.5,
+     "atSectorStart": false,
+     "adopt": 77
+    },
+    {
+     "name": "Supply chain",
+     "firstSeen": "2026-08-17",
+     "recent": 3,
+     "articles": 3,
+     "share": 0.5,
+     "atSectorStart": false,
+     "adopt": 87
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "SG",
+     3
+    ],
+    [
+     "US",
+     3
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-05-22",
+     "2026-05-29",
+     "2026-06-05",
+     "2026-06-12",
+     "2026-06-19",
+     "2026-06-26",
+     "2026-07-03",
+     "2026-07-10",
+     "2026-07-17",
+     "2026-07-24",
+     "2026-07-31",
+     "2026-08-07",
+     "2026-08-14"
+    ],
+    "bands": [
+     {
+      "sector": "Energy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "sector": "Supply chain",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       3
+      ]
+     }
+    ]
+   },
+   "cooc": [
+    [
+     "refined product",
+     1.0,
+     "new",
+     4,
+     0,
+     649.1,
+     [
+      {
+       "title": "ADNOC Reports 15 Vessel Attacks as Hormuz Risks Mount",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Reports-15-Vessel-Attacks-as-Hormuz-Risks-Mount.html",
+       "publisher": "OilPrice",
+       "sector": "Energy",
+       "quote": "\u2026ompany tries to keep crude, gas and \u2f00refined products\u2f01 moving through the Strait of Hormuz. Fifteen ADNOC vessels have been hit by missiles or drones since the war\u2026"
+      }
+     ]
+    ]
+   ],
+   "examples": [
+    {
+     "publisher": "OilPrice",
+     "title": "Strait of Hormuz Shipping Slows After \u2f00Vessel Attack\u2f01",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Strait-of-Hormuz-Shipping-Slows-After-Vessel-Attack.html",
+     "sector": "Energy",
+     "country": "US",
+     "quote": ""
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "U.S. Diesel Reserves Sit Near 23-Year Lows",
+     "url": "https://oilprice.com/Energy/Gas-Prices/US-Diesel-Reserves-Sit-Near-23-Year-Lows.html",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026g around $91 a barrel after another \u2f00vessel attack\u2f01 was reported near the Hormuz maritime\u2026"
+    },
+    {
+     "publisher": "Seatrade Maritime",
+     "title": "Crew injured in Hormuz \u2f00vessel attack\u2f01",
+     "url": "https://www.seatrade-maritime.com/security/crew-injured-in-hormuz-vessel-attack",
+     "sector": "Supply chain",
+     "country": "SG",
+     "quote": ""
+    },
+    {
+     "publisher": "Splash247",
+     "title": "Dark transits keep Hormuz oil flowing",
+     "url": "https://splash247.com/dark-transits-keep-hormuz-oil-flowing/",
+     "sector": "Supply chain",
+     "country": "SG",
+     "quote": "\u2026Dhabi's ADNOC has suffered another \u2f00vessel attack\u2f01 in the Strait of Hormuz even as increasingly sophisticated shuttle operations allow Gulf oil exports to keep\u2026"
+    },
+    {
+     "publisher": "Seatrade Maritime",
+     "title": "Frequency of \u2f00vessel attacks\u2f01 in Hormuz increases",
+     "url": "https://www.seatrade-maritime.com/security/frequency-of-vessel-attacks-in-hormuz-increases",
+     "sector": "Supply chain",
+     "country": "SG",
+     "quote": ""
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "ADNOC Reports 15 \u2f00Vessel Attacks\u2f01 as Hormuz Risks Mount",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Reports-15-Vessel-Attacks-as-Hormuz-Risks-Mount.html",
+     "sector": "Energy",
+     "country": "US",
+     "quote": ""
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-05-22",
+     "n": 0
+    },
+    {
+     "day": "2026-05-23",
+     "n": 0
+    },
+    {
+     "day": "2026-05-24",
+     "n": 0
+    },
+    {
+     "day": "2026-05-25",
+     "n": 0
+    },
+    {
+     "day": "2026-05-26",
+     "n": 0
+    },
+    {
+     "day": "2026-05-27",
+     "n": 0
+    },
+    {
+     "day": "2026-05-28",
+     "n": 0
+    },
+    {
+     "day": "2026-05-29",
+     "n": 0
+    },
+    {
+     "day": "2026-05-30",
+     "n": 0
+    },
+    {
+     "day": "2026-05-31",
+     "n": 0
+    },
+    {
+     "day": "2026-06-01",
+     "n": 0
+    },
+    {
+     "day": "2026-06-02",
+     "n": 0
+    },
+    {
+     "day": "2026-06-03",
+     "n": 0
+    },
+    {
+     "day": "2026-06-04",
+     "n": 0
+    },
+    {
+     "day": "2026-06-05",
+     "n": 0
+    },
+    {
+     "day": "2026-06-06",
+     "n": 0
+    },
+    {
+     "day": "2026-06-07",
+     "n": 0
+    },
+    {
+     "day": "2026-06-08",
+     "n": 0
+    },
+    {
+     "day": "2026-06-09",
+     "n": 0
+    },
+    {
+     "day": "2026-06-10",
+     "n": 0
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 0
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 0
+    },
+    {
+     "day": "2026-06-16",
+     "n": 0
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 0
+    },
+    {
+     "day": "2026-06-19",
+     "n": 0
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 0
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-31",
+     "n": 0
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 0
+    },
+    {
+     "day": "2026-08-04",
+     "n": 0
+    },
+    {
+     "day": "2026-08-05",
+     "n": 0
+    },
+    {
+     "day": "2026-08-06",
+     "n": 0
+    },
+    {
+     "day": "2026-08-07",
+     "n": 1
+    },
+    {
+     "day": "2026-08-08",
+     "n": 0
+    },
+    {
+     "day": "2026-08-09",
+     "n": 0
+    },
+    {
+     "day": "2026-08-10",
+     "n": 0
+    },
+    {
+     "day": "2026-08-11",
+     "n": 0
+    },
+    {
+     "day": "2026-08-12",
+     "n": 0
+    },
+    {
+     "day": "2026-08-13",
+     "n": 0
+    },
+    {
+     "day": "2026-08-14",
+     "n": 0
+    },
+    {
+     "day": "2026-08-15",
+     "n": 0
+    },
+    {
+     "day": "2026-08-16",
+     "n": 0
+    },
+    {
+     "day": "2026-08-17",
+     "n": 2
+    },
+    {
+     "day": "2026-08-18",
+     "n": 2
+    },
+    {
+     "day": "2026-08-19",
+     "n": 1
+    }
+   ],
+   "docFreq": 0.0006,
+   "specificity": 0.981,
+   "homeShare": 0.5,
+   "daysSeen": 4,
+   "rank": 0.67
   },
   {
    "id": "wind-farm",
@@ -58857,7 +59635,7 @@
      "new",
      4,
      0,
-     925.0,
+     927.2,
      [
       {
        "title": "UK Inflation Set to Rebound as Energy Bills Surge",
@@ -58881,7 +59659,7 @@
      "new",
      6,
      0,
-     832.5,
+     834.5,
      [
       {
        "title": "Iran War Set to Drive UK Energy Bills to 3-Year High",
@@ -59512,7 +60290,7 @@
      "new",
      4,
      0,
-     404.7,
+     405.7,
      [
       {
        "title": "Energy Dominance Requires Commitments That Last",
@@ -60672,7 +61450,7 @@
      "new",
      4,
      0,
-     9.1,
+     9.0,
      [
       {
        "title": "GaAs gains ground in short-reach AI optics as InP constraints mount",
@@ -61310,7 +62088,7 @@
      "new",
      4,
      0,
-     20.9,
+     20.8,
      [
       {
        "title": "AMD Quadruples Rack-Scale Energy Efficiency",
@@ -62033,7 +62811,7 @@
      "steady",
      2,
      2,
-     83.7,
+     83.9,
      [
       {
        "title": "India Turns to Piped Gas as Iran War Drives Up LPG Costs",
@@ -62050,7 +62828,7 @@
      "new",
      4,
      0,
-     83.7,
+     83.9,
      [
       {
        "title": "Indian Refiners Seek 6 Million Barrels of Spot Crude",
@@ -62067,7 +62845,7 @@
      "rising",
      6,
      2,
-     71.8,
+     71.9,
      [
       {
        "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
@@ -62091,7 +62869,7 @@
      "new",
      4,
      0,
-     67.0,
+     67.1,
      [
       {
        "title": "Gulf Marine Services secures fresh work for offshore vessel",
@@ -62115,7 +62893,7 @@
      "rising",
      14,
      2,
-     41.9,
+     42.0,
      [
       {
        "title": "Alliance strategies diverge amid Middle East crisis",
@@ -62167,7 +62945,7 @@
      "rising",
      8,
      2,
-     37.2,
+     37.3,
      [
       {
        "title": "5 Energy Stocks Cashing In On The New Energy Crunch",
@@ -62668,7 +63446,7 @@
     }
    ],
    "docFreq": 0.0055,
-   "specificity": 0.817,
+   "specificity": 0.818,
    "homeShare": 0.538,
    "daysSeen": 13,
    "rank": 0.469
@@ -62844,7 +63622,7 @@
      "rising",
      8,
      2,
-     12.7,
+     12.6,
      [
       {
        "title": "AI Could Make Big Oil Even Bigger",
