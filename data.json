@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-19T02:18:15.692677+00:00",
+ "generated": "2026-08-19T03:00:10.384797+00:00",
  "placeWords": [
   "africa",
   "alberta",
@@ -2741,11 +2741,11 @@
   ],
   [
    "GB",
-   591
+   592
   ],
   [
    "IN",
-   580
+   582
   ],
   [
    "KR",
@@ -2761,7 +2761,7 @@
   ],
   [
    "SG",
-   259
+   260
   ],
   [
    "AU",
@@ -4350,282 +4350,6 @@
    ]
   },
   {
-   "prior14d": 21,
-   "direction": "steady",
-   "ticker": "AMZN",
-   "name": "Amazon",
-   "sector": "Technology",
-   "borrowed": [
-    "water level",
-    "energy storage",
-    "natural gas",
-    "fired power"
-   ],
-   "articles": 60,
-   "articles14d": 26,
-   "terms": [
-    {
-     "term": "water level",
-     "id": "water-level",
-     "articles": 2,
-     "home": "Supply chain",
-     "shown": true,
-     "sectors": 2,
-     "direction": "rising",
-     "variants": [
-      "low water level",
-      "low water"
-     ],
-     "examples": [
-      {
-       "publisher": "Supply Chain Dive",
-       "title": "Panama Canal continues draft restrictions, ocean carriers up fees",
-       "url": "https://www.supplychaindive.com/news/panama-canal-continues-draft-restrictions-ocean-carriers-up-fees/828039/",
-       "sector": "Supply chain",
-       "country": "US",
-       "quote": "\u2026major waterway continues to monitor \u2f00water levels\u2f01 and adjust water draft restrictions."
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Romania Restarts Coal Plant as Danube Drought Forces Nuclear Shutdown",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Romania-Restarts-Coal-Plant-as-Danube-Drought-Forces-Nuclear-Shutdown.html",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026ar electricity output after the low \u2f00water level\u2f01 on the Danube river forced a shutdown of the country's only nuclear power plant. Romania, which lost 20% of i\u2026"
-      },
-      {
-       "publisher": "Container News",
-       "title": "Low Rhine water forces cargo shift from barges to rail",
-       "url": "https://container-news.com/low-rhine-water-forces-cargo-shift-from-barges-to-rail/",
-       "sector": "Supply chain",
-       "country": "GR",
-       "quote": "Low \u2f00water levels\u2f01 on the Rhine are pushing more freight onto rail as inland shipping capacity comes under growing pressure. Rhe\u2026"
-      }
-     ]
-    },
-    {
-     "term": "energy storage",
-     "id": "energy-storage",
-     "articles": 1,
-     "home": "Utilities",
-     "shown": true,
-     "sectors": 3,
-     "direction": "steady",
-     "variants": [
-      "storage system",
-      "battery storage",
-      "storage capacity"
-     ],
-     "examples": [
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "ABB launches ultracapacitor storage system to meet Ireland's grid code for data centers",
-       "url": "https://www.datacenterdynamics.com/en/news/abb-launches-ultracapacitor-storage-system-to-meet-irelands-grid-code-for-data-centers/",
-       "sector": "Technology",
-       "country": "US",
-       "quote": "Will combine its ultracapacitor \u2f00energy storage\u2f01 system with grid-forming power conversion"
-      },
-      {
-       "publisher": "Energy Storage News",
-       "title": "Ausgrid's PLUS Grid Storage breaks ground on 400MWh Steel River East BESS in Australia",
-       "url": "https://www.energy-storage.news/ausgrids-plus-grid-storage-breaks-ground-on-400mwh-steel-river-east-bess-in-australia/",
-       "sector": "Utilities",
-       "country": "GB",
-       "quote": "\u20260MW/400MWh Steel River East battery \u2f00energy storage\u2f01 system (BESS) in Newcastle, New South Wales, marking the first project delivery for developer PLUS Grid Stora\u2026"
-      },
-      {
-       "publisher": "Energy Storage News",
-       "title": "China's \u2f00energy storage\u2f01 market doubles in size for second consecutive year as price inflection point emerges",
-       "url": "https://www.energy-storage.news/chinas-energy-storage-market-doubles-in-size-for-second-consecutive-year-as-price-inflection-point-emerges/",
-       "sector": "Utilities",
-       "country": "GB",
-       "quote": "\u2f00Energy storage\u2f01 deployments in China saw significant year-over-year growth in 2025 as the market size effectively doubled."
-      }
-     ]
-    },
-    {
-     "term": "natural gas",
-     "id": "natural-gas",
-     "articles": 1,
-     "home": "Energy",
-     "shown": true,
-     "sectors": 3,
-     "direction": "falling",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "Facilities Dive",
-       "title": "Power \u2018quality' is why SpaceX's Terafab is going with on-site gas, analysts say",
-       "url": "https://www.facilitiesdive.com/news/power-quality-is-why-spacexs-terafab-is-going-with-on-site-gas-analysts/828086/",
-       "sector": "Industrials",
-       "country": "US",
-       "quote": "\u2026st manufacturing facility would use \u2f00natural gas\u2f01 turbines and battery storage because silicon chips require a highly stable voltage supply, according to analy\u2026"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "NextEra secures $3.3bn in state funding for 10GW of new \u2f00natural gas\u2f01 generation to meet growing data center power needs",
-       "url": "https://www.datacenterdynamics.com/en/news/nextera-secures-33bn-in-state-funding-for-10gw-of-new-natural-gas-generation-to-meet-growing-data-center-power-needs/",
-       "sector": "Technology",
-       "country": "US",
-       "quote": ""
-      },
-      {
-       "publisher": "Federal Register",
-       "title": "Safety Zone; ANCHOR Floating Production Unit (FPU) Outer Continental Shelf Facility, Green Canyon Block 763, Gulf of America",
-       "url": "https://www.federalregister.gov/documents/2026/08/18/2026-16806/safety-zone-anchor-floating-production-unit-fpu-outer-continental-shelf-facility-green-canyon-block",
-       "sector": "Policy",
-       "country": "US",
-       "quote": "\u2026y breaches, oil spills, releases of \u2f00natural gas\u2f01, and thereby protect the safety of life, property, and the environment. This rule prohibits entry of vessels\u2026"
-      }
-     ]
-    },
-    {
-     "term": "fired power",
-     "id": "fired-power",
-     "articles": 1,
-     "home": "Energy",
-     "shown": true,
-     "sectors": 2,
-     "direction": "steady",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "OilPrice",
-       "title": "Romania Restarts Coal Plant as Danube Drought Forces Nuclear Shutdown",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Romania-Restarts-Coal-Plant-as-Danube-Drought-Forces-Nuclear-Shutdown.html",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026week restarted a 300-megawatt coal-\u2f00fired power\u2f01 plant to partially offset the generation lost by the closure of nuclear electricity output after the low wate\u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "China's Renewables Boom Faces Record Clean Power Curtailments",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Renewables-Boom-Faces-Record-Clean-Power-Curtailments.html",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "Grid constraints and rising coal-\u2f00fired power\u2f01 generation in China led to soaring curtailment rates of solar and wind power generation in the first half of\u2026"
-      },
-      {
-       "publisher": "Utility Dive",
-       "title": "FERC approves TransAlta, PowerTransitions gas-\u2f00fired power\u2f01 plant deals",
-       "url": "https://www.utilitydive.com/news/ferc-transalta-powertransitions-gas-fired-power-plant-deals/827892/",
-       "sector": "Utilities",
-       "country": "US",
-       "quote": ""
-      }
-     ]
-    },
-    {
-     "term": "data center",
-     "id": "data-center",
-     "articles": 8,
-     "home": "Technology",
-     "shown": false,
-     "sectors": 8,
-     "direction": "falling",
-     "variants": [
-      "data center power",
-      "data center load",
-      "grid operator"
-     ],
-     "examples": [
-      {
-       "publisher": "The Elec",
-       "title": "LS ELECTRIC to Supply 48.6 Billion Won of Power Distribution Systems to Bloom Energy",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=13149",
-       "sector": "Technology",
-       "country": "KR",
-       "quote": "\u2026ribution solutions for a hyperscale \u2f00data center\u2f01 in the US.LS ELECTRIC said on Aug. 18 that it signed a $34.26 million contract with Bloom Energy to supply po\u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "AI Could Make Big Oil Even Bigger",
-       "url": "https://oilprice.com/Energy/Crude-Oil/AI-Could-Make-Big-Oil-Even-Bigger.html",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "AI is changing energy systems, but \u2f00data centers\u2f01 are only a small part of the impact. Much has been written and said about how the data center and AI boom are\u2026"
-      },
-      {
-       "publisher": "POWER Magazine",
-       "title": "The New Economics of AI Infrastructure: Why Tax Strategy Is Now Part of Energy Strategy",
-       "url": "https://www.powermag.com/the-new-economics-of-ai-infrastructure-why-tax-strategy-is-now-part-of-energy-strategy/",
-       "sector": "Utilities",
-       "country": "US",
-       "quote": "The conversation around \u2f00data center\u2f01 development has changed dramatically over the past few years. Earlier, when developers needed to evaluate a n\u2026"
-      }
-     ]
-    },
-    {
-     "term": "supply chain",
-     "id": "supply-chain",
-     "articles": 3,
-     "home": "Technology",
-     "shown": false,
-     "sectors": 8,
-     "direction": "falling",
-     "variants": [
-      "global supply chain"
-     ],
-     "examples": [
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "China dominates optical modules but US allies hold the upstream keys",
-       "url": "https://www.digitimes.com/news/a20260819PD207/technology-supply-chain-production-equipment-data.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026spreading into a new part of the AI \u2f00supply chain\u2f01: optical transceivers, the critical devices that connect AI servers to fiber-optic networks by converting ele\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Rattled \u2f00supply chains\u2f01: Over half of Taiwan firms feel the squeeze of US-Iran conflict",
-       "url": "https://www.digitimes.com/news/a20260818PD209/taitra-taiwan-cost-supply-chain.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026s disrupt energy, raw material, and \u2f00supply chain\u2f01 conditions."
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Elite Advanced Laser says AI optical Shortage could last for years as orders outpace capacity",
-       "url": "https://www.digitimes.com/news/a20260819PB200/capacity-demand-packaging-supply-chain-revenue.html",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026sistent shortages in the AI optical \u2f00supply chain\u2f01 are likely to continue for years, as demand for high-speed connections continues to outpace supply. The packa\u2026"
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "Supply Chain Dive",
-     "title": "\u2f00Amazon\u2f01 preps 1M-square-foot distribution center in Connecticut",
-     "url": "https://www.supplychaindive.com/news/amazon-preps-1m-square-foot-distribution-center-in-connecticut/828085/",
-     "sector": "Supply chain",
-     "quote": ""
-    },
-    {
-     "publisher": "Mining.com",
-     "title": "Petrobras finds oil off \u2f00Amazon\u2f01 as Lula touts potential",
-     "url": "https://www.mining.com/petrobras-finds-oil-off-amazon-as-lula-touts-potential/",
-     "sector": "Materials",
-     "quote": ""
-    },
-    {
-     "publisher": "LaborPress",
-     "title": "Teamsters Release Report on \u2f00Amazon\u2f01 Violations of NYS Warn Act",
-     "url": "https://www.laborpress.org/teamsters-release-report-on-amazon-violations-of-nys-warn-act/",
-     "sector": "Labor",
-     "quote": "\u2026eamsters released a report exposing \u2f00Amazon\u2f01 as the leading violator of the New York State Worker Adjustment and Retraining Notification (NY WARN) Act. Th\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Ranked: How Dirty Are the Eight Biggest Names in AI",
-     "url": "https://oilprice.com/Energy/Energy-General/Ranked-How-Dirty-Are-the-Eight-Biggest-Names-in-AI.html",
-     "sector": "Energy",
-     "quote": "\u2026ecarbonization goals. Back in 2019, \u2f00Amazon\u2f01 pledged to become carbon neutral by 2040, thereby setting a goalpost ten years ahead of the Paris climate agr\u2026"
-    }
-   ]
-  },
-  {
    "prior14d": 22,
    "direction": "rising",
    "ticker": "GOOGL",
@@ -5087,6 +4811,245 @@
    ]
   },
   {
+   "prior14d": 21,
+   "direction": "steady",
+   "ticker": "AMZN",
+   "name": "Amazon",
+   "sector": "Technology",
+   "borrowed": [
+    "water level",
+    "energy storage",
+    "natural gas"
+   ],
+   "articles": 60,
+   "articles14d": 26,
+   "terms": [
+    {
+     "term": "water level",
+     "id": "water-level",
+     "articles": 2,
+     "home": "Supply chain",
+     "shown": true,
+     "sectors": 2,
+     "direction": "rising",
+     "variants": [
+      "low water level",
+      "low water"
+     ],
+     "examples": [
+      {
+       "publisher": "Supply Chain Dive",
+       "title": "Panama Canal continues draft restrictions, ocean carriers up fees",
+       "url": "https://www.supplychaindive.com/news/panama-canal-continues-draft-restrictions-ocean-carriers-up-fees/828039/",
+       "sector": "Supply chain",
+       "country": "US",
+       "quote": "\u2026major waterway continues to monitor \u2f00water levels\u2f01 and adjust water draft restrictions."
+      },
+      {
+       "publisher": "OilPrice",
+       "title": "Romania Restarts Coal Plant as Danube Drought Forces Nuclear Shutdown",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Romania-Restarts-Coal-Plant-as-Danube-Drought-Forces-Nuclear-Shutdown.html",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2026ar electricity output after the low \u2f00water level\u2f01 on the Danube river forced a shutdown of the country's only nuclear power plant. Romania, which lost 20% of i\u2026"
+      },
+      {
+       "publisher": "Container News",
+       "title": "Low Rhine water forces cargo shift from barges to rail",
+       "url": "https://container-news.com/low-rhine-water-forces-cargo-shift-from-barges-to-rail/",
+       "sector": "Supply chain",
+       "country": "GR",
+       "quote": "Low \u2f00water levels\u2f01 on the Rhine are pushing more freight onto rail as inland shipping capacity comes under growing pressure. Rhe\u2026"
+      }
+     ]
+    },
+    {
+     "term": "energy storage",
+     "id": "energy-storage",
+     "articles": 1,
+     "home": "Utilities",
+     "shown": true,
+     "sectors": 3,
+     "direction": "steady",
+     "variants": [
+      "storage system",
+      "battery storage",
+      "storage capacity"
+     ],
+     "examples": [
+      {
+       "publisher": "Energy Storage News",
+       "title": "EtaPRO deploys digital twin and predictive analytics at MGA Thermal's 5MWh Tomago plant in Australia",
+       "url": "https://www.energy-storage.news/etapro-deploys-digital-twin-and-predictive-analytics-at-mga-thermals-5mwh-tomago-plant-in-australia/",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "\u2026ytics at MGA Thermal's 5MWh thermal \u2f00energy storage\u2f01 demonstration plant in Australia."
+      },
+      {
+       "publisher": "Data Center Dynamics",
+       "title": "ABB launches ultracapacitor storage system to meet Ireland's grid code for data centers",
+       "url": "https://www.datacenterdynamics.com/en/news/abb-launches-ultracapacitor-storage-system-to-meet-irelands-grid-code-for-data-centers/",
+       "sector": "Technology",
+       "country": "US",
+       "quote": "Will combine its ultracapacitor \u2f00energy storage\u2f01 system with grid-forming power conversion"
+      },
+      {
+       "publisher": "Energy Storage News",
+       "title": "Ausgrid's PLUS Grid Storage breaks ground on 400MWh Steel River East BESS in Australia",
+       "url": "https://www.energy-storage.news/ausgrids-plus-grid-storage-breaks-ground-on-400mwh-steel-river-east-bess-in-australia/",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "\u20260MW/400MWh Steel River East battery \u2f00energy storage\u2f01 system (BESS) in Newcastle, New South Wales, marking the first project delivery for developer PLUS Grid Stora\u2026"
+      }
+     ]
+    },
+    {
+     "term": "natural gas",
+     "id": "natural-gas",
+     "articles": 1,
+     "home": "Energy",
+     "shown": true,
+     "sectors": 3,
+     "direction": "falling",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "Facilities Dive",
+       "title": "Power \u2018quality' is why SpaceX's Terafab is going with on-site gas, analysts say",
+       "url": "https://www.facilitiesdive.com/news/power-quality-is-why-spacexs-terafab-is-going-with-on-site-gas-analysts/828086/",
+       "sector": "Industrials",
+       "country": "US",
+       "quote": "\u2026st manufacturing facility would use \u2f00natural gas\u2f01 turbines and battery storage because silicon chips require a highly stable voltage supply, according to analy\u2026"
+      },
+      {
+       "publisher": "Data Center Dynamics",
+       "title": "NextEra secures $3.3bn in state funding for 10GW of new \u2f00natural gas\u2f01 generation to meet growing data center power needs",
+       "url": "https://www.datacenterdynamics.com/en/news/nextera-secures-33bn-in-state-funding-for-10gw-of-new-natural-gas-generation-to-meet-growing-data-center-power-needs/",
+       "sector": "Technology",
+       "country": "US",
+       "quote": ""
+      },
+      {
+       "publisher": "Federal Register",
+       "title": "Safety Zone; ANCHOR Floating Production Unit (FPU) Outer Continental Shelf Facility, Green Canyon Block 763, Gulf of America",
+       "url": "https://www.federalregister.gov/documents/2026/08/18/2026-16806/safety-zone-anchor-floating-production-unit-fpu-outer-continental-shelf-facility-green-canyon-block",
+       "sector": "Policy",
+       "country": "US",
+       "quote": "\u2026y breaches, oil spills, releases of \u2f00natural gas\u2f01, and thereby protect the safety of life, property, and the environment. This rule prohibits entry of vessels\u2026"
+      }
+     ]
+    },
+    {
+     "term": "data center",
+     "id": "data-center",
+     "articles": 8,
+     "home": "Technology",
+     "shown": false,
+     "sectors": 8,
+     "direction": "falling",
+     "variants": [
+      "data center power",
+      "data center load",
+      "grid operator"
+     ],
+     "examples": [
+      {
+       "publisher": "The Elec",
+       "title": "LS ELECTRIC to Supply 48.6 Billion Won of Power Distribution Systems to Bloom Energy",
+       "url": "https://www.thelec.net/news/articleView.html?idxno=13149",
+       "sector": "Technology",
+       "country": "KR",
+       "quote": "\u2026ribution solutions for a hyperscale \u2f00data center\u2f01 in the US.LS ELECTRIC said on Aug. 18 that it signed a $34.26 million contract with Bloom Energy to supply po\u2026"
+      },
+      {
+       "publisher": "OilPrice",
+       "title": "AI Could Make Big Oil Even Bigger",
+       "url": "https://oilprice.com/Energy/Crude-Oil/AI-Could-Make-Big-Oil-Even-Bigger.html",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "AI is changing energy systems, but \u2f00data centers\u2f01 are only a small part of the impact. Much has been written and said about how the data center and AI boom are\u2026"
+      },
+      {
+       "publisher": "POWER Magazine",
+       "title": "The New Economics of AI Infrastructure: Why Tax Strategy Is Now Part of Energy Strategy",
+       "url": "https://www.powermag.com/the-new-economics-of-ai-infrastructure-why-tax-strategy-is-now-part-of-energy-strategy/",
+       "sector": "Utilities",
+       "country": "US",
+       "quote": "The conversation around \u2f00data center\u2f01 development has changed dramatically over the past few years. Earlier, when developers needed to evaluate a n\u2026"
+      }
+     ]
+    },
+    {
+     "term": "supply chain",
+     "id": "supply-chain",
+     "articles": 3,
+     "home": "Technology",
+     "shown": false,
+     "sectors": 8,
+     "direction": "falling",
+     "variants": [
+      "global supply chain"
+     ],
+     "examples": [
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "China dominates optical modules but US allies hold the upstream keys",
+       "url": "https://www.digitimes.com/news/a20260819PD207/technology-supply-chain-production-equipment-data.html",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026spreading into a new part of the AI \u2f00supply chain\u2f01: optical transceivers, the critical devices that connect AI servers to fiber-optic networks by converting ele\u2026"
+      },
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "Rattled \u2f00supply chains\u2f01: Over half of Taiwan firms feel the squeeze of US-Iran conflict",
+       "url": "https://www.digitimes.com/news/a20260818PD209/taitra-taiwan-cost-supply-chain.html",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026s disrupt energy, raw material, and \u2f00supply chain\u2f01 conditions."
+      },
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "Elite Advanced Laser says AI optical Shortage could last for years as orders outpace capacity",
+       "url": "https://www.digitimes.com/news/a20260819PB200/capacity-demand-packaging-supply-chain-revenue.html",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026sistent shortages in the AI optical \u2f00supply chain\u2f01 are likely to continue for years, as demand for high-speed connections continues to outpace supply. The packa\u2026"
+      }
+     ]
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "Supply Chain Dive",
+     "title": "\u2f00Amazon\u2f01 preps 1M-square-foot distribution center in Connecticut",
+     "url": "https://www.supplychaindive.com/news/amazon-preps-1m-square-foot-distribution-center-in-connecticut/828085/",
+     "sector": "Supply chain",
+     "quote": ""
+    },
+    {
+     "publisher": "Mining.com",
+     "title": "Petrobras finds oil off \u2f00Amazon\u2f01 as Lula touts potential",
+     "url": "https://www.mining.com/petrobras-finds-oil-off-amazon-as-lula-touts-potential/",
+     "sector": "Materials",
+     "quote": ""
+    },
+    {
+     "publisher": "LaborPress",
+     "title": "Teamsters Release Report on \u2f00Amazon\u2f01 Violations of NYS Warn Act",
+     "url": "https://www.laborpress.org/teamsters-release-report-on-amazon-violations-of-nys-warn-act/",
+     "sector": "Labor",
+     "quote": "\u2026eamsters released a report exposing \u2f00Amazon\u2f01 as the leading violator of the New York State Worker Adjustment and Retraining Notification (NY WARN) Act. Th\u2026"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Ranked: How Dirty Are the Eight Biggest Names in AI",
+     "url": "https://oilprice.com/Energy/Energy-General/Ranked-How-Dirty-Are-the-Eight-Biggest-Names-in-AI.html",
+     "sector": "Energy",
+     "quote": "\u2026ecarbonization goals. Back in 2019, \u2f00Amazon\u2f01 pledged to become carbon neutral by 2040, thereby setting a goalpost ten years ahead of the Paris climate agr\u2026"
+    }
+   ]
+  },
+  {
    "prior14d": 10,
    "direction": "rising",
    "ticker": "TSLA",
@@ -5150,6 +5113,14 @@
      ],
      "examples": [
       {
+       "publisher": "Energy Storage News",
+       "title": "EtaPRO deploys digital twin and predictive analytics at MGA Thermal's 5MWh Tomago plant in Australia",
+       "url": "https://www.energy-storage.news/etapro-deploys-digital-twin-and-predictive-analytics-at-mga-thermals-5mwh-tomago-plant-in-australia/",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "\u2026ytics at MGA Thermal's 5MWh thermal \u2f00energy storage\u2f01 demonstration plant in Australia."
+      },
+      {
        "publisher": "Data Center Dynamics",
        "title": "ABB launches ultracapacitor storage system to meet Ireland's grid code for data centers",
        "url": "https://www.datacenterdynamics.com/en/news/abb-launches-ultracapacitor-storage-system-to-meet-irelands-grid-code-for-data-centers/",
@@ -5164,14 +5135,6 @@
        "sector": "Utilities",
        "country": "GB",
        "quote": "\u20260MW/400MWh Steel River East battery \u2f00energy storage\u2f01 system (BESS) in Newcastle, New South Wales, marking the first project delivery for developer PLUS Grid Stora\u2026"
-      },
-      {
-       "publisher": "Energy Storage News",
-       "title": "China's \u2f00energy storage\u2f01 market doubles in size for second consecutive year as price inflection point emerges",
-       "url": "https://www.energy-storage.news/chinas-energy-storage-market-doubles-in-size-for-second-consecutive-year-as-price-inflection-point-emerges/",
-       "sector": "Utilities",
-       "country": "GB",
-       "quote": "\u2f00Energy storage\u2f01 deployments in China saw significant year-over-year growth in 2025 as the market size effectively doubled."
       }
      ]
     },
@@ -22067,8 +22030,8 @@
   ]
  },
  "daysCollected": 114,
- "articlesStored": 10757,
- "articlesLive": 7007,
+ "articlesStored": 10761,
+ "articlesLive": 7011,
  "windowDays": 90,
  "terms": [
   {
@@ -22269,7 +22232,7 @@
      "steady",
      2,
      2,
-     326.8,
+     327.1,
      [
       {
        "title": "Michelin to stay the course on India investments despite global cost pressures",
@@ -22282,11 +22245,11 @@
     ],
     [
      "geopolitical tension",
-     0.5,
-     "falling",
-     1,
+     1.0,
+     "steady",
      2,
-     54.5,
+     2,
+     109.0,
      [
       {
        "title": "Rattled supply chains: Over half of Taiwan firms feel the squeeze of US-Iran conflict",
@@ -22927,7 +22890,7 @@
      "steady",
      2,
      2,
-     481.6,
+     482.0,
      [
       {
        "title": "China Added More Nuclear Power In A Decade Than The Rest Of The World Combined",
@@ -22944,7 +22907,7 @@
      "new",
      4,
      0,
-     240.8,
+     241.0,
      [
       {
        "title": "HD Hyundai Heavy Industries Wins 956 Billion-Won Power Generation Deal for U.S. Data Centers",
@@ -22961,7 +22924,7 @@
      "steady",
      2,
      2,
-     160.5,
+     160.7,
      [
       {
        "title": "HD Hydrogen Completes SOFC Mass Production System",
@@ -22973,36 +22936,12 @@
      ]
     ],
     [
-     "gas fired",
-     0.33,
-     "steady",
-     2,
-     2,
-     120.4,
-     [
-      {
-       "title": "Amazon builds 7.65 GW gas plant for Texas AI data center campus",
-       "url": "https://www.digitimes.com/news/a20260811PD260/amazon-data-center-texas-plant-power-plant.html",
-       "publisher": "DigiTimes Asia",
-       "sector": "Technology",
-       "quote": "\u2026on is moving ahead with a dedicated \u2f00gas-fired\u2f01 power plant for a new data center campus in Pecos County, Texas, as part of an effort to speed AI infrastruct\u2026"
-      },
-      {
-       "title": "Gas Shortages and High Prices Derail Southeast Asia's Power Buildout",
-       "url": "https://oilprice.com/Energy/Natural-Gas/Gas-Shortages-and-High-Prices-Derail-Southeast-Asias-Power-Buildout.html",
-       "publisher": "OilPrice",
-       "sector": "Energy",
-       "quote": "\u2026of its ambitious projects to boost \u2f00gas-fired\u2f01 power generation to meet growing electricity demand and replace some of the coal use. Fuel availability, vola\u2026"
-      }
-     ]
-    ],
-    [
      "global energy",
      0.67,
      "new",
      4,
      0,
-     96.3,
+     96.4,
      [
       {
        "title": "China's Renewables Boom Faces Record Clean Power Curtailments",
@@ -23041,6 +22980,23 @@
        "publisher": "OilPrice",
        "sector": "Energy",
        "quote": "\u2026ed power generation to meet growing \u2f00electricity demand\u2f01 and replace some of the coal use. Fuel availability, volatile prices, and supply chain bottlenecks threaten t\u2026"
+      }
+     ]
+    ],
+    [
+     "natural gas",
+     0.33,
+     "falling",
+     2,
+     4,
+     13.4,
+     [
+      {
+       "title": "Mesa Power Solutions Expands With $70 Million Wyoming Manufacturing Campus",
+       "url": "https://www.powermag.com/mesa-power-solutions-expands-with-70-million-wyoming-manufacturing-campus/",
+       "publisher": "POWER Magazine",
+       "sector": "Utilities",
+       "quote": "\u2026g the company's capacity to produce \u2f00natural gas\u2f01 power generation equipment for utilities, data centers, and other commercial and industrial customers. The 22\u2026"
       }
      ]
     ]
@@ -23614,7 +23570,7 @@
      "new",
      4,
      0,
-     435.7,
+     436.1,
      [
       {
        "title": "The Battle Over North Sea Oil Is Heating Up Under Britain's New PM",
@@ -23638,7 +23594,7 @@
      "new",
      4,
      0,
-     261.4,
+     261.7,
      [
       {
        "title": "Oil Majors Reap $93 Billion Windfall From the Iran War",
@@ -23662,7 +23618,7 @@
      "steady",
      2,
      2,
-     130.7,
+     130.8,
      [
       {
        "title": "Europe's Next \u2f00Energy Crisis\u2f01 Won't Be a War, It'll Be Peak Oil",
@@ -23679,7 +23635,7 @@
      "new",
      6,
      0,
-     63.2,
+     63.3,
      [
       {
        "title": "Trump Is Spending Billions On The Minerals That Power EVs",
@@ -23710,7 +23666,7 @@
      "steady",
      2,
      2,
-     40.8,
+     40.9,
      [
       {
        "title": "Oil Majors Reap $93 Billion Windfall From the \u2f00Iran War\u2f01",
@@ -24426,7 +24382,7 @@
      "rising",
      4,
      2,
-     254.2,
+     254.4,
      [
       {
        "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
@@ -24450,7 +24406,7 @@
      "steady",
      2,
      2,
-     127.1,
+     127.2,
      [
       {
        "title": "US DOE closes US$489 million loan with Pattern Energy to support BESS, natural gas in Puerto Rico",
@@ -24467,7 +24423,7 @@
      "steady",
      4,
      4,
-     101.7,
+     101.8,
      [
       {
        "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
@@ -24498,7 +24454,7 @@
      "steady",
      2,
      2,
-     84.7,
+     84.8,
      [
       {
        "title": "Phinia third sustainability report cites 35% emissions cut",
@@ -24515,7 +24471,7 @@
      "new",
      4,
      0,
-     50.8,
+     50.9,
      [
       {
        "title": "New Zealand Approves New Oil and Gas Production as \u2f00Energy Security\u2f01 Concerns Grow",
@@ -25117,7 +25073,7 @@
      "steady",
      2,
      2,
-     13.6,
+     13.4,
      [
       {
        "title": "AI technology could improve \u2f00energy storage\u2f01",
@@ -25809,7 +25765,7 @@
      "rising",
      4,
      2,
-     147.6,
+     147.7,
      [
       {
        "title": "Why Illinois has struggled to turn old coal sites into solar farms",
@@ -25833,7 +25789,7 @@
      "new",
      6,
      0,
-     63.2,
+     63.3,
      [
       {
        "title": "Trump Is Spending Billions On The Minerals That Power EVs",
@@ -25888,7 +25844,7 @@
      "steady",
      4,
      4,
-     4.6,
+     4.7,
      [
       {
        "title": "Why Southeast Asia's Clean Energy Surge Could Stall Before It Starts",
@@ -27089,7 +27045,7 @@
      "new",
      4,
      0,
-     126.2,
+     126.3,
      [
       {
        "title": "Trump Is Spending Billions On The Minerals That Power EVs",
@@ -27627,7 +27583,7 @@
      "new",
      6,
      0,
-     571.9,
+     572.4,
      [
       {
        "title": "Drone Attack Hits Power Plant at Key Libyan Oil Hub",
@@ -27651,7 +27607,7 @@
      "new",
      4,
      0,
-     381.2,
+     381.6,
      [
       {
        "title": "Drone Attack Hits Power Plant at Key Libyan \u2f00Oil Hub\u2f01",
@@ -27675,7 +27631,7 @@
      "new",
      4,
      0,
-     305.0,
+     305.3,
      [
       {
        "title": "Drone Attack Hits Power Plant at Key Libyan Oil Hub",
@@ -28306,7 +28262,7 @@
      "new",
      4,
      0,
-     610.0,
+     610.5,
      [
       {
        "title": "The Case for Britain Backing Its North Sea Oil and Gas Industry",
@@ -28337,7 +28293,7 @@
      "steady",
      2,
      2,
-     305.0,
+     305.3,
      [
       {
        "title": "Kaohsiung mayor, BOT, SEMI address low-carbon power for chips, AI",
@@ -29477,7 +29433,7 @@
      "steady",
      4,
      4,
-     326.8,
+     327.1,
      [
       {
        "title": "Middle East War Pushes China Toward the Arctic Trade Route",
@@ -29501,7 +29457,7 @@
      "rising",
      6,
      2,
-     163.4,
+     163.5,
      [
       {
        "title": "Houthis Claim Third Attack on Saudi Aramco Refinery in Two Weeks",
@@ -29532,7 +29488,7 @@
      "steady",
      2,
      2,
-     108.9,
+     109.0,
      [
       {
        "title": "Insurers pull war-risk cover from swathe of Red Sea",
@@ -29975,10 +29931,10 @@
     }
    ],
    "docFreq": 0.0027,
-   "specificity": 0.909,
+   "specificity": 0.91,
    "homeShare": 0.714,
    "daysSeen": 9,
-   "rank": 1.056
+   "rank": 1.057
   },
   {
    "id": "water-level",
@@ -30133,7 +30089,7 @@
      "new",
      4,
      0,
-     127.1,
+     127.2,
      [
       {
        "title": "Romania Shuts Down Last Nuclear Reactor As Danube Hits 90-Year Low",
@@ -30675,7 +30631,7 @@
      "new",
      4,
      0,
-     338.9,
+     339.2,
      [
       {
        "title": "South Korean Fleet Reshuffle Creates Asia's Largest LNG Carrier Operator",
@@ -31645,6 +31601,727 @@
    "rank": 0.93
   },
   {
+   "id": "energy-storage",
+   "term": "energy storage",
+   "direction": "steady",
+   "display": true,
+   "adoptionSpan": 47,
+   "pace": "gradual",
+   "kind": "concept",
+   "sectorCount": 3,
+   "effectiveSectors": 2.62,
+   "newestSector": "Technology",
+   "daysSinceNewestSector": 15,
+   "articles14d": 62,
+   "articlesPrior14d": 18,
+   "publishers": 12,
+   "topPubShare": 0.448,
+   "sectors": [
+    {
+     "name": "Energy",
+     "firstSeen": "2026-06-18",
+     "recent": 16,
+     "articles": 21,
+     "share": 0.267,
+     "atSectorStart": false,
+     "adopt": 27
+    },
+    {
+     "name": "Utilities",
+     "firstSeen": "2026-07-30",
+     "recent": 33,
+     "articles": 46,
+     "share": 0.55,
+     "atSectorStart": false,
+     "adopt": 69
+    },
+    {
+     "name": "Technology",
+     "firstSeen": "2026-08-04",
+     "recent": 11,
+     "articles": 13,
+     "share": 0.183,
+     "atSectorStart": false,
+     "adopt": 74
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "GB",
+     44
+    ],
+    [
+     "US",
+     15
+    ],
+    [
+     "DE",
+     13
+    ],
+    [
+     "KR",
+     5
+    ],
+    [
+     "TW",
+     5
+    ],
+    [
+     "GR",
+     1
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-05-22",
+     "2026-05-29",
+     "2026-06-05",
+     "2026-06-12",
+     "2026-06-19",
+     "2026-06-26",
+     "2026-07-03",
+     "2026-07-10",
+     "2026-07-17",
+     "2026-07-24",
+     "2026-07-31",
+     "2026-08-07",
+     "2026-08-14"
+    ],
+    "bands": [
+     {
+      "sector": "Utilities",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       2,
+       12,
+       21,
+       11
+      ]
+     },
+     {
+      "sector": "Energy",
+      "n": [
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       1,
+       0,
+       0,
+       1,
+       5,
+       9,
+       4
+      ]
+     },
+     {
+      "sector": "Technology",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       3,
+       7,
+       3
+      ]
+     },
+     {
+      "sector": "Industrials",
+      "n": [
+       1,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     },
+     {
+      "sector": "Policy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "sector": "Supply chain",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   "cooc": [
+    [
+     "grid infrastructure",
+     1.0,
+     "new",
+     6,
+     0,
+     73.9,
+     [
+      {
+       "title": "Solar crosses 3 TW threshold",
+       "url": "https://www.pv-magazine.com/2026/08/17/solar-crosses-3-tw-threshold/",
+       "publisher": "PV Magazine",
+       "sector": "Energy",
+       "quote": "\u2026growth. As deployment accelerates, \u2f00grid infrastructure\u2f01, energy storage, and demand flexibility will become critical to integrating the next wave of solar capacity.\u2026"
+      },
+      {
+       "title": "Why Illinois has struggled to turn old coal sites into solar farms",
+       "url": "https://www.canarymedia.com/articles/solar/illinois-coal-sites-to-solar-farms",
+       "publisher": "Canary Media",
+       "sector": "Energy",
+       "quote": "\u2026rgy deployment by making use of the \u2f00grid infrastructure\u2f01\u2026"
+      },
+      {
+       "title": "PV Progress across Latin America",
+       "url": "https://www.pv-magazine.com/2026/08/10/pv-progress-across-latin-america/",
+       "publisher": "PV Magazine",
+       "sector": "Energy",
+       "quote": "\u2026ng investment in energy storage and \u2f00grid infrastructure\u2f01. The post PV Progress across Latin America appeared first on pv magazine Global ."
+      }
+     ]
+    ],
+    [
+     "iron phosphate lfp",
+     0.67,
+     "new",
+     4,
+     0,
+     73.9,
+     [
+      {
+       "title": "LGES, Lopal sign three-year LFP supply deal worth up to CNY27 billion",
+       "url": "https://www.digitimes.com/news/a20260812VL230/lges-lfp-battery-partnership-production-capacity-demand.html",
+       "publisher": "DigiTimes Asia",
+       "sector": "Technology",
+       "quote": "\u2026n battery maker rapidly expands its \u2f00energy storage\u2f01 system (ESS) business."
+      },
+      {
+       "title": "LG Energy Solution Signs More Than 5 Trillion Won in LFP Cathode Supply Deals With China's Lopal Tech",
+       "url": "https://www.thelec.net/news/articleView.html?idxno=12923",
+       "publisher": "The Elec",
+       "sector": "Technology",
+       "quote": "\u2026ramps up LFP battery production for \u2f00energy storage\u2f01 systems (ESS).Lopal Tech disclosed on Aug. 6 t"
+      }
+     ]
+    ],
+    [
+     "cathode material",
+     0.67,
+     "new",
+     4,
+     0,
+     59.1,
+     [
+      {
+       "title": "LGES, Lopal sign three-year LFP supply deal worth up to CNY27 billion",
+       "url": "https://www.digitimes.com/news/a20260812VL230/lges-lfp-battery-partnership-production-capacity-demand.html",
+       "publisher": "DigiTimes Asia",
+       "sector": "Technology",
+       "quote": "\u2026on) in lithium iron phosphate (LFP) \u2f00cathode material\u2f01 sales as the South Korean battery maker rapidly expands its energy storage system (ESS) business."
+      },
+      {
+       "title": "LG Energy Solution Signs More Than 5 Trillion Won in LFP Cathode Supply Deals With China's Lopal Tech",
+       "url": "https://www.thelec.net/news/articleView.html?idxno=12923",
+       "publisher": "The Elec",
+       "sector": "Technology",
+       "quote": "\u2026rth of lithium iron phosphate (LFP) \u2f00cathode materials\u2f01 from Chinese battery materials supplier Lopal Tech, deepening cooperation as it ramps up LFP battery producti\u2026"
+      }
+     ]
+    ],
+    [
+     "lithium battery",
+     0.67,
+     "new",
+     4,
+     0,
+     42.2,
+     [
+      {
+       "title": "British firm bets on aluminium to break \u2f00lithium battery\u2f01 dependence",
+       "url": "https://www.energylivenews.com/2026/08/07/british-firm-bets-on-aluminium-to-break-lithium-battery-dependence/",
+       "publisher": "Energy Live News",
+       "sector": "Utilities",
+       "quote": "\u2026ish firm bets on aluminium to break \u2f00lithium battery\u2f01 dependence appeared first on Energy Live News ."
+      }
+     ]
+    ],
+    [
+     "solid state battery",
+     0.33,
+     "steady",
+     2,
+     2,
+     36.9,
+     [
+      {
+       "title": "AI technology could improve energy storage",
+       "url": "https://www.energylivenews.com/2026/08/12/ai-technology-could-improve-energy-storage/",
+       "publisher": "Energy Live News",
+       "sector": "Utilities",
+       "quote": "\u2026he post AI technology could improve \u2f00energy storage\u2f01 appeared first on Energy Live News ."
+      }
+     ]
+    ]
+   ],
+   "examples": [
+    {
+     "publisher": "Energy Storage News",
+     "title": "EtaPRO deploys digital twin and predictive analytics at MGA Thermal's 5MWh Tomago plant in Australia",
+     "url": "https://www.energy-storage.news/etapro-deploys-digital-twin-and-predictive-analytics-at-mga-thermals-5mwh-tomago-plant-in-australia/",
+     "sector": "Utilities",
+     "country": "GB",
+     "quote": "\u2026ytics at MGA Thermal's 5MWh thermal \u2f00energy storage\u2f01 demonstration plant in Australia."
+    },
+    {
+     "publisher": "Data Center Dynamics",
+     "title": "ABB launches ultracapacitor storage system to meet Ireland's grid code for data centers",
+     "url": "https://www.datacenterdynamics.com/en/news/abb-launches-ultracapacitor-storage-system-to-meet-irelands-grid-code-for-data-centers/",
+     "sector": "Technology",
+     "country": "US",
+     "quote": "Will combine its ultracapacitor \u2f00energy storage\u2f01 system with grid-forming power conversion"
+    },
+    {
+     "publisher": "Energy Storage News",
+     "title": "Ausgrid's PLUS Grid Storage breaks ground on 400MWh Steel River East BESS in Australia",
+     "url": "https://www.energy-storage.news/ausgrids-plus-grid-storage-breaks-ground-on-400mwh-steel-river-east-bess-in-australia/",
+     "sector": "Utilities",
+     "country": "GB",
+     "quote": "\u20260MW/400MWh Steel River East battery \u2f00energy storage\u2f01 system (BESS) in Newcastle, New South Wales, marking the first project delivery for developer PLUS Grid Stora\u2026"
+    },
+    {
+     "publisher": "Energy Storage News",
+     "title": "China's \u2f00energy storage\u2f01 market doubles in size for second consecutive year as price inflection point emerges",
+     "url": "https://www.energy-storage.news/chinas-energy-storage-market-doubles-in-size-for-second-consecutive-year-as-price-inflection-point-emerges/",
+     "sector": "Utilities",
+     "country": "GB",
+     "quote": "\u2f00Energy storage\u2f01 deployments in China saw significant year-over-year growth in 2025 as the market size effectively doubled."
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-05-22",
+     "n": 0
+    },
+    {
+     "day": "2026-05-23",
+     "n": 0
+    },
+    {
+     "day": "2026-05-24",
+     "n": 0
+    },
+    {
+     "day": "2026-05-25",
+     "n": 0
+    },
+    {
+     "day": "2026-05-26",
+     "n": 0
+    },
+    {
+     "day": "2026-05-27",
+     "n": 1
+    },
+    {
+     "day": "2026-05-28",
+     "n": 0
+    },
+    {
+     "day": "2026-05-29",
+     "n": 0
+    },
+    {
+     "day": "2026-05-30",
+     "n": 0
+    },
+    {
+     "day": "2026-05-31",
+     "n": 0
+    },
+    {
+     "day": "2026-06-01",
+     "n": 0
+    },
+    {
+     "day": "2026-06-02",
+     "n": 0
+    },
+    {
+     "day": "2026-06-03",
+     "n": 0
+    },
+    {
+     "day": "2026-06-04",
+     "n": 0
+    },
+    {
+     "day": "2026-06-05",
+     "n": 0
+    },
+    {
+     "day": "2026-06-06",
+     "n": 0
+    },
+    {
+     "day": "2026-06-07",
+     "n": 0
+    },
+    {
+     "day": "2026-06-08",
+     "n": 0
+    },
+    {
+     "day": "2026-06-09",
+     "n": 0
+    },
+    {
+     "day": "2026-06-10",
+     "n": 0
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 0
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 0
+    },
+    {
+     "day": "2026-06-16",
+     "n": 0
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 1
+    },
+    {
+     "day": "2026-06-19",
+     "n": 0
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 0
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 1
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 1
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 1
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 2
+    },
+    {
+     "day": "2026-07-31",
+     "n": 3
+    },
+    {
+     "day": "2026-08-01",
+     "n": 1
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 1
+    },
+    {
+     "day": "2026-08-04",
+     "n": 6
+    },
+    {
+     "day": "2026-08-05",
+     "n": 4
+    },
+    {
+     "day": "2026-08-06",
+     "n": 5
+    },
+    {
+     "day": "2026-08-07",
+     "n": 6
+    },
+    {
+     "day": "2026-08-08",
+     "n": 0
+    },
+    {
+     "day": "2026-08-09",
+     "n": 0
+    },
+    {
+     "day": "2026-08-10",
+     "n": 6
+    },
+    {
+     "day": "2026-08-11",
+     "n": 7
+    },
+    {
+     "day": "2026-08-12",
+     "n": 9
+    },
+    {
+     "day": "2026-08-13",
+     "n": 9
+    },
+    {
+     "day": "2026-08-14",
+     "n": 5
+    },
+    {
+     "day": "2026-08-15",
+     "n": 1
+    },
+    {
+     "day": "2026-08-16",
+     "n": 0
+    },
+    {
+     "day": "2026-08-17",
+     "n": 10
+    },
+    {
+     "day": "2026-08-18",
+     "n": 3
+    },
+    {
+     "day": "2026-08-19",
+     "n": 1
+    }
+   ],
+   "docFreq": 0.006,
+   "specificity": 0.8,
+   "homeShare": 0.55,
+   "daysSeen": 11,
+   "rank": 0.93,
+   "variants": [
+    "storage system",
+    "battery storage",
+    "storage capacity"
+   ]
+  },
+  {
    "id": "trade-corridor",
    "term": "trade corridor",
    "direction": "rising",
@@ -31753,7 +32430,7 @@
      "new",
      4,
      0,
-     261.4,
+     261.7,
      [
       {
        "title": "Oil Majors Reap $93 Billion Windfall From the Iran War",
@@ -32175,727 +32852,6 @@
    "rank": 0.92
   },
   {
-   "id": "energy-storage",
-   "term": "energy storage",
-   "direction": "steady",
-   "display": true,
-   "adoptionSpan": 47,
-   "pace": "gradual",
-   "kind": "concept",
-   "sectorCount": 3,
-   "effectiveSectors": 2.64,
-   "newestSector": "Technology",
-   "daysSinceNewestSector": 15,
-   "articles14d": 61,
-   "articlesPrior14d": 18,
-   "publishers": 12,
-   "topPubShare": 0.439,
-   "sectors": [
-    {
-     "name": "Energy",
-     "firstSeen": "2026-06-18",
-     "recent": 16,
-     "articles": 21,
-     "share": 0.271,
-     "atSectorStart": false,
-     "adopt": 27
-    },
-    {
-     "name": "Utilities",
-     "firstSeen": "2026-07-30",
-     "recent": 32,
-     "articles": 45,
-     "share": 0.542,
-     "atSectorStart": false,
-     "adopt": 69
-    },
-    {
-     "name": "Technology",
-     "firstSeen": "2026-08-04",
-     "recent": 11,
-     "articles": 13,
-     "share": 0.186,
-     "atSectorStart": false,
-     "adopt": 74
-    }
-   ],
-   "sinceStart": false,
-   "origins": [
-    [
-     "GB",
-     43
-    ],
-    [
-     "US",
-     15
-    ],
-    [
-     "DE",
-     13
-    ],
-    [
-     "KR",
-     5
-    ],
-    [
-     "TW",
-     5
-    ],
-    [
-     "GR",
-     1
-    ]
-   ],
-   "flow": {
-    "weeks": [
-     "2026-05-22",
-     "2026-05-29",
-     "2026-06-05",
-     "2026-06-12",
-     "2026-06-19",
-     "2026-06-26",
-     "2026-07-03",
-     "2026-07-10",
-     "2026-07-17",
-     "2026-07-24",
-     "2026-07-31",
-     "2026-08-07",
-     "2026-08-14"
-    ],
-    "bands": [
-     {
-      "sector": "Utilities",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       2,
-       12,
-       21,
-       10
-      ]
-     },
-     {
-      "sector": "Energy",
-      "n": [
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       1,
-       0,
-       0,
-       1,
-       5,
-       9,
-       4
-      ]
-     },
-     {
-      "sector": "Technology",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       3,
-       7,
-       3
-      ]
-     },
-     {
-      "sector": "Industrials",
-      "n": [
-       1,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1
-      ]
-     },
-     {
-      "sector": "Policy",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Supply chain",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1
-      ]
-     }
-    ]
-   },
-   "cooc": [
-    [
-     "grid infrastructure",
-     1.0,
-     "new",
-     6,
-     0,
-     75.0,
-     [
-      {
-       "title": "Solar crosses 3 TW threshold",
-       "url": "https://www.pv-magazine.com/2026/08/17/solar-crosses-3-tw-threshold/",
-       "publisher": "PV Magazine",
-       "sector": "Energy",
-       "quote": "\u2026growth. As deployment accelerates, \u2f00grid infrastructure\u2f01, energy storage, and demand flexibility will become critical to integrating the next wave of solar capacity.\u2026"
-      },
-      {
-       "title": "Why Illinois has struggled to turn old coal sites into solar farms",
-       "url": "https://www.canarymedia.com/articles/solar/illinois-coal-sites-to-solar-farms",
-       "publisher": "Canary Media",
-       "sector": "Energy",
-       "quote": "\u2026rgy deployment by making use of the \u2f00grid infrastructure\u2f01\u2026"
-      },
-      {
-       "title": "PV Progress across Latin America",
-       "url": "https://www.pv-magazine.com/2026/08/10/pv-progress-across-latin-america/",
-       "publisher": "PV Magazine",
-       "sector": "Energy",
-       "quote": "\u2026ng investment in energy storage and \u2f00grid infrastructure\u2f01. The post PV Progress across Latin America appeared first on pv magazine Global ."
-      }
-     ]
-    ],
-    [
-     "iron phosphate lfp",
-     0.67,
-     "new",
-     4,
-     0,
-     75.0,
-     [
-      {
-       "title": "LGES, Lopal sign three-year LFP supply deal worth up to CNY27 billion",
-       "url": "https://www.digitimes.com/news/a20260812VL230/lges-lfp-battery-partnership-production-capacity-demand.html",
-       "publisher": "DigiTimes Asia",
-       "sector": "Technology",
-       "quote": "\u2026n battery maker rapidly expands its \u2f00energy storage\u2f01 system (ESS) business."
-      },
-      {
-       "title": "LG Energy Solution Signs More Than 5 Trillion Won in LFP Cathode Supply Deals With China's Lopal Tech",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=12923",
-       "publisher": "The Elec",
-       "sector": "Technology",
-       "quote": "\u2026ramps up LFP battery production for \u2f00energy storage\u2f01 systems (ESS).Lopal Tech disclosed on Aug. 6 t"
-      }
-     ]
-    ],
-    [
-     "cathode material",
-     0.67,
-     "new",
-     4,
-     0,
-     60.0,
-     [
-      {
-       "title": "LGES, Lopal sign three-year LFP supply deal worth up to CNY27 billion",
-       "url": "https://www.digitimes.com/news/a20260812VL230/lges-lfp-battery-partnership-production-capacity-demand.html",
-       "publisher": "DigiTimes Asia",
-       "sector": "Technology",
-       "quote": "\u2026on) in lithium iron phosphate (LFP) \u2f00cathode material\u2f01 sales as the South Korean battery maker rapidly expands its energy storage system (ESS) business."
-      },
-      {
-       "title": "LG Energy Solution Signs More Than 5 Trillion Won in LFP Cathode Supply Deals With China's Lopal Tech",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=12923",
-       "publisher": "The Elec",
-       "sector": "Technology",
-       "quote": "\u2026rth of lithium iron phosphate (LFP) \u2f00cathode materials\u2f01 from Chinese battery materials supplier Lopal Tech, deepening cooperation as it ramps up LFP battery producti\u2026"
-      }
-     ]
-    ],
-    [
-     "lithium battery",
-     0.67,
-     "new",
-     4,
-     0,
-     42.9,
-     [
-      {
-       "title": "British firm bets on aluminium to break \u2f00lithium battery\u2f01 dependence",
-       "url": "https://www.energylivenews.com/2026/08/07/british-firm-bets-on-aluminium-to-break-lithium-battery-dependence/",
-       "publisher": "Energy Live News",
-       "sector": "Utilities",
-       "quote": "\u2026ish firm bets on aluminium to break \u2f00lithium battery\u2f01 dependence appeared first on Energy Live News ."
-      }
-     ]
-    ],
-    [
-     "solid state battery",
-     0.33,
-     "steady",
-     2,
-     2,
-     37.5,
-     [
-      {
-       "title": "AI technology could improve energy storage",
-       "url": "https://www.energylivenews.com/2026/08/12/ai-technology-could-improve-energy-storage/",
-       "publisher": "Energy Live News",
-       "sector": "Utilities",
-       "quote": "\u2026he post AI technology could improve \u2f00energy storage\u2f01 appeared first on Energy Live News ."
-      }
-     ]
-    ]
-   ],
-   "examples": [
-    {
-     "publisher": "Data Center Dynamics",
-     "title": "ABB launches ultracapacitor storage system to meet Ireland's grid code for data centers",
-     "url": "https://www.datacenterdynamics.com/en/news/abb-launches-ultracapacitor-storage-system-to-meet-irelands-grid-code-for-data-centers/",
-     "sector": "Technology",
-     "country": "US",
-     "quote": "Will combine its ultracapacitor \u2f00energy storage\u2f01 system with grid-forming power conversion"
-    },
-    {
-     "publisher": "Energy Storage News",
-     "title": "Ausgrid's PLUS Grid Storage breaks ground on 400MWh Steel River East BESS in Australia",
-     "url": "https://www.energy-storage.news/ausgrids-plus-grid-storage-breaks-ground-on-400mwh-steel-river-east-bess-in-australia/",
-     "sector": "Utilities",
-     "country": "GB",
-     "quote": "\u20260MW/400MWh Steel River East battery \u2f00energy storage\u2f01 system (BESS) in Newcastle, New South Wales, marking the first project delivery for developer PLUS Grid Stora\u2026"
-    },
-    {
-     "publisher": "Energy Storage News",
-     "title": "China's \u2f00energy storage\u2f01 market doubles in size for second consecutive year as price inflection point emerges",
-     "url": "https://www.energy-storage.news/chinas-energy-storage-market-doubles-in-size-for-second-consecutive-year-as-price-inflection-point-emerges/",
-     "sector": "Utilities",
-     "country": "GB",
-     "quote": "\u2f00Energy storage\u2f01 deployments in China saw significant year-over-year growth in 2025 as the market size effectively doubled."
-    },
-    {
-     "publisher": "Facilities Dive",
-     "title": "Absent a national standard, Mayo Clinic creates its own safety policy for lithium batteries",
-     "url": "https://www.facilitiesdive.com/news/absent-a-national-standard-mayo-clinic-creates-its-own-safety-policy-for-l/827989/",
-     "sector": "Industrials",
-     "country": "US",
-     "quote": "\u2026to mobile floor-cleaning robots to \u2f00energy storage\u2f01 systems, Mayo employees told a healthcare conference earlier this month."
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-05-22",
-     "n": 0
-    },
-    {
-     "day": "2026-05-23",
-     "n": 0
-    },
-    {
-     "day": "2026-05-24",
-     "n": 0
-    },
-    {
-     "day": "2026-05-25",
-     "n": 0
-    },
-    {
-     "day": "2026-05-26",
-     "n": 0
-    },
-    {
-     "day": "2026-05-27",
-     "n": 1
-    },
-    {
-     "day": "2026-05-28",
-     "n": 0
-    },
-    {
-     "day": "2026-05-29",
-     "n": 0
-    },
-    {
-     "day": "2026-05-30",
-     "n": 0
-    },
-    {
-     "day": "2026-05-31",
-     "n": 0
-    },
-    {
-     "day": "2026-06-01",
-     "n": 0
-    },
-    {
-     "day": "2026-06-02",
-     "n": 0
-    },
-    {
-     "day": "2026-06-03",
-     "n": 0
-    },
-    {
-     "day": "2026-06-04",
-     "n": 0
-    },
-    {
-     "day": "2026-06-05",
-     "n": 0
-    },
-    {
-     "day": "2026-06-06",
-     "n": 0
-    },
-    {
-     "day": "2026-06-07",
-     "n": 0
-    },
-    {
-     "day": "2026-06-08",
-     "n": 0
-    },
-    {
-     "day": "2026-06-09",
-     "n": 0
-    },
-    {
-     "day": "2026-06-10",
-     "n": 0
-    },
-    {
-     "day": "2026-06-11",
-     "n": 0
-    },
-    {
-     "day": "2026-06-12",
-     "n": 0
-    },
-    {
-     "day": "2026-06-13",
-     "n": 0
-    },
-    {
-     "day": "2026-06-14",
-     "n": 0
-    },
-    {
-     "day": "2026-06-15",
-     "n": 0
-    },
-    {
-     "day": "2026-06-16",
-     "n": 0
-    },
-    {
-     "day": "2026-06-17",
-     "n": 0
-    },
-    {
-     "day": "2026-06-18",
-     "n": 1
-    },
-    {
-     "day": "2026-06-19",
-     "n": 0
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 1
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 1
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 1
-    },
-    {
-     "day": "2026-07-29",
-     "n": 0
-    },
-    {
-     "day": "2026-07-30",
-     "n": 2
-    },
-    {
-     "day": "2026-07-31",
-     "n": 3
-    },
-    {
-     "day": "2026-08-01",
-     "n": 1
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 1
-    },
-    {
-     "day": "2026-08-04",
-     "n": 6
-    },
-    {
-     "day": "2026-08-05",
-     "n": 4
-    },
-    {
-     "day": "2026-08-06",
-     "n": 5
-    },
-    {
-     "day": "2026-08-07",
-     "n": 6
-    },
-    {
-     "day": "2026-08-08",
-     "n": 0
-    },
-    {
-     "day": "2026-08-09",
-     "n": 0
-    },
-    {
-     "day": "2026-08-10",
-     "n": 6
-    },
-    {
-     "day": "2026-08-11",
-     "n": 7
-    },
-    {
-     "day": "2026-08-12",
-     "n": 9
-    },
-    {
-     "day": "2026-08-13",
-     "n": 9
-    },
-    {
-     "day": "2026-08-14",
-     "n": 5
-    },
-    {
-     "day": "2026-08-15",
-     "n": 1
-    },
-    {
-     "day": "2026-08-16",
-     "n": 0
-    },
-    {
-     "day": "2026-08-17",
-     "n": 10
-    },
-    {
-     "day": "2026-08-18",
-     "n": 3
-    },
-    {
-     "day": "2026-08-19",
-     "n": 0
-    }
-   ],
-   "docFreq": 0.0059,
-   "specificity": 0.803,
-   "homeShare": 0.542,
-   "daysSeen": 10,
-   "rank": 0.919,
-   "variants": [
-    "storage system",
-    "battery storage",
-    "storage capacity"
-   ]
-  },
-  {
    "id": "solar-generation",
    "term": "solar generation",
    "direction": "steady",
@@ -33030,7 +32986,7 @@
      "new",
      4,
      0,
-     87.1,
+     87.2,
      [
       {
        "title": "Edify reaches renewable energy milestone",
@@ -35143,7 +35099,7 @@
      "rising",
      6,
      2,
-     163.4,
+     163.5,
      [
       {
        "title": "Houthis Claim Third Attack on Saudi Aramco Refinery in Two Weeks",
@@ -36389,7 +36345,7 @@
      "new",
      4,
      0,
-     358.8,
+     359.1,
      [
       {
        "title": "Drone strikes put Libya's Zawiya oil hub at risk",
@@ -36413,7 +36369,7 @@
      "new",
      6,
      0,
-     201.8,
+     202.0,
      [
       {
        "title": "\u2f00Drone strikes\u2f01 put Libya's Zawiya oil hub at risk",
@@ -36469,6 +36425,23 @@
        "publisher": "Splash247",
        "sector": "Supply chain",
        "quote": "\u2026ngine contract, underlining how the \u2f00artificial intelligence\u2f01 boom is opening a huge new market for marine equipment manufacturers and potentially creating another supply\u2026"
+      }
+     ]
+    ],
+    [
+     "supply chain",
+     0.33,
+     "steady",
+     2,
+     2,
+     4.2,
+     [
+      {
+       "title": "IC distributors post strong July sales on AI, cloud, and infrastructure demand",
+       "url": "https://www.digitimes.com/news/a20260811PD232/wt-revenue-demand-taiwan-ic.html",
+       "publisher": "DigiTimes Asia",
+       "sector": "Technology",
+       "quote": "\u2026momentum that could ripple through \u2f00supply chains\u2f01 worldwide. Analysts say continued spending by cloud, AI, and industrial customers remains a key support for t\u2026"
       }
      ]
     ]
@@ -38443,50 +38416,50 @@
    "rank": 0.911
   },
   {
-   "id": "fired-power",
-   "term": "fired power",
-   "direction": "steady",
+   "id": "power-system",
+   "term": "power system",
+   "direction": "falling",
    "display": true,
-   "adoptionSpan": 5,
-   "pace": "simultaneous",
+   "adoptionSpan": 19,
+   "pace": "mixed",
    "kind": "concept",
    "sectorCount": 2,
-   "effectiveSectors": 1.98,
+   "effectiveSectors": 1.94,
    "newestSector": "Utilities",
-   "daysSinceNewestSector": 16,
-   "articles14d": 6,
-   "articlesPrior14d": 2,
-   "publishers": 4,
-   "topPubShare": 0.5,
+   "daysSinceNewestSector": 14,
+   "articles14d": 5,
+   "articlesPrior14d": 3,
+   "publishers": 3,
+   "topPubShare": 0.6,
    "sectors": [
     {
-     "name": "Energy",
-     "firstSeen": "2026-07-29",
+     "name": "Technology",
+     "firstSeen": "2026-07-17",
      "recent": 3,
-     "articles": 4,
+     "articles": 5,
      "share": 0.6,
      "atSectorStart": false,
-     "adopt": 68
+     "adopt": 56
     },
     {
      "name": "Utilities",
-     "firstSeen": "2026-08-03",
+     "firstSeen": "2026-08-05",
      "recent": 2,
      "articles": 3,
      "share": 0.4,
      "atSectorStart": false,
-     "adopt": 73
+     "adopt": 75
     }
    ],
    "sinceStart": false,
    "origins": [
     [
      "US",
-     7
+     6
     ],
     [
      "TW",
-     1
+     3
     ]
    ],
    "flow": {
@@ -38507,7 +38480,7 @@
     ],
     "bands": [
      {
-      "sector": "Energy",
+      "sector": "Technology",
       "n": [
        0,
        0,
@@ -38517,11 +38490,11 @@
        0,
        0,
        0,
-       0,
-       1,
        1,
        0,
-       2
+       1,
+       3,
+       0
       ]
      },
      {
@@ -38537,13 +38510,13 @@
        0,
        0,
        0,
+       1,
        2,
-       0,
-       1
+       0
       ]
      },
      {
-      "sector": "Technology",
+      "sector": "Industrials",
       "n": [
        0,
        0,
@@ -38555,8 +38528,8 @@
        0,
        0,
        0,
-       0,
        1,
+       0,
        0
       ]
      }
@@ -38564,96 +38537,62 @@
    },
    "cooc": [
     [
-     "coal plant",
-     0.5,
-     "steady",
-     2,
-     2,
-     381.2,
-     [
-      {
-       "title": "Romania Restarts \u2f00Coal Plant\u2f01 as Danube Drought Forces Nuclear Shutdown",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Romania-Restarts-Coal-Plant-as-Danube-Drought-Forces-Nuclear-Shutdown.html",
-       "publisher": "OilPrice",
-       "sector": "Energy",
-       "quote": "\u2026week restarted a 300-megawatt coal-\u2f00fired power\u2f01 plant to partially offset the generation lost by the closure of nuclear electricity output after the low wate\u2026"
-      }
-     ]
-    ],
-    [
-     "electricity demand",
+     "data center",
      1.0,
-     "new",
+     "steady",
      4,
-     0,
-     254.2,
+     4,
+     12.6,
      [
       {
-       "title": "China's Renewables Boom Faces Record Clean Power Curtailments",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Renewables-Boom-Faces-Record-Clean-Power-Curtailments.html",
-       "publisher": "OilPrice",
-       "sector": "Energy",
-       "quote": "\u2026been enough to meet all of China's \u2f00electricity demand\u2f01 growth in the first half of 2026 and allow\u2026"
+       "title": "OCP: Murata upgrades power, optical products as AI \u2f00data centers\u2f01 strain global infrastructure",
+       "url": "https://www.digitimes.com/news/a20260811PD247/murata-data-optical-components-2026-worldwide.html",
+       "publisher": "DigiTimes Asia",
+       "sector": "Technology",
+       "quote": "\u2026how rising AI workloads are pushing \u2f00data centers\u2f01 worldwide toward denser, more efficient power systems and higher-speed connectivity. The Japan-based company\u2026"
       },
       {
-       "title": "Gas Shortages and High Prices Derail Southeast Asia's Power Buildout",
-       "url": "https://oilprice.com/Energy/Natural-Gas/Gas-Shortages-and-High-Prices-Derail-Southeast-Asias-Power-Buildout.html",
-       "publisher": "OilPrice",
-       "sector": "Energy",
-       "quote": "\u2026ed power generation to meet growing \u2f00electricity demand\u2f01 and replace some of the coal use. Fuel availability, volatile prices, and supply chain bottlenecks threaten t\u2026"
-      }
-     ]
-    ],
-    [
-     "natural gas",
-     0.5,
-     "steady",
-     2,
-     2,
-     42.4,
-     [
-      {
-       "title": "LS Power Acquiring 606-MW Texas Gas-Fired Plant From Constellation",
-       "url": "https://www.powermag.com/ls-power-acquiring-606-mw-texas-gas-fired-plant-from-constellation/",
-       "publisher": "POWER Magazine",
-       "sector": "Utilities",
-       "quote": "\u2026ure said it has a deal to acquire a \u2f00natural gas\u2f01-fired power plant near Houston, Texas. The post LS Power Acquiring 606-MW Texas Gas-Fired Plant From Constell\u2026"
+       "title": "LiteOn teams with Wolfspeed on 800VDC power systems for AI \u2f00data centers\u2f01",
+       "url": "https://www.digitimes.com/news/a20260810PD249/wolfspeed-production-data-sic-technology.html",
+       "publisher": "DigiTimes Asia",
+       "sector": "Technology",
+       "quote": "\u2026ext-generation power systems for AI \u2f00data centers\u2f01."
       }
      ]
     ]
    ],
    "examples": [
     {
-     "publisher": "OilPrice",
-     "title": "Romania Restarts Coal Plant as Danube Drought Forces Nuclear Shutdown",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Romania-Restarts-Coal-Plant-as-Danube-Drought-Forces-Nuclear-Shutdown.html",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026week restarted a 300-megawatt coal-\u2f00fired power\u2f01 plant to partially offset the generation lost by the closure of nuclear electricity output after the low wate\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "China's Renewables Boom Faces Record Clean Power Curtailments",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Renewables-Boom-Faces-Record-Clean-Power-Curtailments.html",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "Grid constraints and rising coal-\u2f00fired power\u2f01 generation in China led to soaring curtailment rates of solar and wind power generation in the first half of\u2026"
-    },
-    {
-     "publisher": "Utility Dive",
-     "title": "FERC approves TransAlta, PowerTransitions gas-\u2f00fired power\u2f01 plant deals",
-     "url": "https://www.utilitydive.com/news/ferc-transalta-powertransitions-gas-fired-power-plant-deals/827892/",
+     "publisher": "ISO New England",
+     "title": "ISO-NE expects minimal \u2f00power system\u2f01 impacts from partial solar eclipse",
+     "url": "https://isonewswire.com/2026/08/12/iso-ne-expects-minimal-power-system-impacts-from-partial-solar-eclipse/",
      "sector": "Utilities",
      "country": "US",
-     "quote": ""
+     "quote": "\u2026ts. The post ISO-NE expects minimal \u2f00power system\u2f01 impacts from partial solar eclipse appeared first on ISO Newswire ."
     },
     {
      "publisher": "DigiTimes Asia",
-     "title": "Amazon builds 7.65 GW gas plant for Texas AI data center campus",
-     "url": "https://www.digitimes.com/news/a20260811PD260/amazon-data-center-texas-plant-power-plant.html",
+     "title": "OCP: Murata upgrades power, optical products as AI data centers strain global infrastructure",
+     "url": "https://www.digitimes.com/news/a20260811PD247/murata-data-optical-components-2026-worldwide.html",
      "sector": "Technology",
      "country": "TW",
-     "quote": "\u2026s moving ahead with a dedicated gas-\u2f00fired power\u2f01 plant for a new data center campus in Pecos County, Texas, as part of an effort to speed AI infrastructure de\u2026"
+     "quote": "\u2026dwide toward denser, more efficient \u2f00power systems\u2f01 and higher-speed connectivity. The Japan-based company says its latest hardware is aimed at helping operators\u2026"
+    },
+    {
+     "publisher": "DigiTimes Asia",
+     "title": "Lite-On's LEO satellite power growth signals a deeper shift in global manufacturing",
+     "url": "https://www.digitimes.com/news/a20260811PD220/lite-on-growth-leo-revenue-manufacturing.html",
+     "sector": "Technology",
+     "country": "TW",
+     "quote": "\u2026nd for AI, cloud, and LEO satellite \u2f00power systems\u2f01. The results underscore how the company's overseas production strategy, especially in Vietnam, is becoming ce\u2026"
+    },
+    {
+     "publisher": "DigiTimes Asia",
+     "title": "LiteOn teams with Wolfspeed on 800VDC \u2f00power systems\u2f01 for AI data centers",
+     "url": "https://www.digitimes.com/news/a20260810PD249/wolfspeed-production-data-sic-technology.html",
+     "sector": "Technology",
+     "country": "TW",
+     "quote": "\u2026t prepares to scale next-generation \u2f00power systems\u2f01 for AI data centers."
     }
    ],
    "daily": [
@@ -38883,7 +38822,7 @@
     },
     {
      "day": "2026-07-17",
-     "n": 0
+     "n": 1
     },
     {
      "day": "2026-07-18",
@@ -38931,7 +38870,7 @@
     },
     {
      "day": "2026-07-29",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-07-30",
@@ -38943,7 +38882,7 @@
     },
     {
      "day": "2026-08-01",
-     "n": 0
+     "n": 1
     },
     {
      "day": "2026-08-02",
@@ -38951,7 +38890,7 @@
     },
     {
      "day": "2026-08-03",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-08-04",
@@ -38959,15 +38898,15 @@
     },
     {
      "day": "2026-08-05",
-     "n": 0
-    },
-    {
-     "day": "2026-08-06",
      "n": 2
     },
     {
-     "day": "2026-08-07",
+     "day": "2026-08-06",
      "n": 0
+    },
+    {
+     "day": "2026-08-07",
+     "n": 1
     },
     {
      "day": "2026-08-08",
@@ -38983,11 +38922,11 @@
     },
     {
      "day": "2026-08-11",
-     "n": 0
+     "n": 2
     },
     {
      "day": "2026-08-12",
-     "n": 1
+     "n": 2
     },
     {
      "day": "2026-08-13",
@@ -38995,7 +38934,7 @@
     },
     {
      "day": "2026-08-14",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-08-15",
@@ -39007,22 +38946,22 @@
     },
     {
      "day": "2026-08-17",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-08-18",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-08-19",
      "n": 0
     }
    ],
-   "docFreq": 0.0006,
-   "specificity": 0.981,
+   "docFreq": 0.0005,
+   "specificity": 0.984,
    "homeShare": 0.6,
-   "daysSeen": 5,
-   "rank": 0.909
+   "daysSeen": 3,
+   "rank": 0.892
   },
   {
    "id": "supply-chain",
@@ -39401,7 +39340,7 @@
      "new",
      4,
      0,
-     48.0,
+     48.1,
      [
       {
        "title": "Agastya Energy plans 12 GW ingot, wafer factory in India",
@@ -39425,7 +39364,7 @@
      "new",
      4,
      0,
-     36.0,
+     36.1,
      [
       {
        "title": "US tariffs and FCC curbs redraw the drone supply chain and Taiwan sees an opening",
@@ -39444,36 +39383,12 @@
      ]
     ],
     [
-     "chinese supplier",
+     "iran conflict",
      0.4,
      "new",
      4,
      0,
-     24.0,
-     [
-      {
-       "title": "Taiwan drones still rely on foreign chips despite shift away from China",
-       "url": "https://www.digitimes.com/news/a20260807PD223/taiwan-chips-europe-exports-production.html",
-       "publisher": "DigiTimes Asia",
-       "sector": "Technology",
-       "quote": "\u2026, while calls to reduce reliance on \u2f00Chinese suppliers\u2f01 have recently emerged even in Southeast Asian countries friendly to China. The opportunity comes as Taiwan's\u2026"
-      },
-      {
-       "title": "Chinese equipment maker breaks into LG Display's OLED supply chain",
-       "url": "https://www.digitimes.com/news/a20260807VL205/equipment-lg-display-production-supply-chain-cetc.html",
-       "publisher": "DigiTimes Asia",
-       "sector": "Technology",
-       "quote": "\u2026st time, a small order that gives a \u2f00Chinese supplier\u2f01 a foothold in a production network long served by Korean equipment makers."
-      }
-     ]
-    ],
-    [
-     "iran conflict",
-     0.3,
-     "new",
-     3,
-     0,
-     21.6,
+     28.8,
      [
       {
        "title": "Rattled supply chains: Over half of Taiwan firms feel the squeeze of US-\u2f00Iran conflict\u2f01",
@@ -39488,6 +39403,30 @@
        "publisher": "The Loadstar",
        "sector": "Supply chain",
        "quote": "\u2026ure from renewed tension around the \u2f00Iran conflict\u2f01, with rising transport, sourcing, and energy costs threatening to squeeze margins and further disrupt already\u2026"
+      }
+     ]
+    ],
+    [
+     "geopolitical tension",
+     0.4,
+     "rising",
+     4,
+     2,
+     24.0,
+     [
+      {
+       "title": "Rattled supply chains: Over half of Taiwan firms feel the squeeze of US-Iran conflict",
+       "url": "https://www.digitimes.com/news/a20260818PD209/taitra-taiwan-cost-supply-chain.html",
+       "publisher": "DigiTimes Asia",
+       "sector": "Technology",
+       "quote": "\u2026emerging as the biggest concern as \u2f00geopolitical tensions\u2f01 disrupt energy, raw material, and supply chain conditions."
+      },
+      {
+       "title": "Taiwan advances efforts to become global drone hub with non-China supply chain edge",
+       "url": "https://www.digitimes.com/news/a20260805PD234/taiwan-supply-chain-weather-communications-manufacturing.html",
+       "publisher": "DigiTimes Asia",
+       "sector": "Technology",
+       "quote": "Amid the escalation of \u2f00geopolitical tensions\u2f01 and extreme weather events, Taiwan has stepped up efforts to become a global hub for drone manufacturing as c\u2026"
       }
      ]
     ],
@@ -39523,26 +39462,33 @@
      ]
     ],
     [
-     "small modular reactor",
-     0.4,
-     "new",
-     4,
-     0,
-     18.0,
+     "raw material",
+     0.8,
+     "rising",
+     8,
+     2,
+     20.6,
      [
       {
-       "title": "Taiwan's Century Group eyes SMR supply chain as AI power demand accelerates",
-       "url": "https://www.digitimes.com/news/a20260814PD213/taiwan-offshore-wind-demand-supply-chain-electricity.html",
+       "title": "Rattled supply chains: Over half of Taiwan firms feel the squeeze of US-Iran conflict",
+       "url": "https://www.digitimes.com/news/a20260818PD209/taitra-taiwan-cost-supply-chain.html",
        "publisher": "DigiTimes Asia",
        "sector": "Technology",
-       "quote": "\u2026wind. The group plans to enter the \u2f00small modular reactor\u2f01 (SMR) supply chain through reactor peripheral equipment and aims to obtain T\u00dcV Rheinland technical and safety\u2026"
+       "quote": "\u2026opolitical tensions disrupt energy, \u2f00raw material\u2f01, and supply chain conditions."
       },
       {
-       "title": "South Korea elevates SMR to national strategy, boosts nuclear investment",
-       "url": "https://www.digitimes.com/news/a20260810PD237/nuclear-investment-government-2026-incentives.html",
+       "title": "South Korea-India venture Indichem targets semiconductor materials supply chain without China",
+       "url": "https://www.digitimes.com/news/a20260818VL202/india-south-asia-joint-venture-materials-supply-chain.html",
        "publisher": "DigiTimes Asia",
        "sector": "Technology",
-       "quote": "\u2026rean government has proposed adding \u2f00small modular reactors\u2f01 (SMRs) to its national strategic-technology tax incentive program, a move backed by the country's nuclear ind\u2026"
+       "quote": "\u2026s chipmakers to rethink where their \u2f00raw materials\u2f01 come from."
+      },
+      {
+       "title": "Global supply chains buckle as helium shortages and China's price edge hit Taiwan",
+       "url": "https://www.digitimes.com/news/a20260811PD214/taiwan-materials-electronic-components-price-2026.html",
+       "publisher": "DigiTimes Asia",
+       "sector": "Technology",
+       "quote": "\u2026ectronic components, and industrial \u2f00raw materials\u2f01 are hit by higher costs and transport risks, with effects that ripple outward: shortages can raise device pri\u2026"
       }
      ]
     ]
@@ -39947,10 +39893,10 @@
     "global supply chain"
    ],
    "docFreq": 0.0123,
-   "specificity": 0.589,
+   "specificity": 0.59,
    "homeShare": 0.651,
    "daysSeen": 14,
-   "rank": 1.789
+   "rank": 1.791
   },
   {
    "id": "artificial-intelligence",
@@ -41042,7 +40988,7 @@
      "steady",
      4,
      4,
-     223.2,
+     223.4,
      [
       {
        "title": "Waterborne shipments from the U.S. Gulf Coast increased in April and May",
@@ -41066,7 +41012,7 @@
      "steady",
      2,
      2,
-     111.6,
+     111.7,
      [
       {
        "title": "Brent Tops $89 Amid U.S.-Iran Stalemate Over Hormuz",
@@ -41083,7 +41029,7 @@
      "new",
      4,
      0,
-     111.6,
+     111.7,
      [
       {
        "title": "Oil Prices Rise as Iran Hardens Hormuz Demands",
@@ -41131,7 +41077,7 @@
      "rising",
      4,
      2,
-     74.4,
+     74.5,
      [
       {
        "title": "Oil Prices Head for 4% Weekly Gain as U.S.-Iran Deadlock Drags On",
@@ -41730,7 +41676,7 @@
      "new",
      4,
      0,
-     114.4,
+     114.5,
      [
       {
        "title": "Trump extends Jones Act waiver despite mounting maritime opposition",
@@ -41754,7 +41700,7 @@
      "steady",
      2,
      2,
-     101.7,
+     101.8,
      [
       {
        "title": "China Is Betting on Quantum Tech to Fix Its \u2f00Power Grid\u2f01",
@@ -41771,7 +41717,7 @@
      "new",
      4,
      0,
-     96.3,
+     96.4,
      [
       {
        "title": "China's Renewables Boom Faces Record Clean Power Curtailments",
@@ -42837,7 +42783,7 @@
      "steady",
      2,
      2,
-     143.0,
+     143.1,
      [
       {
        "title": "Somali Piracy Surges Amid Hormuz Blockade",
@@ -43399,7 +43345,7 @@
      "falling",
      2,
      4,
-     351.9,
+     352.2,
      [
       {
        "title": "Black Sea grain trade buckles under maritime war",
@@ -43416,7 +43362,7 @@
      "new",
      4,
      0,
-     281.5,
+     281.8,
      [
       {
        "title": "Black Sea drone strikes send CPC tanker rates to $400,000 a day",
@@ -43440,7 +43386,7 @@
      "rising",
      6,
      2,
-     263.9,
+     264.2,
      [
       {
        "title": "Second IMS tanker hit in Black Sea drone campaign",
@@ -43471,7 +43417,7 @@
      "steady",
      2,
      2,
-     234.6,
+     234.8,
      [
       {
        "title": "Ukrainian Attack Halts Operations at Key Russian Black Sea Grain Terminals",
@@ -43488,7 +43434,7 @@
      "new",
      4,
      0,
-     140.8,
+     140.9,
      [
       {
        "title": "Kazakhstan Weighs New Routes as Drone Strikes Squeeze Black Sea \u2f00Oil Exports\u2f01",
@@ -44098,7 +44044,7 @@
      "new",
      4,
      0,
-     244.0,
+     244.2,
      [
       {
        "title": "China's Solar Exports Fell 21.4% in July",
@@ -44766,7 +44712,7 @@
      "steady",
      2,
      2,
-     143.0,
+     143.1,
      [
       {
        "title": "A 4-Million-Bpd Shadow Oil Highway Is Running Through Hormuz",
@@ -44783,7 +44729,7 @@
      "new",
      4,
      0,
-     114.4,
+     114.5,
      [
       {
        "title": "Trump extends Jones Act waiver despite mounting maritime opposition",
@@ -44807,7 +44753,7 @@
      "steady",
      2,
      2,
-     114.4,
+     114.5,
      [
       {
        "title": "China Added 200,000 Bpd to Crude Reserves in July Despite \u2f00Hormuz Crisis\u2f01",
@@ -44848,7 +44794,7 @@
      "steady",
      2,
      2,
-     40.8,
+     40.9,
      [
       {
        "title": "Oil Majors Reap $93 Billion Windfall From the Iran War",
@@ -45548,7 +45494,7 @@
      "steady",
      4,
      4,
-     93.8,
+     93.9,
      [
       {
        "title": "IOI Properties Wins Conditional Approval for $1.9B REIT and More APAC Real Estate Headlines",
@@ -45589,7 +45535,7 @@
      "new",
      4,
      0,
-     56.3,
+     56.4,
      [
       {
        "title": "Zimmet Law Group Relocates to 5K SF at GFP's 515 Madison Avenue",
@@ -46242,7 +46188,7 @@
      "falling",
      4,
      8,
-     381.2,
+     381.6,
      [
       {
        "title": "Modern Mining eyes US expansion as e-waste emerges as domestic metals resource",
@@ -46266,7 +46212,7 @@
      "rising",
      8,
      2,
-     381.2,
+     381.6,
      [
       {
        "title": "Global mining leaders turn focus to Australia's resources future",
@@ -46297,7 +46243,7 @@
      "steady",
      2,
      2,
-     190.6,
+     190.8,
      [
       {
        "title": "DPAS Directive Allocation Order and Additional Requirements for Recoverable Critical Minerals and Materials",
@@ -46314,7 +46260,7 @@
      "new",
      4,
      0,
-     84.7,
+     84.8,
      [
       {
        "title": "Updated \u2f00feasibility study\u2f01 gives NioCorp's Elk Creek critical minerals project a $4B valuation",
@@ -46878,7 +46824,7 @@
      "new",
      4,
      0,
-     366.0,
+     366.3,
      [
       {
        "title": "Drone Attack Hits Power Plant at Key Libyan Oil Hub",
@@ -46902,7 +46848,7 @@
      "new",
      4,
      0,
-     140.8,
+     140.9,
      [
       {
        "title": "Kazakhstan Weighs New Routes as Drone Strikes Squeeze \u2f00Black Sea\u2f01 Oil Exports",
@@ -47432,7 +47378,7 @@
      "new",
      4,
      0,
-     571.9,
+     572.4,
      [
       {
        "title": "Drone strikes put Libya's Zawiya \u2f00oil hub\u2f01 at risk",
@@ -47456,7 +47402,7 @@
      "rising",
      6,
      2,
-     263.9,
+     264.2,
      [
       {
        "title": "Second IMS tanker hit in \u2f00Black Sea\u2f01 drone campaign",
@@ -47487,7 +47433,7 @@
      "new",
      6,
      0,
-     201.8,
+     202.0,
      [
       {
        "title": "Drone strikes put Libya's Zawiya oil hub at risk",
@@ -48028,7 +47974,7 @@
      "new",
      4,
      0,
-     146.4,
+     146.5,
      [
       {
        "title": "Coast Guard coordinates rescue after fire aboard Min Jiang Kou",
@@ -48628,7 +48574,7 @@
      "rising",
      4,
      2,
-     228.8,
+     229.0,
      [
       {
        "title": "The Case for Britain Backing Its North Sea Oil and Gas Industry",
@@ -48652,7 +48598,7 @@
      "new",
      4,
      0,
-     190.6,
+     190.8,
      [
       {
        "title": "Taiwan's Century Group eyes SMR supply chain as AI power demand accelerates",
@@ -49707,7 +49653,7 @@
      "new",
      4,
      0,
-     326.8,
+     327.1,
      [
       {
        "title": "San Pedro Bay ports commit $40M in truck \u2f00charging network\u2f01",
@@ -50249,7 +50195,7 @@
      "steady",
      2,
      2,
-     143.0,
+     143.1,
      [
       {
        "title": "Nuclear startup Oklo splits its first atoms in test reactor",
@@ -51115,7 +51061,7 @@
      "rising",
      4,
      2,
-     21.0,
+     21.1,
      [
       {
        "title": "Amazon builds 7.65 GW gas plant for Texas AI data center campus",
@@ -51584,10 +51530,10 @@
     "grid operator"
    ],
    "docFreq": 0.0281,
-   "specificity": 0.062,
+   "specificity": 0.063,
    "homeShare": 0.747,
    "daysSeen": 14,
-   "rank": 0.779
+   "rank": 0.781
   },
   {
    "id": "small-modular-reactor",
@@ -51702,7 +51648,7 @@
      "steady",
      2,
      2,
-     143.0,
+     143.1,
      [
       {
        "title": "Nuclear startup Oklo splits its first atoms in test reactor",
@@ -52360,7 +52306,7 @@
      "rising",
      6,
      2,
-     538.2,
+     538.7,
      [
       {
        "title": "India draws 20 bids for rare earth magnet manufacturing scheme",
@@ -52377,7 +52323,7 @@
      "steady",
      2,
      2,
-     538.2,
+     538.7,
      [
       {
        "title": "Apex's rare earth assays elevate Rift among US projects",
@@ -52394,7 +52340,7 @@
      "steady",
      2,
      2,
-     179.4,
+     179.6,
      [
       {
        "title": "American rare Earths, Novex to boost US magnet production",
@@ -52411,7 +52357,7 @@
      "steady",
      2,
      2,
-     107.6,
+     107.7,
      [
       {
        "title": "The Next \u2f00Energy Crisis\u2f01 Could Be a Water Crisis",
@@ -52857,554 +52803,6 @@
    "rank": 0.672
   },
   {
-   "id": "power-system",
-   "term": "power system",
-   "direction": "falling",
-   "display": false,
-   "adoptionSpan": 19,
-   "pace": "mixed",
-   "kind": "concept",
-   "sectorCount": 2,
-   "effectiveSectors": 1.94,
-   "newestSector": "Utilities",
-   "daysSinceNewestSector": 14,
-   "articles14d": 5,
-   "articlesPrior14d": 3,
-   "publishers": 3,
-   "topPubShare": 0.6,
-   "sectors": [
-    {
-     "name": "Technology",
-     "firstSeen": "2026-07-17",
-     "recent": 3,
-     "articles": 5,
-     "share": 0.6,
-     "atSectorStart": false,
-     "adopt": 56
-    },
-    {
-     "name": "Utilities",
-     "firstSeen": "2026-08-05",
-     "recent": 2,
-     "articles": 3,
-     "share": 0.4,
-     "atSectorStart": false,
-     "adopt": 75
-    }
-   ],
-   "sinceStart": false,
-   "origins": [
-    [
-     "US",
-     6
-    ],
-    [
-     "TW",
-     3
-    ]
-   ],
-   "flow": {
-    "weeks": [
-     "2026-05-22",
-     "2026-05-29",
-     "2026-06-05",
-     "2026-06-12",
-     "2026-06-19",
-     "2026-06-26",
-     "2026-07-03",
-     "2026-07-10",
-     "2026-07-17",
-     "2026-07-24",
-     "2026-07-31",
-     "2026-08-07",
-     "2026-08-14"
-    ],
-    "bands": [
-     {
-      "sector": "Technology",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       1,
-       3,
-       0
-      ]
-     },
-     {
-      "sector": "Utilities",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       2,
-       0
-      ]
-     },
-     {
-      "sector": "Industrials",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "cooc": [
-    [
-     "data center",
-     1.0,
-     "steady",
-     4,
-     4,
-     12.6,
-     [
-      {
-       "title": "OCP: Murata upgrades power, optical products as AI \u2f00data centers\u2f01 strain global infrastructure",
-       "url": "https://www.digitimes.com/news/a20260811PD247/murata-data-optical-components-2026-worldwide.html",
-       "publisher": "DigiTimes Asia",
-       "sector": "Technology",
-       "quote": "\u2026how rising AI workloads are pushing \u2f00data centers\u2f01 worldwide toward denser, more efficient power systems and higher-speed connectivity. The Japan-based company\u2026"
-      },
-      {
-       "title": "LiteOn teams with Wolfspeed on 800VDC power systems for AI \u2f00data centers\u2f01",
-       "url": "https://www.digitimes.com/news/a20260810PD249/wolfspeed-production-data-sic-technology.html",
-       "publisher": "DigiTimes Asia",
-       "sector": "Technology",
-       "quote": "\u2026ext-generation power systems for AI \u2f00data centers\u2f01."
-      }
-     ]
-    ]
-   ],
-   "examples": [
-    {
-     "publisher": "ISO New England",
-     "title": "ISO-NE expects minimal \u2f00power system\u2f01 impacts from partial solar eclipse",
-     "url": "https://isonewswire.com/2026/08/12/iso-ne-expects-minimal-power-system-impacts-from-partial-solar-eclipse/",
-     "sector": "Utilities",
-     "country": "US",
-     "quote": "\u2026ts. The post ISO-NE expects minimal \u2f00power system\u2f01 impacts from partial solar eclipse appeared first on ISO Newswire ."
-    },
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "OCP: Murata upgrades power, optical products as AI data centers strain global infrastructure",
-     "url": "https://www.digitimes.com/news/a20260811PD247/murata-data-optical-components-2026-worldwide.html",
-     "sector": "Technology",
-     "country": "TW",
-     "quote": "\u2026dwide toward denser, more efficient \u2f00power systems\u2f01 and higher-speed connectivity. The Japan-based company says its latest hardware is aimed at helping operators\u2026"
-    },
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "Lite-On's LEO satellite power growth signals a deeper shift in global manufacturing",
-     "url": "https://www.digitimes.com/news/a20260811PD220/lite-on-growth-leo-revenue-manufacturing.html",
-     "sector": "Technology",
-     "country": "TW",
-     "quote": "\u2026nd for AI, cloud, and LEO satellite \u2f00power systems\u2f01. The results underscore how the company's overseas production strategy, especially in Vietnam, is becoming ce\u2026"
-    },
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "LiteOn teams with Wolfspeed on 800VDC \u2f00power systems\u2f01 for AI data centers",
-     "url": "https://www.digitimes.com/news/a20260810PD249/wolfspeed-production-data-sic-technology.html",
-     "sector": "Technology",
-     "country": "TW",
-     "quote": "\u2026t prepares to scale next-generation \u2f00power systems\u2f01 for AI data centers."
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-05-22",
-     "n": 0
-    },
-    {
-     "day": "2026-05-23",
-     "n": 0
-    },
-    {
-     "day": "2026-05-24",
-     "n": 0
-    },
-    {
-     "day": "2026-05-25",
-     "n": 0
-    },
-    {
-     "day": "2026-05-26",
-     "n": 0
-    },
-    {
-     "day": "2026-05-27",
-     "n": 0
-    },
-    {
-     "day": "2026-05-28",
-     "n": 0
-    },
-    {
-     "day": "2026-05-29",
-     "n": 0
-    },
-    {
-     "day": "2026-05-30",
-     "n": 0
-    },
-    {
-     "day": "2026-05-31",
-     "n": 0
-    },
-    {
-     "day": "2026-06-01",
-     "n": 0
-    },
-    {
-     "day": "2026-06-02",
-     "n": 0
-    },
-    {
-     "day": "2026-06-03",
-     "n": 0
-    },
-    {
-     "day": "2026-06-04",
-     "n": 0
-    },
-    {
-     "day": "2026-06-05",
-     "n": 0
-    },
-    {
-     "day": "2026-06-06",
-     "n": 0
-    },
-    {
-     "day": "2026-06-07",
-     "n": 0
-    },
-    {
-     "day": "2026-06-08",
-     "n": 0
-    },
-    {
-     "day": "2026-06-09",
-     "n": 0
-    },
-    {
-     "day": "2026-06-10",
-     "n": 0
-    },
-    {
-     "day": "2026-06-11",
-     "n": 0
-    },
-    {
-     "day": "2026-06-12",
-     "n": 0
-    },
-    {
-     "day": "2026-06-13",
-     "n": 0
-    },
-    {
-     "day": "2026-06-14",
-     "n": 0
-    },
-    {
-     "day": "2026-06-15",
-     "n": 0
-    },
-    {
-     "day": "2026-06-16",
-     "n": 0
-    },
-    {
-     "day": "2026-06-17",
-     "n": 0
-    },
-    {
-     "day": "2026-06-18",
-     "n": 0
-    },
-    {
-     "day": "2026-06-19",
-     "n": 0
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 0
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 1
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 0
-    },
-    {
-     "day": "2026-07-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 1
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 0
-    },
-    {
-     "day": "2026-08-04",
-     "n": 0
-    },
-    {
-     "day": "2026-08-05",
-     "n": 2
-    },
-    {
-     "day": "2026-08-06",
-     "n": 0
-    },
-    {
-     "day": "2026-08-07",
-     "n": 1
-    },
-    {
-     "day": "2026-08-08",
-     "n": 0
-    },
-    {
-     "day": "2026-08-09",
-     "n": 0
-    },
-    {
-     "day": "2026-08-10",
-     "n": 0
-    },
-    {
-     "day": "2026-08-11",
-     "n": 2
-    },
-    {
-     "day": "2026-08-12",
-     "n": 2
-    },
-    {
-     "day": "2026-08-13",
-     "n": 0
-    },
-    {
-     "day": "2026-08-14",
-     "n": 0
-    },
-    {
-     "day": "2026-08-15",
-     "n": 0
-    },
-    {
-     "day": "2026-08-16",
-     "n": 0
-    },
-    {
-     "day": "2026-08-17",
-     "n": 0
-    },
-    {
-     "day": "2026-08-18",
-     "n": 0
-    },
-    {
-     "day": "2026-08-19",
-     "n": 0
-    }
-   ],
-   "docFreq": 0.0005,
-   "specificity": 0.984,
-   "homeShare": 0.6,
-   "daysSeen": 3,
-   "rank": 0.892
-  },
-  {
    "id": "utility-scale",
    "term": "utility scale",
    "direction": "falling",
@@ -53539,7 +52937,7 @@
      "new",
      4,
      0,
-     610.0,
+     610.5,
      [
       {
        "title": "Finland adds 478 MW of large-scale solar in H1",
@@ -54151,7 +53549,7 @@
      "new",
      4,
      0,
-     169.4,
+     169.6,
      [
       {
        "title": "When heat becomes a stress test: What extreme temperatures mean for photovoltaic systems and battery storage",
@@ -54175,7 +53573,7 @@
      "steady",
      2,
      2,
-     101.7,
+     101.8,
      [
       {
        "title": "China Is Betting on Quantum Tech to Fix Its Power Grid",
@@ -54904,7 +54302,7 @@
      "new",
      4,
      0,
-     83.2,
+     83.3,
      [
       {
        "title": "Indian Refiners Seek 6 Million Barrels of Spot Crude",
@@ -54921,7 +54319,7 @@
      "rising",
      6,
      2,
-     83.2,
+     83.3,
      [
       {
        "title": "U.S. Energy Helps Cushion Global Supply Shock From Hormuz",
@@ -54945,7 +54343,7 @@
      "new",
      4,
      0,
-     66.5,
+     66.6,
      [
       {
        "title": "Gulf Marine Services secures fresh work for offshore vessel",
@@ -55017,7 +54415,7 @@
      "rising",
      8,
      2,
-     39.1,
+     39.2,
      [
       {
        "title": "5 Energy Stocks Cashing In On The New Energy Crunch",
@@ -56818,7 +56216,7 @@
      "new",
      4,
      0,
-     381.2,
+     381.6,
      [
       {
        "title": "Energy Dominance Requires Commitments That Last",
