@@ -1,10 +1,10 @@
-# Crosstalk — week ending 18 August 2026
+# Crosstalk — week ending 19 August 2026
 
-*10,634 articles over 113 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*10,757 articles over 114 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
-**offshore wind** — now in 4 sectors. **Technology** picked it up 4d ago; it was first seen in energy coverage on 17 June 2026.
+**offshore wind** — now in 4 sectors. **Technology** picked it up 5d ago; it was first seen in energy coverage on 17 June 2026.
   - [Energy Dominance Requires Commitments That Last](https://www.powermag.com/energy-dominance-requires-commitments-that-last/) · POWER Magazine · utilities
   - [Taiwan's Century Group eyes SMR supply chain as AI power demand accelerates](https://www.digitimes.com/news/a20260814PD213/taiwan-offshore-wind-demand-supply-chain-electricity.html) · DigiTimes Asia · technology
 
@@ -13,15 +13,15 @@
 | phrase | sectors | articles | vs prior fortnight |
 |---|---|---|---|
 | water level | 2 | 18 | 6.0× |
-| electric vehicle | 4 | 31 | 5.2× |
-| black sea | 2 | 15 | 5.0× |
-| raw material | 3 | 14 | 4.7× |
-| energy storage | 3 | 65 | 4.6× |
 | energy infrastructure | 4 | 17 | 4.2× |
-| middle east | 3 | 59 | 4.2× |
-| battery electric | 2 | 12 | 4.0× |
-| global energy | 2 | 12 | 4.0× |
 | solar panel | 2 | 15 | 3.8× |
+| solid state | 2 | 11 | 3.7× |
+| energy storage | 3 | 61 | 3.4× |
+| net zero | 2 | 10 | 3.3× |
+| oil export | 2 | 10 | 3.3× |
+| electric vehicle | 5 | 29 | 3.2× |
+| middle east | 3 | 55 | 2.9× |
+| raw material | 3 | 14 | 2.8× |
 
 ---
 
