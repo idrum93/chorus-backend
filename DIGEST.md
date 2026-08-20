@@ -1,12 +1,12 @@
 # Crosstalk — week ending 20 August 2026
 
-*11,240 articles over 115 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*11,274 articles over 115 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
 **artificial intelligence** — now in 10 sectors. **Healthcare** picked it up 6d ago; it was first seen in technology coverage on 31 May 2026.
-  - [Xiaomi's AI-EV Pivot gains momentum as memory costs pressure Q226 smartphone business](https://www.digitimes.com/news/a20260819VL219/xiaomi-smartphone-business-revenue-electronics.html) · DigiTimes Asia · technology
-  - [Shinhan Securities Builds AX Platform on Google Gemini Enterprise](https://www.thelec.net/news/articleView.html?idxno=13162) · The Elec · technology
+  - [Xiaomi's AI strategy moves beyond models as MiMo becomes the intelligence layer across human-car-home ecosystem](https://www.digitimes.com/news/a20260819VL220/xiaomi-competition-development-hardware-2026.html) · DigiTimes Asia · technology
+  - [Xiaomi's robotics ambitions reveal the next battleground for industrial AI](https://www.digitimes.com/news/a20260819VL222/robotics-xiaomi-industrial-manufacturing-technology.html) · DigiTimes Asia · technology
 
 **offshore wind** — now in 4 sectors. **Technology** picked it up 6d ago; it was first seen in energy coverage on 17 June 2026.
   - [Energy Dominance Requires Commitments That Last](https://www.powermag.com/energy-dominance-requires-commitments-that-last/) · POWER Magazine · utilities
@@ -23,8 +23,8 @@
 | offshore wind | 4 | 14 | 3.5× |
 | battery electric | 2 | 12 | 3.0× |
 | raw material | 3 | 14 | 2.8× |
+| electric vehicle | 5 | 33 | 2.8× |
 | energy storage | 3 | 63 | 2.7× |
-| electric vehicle | 5 | 31 | 2.6× |
 | virtual power plant | 3 | 7 | 2.3× |
 
 ---
