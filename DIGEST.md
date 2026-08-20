@@ -1,6 +1,6 @@
 # Crosstalk — week ending 20 August 2026
 
-*11,320 articles over 115 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*11,337 articles over 115 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
@@ -9,8 +9,8 @@
   - [Xiaomi's robotics ambitions reveal the next battleground for industrial AI](https://www.digitimes.com/news/a20260819VL222/robotics-xiaomi-industrial-manufacturing-technology.html) · DigiTimes Asia · technology
 
 **offshore wind** — now in 4 sectors. **Technology** picked it up 6d ago; it was first seen in energy coverage on 17 June 2026.
+  - [Ørsted proposes new 2GW ⼀offshore wind⼁ farm off Taiwan](https://splash247.com/orsted-proposes-new-2gw-offshore-wind-farm-off-taiwan/) · Splash247 · supply chain
   - [Energy Dominance Requires Commitments That Last](https://www.powermag.com/energy-dominance-requires-commitments-that-last/) · POWER Magazine · utilities
-  - [Taiwan's Century Group eyes SMR supply chain as AI power demand accelerates](https://www.digitimes.com/news/a20260814PD213/taiwan-offshore-wind-demand-supply-chain-electricity.html) · DigiTimes Asia · technology
 
 ## Being used more than a fortnight ago
 
@@ -19,8 +19,8 @@
 | growth driver | 2 | 14 | 4.7× |
 | water level | 2 | 17 | 4.2× |
 | solar panel | 2 | 17 | 4.2× |
+| offshore wind | 4 | 15 | 3.8× |
 | net zero | 2 | 11 | 3.7× |
-| offshore wind | 4 | 14 | 3.5× |
 | battery electric | 2 | 12 | 3.0× |
 | raw material | 3 | 14 | 2.8× |
 | electric vehicle | 5 | 33 | 2.8× |
