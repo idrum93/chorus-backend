@@ -1,6 +1,6 @@
 # Crosstalk — week ending 20 August 2026
 
-*11,503 articles over 115 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*11,565 articles over 115 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
@@ -23,13 +23,13 @@
 | growth driver | 2 | 15 | 5.0× |
 | water level | 2 | 18 | 4.5× |
 | solar panel | 2 | 17 | 4.2× |
+| net zero | 2 | 12 | 4.0× |
+| battery electric | 2 | 16 | 4.0× |
 | offshore wind | 4 | 15 | 3.8× |
-| battery electric | 2 | 15 | 3.8× |
-| net zero | 2 | 11 | 3.7× |
 | electric vehicle | 5 | 37 | 3.1× |
+| raw material | 3 | 15 | 3.0× |
 | energy storage | 3 | 66 | 2.9× |
-| raw material | 3 | 14 | 2.8× |
-| oil export | 2 | 10 | 2.5× |
+| virtual power plant | 3 | 8 | 2.7× |
 
 ---
 
