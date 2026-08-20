@@ -48,7 +48,10 @@ VERSION = "v3"
 # Bump whenever ngrams(), the stopword sets, or singularise() change. Stored in
 # the database; a mismatch rebuilds every derived count. Detecting one specific
 # old format was too narrow - new rules were silently not applied to old rows.
-EXTRACT_VERSION = 129
+# Bump this whenever extraction changes — including companies.json and the
+# stop lists, which feed it. Without a bump, stored grams keep the old rules
+# and the change appears to have done nothing.
+EXTRACT_VERSION = 130
 UA     = "crosstalk-monitor/3.0 (news language monitoring; crosstalkwire.com)"
 KEY    = os.environ.get("NEWSAPI_AI_KEY", "").strip()
 
