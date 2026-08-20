@@ -1,12 +1,12 @@
 # Crosstalk — week ending 20 August 2026
 
-*11,565 articles over 115 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*11,573 articles over 115 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
 **artificial intelligence** — now in 10 sectors. **Healthcare** picked it up 6d ago; it was first seen in technology coverage on 31 May 2026.
+  - [Humana taps physician executive as new chief medical officer](https://www.healthcaredive.com/news/humana-new-chief-medical-officer-shantanu-nundy/828370/) · Healthcare Dive · healthcare
   - [Nexcom brings together dozens of partners to build open AI robotics ecosystem](https://www.digitimes.com/news/a20260820PD200/ipc-nexcom-robotics-robot-2026.html) · DigiTimes Asia · technology
-  - [Worldex Signs Industry-Academia Cooperation MOU With DGIST](https://www.thelec.net/news/articleView.html?idxno=13210) · The Elec · technology
 
 **offshore wind** — now in 4 sectors. **Technology** picked it up 6d ago; it was first seen in energy coverage on 17 June 2026.
   - [Ørsted proposes new 2GW ⼀offshore wind⼁ farm off Taiwan](https://splash247.com/orsted-proposes-new-2gw-offshore-wind-farm-off-taiwan/) · Splash247 · supply chain
