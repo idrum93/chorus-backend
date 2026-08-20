@@ -1,14 +1,14 @@
-# Crosstalk — week ending 19 August 2026
+# Crosstalk — week ending 20 August 2026
 
-*11,127 articles over 114 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*11,219 articles over 115 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
-**artificial intelligence** — now in 10 sectors. **Healthcare** picked it up 5d ago; it was first seen in technology coverage on 31 May 2026.
-  - [Immersive environment to accelerate UK nuclear decommissioning](https://www.world-nuclear-news.org/articles/immersive-environment-to-accelerate-uk-nuclear-decommissioning) · World Nuclear News · energy
-  - [Stripe acquisition may bolster its AI strategy](https://www.paymentsdive.com/news/stripe-openrouter-acquisition-may-bolster-its-ai-strategy/828216/) · Payments Dive · finance
+**artificial intelligence** — now in 10 sectors. **Healthcare** picked it up 6d ago; it was first seen in technology coverage on 31 May 2026.
+  - [Xiaomi's AI-EV Pivot gains momentum as memory costs pressure Q226 smartphone business](https://www.digitimes.com/news/a20260819VL219/xiaomi-smartphone-business-revenue-electronics.html) · DigiTimes Asia · technology
+  - [Shinhan Securities Builds AX Platform on Google Gemini Enterprise](https://www.thelec.net/news/articleView.html?idxno=13162) · The Elec · technology
 
-**offshore wind** — now in 4 sectors. **Technology** picked it up 5d ago; it was first seen in energy coverage on 17 June 2026.
+**offshore wind** — now in 4 sectors. **Technology** picked it up 6d ago; it was first seen in energy coverage on 17 June 2026.
   - [Energy Dominance Requires Commitments That Last](https://www.powermag.com/energy-dominance-requires-commitments-that-last/) · POWER Magazine · utilities
   - [Taiwan's Century Group eyes SMR supply chain as AI power demand accelerates](https://www.digitimes.com/news/a20260814PD213/taiwan-offshore-wind-demand-supply-chain-electricity.html) · DigiTimes Asia · technology
 
@@ -16,16 +16,16 @@
 
 | phrase | sectors | articles | vs prior fortnight |
 |---|---|---|---|
-| water level | 2 | 18 | 6.0× |
-| energy infrastructure | 4 | 18 | 4.5× |
-| growth driver | 2 | 13 | 4.3× |
+| growth driver | 2 | 14 | 4.7× |
+| water level | 2 | 17 | 4.2× |
 | solar panel | 2 | 17 | 4.2× |
-| energy storage | 3 | 68 | 3.8× |
-| solid state | 2 | 11 | 3.7× |
 | net zero | 2 | 11 | 3.7× |
-| electric vehicle | 5 | 32 | 3.6× |
-| drone strike | 2 | 10 | 3.3× |
-| oil export | 2 | 10 | 3.3× |
+| offshore wind | 4 | 14 | 3.5× |
+| battery electric | 2 | 12 | 3.0× |
+| raw material | 3 | 14 | 2.8× |
+| energy storage | 3 | 63 | 2.7× |
+| electric vehicle | 5 | 31 | 2.6× |
+| virtual power plant | 3 | 7 | 2.3× |
 
 ---
 
