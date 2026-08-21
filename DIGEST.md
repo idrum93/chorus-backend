@@ -1,12 +1,12 @@
 # Crosstalk — week ending 21 August 2026
 
-*11,709 articles over 116 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*11,793 articles over 116 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
 **artificial intelligence** — now in 10 sectors. **Healthcare** picked it up 7d ago; it was first seen in technology coverage on 31 May 2026.
-  - [Kenmec surges on AI, advanced packaging to record orders, revenue](https://www.digitimes.com/news/a20260820PD217/kenmec-revenue-packaging-demand-expansion.html) · DigiTimes Asia · technology
-  - [How credit allocation is becoming part of the AI supply chain](https://www.digitimes.com/news/a20260820PD222/ai-hardware-supply-chain.html) · DigiTimes Asia · technology
+  - [Anthropic venture acquires Casper Studios to expand enterprise AI services](https://www.digitimes.com/news/a20260821PR203/anthropic-business-claude-worldwide-demand.html) · DigiTimes Asia · technology
+  - [JCET profit surges 79% on AI demand, with advanced packaging and CPO gaining scale](https://www.digitimes.com/news/a20260821VL209/packaging-demand-jcet-profit-revenue.html) · DigiTimes Asia · technology
 
 **offshore wind** — now in 4 sectors. **Technology** picked it up 7d ago; it was first seen in energy coverage on 17 June 2026.
   - [Ørsted proposes new 2GW ⼀offshore wind⼁ farm off Taiwan](https://splash247.com/orsted-proposes-new-2gw-offshore-wind-farm-off-taiwan/) · Splash247 · supply chain
@@ -25,10 +25,10 @@
 | solar cell | 2 | 11 | 3.7× |
 | solar panel | 2 | 16 | 3.2× |
 | grid connection | 3 | 9 | 3.0× |
+| drone attack | 2 | 12 | 3.0× |
 | electric vehicle | 5 | 37 | 2.8× |
 | offshore wind | 4 | 14 | 2.8× |
 | net zero | 2 | 11 | 2.8× |
-| drone attack | 2 | 11 | 2.8× |
 | water level | 2 | 16 | 2.7× |
 
 ---
