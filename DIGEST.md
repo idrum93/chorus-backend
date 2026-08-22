@@ -1,6 +1,6 @@
 # Crosstalk — week ending 22 August 2026
 
-*12,083 articles over 117 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*12,125 articles over 118 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
@@ -21,7 +21,7 @@
 | grid connection | 3 | 9 | 3.0× |
 | water level | 2 | 17 | 2.8× |
 | offshore wind | 4 | 14 | 2.8× |
-| electric vehicle | 5 | 38 | 2.7× |
+| electric vehicle | 5 | 39 | 2.8× |
 
 ---
 
