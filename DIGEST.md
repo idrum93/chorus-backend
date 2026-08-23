@@ -1,27 +1,25 @@
-# Crosstalk — week ending 22 August 2026
+# Crosstalk — week ending 23 August 2026
 
-*12,152 articles over 118 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*12,158 articles over 119 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
-**grid connection** — now in 3 sectors. **Energy** picked it up 7d ago; it was first seen in technology coverage on 31 July 2026.
-  - [How credit allocation is becoming part of the AI supply chain](https://www.digitimes.com/news/a20260820PD222/ai-hardware-supply-chain.html) · DigiTimes Asia · technology
-  - [PJM wants data centers to bring their own power. Pennsylvania's on it.](https://www.canarymedia.com/articles/data-centers/pjm-data-centers-pennsylvania) · Canary Media · energy
+Nothing crossed into a new sector this week.
 
 ## Being used more than a fortnight ago
 
 | phrase | sectors | articles | vs prior fortnight |
 |---|---|---|---|
-| battery electric | 2 | 16 | 4.0× |
 | solar cell | 2 | 11 | 3.7× |
 | oil export | 2 | 14 | 3.5× |
 | growth driver | 2 | 14 | 3.5× |
-| solar panel | 2 | 16 | 3.2× |
-| water level | 2 | 18 | 3.0× |
-| net zero | 3 | 12 | 3.0× |
+| water level | 2 | 19 | 3.2× |
 | grid connection | 3 | 9 | 3.0× |
+| battery electric | 2 | 15 | 3.0× |
 | offshore wind | 4 | 14 | 2.8× |
 | electric vehicle | 5 | 39 | 2.8× |
+| general manager | 2 | 8 | 2.7× |
+| forms part | 2 | 8 | 2.7× |
 
 ---
 
