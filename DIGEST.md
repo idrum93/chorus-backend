@@ -1,6 +1,6 @@
 # Crosstalk — week ending 24 August 2026
 
-*12,352 articles over 119 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*12,491 articles over 119 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
@@ -13,8 +13,8 @@ Nothing crossed into a new sector this week.
 | solar plus storage | 2 | 15 | 5.0× |
 | low water | 2 | 15 | 3.8× |
 | general manager | 2 | 9 | 3.0× |
+| solar panel | 2 | 17 | 2.8× |
 | forms part | 2 | 8 | 2.7× |
-| solar panel | 2 | 16 | 2.7× |
 | virtual power plant | 3 | 8 | 2.7× |
 | growth driver | 2 | 13 | 2.6× |
 | solar cell | 2 | 10 | 2.5× |
