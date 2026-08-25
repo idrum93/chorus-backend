@@ -37,12 +37,18 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch the database
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: gh release download database --pattern chorus.db --clobber || true
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
+      - name: Fetch the database
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
+        run: |
+          pip install awscli --quiet
+          aws s3 cp s3://crosstalk/chorus.db chorus.db \
+            --endpoint-url ${{ secrets.R2_ENDPOINT }}
+          ls -lh chorus.db
 
       - name: Probe structure
         if: github.event.inputs.mode == 'probe'
@@ -66,11 +72,15 @@ jobs:
           { echo "## EDGAR"; echo '```'; tail -60 edgar.txt; echo '```'; } >> $GITHUB_STEP_SUMMARY
 
       - name: Store the database
+        if: always()
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
         run: |
           test -f chorus.db || exit 0
-          gh release upload database chorus.db --clobber
+          aws s3 cp chorus.db s3://crosstalk/chorus.db \
+            --endpoint-url ${{ secrets.R2_ENDPOINT }}
 
       - name: Save
         if: github.event.inputs.mode == 'build'
