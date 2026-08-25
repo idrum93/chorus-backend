@@ -10,7 +10,6 @@ Nothing crossed into a new sector this week.
 
 | phrase | sectors | articles | vs prior fortnight |
 |---|---|---|---|
-| built around | 2 | 10 | 3.3× |
 | battery cell | 2 | 9 | 3.0× |
 | solar panel | 2 | 18 | 2.6× |
 | solar cell | 2 | 10 | 2.5× |
@@ -20,6 +19,7 @@ Nothing crossed into a new sector this week.
 | digital twin | 2 | 8 | 2.0× |
 | green hydrogen | 2 | 6 | 2.0× |
 | solar plus storage | 2 | 12 | 2.0× |
+| supply constraint | 2 | 7 | 1.8× |
 
 ---
 
