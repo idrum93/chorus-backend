@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25T15:40:00.016740+00:00",
+ "generated": "2026-08-25T16:25:45.208465+00:00",
  "placeWords": [
   "africa",
   "alberta",
@@ -560,7 +560,7 @@
    },
    {
     "day": "2026-08-25",
-    "close": 87.14
+    "close": 87.11
    }
   ],
   "Materials": [
@@ -810,7 +810,7 @@
    },
    {
     "day": "2026-08-25",
-    "close": 53.37
+    "close": 53.38
    }
   ],
   "Energy": [
@@ -1060,7 +1060,7 @@
    },
    {
     "day": "2026-08-25",
-    "close": 62.73
+    "close": 62.56
    }
   ],
   "Finance": [
@@ -1310,7 +1310,7 @@
    },
    {
     "day": "2026-08-25",
-    "close": 58.19
+    "close": 58.13
    }
   ],
   "Industrials": [
@@ -1560,7 +1560,7 @@
    },
    {
     "day": "2026-08-25",
-    "close": 178.88
+    "close": 178.81
    }
   ],
   "Technology": [
@@ -1810,7 +1810,7 @@
    },
    {
     "day": "2026-08-25",
-    "close": 181.61
+    "close": 181.69
    }
   ],
   "Real estate": [
@@ -2560,7 +2560,7 @@
    },
    {
     "day": "2026-08-25",
-    "close": 175.55
+    "close": 175.49
    }
   ],
   "Consumer": [
@@ -2810,14 +2810,14 @@
    },
    {
     "day": "2026-08-25",
-    "close": 117.9
+    "close": 118.16
    }
   ]
  },
  "coverage": [
   [
    "US",
-   7803
+   7827
   ],
   [
    "TW",
@@ -2829,19 +2829,19 @@
   ],
   [
    "GB",
-   782
+   783
   ],
   [
    "KR",
    460
   ],
   [
-   "GR",
-   392
+   "DE",
+   394
   ],
   [
-   "DE",
-   392
+   "GR",
+   393
   ],
   [
    "SG",
@@ -4299,36 +4299,37 @@
      "direction": "steady",
      "variants": [
       "data center power",
+      "data center demand",
       "power demand",
       "energy demand"
      ],
      "examples": [
       {
-       "publisher": "Construction Dive",
-       "title": "What Pennsylvania's \u2f00data center\u2f01 rules mean for construction",
-       "url": "https://www.constructiondive.com/news/what-pennsylvanias-data-center-rules-mean-construction/828697/",
+       "publisher": "Data Center Dynamics",
+       "title": "Arm's race: Building the AGI CPU",
+       "url": "https://www.datacenterdynamics.com/en/analysis/arms-race-building-the-agi-cpu/",
        "date": "2026-08-25",
-       "sector": "Real estate",
+       "sector": "Technology",
        "country": "US",
-       "quote": "\u2026states pivot from trying to attract \u2f00data centers\u2f01 to asking who pays for the infrastructure, attorneys say."
+       "quote": "\u2026on is making its own silicon for AI \u2f00data centers\u2f01"
       },
       {
        "publisher": "Data Center Dynamics",
-       "title": "APAC \u2f00data center\u2f01 asset values could reach $1 trillion by 2030 - Cushman & Wakefield",
-       "url": "https://www.datacenterdynamics.com/en/news/apac-data-center-asset-values-could-reach-1-trillion-by-2030-cushman-wakefield/",
+       "title": "Banglalink deploys rooftop solar array on \u2f00data center\u2f01 in Cumilla, Bangladesh",
+       "url": "https://www.datacenterdynamics.com/en/news/banglalink-deploys-rooftop-solar-array-on-data-center-in-cumilla-bangladesh/",
        "date": "2026-08-25",
        "sector": "Technology",
        "country": "US",
        "quote": ""
       },
       {
-       "publisher": "Data Center Dynamics",
-       "title": "Sponsored: From surveillance to operational intelligence: Rethinking safety and security in \u2f00data centers\u2f01",
-       "url": "https://www.datacenterdynamics.com/en/opinions/from-surveillance-to-operational-intelligence-rethinking-safety-and-security-in-data-centers/",
+       "publisher": "Utility Dive",
+       "title": "\u2f00Data centers\u2f01 can vanish from the grid in seconds; reliability rules need to catch up",
+       "url": "https://www.utilitydive.com/news/data-centers-vanish-grid-seconds-reliability-rules/827035/",
        "date": "2026-08-25",
-       "sector": "Technology",
+       "sector": "Utilities",
        "country": "US",
-       "quote": "Why \u2f00data center\u2f01 leaders should no longer evaluate surveillance and access systems solely as security investments."
+       "quote": "The loss of more than 3 GW of \u2f00data center\u2f01 demand in Virginia shows why policy must address operational behavior, not just costs, writes AIxEnergy.io fo\u2026"
       }
      ]
     },
@@ -4587,6 +4588,15 @@
      ],
      "examples": [
       {
+       "publisher": "Waste Dive",
+       "title": "Canadian Clean Fuels Fund invests in Generate Upcycle digester project",
+       "url": "https://www.wastedive.com/news/generate-upcycle-london-ontario-anaerobic-digester-funding-natural-resources-canada/828699/",
+       "date": "2026-08-25",
+       "sector": "Waste & water",
+       "country": "US",
+       "quote": "\u2026would dramatically expand renewable \u2f00natural gas\u2f01 output. Generate Upcycle President Bill Caesar said it's the latest example of public policy supporting diges\u2026"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Hormuz Crisis Boosts Appeal of $42-Billion Tanzania LNG",
        "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Crisis-Boosts-Appeal-of-42-Billion-Tanzania-LNG.html",
@@ -4603,15 +4613,6 @@
        "sector": "Technology",
        "country": "US",
        "quote": "\u2026s, speaks with James Raddings about \u2f00natural gas\u2f01, grid constraints and flexible power strategies for AI-scale data centers."
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Goldman Sachs: Europe Needs Much Higher Gas Prices to Secure Winter Supply",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Europe-Needs-Much-Higher-Gas-Prices-to-Secure-Winter-Supply.html",
-       "date": "2026-08-24",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2f00Natural gas\u2f01 prices in Europe need to jump by December for European storage to fill up with enough inventory for the comin\u2026"
       }
      ]
     },
@@ -5110,36 +5111,37 @@
      "direction": "steady",
      "variants": [
       "data center power",
+      "data center demand",
       "power demand",
       "energy demand"
      ],
      "examples": [
       {
-       "publisher": "Construction Dive",
-       "title": "What Pennsylvania's \u2f00data center\u2f01 rules mean for construction",
-       "url": "https://www.constructiondive.com/news/what-pennsylvanias-data-center-rules-mean-construction/828697/",
+       "publisher": "Data Center Dynamics",
+       "title": "Arm's race: Building the AGI CPU",
+       "url": "https://www.datacenterdynamics.com/en/analysis/arms-race-building-the-agi-cpu/",
        "date": "2026-08-25",
-       "sector": "Real estate",
+       "sector": "Technology",
        "country": "US",
-       "quote": "\u2026states pivot from trying to attract \u2f00data centers\u2f01 to asking who pays for the infrastructure, attorneys say."
+       "quote": "\u2026on is making its own silicon for AI \u2f00data centers\u2f01"
       },
       {
        "publisher": "Data Center Dynamics",
-       "title": "APAC \u2f00data center\u2f01 asset values could reach $1 trillion by 2030 - Cushman & Wakefield",
-       "url": "https://www.datacenterdynamics.com/en/news/apac-data-center-asset-values-could-reach-1-trillion-by-2030-cushman-wakefield/",
+       "title": "Banglalink deploys rooftop solar array on \u2f00data center\u2f01 in Cumilla, Bangladesh",
+       "url": "https://www.datacenterdynamics.com/en/news/banglalink-deploys-rooftop-solar-array-on-data-center-in-cumilla-bangladesh/",
        "date": "2026-08-25",
        "sector": "Technology",
        "country": "US",
        "quote": ""
       },
       {
-       "publisher": "Data Center Dynamics",
-       "title": "Sponsored: From surveillance to operational intelligence: Rethinking safety and security in \u2f00data centers\u2f01",
-       "url": "https://www.datacenterdynamics.com/en/opinions/from-surveillance-to-operational-intelligence-rethinking-safety-and-security-in-data-centers/",
+       "publisher": "Utility Dive",
+       "title": "\u2f00Data centers\u2f01 can vanish from the grid in seconds; reliability rules need to catch up",
+       "url": "https://www.utilitydive.com/news/data-centers-vanish-grid-seconds-reliability-rules/827035/",
        "date": "2026-08-25",
-       "sector": "Technology",
+       "sector": "Utilities",
        "country": "US",
-       "quote": "Why \u2f00data center\u2f01 leaders should no longer evaluate surveillance and access systems solely as security investments."
+       "quote": "The loss of more than 3 GW of \u2f00data center\u2f01 demand in Virginia shows why policy must address operational behavior, not just costs, writes AIxEnergy.io fo\u2026"
       }
      ]
     }
@@ -5283,6 +5285,15 @@
      ],
      "examples": [
       {
+       "publisher": "Waste Dive",
+       "title": "Canadian Clean Fuels Fund invests in Generate Upcycle digester project",
+       "url": "https://www.wastedive.com/news/generate-upcycle-london-ontario-anaerobic-digester-funding-natural-resources-canada/828699/",
+       "date": "2026-08-25",
+       "sector": "Waste & water",
+       "country": "US",
+       "quote": "\u2026would dramatically expand renewable \u2f00natural gas\u2f01 output. Generate Upcycle President Bill Caesar said it's the latest example of public policy supporting diges\u2026"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Hormuz Crisis Boosts Appeal of $42-Billion Tanzania LNG",
        "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Crisis-Boosts-Appeal-of-42-Billion-Tanzania-LNG.html",
@@ -5299,15 +5310,6 @@
        "sector": "Technology",
        "country": "US",
        "quote": "\u2026s, speaks with James Raddings about \u2f00natural gas\u2f01, grid constraints and flexible power strategies for AI-scale data centers."
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Goldman Sachs: Europe Needs Much Higher Gas Prices to Secure Winter Supply",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Europe-Needs-Much-Higher-Gas-Prices-to-Secure-Winter-Supply.html",
-       "date": "2026-08-24",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2f00Natural gas\u2f01 prices in Europe need to jump by December for European storage to fill up with enough inventory for the comin\u2026"
       }
      ]
     },
@@ -5321,36 +5323,37 @@
      "direction": "steady",
      "variants": [
       "data center power",
+      "data center demand",
       "power demand",
       "energy demand"
      ],
      "examples": [
       {
-       "publisher": "Construction Dive",
-       "title": "What Pennsylvania's \u2f00data center\u2f01 rules mean for construction",
-       "url": "https://www.constructiondive.com/news/what-pennsylvanias-data-center-rules-mean-construction/828697/",
+       "publisher": "Data Center Dynamics",
+       "title": "Arm's race: Building the AGI CPU",
+       "url": "https://www.datacenterdynamics.com/en/analysis/arms-race-building-the-agi-cpu/",
        "date": "2026-08-25",
-       "sector": "Real estate",
+       "sector": "Technology",
        "country": "US",
-       "quote": "\u2026states pivot from trying to attract \u2f00data centers\u2f01 to asking who pays for the infrastructure, attorneys say."
+       "quote": "\u2026on is making its own silicon for AI \u2f00data centers\u2f01"
       },
       {
        "publisher": "Data Center Dynamics",
-       "title": "APAC \u2f00data center\u2f01 asset values could reach $1 trillion by 2030 - Cushman & Wakefield",
-       "url": "https://www.datacenterdynamics.com/en/news/apac-data-center-asset-values-could-reach-1-trillion-by-2030-cushman-wakefield/",
+       "title": "Banglalink deploys rooftop solar array on \u2f00data center\u2f01 in Cumilla, Bangladesh",
+       "url": "https://www.datacenterdynamics.com/en/news/banglalink-deploys-rooftop-solar-array-on-data-center-in-cumilla-bangladesh/",
        "date": "2026-08-25",
        "sector": "Technology",
        "country": "US",
        "quote": ""
       },
       {
-       "publisher": "Data Center Dynamics",
-       "title": "Sponsored: From surveillance to operational intelligence: Rethinking safety and security in \u2f00data centers\u2f01",
-       "url": "https://www.datacenterdynamics.com/en/opinions/from-surveillance-to-operational-intelligence-rethinking-safety-and-security-in-data-centers/",
+       "publisher": "Utility Dive",
+       "title": "\u2f00Data centers\u2f01 can vanish from the grid in seconds; reliability rules need to catch up",
+       "url": "https://www.utilitydive.com/news/data-centers-vanish-grid-seconds-reliability-rules/827035/",
        "date": "2026-08-25",
-       "sector": "Technology",
+       "sector": "Utilities",
        "country": "US",
-       "quote": "Why \u2f00data center\u2f01 leaders should no longer evaluate surveillance and access systems solely as security investments."
+       "quote": "The loss of more than 3 GW of \u2f00data center\u2f01 demand in Virginia shows why policy must address operational behavior, not just costs, writes AIxEnergy.io fo\u2026"
       }
      ]
     },
@@ -5940,36 +5943,37 @@
      "direction": "steady",
      "variants": [
       "data center power",
+      "data center demand",
       "power demand",
       "energy demand"
      ],
      "examples": [
       {
-       "publisher": "Construction Dive",
-       "title": "What Pennsylvania's \u2f00data center\u2f01 rules mean for construction",
-       "url": "https://www.constructiondive.com/news/what-pennsylvanias-data-center-rules-mean-construction/828697/",
+       "publisher": "Data Center Dynamics",
+       "title": "Arm's race: Building the AGI CPU",
+       "url": "https://www.datacenterdynamics.com/en/analysis/arms-race-building-the-agi-cpu/",
        "date": "2026-08-25",
-       "sector": "Real estate",
+       "sector": "Technology",
        "country": "US",
-       "quote": "\u2026states pivot from trying to attract \u2f00data centers\u2f01 to asking who pays for the infrastructure, attorneys say."
+       "quote": "\u2026on is making its own silicon for AI \u2f00data centers\u2f01"
       },
       {
        "publisher": "Data Center Dynamics",
-       "title": "APAC \u2f00data center\u2f01 asset values could reach $1 trillion by 2030 - Cushman & Wakefield",
-       "url": "https://www.datacenterdynamics.com/en/news/apac-data-center-asset-values-could-reach-1-trillion-by-2030-cushman-wakefield/",
+       "title": "Banglalink deploys rooftop solar array on \u2f00data center\u2f01 in Cumilla, Bangladesh",
+       "url": "https://www.datacenterdynamics.com/en/news/banglalink-deploys-rooftop-solar-array-on-data-center-in-cumilla-bangladesh/",
        "date": "2026-08-25",
        "sector": "Technology",
        "country": "US",
        "quote": ""
       },
       {
-       "publisher": "Data Center Dynamics",
-       "title": "Sponsored: From surveillance to operational intelligence: Rethinking safety and security in \u2f00data centers\u2f01",
-       "url": "https://www.datacenterdynamics.com/en/opinions/from-surveillance-to-operational-intelligence-rethinking-safety-and-security-in-data-centers/",
+       "publisher": "Utility Dive",
+       "title": "\u2f00Data centers\u2f01 can vanish from the grid in seconds; reliability rules need to catch up",
+       "url": "https://www.utilitydive.com/news/data-centers-vanish-grid-seconds-reliability-rules/827035/",
        "date": "2026-08-25",
-       "sector": "Technology",
+       "sector": "Utilities",
        "country": "US",
-       "quote": "Why \u2f00data center\u2f01 leaders should no longer evaluate surveillance and access systems solely as security investments."
+       "quote": "The loss of more than 3 GW of \u2f00data center\u2f01 demand in Virginia shows why policy must address operational behavior, not just costs, writes AIxEnergy.io fo\u2026"
       }
      ]
     },
@@ -6190,6 +6194,15 @@
      ],
      "examples": [
       {
+       "publisher": "Waste Dive",
+       "title": "Canadian Clean Fuels Fund invests in Generate Upcycle digester project",
+       "url": "https://www.wastedive.com/news/generate-upcycle-london-ontario-anaerobic-digester-funding-natural-resources-canada/828699/",
+       "date": "2026-08-25",
+       "sector": "Waste & water",
+       "country": "US",
+       "quote": "\u2026would dramatically expand renewable \u2f00natural gas\u2f01 output. Generate Upcycle President Bill Caesar said it's the latest example of public policy supporting diges\u2026"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Hormuz Crisis Boosts Appeal of $42-Billion Tanzania LNG",
        "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Crisis-Boosts-Appeal-of-42-Billion-Tanzania-LNG.html",
@@ -6206,15 +6219,6 @@
        "sector": "Technology",
        "country": "US",
        "quote": "\u2026s, speaks with James Raddings about \u2f00natural gas\u2f01, grid constraints and flexible power strategies for AI-scale data centers."
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Goldman Sachs: Europe Needs Much Higher Gas Prices to Secure Winter Supply",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Europe-Needs-Much-Higher-Gas-Prices-to-Secure-Winter-Supply.html",
-       "date": "2026-08-24",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2f00Natural gas\u2f01 prices in Europe need to jump by December for European storage to fill up with enough inventory for the comin\u2026"
       }
      ]
     },
@@ -6345,36 +6349,37 @@
      "direction": "steady",
      "variants": [
       "data center power",
+      "data center demand",
       "power demand",
       "energy demand"
      ],
      "examples": [
       {
-       "publisher": "Construction Dive",
-       "title": "What Pennsylvania's \u2f00data center\u2f01 rules mean for construction",
-       "url": "https://www.constructiondive.com/news/what-pennsylvanias-data-center-rules-mean-construction/828697/",
+       "publisher": "Data Center Dynamics",
+       "title": "Arm's race: Building the AGI CPU",
+       "url": "https://www.datacenterdynamics.com/en/analysis/arms-race-building-the-agi-cpu/",
        "date": "2026-08-25",
-       "sector": "Real estate",
+       "sector": "Technology",
        "country": "US",
-       "quote": "\u2026states pivot from trying to attract \u2f00data centers\u2f01 to asking who pays for the infrastructure, attorneys say."
+       "quote": "\u2026on is making its own silicon for AI \u2f00data centers\u2f01"
       },
       {
        "publisher": "Data Center Dynamics",
-       "title": "APAC \u2f00data center\u2f01 asset values could reach $1 trillion by 2030 - Cushman & Wakefield",
-       "url": "https://www.datacenterdynamics.com/en/news/apac-data-center-asset-values-could-reach-1-trillion-by-2030-cushman-wakefield/",
+       "title": "Banglalink deploys rooftop solar array on \u2f00data center\u2f01 in Cumilla, Bangladesh",
+       "url": "https://www.datacenterdynamics.com/en/news/banglalink-deploys-rooftop-solar-array-on-data-center-in-cumilla-bangladesh/",
        "date": "2026-08-25",
        "sector": "Technology",
        "country": "US",
        "quote": ""
       },
       {
-       "publisher": "Data Center Dynamics",
-       "title": "Sponsored: From surveillance to operational intelligence: Rethinking safety and security in \u2f00data centers\u2f01",
-       "url": "https://www.datacenterdynamics.com/en/opinions/from-surveillance-to-operational-intelligence-rethinking-safety-and-security-in-data-centers/",
+       "publisher": "Utility Dive",
+       "title": "\u2f00Data centers\u2f01 can vanish from the grid in seconds; reliability rules need to catch up",
+       "url": "https://www.utilitydive.com/news/data-centers-vanish-grid-seconds-reliability-rules/827035/",
        "date": "2026-08-25",
-       "sector": "Technology",
+       "sector": "Utilities",
        "country": "US",
-       "quote": "Why \u2f00data center\u2f01 leaders should no longer evaluate surveillance and access systems solely as security investments."
+       "quote": "The loss of more than 3 GW of \u2f00data center\u2f01 demand in Virginia shows why policy must address operational behavior, not just costs, writes AIxEnergy.io fo\u2026"
       }
      ]
     }
@@ -6591,36 +6596,37 @@
      "direction": "steady",
      "variants": [
       "data center power",
+      "data center demand",
       "power demand",
       "energy demand"
      ],
      "examples": [
       {
-       "publisher": "Construction Dive",
-       "title": "What Pennsylvania's \u2f00data center\u2f01 rules mean for construction",
-       "url": "https://www.constructiondive.com/news/what-pennsylvanias-data-center-rules-mean-construction/828697/",
+       "publisher": "Data Center Dynamics",
+       "title": "Arm's race: Building the AGI CPU",
+       "url": "https://www.datacenterdynamics.com/en/analysis/arms-race-building-the-agi-cpu/",
        "date": "2026-08-25",
-       "sector": "Real estate",
+       "sector": "Technology",
        "country": "US",
-       "quote": "\u2026states pivot from trying to attract \u2f00data centers\u2f01 to asking who pays for the infrastructure, attorneys say."
+       "quote": "\u2026on is making its own silicon for AI \u2f00data centers\u2f01"
       },
       {
        "publisher": "Data Center Dynamics",
-       "title": "APAC \u2f00data center\u2f01 asset values could reach $1 trillion by 2030 - Cushman & Wakefield",
-       "url": "https://www.datacenterdynamics.com/en/news/apac-data-center-asset-values-could-reach-1-trillion-by-2030-cushman-wakefield/",
+       "title": "Banglalink deploys rooftop solar array on \u2f00data center\u2f01 in Cumilla, Bangladesh",
+       "url": "https://www.datacenterdynamics.com/en/news/banglalink-deploys-rooftop-solar-array-on-data-center-in-cumilla-bangladesh/",
        "date": "2026-08-25",
        "sector": "Technology",
        "country": "US",
        "quote": ""
       },
       {
-       "publisher": "Data Center Dynamics",
-       "title": "Sponsored: From surveillance to operational intelligence: Rethinking safety and security in \u2f00data centers\u2f01",
-       "url": "https://www.datacenterdynamics.com/en/opinions/from-surveillance-to-operational-intelligence-rethinking-safety-and-security-in-data-centers/",
+       "publisher": "Utility Dive",
+       "title": "\u2f00Data centers\u2f01 can vanish from the grid in seconds; reliability rules need to catch up",
+       "url": "https://www.utilitydive.com/news/data-centers-vanish-grid-seconds-reliability-rules/827035/",
        "date": "2026-08-25",
-       "sector": "Technology",
+       "sector": "Utilities",
        "country": "US",
-       "quote": "Why \u2f00data center\u2f01 leaders should no longer evaluate surveillance and access systems solely as security investments."
+       "quote": "The loss of more than 3 GW of \u2f00data center\u2f01 demand in Virginia shows why policy must address operational behavior, not just costs, writes AIxEnergy.io fo\u2026"
       }
      ]
     }
@@ -6920,36 +6926,37 @@
      "direction": "steady",
      "variants": [
       "data center power",
+      "data center demand",
       "power demand",
       "energy demand"
      ],
      "examples": [
       {
-       "publisher": "Construction Dive",
-       "title": "What Pennsylvania's \u2f00data center\u2f01 rules mean for construction",
-       "url": "https://www.constructiondive.com/news/what-pennsylvanias-data-center-rules-mean-construction/828697/",
+       "publisher": "Data Center Dynamics",
+       "title": "Arm's race: Building the AGI CPU",
+       "url": "https://www.datacenterdynamics.com/en/analysis/arms-race-building-the-agi-cpu/",
        "date": "2026-08-25",
-       "sector": "Real estate",
+       "sector": "Technology",
        "country": "US",
-       "quote": "\u2026states pivot from trying to attract \u2f00data centers\u2f01 to asking who pays for the infrastructure, attorneys say."
+       "quote": "\u2026on is making its own silicon for AI \u2f00data centers\u2f01"
       },
       {
        "publisher": "Data Center Dynamics",
-       "title": "APAC \u2f00data center\u2f01 asset values could reach $1 trillion by 2030 - Cushman & Wakefield",
-       "url": "https://www.datacenterdynamics.com/en/news/apac-data-center-asset-values-could-reach-1-trillion-by-2030-cushman-wakefield/",
+       "title": "Banglalink deploys rooftop solar array on \u2f00data center\u2f01 in Cumilla, Bangladesh",
+       "url": "https://www.datacenterdynamics.com/en/news/banglalink-deploys-rooftop-solar-array-on-data-center-in-cumilla-bangladesh/",
        "date": "2026-08-25",
        "sector": "Technology",
        "country": "US",
        "quote": ""
       },
       {
-       "publisher": "Data Center Dynamics",
-       "title": "Sponsored: From surveillance to operational intelligence: Rethinking safety and security in \u2f00data centers\u2f01",
-       "url": "https://www.datacenterdynamics.com/en/opinions/from-surveillance-to-operational-intelligence-rethinking-safety-and-security-in-data-centers/",
+       "publisher": "Utility Dive",
+       "title": "\u2f00Data centers\u2f01 can vanish from the grid in seconds; reliability rules need to catch up",
+       "url": "https://www.utilitydive.com/news/data-centers-vanish-grid-seconds-reliability-rules/827035/",
        "date": "2026-08-25",
-       "sector": "Technology",
+       "sector": "Utilities",
        "country": "US",
-       "quote": "Why \u2f00data center\u2f01 leaders should no longer evaluate surveillance and access systems solely as security investments."
+       "quote": "The loss of more than 3 GW of \u2f00data center\u2f01 demand in Virginia shows why policy must address operational behavior, not just costs, writes AIxEnergy.io fo\u2026"
       }
      ]
     },
@@ -7659,6 +7666,15 @@
      ],
      "examples": [
       {
+       "publisher": "Waste Dive",
+       "title": "Canadian Clean Fuels Fund invests in Generate Upcycle digester project",
+       "url": "https://www.wastedive.com/news/generate-upcycle-london-ontario-anaerobic-digester-funding-natural-resources-canada/828699/",
+       "date": "2026-08-25",
+       "sector": "Waste & water",
+       "country": "US",
+       "quote": "\u2026would dramatically expand renewable \u2f00natural gas\u2f01 output. Generate Upcycle President Bill Caesar said it's the latest example of public policy supporting diges\u2026"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Hormuz Crisis Boosts Appeal of $42-Billion Tanzania LNG",
        "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Crisis-Boosts-Appeal-of-42-Billion-Tanzania-LNG.html",
@@ -7675,15 +7691,6 @@
        "sector": "Technology",
        "country": "US",
        "quote": "\u2026s, speaks with James Raddings about \u2f00natural gas\u2f01, grid constraints and flexible power strategies for AI-scale data centers."
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Goldman Sachs: Europe Needs Much Higher Gas Prices to Secure Winter Supply",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Europe-Needs-Much-Higher-Gas-Prices-to-Secure-Winter-Supply.html",
-       "date": "2026-08-24",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2f00Natural gas\u2f01 prices in Europe need to jump by December for European storage to fill up with enough inventory for the comin\u2026"
       }
      ]
     },
@@ -7697,36 +7704,37 @@
      "direction": "steady",
      "variants": [
       "data center power",
+      "data center demand",
       "power demand",
       "energy demand"
      ],
      "examples": [
       {
-       "publisher": "Construction Dive",
-       "title": "What Pennsylvania's \u2f00data center\u2f01 rules mean for construction",
-       "url": "https://www.constructiondive.com/news/what-pennsylvanias-data-center-rules-mean-construction/828697/",
+       "publisher": "Data Center Dynamics",
+       "title": "Arm's race: Building the AGI CPU",
+       "url": "https://www.datacenterdynamics.com/en/analysis/arms-race-building-the-agi-cpu/",
        "date": "2026-08-25",
-       "sector": "Real estate",
+       "sector": "Technology",
        "country": "US",
-       "quote": "\u2026states pivot from trying to attract \u2f00data centers\u2f01 to asking who pays for the infrastructure, attorneys say."
+       "quote": "\u2026on is making its own silicon for AI \u2f00data centers\u2f01"
       },
       {
        "publisher": "Data Center Dynamics",
-       "title": "APAC \u2f00data center\u2f01 asset values could reach $1 trillion by 2030 - Cushman & Wakefield",
-       "url": "https://www.datacenterdynamics.com/en/news/apac-data-center-asset-values-could-reach-1-trillion-by-2030-cushman-wakefield/",
+       "title": "Banglalink deploys rooftop solar array on \u2f00data center\u2f01 in Cumilla, Bangladesh",
+       "url": "https://www.datacenterdynamics.com/en/news/banglalink-deploys-rooftop-solar-array-on-data-center-in-cumilla-bangladesh/",
        "date": "2026-08-25",
        "sector": "Technology",
        "country": "US",
        "quote": ""
       },
       {
-       "publisher": "Data Center Dynamics",
-       "title": "Sponsored: From surveillance to operational intelligence: Rethinking safety and security in \u2f00data centers\u2f01",
-       "url": "https://www.datacenterdynamics.com/en/opinions/from-surveillance-to-operational-intelligence-rethinking-safety-and-security-in-data-centers/",
+       "publisher": "Utility Dive",
+       "title": "\u2f00Data centers\u2f01 can vanish from the grid in seconds; reliability rules need to catch up",
+       "url": "https://www.utilitydive.com/news/data-centers-vanish-grid-seconds-reliability-rules/827035/",
        "date": "2026-08-25",
-       "sector": "Technology",
+       "sector": "Utilities",
        "country": "US",
-       "quote": "Why \u2f00data center\u2f01 leaders should no longer evaluate surveillance and access systems solely as security investments."
+       "quote": "The loss of more than 3 GW of \u2f00data center\u2f01 demand in Virginia shows why policy must address operational behavior, not just costs, writes AIxEnergy.io fo\u2026"
       }
      ]
     }
@@ -7862,36 +7870,37 @@
      "direction": "steady",
      "variants": [
       "data center power",
+      "data center demand",
       "power demand",
       "energy demand"
      ],
      "examples": [
       {
-       "publisher": "Construction Dive",
-       "title": "What Pennsylvania's \u2f00data center\u2f01 rules mean for construction",
-       "url": "https://www.constructiondive.com/news/what-pennsylvanias-data-center-rules-mean-construction/828697/",
+       "publisher": "Data Center Dynamics",
+       "title": "Arm's race: Building the AGI CPU",
+       "url": "https://www.datacenterdynamics.com/en/analysis/arms-race-building-the-agi-cpu/",
        "date": "2026-08-25",
-       "sector": "Real estate",
+       "sector": "Technology",
        "country": "US",
-       "quote": "\u2026states pivot from trying to attract \u2f00data centers\u2f01 to asking who pays for the infrastructure, attorneys say."
+       "quote": "\u2026on is making its own silicon for AI \u2f00data centers\u2f01"
       },
       {
        "publisher": "Data Center Dynamics",
-       "title": "APAC \u2f00data center\u2f01 asset values could reach $1 trillion by 2030 - Cushman & Wakefield",
-       "url": "https://www.datacenterdynamics.com/en/news/apac-data-center-asset-values-could-reach-1-trillion-by-2030-cushman-wakefield/",
+       "title": "Banglalink deploys rooftop solar array on \u2f00data center\u2f01 in Cumilla, Bangladesh",
+       "url": "https://www.datacenterdynamics.com/en/news/banglalink-deploys-rooftop-solar-array-on-data-center-in-cumilla-bangladesh/",
        "date": "2026-08-25",
        "sector": "Technology",
        "country": "US",
        "quote": ""
       },
       {
-       "publisher": "Data Center Dynamics",
-       "title": "Sponsored: From surveillance to operational intelligence: Rethinking safety and security in \u2f00data centers\u2f01",
-       "url": "https://www.datacenterdynamics.com/en/opinions/from-surveillance-to-operational-intelligence-rethinking-safety-and-security-in-data-centers/",
+       "publisher": "Utility Dive",
+       "title": "\u2f00Data centers\u2f01 can vanish from the grid in seconds; reliability rules need to catch up",
+       "url": "https://www.utilitydive.com/news/data-centers-vanish-grid-seconds-reliability-rules/827035/",
        "date": "2026-08-25",
-       "sector": "Technology",
+       "sector": "Utilities",
        "country": "US",
-       "quote": "Why \u2f00data center\u2f01 leaders should no longer evaluate surveillance and access systems solely as security investments."
+       "quote": "The loss of more than 3 GW of \u2f00data center\u2f01 demand in Virginia shows why policy must address operational behavior, not just costs, writes AIxEnergy.io fo\u2026"
       }
      ]
     }
@@ -7988,36 +7997,37 @@
      "direction": "steady",
      "variants": [
       "data center power",
+      "data center demand",
       "power demand",
       "energy demand"
      ],
      "examples": [
       {
-       "publisher": "Construction Dive",
-       "title": "What Pennsylvania's \u2f00data center\u2f01 rules mean for construction",
-       "url": "https://www.constructiondive.com/news/what-pennsylvanias-data-center-rules-mean-construction/828697/",
+       "publisher": "Data Center Dynamics",
+       "title": "Arm's race: Building the AGI CPU",
+       "url": "https://www.datacenterdynamics.com/en/analysis/arms-race-building-the-agi-cpu/",
        "date": "2026-08-25",
-       "sector": "Real estate",
+       "sector": "Technology",
        "country": "US",
-       "quote": "\u2026states pivot from trying to attract \u2f00data centers\u2f01 to asking who pays for the infrastructure, attorneys say."
+       "quote": "\u2026on is making its own silicon for AI \u2f00data centers\u2f01"
       },
       {
        "publisher": "Data Center Dynamics",
-       "title": "APAC \u2f00data center\u2f01 asset values could reach $1 trillion by 2030 - Cushman & Wakefield",
-       "url": "https://www.datacenterdynamics.com/en/news/apac-data-center-asset-values-could-reach-1-trillion-by-2030-cushman-wakefield/",
+       "title": "Banglalink deploys rooftop solar array on \u2f00data center\u2f01 in Cumilla, Bangladesh",
+       "url": "https://www.datacenterdynamics.com/en/news/banglalink-deploys-rooftop-solar-array-on-data-center-in-cumilla-bangladesh/",
        "date": "2026-08-25",
        "sector": "Technology",
        "country": "US",
        "quote": ""
       },
       {
-       "publisher": "Data Center Dynamics",
-       "title": "Sponsored: From surveillance to operational intelligence: Rethinking safety and security in \u2f00data centers\u2f01",
-       "url": "https://www.datacenterdynamics.com/en/opinions/from-surveillance-to-operational-intelligence-rethinking-safety-and-security-in-data-centers/",
+       "publisher": "Utility Dive",
+       "title": "\u2f00Data centers\u2f01 can vanish from the grid in seconds; reliability rules need to catch up",
+       "url": "https://www.utilitydive.com/news/data-centers-vanish-grid-seconds-reliability-rules/827035/",
        "date": "2026-08-25",
-       "sector": "Technology",
+       "sector": "Utilities",
        "country": "US",
-       "quote": "Why \u2f00data center\u2f01 leaders should no longer evaluate surveillance and access systems solely as security investments."
+       "quote": "The loss of more than 3 GW of \u2f00data center\u2f01 demand in Virginia shows why policy must address operational behavior, not just costs, writes AIxEnergy.io fo\u2026"
       }
      ]
     },
@@ -8101,8 +8111,8 @@
    "borrowed": [
     "charging network"
    ],
-   "articles": 26,
-   "articles14d": 17,
+   "articles": 27,
+   "articles14d": 18,
    "terms": [
     {
      "term": "charging network",
@@ -8189,6 +8199,13 @@
    "examples": [
     {
      "publisher": "Retail Dive",
+     "title": "\u2f00Walmart\u2f01 goes all in on boho style with new private label",
+     "url": "https://www.retaildive.com/news/walmart-new-private-label-scenerio/828696/",
+     "sector": "Consumer",
+     "quote": "\u2026the broadest category footprints in \u2f00Walmart\u2f01 Fashion."
+    },
+    {
+     "publisher": "Retail Dive",
      "title": "\u2f00Walmart\u2f01 to accept Apple Pay, Google Pay",
      "url": "https://www.retaildive.com/news/walmart-apple-pay-google-pay-digital-wallet/828604/",
      "sector": "Consumer",
@@ -8206,13 +8223,6 @@
      "title": "\u2f00Walmart\u2f01 communications chief to depart after 3 years",
      "url": "https://www.retaildive.com/news/walmart-communications-chief-allyson-park-departure-after-3-years/828576/",
      "sector": "Consumer",
-     "quote": ""
-    },
-    {
-     "publisher": "Payments Dive",
-     "title": "\u2f00Walmart\u2f01 adds digital wallet options",
-     "url": "https://www.paymentsdive.com/news/walmart-adds-digital-wallet-options/828600/",
-     "sector": "Finance",
      "quote": ""
     }
    ]
@@ -8242,6 +8252,15 @@
      ],
      "examples": [
       {
+       "publisher": "Waste Dive",
+       "title": "Canadian Clean Fuels Fund invests in Generate Upcycle digester project",
+       "url": "https://www.wastedive.com/news/generate-upcycle-london-ontario-anaerobic-digester-funding-natural-resources-canada/828699/",
+       "date": "2026-08-25",
+       "sector": "Waste & water",
+       "country": "US",
+       "quote": "\u2026would dramatically expand renewable \u2f00natural gas\u2f01 output. Generate Upcycle President Bill Caesar said it's the latest example of public policy supporting diges\u2026"
+      },
+      {
        "publisher": "OilPrice",
        "title": "Hormuz Crisis Boosts Appeal of $42-Billion Tanzania LNG",
        "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Crisis-Boosts-Appeal-of-42-Billion-Tanzania-LNG.html",
@@ -8258,15 +8277,6 @@
        "sector": "Technology",
        "country": "US",
        "quote": "\u2026s, speaks with James Raddings about \u2f00natural gas\u2f01, grid constraints and flexible power strategies for AI-scale data centers."
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Goldman Sachs: Europe Needs Much Higher Gas Prices to Secure Winter Supply",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Europe-Needs-Much-Higher-Gas-Prices-to-Secure-Winter-Supply.html",
-       "date": "2026-08-24",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2f00Natural gas\u2f01 prices in Europe need to jump by December for European storage to fill up with enough inventory for the comin\u2026"
       }
      ]
     },
@@ -8280,36 +8290,37 @@
      "direction": "steady",
      "variants": [
       "data center power",
+      "data center demand",
       "power demand",
       "energy demand"
      ],
      "examples": [
       {
-       "publisher": "Construction Dive",
-       "title": "What Pennsylvania's \u2f00data center\u2f01 rules mean for construction",
-       "url": "https://www.constructiondive.com/news/what-pennsylvanias-data-center-rules-mean-construction/828697/",
+       "publisher": "Data Center Dynamics",
+       "title": "Arm's race: Building the AGI CPU",
+       "url": "https://www.datacenterdynamics.com/en/analysis/arms-race-building-the-agi-cpu/",
        "date": "2026-08-25",
-       "sector": "Real estate",
+       "sector": "Technology",
        "country": "US",
-       "quote": "\u2026states pivot from trying to attract \u2f00data centers\u2f01 to asking who pays for the infrastructure, attorneys say."
+       "quote": "\u2026on is making its own silicon for AI \u2f00data centers\u2f01"
       },
       {
        "publisher": "Data Center Dynamics",
-       "title": "APAC \u2f00data center\u2f01 asset values could reach $1 trillion by 2030 - Cushman & Wakefield",
-       "url": "https://www.datacenterdynamics.com/en/news/apac-data-center-asset-values-could-reach-1-trillion-by-2030-cushman-wakefield/",
+       "title": "Banglalink deploys rooftop solar array on \u2f00data center\u2f01 in Cumilla, Bangladesh",
+       "url": "https://www.datacenterdynamics.com/en/news/banglalink-deploys-rooftop-solar-array-on-data-center-in-cumilla-bangladesh/",
        "date": "2026-08-25",
        "sector": "Technology",
        "country": "US",
        "quote": ""
       },
       {
-       "publisher": "Data Center Dynamics",
-       "title": "Sponsored: From surveillance to operational intelligence: Rethinking safety and security in \u2f00data centers\u2f01",
-       "url": "https://www.datacenterdynamics.com/en/opinions/from-surveillance-to-operational-intelligence-rethinking-safety-and-security-in-data-centers/",
+       "publisher": "Utility Dive",
+       "title": "\u2f00Data centers\u2f01 can vanish from the grid in seconds; reliability rules need to catch up",
+       "url": "https://www.utilitydive.com/news/data-centers-vanish-grid-seconds-reliability-rules/827035/",
        "date": "2026-08-25",
-       "sector": "Technology",
+       "sector": "Utilities",
        "country": "US",
-       "quote": "Why \u2f00data center\u2f01 leaders should no longer evaluate surveillance and access systems solely as security investments."
+       "quote": "The loss of more than 3 GW of \u2f00data center\u2f01 demand in Virginia shows why policy must address operational behavior, not just costs, writes AIxEnergy.io fo\u2026"
       }
      ]
     }
@@ -22477,15 +22488,15 @@
   ]
  },
  "daysCollected": 120,
- "articlesStored": 12995,
- "articlesLive": 9240,
+ "articlesStored": 13023,
+ "articlesLive": 9268,
  "windowDays": 90,
  "terms": [
   {
    "id": "iron-ore",
    "term": "iron ore",
    "direction": "rising",
-   "ratio": 1.2438039880519902,
+   "ratio": 1.240998791784132,
    "display": true,
    "adoptionSpan": 56,
    "pace": "gradual",
@@ -23129,7 +23140,7 @@
    "id": "wind-farm",
    "term": "wind farm",
    "direction": "steady",
-   "ratio": 0.3553725680148543,
+   "ratio": 0.35457108336689486,
    "display": true,
    "adoptionSpan": 27,
    "pace": "mixed",
@@ -23706,7 +23717,7 @@
    "id": "ion-battery",
    "term": "ion battery",
    "direction": "steady",
-   "ratio": 0.5330588520222814,
+   "ratio": 0.5318566250503424,
    "display": true,
    "adoptionSpan": 34,
    "pace": "gradual",
@@ -23889,36 +23900,12 @@
    },
    "cooc": [
     [
-     "energy density",
-     0.5,
-     "falling",
-     2,
-     4,
-     268.4,
-     [
-      {
-       "title": "LiBEST, EcoPro BM Exchange Next-Generation Battery Technologies",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=13319",
-       "publisher": "The Elec",
-       "sector": "Technology",
-       "quote": "\u2026ave discussed technologies for high-\u2f00energy-density\u2f01 batteries and next-generation battery materials.LiBEST said EcoPro BM CEO Choi Moon-ho and employees from the\u2026"
-      },
-      {
-       "title": "Xing Mobility introduces immersion-cooled batteries for ships",
-       "url": "https://www.electrive.com/2026/08/12/xing-mobility-introduces-immersion-cooled-batteries-for-ships/",
-       "publisher": "Electrive",
-       "sector": "Autos",
-       "quote": "\u2026designed to offer particularly high \u2f00energy density\u2f01 in a compact space."
-      }
-     ]
-    ],
-    [
      "black mass",
-     0.25,
-     "falling",
-     1,
+     0.5,
+     "steady",
      2,
-     268.4,
+     2,
+     540.0,
      [
       {
        "title": "Battery recycling projects among DOE's latest $500M grant funding round",
@@ -23937,12 +23924,36 @@
      ]
     ],
     [
+     "energy density",
+     0.5,
+     "falling",
+     2,
+     4,
+     270.0,
+     [
+      {
+       "title": "LiBEST, EcoPro BM Exchange Next-Generation Battery Technologies",
+       "url": "https://www.thelec.net/news/articleView.html?idxno=13319",
+       "publisher": "The Elec",
+       "sector": "Technology",
+       "quote": "\u2026ave discussed technologies for high-\u2f00energy-density\u2f01 batteries and next-generation battery materials.LiBEST said EcoPro BM CEO Choi Moon-ho and employees from the\u2026"
+      },
+      {
+       "title": "Xing Mobility introduces immersion-cooled batteries for ships",
+       "url": "https://www.electrive.com/2026/08/12/xing-mobility-introduces-immersion-cooled-batteries-for-ships/",
+       "publisher": "Electrive",
+       "sector": "Autos",
+       "quote": "\u2026designed to offer particularly high \u2f00energy density\u2f01 in a compact space."
+      }
+     ]
+    ],
+    [
      "energy storage system",
      1.0,
      "new",
      4,
      0,
-     69.3,
+     69.7,
      [
       {
        "title": "Energy law amendments lift AI data center storage demand in Taiwan",
@@ -23984,6 +23995,30 @@
        "url": "https://www.electrive.com/2026/08/19/lg-energy-solution-launches-battery-production-in-lansing/",
        "publisher": "Electrive",
        "sector": "Autos",
+       "quote": ""
+      }
+     ]
+    ],
+    [
+     "critical mineral",
+     0.5,
+     "steady",
+     2,
+     2,
+     45.0,
+     [
+      {
+       "title": "Battery recycling projects among DOE's latest $500M grant funding round",
+       "url": "https://www.wastedive.com/news/battery-recycling-500m-grant-funding-princeton-nuenergy-nth-cycle/828698/",
+       "publisher": "Waste Dive",
+       "sector": "Waste & water",
+       "quote": "\u2026ttery recycling projects to recover \u2f00critical minerals\u2f01 for manufacturing. The funding comes amid new black mass export restrictions meant to boost domestic supplies\u2026"
+      },
+      {
+       "title": "Hormuz Oil Crisis Accelerates Global EV Sales",
+       "url": "https://oilprice.com/Energy/Energy-General/Hormuz-Oil-Crisis-Accelerates-Global-EV-Sales.html",
+       "publisher": "OilPrice",
+       "sector": "Energy",
        "quote": ""
       }
      ]
@@ -24473,7 +24508,7 @@
    "id": "solar-generation",
    "term": "solar generation",
    "direction": "rising",
-   "ratio": 1.5991765560668445,
+   "ratio": 1.595569875151027,
    "display": true,
    "adoptionSpan": 9,
    "pace": "mixed",
@@ -24610,7 +24645,7 @@
      "new",
      4,
      0,
-     43.8,
+     44.1,
      [
       {
        "title": "Edify reaches renewable energy milestone",
@@ -25120,7 +25155,7 @@
    "id": "electric-vehicle",
    "term": "electric vehicle",
    "direction": "steady",
-   "ratio": 0.5716863050673744,
+   "ratio": 0.570396960198918,
    "display": true,
    "adoptionSpan": 39,
    "pace": "gradual",
@@ -25388,7 +25423,7 @@
      "new",
      4,
      0,
-     87.1,
+     87.6,
      [
       {
        "title": "Octillion adds 3 GWh of battery capacity in India",
@@ -25440,7 +25475,7 @@
      "steady",
      2,
      2,
-     43.5,
+     43.8,
      [
       {
        "title": "California earmarks $95 million for ZEV infrastructure",
@@ -25464,7 +25499,7 @@
      "new",
      4,
      0,
-     20.1,
+     20.2,
      [
       {
        "title": "In Michigan, LG opens one of America's biggest battery cell factories",
@@ -25957,17 +25992,17 @@
    ],
    "relRatio": 1.17,
    "docFreq": 0.003,
-   "specificity": 0.9,
+   "specificity": 0.901,
    "homeShare": 0.529,
    "daysSeen": 11,
-   "rank": 0.982,
+   "rank": 0.983,
    "overlapAt": 1.0
   },
   {
    "id": "energy-efficiency",
    "term": "energy efficiency",
    "direction": "steady",
-   "ratio": 0.47383009068647236,
+   "ratio": 0.47276144448919316,
    "display": true,
    "adoptionSpan": 56,
    "pace": "gradual",
@@ -26195,7 +26230,7 @@
      "new",
      4,
      0,
-     17.5,
+     17.6,
      [
       {
        "title": "AMD Quadruples Rack-Scale Energy Efficiency",
@@ -26688,17 +26723,17 @@
    ],
    "relRatio": 0.97,
    "docFreq": 0.0006,
-   "specificity": 0.978,
+   "specificity": 0.979,
    "homeShare": 0.6,
    "daysSeen": 6,
-   "rank": 0.971,
+   "rank": 0.972,
    "overlapAt": 1.0
   },
   {
    "id": "value-chain",
    "term": "value chain",
    "direction": "rising",
-   "ratio": 1.2438039880519902,
+   "ratio": 1.240998791784132,
    "display": true,
    "adoptionSpan": 19,
    "pace": "mixed",
@@ -27294,7 +27329,7 @@
    "id": "digital-twin",
    "term": "digital twin",
    "direction": "rising",
-   "ratio": 0.7107451360297086,
+   "ratio": 0.7091421667337898,
    "display": true,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -27917,17 +27952,17 @@
    ],
    "relRatio": 1.45,
    "docFreq": 0.0006,
-   "specificity": 0.978,
+   "specificity": 0.979,
    "homeShare": 0.75,
    "daysSeen": 4,
-   "rank": 0.917,
+   "rank": 0.918,
    "overlapAt": 1.0
   },
   {
    "id": "battery-cell",
    "term": "battery cell",
    "direction": "rising",
-   "ratio": 1.1845752267161809,
+   "ratio": 1.181903611222983,
    "display": true,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -28119,7 +28154,7 @@
      "new",
      4,
      0,
-     52.2,
+     52.5,
      [
       {
        "title": "In Michigan, LG opens one of America's biggest battery cell factories",
@@ -28629,7 +28664,7 @@
    "id": "electricity-demand",
    "term": "electricity demand",
    "direction": "steady",
-   "ratio": 0.4886372810204247,
+   "ratio": 0.4875352396294805,
    "display": true,
    "adoptionSpan": 51,
    "pace": "gradual",
@@ -28777,7 +28812,7 @@
      "new",
      4,
      0,
-     251.0,
+     252.5,
      [
       {
        "title": "The Forgotten Generation: Why Cogeneration is Re-Emerging in the Age of AI",
@@ -28829,7 +28864,7 @@
      "steady",
      2,
      2,
-     79.9,
+     80.3,
      [
       {
        "title": "The Forgotten Generation: Why Cogeneration is Re-Emerging in the Age of AI",
@@ -29339,7 +29374,7 @@
    "id": "power-generation",
    "term": "power generation",
    "direction": "falling",
-   "ratio": 0.20574201306123144,
+   "ratio": 0.20527799563346547,
    "display": true,
    "adoptionSpan": 42,
    "pace": "gradual",
@@ -29567,7 +29602,7 @@
      "new",
      4,
      0,
-     585.7,
+     589.1,
      [
       {
        "title": "DCD Talks: Natural gas as a bridge to AI scale with Stiven Smith, Cummins",
@@ -29591,7 +29626,7 @@
      "new",
      4,
      0,
-     351.4,
+     353.5,
      [
       {
        "title": "Infineon buys India-based C2i Semiconductors to bolster AI data center power systems",
@@ -29622,7 +29657,7 @@
      "rising",
      6,
      4,
-     90.9,
+     88.4,
      [
       {
        "title": "DCD Talks: \u2f00Natural gas\u2f01 as a bridge to AI scale with Stiven Smith, Cummins",
@@ -29660,7 +29695,7 @@
      "steady",
      2,
      2,
-     79.9,
+     80.3,
      [
       {
        "title": "The Forgotten Generation: Why Cogeneration is Re-Emerging in the Age of AI",
@@ -30170,27 +30205,27 @@
    "id": "natural-gas",
    "term": "natural gas",
    "direction": "falling",
-   "ratio": 0.20611608944861548,
+   "ratio": 0.2127426500201369,
    "display": true,
    "adoptionSpan": 44,
    "pace": "gradual",
    "kind": "concept",
    "sectorCount": 4,
-   "effectiveSectors": 2.84,
+   "effectiveSectors": 2.82,
    "newestSector": "Supply chain",
    "daysSinceNewestSector": 20,
-   "articles14d": 29,
+   "articles14d": 30,
    "articlesPrior14d": 50,
-   "publishers": 11,
-   "events": 30,
-   "topPubShare": 0.5,
+   "publishers": 12,
+   "events": 31,
+   "topPubShare": 0.484,
    "sectors": [
     {
      "name": "Energy",
      "firstSeen": "2026-06-22",
-     "recent": 14,
-     "articles": 44,
-     "share": 0.538,
+     "recent": 15,
+     "articles": 45,
+     "share": 0.556,
      "atSectorStart": false,
      "grip": 0.167,
      "outlets": 1,
@@ -30201,7 +30236,7 @@
      "firstSeen": "2026-07-31",
      "recent": 4,
      "articles": 9,
-     "share": 0.154,
+     "share": 0.148,
      "atSectorStart": false,
      "grip": 0.222,
      "outlets": 2,
@@ -30212,7 +30247,7 @@
      "firstSeen": "2026-08-03",
      "recent": 6,
      "articles": 19,
-     "share": 0.231,
+     "share": 0.222,
      "atSectorStart": false,
      "grip": 0.571,
      "outlets": 4,
@@ -30223,7 +30258,7 @@
      "firstSeen": "2026-08-05",
      "recent": 2,
      "articles": 3,
-     "share": 0.077,
+     "share": 0.074,
      "atSectorStart": false,
      "grip": 0.143,
      "outlets": 1,
@@ -30234,7 +30269,7 @@
    "origins": [
     [
      "US",
-     64
+     65
     ],
     [
      "NL",
@@ -30289,7 +30324,7 @@
        14,
        14,
        8,
-       4
+       5
       ]
      },
      {
@@ -30463,7 +30498,7 @@
      "falling",
      2,
      6,
-     333.2,
+     324.0,
      [
       {
        "title": "Norway's Oil Output Falls Nearly 200,000 Bpd as Gulf Supply Crisis Drags On",
@@ -30482,12 +30517,36 @@
      ]
     ],
     [
+     "middle east conflict",
+     0.67,
+     "new",
+     4,
+     0,
+     108.0,
+     [
+      {
+       "title": "Hormuz Crisis Boosts Appeal of $42-Billion Tanzania LNG",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Crisis-Boosts-Appeal-of-42-Billion-Tanzania-LNG.html",
+       "publisher": "OilPrice",
+       "sector": "Energy",
+       "quote": "\u2026attractive for development amid the \u2f00Middle East conflict\u2f01 that has crippled liquefied natural gas supply through the Strait of Hormuz, a senior executive at the Norweg\u2026"
+      },
+      {
+       "title": "Taipower sees fuel costs jump over NT$120B as natural gas prices surge",
+       "url": "https://www.digitimes.com/news/a20260820PD205/taiwan-power-company-fuel-taiwan-cost.html",
+       "publisher": "DigiTimes Asia",
+       "sector": "Technology",
+       "quote": "Ongoing \u2f00Middle East conflicts\u2f01 and surging natural gas prices are piling pressure on Taiwan's power supply costs, with Taiwan Power Company\u2026"
+      }
+     ]
+    ],
+    [
      "power generation",
      1.0,
      "rising",
      6,
      4,
-     90.9,
+     88.4,
      [
       {
        "title": "DCD Talks: Natural gas as a bridge to AI scale with Stiven Smith, Cummins",
@@ -30521,6 +30580,15 @@
     ]
    ],
    "examples": [
+    {
+     "publisher": "Waste Dive",
+     "title": "Canadian Clean Fuels Fund invests in Generate Upcycle digester project",
+     "url": "https://www.wastedive.com/news/generate-upcycle-london-ontario-anaerobic-digester-funding-natural-resources-canada/828699/",
+     "date": "2026-08-25",
+     "sector": "Waste & water",
+     "country": "US",
+     "quote": "\u2026would dramatically expand renewable \u2f00natural gas\u2f01 output. Generate Upcycle President Bill Caesar said it's the latest example of public policy supporting diges\u2026"
+    },
     {
      "publisher": "OilPrice",
      "title": "Hormuz Crisis Boosts Appeal of $42-Billion Tanzania LNG",
@@ -30619,15 +30687,6 @@
      "sector": "Energy",
      "country": "US",
      "quote": "\u2026of electricity produced worldwide. \u2f00Natural gas\u2f01 is a distant second at 6,976 TWh, followed by hydropower at 4,536 TWh, solar at 3,289 TWh, wind at 2,898 TWh\u2026"
-    },
-    {
-     "publisher": "EIA Today in Energy",
-     "title": "Longer wells boost Permian crude oil and \u2f00natural gas\u2f01 production",
-     "url": "https://www.eia.gov/todayinenergy/detail.php?id=67984",
-     "date": "2026-08-19",
-     "sector": "Utilities",
-     "country": "US",
-     "quote": ""
     }
    ],
    "daily": [
@@ -30989,25 +31048,25 @@
     },
     {
      "day": "2026-08-25",
-     "n": 1
+     "n": 2
     }
    ],
    "variants": [
     "gas production"
    ],
-   "relRatio": 0.42,
-   "docFreq": 0.0023,
-   "specificity": 0.922,
-   "homeShare": 0.538,
+   "relRatio": 0.44,
+   "docFreq": 0.0024,
+   "specificity": 0.919,
+   "homeShare": 0.556,
    "daysSeen": 10,
-   "rank": 0.771,
+   "rank": 0.8,
    "overlapAt": 1.0
   },
   {
    "id": "energy-infrastructure",
    "term": "energy infrastructure",
    "direction": "falling",
-   "ratio": 0.16584053174026533,
+   "ratio": 0.16546650557121761,
    "display": true,
    "adoptionSpan": 14,
    "pace": "mixed",
@@ -31246,7 +31305,7 @@
      "steady",
      4,
      4,
-     552.2,
+     555.4,
      [
       {
        "title": "Fire Breaks Out at Rosneft-Owned Refinery After Ukrainian \u2f00Drone Strike\u2f01",
@@ -31270,7 +31329,7 @@
      "steady",
      2,
      2,
-     460.2,
+     462.9,
      [
       {
        "title": "Shapiro Sets Binding GRID Requirements in Pennsylvania, Targets Data Center Power Costs",
@@ -31773,7 +31832,7 @@
    "id": "water-level",
    "term": "water level",
    "direction": "steady",
-   "ratio": 0.5685961088237668,
+   "ratio": 0.5673137333870318,
    "display": true,
    "adoptionSpan": 5,
    "pace": "simultaneous",
@@ -31928,7 +31987,7 @@
      "new",
      4,
      0,
-     201.3,
+     202.5,
      [
       {
        "title": "Rhine low water crisis due to \u2018decades of delay in modernising infrastructure'",
@@ -31952,7 +32011,7 @@
      "steady",
      2,
      2,
-     100.7,
+     101.2,
      [
       {
        "title": "Romania Restarts Coal Plant as Danube Drought Forces Nuclear Shutdown",
@@ -32460,13 +32519,13 @@
    "homeShare": 0.667,
    "daysSeen": 8,
    "rank": 0.716,
-   "overlapAt": 0.0361
+   "overlapAt": 0.036
   },
   {
    "id": "charging-network",
    "term": "charging network",
    "direction": "rising",
-   "ratio": 1.4214902720594171,
+   "ratio": 1.4182843334675796,
    "display": true,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -33053,7 +33112,7 @@
    ],
    "relRatio": 2.91,
    "docFreq": 0.0006,
-   "specificity": 0.978,
+   "specificity": 0.979,
    "homeShare": 0.625,
    "daysSeen": 7,
    "rank": 0.71,
@@ -33063,7 +33122,7 @@
    "id": "battery-plant",
    "term": "battery plant",
    "direction": "rising",
-   "ratio": 0.8292026587013267,
+   "ratio": 0.827332527856088,
    "display": true,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -33678,7 +33737,7 @@
    "id": "red-sea",
    "term": "red sea",
    "direction": "steady",
-   "ratio": 0.38169646194188056,
+   "ratio": 0.3808356080607389,
    "display": true,
    "adoptionSpan": 17,
    "pace": "mixed",
@@ -33837,7 +33896,7 @@
      "new",
      4,
      0,
-     222.2,
+     223.4,
      [
       {
        "title": "Houthi strike hits Saudi VLCC off Yanbu",
@@ -33861,7 +33920,7 @@
      "rising",
      6,
      2,
-     199.9,
+     201.1,
      [
       {
        "title": "Japan Holds Off on New Oil Reserve Release Despite September Import Drop",
@@ -34389,13 +34448,13 @@
    "homeShare": 0.69,
    "daysSeen": 12,
    "rank": 0.708,
-   "overlapAt": 0.0361
+   "overlapAt": 0.036
   },
   {
    "id": "self-sufficiency",
    "term": "self sufficiency",
    "direction": "rising",
-   "ratio": 2.8429805441188343,
+   "ratio": 2.8365686669351593,
    "display": true,
    "adoptionSpan": 22,
    "pace": "mixed",
@@ -34964,7 +35023,7 @@
    ],
    "relRatio": 5.82,
    "docFreq": 0.0006,
-   "specificity": 0.978,
+   "specificity": 0.979,
    "homeShare": 0.714,
    "daysSeen": 5,
    "rank": 0.699,
@@ -34974,7 +35033,7 @@
    "id": "solid-state",
    "term": "solid state",
    "direction": "steady",
-   "ratio": 0.3948584089053936,
+   "ratio": 0.39396787040766096,
    "display": true,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -35618,7 +35677,7 @@
    "id": "supply-constraint",
    "term": "supply constraint",
    "direction": "steady",
-   "ratio": 0.6219019940259951,
+   "ratio": 0.620499395892066,
    "display": true,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -35777,7 +35836,7 @@
      "new",
      4,
      0,
-     8.8,
+     8.7,
      [
       {
        "title": "Supply challenges boost value of existing \u2f00data centers\u2f01, enterprise deployments: JLL, Morningstar",
@@ -36278,7 +36337,7 @@
    "id": "grid-connection",
    "term": "grid connection",
    "direction": "steady",
-   "ratio": 0.41460132935066335,
+   "ratio": 0.413666263928044,
    "display": true,
    "adoptionSpan": 15,
    "pace": "mixed",
@@ -36426,7 +36485,7 @@
      "falling",
      4,
      6,
-     8.8,
+     8.7,
      [
       {
        "title": "Magnora secures grid connection for H\u00e4meenlinna \u2f00data center\u2f01 in Finland",
@@ -36957,7 +37016,7 @@
    "id": "tariff-refund",
    "term": "tariff refund",
    "direction": "falling",
-   "ratio": 0.30460505829844653,
+   "ratio": 0.30391807145733846,
    "display": true,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -37533,7 +37592,7 @@
    "id": "offshore-wind",
    "term": "offshore wind",
    "direction": "falling",
-   "ratio": 0.19135445970030618,
+   "ratio": 0.19092289104371263,
    "display": true,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -38140,7 +38199,7 @@
    "id": "autonomous-vehicle",
    "term": "autonomous vehicle",
    "direction": "steady",
-   "ratio": 0.3553725680148543,
+   "ratio": 0.35457108336689486,
    "display": true,
    "adoptionSpan": 3,
    "pace": "simultaneous",
@@ -38754,7 +38813,7 @@
    "id": "artificial-intelligence",
    "term": "artificial intelligence",
    "direction": "steady",
-   "ratio": 0.4715520614043259,
+   "ratio": 0.47048855292914904,
    "display": false,
    "adoptionSpan": 75,
    "pace": "gradual",
@@ -39149,7 +39208,7 @@
      "new",
      4,
      0,
-     46.7,
+     47.0,
      [
       {
        "title": "NVIDIA, Cloverleaf Partnering to Advance Data Center Development",
@@ -39180,7 +39239,7 @@
      "new",
      4,
      0,
-     35.0,
+     35.2,
      [
       {
        "title": "AVEVA CEO: Sustainability Commitments Must Be Backed by Measurable Results",
@@ -39204,7 +39263,7 @@
      "new",
      4,
      0,
-     28.0,
+     28.2,
      [
       {
        "title": "An artificial intelligence and \u2f00advanced technology\u2f01 location analysis",
@@ -39249,7 +39308,7 @@
      "new",
      6,
      0,
-     26.3,
+     26.4,
      [
       {
        "title": "Xiaomi's AI strategy moves beyond models as MiMo becomes the intelligence layer across human-car-home ecosystem",
@@ -39752,14 +39811,13 @@
    "specificity": 0.629,
    "homeShare": 0.803,
    "daysSeen": 13,
-   "rank": 1.649,
-   "overlapAt": 1.0
+   "rank": 1.649
   },
   {
    "id": "supply-chain",
    "term": "supply chain",
    "direction": "steady",
-   "ratio": 0.5017024489621472,
+   "ratio": 0.5005709412238516,
    "display": false,
    "adoptionSpan": 72,
    "pace": "gradual",
@@ -40143,7 +40201,7 @@
      "steady",
      4,
      4,
-     67.1,
+     67.5,
      [
       {
        "title": "India now moving to build deeper supply chain of electronics manufacturing: Vaishnaw",
@@ -40167,7 +40225,7 @@
      "new",
      4,
      0,
-     33.6,
+     33.8,
      [
       {
        "title": "Global mining leaders turn focus to Australia's resources future",
@@ -40191,7 +40249,7 @@
      "new",
      6,
      0,
-     25.2,
+     25.3,
      [
       {
        "title": "Taiwan semiconductor materials team up to build local supply chain",
@@ -40695,17 +40753,16 @@
    ],
    "relRatio": 1.03,
    "docFreq": 0.0116,
-   "specificity": 0.612,
+   "specificity": 0.613,
    "homeShare": 0.669,
    "daysSeen": 14,
-   "rank": 1.409,
-   "overlapAt": 1.0
+   "rank": 1.41
   },
   {
    "id": "low-carbon",
    "term": "low carbon",
    "direction": "rising",
-   "ratio": 1.9545491240816988,
+   "ratio": 1.950140958517922,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -41357,14 +41414,13 @@
    "specificity": 0.97,
    "homeShare": 0.75,
    "daysSeen": 8,
-   "rank": 0.968,
-   "overlapAt": 0.0268
+   "rank": 0.968
   },
   {
    "id": "iran-war",
    "term": "iran war",
    "direction": "steady",
-   "ratio": 0.3553725680148543,
+   "ratio": 0.3545710833668949,
    "display": false,
    "adoptionSpan": 43,
    "pace": "gradual",
@@ -42084,14 +42140,13 @@
    "specificity": 0.957,
    "homeShare": 0.933,
    "daysSeen": 9,
-   "rank": 0.945,
-   "overlapAt": 0.0361
+   "rank": 0.945
   },
   {
    "id": "solar-cell",
    "term": "solar cell",
    "direction": "rising",
-   "ratio": 0.9772745620408494,
+   "ratio": 0.975070479258961,
    "display": false,
    "adoptionSpan": 12,
    "pace": "mixed",
@@ -42695,14 +42750,13 @@
    "specificity": 0.97,
    "homeShare": 0.9,
    "daysSeen": 6,
-   "rank": 0.926,
-   "overlapAt": 1.0
+   "rank": 0.926
   },
   {
    "id": "lng-carrier",
    "term": "lng carrier",
    "direction": "steady",
-   "ratio": 0.5076750971640775,
+   "ratio": 0.5065301190955641,
    "display": false,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -43274,14 +43328,13 @@
    "specificity": 0.973,
    "homeShare": 0.9,
    "daysSeen": 7,
-   "rank": 0.91,
-   "overlapAt": 0.0361
+   "rank": 0.91
   },
   {
    "id": "scale-solar",
    "term": "scale solar",
    "direction": "steady",
-   "ratio": 0.6219019940259951,
+   "ratio": 0.620499395892066,
    "display": false,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -43867,14 +43920,13 @@
    "specificity": 0.981,
    "homeShare": 0.857,
    "daysSeen": 7,
-   "rank": 0.907,
-   "overlapAt": 1.0
+   "rank": 0.907
   },
   {
    "id": "battery-electric",
    "term": "battery electric",
    "direction": "steady",
-   "ratio": 0.5528017724675511,
+   "ratio": 0.5515550185707253,
    "display": false,
    "adoptionSpan": 9,
    "pace": "mixed",
@@ -44540,34 +44592,33 @@
    "specificity": 0.962,
    "homeShare": 0.833,
    "daysSeen": 8,
-   "rank": 0.874,
-   "overlapAt": 1.0
+   "rank": 0.874
   },
   {
    "id": "black-sea",
    "term": "black sea",
    "direction": "steady",
-   "ratio": 0.39090982481633973,
+   "ratio": 0.42548530004027385,
    "display": false,
    "adoptionSpan": 33,
    "pace": "gradual",
    "kind": "place",
    "sectorCount": 2,
-   "effectiveSectors": 1.59,
+   "effectiveSectors": 1.57,
    "newestSector": "Supply chain",
    "daysSinceNewestSector": 29,
-   "articles14d": 11,
+   "articles14d": 12,
    "articlesPrior14d": 10,
    "publishers": 4,
-   "events": 11,
-   "topPubShare": 0.636,
+   "events": 12,
+   "topPubShare": 0.583,
    "sectors": [
     {
      "name": "Energy",
      "firstSeen": "2026-06-24",
      "recent": 1,
      "articles": 4,
-     "share": 0.091,
+     "share": 0.083,
      "atSectorStart": false,
      "grip": 0.167,
      "outlets": 1,
@@ -44576,9 +44627,9 @@
     {
      "name": "Supply chain",
      "firstSeen": "2026-07-27",
-     "recent": 10,
-     "articles": 19,
-     "share": 0.909,
+     "recent": 11,
+     "articles": 20,
+     "share": 0.917,
      "atSectorStart": false,
      "grip": 0.429,
      "outlets": 3,
@@ -44592,12 +44643,12 @@
      15
     ],
     [
-     "US",
+     "GR",
      5
     ],
     [
-     "GR",
-     4
+     "US",
+     5
     ]
    ],
    "flow": {
@@ -44632,7 +44683,7 @@
        3,
        6,
        6,
-       3
+       4
       ]
      },
      {
@@ -44675,6 +44726,15 @@
    },
    "cooc": [],
    "examples": [
+    {
+     "publisher": "Container News",
+     "title": "Hapag-Lloyd raises rates to India and Pakistan",
+     "url": "https://container-news.com/hapag-lloyd-raises-rates-to-india-and-pakistan/",
+     "date": "2026-08-25",
+     "sector": "Supply chain",
+     "country": "GR",
+     "quote": "\u2026h Europe, the Mediterranean and the \u2f00Black Sea\u2f01 to India's west coast and Pakistan. The revised rates will apply to sailings beginning on 21 September 2026.\u2026"
+    },
     {
      "publisher": "Splash247",
      "title": "Explosive drone destroyed near OMV Petrom gas platform",
@@ -45134,22 +45194,21 @@
     },
     {
      "day": "2026-08-25",
-     "n": 0
+     "n": 1
     }
    ],
-   "relRatio": 0.8,
-   "docFreq": 0.0009,
-   "specificity": 0.97,
-   "homeShare": 0.909,
-   "daysSeen": 8,
-   "rank": 0.845,
-   "overlapAt": 0.0361
+   "relRatio": 0.87,
+   "docFreq": 0.001,
+   "specificity": 0.968,
+   "homeShare": 0.917,
+   "daysSeen": 9,
+   "rank": 0.844
   },
   {
    "id": "power-supply",
    "term": "power supply",
    "direction": "rising",
-   "ratio": 0.7995882780334223,
+   "ratio": 0.7977849375755135,
    "display": false,
    "adoptionSpan": 5,
    "pace": "simultaneous",
@@ -45789,14 +45848,13 @@
    "specificity": 0.976,
    "homeShare": 0.75,
    "daysSeen": 5,
-   "rank": 0.824,
-   "overlapAt": 0.0268
+   "rank": 0.824
   },
   {
    "id": "raw-material",
    "term": "raw material",
    "direction": "steady",
-   "ratio": 0.434344249795933,
+   "ratio": 0.43336465744842706,
    "display": false,
    "adoptionSpan": 31,
    "pace": "gradual",
@@ -46461,14 +46519,13 @@
    "specificity": 0.97,
    "homeShare": 0.889,
    "daysSeen": 8,
-   "rank": 0.808,
-   "overlapAt": 1.0
+   "rank": 0.808
   },
   {
    "id": "crude-oil",
    "term": "crude oil",
    "direction": "falling",
-   "ratio": 0.30354740184602136,
+   "ratio": 0.3028628003758894,
    "display": false,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -46637,7 +46694,7 @@
      "steady",
      2,
      2,
-     117.9,
+     118.5,
      [
       {
        "title": "Norway's Oil Output Falls Nearly 200,000 Bpd as Gulf Supply Crisis Drags On",
@@ -47133,14 +47190,13 @@
    "specificity": 0.89,
    "homeShare": 0.951,
    "daysSeen": 10,
-   "rank": 0.808,
-   "overlapAt": 1.0
+   "rank": 0.808
   },
   {
    "id": "fossil-fuel",
    "term": "fossil fuel",
    "direction": "steady",
-   "ratio": 0.4199857621993732,
+   "ratio": 0.41903855306996673,
    "display": false,
    "adoptionSpan": 17,
    "pace": "mixed",
@@ -47309,7 +47365,7 @@
      "steady",
      4,
      4,
-     57.2,
+     57.5,
      [
       {
        "title": "As Ohio grapples with fake comments on \u2f00clean energy\u2f01, some want crackdown",
@@ -47812,14 +47868,13 @@
    "specificity": 0.965,
    "homeShare": 0.833,
    "daysSeen": 9,
-   "rank": 0.747,
-   "overlapAt": 0.0175
+   "rank": 0.747
   },
   {
    "id": "real-estate",
    "term": "real estate",
    "direction": "falling",
-   "ratio": 0.3208224572356323,
+   "ratio": 0.32009889470622455,
    "display": false,
    "adoptionSpan": 66,
    "pace": "gradual",
@@ -48093,7 +48148,7 @@
      "new",
      4,
      0,
-     49.6,
+     49.8,
      [
       {
        "title": "Dov Hertz Offloads Major Staten Island \u2f00Industrial Site\u2f01 for $167M",
@@ -48589,14 +48644,13 @@
    "specificity": 0.825,
    "homeShare": 0.918,
    "daysSeen": 11,
-   "rank": 0.723,
-   "overlapAt": 1.0
+   "rank": 0.723
   },
   {
    "id": "critical-mineral",
    "term": "critical mineral",
    "direction": "falling",
-   "ratio": 0.14092360455761463,
+   "ratio": 0.14671906897940476,
    "display": false,
    "adoptionSpan": 68,
    "pace": "gradual",
@@ -48605,7 +48659,7 @@
    "effectiveSectors": 1.52,
    "newestSector": "Energy",
    "daysSinceNewestSector": 21,
-   "articles14d": 23,
+   "articles14d": 24,
    "articlesPrior14d": 58,
    "publishers": 10,
    "events": 23,
@@ -48649,7 +48703,7 @@
    "origins": [
     [
      "US",
-     135
+     136
     ],
     [
      "AU",
@@ -48786,40 +48840,33 @@
        0,
        0,
        1,
-       0
+       1
       ]
      }
     ]
    },
    "cooc": [
     [
-     "rare earth",
+     "export restriction",
      1.0,
-     "rising",
+     "new",
      4,
-     2,
-     52.5,
+     0,
+     270.0,
      [
       {
-       "title": "Ramaco Resources, Indium Corp ink gallium and germanium supply deal for Brook mine",
-       "url": "https://www.mining.com/ramaco-resources-indium-corp-ink-gallium-and-germanium-supply-deal-for-brook-mine/",
+       "title": "Battery recycling projects among DOE's latest $500M grant funding round",
+       "url": "https://www.wastedive.com/news/battery-recycling-500m-grant-funding-princeton-nuenergy-nth-cycle/828698/",
+       "publisher": "Waste Dive",
+       "sector": "Waste & water",
+       "quote": "\u2026e funding comes amid new black mass \u2f00export restrictions\u2f01 meant to boost domestic supplies."
+      },
+      {
+       "title": "Modern Mining eyes US expansion as e-waste emerges as domestic metals resource",
+       "url": "https://www.mining.com/modern-mining-eyes-us-expansion-as-e-waste-emerges-as-domestic-metals-resource/",
        "publisher": "Mining.com",
        "sector": "Materials",
-       "quote": "\u2026' largest unconventional deposit of \u2f00rare earth\u2f01 elements and critical minerals sourced from coal and carbonaceous ore."
-      },
-      {
-       "title": "Iluka cuts mineral sands debt as Balranald and Eneabba projects advance",
-       "url": "https://www.australianmining.com.au/iluka-cuts-mineral-sands-debt-as-balranald-and-eneabba-projects-advance/",
-       "publisher": "Australian Mining",
-       "sector": "Materials",
-       "quote": "\u2026ned and construction of the Eneabba \u2f00rare earths\u2f01 refinery reaching 60 per cent completion. The mineral sands business generated $247 million in operating cash\u2026"
-      },
-      {
-       "title": "Apex's \u2f00rare earth\u2f01 assays elevate Rift among US projects",
-       "url": "https://www.northernminer.com/news/apexs-rare-earth-assays-elevate-rift-among-us-projects/1003893920/",
-       "publisher": "Northern Miner",
-       "sector": "Materials",
-       "quote": "\u2026OTC: APXCF) has expanded high-grade \u2f00rare earth\u2f01 mineralization at its Rift project in southeastern Nebraska, returning multiple intercepts above 4% total rar\u2026"
+       "quote": "\u2026Defense Production Act to implement \u2f00export restrictions\u2f01 on some industrial waste in a bid to retain critical minerals."
       }
      ]
     ]
@@ -49293,22 +49340,21 @@
     },
     {
      "day": "2026-08-25",
-     "n": 0
+     "n": 1
     }
    ],
-   "relRatio": 0.29,
+   "relRatio": 0.3,
    "docFreq": 0.0019,
-   "specificity": 0.938,
+   "specificity": 0.936,
    "homeShare": 0.762,
-   "daysSeen": 10,
-   "rank": 0.694,
-   "overlapAt": 1.0
+   "daysSeen": 11,
+   "rank": 0.693
   },
   {
    "id": "oil-export",
    "term": "oil export",
    "direction": "steady",
-   "ratio": 0.4886372810204247,
+   "ratio": 0.4875352396294805,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -49419,7 +49465,7 @@
      "steady",
      2,
      2,
-     30.3,
+     30.5,
      [
       {
        "title": "Saudi-flagged tanker hit by missile in \u2f00Red Sea\u2f01",
@@ -49446,6 +49492,15 @@
     ]
    ],
    "examples": [
+    {
+     "publisher": "OilPrice",
+     "title": "Oil Prices Fall as Iran Negotiation Hopes Return",
+     "url": "https://oilprice.com/Energy/Crude-Oil/Oil-Prices-Fall-as-Iran-Negotiation-Hopes-Return.html",
+     "date": "2026-08-25",
+     "sector": "Energy",
+     "country": "US",
+     "quote": ""
+    },
     {
      "publisher": "OilPrice",
      "title": "TotalEnergies Backs Two Major Oil Pipelines to Bypass Hormuz",
@@ -49544,15 +49599,6 @@
      "sector": "Energy",
      "country": "US",
      "quote": ""
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Has Iranian Crude Become Irrelevant to Global Oil Supply?",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Has-Iranian-Crude-Become-Irrelevant-to-Global-Oil-Supply.html",
-     "date": "2026-08-20",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026reinstated U.S. blockade on Iranian \u2f00oil exports\u2f01 is effectively preventing Tehran from exporting oil, making Iran's oil volumes irrelevant for global oil mark\u2026"
     }
    ],
    "daily": [
@@ -49922,14 +49968,13 @@
    "specificity": 0.97,
    "homeShare": 0.727,
    "daysSeen": 8,
-   "rank": 0.678,
-   "overlapAt": 0.0361
+   "rank": 0.678
   },
   {
    "id": "effective-date",
    "term": "effective date",
    "direction": "falling",
-   "ratio": 0.20307003886563102,
+   "ratio": 0.20261204763822566,
    "display": false,
    "adoptionSpan": 21,
    "pace": "mixed",
@@ -50457,15 +50502,13 @@
    "specificity": 0.989,
    "homeShare": 0.75,
    "daysSeen": 4,
-   "rank": 0.656,
-   "overlapAt": 0.0062,
-   "peculiar": true
+   "rank": 0.656
   },
   {
    "id": "production-capacity",
    "term": "production capacity",
    "direction": "steady",
-   "ratio": 0.45229235929163275,
+   "ratio": 0.45127228792150254,
    "display": false,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -51171,14 +51214,13 @@
    "specificity": 0.962,
    "homeShare": 0.8,
    "daysSeen": 8,
-   "rank": 0.639,
-   "overlapAt": 1.0
+   "rank": 0.639
   },
   {
    "id": "export-control",
    "term": "export control",
    "direction": "steady",
-   "ratio": 0.5922876133580904,
+   "ratio": 0.5909518056114915,
    "display": false,
    "adoptionSpan": 67,
    "pace": "gradual",
@@ -51715,14 +51757,13 @@
    "specificity": 0.987,
    "homeShare": 0.8,
    "daysSeen": 4,
-   "rank": 0.635,
-   "overlapAt": 0.0064
+   "rank": 0.635
   },
   {
    "id": "small-modular-reactor",
    "term": "small modular reactor",
    "direction": "steady",
-   "ratio": 0.3997941390167111,
+   "ratio": 0.39889246878775675,
    "display": false,
    "adoptionSpan": 70,
    "pace": "gradual",
@@ -51859,7 +51900,7 @@
      "new",
      4,
      0,
-     715.9,
+     720.0,
      [
       {
        "title": "Port of \u2f00Corpus Christi\u2f01 to explore nuclear technology for maritime operations",
@@ -52328,14 +52369,13 @@
    "specificity": 0.976,
    "homeShare": 0.75,
    "daysSeen": 7,
-   "rank": 0.632,
-   "overlapAt": 0.0268
+   "rank": 0.632
   },
   {
    "id": "growth-driver",
    "term": "growth driver",
    "direction": "steady",
-   "ratio": 0.3553725680148543,
+   "ratio": 0.35457108336689486,
    "display": false,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -52979,14 +53019,13 @@
    "specificity": 0.976,
    "homeShare": 0.75,
    "daysSeen": 5,
-   "rank": 0.629,
-   "overlapAt": 1.0
+   "rank": 0.629
   },
   {
    "id": "data-center",
    "term": "data center",
    "direction": "steady",
-   "ratio": 0.4481405074564829,
+   "ratio": 0.45282572092639584,
    "display": false,
    "adoptionSpan": 64,
    "pace": "gradual",
@@ -52995,18 +53034,18 @@
    "effectiveSectors": 2.95,
    "newestSector": "Supply chain",
    "daysSinceNewestSector": 25,
-   "articles14d": 314,
+   "articles14d": 318,
    "articlesPrior14d": 249,
    "publishers": 23,
-   "events": 288,
-   "topPubShare": 0.528,
+   "events": 291,
+   "topPubShare": 0.529,
    "sectors": [
     {
      "name": "Real estate",
      "firstSeen": "2026-05-28",
-     "recent": 21,
-     "articles": 35,
-     "share": 0.068,
+     "recent": 22,
+     "articles": 36,
+     "share": 0.07,
      "atSectorStart": false,
      "grip": 0.5,
      "outlets": 3,
@@ -53015,8 +53054,8 @@
     {
      "name": "Technology",
      "firstSeen": "2026-05-28",
-     "recent": 238,
-     "articles": 443,
+     "recent": 241,
+     "articles": 446,
      "share": 0.768,
      "atSectorStart": false,
      "grip": 0.667,
@@ -53028,7 +53067,7 @@
      "firstSeen": "2026-05-31",
      "recent": 22,
      "articles": 73,
-     "share": 0.071,
+     "share": 0.07,
      "atSectorStart": false,
      "grip": 0.429,
      "outlets": 3,
@@ -53050,7 +53089,7 @@
      "firstSeen": "2026-06-02",
      "recent": 17,
      "articles": 48,
-     "share": 0.055,
+     "share": 0.054,
      "atSectorStart": false,
      "grip": 0.667,
      "outlets": 4,
@@ -53105,7 +53144,7 @@
    "origins": [
     [
      "US",
-     457
+     461
     ],
     [
      "TW",
@@ -53160,7 +53199,7 @@
        80,
        114,
        125,
-       92
+       95
       ]
      },
      {
@@ -53214,7 +53253,7 @@
        5,
        10,
        10,
-       8
+       9
       ]
      },
      {
@@ -53388,7 +53427,7 @@
      "steady",
      6,
      8,
-     30.8,
+     30.6,
      [
       {
        "title": "Nvidia invests in data center powered land company Lancium",
@@ -53433,7 +53472,7 @@
      "steady",
      8,
      6,
-     20.5,
+     20.4,
      [
       {
        "title": "Energy law amendments lift AI data center storage demand in Taiwan",
@@ -53481,6 +53520,33 @@
     ]
    ],
    "examples": [
+    {
+     "publisher": "Data Center Dynamics",
+     "title": "Arm's race: Building the AGI CPU",
+     "url": "https://www.datacenterdynamics.com/en/analysis/arms-race-building-the-agi-cpu/",
+     "date": "2026-08-25",
+     "sector": "Technology",
+     "country": "US",
+     "quote": "\u2026on is making its own silicon for AI \u2f00data centers\u2f01"
+    },
+    {
+     "publisher": "Data Center Dynamics",
+     "title": "Banglalink deploys rooftop solar array on \u2f00data center\u2f01 in Cumilla, Bangladesh",
+     "url": "https://www.datacenterdynamics.com/en/news/banglalink-deploys-rooftop-solar-array-on-data-center-in-cumilla-bangladesh/",
+     "date": "2026-08-25",
+     "sector": "Technology",
+     "country": "US",
+     "quote": ""
+    },
+    {
+     "publisher": "Utility Dive",
+     "title": "\u2f00Data centers\u2f01 can vanish from the grid in seconds; reliability rules need to catch up",
+     "url": "https://www.utilitydive.com/news/data-centers-vanish-grid-seconds-reliability-rules/827035/",
+     "date": "2026-08-25",
+     "sector": "Utilities",
+     "country": "US",
+     "quote": "The loss of more than 3 GW of \u2f00data center\u2f01 demand in Virginia shows why policy must address operational behavior, not just costs, writes AIxEnergy.io fo\u2026"
+    },
     {
      "publisher": "Construction Dive",
      "title": "What Pennsylvania's \u2f00data center\u2f01 rules mean for construction",
@@ -53561,33 +53627,6 @@
      "sector": "Technology",
      "country": "TW",
      "quote": "AI \u2f00data centers\u2f01 will increasingly rely on energy storage because of its fast response and grid impact mitigation capabilities\u2026"
-    },
-    {
-     "publisher": "The Elec",
-     "title": "GS Group Eyes DB World Factory Site for Second AI \u2f00Data Center\u2f01",
-     "url": "https://www.thelec.net/news/articleView.html?idxno=13323",
-     "date": "2026-08-25",
-     "sector": "Technology",
-     "country": "KR",
-     "quote": "\u2026second artificial intelligence (AI) \u2f00data center\u2f01.According to industry sources, GS Group is considering purchasing part of DB World's ferroalloy division (for\u2026"
-    },
-    {
-     "publisher": "The Elec",
-     "title": "Infineon Acquires Indian Startup C2i to Strengthen AI GPU Power Control",
-     "url": "https://www.thelec.net/news/articleView.html?idxno=13321",
-     "date": "2026-08-25",
-     "sector": "Technology",
-     "country": "KR",
-     "quote": "\u2026hnology for artificial intelligence \u2f00data centers\u2f01.The transaction is expected to close in the third quarter of this year. Financial terms were not disclosed.C2"
-    },
-    {
-     "publisher": "Data Center Dynamics",
-     "title": "Soluna acquires 397-acre plot in Briscoe County, Texas, for Project Dorothy 3 \u2f00data center\u2f01",
-     "url": "https://www.datacenterdynamics.com/en/news/soluna-acquires-397-acre-plot-in-briscoe-county-texas-for-project-dorothy-3-data-center/",
-     "date": "2026-08-25",
-     "sector": "Technology",
-     "country": "US",
-     "quote": ""
     }
    ],
    "daily": [
@@ -53949,26 +53988,27 @@
     },
     {
      "day": "2026-08-25",
-     "n": 20
+     "n": 24
     }
    ],
    "variants": [
     "data center power",
+    "data center demand",
     "power demand",
     "energy demand"
    ],
-   "relRatio": 0.92,
-   "docFreq": 0.0253,
-   "specificity": 0.155,
+   "relRatio": 0.93,
+   "docFreq": 0.0256,
+   "specificity": 0.146,
    "homeShare": 0.768,
    "daysSeen": 14,
-   "rank": 0.614
+   "rank": 0.606
   },
   {
    "id": "solar-panel",
    "term": "solar panel",
    "direction": "rising",
-   "ratio": 0.9645826846117475,
+   "ratio": 0.9624072262815718,
    "display": false,
    "adoptionSpan": 10,
    "pace": "mixed",
@@ -54181,7 +54221,7 @@
      "new",
      4,
      0,
-     84.8,
+     85.3,
      [
       {
        "title": "Moldova simplifies rules governing solar, \u2f00heat pumps\u2f01, storage systems",
@@ -54677,14 +54717,13 @@
    "specificity": 0.949,
    "homeShare": 0.8,
    "daysSeen": 9,
-   "rank": 0.6,
-   "overlapAt": 1.0
+   "rank": 0.6
   },
   {
    "id": "trade-corridor",
    "term": "trade corridor",
    "direction": "steady",
-   "ratio": 0.3553725680148543,
+   "ratio": 0.35457108336689486,
    "display": false,
    "adoptionSpan": 3,
    "pace": "simultaneous",
@@ -55185,14 +55224,13 @@
    "specificity": 0.992,
    "homeShare": 0.667,
    "daysSeen": 3,
-   "rank": 0.596,
-   "overlapAt": 0.0361
+   "rank": 0.596
   },
   {
    "id": "rare-earth",
    "term": "rare earth",
    "direction": "falling",
-   "ratio": 0.10338111069523033,
+   "ratio": 0.10314795152491488,
    "display": false,
    "adoptionSpan": 71,
    "pace": "gradual",
@@ -55416,7 +55454,7 @@
      "steady",
      4,
      4,
-     604.0,
+     607.5,
      [
       {
        "title": "Niron gets $150M loan to build iron nitride magnet manufacturing plant in Minnesota",
@@ -55440,7 +55478,7 @@
      "steady",
      4,
      4,
-     402.7,
+     405.0,
      [
       {
        "title": "Greenland Mines gets \u2f00exploration license\u2f01 for Sarfartoq rare earths project",
@@ -55464,7 +55502,7 @@
      "steady",
      2,
      2,
-     151.0,
+     151.9,
      [
       {
        "title": "American rare Earths, Novex to boost US magnet production",
@@ -55488,7 +55526,7 @@
      "rising",
      4,
      2,
-     52.5,
+     50.6,
      [
       {
        "title": "Ramaco Resources, Indium Corp ink gallium and germanium supply deal for Brook mine",
@@ -55991,14 +56029,13 @@
    "specificity": 0.957,
    "homeShare": 0.714,
    "daysSeen": 9,
-   "rank": 0.578,
-   "overlapAt": 1.0
+   "rank": 0.578
   },
   {
    "id": "coast-guard",
    "term": "coast guard",
    "direction": "steady",
-   "ratio": 0.4146013293506633,
+   "ratio": 0.413666263928044,
    "display": false,
    "adoptionSpan": 29,
    "pace": "gradual",
@@ -56581,18 +56618,16 @@
    ],
    "relRatio": 0.85,
    "docFreq": 0.0017,
-   "specificity": 0.943,
+   "specificity": 0.944,
    "homeShare": 0.714,
    "daysSeen": 9,
-   "rank": 0.568,
-   "overlapAt": 0.0062,
-   "peculiar": true
+   "rank": 0.569
   },
   {
    "id": "hormuz-crisis",
    "term": "hormuz crisis",
    "direction": "steady",
-   "ratio": 0.47383009068647236,
+   "ratio": 0.47276144448919316,
    "display": false,
    "adoptionSpan": 47,
    "pace": "gradual",
@@ -57215,11 +57250,10 @@
    ],
    "relRatio": 0.97,
    "docFreq": 0.0006,
-   "specificity": 0.978,
+   "specificity": 0.979,
    "homeShare": 0.625,
    "daysSeen": 7,
-   "rank": 0.526,
-   "overlapAt": 0.0361
+   "rank": 0.526
   },
   {
    "id": "industrial-property",
@@ -57770,14 +57804,13 @@
    "specificity": 0.992,
    "homeShare": 0.667,
    "daysSeen": 3,
-   "rank": 0.488,
-   "overlapAt": 1.0
+   "rank": 0.488
   },
   {
    "id": "nuclear-fuel",
    "term": "nuclear fuel",
    "direction": "steady",
-   "ratio": 0.5330588520222814,
+   "ratio": 0.5318566250503424,
    "display": false,
    "adoptionSpan": 58,
    "pace": "gradual",
@@ -58337,14 +58370,13 @@
    "specificity": 0.984,
    "homeShare": 0.6,
    "daysSeen": 4,
-   "rank": 0.487,
-   "overlapAt": 1.0
+   "rank": 0.487
   },
   {
    "id": "offshore-oil",
    "term": "offshore oil",
    "direction": "falling",
-   "ratio": 0.15230252914922326,
+   "ratio": 0.15195903572866923,
    "display": false,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -58921,14 +58953,13 @@
    "specificity": 0.992,
    "homeShare": 0.667,
    "daysSeen": 3,
-   "rank": 0.419,
-   "overlapAt": 0.0175
+   "rank": 0.419
   },
   {
    "id": "vessel-attack",
    "term": "vessel attack",
    "direction": "rising",
-   "ratio": 1.7768628400742714,
+   "ratio": 1.7728554168344746,
    "display": false,
    "adoptionSpan": 10,
    "pace": "mixed",
@@ -59493,14 +59524,14 @@
    "homeShare": 0.6,
    "daysSeen": 3,
    "rank": 0.745,
-   "heldForSpread": true,
-   "overlapAt": 0.0361
+   "overlapAt": 0.036,
+   "heldForSpread": true
   },
   {
    "id": "power-grid",
    "term": "power grid",
    "direction": "steady",
-   "ratio": 0.49752159522079603,
+   "ratio": 0.4963995167136528,
    "display": false,
    "adoptionSpan": 13,
    "pace": "mixed",
@@ -59673,7 +59704,7 @@
      "new",
      4,
      0,
-     251.0,
+     252.5,
      [
       {
        "title": "The Forgotten Generation: Why Cogeneration is Re-Emerging in the Age of AI",
@@ -59725,7 +59756,7 @@
      "rising",
      4,
      2,
-     20.0,
+     20.1,
      [
       {
        "title": "How credit allocation is becoming part of the AI supply chain",
@@ -60229,14 +60260,14 @@
    "homeShare": 0.667,
    "daysSeen": 4,
    "rank": 0.744,
-   "heldForSpread": true,
-   "overlapAt": 0.0268
+   "overlapAt": 0.0268,
+   "heldForSpread": true
   },
   {
    "id": "clean-energy",
    "term": "clean energy",
    "direction": "falling",
-   "ratio": 0.34221062105134115,
+   "ratio": 0.34143882101997286,
    "display": false,
    "adoptionSpan": 58,
    "pace": "gradual",
@@ -60522,7 +60553,7 @@
      "steady",
      4,
      4,
-     57.2,
+     57.5,
      [
       {
        "title": "As Ohio grapples with fake comments on clean energy, some want crackdown",
@@ -60553,7 +60584,7 @@
      "new",
      4,
      0,
-     20.1,
+     20.2,
      [
       {
        "title": "In Michigan, LG opens one of America's biggest battery cell factories",
@@ -61081,14 +61112,14 @@
    "homeShare": 0.52,
    "daysSeen": 11,
    "rank": 0.735,
-   "heldForSpread": true,
-   "overlapAt": 1.0
+   "overlapAt": 1.0,
+   "heldForSpread": true
   },
   {
    "id": "utility-scale",
    "term": "utility scale",
    "direction": "falling",
-   "ratio": 0.31983531121336883,
+   "ratio": 0.3191139750302054,
    "display": false,
    "adoptionSpan": 32,
    "pace": "gradual",
@@ -61225,7 +61256,7 @@
      "rising",
      4,
      2,
-     97.6,
+     98.2,
      [
       {
        "title": "Are conventional BESS degradation guarantees restricting asset value?",
@@ -61722,14 +61753,14 @@
    "homeShare": 0.667,
    "daysSeen": 8,
    "rank": 0.708,
-   "heldForSpread": true,
-   "overlapAt": 1.0
+   "overlapAt": 1.0,
+   "heldForSpread": true
   },
   {
    "id": "grid-capacity",
    "term": "grid capacity",
    "direction": "steady",
-   "ratio": 0.5922876133580904,
+   "ratio": 0.5909518056114915,
    "display": false,
    "adoptionSpan": 3,
    "pace": "simultaneous",
@@ -61866,7 +61897,7 @@
      "steady",
      2,
      2,
-     6.2,
+     6.1,
      [
       {
        "title": "Magnora secures grid connection for H\u00e4meenlinna \u2f00data center\u2f01 in Finland",
@@ -62363,14 +62394,14 @@
    "homeShare": 0.667,
    "daysSeen": 5,
    "rank": 0.655,
-   "heldForSpread": true,
-   "overlapAt": 1.0
+   "overlapAt": 1.0,
+   "heldForSpread": true
   },
   {
    "id": "green-hydrogen",
    "term": "green hydrogen",
    "direction": "rising",
-   "ratio": 0.7107451360297086,
+   "ratio": 0.7091421667337897,
    "display": false,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -62947,14 +62978,14 @@
    "homeShare": 0.6,
    "daysSeen": 5,
    "rank": 0.651,
-   "heldForSpread": true,
-   "overlapAt": 1.0
+   "overlapAt": 1.0,
+   "heldForSpread": true
   },
   {
    "id": "energy-storage",
    "term": "energy storage",
    "direction": "rising",
-   "ratio": 0.6500717707588798,
+   "ratio": 0.6486056403052955,
    "display": false,
    "adoptionSpan": 47,
    "pace": "gradual",
@@ -63182,7 +63213,7 @@
      "rising",
      4,
      2,
-     85.9,
+     86.4,
      [
       {
        "title": "\u2f00Copenhagen Infrastructure Partners\u2f01 reaches commercial operations on 500MW BESS in Scotland",
@@ -63206,7 +63237,7 @@
      "new",
      4,
      0,
-     64.4,
+     64.8,
      [
       {
        "title": "UK \u2f00government launches\u2f01 \u00a328 million Ultra-Long Duration Energy Storage Challenge",
@@ -63230,7 +63261,7 @@
      "new",
      4,
      0,
-     51.5,
+     51.8,
      [
       {
        "title": "Five Korean Battery Equipment Makers Swing to Profit",
@@ -63254,7 +63285,7 @@
      "new",
      4,
      0,
-     36.8,
+     37.0,
      [
       {
        "title": "Shinsung E&G Expands Energy Businesses Through Startup Partnerships",
@@ -63753,19 +63784,19 @@
     "storage capacity"
    ],
    "relRatio": 1.33,
-   "docFreq": 0.0061,
-   "specificity": 0.798,
+   "docFreq": 0.006,
+   "specificity": 0.799,
    "homeShare": 0.486,
    "daysSeen": 12,
-   "rank": 0.594,
-   "heldForSpread": true,
-   "overlapAt": 1.0
+   "rank": 0.595,
+   "overlapAt": 1.0,
+   "heldForSpread": true
   },
   {
    "id": "energy-bill",
    "term": "energy bill",
    "direction": "rising",
-   "ratio": 0.8292026587013267,
+   "ratio": 0.827332527856088,
    "display": false,
    "adoptionSpan": 58,
    "pace": "gradual",
@@ -64370,14 +64401,14 @@
    "homeShare": 0.571,
    "daysSeen": 4,
    "rank": 0.59,
-   "heldForSpread": true,
-   "overlapAt": 1.0
+   "overlapAt": 1.0,
+   "heldForSpread": true
   },
   {
    "id": "continental-shelf",
    "term": "continental shelf",
    "direction": "steady",
-   "ratio": 0.47383009068647236,
+   "ratio": 0.47276144448919316,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -64910,14 +64941,14 @@
    "homeShare": 0.667,
    "daysSeen": 4,
    "rank": 0.588,
-   "heldForSpread": true,
-   "overlapAt": 0.0361
+   "overlapAt": 0.036,
+   "heldForSpread": true
   },
   {
    "id": "grid-scale",
    "term": "grid scale",
    "direction": "rising",
-   "ratio": 1.7768628400742714,
+   "ratio": 1.7728554168344746,
    "display": false,
    "adoptionSpan": 37,
    "pace": "gradual",
@@ -65032,7 +65063,7 @@
      "rising",
      4,
      2,
-     51.5,
+     51.8,
      [
       {
        "title": "40 GW project pipeline has Australia's energy transition on track",
@@ -65536,14 +65567,14 @@
    "homeShare": 0.6,
    "daysSeen": 4,
    "rank": 0.566,
-   "heldForSpread": true,
-   "overlapAt": 1.0
+   "overlapAt": 1.0,
+   "heldForSpread": true
   },
   {
    "id": "middle-east",
    "term": "middle east",
    "direction": "steady",
-   "ratio": 0.6295171204834562,
+   "ratio": 0.6280973476784996,
    "display": false,
    "adoptionSpan": 65,
    "pace": "gradual",
@@ -65825,7 +65856,7 @@
      "new",
      6,
      0,
-     155.9,
+     156.8,
      [
       {
        "title": "Goldman Sachs: Europe Needs Much Higher Gas Prices to Secure Winter Supply",
@@ -65847,30 +65878,6 @@
        "publisher": "OilPrice",
        "sector": "Energy",
        "quote": "\u2026tween the US and Iran has driven up \u2f00natural gas prices\u2f01, particularly in Europe and Asia. Asia accounts for nearly 90% of liquefied natural gas (LNG) shipments from\u2026"
-      }
-     ]
-    ],
-    [
-     "vessel owner",
-     0.4,
-     "new",
-     4,
-     0,
-     62.3,
-     [
-      {
-       "title": "Gulf Marine Services secures fresh work for offshore vessel",
-       "url": "https://splash247.com/gulf-marine-services-secures-fresh-work-for-offshore-vessel/",
-       "publisher": "Splash247",
-       "sector": "Supply chain",
-       "quote": "UAE-based offshore support \u2f00vessel owner\u2f01 Gulf Marine Services (GMS) has received a contract extension for one of its small-class vessels operating in\u2026"
-      },
-      {
-       "title": "Hormuz Ship Traffic Falls to Weekly Low as Standoff Drags On",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Ship-Traffic-Falls-to-Weekly-Low-as-Standoff-Drags-On.html",
-       "publisher": "OilPrice",
-       "sector": "Energy",
-       "quote": "\u2026day, according to shipping data, as \u2f00vessel owners\u2f01 continue to avoid the key chokepoint in the Middle East. Only eight vessels moved in either direction at the\u2026"
       }
      ]
     ]
@@ -66352,18 +66359,18 @@
    ],
    "relRatio": 1.29,
    "docFreq": 0.005,
-   "specificity": 0.833,
+   "specificity": 0.834,
    "homeShare": 0.5,
    "daysSeen": 14,
-   "rank": 0.542,
-   "heldForSpread": true,
-   "overlapAt": 0.0361
+   "rank": 0.543,
+   "overlapAt": 0.036,
+   "heldForSpread": true
   },
   {
    "id": "drone-strike",
    "term": "drone strike",
    "direction": "falling",
-   "ratio": 0.22210785500928393,
+   "ratio": 0.22160692710430932,
    "display": false,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -66474,7 +66481,7 @@
      "steady",
      4,
      4,
-     552.2,
+     555.4,
      [
       {
        "title": "Fire Breaks Out at Rosneft-Owned Refinery After Ukrainian Drone Strike",
@@ -66498,7 +66505,7 @@
      "falling",
      4,
      6,
-     351.4,
+     324.0,
      [
       {
        "title": "Bulker pounded by five drone strikes in \u2f00Black Sea\u2f01",
@@ -66984,14 +66991,14 @@
    "homeShare": 0.6,
    "daysSeen": 4,
    "rank": 0.538,
-   "heldForSpread": true,
-   "overlapAt": 0.0361
+   "overlapAt": 0.036,
+   "heldForSpread": true
   },
   {
    "id": "virtual-power-plant",
    "term": "virtual power plant",
    "direction": "steady",
-   "ratio": 0.6219019940259951,
+   "ratio": 0.620499395892066,
    "display": false,
    "adoptionSpan": 61,
    "pace": "gradual",
@@ -67143,7 +67150,7 @@
      "rising",
      4,
      2,
-     8.8,
+     8.7,
      [
       {
        "title": "Shinsung E&G Expands Energy Businesses Through Startup Partnerships",
@@ -67595,14 +67602,14 @@
    "homeShare": 0.429,
    "daysSeen": 4,
    "rank": 0.505,
-   "heldForSpread": true,
-   "overlapAt": 1.0
+   "overlapAt": 1.0,
+   "heldForSpread": true
   },
   {
    "id": "solar-plus-storage",
    "term": "solar plus storage",
    "direction": "rising",
-   "ratio": 0.7107451360297086,
+   "ratio": 0.7091421667337897,
    "display": false,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -68211,14 +68218,14 @@
    "homeShare": 0.583,
    "daysSeen": 6,
    "rank": 0.433,
-   "heldForSpread": true,
-   "overlapAt": 1.0
+   "overlapAt": 1.0,
+   "heldForSpread": true
   },
   {
    "id": "grid-operator",
    "term": "grid operator",
    "direction": "falling",
-   "ratio": 0.23691504534323618,
+   "ratio": 0.23638072224459658,
    "display": false,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -68347,7 +68354,7 @@
      "falling",
      4,
      8,
-     15.4,
+     15.3,
      [
       {
        "title": "PJM wants \u2f00data centers\u2f01 to bring their own power. Pennsylvania's on it.",
@@ -68815,8 +68822,8 @@
    "homeShare": 0.5,
    "daysSeen": 3,
    "rank": 0.375,
-   "heldForSpread": true,
-   "overlapAt": 1.0
+   "overlapAt": 1.0,
+   "heldForSpread": true
   }
  ]
 }
