@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25T23:00:23.347989+00:00",
+ "generated": "2026-08-25T23:40:25.654376+00:00",
  "placeWords": [
   "africa",
   "alberta",
@@ -564,7 +564,7 @@
    },
    {
     "day": "2026-08-25",
-    "close": 87.31
+    "close": 87.3
    }
   ],
   "Materials": [
@@ -1814,7 +1814,7 @@
    },
    {
     "day": "2026-08-25",
-    "close": 181.43
+    "close": 181.74
    }
   ],
   "Real estate": [
@@ -2314,7 +2314,7 @@
    },
    {
     "day": "2026-08-25",
-    "close": 43.42
+    "close": 43.31
    }
   ],
   "Healthcare": [
@@ -2821,7 +2821,7 @@
  "coverage": [
   [
    "US",
-   7890
+   7892
   ],
   [
    "TW",
@@ -2841,7 +2841,7 @@
   ],
   [
    "GR",
-   398
+   399
   ],
   [
    "DE",
@@ -2853,7 +2853,7 @@
   ],
   [
    "AU",
-   180
+   184
   ],
   [
    "JP",
@@ -4711,6 +4711,15 @@
      "variants": [],
      "examples": [
       {
+       "publisher": "Waste Management Review",
+       "title": "WMRR commends Vic parliament waste-to-energy report",
+       "url": "https://wastemanagementreview.com.au/wmrr-commends-vic-parliament-waste-to-energy-report/",
+       "date": "2026-08-25",
+       "sector": "Waste & water",
+       "country": "AU",
+       "quote": "\u2026velopment and expansion of waste-to-\u2f00energy infrastructure\u2f01. Gayle Sloan, Chief Executive Officer of the WMRR, praised the committee for considering extensive evidence a\u2026"
+      },
+      {
        "publisher": "Energy Storage News",
        "title": "TC Energy appoints Worley to advance development of 11GWh Ontario pumped hydro energy storage project",
        "url": "https://www.energy-storage.news/tc-energy-appoints-worley-to-advance-development-of-11gwh-ontario-pumped-hydro-energy-storage-project/",
@@ -4726,15 +4735,6 @@
        "date": "2026-08-25",
        "sector": "Waste & water",
        "country": "AU",
-       "quote": ""
-      },
-      {
-       "publisher": "Smart Cities Dive",
-       "title": "Pipes as power plants: How cities can use their water systems to generate clean energy",
-       "url": "https://www.smartcitiesdive.com/news/the-clean-energy-opportunity-running-through-city-water-pipes/828565/",
-       "date": "2026-08-24",
-       "sector": "Waste & water",
-       "country": "US",
        "quote": ""
       }
      ]
@@ -6230,6 +6230,15 @@
      "variants": [],
      "examples": [
       {
+       "publisher": "Waste Management Review",
+       "title": "WMRR commends Vic parliament waste-to-energy report",
+       "url": "https://wastemanagementreview.com.au/wmrr-commends-vic-parliament-waste-to-energy-report/",
+       "date": "2026-08-25",
+       "sector": "Waste & water",
+       "country": "AU",
+       "quote": "\u2026velopment and expansion of waste-to-\u2f00energy infrastructure\u2f01. Gayle Sloan, Chief Executive Officer of the WMRR, praised the committee for considering extensive evidence a\u2026"
+      },
+      {
        "publisher": "Energy Storage News",
        "title": "TC Energy appoints Worley to advance development of 11GWh Ontario pumped hydro energy storage project",
        "url": "https://www.energy-storage.news/tc-energy-appoints-worley-to-advance-development-of-11gwh-ontario-pumped-hydro-energy-storage-project/",
@@ -6245,15 +6254,6 @@
        "date": "2026-08-25",
        "sector": "Waste & water",
        "country": "AU",
-       "quote": ""
-      },
-      {
-       "publisher": "Smart Cities Dive",
-       "title": "Pipes as power plants: How cities can use their water systems to generate clean energy",
-       "url": "https://www.smartcitiesdive.com/news/the-clean-energy-opportunity-running-through-city-water-pipes/828565/",
-       "date": "2026-08-24",
-       "sector": "Waste & water",
-       "country": "US",
        "quote": ""
       }
      ]
@@ -6669,8 +6669,8 @@
    "borrowed": [
     "clean energy"
    ],
-   "articles": 42,
-   "articles14d": 23,
+   "articles": 43,
+   "articles14d": 24,
    "terms": [
     {
      "term": "clean energy",
@@ -6714,13 +6714,22 @@
     {
      "term": "energy infrastructure",
      "id": "energy-infrastructure",
-     "articles": 1,
+     "articles": 2,
      "home": "Energy",
      "shown": false,
      "sectors": 4,
      "direction": "falling",
      "variants": [],
      "examples": [
+      {
+       "publisher": "Waste Management Review",
+       "title": "WMRR commends Vic parliament waste-to-energy report",
+       "url": "https://wastemanagementreview.com.au/wmrr-commends-vic-parliament-waste-to-energy-report/",
+       "date": "2026-08-25",
+       "sector": "Waste & water",
+       "country": "AU",
+       "quote": "\u2026velopment and expansion of waste-to-\u2f00energy infrastructure\u2f01. Gayle Sloan, Chief Executive Officer of the WMRR, praised the committee for considering extensive evidence a\u2026"
+      },
       {
        "publisher": "Energy Storage News",
        "title": "TC Energy appoints Worley to advance development of 11GWh Ontario pumped hydro energy storage project",
@@ -6737,54 +6746,6 @@
        "date": "2026-08-25",
        "sector": "Waste & water",
        "country": "AU",
-       "quote": ""
-      },
-      {
-       "publisher": "Smart Cities Dive",
-       "title": "Pipes as power plants: How cities can use their water systems to generate clean energy",
-       "url": "https://www.smartcitiesdive.com/news/the-clean-energy-opportunity-running-through-city-water-pipes/828565/",
-       "date": "2026-08-24",
-       "sector": "Waste & water",
-       "country": "US",
-       "quote": ""
-      }
-     ]
-    },
-    {
-     "term": "recycling facility",
-     "id": "recycling-facility",
-     "articles": 1,
-     "home": "Materials",
-     "shown": false,
-     "sectors": 2,
-     "direction": "steady",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "Waste Management Review",
-       "title": "Oscorp Energy launches AI system to track waste, contamination and recovery rates",
-       "url": "https://wastemanagementreview.com.au/oscorp-energy-launches-ai-system-to-track-waste-contamination-and-recovery-rates/",
-       "date": "2026-08-25",
-       "sector": "Waste & water",
-       "country": "AU",
-       "quote": "\u2026ision OS can fit within a waste and \u2f00recycling facility\u2f01. Images: Oscorp Energy Inspired by a comic-book villain but driven by real-world impact, Oscorp Energy's Visi\u2026"
-      },
-      {
-       "publisher": "Construction Enquirer",
-       "title": "Powerday on track with new recycling centre",
-       "url": "https://www.constructionenquirer.com/2026/08/18/powerday-on-track-with-new-recycling-centre/",
-       "date": "2026-08-18",
-       "sector": "Real estate",
-       "country": "GB",
-       "quote": "\u2026completion at new Croydon Materials \u2f00Recycling Facility\u2f01"
-      },
-      {
-       "publisher": "Splash247",
-       "title": "Seven die in toxic gas leak at Bangladesh shipbreaking yard",
-       "url": "https://splash247.com/seven-die-in-toxic-gas-leak-at-bangladesh-shipbreaking-yard/",
-       "date": "2026-08-14",
-       "sector": "Supply chain",
-       "country": "SG",
        "quote": ""
       }
      ]
@@ -6881,10 +6842,10 @@
     },
     {
      "publisher": "Waste Management Review",
-     "title": "Oscorp Energy launches AI system to track waste, contamination and recovery rates",
-     "url": "https://wastemanagementreview.com.au/oscorp-energy-launches-ai-system-to-track-waste-contamination-and-recovery-rates/",
+     "title": "WMRR commends Vic parliament waste-to-energy report",
+     "url": "https://wastemanagementreview.com.au/wmrr-commends-vic-parliament-waste-to-energy-report/",
      "sector": "Waste & water",
-     "quote": ""
+     "quote": "\u2026tin Mecnarowski/stock.adobe.com The \u2f00Waste Management\u2f01 and Resource Recovery Association of Australia (WMRR) has welcomed the Victorian Parliament's report into the\u2026"
     },
     {
      "publisher": "Waste Management Review",
@@ -6895,10 +6856,10 @@
     },
     {
      "publisher": "Waste Management Review",
-     "title": "EPA Victoria's snap blitz on skip bin operators",
-     "url": "https://wastemanagementreview.com.au/epa-victorias-snap-blitz-on-skip-bin-operators/",
+     "title": "Visy launches Enviropunnet labelling system for plastic-free fresh produce",
+     "url": "https://wastemanagementreview.com.au/visy-launches-enviropunnet-labelling-system-for-plastic-free-fresh-produce/",
      "sector": "Waste & water",
-     "quote": "\u2026kip bin operators appeared first on \u2f00Waste Management\u2f01 Review ."
+     "quote": "\u2026ree fresh produce appeared first on \u2f00Waste Management\u2f01 Review ."
     }
    ]
   },
@@ -22690,16 +22651,16 @@
    }
   ]
  },
- "daysCollected": 120,
- "articlesStored": 13093,
- "articlesLive": 9338,
+ "daysCollected": 121,
+ "articlesStored": 13100,
+ "articlesLive": 9345,
  "windowDays": 90,
  "terms": [
   {
    "id": "iron-ore",
    "term": "iron ore",
    "direction": "rising",
-   "ratio": 1.2340408490188226,
+   "ratio": 1.2333493435798912,
    "display": true,
    "adoptionSpan": 56,
    "pace": "gradual",
@@ -23336,13 +23297,14 @@
    "specificity": 0.981,
    "homeShare": 0.667,
    "daysSeen": 7,
-   "rank": 1.265
+   "rank": 1.265,
+   "nearShare": 0.163
   },
   {
    "id": "ion-battery",
    "term": "ion battery",
    "direction": "steady",
-   "ratio": 0.5288746495794954,
+   "ratio": 0.5285782901056676,
    "display": true,
    "adoptionSpan": 34,
    "pace": "gradual",
@@ -23530,7 +23492,7 @@
      "steady",
      2,
      2,
-     547.8,
+     548.6,
      [
       {
        "title": "Battery recycling projects among DOE's latest $500M grant funding round",
@@ -23554,7 +23516,7 @@
      "falling",
      2,
      4,
-     273.9,
+     274.3,
      [
       {
        "title": "LiBEST, EcoPro BM Exchange Next-Generation Battery Technologies",
@@ -23578,7 +23540,7 @@
      "new",
      4,
      0,
-     68.5,
+     68.6,
      [
       {
        "title": "Energy law amendments lift AI data center storage demand in Taiwan",
@@ -23630,7 +23592,7 @@
      "steady",
      2,
      2,
-     45.6,
+     45.7,
      [
       {
        "title": "Battery recycling projects among DOE's latest $500M grant funding round",
@@ -24126,13 +24088,14 @@
    "specificity": 0.976,
    "homeShare": 0.571,
    "daysSeen": 6,
-   "rank": 1.005
+   "rank": 1.005,
+   "nearShare": 0.233
   },
   {
    "id": "solar-generation",
    "term": "solar generation",
    "direction": "rising",
-   "ratio": 1.5866239487384861,
+   "ratio": 1.5857348703170029,
    "display": true,
    "adoptionSpan": 9,
    "pace": "mixed",
@@ -24269,7 +24232,7 @@
      "new",
      4,
      0,
-     44.7,
+     44.8,
      [
       {
        "title": "Edify reaches renewable energy milestone",
@@ -24772,13 +24735,14 @@
    "specificity": 0.976,
    "homeShare": 0.75,
    "daysSeen": 7,
-   "rank": 0.993
+   "rank": 0.993,
+   "nearShare": 0.261
   },
   {
    "id": "electric-vehicle",
    "term": "electric vehicle",
    "direction": "steady",
-   "ratio": 0.5671988995490241,
+   "ratio": 0.5668810647510059,
    "display": true,
    "adoptionSpan": 39,
    "pace": "gradual",
@@ -25046,7 +25010,7 @@
      "new",
      4,
      0,
-     88.8,
+     89.0,
      [
       {
        "title": "Octillion adds 3 GWh of battery capacity in India",
@@ -25098,7 +25062,7 @@
      "steady",
      2,
      2,
-     44.4,
+     44.5,
      [
       {
        "title": "California earmarks $95 million for ZEV infrastructure",
@@ -25122,7 +25086,7 @@
      "new",
      4,
      0,
-     19.7,
+     19.8,
      [
       {
        "title": "In Michigan, LG opens one of America's biggest battery cell factories",
@@ -25618,13 +25582,14 @@
    "specificity": 0.901,
    "homeShare": 0.529,
    "daysSeen": 11,
-   "rank": 0.983
+   "rank": 0.983,
+   "nearShare": 0.155
   },
   {
    "id": "energy-efficiency",
    "term": "energy efficiency",
    "direction": "steady",
-   "ratio": 0.5288746495794954,
+   "ratio": 0.5285782901056676,
    "display": true,
    "adoptionSpan": 56,
    "pace": "gradual",
@@ -26348,13 +26313,14 @@
    "specificity": 0.976,
    "homeShare": 0.6,
    "daysSeen": 7,
-   "rank": 0.97
+   "rank": 0.97,
+   "nearShare": 0.145
   },
   {
    "id": "value-chain",
    "term": "value chain",
    "direction": "rising",
-   "ratio": 1.2340408490188226,
+   "ratio": 1.2333493435798912,
    "display": true,
    "adoptionSpan": 19,
    "pace": "mixed",
@@ -26943,13 +26909,15 @@
    "specificity": 0.981,
    "homeShare": 0.833,
    "daysSeen": 6,
-   "rank": 0.96
+   "rank": 0.96,
+   "nearShare": 0.058,
+   "apart": true
   },
   {
    "id": "electricity-demand",
    "term": "electricity demand",
    "direction": "steady",
-   "ratio": 0.5288746495794954,
+   "ratio": 0.5285782901056676,
    "display": true,
    "adoptionSpan": 51,
    "pace": "gradual",
@@ -27097,7 +27065,7 @@
      "new",
      4,
      0,
-     234.8,
+     235.1,
      [
       {
        "title": "The Forgotten Generation: Why Cogeneration is Re-Emerging in the Age of AI",
@@ -27149,7 +27117,7 @@
      "steady",
      2,
      2,
-     74.7,
+     74.8,
      [
       {
        "title": "The Forgotten Generation: Why Cogeneration is Re-Emerging in the Age of AI",
@@ -27652,13 +27620,14 @@
    "specificity": 0.968,
    "homeShare": 0.667,
    "daysSeen": 10,
-   "rank": 0.93
+   "rank": 0.93,
+   "nearShare": 0.242
   },
   {
    "id": "digital-twin",
    "term": "digital twin",
    "direction": "rising",
-   "ratio": 0.7051661994393272,
+   "ratio": 0.7047710534742234,
    "display": true,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -28284,13 +28253,15 @@
    "specificity": 0.979,
    "homeShare": 0.75,
    "daysSeen": 4,
-   "rank": 0.918
+   "rank": 0.918,
+   "nearShare": 0.041,
+   "apart": true
   },
   {
    "id": "battery-cell",
    "term": "battery cell",
    "direction": "rising",
-   "ratio": 1.1752769990655454,
+   "ratio": 1.174618422457039,
    "display": true,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -28482,7 +28453,7 @@
      "new",
      4,
      0,
-     53.3,
+     53.4,
      [
       {
        "title": "In Michigan, LG opens one of America's biggest battery cell factories",
@@ -28985,13 +28956,14 @@
    "specificity": 0.973,
    "homeShare": 0.556,
    "daysSeen": 7,
-   "rank": 0.899
+   "rank": 0.899,
+   "nearShare": 0.22
   },
   {
    "id": "power-generation",
    "term": "power generation",
    "direction": "falling",
-   "ratio": 0.20412705773243683,
+   "ratio": 0.20401267337411733,
    "display": true,
    "adoptionSpan": 42,
    "pace": "gradual",
@@ -29219,7 +29191,7 @@
      "new",
      4,
      0,
-     597.6,
+     598.4,
      [
       {
        "title": "DCD Talks: Natural gas as a bridge to AI scale with Stiven Smith, Cummins",
@@ -29243,7 +29215,7 @@
      "new",
      4,
      0,
-     358.5,
+     359.1,
      [
       {
        "title": "Infineon buys India-based C2i Semiconductors to bolster AI data center power systems",
@@ -29274,7 +29246,7 @@
      "rising",
      6,
      4,
-     81.5,
+     81.6,
      [
       {
        "title": "DCD Talks: \u2f00Natural gas\u2f01 as a bridge to AI scale with Stiven Smith, Cummins",
@@ -29312,7 +29284,7 @@
      "steady",
      2,
      2,
-     74.7,
+     74.8,
      [
       {
        "title": "The Forgotten Generation: Why Cogeneration is Re-Emerging in the Age of AI",
@@ -29815,13 +29787,14 @@
    "specificity": 0.971,
    "homeShare": 0.667,
    "daysSeen": 6,
-   "rank": 0.866
+   "rank": 0.866,
+   "nearShare": 0.276
   },
   {
    "id": "natural-gas",
    "term": "natural gas",
    "direction": "falling",
-   "ratio": 0.23270484581497794,
+   "ratio": 0.2325744476464937,
    "display": true,
    "adoptionSpan": 44,
    "pace": "gradual",
@@ -30132,7 +30105,7 @@
      "falling",
      2,
      6,
-     149.4,
+     149.6,
      [
       {
        "title": "Norway's Oil Output Falls Nearly 200,000 Bpd as Gulf Supply Crisis Drags On",
@@ -30156,7 +30129,7 @@
      "new",
      4,
      0,
-     99.6,
+     99.7,
      [
       {
        "title": "Hormuz Crisis Boosts Appeal of $42-Billion Tanzania LNG",
@@ -30180,7 +30153,7 @@
      "rising",
      6,
      4,
-     81.5,
+     81.6,
      [
       {
        "title": "DCD Talks: Natural gas as a bridge to AI scale with Stiven Smith, Cummins",
@@ -30693,13 +30666,14 @@
    "specificity": 0.912,
    "homeShare": 0.571,
    "daysSeen": 10,
-   "rank": 0.825
+   "rank": 0.825,
+   "nearShare": 0.176
   },
   {
    "id": "wind-farm",
    "term": "wind farm",
    "direction": "steady",
-   "ratio": 0.41134694967294083,
+   "ratio": 0.41111644785996376,
    "display": true,
    "adoptionSpan": 27,
    "pace": "mixed",
@@ -31278,13 +31252,14 @@
    "specificity": 0.981,
    "homeShare": 0.571,
    "daysSeen": 5,
-   "rank": 0.809
+   "rank": 0.809,
+   "nearShare": 0.186
   },
   {
    "id": "clean-energy",
    "term": "clean energy",
    "direction": "falling",
-   "ratio": 0.3525830997196636,
+   "ratio": 0.35238552673711176,
    "display": true,
    "adoptionSpan": 58,
    "pace": "gradual",
@@ -31570,7 +31545,7 @@
      "steady",
      4,
      4,
-     56.2,
+     56.3,
      [
       {
        "title": "As Ohio grapples with fake comments on clean energy, some want crackdown",
@@ -31601,7 +31576,7 @@
      "new",
      4,
      0,
-     19.7,
+     19.8,
      [
       {
        "title": "In Michigan, LG opens one of America's biggest battery cell factories",
@@ -32097,13 +32072,15 @@
    "specificity": 0.928,
    "homeShare": 0.538,
    "daysSeen": 11,
-   "rank": 0.765
+   "rank": 0.765,
+   "nearShare": 0.082,
+   "apart": true
   },
   {
    "id": "water-level",
    "term": "water level",
    "direction": "steady",
-   "ratio": 0.5641329595514617,
+   "ratio": 0.5638168427793787,
    "display": true,
    "adoptionSpan": 5,
    "pace": "simultaneous",
@@ -32258,7 +32235,7 @@
      "new",
      4,
      0,
-     205.4,
+     205.7,
      [
       {
        "title": "Rhine low water crisis due to \u2018decades of delay in modernising infrastructure'",
@@ -32282,7 +32259,7 @@
      "steady",
      2,
      2,
-     102.7,
+     102.9,
      [
       {
        "title": "Romania Restarts Coal Plant as Danube Drought Forces Nuclear Shutdown",
@@ -32789,13 +32766,14 @@
    "specificity": 0.957,
    "homeShare": 0.667,
    "daysSeen": 8,
-   "rank": 0.716
+   "rank": 0.716,
+   "nearShare": 0.143
   },
   {
    "id": "charging-network",
    "term": "charging network",
    "direction": "rising",
-   "ratio": 1.4103323988786545,
+   "ratio": 1.4095421069484468,
    "display": true,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -33385,13 +33363,15 @@
    "specificity": 0.979,
    "homeShare": 0.625,
    "daysSeen": 7,
-   "rank": 0.71
+   "rank": 0.71,
+   "nearShare": 0.054,
+   "apart": true
   },
   {
    "id": "red-sea",
    "term": "red sea",
    "direction": "steady",
-   "ratio": 0.3787003663655646,
+   "ratio": 0.3784881583472682,
    "display": true,
    "adoptionSpan": 17,
    "pace": "mixed",
@@ -33550,7 +33530,7 @@
      "new",
      4,
      0,
-     226.7,
+     227.0,
      [
       {
        "title": "Houthi strike hits Saudi VLCC off Yanbu",
@@ -33574,7 +33554,7 @@
      "rising",
      6,
      2,
-     204.0,
+     204.3,
      [
       {
        "title": "Japan Holds Off on New Oil Reserve Release Despite September Import Drop",
@@ -34101,13 +34081,14 @@
    "specificity": 0.923,
    "homeShare": 0.69,
    "daysSeen": 12,
-   "rank": 0.709
+   "rank": 0.709,
+   "nearShare": 0.192
   },
   {
    "id": "battery-plant",
    "term": "battery plant",
    "direction": "rising",
-   "ratio": 0.8226938993458817,
+   "ratio": 0.8222328957199275,
    "display": true,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -34715,13 +34696,14 @@
    "specificity": 0.981,
    "homeShare": 0.667,
    "daysSeen": 5,
-   "rank": 0.708
+   "rank": 0.708,
+   "nearShare": 0.156
   },
   {
    "id": "self-sufficiency",
    "term": "self sufficiency",
    "direction": "rising",
-   "ratio": 2.820664797757309,
+   "ratio": 2.8190842138968937,
    "display": true,
    "adoptionSpan": 22,
    "pace": "mixed",
@@ -35293,13 +35275,14 @@
    "specificity": 0.979,
    "homeShare": 0.714,
    "daysSeen": 5,
-   "rank": 0.699
+   "rank": 0.699,
+   "nearShare": 0.24
   },
   {
    "id": "solid-state",
    "term": "solid state",
    "direction": "steady",
-   "ratio": 0.3917589996885151,
+   "ratio": 0.39153947415234636,
    "display": true,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -35936,13 +35919,14 @@
    "specificity": 0.973,
    "homeShare": 0.625,
    "daysSeen": 6,
-   "rank": 0.681
+   "rank": 0.681,
+   "nearShare": 0.111
   },
   {
    "id": "supply-constraint",
    "term": "supply constraint",
    "direction": "steady",
-   "ratio": 0.6170204245094113,
+   "ratio": 0.6166746717899456,
    "display": true,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -36595,13 +36579,15 @@
    "specificity": 0.981,
    "homeShare": 0.667,
    "daysSeen": 6,
-   "rank": 0.67
+   "rank": 0.67,
+   "nearShare": 0.077,
+   "apart": true
   },
   {
    "id": "grid-connection",
    "term": "grid connection",
    "direction": "steady",
-   "ratio": 0.41134694967294083,
+   "ratio": 0.41111644785996376,
    "display": true,
    "adoptionSpan": 15,
    "pace": "mixed",
@@ -37273,13 +37259,14 @@
    "specificity": 0.981,
    "homeShare": 0.429,
    "daysSeen": 6,
-   "rank": 0.662
+   "rank": 0.662,
+   "nearShare": 0.18
   },
   {
    "id": "tariff-refund",
    "term": "tariff refund",
    "direction": "falling",
-   "ratio": 0.30221408547399736,
+   "ratio": 0.30204473720323866,
    "display": true,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -37848,13 +37835,15 @@
    "specificity": 0.984,
    "homeShare": 0.75,
    "daysSeen": 5,
-   "rank": 0.614
+   "rank": 0.614,
+   "nearShare": 0.071,
+   "apart": true
   },
   {
    "id": "offshore-wind",
    "term": "offshore wind",
    "direction": "falling",
-   "ratio": 0.1898524383105881,
+   "ratio": 0.1897460528584448,
    "display": true,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -38454,13 +38443,14 @@
    "specificity": 0.981,
    "homeShare": 0.429,
    "daysSeen": 5,
-   "rank": 0.533
+   "rank": 0.533,
+   "nearShare": 0.213
   },
   {
    "id": "autonomous-vehicle",
    "term": "autonomous vehicle",
    "direction": "falling",
-   "ratio": 0.35258309971966356,
+   "ratio": 0.35238552673711176,
    "display": true,
    "adoptionSpan": 3,
    "pace": "simultaneous",
@@ -39067,13 +39057,14 @@
    "specificity": 0.984,
    "homeShare": 0.5,
    "daysSeen": 4,
-   "rank": 0.491
+   "rank": 0.491,
+   "nearShare": 0.093
   },
   {
    "id": "artificial-intelligence",
    "term": "artificial intelligence",
    "direction": "steady",
-   "ratio": 0.4746310957764702,
+   "ratio": 0.4743651321461119,
    "display": false,
    "adoptionSpan": 75,
    "pace": "gradual",
@@ -39499,7 +39490,7 @@
      "new",
      4,
      0,
-     35.2,
+     35.3,
      [
       {
        "title": "AVEVA CEO: Sustainability Commitments Must Be Backed by Measurable Results",
@@ -40077,7 +40068,7 @@
    "id": "supply-chain",
    "term": "supply chain",
    "direction": "steady",
-   "ratio": 0.49776437607481916,
+   "ratio": 0.49748544951121654,
    "display": false,
    "adoptionSpan": 72,
    "pace": "gradual",
@@ -40461,7 +40452,7 @@
      "steady",
      4,
      4,
-     68.5,
+     68.6,
      [
       {
        "title": "India now moving to build deeper supply chain of electronics manufacturing: Vaishnaw",
@@ -40485,7 +40476,7 @@
      "new",
      4,
      0,
-     34.2,
+     34.3,
      [
       {
        "title": "Global mining leaders turn focus to Australia's resources future",
@@ -41022,7 +41013,7 @@
    "id": "low-carbon",
    "term": "low carbon",
    "direction": "rising",
-   "ratio": 1.9392070484581498,
+   "ratio": 1.9381203970541145,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -41680,7 +41671,7 @@
    "id": "iran-war",
    "term": "iran war",
    "direction": "falling",
-   "ratio": 0.3525830997196636,
+   "ratio": 0.3523855267371117,
    "display": false,
    "adoptionSpan": 43,
    "pace": "gradual",
@@ -42406,7 +42397,7 @@
    "id": "solar-cell",
    "term": "solar cell",
    "direction": "rising",
-   "ratio": 0.9696035242290749,
+   "ratio": 0.9690601985270573,
    "display": false,
    "adoptionSpan": 12,
    "pace": "mixed",
@@ -43016,7 +43007,7 @@
    "id": "lng-carrier",
    "term": "lng carrier",
    "direction": "steady",
-   "ratio": 0.5036901424566623,
+   "ratio": 0.5034078953387311,
    "display": false,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -43594,7 +43585,7 @@
    "id": "scale-solar",
    "term": "scale solar",
    "direction": "steady",
-   "ratio": 0.6170204245094113,
+   "ratio": 0.6166746717899456,
    "display": false,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -44186,7 +44177,7 @@
    "id": "battery-electric",
    "term": "battery electric",
    "direction": "steady",
-   "ratio": 0.5484625995639211,
+   "ratio": 0.5481552638132849,
    "display": false,
    "adoptionSpan": 9,
    "pace": "mixed",
@@ -44858,7 +44849,7 @@
    "id": "black-sea",
    "term": "black sea",
    "direction": "steady",
-   "ratio": 0.4230997196635963,
+   "ratio": 0.42286263208453406,
    "display": false,
    "adoptionSpan": 33,
    "pace": "gradual",
@@ -45468,7 +45459,7 @@
    "id": "power-supply",
    "term": "power supply",
    "direction": "rising",
-   "ratio": 0.7933119743692431,
+   "ratio": 0.7928674351585014,
    "display": false,
    "adoptionSpan": 5,
    "pace": "simultaneous",
@@ -46114,7 +46105,7 @@
    "id": "raw-material",
    "term": "raw material",
    "direction": "steady",
-   "ratio": 0.4309348996573666,
+   "ratio": 0.430693421567581,
    "display": false,
    "adoptionSpan": 31,
    "pace": "gradual",
@@ -46785,7 +46776,7 @@
    "id": "crude-oil",
    "term": "crude oil",
    "direction": "falling",
-   "ratio": 0.3158556934988653,
+   "ratio": 0.31567870103532925,
    "display": false,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -46954,7 +46945,7 @@
      "steady",
      2,
      2,
-     114.7,
+     114.8,
      [
       {
        "title": "Norway's Oil Output Falls Nearly 200,000 Bpd as Gulf Supply Crisis Drags On",
@@ -47456,7 +47447,7 @@
    "id": "fossil-fuel",
    "term": "fossil fuel",
    "direction": "steady",
-   "ratio": 0.4166891178505115,
+   "ratio": 0.41645562250749574,
    "display": false,
    "adoptionSpan": 17,
    "pace": "mixed",
@@ -47625,7 +47616,7 @@
      "steady",
      4,
      4,
-     56.2,
+     56.3,
      [
       {
        "title": "As Ohio grapples with fake comments on \u2f00clean energy\u2f01, some want crackdown",
@@ -48134,7 +48125,7 @@
    "id": "real-estate",
    "term": "real estate",
    "direction": "falling",
-   "ratio": 0.31830418724691856,
+   "ratio": 0.31812582274878143,
    "display": false,
    "adoptionSpan": 66,
    "pace": "gradual",
@@ -48901,16 +48892,16 @@
    ],
    "relRatio": 0.64,
    "docFreq": 0.0052,
-   "specificity": 0.826,
+   "specificity": 0.827,
    "homeShare": 0.918,
    "daysSeen": 11,
-   "rank": 0.723
+   "rank": 0.724
   },
   {
    "id": "critical-mineral",
    "term": "critical mineral",
    "direction": "falling",
-   "ratio": 0.14589645505641252,
+   "ratio": 0.14581470071880484,
    "display": false,
    "adoptionSpan": 68,
    "pace": "gradual",
@@ -49112,7 +49103,7 @@
      "new",
      4,
      0,
-     273.9,
+     274.3,
      [
       {
        "title": "Battery recycling projects among DOE's latest $500M grant funding round",
@@ -49614,7 +49605,7 @@
    "id": "oil-export",
    "term": "oil export",
    "direction": "steady",
-   "ratio": 0.48480176211453746,
+   "ratio": 0.48453009926352864,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -49725,7 +49716,7 @@
      "steady",
      2,
      2,
-     30.9,
+     31.0,
      [
       {
        "title": "Saudi-flagged tanker hit by missile in \u2f00Red Sea\u2f01",
@@ -50234,7 +50225,7 @@
    "id": "effective-date",
    "term": "effective date",
    "direction": "falling",
-   "ratio": 0.20147605698266494,
+   "ratio": 0.2013631581354924,
    "display": false,
    "adoptionSpan": 21,
    "pace": "mixed",
@@ -50768,7 +50759,7 @@
    "id": "production-capacity",
    "term": "production capacity",
    "direction": "steady",
-   "ratio": 0.44874212691593546,
+   "ratio": 0.4484906703926877,
    "display": false,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -51480,7 +51471,7 @@
    "id": "export-control",
    "term": "export control",
    "direction": "steady",
-   "ratio": 0.5876384995327727,
+   "ratio": 0.5873092112285195,
    "display": false,
    "adoptionSpan": 67,
    "pace": "gradual",
@@ -52023,7 +52014,7 @@
    "id": "small-modular-reactor",
    "term": "small modular reactor",
    "direction": "steady",
-   "ratio": 0.39665598718462153,
+   "ratio": 0.3964337175792507,
    "display": false,
    "adoptionSpan": 70,
    "pace": "gradual",
@@ -52160,7 +52151,7 @@
      "new",
      4,
      0,
-     730.4,
+     731.4,
      [
       {
        "title": "Port of \u2f00Corpus Christi\u2f01 to explore nuclear technology for maritime operations",
@@ -52635,7 +52626,7 @@
    "id": "growth-driver",
    "term": "growth driver",
    "direction": "falling",
-   "ratio": 0.35258309971966356,
+   "ratio": 0.3523855267371117,
    "display": false,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -53285,7 +53276,7 @@
    "id": "solar-panel",
    "term": "solar panel",
    "direction": "rising",
-   "ratio": 0.9570112706676583,
+   "ratio": 0.956475001143589,
    "display": false,
    "adoptionSpan": 10,
    "pace": "mixed",
@@ -53498,7 +53489,7 @@
      "new",
      4,
      0,
-     86.5,
+     86.6,
      [
       {
        "title": "Moldova simplifies rules governing solar, \u2f00heat pumps\u2f01, storage systems",
@@ -54000,7 +53991,7 @@
    "id": "trade-corridor",
    "term": "trade corridor",
    "direction": "falling",
-   "ratio": 0.35258309971966356,
+   "ratio": 0.35238552673711176,
    "display": false,
    "adoptionSpan": 3,
    "pace": "simultaneous",
@@ -54507,7 +54498,7 @@
    "id": "data-center",
    "term": "data center",
    "direction": "steady",
-   "ratio": 0.4573668321664712,
+   "ratio": 0.4571105427152092,
    "display": false,
    "adoptionSpan": 64,
    "pace": "gradual",
@@ -54909,7 +54900,7 @@
      "steady",
      6,
      8,
-     30.5,
+     30.6,
      [
       {
        "title": "Nvidia invests in data center powered land company Lancium",
@@ -55490,7 +55481,7 @@
    "id": "rare-earth",
    "term": "rare earth",
    "direction": "falling",
-   "ratio": 0.10256962900935668,
+   "ratio": 0.10251215323261431,
    "display": false,
    "adoptionSpan": 71,
    "pace": "gradual",
@@ -55714,7 +55705,7 @@
      "steady",
      4,
      4,
-     616.2,
+     617.1,
      [
       {
        "title": "Niron gets $150M loan to build iron nitride magnet manufacturing plant in Minnesota",
@@ -55738,7 +55729,7 @@
      "steady",
      4,
      4,
-     410.8,
+     411.4,
      [
       {
        "title": "Greenland Mines gets \u2f00exploration license\u2f01 for Sarfartoq rare earths project",
@@ -55762,7 +55753,7 @@
      "steady",
      2,
      2,
-     154.1,
+     154.3,
      [
       {
        "title": "American rare Earths, Novex to boost US magnet production",
@@ -56295,7 +56286,7 @@
    "id": "coast-guard",
    "term": "coast guard",
    "direction": "steady",
-   "ratio": 0.41134694967294083,
+   "ratio": 0.41111644785996365,
    "display": false,
    "adoptionSpan": 29,
    "pace": "gradual",
@@ -56887,7 +56878,7 @@
    "id": "hormuz-crisis",
    "term": "hormuz crisis",
    "direction": "steady",
-   "ratio": 0.47011079962621816,
+   "ratio": 0.46984736898281565,
    "display": false,
    "adoptionSpan": 47,
    "pace": "gradual",
@@ -58070,7 +58061,7 @@
    "id": "nuclear-fuel",
    "term": "nuclear fuel",
    "direction": "steady",
-   "ratio": 0.5288746495794954,
+   "ratio": 0.5285782901056676,
    "display": false,
    "adoptionSpan": 58,
    "pace": "gradual",
@@ -58636,7 +58627,7 @@
    "id": "offshore-oil",
    "term": "offshore oil",
    "direction": "falling",
-   "ratio": 0.15110704273699868,
+   "ratio": 0.15102236860161933,
    "display": false,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -59219,7 +59210,7 @@
    "id": "recycling-facility",
    "term": "recycling facility",
    "direction": "steady",
-   "ratio": 0.47011079962621816,
+   "ratio": 0.46984736898281565,
    "display": false,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -59752,13 +59743,15 @@
    "homeShare": 0.667,
    "daysSeen": 4,
    "rank": 0.765,
+   "nearShare": 0.0,
+   "apart": true,
    "heldForSpread": true
   },
   {
    "id": "utility-scale",
    "term": "utility scale",
    "direction": "falling",
-   "ratio": 0.35258309971966356,
+   "ratio": 0.3523855267371117,
    "display": false,
    "adoptionSpan": 32,
    "pace": "gradual",
@@ -59895,7 +59888,7 @@
      "rising",
      4,
      2,
-     89.6,
+     89.8,
      [
       {
        "title": "Are conventional BESS degradation guarantees restricting asset value?",
@@ -60392,13 +60385,14 @@
    "homeShare": 0.7,
    "daysSeen": 8,
    "rank": 0.753,
+   "nearShare": 0.306,
    "heldForSpread": true
   },
   {
    "id": "energy-infrastructure",
    "term": "energy infrastructure",
    "direction": "falling",
-   "ratio": 0.16453877986917634,
+   "ratio": 0.18793894759312627,
    "display": false,
    "adoptionSpan": 14,
    "pace": "mixed",
@@ -60407,11 +60401,11 @@
    "effectiveSectors": 3.71,
    "newestSector": "Supply chain",
    "daysSinceNewestSector": 15,
-   "articles14d": 7,
+   "articles14d": 8,
    "articlesPrior14d": 15,
-   "publishers": 4,
-   "events": 6,
-   "topPubShare": 0.5,
+   "publishers": 5,
+   "events": 7,
+   "topPubShare": 0.429,
    "sectors": [
     {
      "name": "Energy",
@@ -60473,12 +60467,12 @@
      3
     ],
     [
-     "GB",
+     "AU",
      2
     ],
     [
-     "AU",
-     1
+     "GB",
+     2
     ],
     [
      "KR",
@@ -60575,6 +60569,24 @@
       ]
      },
      {
+      "sector": "Waste & water",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       1
+      ]
+     },
+     {
       "sector": "Real estate",
       "n": [
        0,
@@ -60609,24 +60621,6 @@
        0,
        0
       ]
-     },
-     {
-      "sector": "Waste & water",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0
-      ]
      }
     ]
    },
@@ -60637,7 +60631,7 @@
      "steady",
      4,
      4,
-     563.4,
+     493.7,
      [
       {
        "title": "Fire Breaks Out at Rosneft-Owned Refinery After Ukrainian \u2f00Drone Strike\u2f01",
@@ -60661,7 +60655,7 @@
      "steady",
      2,
      2,
-     469.5,
+     411.4,
      [
       {
        "title": "Shapiro Sets Binding GRID Requirements in Pennsylvania, Targets Data Center Power Costs",
@@ -60681,6 +60675,15 @@
     ]
    ],
    "examples": [
+    {
+     "publisher": "Waste Management Review",
+     "title": "WMRR commends Vic parliament waste-to-energy report",
+     "url": "https://wastemanagementreview.com.au/wmrr-commends-vic-parliament-waste-to-energy-report/",
+     "date": "2026-08-25",
+     "sector": "Waste & water",
+     "country": "AU",
+     "quote": "\u2026velopment and expansion of waste-to-\u2f00energy infrastructure\u2f01. Gayle Sloan, Chief Executive Officer of the WMRR, praised the committee for considering extensive evidence a\u2026"
+    },
     {
      "publisher": "Energy Storage News",
      "title": "TC Energy appoints Worley to advance development of 11GWh Ontario pumped hydro energy storage project",
@@ -60777,15 +60780,6 @@
      "url": "https://www.renewableenergyworld.com/solar/utility-scale/solar-storage-and-staying-ahead-oci-energys-growth-story/",
      "date": "2026-08-17",
      "sector": "Utilities",
-     "country": "US",
-     "quote": ""
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "The Battle Over North Sea Oil Is Heating Up Under Britain's New PM",
-     "url": "https://oilprice.com/Energy/Energy-General/The-Battle-Over-North-Sea-Oil-Is-Heating-Up-Under-Britains-New-PM.html",
-     "date": "2026-08-15",
-     "sector": "Energy",
      "country": "US",
      "quote": ""
     }
@@ -61149,22 +61143,23 @@
     },
     {
      "day": "2026-08-25",
-     "n": 1
+     "n": 2
     }
    ],
-   "relRatio": 0.33,
+   "relRatio": 0.38,
    "docFreq": 0.0006,
-   "specificity": 0.981,
+   "specificity": 0.979,
    "homeShare": 0.429,
    "daysSeen": 6,
-   "rank": 0.747,
+   "rank": 0.746,
+   "nearShare": 0.279,
    "heldForSpread": true
   },
   {
    "id": "vessel-attack",
    "term": "vessel attack",
    "direction": "rising",
-   "ratio": 1.762915498598318,
+   "ratio": 1.7619276336855587,
    "display": false,
    "adoptionSpan": 10,
    "pace": "mixed",
@@ -61729,13 +61724,14 @@
    "homeShare": 0.6,
    "daysSeen": 3,
    "rank": 0.745,
+   "nearShare": 0.267,
    "heldForSpread": true
   },
   {
    "id": "power-grid",
    "term": "power grid",
    "direction": "steady",
-   "ratio": 0.493616339607529,
+   "ratio": 0.49333973743195647,
    "display": false,
    "adoptionSpan": 13,
    "pace": "mixed",
@@ -61908,7 +61904,7 @@
      "new",
      4,
      0,
-     234.8,
+     235.1,
      [
       {
        "title": "The Forgotten Generation: Why Cogeneration is Re-Emerging in the Age of AI",
@@ -61960,7 +61956,7 @@
      "rising",
      4,
      2,
-     20.1,
+     20.2,
      [
       {
        "title": "The Race to Power AI Is Reviving America's Nuclear Ambitions",
@@ -62471,13 +62467,14 @@
    "homeShare": 0.667,
    "daysSeen": 4,
    "rank": 0.744,
+   "nearShare": 0.385,
    "heldForSpread": true
   },
   {
    "id": "grid-capacity",
    "term": "grid capacity",
    "direction": "steady",
-   "ratio": 0.5876384995327727,
+   "ratio": 0.5873092112285195,
    "display": false,
    "adoptionSpan": 3,
    "pace": "simultaneous",
@@ -63111,13 +63108,15 @@
    "homeShare": 0.667,
    "daysSeen": 5,
    "rank": 0.655,
+   "nearShare": 0.051,
+   "apart": true,
    "heldForSpread": true
   },
   {
    "id": "green-hydrogen",
    "term": "green hydrogen",
    "direction": "rising",
-   "ratio": 0.7051661994393271,
+   "ratio": 0.7047710534742235,
    "display": false,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -63694,13 +63693,14 @@
    "homeShare": 0.6,
    "daysSeen": 5,
    "rank": 0.651,
+   "nearShare": 0.2,
    "heldForSpread": true
   },
   {
    "id": "energy-storage",
    "term": "energy storage",
    "direction": "rising",
-   "ratio": 0.6535686726510838,
+   "ratio": 0.6532024398053778,
    "display": false,
    "adoptionSpan": 47,
    "pace": "gradual",
@@ -63928,7 +63928,7 @@
      "rising",
      4,
      2,
-     86.5,
+     86.6,
      [
       {
        "title": "\u2f00Copenhagen Infrastructure Partners\u2f01 reaches commercial operations on 500MW BESS in Scotland",
@@ -63952,7 +63952,7 @@
      "new",
      4,
      0,
-     64.9,
+     65.0,
      [
       {
        "title": "UK \u2f00government launches\u2f01 \u00a328 million Ultra-Long Duration Energy Storage Challenge",
@@ -63976,7 +63976,7 @@
      "new",
      4,
      0,
-     51.9,
+     52.0,
      [
       {
        "title": "Five Korean Battery Equipment Makers Swing to Profit",
@@ -64504,13 +64504,14 @@
    "homeShare": 0.493,
    "daysSeen": 12,
    "rank": 0.604,
+   "nearShare": 0.106,
    "heldForSpread": true
   },
   {
    "id": "energy-bill",
    "term": "energy bill",
    "direction": "rising",
-   "ratio": 0.8226938993458817,
+   "ratio": 0.8222328957199275,
    "display": false,
    "adoptionSpan": 58,
    "pace": "gradual",
@@ -65115,13 +65116,14 @@
    "homeShare": 0.571,
    "daysSeen": 4,
    "rank": 0.59,
+   "nearShare": 0.2,
    "heldForSpread": true
   },
   {
    "id": "continental-shelf",
    "term": "continental shelf",
    "direction": "steady",
-   "ratio": 0.47011079962621816,
+   "ratio": 0.46984736898281565,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -65654,13 +65656,14 @@
    "homeShare": 0.667,
    "daysSeen": 4,
    "rank": 0.588,
+   "nearShare": 0.3,
    "heldForSpread": true
   },
   {
    "id": "grid-scale",
    "term": "grid scale",
    "direction": "rising",
-   "ratio": 1.762915498598318,
+   "ratio": 1.7619276336855587,
    "display": false,
    "adoptionSpan": 37,
    "pace": "gradual",
@@ -65775,7 +65778,7 @@
      "rising",
      4,
      2,
-     51.9,
+     52.0,
      [
       {
        "title": "40 GW project pipeline has Australia's energy transition on track",
@@ -66279,13 +66282,14 @@
    "homeShare": 0.6,
    "daysSeen": 4,
    "rank": 0.566,
+   "nearShare": 0.65,
    "heldForSpread": true
   },
   {
    "id": "middle-east",
    "term": "middle east",
    "direction": "steady",
-   "ratio": 0.6346495794953946,
+   "ratio": 0.6342939481268012,
    "display": false,
    "adoptionSpan": 65,
    "pace": "gradual",
@@ -66567,7 +66571,7 @@
      "new",
      6,
      0,
-     156.5,
+     156.7,
      [
       {
        "title": "Goldman Sachs: Europe Needs Much Higher Gas Prices to Secure Winter Supply",
@@ -67074,13 +67078,15 @@
    "homeShare": 0.508,
    "daysSeen": 14,
    "rank": 0.556,
+   "nearShare": 0.091,
+   "apart": true,
    "heldForSpread": true
   },
   {
    "id": "drone-strike",
    "term": "drone strike",
    "direction": "falling",
-   "ratio": 0.22036443732478975,
+   "ratio": 0.22024095421069484,
    "display": false,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -67191,7 +67197,7 @@
      "steady",
      4,
      4,
-     563.4,
+     493.7,
      [
       {
        "title": "Fire Breaks Out at Rosneft-Owned Refinery After Ukrainian Drone Strike",
@@ -67215,7 +67221,7 @@
      "falling",
      4,
      6,
-     328.7,
+     329.1,
      [
       {
        "title": "Bulker pounded by five drone strikes in \u2f00Black Sea\u2f01",
@@ -67701,13 +67707,14 @@
    "homeShare": 0.6,
    "daysSeen": 4,
    "rank": 0.538,
+   "nearShare": 0.48,
    "heldForSpread": true
   },
   {
    "id": "virtual-power-plant",
    "term": "virtual power plant",
    "direction": "steady",
-   "ratio": 0.6170204245094113,
+   "ratio": 0.6166746717899456,
    "display": false,
    "adoptionSpan": 61,
    "pace": "gradual",
@@ -68311,13 +68318,14 @@
    "homeShare": 0.429,
    "daysSeen": 4,
    "rank": 0.505,
+   "nearShare": 0.324,
    "heldForSpread": true
   },
   {
    "id": "solar-plus-storage",
    "term": "solar plus storage",
    "direction": "rising",
-   "ratio": 0.7051661994393271,
+   "ratio": 0.7047710534742235,
    "display": false,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -68926,13 +68934,14 @@
    "homeShare": 0.583,
    "daysSeen": 6,
    "rank": 0.433,
+   "nearShare": 0.367,
    "heldForSpread": true
   },
   {
    "id": "grid-operator",
    "term": "grid operator",
    "direction": "falling",
-   "ratio": 0.23505539981310908,
+   "ratio": 0.23492368449140782,
    "display": false,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -69529,6 +69538,7 @@
    "homeShare": 0.5,
    "daysSeen": 3,
    "rank": 0.375,
+   "nearShare": 0.167,
    "heldForSpread": true
   }
  ]
