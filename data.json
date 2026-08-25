@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-25T16:25:45.208465+00:00",
+ "generated": "2026-08-25T16:55:52.430229+00:00",
  "placeWords": [
   "africa",
   "alberta",
@@ -810,7 +810,7 @@
    },
    {
     "day": "2026-08-25",
-    "close": 53.38
+    "close": 53.48
    }
   ],
   "Energy": [
@@ -1060,7 +1060,7 @@
    },
    {
     "day": "2026-08-25",
-    "close": 62.56
+    "close": 62.6
    }
   ],
   "Finance": [
@@ -1310,7 +1310,7 @@
    },
    {
     "day": "2026-08-25",
-    "close": 58.13
+    "close": 58.17
    }
   ],
   "Industrials": [
@@ -1560,7 +1560,7 @@
    },
    {
     "day": "2026-08-25",
-    "close": 178.81
+    "close": 178.73
    }
   ],
   "Technology": [
@@ -1810,7 +1810,7 @@
    },
    {
     "day": "2026-08-25",
-    "close": 181.69
+    "close": 181.62
    }
   ],
   "Real estate": [
@@ -2060,7 +2060,7 @@
    },
    {
     "day": "2026-08-25",
-    "close": 45.38
+    "close": 45.41
    }
   ],
   "Utilities": [
@@ -2310,7 +2310,7 @@
    },
    {
     "day": "2026-08-25",
-    "close": 43.22
+    "close": 43.2
    }
   ],
   "Healthcare": [
@@ -2560,7 +2560,7 @@
    },
    {
     "day": "2026-08-25",
-    "close": 175.49
+    "close": 175.54
    }
   ],
   "Consumer": [
@@ -2810,14 +2810,14 @@
    },
    {
     "day": "2026-08-25",
-    "close": 118.16
+    "close": 118.28
    }
   ]
  },
  "coverage": [
   [
    "US",
-   7827
+   7834
   ],
   [
    "TW",
@@ -4914,6 +4914,15 @@
      ],
      "examples": [
       {
+       "publisher": "Utility Dive",
+       "title": "New Jersey seeks 150 MW of behind-the-meter storage to support VPP",
+       "url": "https://www.utilitydive.com/news/new-jersey-seeks-150-mw-of-behind-the-meter-storage-to-support-vpp/828727/",
+       "date": "2026-08-25",
+       "sector": "Utilities",
+       "country": "US",
+       "quote": "\u2026ate resilience value of residential \u2f00energy storage\u2f01 systems,\u201d state regulators said."
+      },
+      {
        "publisher": "Energy Storage News",
        "title": "The financial realities facing US long-duration \u2f00energy storage\u2f01 integration",
        "url": "https://www.energy-storage.news/the-financial-realities-facing-us-long-duration-energy-storage-integration/",
@@ -4930,15 +4939,6 @@
        "sector": "Supply chain",
        "country": "SG",
        "quote": ""
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Energy law amendments lift AI data center storage demand in Taiwan",
-       "url": "https://www.digitimes.com/news/a20260825PD207/data-center-revenue-taiwan.html",
-       "date": "2026-08-25",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026a centers will increasingly rely on \u2f00energy storage\u2f01 because of its fast response and grid impact mitigation capabilities, according to Recharge Power, a Taiwan-b\u2026"
       }
      ]
     },
@@ -5102,46 +5102,41 @@
      ]
     },
     {
-     "term": "data center",
-     "id": "data-center",
+     "term": "solar panel",
+     "id": "solar-panel",
      "articles": 1,
-     "home": "Technology",
+     "home": "Energy",
      "shown": false,
-     "sectors": 9,
-     "direction": "steady",
-     "variants": [
-      "data center power",
-      "data center demand",
-      "power demand",
-      "energy demand"
-     ],
+     "sectors": 2,
+     "direction": "rising",
+     "variants": [],
      "examples": [
       {
-       "publisher": "Data Center Dynamics",
-       "title": "Arm's race: Building the AGI CPU",
-       "url": "https://www.datacenterdynamics.com/en/analysis/arms-race-building-the-agi-cpu/",
+       "publisher": "PV Magazine",
+       "title": "Sweden could face 150,000 metric tons of end-of-life panels annually",
+       "url": "https://www.pv-magazine.com/2026/08/25/sweden-could-face-150000-metric-tons-of-end-of-life-panels-annually/",
        "date": "2026-08-25",
-       "sector": "Technology",
-       "country": "US",
-       "quote": "\u2026on is making its own silicon for AI \u2f00data centers\u2f01"
+       "sector": "Energy",
+       "country": "DE",
+       "quote": "\u2026ssioned just 17 metric tons (MT) of \u2f00solar panels\u2f01 in 2021, but a new industry roadmap warns that figure could reach 150,000 MT per year by around 2060, and say\u2026"
       },
       {
-       "publisher": "Data Center Dynamics",
-       "title": "Banglalink deploys rooftop solar array on \u2f00data center\u2f01 in Cumilla, Bangladesh",
-       "url": "https://www.datacenterdynamics.com/en/news/banglalink-deploys-rooftop-solar-array-on-data-center-in-cumilla-bangladesh/",
-       "date": "2026-08-25",
-       "sector": "Technology",
+       "publisher": "Container News",
+       "title": "Samudera advances sustainable operations with solar project",
+       "url": "https://container-news.com/samudera-advances-sustainable-operations-with-solar-project/",
+       "date": "2026-08-24",
+       "sector": "Supply chain",
+       "country": "GR",
+       "quote": "\u2026logistics operations through a new \u2f00solar panel\u2f01 project at a warehouse operated by its subsidiary, Samudera Logistics Services. The pilot project entered ful\u2026"
+      },
+      {
+       "publisher": "Canary Media",
+       "title": "Tesla ditches solar roof and embraces regular \u2f00solar panels\u2f01",
+       "url": "https://www.canarymedia.com/articles/solar/tesla-pulls-plug-on-solar-roof-as-it-chases-wild-new-solar-dreams",
+       "date": "2026-08-24",
+       "sector": "Energy",
        "country": "US",
        "quote": ""
-      },
-      {
-       "publisher": "Utility Dive",
-       "title": "\u2f00Data centers\u2f01 can vanish from the grid in seconds; reliability rules need to catch up",
-       "url": "https://www.utilitydive.com/news/data-centers-vanish-grid-seconds-reliability-rules/827035/",
-       "date": "2026-08-25",
-       "sector": "Utilities",
-       "country": "US",
-       "quote": "The loss of more than 3 GW of \u2f00data center\u2f01 demand in Virginia shows why policy must address operational behavior, not just costs, writes AIxEnergy.io fo\u2026"
       }
      ]
     }
@@ -5416,6 +5411,15 @@
      ],
      "examples": [
       {
+       "publisher": "Utility Dive",
+       "title": "New Jersey seeks 150 MW of behind-the-meter storage to support VPP",
+       "url": "https://www.utilitydive.com/news/new-jersey-seeks-150-mw-of-behind-the-meter-storage-to-support-vpp/828727/",
+       "date": "2026-08-25",
+       "sector": "Utilities",
+       "country": "US",
+       "quote": "\u2026ate resilience value of residential \u2f00energy storage\u2f01 systems,\u201d state regulators said."
+      },
+      {
        "publisher": "Energy Storage News",
        "title": "The financial realities facing US long-duration \u2f00energy storage\u2f01 integration",
        "url": "https://www.energy-storage.news/the-financial-realities-facing-us-long-duration-energy-storage-integration/",
@@ -5432,15 +5436,6 @@
        "sector": "Supply chain",
        "country": "SG",
        "quote": ""
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Energy law amendments lift AI data center storage demand in Taiwan",
-       "url": "https://www.digitimes.com/news/a20260825PD207/data-center-revenue-taiwan.html",
-       "date": "2026-08-25",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026a centers will increasingly rely on \u2f00energy storage\u2f01 because of its fast response and grid impact mitigation capabilities, according to Recharge Power, a Taiwan-b\u2026"
       }
      ]
     },
@@ -5782,6 +5777,15 @@
      ],
      "examples": [
       {
+       "publisher": "Utility Dive",
+       "title": "New Jersey seeks 150 MW of behind-the-meter storage to support VPP",
+       "url": "https://www.utilitydive.com/news/new-jersey-seeks-150-mw-of-behind-the-meter-storage-to-support-vpp/828727/",
+       "date": "2026-08-25",
+       "sector": "Utilities",
+       "country": "US",
+       "quote": "\u2026ate resilience value of residential \u2f00energy storage\u2f01 systems,\u201d state regulators said."
+      },
+      {
        "publisher": "Energy Storage News",
        "title": "The financial realities facing US long-duration \u2f00energy storage\u2f01 integration",
        "url": "https://www.energy-storage.news/the-financial-realities-facing-us-long-duration-energy-storage-integration/",
@@ -5798,15 +5802,6 @@
        "sector": "Supply chain",
        "country": "SG",
        "quote": ""
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Energy law amendments lift AI data center storage demand in Taiwan",
-       "url": "https://www.digitimes.com/news/a20260825PD207/data-center-revenue-taiwan.html",
-       "date": "2026-08-25",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026a centers will increasingly rely on \u2f00energy storage\u2f01 because of its fast response and grid impact mitigation capabilities, according to Recharge Power, a Taiwan-b\u2026"
       }
      ]
     }
@@ -7141,6 +7136,15 @@
      ],
      "examples": [
       {
+       "publisher": "Utility Dive",
+       "title": "New Jersey seeks 150 MW of behind-the-meter storage to support VPP",
+       "url": "https://www.utilitydive.com/news/new-jersey-seeks-150-mw-of-behind-the-meter-storage-to-support-vpp/828727/",
+       "date": "2026-08-25",
+       "sector": "Utilities",
+       "country": "US",
+       "quote": "\u2026ate resilience value of residential \u2f00energy storage\u2f01 systems,\u201d state regulators said."
+      },
+      {
        "publisher": "Energy Storage News",
        "title": "The financial realities facing US long-duration \u2f00energy storage\u2f01 integration",
        "url": "https://www.energy-storage.news/the-financial-realities-facing-us-long-duration-energy-storage-integration/",
@@ -7157,15 +7161,6 @@
        "sector": "Supply chain",
        "country": "SG",
        "quote": ""
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Energy law amendments lift AI data center storage demand in Taiwan",
-       "url": "https://www.digitimes.com/news/a20260825PD207/data-center-revenue-taiwan.html",
-       "date": "2026-08-25",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026a centers will increasingly rely on \u2f00energy storage\u2f01 because of its fast response and grid impact mitigation capabilities, according to Recharge Power, a Taiwan-b\u2026"
       }
      ]
     },
@@ -22488,15 +22483,15 @@
   ]
  },
  "daysCollected": 120,
- "articlesStored": 13023,
- "articlesLive": 9268,
+ "articlesStored": 13030,
+ "articlesLive": 9275,
  "windowDays": 90,
  "terms": [
   {
    "id": "iron-ore",
    "term": "iron ore",
    "direction": "rising",
-   "ratio": 1.240998791784132,
+   "ratio": 1.2402994686845918,
    "display": true,
    "adoptionSpan": 56,
    "pace": "gradual",
@@ -23140,7 +23135,7 @@
    "id": "wind-farm",
    "term": "wind farm",
    "direction": "steady",
-   "ratio": 0.35457108336689486,
+   "ratio": 0.35437127676702623,
    "display": true,
    "adoptionSpan": 27,
    "pace": "mixed",
@@ -23717,7 +23712,7 @@
    "id": "ion-battery",
    "term": "ion battery",
    "direction": "steady",
-   "ratio": 0.5318566250503424,
+   "ratio": 0.5315569151505394,
    "display": true,
    "adoptionSpan": 34,
    "pace": "gradual",
@@ -23905,7 +23900,7 @@
      "steady",
      2,
      2,
-     540.0,
+     540.8,
      [
       {
        "title": "Battery recycling projects among DOE's latest $500M grant funding round",
@@ -23929,7 +23924,7 @@
      "falling",
      2,
      4,
-     270.0,
+     270.4,
      [
       {
        "title": "LiBEST, EcoPro BM Exchange Next-Generation Battery Technologies",
@@ -23953,7 +23948,7 @@
      "new",
      4,
      0,
-     69.7,
+     67.6,
      [
       {
        "title": "Energy law amendments lift AI data center storage demand in Taiwan",
@@ -24005,7 +24000,7 @@
      "steady",
      2,
      2,
-     45.0,
+     45.1,
      [
       {
        "title": "Battery recycling projects among DOE's latest $500M grant funding round",
@@ -24508,7 +24503,7 @@
    "id": "solar-generation",
    "term": "solar generation",
    "direction": "rising",
-   "ratio": 1.595569875151027,
+   "ratio": 1.594670745451618,
    "display": true,
    "adoptionSpan": 9,
    "pace": "mixed",
@@ -25155,7 +25150,7 @@
    "id": "electric-vehicle",
    "term": "electric vehicle",
    "direction": "steady",
-   "ratio": 0.570396960198918,
+   "ratio": 0.5700755321904336,
    "display": true,
    "adoptionSpan": 39,
    "pace": "gradual",
@@ -25423,7 +25418,7 @@
      "new",
      4,
      0,
-     87.6,
+     87.7,
      [
       {
        "title": "Octillion adds 3 GWh of battery capacity in India",
@@ -26002,7 +25997,7 @@
    "id": "energy-efficiency",
    "term": "energy efficiency",
    "direction": "steady",
-   "ratio": 0.47276144448919316,
+   "ratio": 0.47249503568936835,
    "display": true,
    "adoptionSpan": 56,
    "pace": "gradual",
@@ -26733,7 +26728,7 @@
    "id": "value-chain",
    "term": "value chain",
    "direction": "rising",
-   "ratio": 1.240998791784132,
+   "ratio": 1.2402994686845918,
    "display": true,
    "adoptionSpan": 19,
    "pace": "mixed",
@@ -27323,13 +27318,14 @@
    "homeShare": 0.833,
    "daysSeen": 6,
    "rank": 0.96,
-   "overlapAt": 0.0126
+   "overlapAt": 0.0126,
+   "peculiar": true
   },
   {
    "id": "digital-twin",
    "term": "digital twin",
    "direction": "rising",
-   "ratio": 0.7091421667337898,
+   "ratio": 0.7087425535340525,
    "display": true,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -27962,7 +27958,7 @@
    "id": "battery-cell",
    "term": "battery cell",
    "direction": "rising",
-   "ratio": 1.181903611222983,
+   "ratio": 1.1812375892234208,
    "display": true,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -28154,7 +28150,7 @@
      "new",
      4,
      0,
-     52.5,
+     52.6,
      [
       {
        "title": "In Michigan, LG opens one of America's biggest battery cell factories",
@@ -28664,7 +28660,7 @@
    "id": "electricity-demand",
    "term": "electricity demand",
    "direction": "steady",
-   "ratio": 0.4875352396294805,
+   "ratio": 0.4872605055546611,
    "display": true,
    "adoptionSpan": 51,
    "pace": "gradual",
@@ -28812,7 +28808,7 @@
      "new",
      4,
      0,
-     252.5,
+     252.8,
      [
       {
        "title": "The Forgotten Generation: Why Cogeneration is Re-Emerging in the Age of AI",
@@ -28864,7 +28860,7 @@
      "steady",
      2,
      2,
-     80.3,
+     80.4,
      [
       {
        "title": "The Forgotten Generation: Why Cogeneration is Re-Emerging in the Age of AI",
@@ -29374,7 +29370,7 @@
    "id": "power-generation",
    "term": "power generation",
    "direction": "falling",
-   "ratio": 0.20527799563346547,
+   "ratio": 0.20516231812827834,
    "display": true,
    "adoptionSpan": 42,
    "pace": "gradual",
@@ -29602,7 +29598,7 @@
      "new",
      4,
      0,
-     589.1,
+     589.9,
      [
       {
        "title": "DCD Talks: Natural gas as a bridge to AI scale with Stiven Smith, Cummins",
@@ -29626,7 +29622,7 @@
      "new",
      4,
      0,
-     353.5,
+     354.0,
      [
       {
        "title": "Infineon buys India-based C2i Semiconductors to bolster AI data center power systems",
@@ -29657,7 +29653,7 @@
      "rising",
      6,
      4,
-     88.4,
+     85.6,
      [
       {
        "title": "DCD Talks: \u2f00Natural gas\u2f01 as a bridge to AI scale with Stiven Smith, Cummins",
@@ -29695,7 +29691,7 @@
      "steady",
      2,
      2,
-     80.3,
+     80.4,
      [
       {
        "title": "The Forgotten Generation: Why Cogeneration is Re-Emerging in the Age of AI",
@@ -30205,7 +30201,7 @@
    "id": "natural-gas",
    "term": "natural gas",
    "direction": "falling",
-   "ratio": 0.2127426500201369,
+   "ratio": 0.21971019159555624,
    "display": true,
    "adoptionSpan": 44,
    "pace": "gradual",
@@ -30214,7 +30210,7 @@
    "effectiveSectors": 2.82,
    "newestSector": "Supply chain",
    "daysSinceNewestSector": 20,
-   "articles14d": 30,
+   "articles14d": 31,
    "articlesPrior14d": 50,
    "publishers": 12,
    "events": 31,
@@ -30269,7 +30265,7 @@
    "origins": [
     [
      "US",
-     65
+     66
     ],
     [
      "NL",
@@ -30418,24 +30414,6 @@
       ]
      },
      {
-      "sector": "Real estate",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0
-      ]
-     },
-     {
       "sector": "Waste & water",
       "n": [
        0,
@@ -30449,6 +30427,24 @@
        0,
        0,
        1,
+       0,
+       1
+      ]
+     },
+     {
+      "sector": "Real estate",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
        0,
        0
       ]
@@ -30498,7 +30494,7 @@
      "falling",
      2,
      6,
-     324.0,
+     314.0,
      [
       {
        "title": "Norway's Oil Output Falls Nearly 200,000 Bpd as Gulf Supply Crisis Drags On",
@@ -30522,7 +30518,7 @@
      "new",
      4,
      0,
-     108.0,
+     104.7,
      [
       {
        "title": "Hormuz Crisis Boosts Appeal of $42-Billion Tanzania LNG",
@@ -30546,7 +30542,7 @@
      "rising",
      6,
      4,
-     88.4,
+     85.6,
      [
       {
        "title": "DCD Talks: Natural gas as a bridge to AI scale with Stiven Smith, Cummins",
@@ -31048,25 +31044,25 @@
     },
     {
      "day": "2026-08-25",
-     "n": 2
+     "n": 3
     }
    ],
    "variants": [
     "gas production"
    ],
-   "relRatio": 0.44,
-   "docFreq": 0.0024,
-   "specificity": 0.919,
+   "relRatio": 0.45,
+   "docFreq": 0.0025,
+   "specificity": 0.917,
    "homeShare": 0.556,
    "daysSeen": 10,
-   "rank": 0.8,
+   "rank": 0.799,
    "overlapAt": 1.0
   },
   {
    "id": "energy-infrastructure",
    "term": "energy infrastructure",
    "direction": "falling",
-   "ratio": 0.16546650557121761,
+   "ratio": 0.1653732624912789,
    "display": true,
    "adoptionSpan": 14,
    "pace": "mixed",
@@ -31305,7 +31301,7 @@
      "steady",
      4,
      4,
-     555.4,
+     556.2,
      [
       {
        "title": "Fire Breaks Out at Rosneft-Owned Refinery After Ukrainian \u2f00Drone Strike\u2f01",
@@ -31329,7 +31325,7 @@
      "steady",
      2,
      2,
-     462.9,
+     463.5,
      [
       {
        "title": "Shapiro Sets Binding GRID Requirements in Pennsylvania, Targets Data Center Power Costs",
@@ -31832,7 +31828,7 @@
    "id": "water-level",
    "term": "water level",
    "direction": "steady",
-   "ratio": 0.5673137333870318,
+   "ratio": 0.566994042827242,
    "display": true,
    "adoptionSpan": 5,
    "pace": "simultaneous",
@@ -31987,7 +31983,7 @@
      "new",
      4,
      0,
-     202.5,
+     202.8,
      [
       {
        "title": "Rhine low water crisis due to \u2018decades of delay in modernising infrastructure'",
@@ -32011,7 +32007,7 @@
      "steady",
      2,
      2,
-     101.2,
+     101.4,
      [
       {
        "title": "Romania Restarts Coal Plant as Danube Drought Forces Nuclear Shutdown",
@@ -32525,7 +32521,7 @@
    "id": "charging-network",
    "term": "charging network",
    "direction": "rising",
-   "ratio": 1.4182843334675796,
+   "ratio": 1.417485107068105,
    "display": true,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -33122,7 +33118,7 @@
    "id": "battery-plant",
    "term": "battery plant",
    "direction": "rising",
-   "ratio": 0.827332527856088,
+   "ratio": 0.8268663124563945,
    "display": true,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -33737,7 +33733,7 @@
    "id": "red-sea",
    "term": "red sea",
    "direction": "steady",
-   "ratio": 0.3808356080607389,
+   "ratio": 0.38062100097199114,
    "display": true,
    "adoptionSpan": 17,
    "pace": "mixed",
@@ -33896,7 +33892,7 @@
      "new",
      4,
      0,
-     223.4,
+     223.8,
      [
       {
        "title": "Houthi strike hits Saudi VLCC off Yanbu",
@@ -33920,7 +33916,7 @@
      "rising",
      6,
      2,
-     201.1,
+     201.4,
      [
       {
        "title": "Japan Holds Off on New Oil Reserve Release Despite September Import Drop",
@@ -34454,7 +34450,7 @@
    "id": "self-sufficiency",
    "term": "self sufficiency",
    "direction": "rising",
-   "ratio": 2.8365686669351593,
+   "ratio": 2.83497021413621,
    "display": true,
    "adoptionSpan": 22,
    "pace": "mixed",
@@ -35033,7 +35029,7 @@
    "id": "solid-state",
    "term": "solid state",
    "direction": "steady",
-   "ratio": 0.39396787040766096,
+   "ratio": 0.39374586307447357,
    "display": true,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -35677,7 +35673,7 @@
    "id": "supply-constraint",
    "term": "supply constraint",
    "direction": "steady",
-   "ratio": 0.620499395892066,
+   "ratio": 0.6201497343422959,
    "display": true,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -36337,7 +36333,7 @@
    "id": "grid-connection",
    "term": "grid connection",
    "direction": "steady",
-   "ratio": 0.413666263928044,
+   "ratio": 0.41343315622819726,
    "display": true,
    "adoptionSpan": 15,
    "pace": "mixed",
@@ -37016,7 +37012,7 @@
    "id": "tariff-refund",
    "term": "tariff refund",
    "direction": "falling",
-   "ratio": 0.30391807145733846,
+   "ratio": 0.3037468086574511,
    "display": true,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -37592,7 +37588,7 @@
    "id": "offshore-wind",
    "term": "offshore wind",
    "direction": "falling",
-   "ratio": 0.19092289104371263,
+   "ratio": 0.1908153028745526,
    "display": true,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -38199,7 +38195,7 @@
    "id": "autonomous-vehicle",
    "term": "autonomous vehicle",
    "direction": "steady",
-   "ratio": 0.35457108336689486,
+   "ratio": 0.35437127676702623,
    "display": true,
    "adoptionSpan": 3,
    "pace": "simultaneous",
@@ -38813,7 +38809,7 @@
    "id": "artificial-intelligence",
    "term": "artificial intelligence",
    "direction": "steady",
-   "ratio": 0.47048855292914904,
+   "ratio": 0.4702234249408618,
    "display": false,
    "adoptionSpan": 75,
    "pace": "gradual",
@@ -39239,7 +39235,7 @@
      "new",
      4,
      0,
-     35.2,
+     35.3,
      [
       {
        "title": "AVEVA CEO: Sustainability Commitments Must Be Backed by Measurable Results",
@@ -39308,7 +39304,7 @@
      "new",
      6,
      0,
-     26.4,
+     26.5,
      [
       {
        "title": "Xiaomi's AI strategy moves beyond models as MiMo becomes the intelligence layer across human-car-home ecosystem",
@@ -39808,16 +39804,16 @@
    ],
    "relRatio": 0.97,
    "docFreq": 0.0111,
-   "specificity": 0.629,
+   "specificity": 0.63,
    "homeShare": 0.803,
    "daysSeen": 13,
-   "rank": 1.649
+   "rank": 1.651
   },
   {
    "id": "supply-chain",
    "term": "supply chain",
    "direction": "steady",
-   "ratio": 0.5005709412238516,
+   "ratio": 0.5002888613181546,
    "display": false,
    "adoptionSpan": 72,
    "pace": "gradual",
@@ -40201,7 +40197,7 @@
      "steady",
      4,
      4,
-     67.5,
+     67.6,
      [
       {
        "title": "India now moving to build deeper supply chain of electronics manufacturing: Vaishnaw",
@@ -40753,16 +40749,16 @@
    ],
    "relRatio": 1.03,
    "docFreq": 0.0116,
-   "specificity": 0.613,
+   "specificity": 0.614,
    "homeShare": 0.669,
    "daysSeen": 14,
-   "rank": 1.41
+   "rank": 1.412
   },
   {
    "id": "low-carbon",
    "term": "low carbon",
    "direction": "rising",
-   "ratio": 1.950140958517922,
+   "ratio": 1.9490420222186444,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -41420,7 +41416,7 @@
    "id": "iran-war",
    "term": "iran war",
    "direction": "steady",
-   "ratio": 0.3545710833668949,
+   "ratio": 0.35437127676702623,
    "display": false,
    "adoptionSpan": 43,
    "pace": "gradual",
@@ -42146,7 +42142,7 @@
    "id": "solar-cell",
    "term": "solar cell",
    "direction": "rising",
-   "ratio": 0.975070479258961,
+   "ratio": 0.9745210111093222,
    "display": false,
    "adoptionSpan": 12,
    "pace": "mixed",
@@ -42756,7 +42752,7 @@
    "id": "lng-carrier",
    "term": "lng carrier",
    "direction": "steady",
-   "ratio": 0.5065301190955641,
+   "ratio": 0.5062446810957518,
    "display": false,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -43334,7 +43330,7 @@
    "id": "scale-solar",
    "term": "scale solar",
    "direction": "steady",
-   "ratio": 0.620499395892066,
+   "ratio": 0.6201497343422959,
    "display": false,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -43926,7 +43922,7 @@
    "id": "battery-electric",
    "term": "battery electric",
    "direction": "steady",
-   "ratio": 0.5515550185707253,
+   "ratio": 0.551244208304263,
    "display": false,
    "adoptionSpan": 9,
    "pace": "mixed",
@@ -44598,7 +44594,7 @@
    "id": "black-sea",
    "term": "black sea",
    "direction": "steady",
-   "ratio": 0.42548530004027385,
+   "ratio": 0.4252455321204315,
    "display": false,
    "adoptionSpan": 33,
    "pace": "gradual",
@@ -45208,7 +45204,7 @@
    "id": "power-supply",
    "term": "power supply",
    "direction": "rising",
-   "ratio": 0.7977849375755135,
+   "ratio": 0.797335372725809,
    "display": false,
    "adoptionSpan": 5,
    "pace": "simultaneous",
@@ -45854,7 +45850,7 @@
    "id": "raw-material",
    "term": "raw material",
    "direction": "steady",
-   "ratio": 0.43336465744842706,
+   "ratio": 0.4331204493819209,
    "display": false,
    "adoptionSpan": 31,
    "pace": "gradual",
@@ -46525,7 +46521,7 @@
    "id": "crude-oil",
    "term": "crude oil",
    "direction": "falling",
-   "ratio": 0.3028628003758894,
+   "ratio": 0.3026921322385016,
    "display": false,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -46694,7 +46690,7 @@
      "steady",
      2,
      2,
-     118.5,
+     118.7,
      [
       {
        "title": "Norway's Oil Output Falls Nearly 200,000 Bpd as Gulf Supply Crisis Drags On",
@@ -47196,7 +47192,7 @@
    "id": "fossil-fuel",
    "term": "fossil fuel",
    "direction": "steady",
-   "ratio": 0.41903855306996673,
+   "ratio": 0.41880241799739465,
    "display": false,
    "adoptionSpan": 17,
    "pace": "mixed",
@@ -47365,7 +47361,7 @@
      "steady",
      4,
      4,
-     57.5,
+     57.6,
      [
       {
        "title": "As Ohio grapples with fake comments on \u2f00clean energy\u2f01, some want crackdown",
@@ -47874,7 +47870,7 @@
    "id": "real-estate",
    "term": "real estate",
    "direction": "falling",
-   "ratio": 0.32009889470622455,
+   "ratio": 0.3199185137480098,
    "display": false,
    "adoptionSpan": 66,
    "pace": "gradual",
@@ -48148,7 +48144,7 @@
      "new",
      4,
      0,
-     49.8,
+     49.9,
      [
       {
        "title": "Dov Hertz Offloads Major Staten Island \u2f00Industrial Site\u2f01 for $167M",
@@ -48641,7 +48637,7 @@
    ],
    "relRatio": 0.66,
    "docFreq": 0.0052,
-   "specificity": 0.825,
+   "specificity": 0.826,
    "homeShare": 0.918,
    "daysSeen": 11,
    "rank": 0.723
@@ -48650,7 +48646,7 @@
    "id": "critical-mineral",
    "term": "critical mineral",
    "direction": "falling",
-   "ratio": 0.14671906897940476,
+   "ratio": 0.14663639038635568,
    "display": false,
    "adoptionSpan": 68,
    "pace": "gradual",
@@ -48852,7 +48848,7 @@
      "new",
      4,
      0,
-     270.0,
+     270.4,
      [
       {
        "title": "Battery recycling projects among DOE's latest $500M grant funding round",
@@ -49354,7 +49350,7 @@
    "id": "oil-export",
    "term": "oil export",
    "direction": "steady",
-   "ratio": 0.4875352396294805,
+   "ratio": 0.4872605055546611,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -49974,7 +49970,7 @@
    "id": "effective-date",
    "term": "effective date",
    "direction": "falling",
-   "ratio": 0.20261204763822566,
+   "ratio": 0.20249787243830072,
    "display": false,
    "adoptionSpan": 21,
    "pace": "mixed",
@@ -50508,7 +50504,7 @@
    "id": "production-capacity",
    "term": "production capacity",
    "direction": "steady",
-   "ratio": 0.45127228792150254,
+   "ratio": 0.4510179886125788,
    "display": false,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -51220,7 +51216,7 @@
    "id": "export-control",
    "term": "export control",
    "direction": "steady",
-   "ratio": 0.5909518056114915,
+   "ratio": 0.5906187946117104,
    "display": false,
    "adoptionSpan": 67,
    "pace": "gradual",
@@ -51763,7 +51759,7 @@
    "id": "small-modular-reactor",
    "term": "small modular reactor",
    "direction": "steady",
-   "ratio": 0.39889246878775675,
+   "ratio": 0.3986676863629045,
    "display": false,
    "adoptionSpan": 70,
    "pace": "gradual",
@@ -51900,7 +51896,7 @@
      "new",
      4,
      0,
-     720.0,
+     721.0,
      [
       {
        "title": "Port of \u2f00Corpus Christi\u2f01 to explore nuclear technology for maritime operations",
@@ -52375,7 +52371,7 @@
    "id": "growth-driver",
    "term": "growth driver",
    "direction": "steady",
-   "ratio": 0.35457108336689486,
+   "ratio": 0.3543712767670262,
    "display": false,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -53022,10 +53018,725 @@
    "rank": 0.629
   },
   {
+   "id": "solar-panel",
+   "term": "solar panel",
+   "direction": "rising",
+   "ratio": 0.9618648940819284,
+   "display": false,
+   "adoptionSpan": 10,
+   "pace": "mixed",
+   "kind": "concept",
+   "sectorCount": 2,
+   "effectiveSectors": 1.54,
+   "newestSector": "Energy",
+   "daysSinceNewestSector": 74,
+   "articles14d": 19,
+   "articlesPrior14d": 7,
+   "publishers": 7,
+   "events": 19,
+   "topPubShare": 0.316,
+   "sectors": [
+    {
+     "name": "Utilities",
+     "firstSeen": "2026-06-02",
+     "recent": 3,
+     "articles": 4,
+     "share": 0.2,
+     "atSectorStart": false,
+     "grip": 0.143,
+     "outlets": 1,
+     "adopt": 5
+    },
+    {
+     "name": "Energy",
+     "firstSeen": "2026-06-12",
+     "recent": 12,
+     "articles": 22,
+     "share": 0.8,
+     "atSectorStart": false,
+     "grip": 0.5,
+     "outlets": 3,
+     "adopt": 15
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "US",
+     19
+    ],
+    [
+     "DE",
+     8
+    ],
+    [
+     "GB",
+     3
+    ],
+    [
+     "AU",
+     1
+    ],
+    [
+     "GR",
+     1
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-05-28",
+     "2026-06-04",
+     "2026-06-11",
+     "2026-06-18",
+     "2026-06-25",
+     "2026-07-02",
+     "2026-07-09",
+     "2026-07-16",
+     "2026-07-23",
+     "2026-07-30",
+     "2026-08-06",
+     "2026-08-13",
+     "2026-08-20"
+    ],
+    "bands": [
+     {
+      "sector": "Energy",
+      "n": [
+       0,
+       0,
+       1,
+       1,
+       0,
+       1,
+       0,
+       0,
+       2,
+       1,
+       6,
+       5,
+       5
+      ]
+     },
+     {
+      "sector": "Utilities",
+      "n": [
+       1,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       3,
+       0
+      ]
+     },
+     {
+      "sector": "Materials",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       1,
+       0
+      ]
+     },
+     {
+      "sector": "Finance",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "sector": "Technology",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0
+      ]
+     },
+     {
+      "sector": "Waste & water",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0
+      ]
+     },
+     {
+      "sector": "Supply chain",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   "cooc": [
+    [
+     "heat pump",
+     1.0,
+     "new",
+     4,
+     0,
+     85.4,
+     [
+      {
+       "title": "Moldova simplifies rules governing solar, \u2f00heat pumps\u2f01, storage systems",
+       "url": "https://www.pv-magazine.com/2026/08/24/moldova-simplifies-rules-governing-solar-heat-pumps-storage-systems/",
+       "publisher": "PV Magazine",
+       "sector": "Energy",
+       "quote": "\u2026nges in Moldova allow solar panels, \u2f00heat pumps\u2f01 and energy storage systems to be installed without a building permit or urban planning certificate under cert\u2026"
+      },
+      {
+       "title": "RAF base flies high with net zero refurbishment",
+       "url": "https://www.energylivenews.com/2026/08/13/raf-base-flies-high-with-net-zero-refurbishment/",
+       "publisher": "Energy Live News",
+       "sector": "Utilities",
+       "quote": "\u2026at RAF Mawgan include solar panels, \u2f00heat pumps\u2f01, new insulation and triple-glazed windows The post RAF base flies high with net zero refurbishment appeared f\u2026"
+      }
+     ]
+    ]
+   ],
+   "examples": [
+    {
+     "publisher": "PV Magazine",
+     "title": "Sweden could face 150,000 metric tons of end-of-life panels annually",
+     "url": "https://www.pv-magazine.com/2026/08/25/sweden-could-face-150000-metric-tons-of-end-of-life-panels-annually/",
+     "date": "2026-08-25",
+     "sector": "Energy",
+     "country": "DE",
+     "quote": "\u2026ssioned just 17 metric tons (MT) of \u2f00solar panels\u2f01 in 2021, but a new industry roadmap warns that figure could reach 150,000 MT per year by around 2060, and say\u2026"
+    },
+    {
+     "publisher": "Container News",
+     "title": "Samudera advances sustainable operations with solar project",
+     "url": "https://container-news.com/samudera-advances-sustainable-operations-with-solar-project/",
+     "date": "2026-08-24",
+     "sector": "Supply chain",
+     "country": "GR",
+     "quote": "\u2026logistics operations through a new \u2f00solar panel\u2f01 project at a warehouse operated by its subsidiary, Samudera Logistics Services. The pilot project entered ful\u2026"
+    },
+    {
+     "publisher": "Canary Media",
+     "title": "Tesla ditches solar roof and embraces regular \u2f00solar panels\u2f01",
+     "url": "https://www.canarymedia.com/articles/solar/tesla-pulls-plug-on-solar-roof-as-it-chases-wild-new-solar-dreams",
+     "date": "2026-08-24",
+     "sector": "Energy",
+     "country": "US",
+     "quote": ""
+    },
+    {
+     "publisher": "PV Magazine",
+     "title": "Moldova simplifies rules governing solar, heat pumps, storage systems",
+     "url": "https://www.pv-magazine.com/2026/08/24/moldova-simplifies-rules-governing-solar-heat-pumps-storage-systems/",
+     "date": "2026-08-24",
+     "sector": "Energy",
+     "country": "DE",
+     "quote": "\u2026egislative changes in Moldova allow \u2f00solar panels\u2f01, heat pumps and energy storage systems to be installed without a building permit or urban planning certificat\u2026"
+    },
+    {
+     "publisher": "PV Magazine",
+     "title": "Quinbrook advances plans for polysilicon factory in Australia",
+     "url": "https://www.pv-magazine.com/2026/08/24/quinbrook-advances-plans-for-polysilicon-production-plant/",
+     "date": "2026-08-24",
+     "sector": "Energy",
+     "country": "DE",
+     "quote": "\u2026licon plant in Queensland to supply \u2f00solar panel\u2f01 manufacturers have taken another step forward following the recent signing of an agreement with the local gov\u2026"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "How \u2f00Solar Panel\u2f01 Prices Fell 90 Percent In 15 Years",
+     "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/How-Solar-Panel-Prices-Fell-90-Percent-In-15-Years.html",
+     "date": "2026-08-20",
+     "sector": "Energy",
+     "country": "US",
+     "quote": ""
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Coal Remains The Undisputed King Of Global Power",
+     "url": "https://oilprice.com/Energy/Coal/Coal-Remains-The-Undisputed-King-Of-Global-Power.html",
+     "date": "2026-08-19",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026rld is installing wind turbines and \u2f00solar panels\u2f01 faster than ever, but coal still generates more electricity than any other source, and by a huge margin. The\u2026"
+    },
+    {
+     "publisher": "PV Magazine",
+     "title": "Megasol equips its \u2f00solar panels\u2f01 with anti-glare surface",
+     "url": "https://www.pv-magazine.com/2026/08/19/megasol-equips-its-solar-panels-with-an-anti-glare-surface/",
+     "date": "2026-08-19",
+     "sector": "Energy",
+     "country": "DE",
+     "quote": "\u2026rmance. The post Megasol equips its \u2f00solar panels\u2f01 with anti-glare surface appeared first on pv magazine Global ."
+    },
+    {
+     "publisher": "Energy Live News",
+     "title": "Council helps homes switch to renewables",
+     "url": "https://www.energylivenews.com/2026/08/19/council-helps-homes-switch-to-renewables/",
+     "date": "2026-08-19",
+     "sector": "Utilities",
+     "country": "GB",
+     "quote": "\u2026lds to explore the opportunities of \u2f00solar panels\u2f01 and battery storage The post Council helps homes switch to renewables appeared first on Energy Live News ."
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "China's Solar Exports Fell 21.4% in July",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Solar-Exports-Fell-214-in-July.html",
+     "date": "2026-08-18",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026Reuters on Tuesday. The world's top \u2f00solar panel\u2f01 and cell manufacturer scrapped, effective April 1, 2026, export tax rebates for the value added tax (VAT) of\u2026"
+    },
+    {
+     "publisher": "Energy Live News",
+     "title": "\u2f00Solar panels\u2f01 save council more than \u00a37000",
+     "url": "https://www.energylivenews.com/2026/08/18/solar-panels-save-council-thousands/",
+     "date": "2026-08-18",
+     "sector": "Utilities",
+     "country": "GB",
+     "quote": "\u2026by 55% since installation The post \u2f00Solar panels\u2f01 save council more than \u00a37000 appeared first on Energy Live News ."
+    },
+    {
+     "publisher": "Waste Management Review",
+     "title": "Researchers uncover a silver lining to Australia's \u2f00solar panel\u2f01 recycling problem",
+     "url": "https://wastemanagementreview.com.au/researchers-uncover-a-silver-lining-to-australias-solar-panel-recycling-problem/",
+     "date": "2026-08-17",
+     "sector": "Waste & water",
+     "country": "AU",
+     "quote": "\u2026tle Australia's growing mountain of \u2f00solar panel\u2f01 waste could become far more valuable, with University of Newcastle researchers taking a major step towards ma\u2026"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-05-28",
+     "n": 0
+    },
+    {
+     "day": "2026-05-29",
+     "n": 0
+    },
+    {
+     "day": "2026-05-30",
+     "n": 0
+    },
+    {
+     "day": "2026-05-31",
+     "n": 0
+    },
+    {
+     "day": "2026-06-01",
+     "n": 0
+    },
+    {
+     "day": "2026-06-02",
+     "n": 1
+    },
+    {
+     "day": "2026-06-03",
+     "n": 0
+    },
+    {
+     "day": "2026-06-04",
+     "n": 0
+    },
+    {
+     "day": "2026-06-05",
+     "n": 0
+    },
+    {
+     "day": "2026-06-06",
+     "n": 0
+    },
+    {
+     "day": "2026-06-07",
+     "n": 0
+    },
+    {
+     "day": "2026-06-08",
+     "n": 0
+    },
+    {
+     "day": "2026-06-09",
+     "n": 0
+    },
+    {
+     "day": "2026-06-10",
+     "n": 0
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 1
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 0
+    },
+    {
+     "day": "2026-06-16",
+     "n": 0
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 0
+    },
+    {
+     "day": "2026-06-19",
+     "n": 1
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 0
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 1
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 1
+    },
+    {
+     "day": "2026-07-24",
+     "n": 1
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 1
+    },
+    {
+     "day": "2026-07-31",
+     "n": 1
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 0
+    },
+    {
+     "day": "2026-08-04",
+     "n": 0
+    },
+    {
+     "day": "2026-08-05",
+     "n": 0
+    },
+    {
+     "day": "2026-08-06",
+     "n": 1
+    },
+    {
+     "day": "2026-08-07",
+     "n": 2
+    },
+    {
+     "day": "2026-08-08",
+     "n": 0
+    },
+    {
+     "day": "2026-08-09",
+     "n": 1
+    },
+    {
+     "day": "2026-08-10",
+     "n": 0
+    },
+    {
+     "day": "2026-08-11",
+     "n": 1
+    },
+    {
+     "day": "2026-08-12",
+     "n": 3
+    },
+    {
+     "day": "2026-08-13",
+     "n": 2
+    },
+    {
+     "day": "2026-08-14",
+     "n": 1
+    },
+    {
+     "day": "2026-08-15",
+     "n": 0
+    },
+    {
+     "day": "2026-08-16",
+     "n": 0
+    },
+    {
+     "day": "2026-08-17",
+     "n": 2
+    },
+    {
+     "day": "2026-08-18",
+     "n": 2
+    },
+    {
+     "day": "2026-08-19",
+     "n": 3
+    },
+    {
+     "day": "2026-08-20",
+     "n": 1
+    },
+    {
+     "day": "2026-08-21",
+     "n": 0
+    },
+    {
+     "day": "2026-08-22",
+     "n": 0
+    },
+    {
+     "day": "2026-08-23",
+     "n": 0
+    },
+    {
+     "day": "2026-08-24",
+     "n": 4
+    },
+    {
+     "day": "2026-08-25",
+     "n": 1
+    }
+   ],
+   "relRatio": 1.97,
+   "docFreq": 0.0015,
+   "specificity": 0.949,
+   "homeShare": 0.8,
+   "daysSeen": 9,
+   "rank": 0.6
+  },
+  {
    "id": "data-center",
    "term": "data center",
    "direction": "steady",
-   "ratio": 0.45282572092639584,
+   "ratio": 0.45684007968761214,
    "display": false,
    "adoptionSpan": 64,
    "pace": "gradual",
@@ -53034,7 +53745,7 @@
    "effectiveSectors": 2.95,
    "newestSector": "Supply chain",
    "daysSinceNewestSector": 25,
-   "articles14d": 318,
+   "articles14d": 321,
    "articlesPrior14d": 249,
    "publishers": 23,
    "events": 291,
@@ -53045,7 +53756,7 @@
      "firstSeen": "2026-05-28",
      "recent": 22,
      "articles": 36,
-     "share": 0.07,
+     "share": 0.069,
      "atSectorStart": false,
      "grip": 0.5,
      "outlets": 3,
@@ -53054,9 +53765,9 @@
     {
      "name": "Technology",
      "firstSeen": "2026-05-28",
-     "recent": 241,
-     "articles": 446,
-     "share": 0.768,
+     "recent": 243,
+     "articles": 448,
+     "share": 0.767,
      "atSectorStart": false,
      "grip": 0.667,
      "outlets": 6,
@@ -53065,9 +53776,9 @@
     {
      "name": "Utilities",
      "firstSeen": "2026-05-31",
-     "recent": 22,
-     "articles": 73,
-     "share": 0.07,
+     "recent": 23,
+     "articles": 74,
+     "share": 0.073,
      "atSectorStart": false,
      "grip": 0.429,
      "outlets": 3,
@@ -53111,7 +53822,7 @@
      "firstSeen": "2026-07-13",
      "recent": 3,
      "articles": 14,
-     "share": 0.01,
+     "share": 0.009,
      "atSectorStart": false,
      "grip": 0.333,
      "outlets": 2,
@@ -53144,7 +53855,7 @@
    "origins": [
     [
      "US",
-     461
+     464
     ],
     [
      "TW",
@@ -53199,7 +53910,7 @@
        80,
        114,
        125,
-       95
+       97
       ]
      },
      {
@@ -53217,7 +53928,7 @@
        20,
        19,
        10,
-       9
+       10
       ]
      },
      {
@@ -53427,7 +54138,7 @@
      "steady",
      6,
      8,
-     30.6,
+     30.3,
      [
       {
        "title": "Nvidia invests in data center powered land company Lancium",
@@ -53472,7 +54183,7 @@
      "steady",
      8,
      6,
-     20.4,
+     20.2,
      [
       {
        "title": "Energy law amendments lift AI data center storage demand in Taiwan",
@@ -53988,7 +54699,7 @@
     },
     {
      "day": "2026-08-25",
-     "n": 24
+     "n": 27
     }
    ],
    "variants": [
@@ -53997,733 +54708,18 @@
     "power demand",
     "energy demand"
    ],
-   "relRatio": 0.93,
-   "docFreq": 0.0256,
-   "specificity": 0.146,
-   "homeShare": 0.768,
+   "relRatio": 0.94,
+   "docFreq": 0.0258,
+   "specificity": 0.139,
+   "homeShare": 0.767,
    "daysSeen": 14,
-   "rank": 0.606
-  },
-  {
-   "id": "solar-panel",
-   "term": "solar panel",
-   "direction": "rising",
-   "ratio": 0.9624072262815718,
-   "display": false,
-   "adoptionSpan": 10,
-   "pace": "mixed",
-   "kind": "concept",
-   "sectorCount": 2,
-   "effectiveSectors": 1.54,
-   "newestSector": "Energy",
-   "daysSinceNewestSector": 74,
-   "articles14d": 19,
-   "articlesPrior14d": 7,
-   "publishers": 7,
-   "events": 19,
-   "topPubShare": 0.316,
-   "sectors": [
-    {
-     "name": "Utilities",
-     "firstSeen": "2026-06-02",
-     "recent": 3,
-     "articles": 4,
-     "share": 0.2,
-     "atSectorStart": false,
-     "grip": 0.143,
-     "outlets": 1,
-     "adopt": 5
-    },
-    {
-     "name": "Energy",
-     "firstSeen": "2026-06-12",
-     "recent": 12,
-     "articles": 22,
-     "share": 0.8,
-     "atSectorStart": false,
-     "grip": 0.5,
-     "outlets": 3,
-     "adopt": 15
-    }
-   ],
-   "sinceStart": false,
-   "origins": [
-    [
-     "US",
-     19
-    ],
-    [
-     "DE",
-     8
-    ],
-    [
-     "GB",
-     3
-    ],
-    [
-     "AU",
-     1
-    ],
-    [
-     "GR",
-     1
-    ]
-   ],
-   "flow": {
-    "weeks": [
-     "2026-05-28",
-     "2026-06-04",
-     "2026-06-11",
-     "2026-06-18",
-     "2026-06-25",
-     "2026-07-02",
-     "2026-07-09",
-     "2026-07-16",
-     "2026-07-23",
-     "2026-07-30",
-     "2026-08-06",
-     "2026-08-13",
-     "2026-08-20"
-    ],
-    "bands": [
-     {
-      "sector": "Energy",
-      "n": [
-       0,
-       0,
-       1,
-       1,
-       0,
-       1,
-       0,
-       0,
-       2,
-       1,
-       6,
-       5,
-       5
-      ]
-     },
-     {
-      "sector": "Utilities",
-      "n": [
-       1,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       3,
-       0
-      ]
-     },
-     {
-      "sector": "Materials",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       1,
-       0
-      ]
-     },
-     {
-      "sector": "Finance",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Technology",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Waste & water",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0
-      ]
-     },
-     {
-      "sector": "Supply chain",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1
-      ]
-     }
-    ]
-   },
-   "cooc": [
-    [
-     "heat pump",
-     1.0,
-     "new",
-     4,
-     0,
-     85.3,
-     [
-      {
-       "title": "Moldova simplifies rules governing solar, \u2f00heat pumps\u2f01, storage systems",
-       "url": "https://www.pv-magazine.com/2026/08/24/moldova-simplifies-rules-governing-solar-heat-pumps-storage-systems/",
-       "publisher": "PV Magazine",
-       "sector": "Energy",
-       "quote": "\u2026nges in Moldova allow solar panels, \u2f00heat pumps\u2f01 and energy storage systems to be installed without a building permit or urban planning certificate under cert\u2026"
-      },
-      {
-       "title": "RAF base flies high with net zero refurbishment",
-       "url": "https://www.energylivenews.com/2026/08/13/raf-base-flies-high-with-net-zero-refurbishment/",
-       "publisher": "Energy Live News",
-       "sector": "Utilities",
-       "quote": "\u2026at RAF Mawgan include solar panels, \u2f00heat pumps\u2f01, new insulation and triple-glazed windows The post RAF base flies high with net zero refurbishment appeared f\u2026"
-      }
-     ]
-    ]
-   ],
-   "examples": [
-    {
-     "publisher": "PV Magazine",
-     "title": "Sweden could face 150,000 metric tons of end-of-life panels annually",
-     "url": "https://www.pv-magazine.com/2026/08/25/sweden-could-face-150000-metric-tons-of-end-of-life-panels-annually/",
-     "date": "2026-08-25",
-     "sector": "Energy",
-     "country": "DE",
-     "quote": "\u2026ssioned just 17 metric tons (MT) of \u2f00solar panels\u2f01 in 2021, but a new industry roadmap warns that figure could reach 150,000 MT per year by around 2060, and say\u2026"
-    },
-    {
-     "publisher": "Container News",
-     "title": "Samudera advances sustainable operations with solar project",
-     "url": "https://container-news.com/samudera-advances-sustainable-operations-with-solar-project/",
-     "date": "2026-08-24",
-     "sector": "Supply chain",
-     "country": "GR",
-     "quote": "\u2026logistics operations through a new \u2f00solar panel\u2f01 project at a warehouse operated by its subsidiary, Samudera Logistics Services. The pilot project entered ful\u2026"
-    },
-    {
-     "publisher": "Canary Media",
-     "title": "Tesla ditches solar roof and embraces regular \u2f00solar panels\u2f01",
-     "url": "https://www.canarymedia.com/articles/solar/tesla-pulls-plug-on-solar-roof-as-it-chases-wild-new-solar-dreams",
-     "date": "2026-08-24",
-     "sector": "Energy",
-     "country": "US",
-     "quote": ""
-    },
-    {
-     "publisher": "PV Magazine",
-     "title": "Moldova simplifies rules governing solar, heat pumps, storage systems",
-     "url": "https://www.pv-magazine.com/2026/08/24/moldova-simplifies-rules-governing-solar-heat-pumps-storage-systems/",
-     "date": "2026-08-24",
-     "sector": "Energy",
-     "country": "DE",
-     "quote": "\u2026egislative changes in Moldova allow \u2f00solar panels\u2f01, heat pumps and energy storage systems to be installed without a building permit or urban planning certificat\u2026"
-    },
-    {
-     "publisher": "PV Magazine",
-     "title": "Quinbrook advances plans for polysilicon factory in Australia",
-     "url": "https://www.pv-magazine.com/2026/08/24/quinbrook-advances-plans-for-polysilicon-production-plant/",
-     "date": "2026-08-24",
-     "sector": "Energy",
-     "country": "DE",
-     "quote": "\u2026licon plant in Queensland to supply \u2f00solar panel\u2f01 manufacturers have taken another step forward following the recent signing of an agreement with the local gov\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "How \u2f00Solar Panel\u2f01 Prices Fell 90 Percent In 15 Years",
-     "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/How-Solar-Panel-Prices-Fell-90-Percent-In-15-Years.html",
-     "date": "2026-08-20",
-     "sector": "Energy",
-     "country": "US",
-     "quote": ""
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Coal Remains The Undisputed King Of Global Power",
-     "url": "https://oilprice.com/Energy/Coal/Coal-Remains-The-Undisputed-King-Of-Global-Power.html",
-     "date": "2026-08-19",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026rld is installing wind turbines and \u2f00solar panels\u2f01 faster than ever, but coal still generates more electricity than any other source, and by a huge margin. The\u2026"
-    },
-    {
-     "publisher": "PV Magazine",
-     "title": "Megasol equips its \u2f00solar panels\u2f01 with anti-glare surface",
-     "url": "https://www.pv-magazine.com/2026/08/19/megasol-equips-its-solar-panels-with-an-anti-glare-surface/",
-     "date": "2026-08-19",
-     "sector": "Energy",
-     "country": "DE",
-     "quote": "\u2026rmance. The post Megasol equips its \u2f00solar panels\u2f01 with anti-glare surface appeared first on pv magazine Global ."
-    },
-    {
-     "publisher": "Energy Live News",
-     "title": "Council helps homes switch to renewables",
-     "url": "https://www.energylivenews.com/2026/08/19/council-helps-homes-switch-to-renewables/",
-     "date": "2026-08-19",
-     "sector": "Utilities",
-     "country": "GB",
-     "quote": "\u2026lds to explore the opportunities of \u2f00solar panels\u2f01 and battery storage The post Council helps homes switch to renewables appeared first on Energy Live News ."
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "China's Solar Exports Fell 21.4% in July",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Solar-Exports-Fell-214-in-July.html",
-     "date": "2026-08-18",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026Reuters on Tuesday. The world's top \u2f00solar panel\u2f01 and cell manufacturer scrapped, effective April 1, 2026, export tax rebates for the value added tax (VAT) of\u2026"
-    },
-    {
-     "publisher": "Energy Live News",
-     "title": "\u2f00Solar panels\u2f01 save council more than \u00a37000",
-     "url": "https://www.energylivenews.com/2026/08/18/solar-panels-save-council-thousands/",
-     "date": "2026-08-18",
-     "sector": "Utilities",
-     "country": "GB",
-     "quote": "\u2026by 55% since installation The post \u2f00Solar panels\u2f01 save council more than \u00a37000 appeared first on Energy Live News ."
-    },
-    {
-     "publisher": "Waste Management Review",
-     "title": "Researchers uncover a silver lining to Australia's \u2f00solar panel\u2f01 recycling problem",
-     "url": "https://wastemanagementreview.com.au/researchers-uncover-a-silver-lining-to-australias-solar-panel-recycling-problem/",
-     "date": "2026-08-17",
-     "sector": "Waste & water",
-     "country": "AU",
-     "quote": "\u2026tle Australia's growing mountain of \u2f00solar panel\u2f01 waste could become far more valuable, with University of Newcastle researchers taking a major step towards ma\u2026"
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-05-28",
-     "n": 0
-    },
-    {
-     "day": "2026-05-29",
-     "n": 0
-    },
-    {
-     "day": "2026-05-30",
-     "n": 0
-    },
-    {
-     "day": "2026-05-31",
-     "n": 0
-    },
-    {
-     "day": "2026-06-01",
-     "n": 0
-    },
-    {
-     "day": "2026-06-02",
-     "n": 1
-    },
-    {
-     "day": "2026-06-03",
-     "n": 0
-    },
-    {
-     "day": "2026-06-04",
-     "n": 0
-    },
-    {
-     "day": "2026-06-05",
-     "n": 0
-    },
-    {
-     "day": "2026-06-06",
-     "n": 0
-    },
-    {
-     "day": "2026-06-07",
-     "n": 0
-    },
-    {
-     "day": "2026-06-08",
-     "n": 0
-    },
-    {
-     "day": "2026-06-09",
-     "n": 0
-    },
-    {
-     "day": "2026-06-10",
-     "n": 0
-    },
-    {
-     "day": "2026-06-11",
-     "n": 0
-    },
-    {
-     "day": "2026-06-12",
-     "n": 1
-    },
-    {
-     "day": "2026-06-13",
-     "n": 0
-    },
-    {
-     "day": "2026-06-14",
-     "n": 0
-    },
-    {
-     "day": "2026-06-15",
-     "n": 0
-    },
-    {
-     "day": "2026-06-16",
-     "n": 0
-    },
-    {
-     "day": "2026-06-17",
-     "n": 0
-    },
-    {
-     "day": "2026-06-18",
-     "n": 0
-    },
-    {
-     "day": "2026-06-19",
-     "n": 1
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 1
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 0
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 1
-    },
-    {
-     "day": "2026-07-24",
-     "n": 1
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 0
-    },
-    {
-     "day": "2026-07-30",
-     "n": 1
-    },
-    {
-     "day": "2026-07-31",
-     "n": 1
-    },
-    {
-     "day": "2026-08-01",
-     "n": 0
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 0
-    },
-    {
-     "day": "2026-08-04",
-     "n": 0
-    },
-    {
-     "day": "2026-08-05",
-     "n": 0
-    },
-    {
-     "day": "2026-08-06",
-     "n": 1
-    },
-    {
-     "day": "2026-08-07",
-     "n": 2
-    },
-    {
-     "day": "2026-08-08",
-     "n": 0
-    },
-    {
-     "day": "2026-08-09",
-     "n": 1
-    },
-    {
-     "day": "2026-08-10",
-     "n": 0
-    },
-    {
-     "day": "2026-08-11",
-     "n": 1
-    },
-    {
-     "day": "2026-08-12",
-     "n": 3
-    },
-    {
-     "day": "2026-08-13",
-     "n": 2
-    },
-    {
-     "day": "2026-08-14",
-     "n": 1
-    },
-    {
-     "day": "2026-08-15",
-     "n": 0
-    },
-    {
-     "day": "2026-08-16",
-     "n": 0
-    },
-    {
-     "day": "2026-08-17",
-     "n": 2
-    },
-    {
-     "day": "2026-08-18",
-     "n": 2
-    },
-    {
-     "day": "2026-08-19",
-     "n": 3
-    },
-    {
-     "day": "2026-08-20",
-     "n": 1
-    },
-    {
-     "day": "2026-08-21",
-     "n": 0
-    },
-    {
-     "day": "2026-08-22",
-     "n": 0
-    },
-    {
-     "day": "2026-08-23",
-     "n": 0
-    },
-    {
-     "day": "2026-08-24",
-     "n": 4
-    },
-    {
-     "day": "2026-08-25",
-     "n": 1
-    }
-   ],
-   "relRatio": 1.97,
-   "docFreq": 0.0015,
-   "specificity": 0.949,
-   "homeShare": 0.8,
-   "daysSeen": 9,
-   "rank": 0.6
+   "rank": 0.599
   },
   {
    "id": "trade-corridor",
    "term": "trade corridor",
    "direction": "steady",
-   "ratio": 0.35457108336689486,
+   "ratio": 0.35437127676702623,
    "display": false,
    "adoptionSpan": 3,
    "pace": "simultaneous",
@@ -55230,7 +55226,7 @@
    "id": "rare-earth",
    "term": "rare earth",
    "direction": "falling",
-   "ratio": 0.10314795152491488,
+   "ratio": 0.10308982596858945,
    "display": false,
    "adoptionSpan": 71,
    "pace": "gradual",
@@ -55454,7 +55450,7 @@
      "steady",
      4,
      4,
-     607.5,
+     608.4,
      [
       {
        "title": "Niron gets $150M loan to build iron nitride magnet manufacturing plant in Minnesota",
@@ -55478,7 +55474,7 @@
      "steady",
      4,
      4,
-     405.0,
+     405.6,
      [
       {
        "title": "Greenland Mines gets \u2f00exploration license\u2f01 for Sarfartoq rare earths project",
@@ -55502,7 +55498,7 @@
      "steady",
      2,
      2,
-     151.9,
+     152.1,
      [
       {
        "title": "American rare Earths, Novex to boost US magnet production",
@@ -55526,7 +55522,7 @@
      "rising",
      4,
      2,
-     50.6,
+     50.7,
      [
       {
        "title": "Ramaco Resources, Indium Corp ink gallium and germanium supply deal for Brook mine",
@@ -56035,7 +56031,7 @@
    "id": "coast-guard",
    "term": "coast guard",
    "direction": "steady",
-   "ratio": 0.413666263928044,
+   "ratio": 0.41343315622819726,
    "display": false,
    "adoptionSpan": 29,
    "pace": "gradual",
@@ -56627,7 +56623,7 @@
    "id": "hormuz-crisis",
    "term": "hormuz crisis",
    "direction": "steady",
-   "ratio": 0.47276144448919316,
+   "ratio": 0.47249503568936835,
    "display": false,
    "adoptionSpan": 47,
    "pace": "gradual",
@@ -57810,7 +57806,7 @@
    "id": "nuclear-fuel",
    "term": "nuclear fuel",
    "direction": "steady",
-   "ratio": 0.5318566250503424,
+   "ratio": 0.5315569151505394,
    "display": false,
    "adoptionSpan": 58,
    "pace": "gradual",
@@ -58376,7 +58372,7 @@
    "id": "offshore-oil",
    "term": "offshore oil",
    "direction": "falling",
-   "ratio": 0.15195903572866923,
+   "ratio": 0.15187340432872554,
    "display": false,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -58959,7 +58955,7 @@
    "id": "vessel-attack",
    "term": "vessel attack",
    "direction": "rising",
-   "ratio": 1.7728554168344746,
+   "ratio": 1.7718563838351313,
    "display": false,
    "adoptionSpan": 10,
    "pace": "mixed",
@@ -59531,7 +59527,7 @@
    "id": "power-grid",
    "term": "power grid",
    "direction": "steady",
-   "ratio": 0.4963995167136528,
+   "ratio": 0.49611978747383667,
    "display": false,
    "adoptionSpan": 13,
    "pace": "mixed",
@@ -59704,7 +59700,7 @@
      "new",
      4,
      0,
-     252.5,
+     252.8,
      [
       {
        "title": "The Forgotten Generation: Why Cogeneration is Re-Emerging in the Age of AI",
@@ -59756,7 +59752,7 @@
      "rising",
      4,
      2,
-     20.1,
+     20.2,
      [
       {
        "title": "How credit allocation is becoming part of the AI supply chain",
@@ -60267,7 +60263,7 @@
    "id": "clean-energy",
    "term": "clean energy",
    "direction": "falling",
-   "ratio": 0.34143882101997286,
+   "ratio": 0.34124641466454375,
    "display": false,
    "adoptionSpan": 58,
    "pace": "gradual",
@@ -60553,7 +60549,7 @@
      "steady",
      4,
      4,
-     57.5,
+     57.6,
      [
       {
        "title": "As Ohio grapples with fake comments on clean energy, some want crackdown",
@@ -60608,7 +60604,7 @@
      "rising",
      4,
      2,
-     2.4,
+     2.3,
      [
       {
        "title": "The price of \u2018all-of-the-above' | Factor This Brief",
@@ -61119,7 +61115,7 @@
    "id": "utility-scale",
    "term": "utility scale",
    "direction": "falling",
-   "ratio": 0.3191139750302054,
+   "ratio": 0.3189341490903236,
    "display": false,
    "adoptionSpan": 32,
    "pace": "gradual",
@@ -61256,7 +61252,7 @@
      "rising",
      4,
      2,
-     98.2,
+     98.3,
      [
       {
        "title": "Are conventional BESS degradation guarantees restricting asset value?",
@@ -61760,7 +61756,7 @@
    "id": "grid-capacity",
    "term": "grid capacity",
    "direction": "steady",
-   "ratio": 0.5909518056114915,
+   "ratio": 0.5906187946117104,
    "display": false,
    "adoptionSpan": 3,
    "pace": "simultaneous",
@@ -62401,7 +62397,7 @@
    "id": "green-hydrogen",
    "term": "green hydrogen",
    "direction": "rising",
-   "ratio": 0.7091421667337897,
+   "ratio": 0.7087425535340525,
    "display": false,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -62985,27 +62981,27 @@
    "id": "energy-storage",
    "term": "energy storage",
    "direction": "rising",
-   "ratio": 0.6486056403052955,
+   "ratio": 0.6568833422998536,
    "display": false,
    "adoptionSpan": 47,
    "pace": "gradual",
    "kind": "concept",
    "sectorCount": 3,
-   "effectiveSectors": 2.82,
+   "effectiveSectors": 2.81,
    "newestSector": "Technology",
    "daysSinceNewestSector": 21,
-   "articles14d": 75,
+   "articles14d": 76,
    "articlesPrior14d": 41,
-   "publishers": 15,
-   "events": 72,
-   "topPubShare": 0.375,
+   "publishers": 16,
+   "events": 73,
+   "topPubShare": 0.37,
    "sectors": [
     {
      "name": "Energy",
      "firstSeen": "2026-06-18",
      "recent": 18,
      "articles": 32,
-     "share": 0.25,
+     "share": 0.247,
      "atSectorStart": false,
      "grip": 0.667,
      "outlets": 4,
@@ -63014,12 +63010,12 @@
     {
      "name": "Utilities",
      "firstSeen": "2026-07-30",
-     "recent": 35,
-     "articles": 58,
-     "share": 0.486,
+     "recent": 36,
+     "articles": 59,
+     "share": 0.493,
      "atSectorStart": false,
-     "grip": 0.571,
-     "outlets": 4,
+     "grip": 0.714,
+     "outlets": 5,
      "adopt": 63
     },
     {
@@ -63027,7 +63023,7 @@
      "firstSeen": "2026-08-04",
      "recent": 19,
      "articles": 26,
-     "share": 0.264,
+     "share": 0.26,
      "atSectorStart": false,
      "grip": 0.444,
      "outlets": 4,
@@ -63046,7 +63042,7 @@
     ],
     [
      "US",
-     17
+     18
     ],
     [
      "KR",
@@ -63093,7 +63089,7 @@
        13,
        16,
        20,
-       9
+       10
       ]
      },
      {
@@ -63213,7 +63209,7 @@
      "rising",
      4,
      2,
-     86.4,
+     85.4,
      [
       {
        "title": "\u2f00Copenhagen Infrastructure Partners\u2f01 reaches commercial operations on 500MW BESS in Scotland",
@@ -63237,7 +63233,7 @@
      "new",
      4,
      0,
-     64.8,
+     64.0,
      [
       {
        "title": "UK \u2f00government launches\u2f01 \u00a328 million Ultra-Long Duration Energy Storage Challenge",
@@ -63261,7 +63257,7 @@
      "new",
      4,
      0,
-     51.8,
+     51.2,
      [
       {
        "title": "Five Korean Battery Equipment Makers Swing to Profit",
@@ -63285,7 +63281,7 @@
      "new",
      4,
      0,
-     37.0,
+     36.6,
      [
       {
        "title": "Shinsung E&G Expands Energy Businesses Through Startup Partnerships",
@@ -63305,6 +63301,15 @@
     ]
    ],
    "examples": [
+    {
+     "publisher": "Utility Dive",
+     "title": "New Jersey seeks 150 MW of behind-the-meter storage to support VPP",
+     "url": "https://www.utilitydive.com/news/new-jersey-seeks-150-mw-of-behind-the-meter-storage-to-support-vpp/828727/",
+     "date": "2026-08-25",
+     "sector": "Utilities",
+     "country": "US",
+     "quote": "\u2026ate resilience value of residential \u2f00energy storage\u2f01 systems,\u201d state regulators said."
+    },
     {
      "publisher": "Energy Storage News",
      "title": "The financial realities facing US long-duration \u2f00energy storage\u2f01 integration",
@@ -63403,15 +63408,6 @@
      "sector": "Energy",
      "country": "DE",
      "quote": "\u2026of the 400 MW solar, 600 MW battery \u2f00energy storage\u2f01 system (BESS) can begin. The post UK approves 400 MW solar project with 600 MW co-located battery appeared fi\u2026"
-    },
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "Energy law amendments lift AIDC storage demand in Taiwan",
-     "url": "https://www.digitimes.com/news/a20260825PD207/aidc-demand-taiwan-data-revenue.html",
-     "date": "2026-08-25",
-     "sector": "Technology",
-     "country": "TW",
-     "quote": "\u2026s (AIDCs) will increasingly rely on \u2f00energy storage\u2f01 because of its fast response and grid impact mitigation capabilities, according to Recharge Power, a Taiwan-b\u2026"
     }
    ],
    "daily": [
@@ -63773,7 +63769,7 @@
     },
     {
      "day": "2026-08-25",
-     "n": 11
+     "n": 12
     }
    ],
    "variants": [
@@ -63783,12 +63779,12 @@
     "battery storage",
     "storage capacity"
    ],
-   "relRatio": 1.33,
-   "docFreq": 0.006,
-   "specificity": 0.799,
-   "homeShare": 0.486,
+   "relRatio": 1.35,
+   "docFreq": 0.0061,
+   "specificity": 0.796,
+   "homeShare": 0.493,
    "daysSeen": 12,
-   "rank": 0.595,
+   "rank": 0.604,
    "overlapAt": 1.0,
    "heldForSpread": true
   },
@@ -63796,7 +63792,7 @@
    "id": "energy-bill",
    "term": "energy bill",
    "direction": "rising",
-   "ratio": 0.827332527856088,
+   "ratio": 0.8268663124563945,
    "display": false,
    "adoptionSpan": 58,
    "pace": "gradual",
@@ -64408,7 +64404,7 @@
    "id": "continental-shelf",
    "term": "continental shelf",
    "direction": "steady",
-   "ratio": 0.47276144448919316,
+   "ratio": 0.47249503568936835,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -64948,7 +64944,7 @@
    "id": "grid-scale",
    "term": "grid scale",
    "direction": "rising",
-   "ratio": 1.7728554168344746,
+   "ratio": 1.7718563838351313,
    "display": false,
    "adoptionSpan": 37,
    "pace": "gradual",
@@ -65063,7 +65059,7 @@
      "rising",
      4,
      2,
-     51.8,
+     51.2,
      [
       {
        "title": "40 GW project pipeline has Australia's energy transition on track",
@@ -65574,7 +65570,7 @@
    "id": "middle-east",
    "term": "middle east",
    "direction": "steady",
-   "ratio": 0.6280973476784996,
+   "ratio": 0.6277434045587322,
    "display": false,
    "adoptionSpan": 65,
    "pace": "gradual",
@@ -65856,7 +65852,7 @@
      "new",
      6,
      0,
-     156.8,
+     157.0,
      [
       {
        "title": "Goldman Sachs: Europe Needs Much Higher Gas Prices to Secure Winter Supply",
@@ -66370,7 +66366,7 @@
    "id": "drone-strike",
    "term": "drone strike",
    "direction": "falling",
-   "ratio": 0.22160692710430932,
+   "ratio": 0.22148204797939142,
    "display": false,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -66481,7 +66477,7 @@
      "steady",
      4,
      4,
-     555.4,
+     556.2,
      [
       {
        "title": "Fire Breaks Out at Rosneft-Owned Refinery After Ukrainian Drone Strike",
@@ -66505,7 +66501,7 @@
      "falling",
      4,
      6,
-     324.0,
+     324.5,
      [
       {
        "title": "Bulker pounded by five drone strikes in \u2f00Black Sea\u2f01",
@@ -66998,7 +66994,7 @@
    "id": "virtual-power-plant",
    "term": "virtual power plant",
    "direction": "steady",
-   "ratio": 0.620499395892066,
+   "ratio": 0.6201497343422959,
    "display": false,
    "adoptionSpan": 61,
    "pace": "gradual",
@@ -67609,7 +67605,7 @@
    "id": "solar-plus-storage",
    "term": "solar plus storage",
    "direction": "rising",
-   "ratio": 0.7091421667337897,
+   "ratio": 0.7087425535340525,
    "display": false,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -68225,7 +68221,7 @@
    "id": "grid-operator",
    "term": "grid operator",
    "direction": "falling",
-   "ratio": 0.23638072224459658,
+   "ratio": 0.23624751784468417,
    "display": false,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -68354,7 +68350,7 @@
      "falling",
      4,
      8,
-     15.3,
+     15.2,
      [
       {
        "title": "PJM wants \u2f00data centers\u2f01 to bring their own power. Pennsylvania's on it.",
