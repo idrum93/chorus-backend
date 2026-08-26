@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-26T05:29:44.033743+00:00",
+ "generated": "2026-08-26T06:13:35.086026+00:00",
  "placeWords": [
   "africa",
   "alberta",
@@ -2785,7 +2785,7 @@
   ],
   [
    "IN",
-   802
+   804
   ],
   [
    "GB",
@@ -2801,7 +2801,7 @@
   ],
   [
    "DE",
-   395
+   396
   ],
   [
    "SG",
@@ -4020,51 +4020,11 @@
    "name": "Samsung Electronics",
    "sector": "Technology",
    "borrowed": [
-    "battery plant",
     "battery cell"
    ],
    "articles": 116,
    "articles14d": 65,
    "terms": [
-    {
-     "term": "battery plant",
-     "id": "battery-plant",
-     "articles": 3,
-     "home": "Autos",
-     "shown": true,
-     "sectors": 2,
-     "direction": "steady",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "The Elec",
-       "title": "Samsung SDI to Raise 4.45 Trillion Won From Samsung Display Stake Sale",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=13255",
-       "date": "2026-08-23",
-       "sector": "Technology",
-       "country": "KR",
-       "quote": "\u2026tments including Synergy Cells, the \u2f00battery plant\u2f01 in Indiana where Samsung SDI ended its joint venture with General Motors (GM).Samsung SDI said on Aug."
-      },
-      {
-       "publisher": "Just Auto",
-       "title": "LGES starts production at Lansing \u2f00battery plant\u2f01 in US",
-       "url": "https://www.just-auto.com/news/lges-production-lansing-battery-plant/",
-       "date": "2026-08-19",
-       "sector": "Autos",
-       "country": "US",
-       "quote": ""
-      },
-      {
-       "publisher": "Electrive",
-       "title": "LG Energy Solution launches battery production in Lansing",
-       "url": "https://www.electrive.com/2026/08/19/lg-energy-solution-launches-battery-production-in-lansing/",
-       "date": "2026-08-19",
-       "sector": "Autos",
-       "country": "DE",
-       "quote": "\u2026has launched production at its new \u2f00battery plant\u2f01 in Lansing, Michigan, USA. Originally a joint venture with GM, the factory now belongs entirely to the Korean\u2026"
-      }
-     ]
-    },
     {
      "term": "battery cell",
      "id": "battery-cell",
@@ -4221,6 +4181,45 @@
        "sector": "Technology",
        "country": "KR",
        "quote": "\u2026e (CNT) specialist Canatu to expand \u2f00production capacity\u2f01 for CNT membranes used in extreme ultraviolet (EUV) pellicles. FST is the company's official English abbrevia\u2026"
+      }
+     ]
+    },
+    {
+     "term": "battery plant",
+     "id": "battery-plant",
+     "articles": 3,
+     "home": "Autos",
+     "shown": false,
+     "sectors": 2,
+     "direction": "steady",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "The Elec",
+       "title": "Samsung SDI to Raise 4.45 Trillion Won From Samsung Display Stake Sale",
+       "url": "https://www.thelec.net/news/articleView.html?idxno=13255",
+       "date": "2026-08-23",
+       "sector": "Technology",
+       "country": "KR",
+       "quote": "\u2026tments including Synergy Cells, the \u2f00battery plant\u2f01 in Indiana where Samsung SDI ended its joint venture with General Motors (GM).Samsung SDI said on Aug."
+      },
+      {
+       "publisher": "Just Auto",
+       "title": "LGES starts production at Lansing \u2f00battery plant\u2f01 in US",
+       "url": "https://www.just-auto.com/news/lges-production-lansing-battery-plant/",
+       "date": "2026-08-19",
+       "sector": "Autos",
+       "country": "US",
+       "quote": ""
+      },
+      {
+       "publisher": "Electrive",
+       "title": "LG Energy Solution launches battery production in Lansing",
+       "url": "https://www.electrive.com/2026/08/19/lg-energy-solution-launches-battery-production-in-lansing/",
+       "date": "2026-08-19",
+       "sector": "Autos",
+       "country": "DE",
+       "quote": "\u2026has launched production at its new \u2f00battery plant\u2f01 in Lansing, Michigan, USA. Originally a joint venture with GM, the factory now belongs entirely to the Korean\u2026"
       }
      ]
     },
@@ -4441,6 +4440,15 @@
      "variants": [],
      "examples": [
       {
+       "publisher": "ET Energyworld",
+       "title": "ONGC plans $200 million investment to revive Venezuela oilfield",
+       "url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/ongc-plans-200-million-investment-to-revive-venezuela-oilfield/133528283",
+       "date": "2026-08-26",
+       "sector": "Energy",
+       "country": "IN",
+       "quote": "Oil and \u2f00Natural Gas\u2f01 Corporationplans $200 million Venezuela oilfield revival, targets output recovery and unlocking $500 million\u2026"
+      },
+      {
        "publisher": "CFO Dive",
        "title": "Targa grants new CFO hefty long-term incentive",
        "url": "https://www.cfodive.com/news/targa-grants-new-cfo-hefty-long-term-incentive/828746/",
@@ -4457,15 +4465,6 @@
        "sector": "Energy",
        "country": "US",
        "quote": "\u2026lerating 55 billion cubic meters of \u2f00natural gas\u2f01 from the Troll West reservoir and helping sustain high gas deliveries to Europe from one of the continent's m\u2026"
-      },
-      {
-       "publisher": "Waste Dive",
-       "title": "Canadian Clean Fuels Fund invests in Generate Upcycle digester project",
-       "url": "https://www.wastedive.com/news/generate-upcycle-london-ontario-anaerobic-digester-funding-natural-resources-canada/828699/",
-       "date": "2026-08-25",
-       "sector": "Waste & water",
-       "country": "US",
-       "quote": "\u2026would dramatically expand renewable \u2f00natural gas\u2f01 output. Generate Upcycle President Bill Caesar said it's the latest example of public policy supporting diges\u2026"
       }
      ]
     },
@@ -4956,7 +4955,7 @@
      "id": "battery-plant",
      "articles": 1,
      "home": "Autos",
-     "shown": true,
+     "shown": false,
      "sectors": 2,
      "direction": "steady",
      "variants": [],
@@ -5214,6 +5213,15 @@
      "variants": [],
      "examples": [
       {
+       "publisher": "ET Energyworld",
+       "title": "ONGC plans $200 million investment to revive Venezuela oilfield",
+       "url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/ongc-plans-200-million-investment-to-revive-venezuela-oilfield/133528283",
+       "date": "2026-08-26",
+       "sector": "Energy",
+       "country": "IN",
+       "quote": "Oil and \u2f00Natural Gas\u2f01 Corporationplans $200 million Venezuela oilfield revival, targets output recovery and unlocking $500 million\u2026"
+      },
+      {
        "publisher": "CFO Dive",
        "title": "Targa grants new CFO hefty long-term incentive",
        "url": "https://www.cfodive.com/news/targa-grants-new-cfo-hefty-long-term-incentive/828746/",
@@ -5230,15 +5238,6 @@
        "sector": "Energy",
        "country": "US",
        "quote": "\u2026lerating 55 billion cubic meters of \u2f00natural gas\u2f01 from the Troll West reservoir and helping sustain high gas deliveries to Europe from one of the continent's m\u2026"
-      },
-      {
-       "publisher": "Waste Dive",
-       "title": "Canadian Clean Fuels Fund invests in Generate Upcycle digester project",
-       "url": "https://www.wastedive.com/news/generate-upcycle-london-ontario-anaerobic-digester-funding-natural-resources-canada/828699/",
-       "date": "2026-08-25",
-       "sector": "Waste & water",
-       "country": "US",
-       "quote": "\u2026would dramatically expand renewable \u2f00natural gas\u2f01 output. Generate Upcycle President Bill Caesar said it's the latest example of public policy supporting diges\u2026"
       }
      ]
     },
@@ -5540,7 +5539,7 @@
      "id": "battery-plant",
      "articles": 2,
      "home": "Autos",
-     "shown": true,
+     "shown": false,
      "sectors": 2,
      "direction": "steady",
      "variants": [],
@@ -5778,8 +5777,7 @@
    "name": "Alphabet",
    "sector": "Technology",
    "borrowed": [
-    "solar generation",
-    "battery plant"
+    "solar generation"
    ],
    "articles": 104,
    "articles14d": 50,
@@ -5820,45 +5818,6 @@
        "sector": "Energy",
        "country": "DE",
        "quote": "\u2026lity to temporarily curtail rooftop \u2f00solar generation\u2f01 on August 25. Solar systems in the state will be curtailed for up to one hour, expected to cause the loss of\u2026"
-      }
-     ]
-    },
-    {
-     "term": "battery plant",
-     "id": "battery-plant",
-     "articles": 1,
-     "home": "Autos",
-     "shown": true,
-     "sectors": 2,
-     "direction": "steady",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "The Elec",
-       "title": "Samsung SDI to Raise 4.45 Trillion Won From Samsung Display Stake Sale",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=13255",
-       "date": "2026-08-23",
-       "sector": "Technology",
-       "country": "KR",
-       "quote": "\u2026tments including Synergy Cells, the \u2f00battery plant\u2f01 in Indiana where Samsung SDI ended its joint venture with General Motors (GM).Samsung SDI said on Aug."
-      },
-      {
-       "publisher": "Just Auto",
-       "title": "LGES starts production at Lansing \u2f00battery plant\u2f01 in US",
-       "url": "https://www.just-auto.com/news/lges-production-lansing-battery-plant/",
-       "date": "2026-08-19",
-       "sector": "Autos",
-       "country": "US",
-       "quote": ""
-      },
-      {
-       "publisher": "Electrive",
-       "title": "LG Energy Solution launches battery production in Lansing",
-       "url": "https://www.electrive.com/2026/08/19/lg-energy-solution-launches-battery-production-in-lansing/",
-       "date": "2026-08-19",
-       "sector": "Autos",
-       "country": "DE",
-       "quote": "\u2026has launched production at its new \u2f00battery plant\u2f01 in Lansing, Michigan, USA. Originally a joint venture with GM, the factory now belongs entirely to the Korean\u2026"
       }
      ]
     },
@@ -6025,6 +5984,45 @@
        "quote": "\u2026rtups. The company plans to develop \u2f00virtual power plants\u2f01 (VPPs), mobile energy storage systems (ESS) and data center immersion cooling as new business areas.Shinsung\u2026"
       }
      ]
+    },
+    {
+     "term": "battery plant",
+     "id": "battery-plant",
+     "articles": 1,
+     "home": "Autos",
+     "shown": false,
+     "sectors": 2,
+     "direction": "steady",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "The Elec",
+       "title": "Samsung SDI to Raise 4.45 Trillion Won From Samsung Display Stake Sale",
+       "url": "https://www.thelec.net/news/articleView.html?idxno=13255",
+       "date": "2026-08-23",
+       "sector": "Technology",
+       "country": "KR",
+       "quote": "\u2026tments including Synergy Cells, the \u2f00battery plant\u2f01 in Indiana where Samsung SDI ended its joint venture with General Motors (GM).Samsung SDI said on Aug."
+      },
+      {
+       "publisher": "Just Auto",
+       "title": "LGES starts production at Lansing \u2f00battery plant\u2f01 in US",
+       "url": "https://www.just-auto.com/news/lges-production-lansing-battery-plant/",
+       "date": "2026-08-19",
+       "sector": "Autos",
+       "country": "US",
+       "quote": ""
+      },
+      {
+       "publisher": "Electrive",
+       "title": "LG Energy Solution launches battery production in Lansing",
+       "url": "https://www.electrive.com/2026/08/19/lg-energy-solution-launches-battery-production-in-lansing/",
+       "date": "2026-08-19",
+       "sector": "Autos",
+       "country": "DE",
+       "quote": "\u2026has launched production at its new \u2f00battery plant\u2f01 in Lansing, Michigan, USA. Originally a joint venture with GM, the factory now belongs entirely to the Korean\u2026"
+      }
+     ]
     }
    ],
    "examples": [
@@ -6081,6 +6079,15 @@
      "variants": [],
      "examples": [
       {
+       "publisher": "ET Energyworld",
+       "title": "ONGC plans $200 million investment to revive Venezuela oilfield",
+       "url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/ongc-plans-200-million-investment-to-revive-venezuela-oilfield/133528283",
+       "date": "2026-08-26",
+       "sector": "Energy",
+       "country": "IN",
+       "quote": "Oil and \u2f00Natural Gas\u2f01 Corporationplans $200 million Venezuela oilfield revival, targets output recovery and unlocking $500 million\u2026"
+      },
+      {
        "publisher": "CFO Dive",
        "title": "Targa grants new CFO hefty long-term incentive",
        "url": "https://www.cfodive.com/news/targa-grants-new-cfo-hefty-long-term-incentive/828746/",
@@ -6097,15 +6104,6 @@
        "sector": "Energy",
        "country": "US",
        "quote": "\u2026lerating 55 billion cubic meters of \u2f00natural gas\u2f01 from the Troll West reservoir and helping sustain high gas deliveries to Europe from one of the continent's m\u2026"
-      },
-      {
-       "publisher": "Waste Dive",
-       "title": "Canadian Clean Fuels Fund invests in Generate Upcycle digester project",
-       "url": "https://www.wastedive.com/news/generate-upcycle-london-ontario-anaerobic-digester-funding-natural-resources-canada/828699/",
-       "date": "2026-08-25",
-       "sector": "Waste & water",
-       "country": "US",
-       "quote": "\u2026would dramatically expand renewable \u2f00natural gas\u2f01 output. Generate Upcycle President Bill Caesar said it's the latest example of public policy supporting diges\u2026"
       }
      ]
     },
@@ -7101,7 +7099,7 @@
      "id": "battery-plant",
      "articles": 1,
      "home": "Autos",
-     "shown": true,
+     "shown": false,
      "sectors": 2,
      "direction": "steady",
      "variants": [],
@@ -7269,6 +7267,15 @@
      "variants": [],
      "examples": [
       {
+       "publisher": "ET Energyworld",
+       "title": "ONGC plans $200 million investment to revive Venezuela oilfield",
+       "url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/ongc-plans-200-million-investment-to-revive-venezuela-oilfield/133528283",
+       "date": "2026-08-26",
+       "sector": "Energy",
+       "country": "IN",
+       "quote": "Oil and \u2f00Natural Gas\u2f01 Corporationplans $200 million Venezuela oilfield revival, targets output recovery and unlocking $500 million\u2026"
+      },
+      {
        "publisher": "CFO Dive",
        "title": "Targa grants new CFO hefty long-term incentive",
        "url": "https://www.cfodive.com/news/targa-grants-new-cfo-hefty-long-term-incentive/828746/",
@@ -7285,15 +7292,6 @@
        "sector": "Energy",
        "country": "US",
        "quote": "\u2026lerating 55 billion cubic meters of \u2f00natural gas\u2f01 from the Troll West reservoir and helping sustain high gas deliveries to Europe from one of the continent's m\u2026"
-      },
-      {
-       "publisher": "Waste Dive",
-       "title": "Canadian Clean Fuels Fund invests in Generate Upcycle digester project",
-       "url": "https://www.wastedive.com/news/generate-upcycle-london-ontario-anaerobic-digester-funding-natural-resources-canada/828699/",
-       "date": "2026-08-25",
-       "sector": "Waste & water",
-       "country": "US",
-       "quote": "\u2026would dramatically expand renewable \u2f00natural gas\u2f01 output. Generate Upcycle President Bill Caesar said it's the latest example of public policy supporting diges\u2026"
       }
      ]
     },
@@ -7468,7 +7466,7 @@
      "id": "battery-plant",
      "articles": 1,
      "home": "Autos",
-     "shown": true,
+     "shown": false,
      "sectors": 2,
      "direction": "steady",
      "variants": [],
@@ -7557,6 +7555,15 @@
      "variants": [],
      "examples": [
       {
+       "publisher": "ET Energyworld",
+       "title": "ONGC plans $200 million investment to revive Venezuela oilfield",
+       "url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/ongc-plans-200-million-investment-to-revive-venezuela-oilfield/133528283",
+       "date": "2026-08-26",
+       "sector": "Energy",
+       "country": "IN",
+       "quote": "Oil and \u2f00Natural Gas\u2f01 Corporationplans $200 million Venezuela oilfield revival, targets output recovery and unlocking $500 million\u2026"
+      },
+      {
        "publisher": "CFO Dive",
        "title": "Targa grants new CFO hefty long-term incentive",
        "url": "https://www.cfodive.com/news/targa-grants-new-cfo-hefty-long-term-incentive/828746/",
@@ -7573,15 +7580,6 @@
        "sector": "Energy",
        "country": "US",
        "quote": "\u2026lerating 55 billion cubic meters of \u2f00natural gas\u2f01 from the Troll West reservoir and helping sustain high gas deliveries to Europe from one of the continent's m\u2026"
-      },
-      {
-       "publisher": "Waste Dive",
-       "title": "Canadian Clean Fuels Fund invests in Generate Upcycle digester project",
-       "url": "https://www.wastedive.com/news/generate-upcycle-london-ontario-anaerobic-digester-funding-natural-resources-canada/828699/",
-       "date": "2026-08-25",
-       "sector": "Waste & water",
-       "country": "US",
-       "quote": "\u2026would dramatically expand renewable \u2f00natural gas\u2f01 output. Generate Upcycle President Bill Caesar said it's the latest example of public policy supporting diges\u2026"
       }
      ]
     },
@@ -11262,833 +11260,6 @@
     "q": "2026Q3",
     "sector": "Utilities",
     "share": 0.64634
-   }
-  ],
-  "red sea": [
-   {
-    "q": "2016Q1",
-    "sector": "Energy",
-    "share": 0.00078
-   },
-   {
-    "q": "2016Q1",
-    "sector": "Healthcare",
-    "share": 0.0001
-   },
-   {
-    "q": "2016Q1",
-    "sector": "Materials",
-    "share": 0.00128
-   },
-   {
-    "q": "2016Q2",
-    "sector": "Materials",
-    "share": 0.00045
-   },
-   {
-    "q": "2016Q2",
-    "sector": "Supply chain",
-    "share": 0.02353
-   },
-   {
-    "q": "2016Q3",
-    "sector": "Autos",
-    "share": 0.00219
-   },
-   {
-    "q": "2016Q3",
-    "sector": "Materials",
-    "share": 0.00125
-   },
-   {
-    "q": "2016Q4",
-    "sector": "Materials",
-    "share": 0.00065
-   },
-   {
-    "q": "2016Q4",
-    "sector": "Supply chain",
-    "share": 0.01731
-   },
-   {
-    "q": "2017Q1",
-    "sector": "Energy",
-    "share": 0.00035
-   },
-   {
-    "q": "2017Q1",
-    "sector": "Finance",
-    "share": 9e-05
-   },
-   {
-    "q": "2017Q1",
-    "sector": "Materials",
-    "share": 0.00092
-   },
-   {
-    "q": "2017Q1",
-    "sector": "Supply chain",
-    "share": 0.02138
-   },
-   {
-    "q": "2017Q2",
-    "sector": "Finance",
-    "share": 0.00024
-   },
-   {
-    "q": "2017Q2",
-    "sector": "Materials",
-    "share": 0.00047
-   },
-   {
-    "q": "2017Q2",
-    "sector": "Supply chain",
-    "share": 0.01846
-   },
-   {
-    "q": "2017Q3",
-    "sector": "Consumer",
-    "share": 0.00172
-   },
-   {
-    "q": "2017Q3",
-    "sector": "Materials",
-    "share": 0.00147
-   },
-   {
-    "q": "2017Q4",
-    "sector": "Materials",
-    "share": 0.00116
-   },
-   {
-    "q": "2017Q4",
-    "sector": "Supply chain",
-    "share": 0.02114
-   },
-   {
-    "q": "2018Q1",
-    "sector": "Consumer",
-    "share": 0.00149
-   },
-   {
-    "q": "2018Q1",
-    "sector": "Energy",
-    "share": 0.00067
-   },
-   {
-    "q": "2018Q1",
-    "sector": "Finance",
-    "share": 4e-05
-   },
-   {
-    "q": "2018Q1",
-    "sector": "Healthcare",
-    "share": 0.00018
-   },
-   {
-    "q": "2018Q1",
-    "sector": "Materials",
-    "share": 0.00094
-   },
-   {
-    "q": "2018Q2",
-    "sector": "Energy",
-    "share": 0.00228
-   },
-   {
-    "q": "2018Q2",
-    "sector": "Materials",
-    "share": 0.00049
-   },
-   {
-    "q": "2018Q2",
-    "sector": "Supply chain",
-    "share": 0.01838
-   },
-   {
-    "q": "2018Q3",
-    "sector": "Materials",
-    "share": 0.00063
-   },
-   {
-    "q": "2018Q3",
-    "sector": "Technology",
-    "share": 0.0011
-   },
-   {
-    "q": "2018Q3",
-    "sector": "Utilities",
-    "share": 0.00113
-   },
-   {
-    "q": "2018Q4",
-    "sector": "Supply chain",
-    "share": 0.03733
-   },
-   {
-    "q": "2018Q4",
-    "sector": "Technology",
-    "share": 0.00139
-   },
-   {
-    "q": "2019Q1",
-    "sector": "Energy",
-    "share": 0.00085
-   },
-   {
-    "q": "2019Q1",
-    "sector": "Materials",
-    "share": 0.00102
-   },
-   {
-    "q": "2019Q2",
-    "sector": "Healthcare",
-    "share": 7e-05
-   },
-   {
-    "q": "2019Q2",
-    "sector": "Technology",
-    "share": 0.00024
-   },
-   {
-    "q": "2019Q3",
-    "sector": "Healthcare",
-    "share": 8e-05
-   },
-   {
-    "q": "2019Q3",
-    "sector": "Materials",
-    "share": 0.00069
-   },
-   {
-    "q": "2019Q3",
-    "sector": "Supply chain",
-    "share": 0.0181
-   },
-   {
-    "q": "2019Q3",
-    "sector": "Technology",
-    "share": 0.00055
-   },
-   {
-    "q": "2019Q4",
-    "sector": "Energy",
-    "share": 0.00058
-   },
-   {
-    "q": "2019Q4",
-    "sector": "Healthcare",
-    "share": 0.00018
-   },
-   {
-    "q": "2019Q4",
-    "sector": "Materials",
-    "share": 0.00055
-   },
-   {
-    "q": "2019Q4",
-    "sector": "Supply chain",
-    "share": 0.00754
-   },
-   {
-    "q": "2020Q1",
-    "sector": "Energy",
-    "share": 0.00273
-   },
-   {
-    "q": "2020Q1",
-    "sector": "Materials",
-    "share": 0.00047
-   },
-   {
-    "q": "2020Q1",
-    "sector": "Technology",
-    "share": 0.00031
-   },
-   {
-    "q": "2020Q2",
-    "sector": "Energy",
-    "share": 0.00049
-   },
-   {
-    "q": "2020Q2",
-    "sector": "Supply chain",
-    "share": 0.0094
-   },
-   {
-    "q": "2020Q3",
-    "sector": "Healthcare",
-    "share": 7e-05
-   },
-   {
-    "q": "2020Q4",
-    "sector": "Energy",
-    "share": 0.0006
-   },
-   {
-    "q": "2021Q1",
-    "sector": "Energy",
-    "share": 0.0024
-   },
-   {
-    "q": "2021Q1",
-    "sector": "Finance",
-    "share": 8e-05
-   },
-   {
-    "q": "2021Q1",
-    "sector": "Materials",
-    "share": 0.00042
-   },
-   {
-    "q": "2021Q1",
-    "sector": "Supply chain",
-    "share": 0.01639
-   },
-   {
-    "q": "2021Q2",
-    "sector": "Energy",
-    "share": 0.00052
-   },
-   {
-    "q": "2021Q2",
-    "sector": "Technology",
-    "share": 0.00064
-   },
-   {
-    "q": "2021Q3",
-    "sector": "Technology",
-    "share": 0.0001
-   },
-   {
-    "q": "2021Q4",
-    "sector": "Finance",
-    "share": 3e-05
-   },
-   {
-    "q": "2022Q1",
-    "sector": "Energy",
-    "share": 0.0041
-   },
-   {
-    "q": "2022Q1",
-    "sector": "Materials",
-    "share": 0.0028
-   },
-   {
-    "q": "2022Q2",
-    "sector": "Energy",
-    "share": 0.00221
-   },
-   {
-    "q": "2022Q2",
-    "sector": "Materials",
-    "share": 0.00048
-   },
-   {
-    "q": "2022Q2",
-    "sector": "Supply chain",
-    "share": 0.0189
-   },
-   {
-    "q": "2022Q2",
-    "sector": "Technology",
-    "share": 0.00019
-   },
-   {
-    "q": "2022Q3",
-    "sector": "Energy",
-    "share": 0.00123
-   },
-   {
-    "q": "2022Q3",
-    "sector": "Technology",
-    "share": 0.00033
-   },
-   {
-    "q": "2022Q4",
-    "sector": "Supply chain",
-    "share": 0.00985
-   },
-   {
-    "q": "2023Q1",
-    "sector": "Energy",
-    "share": 0.00337
-   },
-   {
-    "q": "2023Q1",
-    "sector": "Materials",
-    "share": 0.00134
-   },
-   {
-    "q": "2023Q1",
-    "sector": "Supply chain",
-    "share": 0.02862
-   },
-   {
-    "q": "2023Q2",
-    "sector": "Materials",
-    "share": 0.00045
-   },
-   {
-    "q": "2023Q3",
-    "sector": "Consumer",
-    "share": 0.00086
-   },
-   {
-    "q": "2023Q3",
-    "sector": "Energy",
-    "share": 0.00069
-   },
-   {
-    "q": "2023Q3",
-    "sector": "Utilities",
-    "share": 0.0013
-   },
-   {
-    "q": "2023Q4",
-    "sector": "Consumer",
-    "share": 0.0028
-   },
-   {
-    "q": "2023Q4",
-    "sector": "Energy",
-    "share": 0.00074
-   },
-   {
-    "q": "2023Q4",
-    "sector": "Finance",
-    "share": 5e-05
-   },
-   {
-    "q": "2023Q4",
-    "sector": "Materials",
-    "share": 0.00065
-   },
-   {
-    "q": "2023Q4",
-    "sector": "Utilities",
-    "share": 0.00119
-   },
-   {
-    "q": "2024Q1",
-    "sector": "Autos",
-    "share": 0.01493
-   },
-   {
-    "q": "2024Q1",
-    "sector": "Consumer",
-    "share": 0.00623
-   },
-   {
-    "q": "2024Q1",
-    "sector": "Energy",
-    "share": 0.02378
-   },
-   {
-    "q": "2024Q1",
-    "sector": "Finance",
-    "share": 0.00108
-   },
-   {
-    "q": "2024Q1",
-    "sector": "Healthcare",
-    "share": 0.00276
-   },
-   {
-    "q": "2024Q1",
-    "sector": "Materials",
-    "share": 0.01655
-   },
-   {
-    "q": "2024Q1",
-    "sector": "Technology",
-    "share": 0.00549
-   },
-   {
-    "q": "2024Q1",
-    "sector": "Utilities",
-    "share": 0.00823
-   },
-   {
-    "q": "2024Q2",
-    "sector": "Autos",
-    "share": 0.02028
-   },
-   {
-    "q": "2024Q2",
-    "sector": "Consumer",
-    "share": 0.0107
-   },
-   {
-    "q": "2024Q2",
-    "sector": "Energy",
-    "share": 0.02616
-   },
-   {
-    "q": "2024Q2",
-    "sector": "Finance",
-    "share": 0.0018
-   },
-   {
-    "q": "2024Q2",
-    "sector": "Healthcare",
-    "share": 0.00257
-   },
-   {
-    "q": "2024Q2",
-    "sector": "Materials",
-    "share": 0.01143
-   },
-   {
-    "q": "2024Q2",
-    "sector": "Technology",
-    "share": 0.00674
-   },
-   {
-    "q": "2024Q3",
-    "sector": "Autos",
-    "share": 0.02314
-   },
-   {
-    "q": "2024Q3",
-    "sector": "Consumer",
-    "share": 0.00367
-   },
-   {
-    "q": "2024Q3",
-    "sector": "Energy",
-    "share": 0.01372
-   },
-   {
-    "q": "2024Q3",
-    "sector": "Finance",
-    "share": 0.00201
-   },
-   {
-    "q": "2024Q3",
-    "sector": "Healthcare",
-    "share": 0.00283
-   },
-   {
-    "q": "2024Q3",
-    "sector": "Materials",
-    "share": 0.00905
-   },
-   {
-    "q": "2024Q3",
-    "sector": "Technology",
-    "share": 0.00749
-   },
-   {
-    "q": "2024Q3",
-    "sector": "Utilities",
-    "share": 0.01284
-   },
-   {
-    "q": "2024Q4",
-    "sector": "Autos",
-    "share": 0.00745
-   },
-   {
-    "q": "2024Q4",
-    "sector": "Consumer",
-    "share": 0.01752
-   },
-   {
-    "q": "2024Q4",
-    "sector": "Energy",
-    "share": 0.00725
-   },
-   {
-    "q": "2024Q4",
-    "sector": "Finance",
-    "share": 0.00099
-   },
-   {
-    "q": "2024Q4",
-    "sector": "Healthcare",
-    "share": 0.00365
-   },
-   {
-    "q": "2024Q4",
-    "sector": "Materials",
-    "share": 0.00773
-   },
-   {
-    "q": "2024Q4",
-    "sector": "Technology",
-    "share": 0.00413
-   },
-   {
-    "q": "2025Q1",
-    "sector": "Autos",
-    "share": 0.02546
-   },
-   {
-    "q": "2025Q1",
-    "sector": "Consumer",
-    "share": 0.02537
-   },
-   {
-    "q": "2025Q1",
-    "sector": "Energy",
-    "share": 0.01795
-   },
-   {
-    "q": "2025Q1",
-    "sector": "Finance",
-    "share": 0.00145
-   },
-   {
-    "q": "2025Q1",
-    "sector": "Healthcare",
-    "share": 0.00277
-   },
-   {
-    "q": "2025Q1",
-    "sector": "Materials",
-    "share": 0.00976
-   },
-   {
-    "q": "2025Q1",
-    "sector": "Supply chain",
-    "share": 0.20667
-   },
-   {
-    "q": "2025Q1",
-    "sector": "Technology",
-    "share": 0.00459
-   },
-   {
-    "q": "2025Q1",
-    "sector": "Utilities",
-    "share": 0.00619
-   },
-   {
-    "q": "2025Q2",
-    "sector": "Autos",
-    "share": 0.02319
-   },
-   {
-    "q": "2025Q2",
-    "sector": "Consumer",
-    "share": 0.01036
-   },
-   {
-    "q": "2025Q2",
-    "sector": "Energy",
-    "share": 0.01674
-   },
-   {
-    "q": "2025Q2",
-    "sector": "Finance",
-    "share": 0.00198
-   },
-   {
-    "q": "2025Q2",
-    "sector": "Healthcare",
-    "share": 0.00216
-   },
-   {
-    "q": "2025Q2",
-    "sector": "Materials",
-    "share": 0.0017
-   },
-   {
-    "q": "2025Q2",
-    "sector": "Real estate",
-    "share": 0.00622
-   },
-   {
-    "q": "2025Q2",
-    "sector": "Supply chain",
-    "share": 0.20734
-   },
-   {
-    "q": "2025Q2",
-    "sector": "Technology",
-    "share": 0.00616
-   },
-   {
-    "q": "2025Q3",
-    "sector": "Autos",
-    "share": 0.0184
-   },
-   {
-    "q": "2025Q3",
-    "sector": "Energy",
-    "share": 0.01259
-   },
-   {
-    "q": "2025Q3",
-    "sector": "Finance",
-    "share": 0.00062
-   },
-   {
-    "q": "2025Q3",
-    "sector": "Healthcare",
-    "share": 0.00261
-   },
-   {
-    "q": "2025Q3",
-    "sector": "Technology",
-    "share": 0.00328
-   },
-   {
-    "q": "2025Q3",
-    "sector": "Utilities",
-    "share": 0.00728
-   },
-   {
-    "q": "2025Q4",
-    "sector": "Autos",
-    "share": 0.03509
-   },
-   {
-    "q": "2025Q4",
-    "sector": "Energy",
-    "share": 0.01266
-   },
-   {
-    "q": "2025Q4",
-    "sector": "Finance",
-    "share": 0.00059
-   },
-   {
-    "q": "2025Q4",
-    "sector": "Healthcare",
-    "share": 0.00184
-   },
-   {
-    "q": "2025Q4",
-    "sector": "Technology",
-    "share": 0.00489
-   },
-   {
-    "q": "2026Q1",
-    "sector": "Autos",
-    "share": 0.02862
-   },
-   {
-    "q": "2026Q1",
-    "sector": "Energy",
-    "share": 0.01166
-   },
-   {
-    "q": "2026Q1",
-    "sector": "Finance",
-    "share": 0.00093
-   },
-   {
-    "q": "2026Q1",
-    "sector": "Healthcare",
-    "share": 0.00216
-   },
-   {
-    "q": "2026Q1",
-    "sector": "Materials",
-    "share": 0.00629
-   },
-   {
-    "q": "2026Q1",
-    "sector": "Supply chain",
-    "share": 0.13343
-   },
-   {
-    "q": "2026Q1",
-    "sector": "Technology",
-    "share": 0.00614
-   },
-   {
-    "q": "2026Q1",
-    "sector": "Utilities",
-    "share": 0.00323
-   },
-   {
-    "q": "2026Q2",
-    "sector": "Autos",
-    "share": 0.0346
-   },
-   {
-    "q": "2026Q2",
-    "sector": "Consumer",
-    "share": 0.00847
-   },
-   {
-    "q": "2026Q2",
-    "sector": "Energy",
-    "share": 0.01379
-   },
-   {
-    "q": "2026Q2",
-    "sector": "Finance",
-    "share": 0.00163
-   },
-   {
-    "q": "2026Q2",
-    "sector": "Healthcare",
-    "share": 0.00111
-   },
-   {
-    "q": "2026Q2",
-    "sector": "Materials",
-    "share": 0.00196
-   },
-   {
-    "q": "2026Q2",
-    "sector": "Supply chain",
-    "share": 0.14341
-   },
-   {
-    "q": "2026Q2",
-    "sector": "Technology",
-    "share": 0.00589
-   },
-   {
-    "q": "2026Q2",
-    "sector": "Utilities",
-    "share": 0.00417
-   },
-   {
-    "q": "2026Q3",
-    "sector": "Autos",
-    "share": 0.03378
-   },
-   {
-    "q": "2026Q3",
-    "sector": "Energy",
-    "share": 0.00628
-   },
-   {
-    "q": "2026Q3",
-    "sector": "Finance",
-    "share": 0.00074
-   },
-   {
-    "q": "2026Q3",
-    "sector": "Healthcare",
-    "share": 0.00084
-   },
-   {
-    "q": "2026Q3",
-    "sector": "Materials",
-    "share": 0.00549
-   },
-   {
-    "q": "2026Q3",
-    "sector": "Supply chain",
-    "share": 0.12121
-   },
-   {
-    "q": "2026Q3",
-    "sector": "Technology",
-    "share": 0.00585
-   },
-   {
-    "q": "2026Q3",
-    "sector": "Utilities",
-    "share": 0.00732
    }
   ],
   "artificial intelligence": [
@@ -19403,6 +18574,833 @@
     "share": 0.21707
    }
   ],
+  "red sea": [
+   {
+    "q": "2016Q1",
+    "sector": "Energy",
+    "share": 0.00078
+   },
+   {
+    "q": "2016Q1",
+    "sector": "Healthcare",
+    "share": 0.0001
+   },
+   {
+    "q": "2016Q1",
+    "sector": "Materials",
+    "share": 0.00128
+   },
+   {
+    "q": "2016Q2",
+    "sector": "Materials",
+    "share": 0.00045
+   },
+   {
+    "q": "2016Q2",
+    "sector": "Supply chain",
+    "share": 0.02353
+   },
+   {
+    "q": "2016Q3",
+    "sector": "Autos",
+    "share": 0.00219
+   },
+   {
+    "q": "2016Q3",
+    "sector": "Materials",
+    "share": 0.00125
+   },
+   {
+    "q": "2016Q4",
+    "sector": "Materials",
+    "share": 0.00065
+   },
+   {
+    "q": "2016Q4",
+    "sector": "Supply chain",
+    "share": 0.01731
+   },
+   {
+    "q": "2017Q1",
+    "sector": "Energy",
+    "share": 0.00035
+   },
+   {
+    "q": "2017Q1",
+    "sector": "Finance",
+    "share": 9e-05
+   },
+   {
+    "q": "2017Q1",
+    "sector": "Materials",
+    "share": 0.00092
+   },
+   {
+    "q": "2017Q1",
+    "sector": "Supply chain",
+    "share": 0.02138
+   },
+   {
+    "q": "2017Q2",
+    "sector": "Finance",
+    "share": 0.00024
+   },
+   {
+    "q": "2017Q2",
+    "sector": "Materials",
+    "share": 0.00047
+   },
+   {
+    "q": "2017Q2",
+    "sector": "Supply chain",
+    "share": 0.01846
+   },
+   {
+    "q": "2017Q3",
+    "sector": "Consumer",
+    "share": 0.00172
+   },
+   {
+    "q": "2017Q3",
+    "sector": "Materials",
+    "share": 0.00147
+   },
+   {
+    "q": "2017Q4",
+    "sector": "Materials",
+    "share": 0.00116
+   },
+   {
+    "q": "2017Q4",
+    "sector": "Supply chain",
+    "share": 0.02114
+   },
+   {
+    "q": "2018Q1",
+    "sector": "Consumer",
+    "share": 0.00149
+   },
+   {
+    "q": "2018Q1",
+    "sector": "Energy",
+    "share": 0.00067
+   },
+   {
+    "q": "2018Q1",
+    "sector": "Finance",
+    "share": 4e-05
+   },
+   {
+    "q": "2018Q1",
+    "sector": "Healthcare",
+    "share": 0.00018
+   },
+   {
+    "q": "2018Q1",
+    "sector": "Materials",
+    "share": 0.00094
+   },
+   {
+    "q": "2018Q2",
+    "sector": "Energy",
+    "share": 0.00228
+   },
+   {
+    "q": "2018Q2",
+    "sector": "Materials",
+    "share": 0.00049
+   },
+   {
+    "q": "2018Q2",
+    "sector": "Supply chain",
+    "share": 0.01838
+   },
+   {
+    "q": "2018Q3",
+    "sector": "Materials",
+    "share": 0.00063
+   },
+   {
+    "q": "2018Q3",
+    "sector": "Technology",
+    "share": 0.0011
+   },
+   {
+    "q": "2018Q3",
+    "sector": "Utilities",
+    "share": 0.00113
+   },
+   {
+    "q": "2018Q4",
+    "sector": "Supply chain",
+    "share": 0.03733
+   },
+   {
+    "q": "2018Q4",
+    "sector": "Technology",
+    "share": 0.00139
+   },
+   {
+    "q": "2019Q1",
+    "sector": "Energy",
+    "share": 0.00085
+   },
+   {
+    "q": "2019Q1",
+    "sector": "Materials",
+    "share": 0.00102
+   },
+   {
+    "q": "2019Q2",
+    "sector": "Healthcare",
+    "share": 7e-05
+   },
+   {
+    "q": "2019Q2",
+    "sector": "Technology",
+    "share": 0.00024
+   },
+   {
+    "q": "2019Q3",
+    "sector": "Healthcare",
+    "share": 8e-05
+   },
+   {
+    "q": "2019Q3",
+    "sector": "Materials",
+    "share": 0.00069
+   },
+   {
+    "q": "2019Q3",
+    "sector": "Supply chain",
+    "share": 0.0181
+   },
+   {
+    "q": "2019Q3",
+    "sector": "Technology",
+    "share": 0.00055
+   },
+   {
+    "q": "2019Q4",
+    "sector": "Energy",
+    "share": 0.00058
+   },
+   {
+    "q": "2019Q4",
+    "sector": "Healthcare",
+    "share": 0.00018
+   },
+   {
+    "q": "2019Q4",
+    "sector": "Materials",
+    "share": 0.00055
+   },
+   {
+    "q": "2019Q4",
+    "sector": "Supply chain",
+    "share": 0.00754
+   },
+   {
+    "q": "2020Q1",
+    "sector": "Energy",
+    "share": 0.00273
+   },
+   {
+    "q": "2020Q1",
+    "sector": "Materials",
+    "share": 0.00047
+   },
+   {
+    "q": "2020Q1",
+    "sector": "Technology",
+    "share": 0.00031
+   },
+   {
+    "q": "2020Q2",
+    "sector": "Energy",
+    "share": 0.00049
+   },
+   {
+    "q": "2020Q2",
+    "sector": "Supply chain",
+    "share": 0.0094
+   },
+   {
+    "q": "2020Q3",
+    "sector": "Healthcare",
+    "share": 7e-05
+   },
+   {
+    "q": "2020Q4",
+    "sector": "Energy",
+    "share": 0.0006
+   },
+   {
+    "q": "2021Q1",
+    "sector": "Energy",
+    "share": 0.0024
+   },
+   {
+    "q": "2021Q1",
+    "sector": "Finance",
+    "share": 8e-05
+   },
+   {
+    "q": "2021Q1",
+    "sector": "Materials",
+    "share": 0.00042
+   },
+   {
+    "q": "2021Q1",
+    "sector": "Supply chain",
+    "share": 0.01639
+   },
+   {
+    "q": "2021Q2",
+    "sector": "Energy",
+    "share": 0.00052
+   },
+   {
+    "q": "2021Q2",
+    "sector": "Technology",
+    "share": 0.00064
+   },
+   {
+    "q": "2021Q3",
+    "sector": "Technology",
+    "share": 0.0001
+   },
+   {
+    "q": "2021Q4",
+    "sector": "Finance",
+    "share": 3e-05
+   },
+   {
+    "q": "2022Q1",
+    "sector": "Energy",
+    "share": 0.0041
+   },
+   {
+    "q": "2022Q1",
+    "sector": "Materials",
+    "share": 0.0028
+   },
+   {
+    "q": "2022Q2",
+    "sector": "Energy",
+    "share": 0.00221
+   },
+   {
+    "q": "2022Q2",
+    "sector": "Materials",
+    "share": 0.00048
+   },
+   {
+    "q": "2022Q2",
+    "sector": "Supply chain",
+    "share": 0.0189
+   },
+   {
+    "q": "2022Q2",
+    "sector": "Technology",
+    "share": 0.00019
+   },
+   {
+    "q": "2022Q3",
+    "sector": "Energy",
+    "share": 0.00123
+   },
+   {
+    "q": "2022Q3",
+    "sector": "Technology",
+    "share": 0.00033
+   },
+   {
+    "q": "2022Q4",
+    "sector": "Supply chain",
+    "share": 0.00985
+   },
+   {
+    "q": "2023Q1",
+    "sector": "Energy",
+    "share": 0.00337
+   },
+   {
+    "q": "2023Q1",
+    "sector": "Materials",
+    "share": 0.00134
+   },
+   {
+    "q": "2023Q1",
+    "sector": "Supply chain",
+    "share": 0.02862
+   },
+   {
+    "q": "2023Q2",
+    "sector": "Materials",
+    "share": 0.00045
+   },
+   {
+    "q": "2023Q3",
+    "sector": "Consumer",
+    "share": 0.00086
+   },
+   {
+    "q": "2023Q3",
+    "sector": "Energy",
+    "share": 0.00069
+   },
+   {
+    "q": "2023Q3",
+    "sector": "Utilities",
+    "share": 0.0013
+   },
+   {
+    "q": "2023Q4",
+    "sector": "Consumer",
+    "share": 0.0028
+   },
+   {
+    "q": "2023Q4",
+    "sector": "Energy",
+    "share": 0.00074
+   },
+   {
+    "q": "2023Q4",
+    "sector": "Finance",
+    "share": 5e-05
+   },
+   {
+    "q": "2023Q4",
+    "sector": "Materials",
+    "share": 0.00065
+   },
+   {
+    "q": "2023Q4",
+    "sector": "Utilities",
+    "share": 0.00119
+   },
+   {
+    "q": "2024Q1",
+    "sector": "Autos",
+    "share": 0.01493
+   },
+   {
+    "q": "2024Q1",
+    "sector": "Consumer",
+    "share": 0.00623
+   },
+   {
+    "q": "2024Q1",
+    "sector": "Energy",
+    "share": 0.02378
+   },
+   {
+    "q": "2024Q1",
+    "sector": "Finance",
+    "share": 0.00108
+   },
+   {
+    "q": "2024Q1",
+    "sector": "Healthcare",
+    "share": 0.00276
+   },
+   {
+    "q": "2024Q1",
+    "sector": "Materials",
+    "share": 0.01655
+   },
+   {
+    "q": "2024Q1",
+    "sector": "Technology",
+    "share": 0.00549
+   },
+   {
+    "q": "2024Q1",
+    "sector": "Utilities",
+    "share": 0.00823
+   },
+   {
+    "q": "2024Q2",
+    "sector": "Autos",
+    "share": 0.02028
+   },
+   {
+    "q": "2024Q2",
+    "sector": "Consumer",
+    "share": 0.0107
+   },
+   {
+    "q": "2024Q2",
+    "sector": "Energy",
+    "share": 0.02616
+   },
+   {
+    "q": "2024Q2",
+    "sector": "Finance",
+    "share": 0.0018
+   },
+   {
+    "q": "2024Q2",
+    "sector": "Healthcare",
+    "share": 0.00257
+   },
+   {
+    "q": "2024Q2",
+    "sector": "Materials",
+    "share": 0.01143
+   },
+   {
+    "q": "2024Q2",
+    "sector": "Technology",
+    "share": 0.00674
+   },
+   {
+    "q": "2024Q3",
+    "sector": "Autos",
+    "share": 0.02314
+   },
+   {
+    "q": "2024Q3",
+    "sector": "Consumer",
+    "share": 0.00367
+   },
+   {
+    "q": "2024Q3",
+    "sector": "Energy",
+    "share": 0.01372
+   },
+   {
+    "q": "2024Q3",
+    "sector": "Finance",
+    "share": 0.00201
+   },
+   {
+    "q": "2024Q3",
+    "sector": "Healthcare",
+    "share": 0.00283
+   },
+   {
+    "q": "2024Q3",
+    "sector": "Materials",
+    "share": 0.00905
+   },
+   {
+    "q": "2024Q3",
+    "sector": "Technology",
+    "share": 0.00749
+   },
+   {
+    "q": "2024Q3",
+    "sector": "Utilities",
+    "share": 0.01284
+   },
+   {
+    "q": "2024Q4",
+    "sector": "Autos",
+    "share": 0.00745
+   },
+   {
+    "q": "2024Q4",
+    "sector": "Consumer",
+    "share": 0.01752
+   },
+   {
+    "q": "2024Q4",
+    "sector": "Energy",
+    "share": 0.00725
+   },
+   {
+    "q": "2024Q4",
+    "sector": "Finance",
+    "share": 0.00099
+   },
+   {
+    "q": "2024Q4",
+    "sector": "Healthcare",
+    "share": 0.00365
+   },
+   {
+    "q": "2024Q4",
+    "sector": "Materials",
+    "share": 0.00773
+   },
+   {
+    "q": "2024Q4",
+    "sector": "Technology",
+    "share": 0.00413
+   },
+   {
+    "q": "2025Q1",
+    "sector": "Autos",
+    "share": 0.02546
+   },
+   {
+    "q": "2025Q1",
+    "sector": "Consumer",
+    "share": 0.02537
+   },
+   {
+    "q": "2025Q1",
+    "sector": "Energy",
+    "share": 0.01795
+   },
+   {
+    "q": "2025Q1",
+    "sector": "Finance",
+    "share": 0.00145
+   },
+   {
+    "q": "2025Q1",
+    "sector": "Healthcare",
+    "share": 0.00277
+   },
+   {
+    "q": "2025Q1",
+    "sector": "Materials",
+    "share": 0.00976
+   },
+   {
+    "q": "2025Q1",
+    "sector": "Supply chain",
+    "share": 0.20667
+   },
+   {
+    "q": "2025Q1",
+    "sector": "Technology",
+    "share": 0.00459
+   },
+   {
+    "q": "2025Q1",
+    "sector": "Utilities",
+    "share": 0.00619
+   },
+   {
+    "q": "2025Q2",
+    "sector": "Autos",
+    "share": 0.02319
+   },
+   {
+    "q": "2025Q2",
+    "sector": "Consumer",
+    "share": 0.01036
+   },
+   {
+    "q": "2025Q2",
+    "sector": "Energy",
+    "share": 0.01674
+   },
+   {
+    "q": "2025Q2",
+    "sector": "Finance",
+    "share": 0.00198
+   },
+   {
+    "q": "2025Q2",
+    "sector": "Healthcare",
+    "share": 0.00216
+   },
+   {
+    "q": "2025Q2",
+    "sector": "Materials",
+    "share": 0.0017
+   },
+   {
+    "q": "2025Q2",
+    "sector": "Real estate",
+    "share": 0.00622
+   },
+   {
+    "q": "2025Q2",
+    "sector": "Supply chain",
+    "share": 0.20734
+   },
+   {
+    "q": "2025Q2",
+    "sector": "Technology",
+    "share": 0.00616
+   },
+   {
+    "q": "2025Q3",
+    "sector": "Autos",
+    "share": 0.0184
+   },
+   {
+    "q": "2025Q3",
+    "sector": "Energy",
+    "share": 0.01259
+   },
+   {
+    "q": "2025Q3",
+    "sector": "Finance",
+    "share": 0.00062
+   },
+   {
+    "q": "2025Q3",
+    "sector": "Healthcare",
+    "share": 0.00261
+   },
+   {
+    "q": "2025Q3",
+    "sector": "Technology",
+    "share": 0.00328
+   },
+   {
+    "q": "2025Q3",
+    "sector": "Utilities",
+    "share": 0.00728
+   },
+   {
+    "q": "2025Q4",
+    "sector": "Autos",
+    "share": 0.03509
+   },
+   {
+    "q": "2025Q4",
+    "sector": "Energy",
+    "share": 0.01266
+   },
+   {
+    "q": "2025Q4",
+    "sector": "Finance",
+    "share": 0.00059
+   },
+   {
+    "q": "2025Q4",
+    "sector": "Healthcare",
+    "share": 0.00184
+   },
+   {
+    "q": "2025Q4",
+    "sector": "Technology",
+    "share": 0.00489
+   },
+   {
+    "q": "2026Q1",
+    "sector": "Autos",
+    "share": 0.02862
+   },
+   {
+    "q": "2026Q1",
+    "sector": "Energy",
+    "share": 0.01166
+   },
+   {
+    "q": "2026Q1",
+    "sector": "Finance",
+    "share": 0.00093
+   },
+   {
+    "q": "2026Q1",
+    "sector": "Healthcare",
+    "share": 0.00216
+   },
+   {
+    "q": "2026Q1",
+    "sector": "Materials",
+    "share": 0.00629
+   },
+   {
+    "q": "2026Q1",
+    "sector": "Supply chain",
+    "share": 0.13343
+   },
+   {
+    "q": "2026Q1",
+    "sector": "Technology",
+    "share": 0.00614
+   },
+   {
+    "q": "2026Q1",
+    "sector": "Utilities",
+    "share": 0.00323
+   },
+   {
+    "q": "2026Q2",
+    "sector": "Autos",
+    "share": 0.0346
+   },
+   {
+    "q": "2026Q2",
+    "sector": "Consumer",
+    "share": 0.00847
+   },
+   {
+    "q": "2026Q2",
+    "sector": "Energy",
+    "share": 0.01379
+   },
+   {
+    "q": "2026Q2",
+    "sector": "Finance",
+    "share": 0.00163
+   },
+   {
+    "q": "2026Q2",
+    "sector": "Healthcare",
+    "share": 0.00111
+   },
+   {
+    "q": "2026Q2",
+    "sector": "Materials",
+    "share": 0.00196
+   },
+   {
+    "q": "2026Q2",
+    "sector": "Supply chain",
+    "share": 0.14341
+   },
+   {
+    "q": "2026Q2",
+    "sector": "Technology",
+    "share": 0.00589
+   },
+   {
+    "q": "2026Q2",
+    "sector": "Utilities",
+    "share": 0.00417
+   },
+   {
+    "q": "2026Q3",
+    "sector": "Autos",
+    "share": 0.03378
+   },
+   {
+    "q": "2026Q3",
+    "sector": "Energy",
+    "share": 0.00628
+   },
+   {
+    "q": "2026Q3",
+    "sector": "Finance",
+    "share": 0.00074
+   },
+   {
+    "q": "2026Q3",
+    "sector": "Healthcare",
+    "share": 0.00084
+   },
+   {
+    "q": "2026Q3",
+    "sector": "Materials",
+    "share": 0.00549
+   },
+   {
+    "q": "2026Q3",
+    "sector": "Supply chain",
+    "share": 0.12121
+   },
+   {
+    "q": "2026Q3",
+    "sector": "Technology",
+    "share": 0.00585
+   },
+   {
+    "q": "2026Q3",
+    "sector": "Utilities",
+    "share": 0.00732
+   }
+  ],
   "rare earth": [
    {
     "q": "2016Q1",
@@ -22294,15 +22292,15 @@
   ]
  },
  "daysCollected": 121,
- "articlesStored": 13203,
- "articlesLive": 9448,
+ "articlesStored": 13206,
+ "articlesLive": 9451,
  "windowDays": 90,
  "terms": [
   {
    "id": "iron-ore",
    "term": "iron ore",
    "direction": "rising",
-   "ratio": 0.7391581632653061,
+   "ratio": 0.7389814298238624,
    "display": true,
    "adoptionSpan": 56,
    "pace": "gradual",
@@ -22892,7 +22890,7 @@
    "id": "ion-battery",
    "term": "ion battery",
    "direction": "steady",
-   "ratio": 0.5543686224489797,
+   "ratio": 0.5542360723678967,
    "display": true,
    "adoptionSpan": 34,
    "pace": "gradual",
@@ -23080,7 +23078,7 @@
      "steady",
      2,
      2,
-     507.3,
+     507.7,
      [
       {
        "title": "Battery recycling projects among DOE's latest $500M grant funding round",
@@ -23587,7 +23585,7 @@
    "id": "electric-vehicle",
    "term": "electric vehicle",
    "direction": "steady",
-   "ratio": 0.5026275510204081,
+   "ratio": 0.5025073722802263,
    "display": true,
    "adoptionSpan": 39,
    "pace": "gradual",
@@ -23855,7 +23853,7 @@
      "new",
      4,
      0,
-     107.4,
+     107.5,
      [
       {
        "title": "Octillion adds 3 GWh of battery capacity in India",
@@ -23907,7 +23905,7 @@
      "steady",
      2,
      2,
-     53.7,
+     53.8,
      [
       {
        "title": "California earmarks $95 million for ZEV infrastructure",
@@ -24434,7 +24432,7 @@
    "id": "low-carbon",
    "term": "low carbon",
    "direction": "rising",
-   "ratio": 1.2319302721088436,
+   "ratio": 1.2316357163731038,
    "display": true,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -25075,7 +25073,7 @@
    "id": "value-chain",
    "term": "value chain",
    "direction": "rising",
-   "ratio": 1.2935267857142856,
+   "ratio": 1.293217502191759,
    "display": true,
    "adoptionSpan": 19,
    "pace": "mixed",
@@ -25653,7 +25651,7 @@
    "id": "electricity-demand",
    "term": "electricity demand",
    "direction": "steady",
-   "ratio": 0.5543686224489796,
+   "ratio": 0.5542360723678967,
    "display": true,
    "adoptionSpan": 51,
    "pace": "gradual",
@@ -25801,7 +25799,7 @@
      "new",
      4,
      0,
-     253.7,
+     253.8,
      [
       {
        "title": "The Forgotten Generation: Why Cogeneration is Re-Emerging in the Age of AI",
@@ -25846,7 +25844,7 @@
      "steady",
      2,
      2,
-     108.7,
+     108.8,
      [
       {
        "title": "The Forgotten Generation: Why Cogeneration is Re-Emerging in the Age of AI",
@@ -26356,7 +26354,7 @@
    "id": "digital-twin",
    "term": "digital twin",
    "direction": "rising",
-   "ratio": 0.739158163265306,
+   "ratio": 0.7389814298238623,
    "display": true,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -26990,7 +26988,7 @@
    "id": "clean-energy",
    "term": "clean energy",
    "direction": "falling",
-   "ratio": 0.23843811718235683,
+   "ratio": 0.2383811063947943,
    "display": true,
    "adoptionSpan": 58,
    "pace": "gradual",
@@ -27276,7 +27274,7 @@
      "steady",
      4,
      4,
-     76.1,
+     76.2,
      [
       {
        "title": "As Ohio grapples with fake comments on clean energy, some want crackdown",
@@ -27810,7 +27808,7 @@
    "id": "battery-cell",
    "term": "battery cell",
    "direction": "rising",
-   "ratio": 1.2319302721088436,
+   "ratio": 1.2316357163731038,
    "display": true,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -28002,7 +28000,7 @@
      "new",
      4,
      0,
-     53.7,
+     53.8,
      [
       {
        "title": "In Michigan, LG opens one of America's biggest battery cell factories",
@@ -28494,7 +28492,7 @@
    "id": "charging-network",
    "term": "charging network",
    "direction": "rising",
-   "ratio": 0.8623511904761905,
+   "ratio": 0.8621450014611728,
    "display": true,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -29047,7 +29045,7 @@
    "id": "natural-gas",
    "term": "natural gas",
    "direction": "falling",
-   "ratio": 0.2091957065845206,
+   "ratio": 0.20914568768599873,
    "display": true,
    "adoptionSpan": 44,
    "pace": "gradual",
@@ -29058,9 +29056,9 @@
    "daysSinceNewestSector": 21,
    "articles14d": 30,
    "articlesPrior14d": 53,
-   "publishers": 13,
-   "events": 30,
-   "topPubShare": 0.467,
+   "publishers": 14,
+   "events": 31,
+   "topPubShare": 0.452,
    "sectors": [
     {
      "name": "Energy",
@@ -29069,8 +29067,8 @@
      "articles": 46,
      "share": 0.56,
      "atSectorStart": false,
-     "grip": 0.167,
-     "outlets": 1,
+     "grip": 0.333,
+     "outlets": 2,
      "adopt": 24
     },
     {
@@ -29358,7 +29356,7 @@
      "falling",
      2,
      6,
-     152.2,
+     152.3,
      [
       {
        "title": "Norway's Oil Output Falls Nearly 200,000 Bpd as Gulf Supply Crisis Drags On",
@@ -29440,6 +29438,15 @@
     ]
    ],
    "examples": [
+    {
+     "publisher": "ET Energyworld",
+     "title": "ONGC plans $200 million investment to revive Venezuela oilfield",
+     "url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/ongc-plans-200-million-investment-to-revive-venezuela-oilfield/133528283",
+     "date": "2026-08-26",
+     "sector": "Energy",
+     "country": "IN",
+     "quote": "Oil and \u2f00Natural Gas\u2f01 Corporationplans $200 million Venezuela oilfield revival, targets output recovery and unlocking $500 million\u2026"
+    },
     {
      "publisher": "CFO Dive",
      "title": "Targa grants new CFO hefty long-term incentive",
@@ -29538,15 +29545,6 @@
      "sector": "Energy",
      "country": "US",
      "quote": "\u2026produced 183,000 barrels per day of \u2f00natural gas\u2f01 liquids and 17,000 barrels per day of condensate, bringing total liquids production to 1.976 million barrels\u2026"
-    },
-    {
-     "publisher": "Utility Dive",
-     "title": "Electric co-ops press for repeal of gas power plant emissions rules",
-     "url": "https://www.utilitydive.com/news/electric-co-ops-repeal-epa-gas-power-plant-emissions-rules/828377/",
-     "date": "2026-08-20",
-     "sector": "Utilities",
-     "country": "US",
-     "quote": "\u2026m Matheson. \u201cWe all understand that \u2f00natural gas\u2f01 is the go-to for new generation in this country.\u201d"
     }
    ],
    "daily": [
@@ -29917,13 +29915,13 @@
    "homeShare": 0.56,
    "daysSeen": 9,
    "rank": 0.796,
-   "nearShare": 0.159
+   "nearShare": 0.061
   },
   {
    "id": "solar-generation",
    "term": "solar generation",
    "direction": "rising",
-   "ratio": 0.9855442176870748,
+   "ratio": 0.9853085730984831,
    "display": true,
    "adoptionSpan": 9,
    "pace": "mixed",
@@ -30060,7 +30058,7 @@
      "new",
      4,
      0,
-     49.6,
+     49.7,
      [
       {
        "title": "Edify reaches renewable energy milestone",
@@ -30527,7 +30525,7 @@
    "id": "grid-scale",
    "term": "grid scale",
    "direction": "rising",
-   "ratio": 0.739158163265306,
+   "ratio": 0.7389814298238623,
    "display": true,
    "adoptionSpan": 37,
    "pace": "gradual",
@@ -30642,7 +30640,7 @@
      "rising",
      4,
      2,
-     68.1,
+     68.2,
      [
       {
        "title": "40 GW project pipeline has Australia's energy transition on track",
@@ -31080,7 +31078,7 @@
    "id": "low-water",
    "term": "low water",
    "direction": "rising",
-   "ratio": 1.108737244897959,
+   "ratio": 1.1084721447357933,
    "display": true,
    "adoptionSpan": 5,
    "pace": "simultaneous",
@@ -31235,7 +31233,7 @@
      "new",
      4,
      0,
-     405.9,
+     406.1,
      [
       {
        "title": "Amazon drought triggers container surcharges of up to $1,900",
@@ -31266,7 +31264,7 @@
      "new",
      4,
      0,
-     202.9,
+     203.1,
      [
       {
        "title": "Rhine low water crisis due to \u2018decades of delay in modernising infrastructure'",
@@ -31767,13 +31765,13 @@
    "homeShare": 0.714,
    "daysSeen": 8,
    "rank": 0.753,
-   "nearShare": 0.218
+   "nearShare": 0.182
   },
   {
    "id": "energy-efficiency",
    "term": "energy efficiency",
    "direction": "falling",
-   "ratio": 0.3233816964285714,
+   "ratio": 0.3233043755479397,
    "display": true,
    "adoptionSpan": 56,
    "pace": "gradual",
@@ -32434,7 +32432,7 @@
    "id": "utility-scale",
    "term": "utility scale",
    "direction": "falling",
-   "ratio": 0.3023828849721707,
+   "ratio": 0.30231058492794366,
    "display": true,
    "adoptionSpan": 32,
    "pace": "gradual",
@@ -32571,7 +32569,7 @@
      "rising",
      4,
      2,
-     126.8,
+     126.9,
      [
       {
        "title": "Are conventional BESS degradation guarantees restricting asset value?",
@@ -33047,7 +33045,7 @@
    "id": "self-sufficiency",
    "term": "self sufficiency",
    "direction": "rising",
-   "ratio": 2.956632653061224,
+   "ratio": 2.955925719295449,
    "display": true,
    "adoptionSpan": 22,
    "pace": "mixed",
@@ -33626,7 +33624,7 @@
    "id": "grid-connection",
    "term": "grid connection",
    "direction": "steady",
-   "ratio": 0.369579081632653,
+   "ratio": 0.36949071491193114,
    "display": true,
    "adoptionSpan": 15,
    "pace": "mixed",
@@ -34243,672 +34241,10 @@
    "nearShare": 0.152
   },
   {
-   "id": "red-sea",
-   "term": "red sea",
-   "direction": "falling",
-   "ratio": 0.29311444405348347,
-   "display": true,
-   "adoptionSpan": 17,
-   "pace": "mixed",
-   "kind": "place",
-   "sectorCount": 2,
-   "effectiveSectors": 1.86,
-   "newestSector": "Energy",
-   "daysSinceNewestSector": 24,
-   "articles14d": 23,
-   "articlesPrior14d": 29,
-   "publishers": 7,
-   "events": 24,
-   "topPubShare": 0.333,
-   "sectors": [
-    {
-     "name": "Supply chain",
-     "firstSeen": "2026-07-16",
-     "recent": 15,
-     "articles": 38,
-     "share": 0.652,
-     "atSectorStart": false,
-     "grip": 0.714,
-     "outlets": 5,
-     "adopt": 48
-    },
-    {
-     "name": "Energy",
-     "firstSeen": "2026-08-02",
-     "recent": 8,
-     "articles": 17,
-     "share": 0.348,
-     "atSectorStart": false,
-     "grip": 0.5,
-     "outlets": 3,
-     "adopt": 65
-    }
-   ],
-   "sinceStart": false,
-   "origins": [
-    [
-     "US",
-     21
-    ],
-    [
-     "SG",
-     18
-    ],
-    [
-     "GR",
-     11
-    ],
-    [
-     "GB",
-     6
-    ],
-    [
-     "IN",
-     2
-    ]
-   ],
-   "flow": {
-    "weeks": [
-     "2026-05-29",
-     "2026-06-05",
-     "2026-06-12",
-     "2026-06-19",
-     "2026-06-26",
-     "2026-07-03",
-     "2026-07-10",
-     "2026-07-17",
-     "2026-07-24",
-     "2026-07-31",
-     "2026-08-07",
-     "2026-08-14",
-     "2026-08-21"
-    ],
-    "bands": [
-     {
-      "sector": "Supply chain",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       1,
-       1,
-       7,
-       14,
-       6,
-       8
-      ]
-     },
-     {
-      "sector": "Energy",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       5,
-       4,
-       5,
-       3
-      ]
-     },
-     {
-      "sector": "Finance",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       2,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Consumer",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "cooc": [
-    [
-     "export route",
-     1.0,
-     "new",
-     4,
-     0,
-     264.7,
-     [
-      {
-       "title": "Houthi strike hits Saudi VLCC off Yanbu",
-       "url": "https://splash247.com/houthi-strike-hits-saudi-vlcc-off-yanbu/",
-       "publisher": "Splash247",
-       "sector": "Supply chain",
-       "quote": "\u2026's most important alternative crude \u2f00export routes\u2f01. The 320,926 dwt Amzan was hit around 63 nautical miles west of Yanbu on August 24. UK Maritime Trade Operati\u2026"
-      },
-      {
-       "title": "Saudi Aramco Gives Full September Oil Allocations to 3 European Refiners",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramco-Gives-Full-September-Oil-Allocations-to-3-European-Refiners.html",
-       "publisher": "OilPrice",
-       "sector": "Energy",
-       "quote": "\u2026e war disrupts the kingdom's normal \u2f00export routes\u2f01, Bloomberg reported on Wednesday via The Edge Malaysia. Two European refiners will take their barrels from Eg\u2026"
-      }
-     ]
-    ]
-   ],
-   "examples": [
-    {
-     "publisher": "The Loadstar",
-     "title": "MSC schedules more east-west liner services for Suez Canal transit",
-     "url": "https://theloadstar.com/msc-schedules-more-east-west-liner-services-for-suez-canal-transit/",
-     "date": "2026-08-25",
-     "sector": "Supply chain",
-     "country": "GB",
-     "quote": "\u2026lliance in a cautious return to the \u2f00Red Sea\u2f01 route. The move follows last week's announcement that the world's largest container shipping line would be se\u2026"
-    },
-    {
-     "publisher": "Splash247",
-     "title": "Houthi strike hits Saudi VLCC off Yanbu",
-     "url": "https://splash247.com/houthi-strike-hits-saudi-vlcc-off-yanbu/",
-     "date": "2026-08-25",
-     "sector": "Supply chain",
-     "country": "SG",
-     "quote": "\u2026en struck off Yanbu in the northern \u2f00Red Sea\u2f01, extending the Houthi campaign against Saudi shipping to one of the kingdom's most important alternative crud\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Japan Holds Off on New Oil Reserve Release Despite September Import Drop",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Holds-Off-on-New-Oil-Reserve-Release-Despite-September-Import-Drop.html",
-     "date": "2026-08-25",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026threaten attacks on vessels in the \u2f00Red Sea\u2f01\u2026"
-    },
-    {
-     "publisher": "Container News",
-     "title": "MSC partially restores Suez Canal transits",
-     "url": "https://container-news.com/msc-partially-restores-suez-canal-transits/",
-     "date": "2026-08-25",
-     "sector": "Supply chain",
-     "country": "GR",
-     "quote": "\u2026y and operational conditions in the \u2f00Red Sea\u2f01 region. The change covers both westbound and eastbound voyages. Services returning to the Suez Canal The tran\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Houthis Target Saudi Oil Tanker in \u2f00Red Sea\u2f01 Missile and Drone Attack",
-     "url": "https://oilprice.com/Geopolitics/Middle-East/Houthis-Target-Saudi-Oil-Tanker-in-Red-Sea-Missile-and-Drone-Attack.html",
-     "date": "2026-08-24",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026d the Saudi oil tanker Amzan in the \u2f00Red Sea\u2f01 off Yanbu with a ballistic missile and drones, the Iran-aligned militant group announced. Soon after initial\u2026"
-    },
-    {
-     "publisher": "Seatrade Maritime",
-     "title": "Saudi-flagged tanker hit by missile in \u2f00Red Sea\u2f01",
-     "url": "https://www.seatrade-maritime.com/security/saudi-flagged-tanker-hit-by-missile-in-red-sea",
-     "date": "2026-08-24",
-     "sector": "Supply chain",
-     "country": "SG",
-     "quote": "\u2026rabia's rerouted oil exports in the \u2f00Red Sea\u2f01."
-    },
-    {
-     "publisher": "Container News",
-     "title": "ONE revises \u2f00Red Sea\u2f01 service coverage",
-     "url": "https://container-news.com/one-revises-red-sea-service-coverage/",
-     "date": "2026-08-23",
-     "sector": "Supply chain",
-     "country": "GR",
-     "quote": "\u2026services connecting China with the \u2f00Red Sea\u2f01. The carrier will leave the RCS service operated by Global Feeder Shipping, Regional Container Lines and T.S.\u2026"
-    },
-    {
-     "publisher": "Container News",
-     "title": "Carriers revise regional services across Europe, Asia and \u2f00Red Sea\u2f01",
-     "url": "https://container-news.com/carriers-revise-regional-services-across-europe-asia-and-red-sea/",
-     "date": "2026-08-22",
-     "sector": "Supply chain",
-     "country": "GR",
-     "quote": "\u2026egional services across Europe, the \u2f00Red Sea\u2f01 and Asia. The updates include new port connections, revised rotations and changes to existing slot arrangemen\u2026"
-    },
-    {
-     "publisher": "Container News",
-     "title": "MSC extends Himalaya Express to Egypt and Saudi Arabia",
-     "url": "https://container-news.com/msc-extends-himalaya-express-to-egypt-and-saudi-arabia/",
-     "date": "2026-08-22",
-     "sector": "Supply chain",
-     "country": "GR",
-     "quote": "\u2026will add coverage in Egypt and the \u2f00Red Sea\u2f01 while changing its calls in T\u00fcrkiye, according to DynaLiners. Despite the new Red Sea port calls, the Himalay\u2026"
-    },
-    {
-     "publisher": "Supply Chain Dive",
-     "title": "Port of Los Angeles preps for cargo bump as shippers navigate global risks",
-     "url": "https://www.supplychaindive.com/news/port-of-los-angeles-preps-for-cargo-bump-as-shippers-navigate-global-risks/828376/",
-     "date": "2026-08-21",
-     "sector": "Supply chain",
-     "country": "US",
-     "quote": "\u2026ort may see a 5% volume uptick amid \u2f00Red Sea\u2f01 and Panama Canal concerns and is readying itself for the scenario in talks with operating partners."
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Saudi Oil Exports from Mediterranean Soar with Shuttles North to Avoid Houthis",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Oil-Exports-from-Mediterranean-Soar-with-Shuttles-North-to-Avoid-Houthis.html",
-     "date": "2026-08-21",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026Saudi oil shipments in the southern \u2f00Red Sea\u2f01 and the Bab el-Mandeb Strait, tanker-tracking data compiled by Bloomberg showed on Friday. Saudi state oil gi\u2026"
-    },
-    {
-     "publisher": "Container News",
-     "title": "Explainer: Is there any Saudi Arabia's quiet pivot?",
-     "url": "https://container-news.com/explainer-is-there-any-saudi-arabias-quiet-pivot/",
-     "date": "2026-08-20",
-     "sector": "Supply chain",
-     "country": "GR",
-     "quote": "As Houthi strikes disable its \u2f00Red Sea\u2f01 bypass, Riyadh appears to be shuttling Persian Gulf crude through offshore transfers near Oman borrowing an E\u2026"
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-05-29",
-     "n": 0
-    },
-    {
-     "day": "2026-05-30",
-     "n": 0
-    },
-    {
-     "day": "2026-05-31",
-     "n": 0
-    },
-    {
-     "day": "2026-06-01",
-     "n": 0
-    },
-    {
-     "day": "2026-06-02",
-     "n": 0
-    },
-    {
-     "day": "2026-06-03",
-     "n": 0
-    },
-    {
-     "day": "2026-06-04",
-     "n": 0
-    },
-    {
-     "day": "2026-06-05",
-     "n": 0
-    },
-    {
-     "day": "2026-06-06",
-     "n": 0
-    },
-    {
-     "day": "2026-06-07",
-     "n": 0
-    },
-    {
-     "day": "2026-06-08",
-     "n": 0
-    },
-    {
-     "day": "2026-06-09",
-     "n": 0
-    },
-    {
-     "day": "2026-06-10",
-     "n": 0
-    },
-    {
-     "day": "2026-06-11",
-     "n": 0
-    },
-    {
-     "day": "2026-06-12",
-     "n": 0
-    },
-    {
-     "day": "2026-06-13",
-     "n": 0
-    },
-    {
-     "day": "2026-06-14",
-     "n": 0
-    },
-    {
-     "day": "2026-06-15",
-     "n": 0
-    },
-    {
-     "day": "2026-06-16",
-     "n": 0
-    },
-    {
-     "day": "2026-06-17",
-     "n": 0
-    },
-    {
-     "day": "2026-06-18",
-     "n": 0
-    },
-    {
-     "day": "2026-06-19",
-     "n": 0
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 0
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 1
-    },
-    {
-     "day": "2026-07-17",
-     "n": 1
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 4
-    },
-    {
-     "day": "2026-07-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 0
-    },
-    {
-     "day": "2026-08-02",
-     "n": 1
-    },
-    {
-     "day": "2026-08-03",
-     "n": 3
-    },
-    {
-     "day": "2026-08-04",
-     "n": 1
-    },
-    {
-     "day": "2026-08-05",
-     "n": 6
-    },
-    {
-     "day": "2026-08-06",
-     "n": 1
-    },
-    {
-     "day": "2026-08-07",
-     "n": 4
-    },
-    {
-     "day": "2026-08-08",
-     "n": 0
-    },
-    {
-     "day": "2026-08-09",
-     "n": 0
-    },
-    {
-     "day": "2026-08-10",
-     "n": 2
-    },
-    {
-     "day": "2026-08-11",
-     "n": 5
-    },
-    {
-     "day": "2026-08-12",
-     "n": 6
-    },
-    {
-     "day": "2026-08-13",
-     "n": 1
-    },
-    {
-     "day": "2026-08-14",
-     "n": 2
-    },
-    {
-     "day": "2026-08-15",
-     "n": 0
-    },
-    {
-     "day": "2026-08-16",
-     "n": 0
-    },
-    {
-     "day": "2026-08-17",
-     "n": 4
-    },
-    {
-     "day": "2026-08-18",
-     "n": 3
-    },
-    {
-     "day": "2026-08-19",
-     "n": 1
-    },
-    {
-     "day": "2026-08-20",
-     "n": 1
-    },
-    {
-     "day": "2026-08-21",
-     "n": 2
-    },
-    {
-     "day": "2026-08-22",
-     "n": 2
-    },
-    {
-     "day": "2026-08-23",
-     "n": 1
-    },
-    {
-     "day": "2026-08-24",
-     "n": 2
-    },
-    {
-     "day": "2026-08-25",
-     "n": 4
-    },
-    {
-     "day": "2026-08-26",
-     "n": 0
-    }
-   ],
-   "relRatio": 0.64,
-   "docFreq": 0.0018,
-   "specificity": 0.939,
-   "homeShare": 0.652,
-   "daysSeen": 11,
-   "rank": 0.652,
-   "nearShare": 0.195
-  },
-  {
    "id": "tariff-refund",
    "term": "tariff refund",
    "direction": "falling",
-   "ratio": 0.31678206997084546,
+   "ratio": 0.31670632706736956,
    "display": true,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -35475,7 +34811,7 @@
    "id": "solid-state",
    "term": "solid state",
    "direction": "falling",
-   "ratio": 0.2687847866419295,
+   "ratio": 0.2687205199359499,
    "display": true,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -36101,7 +35437,7 @@
    "id": "offshore-wind",
    "term": "offshore wind",
    "direction": "falling",
-   "ratio": 0.19900412087912087,
+   "ratio": 0.19895653879873215,
    "display": true,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -36708,7 +36044,7 @@
    "id": "autonomous-vehicle",
    "term": "autonomous vehicle",
    "direction": "steady",
-   "ratio": 0.3695790816326531,
+   "ratio": 0.3694907149119312,
    "display": true,
    "adoptionSpan": 3,
    "pace": "simultaneous",
@@ -37313,7 +36649,7 @@
    "id": "quantum-computing",
    "term": "quantum computing",
    "direction": "rising",
-   "ratio": 0.6159651360544218,
+   "ratio": 0.6158178581865519,
    "display": true,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -37899,571 +37235,10 @@
    "apart": true
   },
   {
-   "id": "battery-plant",
-   "term": "battery plant",
-   "direction": "steady",
-   "ratio": 0.5543686224489796,
-   "display": true,
-   "adoptionSpan": 20,
-   "pace": "mixed",
-   "kind": "concept",
-   "sectorCount": 2,
-   "effectiveSectors": 1.84,
-   "newestSector": "Technology",
-   "daysSinceNewestSector": 22,
-   "articles14d": 6,
-   "articlesPrior14d": 4,
-   "publishers": 4,
-   "events": 6,
-   "topPubShare": 0.5,
-   "sectors": [
-    {
-     "name": "Autos",
-     "firstSeen": "2026-07-15",
-     "recent": 4,
-     "articles": 7,
-     "share": 0.667,
-     "atSectorStart": false,
-     "grip": 0.75,
-     "outlets": 3,
-     "adopt": 47
-    },
-    {
-     "name": "Technology",
-     "firstSeen": "2026-08-04",
-     "recent": 2,
-     "articles": 3,
-     "share": 0.333,
-     "atSectorStart": false,
-     "grip": 0.333,
-     "outlets": 3,
-     "adopt": 67
-    }
-   ],
-   "sinceStart": false,
-   "origins": [
-    [
-     "US",
-     8
-    ],
-    [
-     "DE",
-     1
-    ],
-    [
-     "KR",
-     1
-    ],
-    [
-     "TW",
-     1
-    ]
-   ],
-   "flow": {
-    "weeks": [
-     "2026-05-29",
-     "2026-06-05",
-     "2026-06-12",
-     "2026-06-19",
-     "2026-06-26",
-     "2026-07-03",
-     "2026-07-10",
-     "2026-07-17",
-     "2026-07-24",
-     "2026-07-31",
-     "2026-08-07",
-     "2026-08-14",
-     "2026-08-21"
-    ],
-    "bands": [
-     {
-      "sector": "Autos",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0,
-       3,
-       3,
-       0
-      ]
-     },
-     {
-      "sector": "Technology",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       1,
-       0,
-       1
-      ]
-     },
-     {
-      "sector": "Industrials",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "cooc": [],
-   "examples": [
-    {
-     "publisher": "The Elec",
-     "title": "Samsung SDI to Raise 4.45 Trillion Won From Samsung Display Stake Sale",
-     "url": "https://www.thelec.net/news/articleView.html?idxno=13255",
-     "date": "2026-08-23",
-     "sector": "Technology",
-     "country": "KR",
-     "quote": "\u2026tments including Synergy Cells, the \u2f00battery plant\u2f01 in Indiana where Samsung SDI ended its joint venture with General Motors (GM).Samsung SDI said on Aug."
-    },
-    {
-     "publisher": "Just Auto",
-     "title": "LGES starts production at Lansing \u2f00battery plant\u2f01 in US",
-     "url": "https://www.just-auto.com/news/lges-production-lansing-battery-plant/",
-     "date": "2026-08-19",
-     "sector": "Autos",
-     "country": "US",
-     "quote": ""
-    },
-    {
-     "publisher": "Electrive",
-     "title": "LG Energy Solution launches battery production in Lansing",
-     "url": "https://www.electrive.com/2026/08/19/lg-energy-solution-launches-battery-production-in-lansing/",
-     "date": "2026-08-19",
-     "sector": "Autos",
-     "country": "DE",
-     "quote": "\u2026has launched production at its new \u2f00battery plant\u2f01 in Lansing, Michigan, USA. Originally a joint venture with GM, the factory now belongs entirely to the Korean\u2026"
-    },
-    {
-     "publisher": "Just Auto",
-     "title": "Ultium Cells to restart production at Ohio \u2f00battery plant\u2f01",
-     "url": "https://www.just-auto.com/news/ultium-cells-to-restart-production-at-ohio-battery-plant/",
-     "date": "2026-08-14",
-     "sector": "Autos",
-     "country": "US",
-     "quote": ""
-    },
-    {
-     "publisher": "Just Auto",
-     "title": "Octillion opens third EV \u2f00battery plant\u2f01 in India",
-     "url": "https://www.just-auto.com/news/octillion-opens-third-ev-battery-plant-in-india/",
-     "date": "2026-08-13",
-     "sector": "Autos",
-     "country": "US",
-     "quote": ""
-    },
-    {
-     "publisher": "Data Center Dynamics",
-     "title": "Form Energy raises $750m to expand West Virginia iron-air \u2f00battery plant\u2f01 to meet surging data center demand",
-     "url": "https://www.datacenterdynamics.com/en/news/form-energy-raises-750m-to-expand-west-virginia-iron-air-battery-plant-to-meet-surging-data-center-demand/",
-     "date": "2026-08-13",
-     "sector": "Technology",
-     "country": "US",
-     "quote": ""
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-05-29",
-     "n": 0
-    },
-    {
-     "day": "2026-05-30",
-     "n": 0
-    },
-    {
-     "day": "2026-05-31",
-     "n": 0
-    },
-    {
-     "day": "2026-06-01",
-     "n": 0
-    },
-    {
-     "day": "2026-06-02",
-     "n": 0
-    },
-    {
-     "day": "2026-06-03",
-     "n": 0
-    },
-    {
-     "day": "2026-06-04",
-     "n": 0
-    },
-    {
-     "day": "2026-06-05",
-     "n": 0
-    },
-    {
-     "day": "2026-06-06",
-     "n": 0
-    },
-    {
-     "day": "2026-06-07",
-     "n": 0
-    },
-    {
-     "day": "2026-06-08",
-     "n": 0
-    },
-    {
-     "day": "2026-06-09",
-     "n": 0
-    },
-    {
-     "day": "2026-06-10",
-     "n": 0
-    },
-    {
-     "day": "2026-06-11",
-     "n": 0
-    },
-    {
-     "day": "2026-06-12",
-     "n": 0
-    },
-    {
-     "day": "2026-06-13",
-     "n": 0
-    },
-    {
-     "day": "2026-06-14",
-     "n": 0
-    },
-    {
-     "day": "2026-06-15",
-     "n": 0
-    },
-    {
-     "day": "2026-06-16",
-     "n": 0
-    },
-    {
-     "day": "2026-06-17",
-     "n": 0
-    },
-    {
-     "day": "2026-06-18",
-     "n": 0
-    },
-    {
-     "day": "2026-06-19",
-     "n": 0
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 0
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 1
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 0
-    },
-    {
-     "day": "2026-07-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 0
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 0
-    },
-    {
-     "day": "2026-08-04",
-     "n": 1
-    },
-    {
-     "day": "2026-08-05",
-     "n": 0
-    },
-    {
-     "day": "2026-08-06",
-     "n": 0
-    },
-    {
-     "day": "2026-08-07",
-     "n": 0
-    },
-    {
-     "day": "2026-08-08",
-     "n": 0
-    },
-    {
-     "day": "2026-08-09",
-     "n": 0
-    },
-    {
-     "day": "2026-08-10",
-     "n": 0
-    },
-    {
-     "day": "2026-08-11",
-     "n": 2
-    },
-    {
-     "day": "2026-08-12",
-     "n": 1
-    },
-    {
-     "day": "2026-08-13",
-     "n": 2
-    },
-    {
-     "day": "2026-08-14",
-     "n": 1
-    },
-    {
-     "day": "2026-08-15",
-     "n": 0
-    },
-    {
-     "day": "2026-08-16",
-     "n": 0
-    },
-    {
-     "day": "2026-08-17",
-     "n": 0
-    },
-    {
-     "day": "2026-08-18",
-     "n": 0
-    },
-    {
-     "day": "2026-08-19",
-     "n": 2
-    },
-    {
-     "day": "2026-08-20",
-     "n": 0
-    },
-    {
-     "day": "2026-08-21",
-     "n": 0
-    },
-    {
-     "day": "2026-08-22",
-     "n": 0
-    },
-    {
-     "day": "2026-08-23",
-     "n": 1
-    },
-    {
-     "day": "2026-08-24",
-     "n": 0
-    },
-    {
-     "day": "2026-08-25",
-     "n": 0
-    },
-    {
-     "day": "2026-08-26",
-     "n": 0
-    }
-   ],
-   "relRatio": 1.21,
-   "docFreq": 0.0005,
-   "specificity": 0.984,
-   "homeShare": 0.667,
-   "daysSeen": 4,
-   "rank": 0.702,
-   "nearShare": 0.185
-  },
-  {
    "id": "artificial-intelligence",
    "term": "artificial intelligence",
    "direction": "steady",
-   "ratio": 0.4602939471243043,
+   "ratio": 0.46018389039031427,
    "display": false,
    "adoptionSpan": 75,
    "pace": "gradual",
@@ -38889,7 +37664,7 @@
      "new",
      4,
      0,
-     33.3,
+     33.4,
      [
       {
        "title": "AVEVA CEO: Sustainability Commitments Must Be Backed by Measurable Results",
@@ -39460,7 +38235,7 @@
    "id": "supply-chain",
    "term": "supply chain",
    "direction": "steady",
-   "ratio": 0.5174107142857143,
+   "ratio": 0.5172870008767035,
    "display": false,
    "adoptionSpan": 70,
    "pace": "gradual",
@@ -39844,7 +38619,7 @@
      "steady",
      4,
      4,
-     62.1,
+     62.2,
      [
       {
        "title": "India now moving to build deeper supply chain of electronics manufacturing: Vaishnaw",
@@ -40405,7 +39180,7 @@
    "id": "power-supply",
    "term": "power supply",
    "direction": "steady",
-   "ratio": 0.5913265306122448,
+   "ratio": 0.5911851438590898,
    "display": false,
    "adoptionSpan": 5,
    "pace": "simultaneous",
@@ -41006,7 +39781,7 @@
    "id": "iran-war",
    "term": "iran war",
    "direction": "steady",
-   "ratio": 0.369579081632653,
+   "ratio": 0.36949071491193114,
    "display": false,
    "adoptionSpan": 43,
    "pace": "gradual",
@@ -41732,7 +40507,7 @@
    "id": "lng-carrier",
    "term": "lng carrier",
    "direction": "steady",
-   "ratio": 0.5279701166180758,
+   "ratio": 0.5278438784456159,
    "display": false,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -42310,7 +41085,7 @@
    "id": "solar-cell",
    "term": "solar cell",
    "direction": "steady",
-   "ratio": 0.5543686224489797,
+   "ratio": 0.5542360723678967,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -42893,7 +41668,7 @@
    "id": "battery-electric",
    "term": "battery electric",
    "direction": "steady",
-   "ratio": 0.5749007936507936,
+   "ratio": 0.5747633343074485,
    "display": false,
    "adoptionSpan": 9,
    "pace": "mixed",
@@ -43565,7 +42340,7 @@
    "id": "scale-solar",
    "term": "scale solar",
    "direction": "steady",
-   "ratio": 0.4434948979591837,
+   "ratio": 0.44338885789431737,
    "display": false,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -44103,7 +42878,7 @@
    "id": "fossil-fuel",
    "term": "fossil fuel",
    "direction": "steady",
-   "ratio": 0.40317717996289426,
+   "ratio": 0.4030807799039249,
    "display": false,
    "adoptionSpan": 17,
    "pace": "mixed",
@@ -44781,7 +43556,7 @@
    "id": "raw-material",
    "term": "raw material",
    "direction": "steady",
-   "ratio": 0.40653698979591835,
+   "ratio": 0.4064397864031243,
    "display": false,
    "adoptionSpan": 31,
    "pace": "gradual",
@@ -45443,7 +44218,7 @@
    "id": "crude-oil",
    "term": "crude oil",
    "direction": "falling",
-   "ratio": 0.2771843112244898,
+   "ratio": 0.27711803618394837,
    "display": false,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -45612,7 +44387,7 @@
      "steady",
      2,
      2,
-     234.2,
+     234.3,
      [
       {
        "title": "Norway's Oil Output Falls Nearly 200,000 Bpd as Gulf Supply Crisis Drags On",
@@ -46114,7 +44889,7 @@
    "id": "real-estate",
    "term": "real estate",
    "direction": "falling",
-   "ratio": 0.2795534079016222,
+   "ratio": 0.2794865664077428,
    "display": false,
    "adoptionSpan": 66,
    "pace": "gradual",
@@ -46865,7 +45640,7 @@
    "id": "power-generation",
    "term": "power generation",
    "direction": "falling",
-   "ratio": 0.12319302721088435,
+   "ratio": 0.12316357163731038,
    "display": false,
    "adoptionSpan": 42,
    "pace": "gradual",
@@ -47093,7 +45868,7 @@
      "new",
      4,
      0,
-     869.7,
+     870.3,
      [
       {
        "title": "DCD Talks: Natural gas as a bridge to AI scale with Stiven Smith, Cummins",
@@ -47117,7 +45892,7 @@
      "new",
      4,
      0,
-     521.8,
+     522.2,
      [
       {
        "title": "Infineon buys India-based C2i Semiconductors to bolster AI data center power systems",
@@ -47186,7 +45961,7 @@
      "steady",
      2,
      2,
-     108.7,
+     108.8,
      [
       {
        "title": "The Forgotten Generation: Why Cogeneration is Re-Emerging in the Age of AI",
@@ -47650,7 +46425,7 @@
    "id": "supply-constraint",
    "term": "supply constraint",
    "direction": "steady",
-   "ratio": 0.4434948979591837,
+   "ratio": 0.44338885789431737,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -48257,7 +47032,7 @@
    "id": "data-center",
    "term": "data center",
    "direction": "steady",
-   "ratio": 0.4007157808178216,
+   "ratio": 0.40197341512396906,
    "display": false,
    "adoptionSpan": 61,
    "pace": "gradual",
@@ -48266,7 +47041,7 @@
    "effectiveSectors": 2.97,
    "newestSector": "Supply chain",
    "daysSinceNewestSector": 26,
-   "articles14d": 296,
+   "articles14d": 297,
    "articlesPrior14d": 273,
    "publishers": 23,
    "events": 270,
@@ -48297,9 +47072,9 @@
     {
      "name": "Technology",
      "firstSeen": "2026-06-01",
-     "recent": 224,
-     "articles": 449,
-     "share": 0.767,
+     "recent": 225,
+     "articles": 450,
+     "share": 0.768,
      "atSectorStart": false,
      "grip": 0.667,
      "outlets": 6,
@@ -48380,7 +47155,7 @@
     ],
     [
      "TW",
-     99
+     100
     ],
     [
      "KR",
@@ -48431,7 +47206,7 @@
        98,
        123,
        121,
-       74
+       75
       ]
      },
      {
@@ -49227,7 +48002,7 @@
     },
     {
      "day": "2026-08-26",
-     "n": 2
+     "n": 3
     }
    ],
    "variants": [
@@ -49237,17 +48012,678 @@
     "energy demand"
    ],
    "relRatio": 0.88,
-   "docFreq": 0.0236,
-   "specificity": 0.213,
-   "homeShare": 0.767,
+   "docFreq": 0.0237,
+   "specificity": 0.211,
+   "homeShare": 0.768,
    "daysSeen": 14,
    "rank": 0.663
+  },
+  {
+   "id": "red-sea",
+   "term": "red sea",
+   "direction": "falling",
+   "ratio": 0.29304436010256607,
+   "display": false,
+   "adoptionSpan": 17,
+   "pace": "mixed",
+   "kind": "place",
+   "sectorCount": 2,
+   "effectiveSectors": 1.86,
+   "newestSector": "Energy",
+   "daysSinceNewestSector": 24,
+   "articles14d": 23,
+   "articlesPrior14d": 29,
+   "publishers": 7,
+   "events": 24,
+   "topPubShare": 0.333,
+   "sectors": [
+    {
+     "name": "Supply chain",
+     "firstSeen": "2026-07-16",
+     "recent": 15,
+     "articles": 38,
+     "share": 0.652,
+     "atSectorStart": false,
+     "grip": 0.714,
+     "outlets": 5,
+     "adopt": 48
+    },
+    {
+     "name": "Energy",
+     "firstSeen": "2026-08-02",
+     "recent": 8,
+     "articles": 17,
+     "share": 0.348,
+     "atSectorStart": false,
+     "grip": 0.5,
+     "outlets": 3,
+     "adopt": 65
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "US",
+     21
+    ],
+    [
+     "SG",
+     18
+    ],
+    [
+     "GR",
+     11
+    ],
+    [
+     "GB",
+     6
+    ],
+    [
+     "IN",
+     2
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-05-29",
+     "2026-06-05",
+     "2026-06-12",
+     "2026-06-19",
+     "2026-06-26",
+     "2026-07-03",
+     "2026-07-10",
+     "2026-07-17",
+     "2026-07-24",
+     "2026-07-31",
+     "2026-08-07",
+     "2026-08-14",
+     "2026-08-21"
+    ],
+    "bands": [
+     {
+      "sector": "Supply chain",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       1,
+       1,
+       7,
+       14,
+       6,
+       8
+      ]
+     },
+     {
+      "sector": "Energy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       5,
+       4,
+       5,
+       3
+      ]
+     },
+     {
+      "sector": "Finance",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       2,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "sector": "Consumer",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "cooc": [
+    [
+     "export route",
+     1.0,
+     "new",
+     4,
+     0,
+     264.9,
+     [
+      {
+       "title": "Houthi strike hits Saudi VLCC off Yanbu",
+       "url": "https://splash247.com/houthi-strike-hits-saudi-vlcc-off-yanbu/",
+       "publisher": "Splash247",
+       "sector": "Supply chain",
+       "quote": "\u2026's most important alternative crude \u2f00export routes\u2f01. The 320,926 dwt Amzan was hit around 63 nautical miles west of Yanbu on August 24. UK Maritime Trade Operati\u2026"
+      },
+      {
+       "title": "Saudi Aramco Gives Full September Oil Allocations to 3 European Refiners",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Aramco-Gives-Full-September-Oil-Allocations-to-3-European-Refiners.html",
+       "publisher": "OilPrice",
+       "sector": "Energy",
+       "quote": "\u2026e war disrupts the kingdom's normal \u2f00export routes\u2f01, Bloomberg reported on Wednesday via The Edge Malaysia. Two European refiners will take their barrels from Eg\u2026"
+      }
+     ]
+    ]
+   ],
+   "examples": [
+    {
+     "publisher": "The Loadstar",
+     "title": "MSC schedules more east-west liner services for Suez Canal transit",
+     "url": "https://theloadstar.com/msc-schedules-more-east-west-liner-services-for-suez-canal-transit/",
+     "date": "2026-08-25",
+     "sector": "Supply chain",
+     "country": "GB",
+     "quote": "\u2026lliance in a cautious return to the \u2f00Red Sea\u2f01 route. The move follows last week's announcement that the world's largest container shipping line would be se\u2026"
+    },
+    {
+     "publisher": "Splash247",
+     "title": "Houthi strike hits Saudi VLCC off Yanbu",
+     "url": "https://splash247.com/houthi-strike-hits-saudi-vlcc-off-yanbu/",
+     "date": "2026-08-25",
+     "sector": "Supply chain",
+     "country": "SG",
+     "quote": "\u2026en struck off Yanbu in the northern \u2f00Red Sea\u2f01, extending the Houthi campaign against Saudi shipping to one of the kingdom's most important alternative crud\u2026"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Japan Holds Off on New Oil Reserve Release Despite September Import Drop",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Holds-Off-on-New-Oil-Reserve-Release-Despite-September-Import-Drop.html",
+     "date": "2026-08-25",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026threaten attacks on vessels in the \u2f00Red Sea\u2f01\u2026"
+    },
+    {
+     "publisher": "Container News",
+     "title": "MSC partially restores Suez Canal transits",
+     "url": "https://container-news.com/msc-partially-restores-suez-canal-transits/",
+     "date": "2026-08-25",
+     "sector": "Supply chain",
+     "country": "GR",
+     "quote": "\u2026y and operational conditions in the \u2f00Red Sea\u2f01 region. The change covers both westbound and eastbound voyages. Services returning to the Suez Canal The tran\u2026"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Houthis Target Saudi Oil Tanker in \u2f00Red Sea\u2f01 Missile and Drone Attack",
+     "url": "https://oilprice.com/Geopolitics/Middle-East/Houthis-Target-Saudi-Oil-Tanker-in-Red-Sea-Missile-and-Drone-Attack.html",
+     "date": "2026-08-24",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026d the Saudi oil tanker Amzan in the \u2f00Red Sea\u2f01 off Yanbu with a ballistic missile and drones, the Iran-aligned militant group announced. Soon after initial\u2026"
+    },
+    {
+     "publisher": "Seatrade Maritime",
+     "title": "Saudi-flagged tanker hit by missile in \u2f00Red Sea\u2f01",
+     "url": "https://www.seatrade-maritime.com/security/saudi-flagged-tanker-hit-by-missile-in-red-sea",
+     "date": "2026-08-24",
+     "sector": "Supply chain",
+     "country": "SG",
+     "quote": "\u2026rabia's rerouted oil exports in the \u2f00Red Sea\u2f01."
+    },
+    {
+     "publisher": "Container News",
+     "title": "ONE revises \u2f00Red Sea\u2f01 service coverage",
+     "url": "https://container-news.com/one-revises-red-sea-service-coverage/",
+     "date": "2026-08-23",
+     "sector": "Supply chain",
+     "country": "GR",
+     "quote": "\u2026services connecting China with the \u2f00Red Sea\u2f01. The carrier will leave the RCS service operated by Global Feeder Shipping, Regional Container Lines and T.S.\u2026"
+    },
+    {
+     "publisher": "Container News",
+     "title": "Carriers revise regional services across Europe, Asia and \u2f00Red Sea\u2f01",
+     "url": "https://container-news.com/carriers-revise-regional-services-across-europe-asia-and-red-sea/",
+     "date": "2026-08-22",
+     "sector": "Supply chain",
+     "country": "GR",
+     "quote": "\u2026egional services across Europe, the \u2f00Red Sea\u2f01 and Asia. The updates include new port connections, revised rotations and changes to existing slot arrangemen\u2026"
+    },
+    {
+     "publisher": "Container News",
+     "title": "MSC extends Himalaya Express to Egypt and Saudi Arabia",
+     "url": "https://container-news.com/msc-extends-himalaya-express-to-egypt-and-saudi-arabia/",
+     "date": "2026-08-22",
+     "sector": "Supply chain",
+     "country": "GR",
+     "quote": "\u2026will add coverage in Egypt and the \u2f00Red Sea\u2f01 while changing its calls in T\u00fcrkiye, according to DynaLiners. Despite the new Red Sea port calls, the Himalay\u2026"
+    },
+    {
+     "publisher": "Supply Chain Dive",
+     "title": "Port of Los Angeles preps for cargo bump as shippers navigate global risks",
+     "url": "https://www.supplychaindive.com/news/port-of-los-angeles-preps-for-cargo-bump-as-shippers-navigate-global-risks/828376/",
+     "date": "2026-08-21",
+     "sector": "Supply chain",
+     "country": "US",
+     "quote": "\u2026ort may see a 5% volume uptick amid \u2f00Red Sea\u2f01 and Panama Canal concerns and is readying itself for the scenario in talks with operating partners."
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Saudi Oil Exports from Mediterranean Soar with Shuttles North to Avoid Houthis",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Oil-Exports-from-Mediterranean-Soar-with-Shuttles-North-to-Avoid-Houthis.html",
+     "date": "2026-08-21",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026Saudi oil shipments in the southern \u2f00Red Sea\u2f01 and the Bab el-Mandeb Strait, tanker-tracking data compiled by Bloomberg showed on Friday. Saudi state oil gi\u2026"
+    },
+    {
+     "publisher": "Container News",
+     "title": "Explainer: Is there any Saudi Arabia's quiet pivot?",
+     "url": "https://container-news.com/explainer-is-there-any-saudi-arabias-quiet-pivot/",
+     "date": "2026-08-20",
+     "sector": "Supply chain",
+     "country": "GR",
+     "quote": "As Houthi strikes disable its \u2f00Red Sea\u2f01 bypass, Riyadh appears to be shuttling Persian Gulf crude through offshore transfers near Oman borrowing an E\u2026"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-05-29",
+     "n": 0
+    },
+    {
+     "day": "2026-05-30",
+     "n": 0
+    },
+    {
+     "day": "2026-05-31",
+     "n": 0
+    },
+    {
+     "day": "2026-06-01",
+     "n": 0
+    },
+    {
+     "day": "2026-06-02",
+     "n": 0
+    },
+    {
+     "day": "2026-06-03",
+     "n": 0
+    },
+    {
+     "day": "2026-06-04",
+     "n": 0
+    },
+    {
+     "day": "2026-06-05",
+     "n": 0
+    },
+    {
+     "day": "2026-06-06",
+     "n": 0
+    },
+    {
+     "day": "2026-06-07",
+     "n": 0
+    },
+    {
+     "day": "2026-06-08",
+     "n": 0
+    },
+    {
+     "day": "2026-06-09",
+     "n": 0
+    },
+    {
+     "day": "2026-06-10",
+     "n": 0
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 0
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 0
+    },
+    {
+     "day": "2026-06-16",
+     "n": 0
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 0
+    },
+    {
+     "day": "2026-06-19",
+     "n": 0
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 0
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 1
+    },
+    {
+     "day": "2026-07-17",
+     "n": 1
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 4
+    },
+    {
+     "day": "2026-07-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-31",
+     "n": 0
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 1
+    },
+    {
+     "day": "2026-08-03",
+     "n": 3
+    },
+    {
+     "day": "2026-08-04",
+     "n": 1
+    },
+    {
+     "day": "2026-08-05",
+     "n": 6
+    },
+    {
+     "day": "2026-08-06",
+     "n": 1
+    },
+    {
+     "day": "2026-08-07",
+     "n": 4
+    },
+    {
+     "day": "2026-08-08",
+     "n": 0
+    },
+    {
+     "day": "2026-08-09",
+     "n": 0
+    },
+    {
+     "day": "2026-08-10",
+     "n": 2
+    },
+    {
+     "day": "2026-08-11",
+     "n": 5
+    },
+    {
+     "day": "2026-08-12",
+     "n": 6
+    },
+    {
+     "day": "2026-08-13",
+     "n": 1
+    },
+    {
+     "day": "2026-08-14",
+     "n": 2
+    },
+    {
+     "day": "2026-08-15",
+     "n": 0
+    },
+    {
+     "day": "2026-08-16",
+     "n": 0
+    },
+    {
+     "day": "2026-08-17",
+     "n": 4
+    },
+    {
+     "day": "2026-08-18",
+     "n": 3
+    },
+    {
+     "day": "2026-08-19",
+     "n": 1
+    },
+    {
+     "day": "2026-08-20",
+     "n": 1
+    },
+    {
+     "day": "2026-08-21",
+     "n": 2
+    },
+    {
+     "day": "2026-08-22",
+     "n": 2
+    },
+    {
+     "day": "2026-08-23",
+     "n": 1
+    },
+    {
+     "day": "2026-08-24",
+     "n": 2
+    },
+    {
+     "day": "2026-08-25",
+     "n": 4
+    },
+    {
+     "day": "2026-08-26",
+     "n": 0
+    }
+   ],
+   "relRatio": 0.64,
+   "docFreq": 0.0018,
+   "specificity": 0.939,
+   "homeShare": 0.652,
+   "daysSeen": 11,
+   "rank": 0.652
   },
   {
    "id": "oil-export",
    "term": "oil export",
    "direction": "steady",
-   "ratio": 0.4106434240362812,
+   "ratio": 0.4105452387910346,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -49849,7 +49285,7 @@
    "id": "power-grid",
    "term": "power grid",
    "direction": "steady",
-   "ratio": 0.3695790816326531,
+   "ratio": 0.3694907149119312,
    "display": false,
    "adoptionSpan": 13,
    "pace": "mixed",
@@ -50022,7 +49458,7 @@
      "new",
      4,
      0,
-     253.7,
+     253.8,
      [
       {
        "title": "The Forgotten Generation: Why Cogeneration is Re-Emerging in the Age of AI",
@@ -50529,7 +49965,7 @@
    "id": "export-control",
    "term": "export control",
    "direction": "rising",
-   "ratio": 0.9239477040816326,
+   "ratio": 0.9237267872798277,
    "display": false,
    "adoptionSpan": 67,
    "pace": "gradual",
@@ -51072,7 +50508,7 @@
    "id": "production-capacity",
    "term": "production capacity",
    "direction": "steady",
-   "ratio": 0.43117559523809523,
+   "ratio": 0.4310725007305864,
    "display": false,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -51784,7 +51220,7 @@
    "id": "small-modular-reactor",
    "term": "small modular reactor",
    "direction": "steady",
-   "ratio": 0.4157764668367347,
+   "ratio": 0.4156770542759225,
    "display": false,
    "adoptionSpan": 70,
    "pace": "gradual",
@@ -51921,7 +51357,7 @@
      "new",
      4,
      0,
-     676.4,
+     676.9,
      [
       {
        "title": "Port of \u2f00Corpus Christi\u2f01 to explore nuclear technology for maritime operations",
@@ -52396,7 +51832,7 @@
    "id": "image-prime-creative",
    "term": "image prime creative",
    "direction": "rising",
-   "ratio": 1.8478954081632653,
+   "ratio": 1.8474535745596554,
    "display": false,
    "adoptionSpan": 10,
    "pace": "mixed",
@@ -52871,7 +52307,7 @@
    "id": "critical-mineral",
    "term": "critical mineral",
    "direction": "falling",
-   "ratio": 0.1574133125472411,
+   "ratio": 0.1573756748698966,
    "display": false,
    "adoptionSpan": 67,
    "pace": "gradual",
@@ -53062,7 +52498,7 @@
      "new",
      4,
      0,
-     264.7,
+     264.9,
      [
       {
        "title": "Battery recycling projects among DOE's latest $500M grant funding round",
@@ -53564,7 +53000,7 @@
    "id": "trade-corridor",
    "term": "trade corridor",
    "direction": "steady",
-   "ratio": 0.3695790816326531,
+   "ratio": 0.3694907149119312,
    "display": false,
    "adoptionSpan": 3,
    "pace": "simultaneous",
@@ -54071,7 +53507,7 @@
    "id": "growth-driver",
    "term": "growth driver",
    "direction": "falling",
-   "ratio": 0.3285147392290249,
+   "ratio": 0.3284361910328277,
    "display": false,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -54685,7 +54121,7 @@
    "id": "solar-panel",
    "term": "solar panel",
    "direction": "steady",
-   "ratio": 0.5913265306122448,
+   "ratio": 0.5911851438590898,
    "display": false,
    "adoptionSpan": 10,
    "pace": "mixed",
@@ -55400,7 +54836,7 @@
    "id": "coast-guard",
    "term": "coast guard",
    "direction": "falling",
-   "ratio": 0.2991830660835763,
+   "ratio": 0.29911153111918237,
    "display": false,
    "adoptionSpan": 29,
    "pace": "gradual",
@@ -55992,7 +55428,7 @@
    "id": "rare-earth",
    "term": "rare earth",
    "direction": "falling",
-   "ratio": 0.11498015873015872,
+   "ratio": 0.1149526668614897,
    "display": false,
    "adoptionSpan": 70,
    "pace": "gradual",
@@ -56216,7 +55652,7 @@
      "steady",
      4,
      4,
-     652.3,
+     652.7,
      [
       {
        "title": "Niron gets $150M loan to build iron nitride magnet manufacturing plant in Minnesota",
@@ -56240,7 +55676,7 @@
      "new",
      4,
      0,
-     434.9,
+     435.1,
      [
       {
        "title": "Greenland Mines gets \u2f00exploration license\u2f01 for Sarfartoq rare earths project",
@@ -56264,7 +55700,7 @@
      "steady",
      2,
      2,
-     163.1,
+     163.2,
      [
       {
        "title": "American rare Earths, Novex to boost US magnet production",
@@ -56288,7 +55724,7 @@
      "rising",
      4,
      2,
-     56.7,
+     56.8,
      [
       {
        "title": "Ramaco Resources, Indium Corp ink gallium and germanium supply deal for Brook mine",
@@ -56790,7 +56226,7 @@
    "id": "hormuz-crisis",
    "term": "hormuz crisis",
    "direction": "steady",
-   "ratio": 0.4927721088435374,
+   "ratio": 0.49265428654924154,
    "display": false,
    "adoptionSpan": 47,
    "pace": "gradual",
@@ -57383,6 +56819,793 @@
    "rank": 0.52
   },
   {
+   "id": "middle-east",
+   "term": "middle east",
+   "direction": "steady",
+   "ratio": 0.4534658773919155,
+   "display": false,
+   "adoptionSpan": 65,
+   "pace": "gradual",
+   "kind": "place",
+   "sectorCount": 3,
+   "effectiveSectors": 2.35,
+   "newestSector": "Technology",
+   "daysSinceNewestSector": 20,
+   "articles14d": 54,
+   "articlesPrior14d": 44,
+   "publishers": 11,
+   "events": 57,
+   "topPubShare": 0.456,
+   "sectors": [
+    {
+     "name": "Supply chain",
+     "firstSeen": "2026-06-02",
+     "recent": 23,
+     "articles": 37,
+     "share": 0.46,
+     "atSectorStart": false,
+     "grip": 0.571,
+     "outlets": 4,
+     "adopt": 4
+    },
+    {
+     "name": "Energy",
+     "firstSeen": "2026-06-15",
+     "recent": 24,
+     "articles": 51,
+     "share": 0.48,
+     "atSectorStart": false,
+     "grip": 0.333,
+     "outlets": 2,
+     "adopt": 17
+    },
+    {
+     "name": "Technology",
+     "firstSeen": "2026-08-06",
+     "recent": 3,
+     "articles": 5,
+     "share": 0.06,
+     "atSectorStart": false,
+     "grip": 0.111,
+     "outlets": 1,
+     "adopt": 69
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "US",
+     67
+    ],
+    [
+     "GR",
+     16
+    ],
+    [
+     "SG",
+     11
+    ],
+    [
+     "GB",
+     9
+    ],
+    [
+     "IN",
+     4
+    ],
+    [
+     "TW",
+     4
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-05-29",
+     "2026-06-05",
+     "2026-06-12",
+     "2026-06-19",
+     "2026-06-26",
+     "2026-07-03",
+     "2026-07-10",
+     "2026-07-17",
+     "2026-07-24",
+     "2026-07-31",
+     "2026-08-07",
+     "2026-08-14",
+     "2026-08-21"
+    ],
+    "bands": [
+     {
+      "sector": "Energy",
+      "n": [
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       13,
+       14,
+       16,
+       7
+      ]
+     },
+     {
+      "sector": "Supply chain",
+      "n": [
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       2,
+       3,
+       13,
+       11,
+       6
+      ]
+     },
+     {
+      "sector": "Consumer",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       2,
+       3,
+       0,
+       0,
+       2,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "sector": "Technology",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       1,
+       1,
+       2
+      ]
+     },
+     {
+      "sector": "Autos",
+      "n": [
+       0,
+       2,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       2,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "sector": "Utilities",
+      "n": [
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "sector": "Materials",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       1,
+       0
+      ]
+     },
+     {
+      "sector": "Labor",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0
+      ]
+     },
+     {
+      "sector": "Healthcare",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0
+      ]
+     },
+     {
+      "sector": "Industrials",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0
+      ]
+     }
+    ]
+   },
+   "cooc": [
+    [
+     "natural gas price",
+     0.4,
+     "rising",
+     4,
+     2,
+     169.2,
+     [
+      {
+       "title": "Goldman Sachs: Europe Needs Much Higher Gas Prices to Secure Winter Supply",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Europe-Needs-Much-Higher-Gas-Prices-to-Secure-Winter-Supply.html",
+       "publisher": "OilPrice",
+       "sector": "Energy",
+       "quote": "\u2f00Natural gas prices\u2f01 in Europe need to jump by December for European storage to fill up with enough inventory for the coming winte\u2026"
+      },
+      {
+       "title": "Taipower sees fuel costs jump over NT$120B as \u2f00natural gas prices\u2f01 surge",
+       "url": "https://www.digitimes.com/news/a20260820PD205/taiwan-power-company-fuel-taiwan-cost.html",
+       "publisher": "DigiTimes Asia",
+       "sector": "Technology",
+       "quote": "\u2026g Middle East conflicts and surging \u2f00natural gas prices\u2f01 are piling pressure on Taiwan's power supply costs, with Taiwan Power Company (Taipower) estimating its full-\u2026"
+      }
+     ]
+    ]
+   ],
+   "examples": [
+    {
+     "publisher": "OilPrice",
+     "title": "U.S. Refiners Face New Crude Squeeze as Canada Cuts Oil Sands Output",
+     "url": "https://oilprice.com/Energy/Crude-Oil/US-Refiners-Face-New-Crude-Squeeze-as-Canada-Cuts-Oil-Sands-Output.html",
+     "date": "2026-08-25",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026ke up for lost fuel supply from the \u2f00Middle East\u2f01. Fuel exports from the United States have been breaking records. This may be about to change, and not because\u2026"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Hormuz Crisis Boosts Appeal of $42-Billion Tanzania LNG",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Crisis-Boosts-Appeal-of-42-Billion-Tanzania-LNG.html",
+     "date": "2026-08-25",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026attractive for development amid the \u2f00Middle East\u2f01 conflict that has crippled liquefied natural gas supply through the Strait of Hormuz, a senior executive at t\u2026"
+    },
+    {
+     "publisher": "Seatrade Maritime",
+     "title": "Malacca Strait littoral states stand firm on freedom of navigation",
+     "url": "https://www.seatrade-maritime.com/maritime-transportation/malacca-straits-littoral-states-stand-firm-on-freedom-of-navigation",
+     "date": "2026-08-25",
+     "sector": "Supply chain",
+     "country": "SG",
+     "quote": "Conflict in the \u2f00Middle East\u2f01 and closure of the Strait of Hormuz have put the even busier Straits of Malacca and Singapore under spotlight"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "India's Crude Import Bill Surges as Hormuz Shipping Rates Soar",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Crude-Import-Bill-Surges-as-Hormuz-Shipping-Rates-Soar.html",
+     "date": "2026-08-25",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026as soared since the Iran war choked \u2f00Middle Eastern\u2f01 oil supply, raised benchmark crude prices, quadrupled freight rates, and boosted insurance on a single Strait\u2026"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Malacca States Vow to Keep Asia's Busiest Shipping Route Open",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Malacca-States-Vow-to-Keep-Asias-Busiest-Shipping-Route-Open.html",
+     "date": "2026-08-25",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026isis in the Strait of Hormuz in the \u2f00Middle East\u2f01. Indonesia, Malaysia, and Singapore on Tuesday reaffirmed in a joint statement their \u201cshared commitment to ke\u2026"
+    },
+    {
+     "publisher": "DigiTimes Asia",
+     "title": "Tactical drone market reshapes as startups and incumbents compete",
+     "url": "https://www.digitimes.com/news/a20260825PD202/quantum-drone-supply-chain-ukraine-western-europe.html",
+     "date": "2026-08-25",
+     "sector": "Technology",
+     "country": "TW",
+     "quote": "\u2026ing industry sources in Europe, the \u2f00Middle East\u2f01 and North America, said startups including Anduril, Helsing, Quantum Systems and Stark Defence are accelerati\u2026"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Goldman Sachs: Europe Needs Much Higher Gas Prices to Secure Winter Supply",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Europe-Needs-Much-Higher-Gas-Prices-to-Secure-Winter-Supply.html",
+     "date": "2026-08-24",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026cording to Goldman Sachs. Since the \u2f00Middle East\u2f01 crisis began, Europe has started losing the competition with Asia for spot LNG supply amid spiking prices in\u2026"
+    },
+    {
+     "publisher": "Seatrade Maritime",
+     "title": "Venezuela a beacon of hope in a bleak energy world",
+     "url": "https://www.seatrade-maritime.com/tankers/venezuela-a-beacon-of-hope-in-a-bleak-energy-world",
+     "date": "2026-08-24",
+     "sector": "Supply chain",
+     "country": "SG",
+     "quote": "\u2026ions are reshaping tanker demand as \u2f00Middle East\u2f01 disruption continues."
+    },
+    {
+     "publisher": "The Loadstar",
+     "title": "Pressure and surcharges on the increase across \u2f00Middle East\u2f01 ports",
+     "url": "https://theloadstar.com/pressure-and-surcharges-on-the-increase-across-middle-east-ports/",
+     "date": "2026-08-24",
+     "sector": "Supply chain",
+     "country": "GB",
+     "quote": "\u2026city pressures plaguing alternative \u2f00Middle East\u2f01 hubs, after container lines extend the levy of congestion surcharges to more gateways. After Saudi Arabia's J\u2026"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Japan Power Prices Surge to Highest Since 2023",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Power-Prices-Surge-to-Highest-Since-2023.html",
+     "date": "2026-08-24",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026as gas supply disruptions from the \u2f00Middle East\u2f01 and an intense heatwave pushed up prices and consumption. The day-ahead power price in Japan has jumped to $0\u2026"
+    },
+    {
+     "publisher": "Container News",
+     "title": "South Korea sends first container ship through Arctic route",
+     "url": "https://container-news.com/south-korea-sends-first-container-ship-through-arctic-route/",
+     "date": "2026-08-23",
+     "sector": "Supply chain",
+     "country": "GR",
+     "quote": "\u2026ercial viability as conflict in the \u2f00Middle East\u2f01 disrupts established shipping corridors. [\u2026] The post South Korea sends first container ship through Arctic r\u2026"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Diesel Crisis Threatens to Outlast the \u2f00Middle East\u2f01 War",
+     "url": "https://oilprice.com/Energy/Energy-General/Diesel-Crisis-Threatens-to-Outlast-the-Middle-East-War.html",
+     "date": "2026-08-23",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "The outlook for the \u2f00Middle East\u2f01 war remains grim, the U.S. just threatened Iran with the \u201ctoughest sanctions in history,\u201d and the world is ru\u2026"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-05-29",
+     "n": 0
+    },
+    {
+     "day": "2026-05-30",
+     "n": 0
+    },
+    {
+     "day": "2026-05-31",
+     "n": 0
+    },
+    {
+     "day": "2026-06-01",
+     "n": 0
+    },
+    {
+     "day": "2026-06-02",
+     "n": 1
+    },
+    {
+     "day": "2026-06-03",
+     "n": 0
+    },
+    {
+     "day": "2026-06-04",
+     "n": 0
+    },
+    {
+     "day": "2026-06-05",
+     "n": 0
+    },
+    {
+     "day": "2026-06-06",
+     "n": 0
+    },
+    {
+     "day": "2026-06-07",
+     "n": 0
+    },
+    {
+     "day": "2026-06-08",
+     "n": 2
+    },
+    {
+     "day": "2026-06-09",
+     "n": 0
+    },
+    {
+     "day": "2026-06-10",
+     "n": 1
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 0
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 1
+    },
+    {
+     "day": "2026-06-16",
+     "n": 0
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 0
+    },
+    {
+     "day": "2026-06-19",
+     "n": 0
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 0
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 1
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 1
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 1
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 2
+    },
+    {
+     "day": "2026-07-09",
+     "n": 1
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 1
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 1
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 2
+    },
+    {
+     "day": "2026-07-31",
+     "n": 0
+    },
+    {
+     "day": "2026-08-01",
+     "n": 1
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 3
+    },
+    {
+     "day": "2026-08-04",
+     "n": 6
+    },
+    {
+     "day": "2026-08-05",
+     "n": 5
+    },
+    {
+     "day": "2026-08-06",
+     "n": 6
+    },
+    {
+     "day": "2026-08-07",
+     "n": 5
+    },
+    {
+     "day": "2026-08-08",
+     "n": 1
+    },
+    {
+     "day": "2026-08-09",
+     "n": 0
+    },
+    {
+     "day": "2026-08-10",
+     "n": 3
+    },
+    {
+     "day": "2026-08-11",
+     "n": 3
+    },
+    {
+     "day": "2026-08-12",
+     "n": 9
+    },
+    {
+     "day": "2026-08-13",
+     "n": 8
+    },
+    {
+     "day": "2026-08-14",
+     "n": 2
+    },
+    {
+     "day": "2026-08-15",
+     "n": 1
+    },
+    {
+     "day": "2026-08-16",
+     "n": 1
+    },
+    {
+     "day": "2026-08-17",
+     "n": 9
+    },
+    {
+     "day": "2026-08-18",
+     "n": 7
+    },
+    {
+     "day": "2026-08-19",
+     "n": 3
+    },
+    {
+     "day": "2026-08-20",
+     "n": 8
+    },
+    {
+     "day": "2026-08-21",
+     "n": 2
+    },
+    {
+     "day": "2026-08-22",
+     "n": 1
+    },
+    {
+     "day": "2026-08-23",
+     "n": 3
+    },
+    {
+     "day": "2026-08-24",
+     "n": 4
+    },
+    {
+     "day": "2026-08-25",
+     "n": 5
+    },
+    {
+     "day": "2026-08-26",
+     "n": 0
+    }
+   ],
+   "variants": [
+    "middle east conflict"
+   ],
+   "relRatio": 0.99,
+   "docFreq": 0.0043,
+   "specificity": 0.857,
+   "homeShare": 0.48,
+   "daysSeen": 13,
+   "rank": 0.513
+  },
+  {
    "id": "industrial-property",
    "term": "industrial property",
    "direction": "new",
@@ -57910,7 +58133,7 @@
    "id": "nuclear-fuel",
    "term": "nuclear fuel",
    "direction": "steady",
-   "ratio": 0.5543686224489796,
+   "ratio": 0.5542360723678967,
    "display": false,
    "adoptionSpan": 58,
    "pace": "gradual",
@@ -58458,7 +58681,7 @@
    "id": "offshore-oil",
    "term": "offshore oil",
    "direction": "falling",
-   "ratio": 0.15839103498542273,
+   "ratio": 0.15835316353368478,
    "display": false,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -58969,7 +59192,7 @@
    "id": "energy-infrastructure",
    "term": "energy infrastructure",
    "direction": "falling",
-   "ratio": 0.1616908482142857,
+   "ratio": 0.16165218777396986,
    "display": false,
    "adoptionSpan": 13,
    "pace": "mixed",
@@ -59197,7 +59420,7 @@
      "steady",
      2,
      2,
-     434.9,
+     435.1,
      [
       {
        "title": "Shapiro Sets Binding GRID Requirements in Pennsylvania, Targets Data Center Power Costs",
@@ -59653,10 +59876,572 @@
    "heldForSpread": true
   },
   {
+   "id": "battery-plant",
+   "term": "battery plant",
+   "direction": "steady",
+   "ratio": 0.5542360723678967,
+   "display": false,
+   "adoptionSpan": 20,
+   "pace": "mixed",
+   "kind": "concept",
+   "sectorCount": 2,
+   "effectiveSectors": 1.84,
+   "newestSector": "Technology",
+   "daysSinceNewestSector": 22,
+   "articles14d": 6,
+   "articlesPrior14d": 4,
+   "publishers": 4,
+   "events": 6,
+   "topPubShare": 0.5,
+   "sectors": [
+    {
+     "name": "Autos",
+     "firstSeen": "2026-07-15",
+     "recent": 4,
+     "articles": 7,
+     "share": 0.667,
+     "atSectorStart": false,
+     "grip": 0.75,
+     "outlets": 3,
+     "adopt": 47
+    },
+    {
+     "name": "Technology",
+     "firstSeen": "2026-08-04",
+     "recent": 2,
+     "articles": 3,
+     "share": 0.333,
+     "atSectorStart": false,
+     "grip": 0.333,
+     "outlets": 3,
+     "adopt": 67
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "US",
+     8
+    ],
+    [
+     "DE",
+     1
+    ],
+    [
+     "KR",
+     1
+    ],
+    [
+     "TW",
+     1
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-05-29",
+     "2026-06-05",
+     "2026-06-12",
+     "2026-06-19",
+     "2026-06-26",
+     "2026-07-03",
+     "2026-07-10",
+     "2026-07-17",
+     "2026-07-24",
+     "2026-07-31",
+     "2026-08-07",
+     "2026-08-14",
+     "2026-08-21"
+    ],
+    "bands": [
+     {
+      "sector": "Autos",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       3,
+       3,
+       0
+      ]
+     },
+     {
+      "sector": "Technology",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       1,
+       0,
+       1
+      ]
+     },
+     {
+      "sector": "Industrials",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "cooc": [],
+   "examples": [
+    {
+     "publisher": "The Elec",
+     "title": "Samsung SDI to Raise 4.45 Trillion Won From Samsung Display Stake Sale",
+     "url": "https://www.thelec.net/news/articleView.html?idxno=13255",
+     "date": "2026-08-23",
+     "sector": "Technology",
+     "country": "KR",
+     "quote": "\u2026tments including Synergy Cells, the \u2f00battery plant\u2f01 in Indiana where Samsung SDI ended its joint venture with General Motors (GM).Samsung SDI said on Aug."
+    },
+    {
+     "publisher": "Just Auto",
+     "title": "LGES starts production at Lansing \u2f00battery plant\u2f01 in US",
+     "url": "https://www.just-auto.com/news/lges-production-lansing-battery-plant/",
+     "date": "2026-08-19",
+     "sector": "Autos",
+     "country": "US",
+     "quote": ""
+    },
+    {
+     "publisher": "Electrive",
+     "title": "LG Energy Solution launches battery production in Lansing",
+     "url": "https://www.electrive.com/2026/08/19/lg-energy-solution-launches-battery-production-in-lansing/",
+     "date": "2026-08-19",
+     "sector": "Autos",
+     "country": "DE",
+     "quote": "\u2026has launched production at its new \u2f00battery plant\u2f01 in Lansing, Michigan, USA. Originally a joint venture with GM, the factory now belongs entirely to the Korean\u2026"
+    },
+    {
+     "publisher": "Just Auto",
+     "title": "Ultium Cells to restart production at Ohio \u2f00battery plant\u2f01",
+     "url": "https://www.just-auto.com/news/ultium-cells-to-restart-production-at-ohio-battery-plant/",
+     "date": "2026-08-14",
+     "sector": "Autos",
+     "country": "US",
+     "quote": ""
+    },
+    {
+     "publisher": "Just Auto",
+     "title": "Octillion opens third EV \u2f00battery plant\u2f01 in India",
+     "url": "https://www.just-auto.com/news/octillion-opens-third-ev-battery-plant-in-india/",
+     "date": "2026-08-13",
+     "sector": "Autos",
+     "country": "US",
+     "quote": ""
+    },
+    {
+     "publisher": "Data Center Dynamics",
+     "title": "Form Energy raises $750m to expand West Virginia iron-air \u2f00battery plant\u2f01 to meet surging data center demand",
+     "url": "https://www.datacenterdynamics.com/en/news/form-energy-raises-750m-to-expand-west-virginia-iron-air-battery-plant-to-meet-surging-data-center-demand/",
+     "date": "2026-08-13",
+     "sector": "Technology",
+     "country": "US",
+     "quote": ""
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-05-29",
+     "n": 0
+    },
+    {
+     "day": "2026-05-30",
+     "n": 0
+    },
+    {
+     "day": "2026-05-31",
+     "n": 0
+    },
+    {
+     "day": "2026-06-01",
+     "n": 0
+    },
+    {
+     "day": "2026-06-02",
+     "n": 0
+    },
+    {
+     "day": "2026-06-03",
+     "n": 0
+    },
+    {
+     "day": "2026-06-04",
+     "n": 0
+    },
+    {
+     "day": "2026-06-05",
+     "n": 0
+    },
+    {
+     "day": "2026-06-06",
+     "n": 0
+    },
+    {
+     "day": "2026-06-07",
+     "n": 0
+    },
+    {
+     "day": "2026-06-08",
+     "n": 0
+    },
+    {
+     "day": "2026-06-09",
+     "n": 0
+    },
+    {
+     "day": "2026-06-10",
+     "n": 0
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 0
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 0
+    },
+    {
+     "day": "2026-06-16",
+     "n": 0
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 0
+    },
+    {
+     "day": "2026-06-19",
+     "n": 0
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 0
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 1
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-31",
+     "n": 0
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 0
+    },
+    {
+     "day": "2026-08-04",
+     "n": 1
+    },
+    {
+     "day": "2026-08-05",
+     "n": 0
+    },
+    {
+     "day": "2026-08-06",
+     "n": 0
+    },
+    {
+     "day": "2026-08-07",
+     "n": 0
+    },
+    {
+     "day": "2026-08-08",
+     "n": 0
+    },
+    {
+     "day": "2026-08-09",
+     "n": 0
+    },
+    {
+     "day": "2026-08-10",
+     "n": 0
+    },
+    {
+     "day": "2026-08-11",
+     "n": 2
+    },
+    {
+     "day": "2026-08-12",
+     "n": 1
+    },
+    {
+     "day": "2026-08-13",
+     "n": 2
+    },
+    {
+     "day": "2026-08-14",
+     "n": 1
+    },
+    {
+     "day": "2026-08-15",
+     "n": 0
+    },
+    {
+     "day": "2026-08-16",
+     "n": 0
+    },
+    {
+     "day": "2026-08-17",
+     "n": 0
+    },
+    {
+     "day": "2026-08-18",
+     "n": 0
+    },
+    {
+     "day": "2026-08-19",
+     "n": 2
+    },
+    {
+     "day": "2026-08-20",
+     "n": 0
+    },
+    {
+     "day": "2026-08-21",
+     "n": 0
+    },
+    {
+     "day": "2026-08-22",
+     "n": 0
+    },
+    {
+     "day": "2026-08-23",
+     "n": 1
+    },
+    {
+     "day": "2026-08-24",
+     "n": 0
+    },
+    {
+     "day": "2026-08-25",
+     "n": 0
+    },
+    {
+     "day": "2026-08-26",
+     "n": 0
+    }
+   ],
+   "relRatio": 1.21,
+   "docFreq": 0.0005,
+   "specificity": 0.984,
+   "homeShare": 0.667,
+   "daysSeen": 4,
+   "rank": 0.702,
+   "nearShare": 0.185,
+   "heldForSpread": true
+  },
+  {
    "id": "grid-capacity",
    "term": "grid capacity",
    "direction": "rising",
-   "ratio": 0.6159651360544218,
+   "ratio": 0.6158178581865519,
    "display": false,
    "adoptionSpan": 3,
    "pace": "simultaneous",
@@ -60234,7 +61019,7 @@
    "id": "vessel-attack",
    "term": "vessel attack",
    "direction": "rising",
-   "ratio": 1.8478954081632653,
+   "ratio": 1.8474535745596554,
    "display": false,
    "adoptionSpan": 10,
    "pace": "mixed",
@@ -60754,14 +61539,14 @@
    "homeShare": 0.6,
    "daysSeen": 3,
    "rank": 0.644,
-   "nearShare": 0.2,
+   "nearShare": 0.133,
    "heldForSpread": true
   },
   {
    "id": "green-hydrogen",
    "term": "green hydrogen",
    "direction": "rising",
-   "ratio": 0.7391581632653061,
+   "ratio": 0.7389814298238624,
    "display": false,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -61338,14 +62123,14 @@
    "homeShare": 0.6,
    "daysSeen": 5,
    "rank": 0.641,
-   "nearShare": 0.2,
+   "nearShare": 0.195,
    "heldForSpread": true
   },
   {
    "id": "energy-bill",
    "term": "energy bill",
    "direction": "rising",
-   "ratio": 0.8623511904761905,
+   "ratio": 0.8621450014611728,
    "display": false,
    "adoptionSpan": 58,
    "pace": "gradual",
@@ -61912,7 +62697,7 @@
    "id": "continental-shelf",
    "term": "continental shelf",
    "direction": "steady",
-   "ratio": 0.4927721088435374,
+   "ratio": 0.49265428654924154,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -62452,7 +63237,7 @@
    "id": "grid-operator",
    "term": "grid operator",
    "direction": "falling",
-   "ratio": 0.15839103498542273,
+   "ratio": 0.15835316353368478,
    "display": false,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -62997,14 +63782,13 @@
    "homeShare": 0.667,
    "daysSeen": 2,
    "rank": 0.576,
-   "nearShare": 0.2,
    "heldForSpread": true
   },
   {
    "id": "energy-storage",
    "term": "energy storage",
    "direction": "steady",
-   "ratio": 0.49523596938775505,
+   "ratio": 0.4951175579819877,
    "display": false,
    "adoptionSpan": 47,
    "pace": "gradual",
@@ -63232,7 +64016,7 @@
      "new",
      4,
      0,
-     68.1,
+     68.2,
      [
       {
        "title": "UK \u2f00government launches\u2f01 \u00a328 million Ultra-Long Duration Energy Storage Challenge",
@@ -63256,7 +64040,7 @@
      "new",
      4,
      0,
-     54.5,
+     54.6,
      [
       {
        "title": "Five Korean Battery Equipment Makers Swing to Profit",
@@ -63280,7 +64064,7 @@
      "new",
      4,
      0,
-     38.9,
+     39.0,
      [
       {
        "title": "Shinsung E&G Expands Energy Businesses Through Startup Partnerships",
@@ -63819,799 +64603,10 @@
    "heldForSpread": true
   },
   {
-   "id": "middle-east",
-   "term": "middle east",
-   "direction": "steady",
-   "ratio": 0.453574327458256,
-   "display": false,
-   "adoptionSpan": 65,
-   "pace": "gradual",
-   "kind": "place",
-   "sectorCount": 3,
-   "effectiveSectors": 2.35,
-   "newestSector": "Technology",
-   "daysSinceNewestSector": 20,
-   "articles14d": 54,
-   "articlesPrior14d": 44,
-   "publishers": 11,
-   "events": 57,
-   "topPubShare": 0.456,
-   "sectors": [
-    {
-     "name": "Supply chain",
-     "firstSeen": "2026-06-02",
-     "recent": 23,
-     "articles": 37,
-     "share": 0.46,
-     "atSectorStart": false,
-     "grip": 0.571,
-     "outlets": 4,
-     "adopt": 4
-    },
-    {
-     "name": "Energy",
-     "firstSeen": "2026-06-15",
-     "recent": 24,
-     "articles": 51,
-     "share": 0.48,
-     "atSectorStart": false,
-     "grip": 0.333,
-     "outlets": 2,
-     "adopt": 17
-    },
-    {
-     "name": "Technology",
-     "firstSeen": "2026-08-06",
-     "recent": 3,
-     "articles": 5,
-     "share": 0.06,
-     "atSectorStart": false,
-     "grip": 0.111,
-     "outlets": 1,
-     "adopt": 69
-    }
-   ],
-   "sinceStart": false,
-   "origins": [
-    [
-     "US",
-     67
-    ],
-    [
-     "GR",
-     16
-    ],
-    [
-     "SG",
-     11
-    ],
-    [
-     "GB",
-     9
-    ],
-    [
-     "IN",
-     4
-    ],
-    [
-     "TW",
-     4
-    ]
-   ],
-   "flow": {
-    "weeks": [
-     "2026-05-29",
-     "2026-06-05",
-     "2026-06-12",
-     "2026-06-19",
-     "2026-06-26",
-     "2026-07-03",
-     "2026-07-10",
-     "2026-07-17",
-     "2026-07-24",
-     "2026-07-31",
-     "2026-08-07",
-     "2026-08-14",
-     "2026-08-21"
-    ],
-    "bands": [
-     {
-      "sector": "Energy",
-      "n": [
-       0,
-       0,
-       1,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       13,
-       14,
-       16,
-       7
-      ]
-     },
-     {
-      "sector": "Supply chain",
-      "n": [
-       1,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0,
-       2,
-       3,
-       13,
-       11,
-       6
-      ]
-     },
-     {
-      "sector": "Consumer",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       2,
-       3,
-       0,
-       0,
-       2,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Technology",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       1,
-       1,
-       2
-      ]
-     },
-     {
-      "sector": "Autos",
-      "n": [
-       0,
-       2,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       2,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Utilities",
-      "n": [
-       0,
-       1,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Materials",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       1,
-       0
-      ]
-     },
-     {
-      "sector": "Labor",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Healthcare",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0
-      ]
-     },
-     {
-      "sector": "Industrials",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0
-      ]
-     }
-    ]
-   },
-   "cooc": [
-    [
-     "natural gas price",
-     0.4,
-     "rising",
-     4,
-     2,
-     169.1,
-     [
-      {
-       "title": "Goldman Sachs: Europe Needs Much Higher Gas Prices to Secure Winter Supply",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Europe-Needs-Much-Higher-Gas-Prices-to-Secure-Winter-Supply.html",
-       "publisher": "OilPrice",
-       "sector": "Energy",
-       "quote": "\u2f00Natural gas prices\u2f01 in Europe need to jump by December for European storage to fill up with enough inventory for the coming winte\u2026"
-      },
-      {
-       "title": "Taipower sees fuel costs jump over NT$120B as \u2f00natural gas prices\u2f01 surge",
-       "url": "https://www.digitimes.com/news/a20260820PD205/taiwan-power-company-fuel-taiwan-cost.html",
-       "publisher": "DigiTimes Asia",
-       "sector": "Technology",
-       "quote": "\u2026g Middle East conflicts and surging \u2f00natural gas prices\u2f01 are piling pressure on Taiwan's power supply costs, with Taiwan Power Company (Taipower) estimating its full-\u2026"
-      }
-     ]
-    ]
-   ],
-   "examples": [
-    {
-     "publisher": "OilPrice",
-     "title": "U.S. Refiners Face New Crude Squeeze as Canada Cuts Oil Sands Output",
-     "url": "https://oilprice.com/Energy/Crude-Oil/US-Refiners-Face-New-Crude-Squeeze-as-Canada-Cuts-Oil-Sands-Output.html",
-     "date": "2026-08-25",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026ke up for lost fuel supply from the \u2f00Middle East\u2f01. Fuel exports from the United States have been breaking records. This may be about to change, and not because\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Hormuz Crisis Boosts Appeal of $42-Billion Tanzania LNG",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Crisis-Boosts-Appeal-of-42-Billion-Tanzania-LNG.html",
-     "date": "2026-08-25",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026attractive for development amid the \u2f00Middle East\u2f01 conflict that has crippled liquefied natural gas supply through the Strait of Hormuz, a senior executive at t\u2026"
-    },
-    {
-     "publisher": "Seatrade Maritime",
-     "title": "Malacca Strait littoral states stand firm on freedom of navigation",
-     "url": "https://www.seatrade-maritime.com/maritime-transportation/malacca-straits-littoral-states-stand-firm-on-freedom-of-navigation",
-     "date": "2026-08-25",
-     "sector": "Supply chain",
-     "country": "SG",
-     "quote": "Conflict in the \u2f00Middle East\u2f01 and closure of the Strait of Hormuz have put the even busier Straits of Malacca and Singapore under spotlight"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "India's Crude Import Bill Surges as Hormuz Shipping Rates Soar",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Crude-Import-Bill-Surges-as-Hormuz-Shipping-Rates-Soar.html",
-     "date": "2026-08-25",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026as soared since the Iran war choked \u2f00Middle Eastern\u2f01 oil supply, raised benchmark crude prices, quadrupled freight rates, and boosted insurance on a single Strait\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Malacca States Vow to Keep Asia's Busiest Shipping Route Open",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Malacca-States-Vow-to-Keep-Asias-Busiest-Shipping-Route-Open.html",
-     "date": "2026-08-25",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026isis in the Strait of Hormuz in the \u2f00Middle East\u2f01. Indonesia, Malaysia, and Singapore on Tuesday reaffirmed in a joint statement their \u201cshared commitment to ke\u2026"
-    },
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "Tactical drone market reshapes as startups and incumbents compete",
-     "url": "https://www.digitimes.com/news/a20260825PD202/quantum-drone-supply-chain-ukraine-western-europe.html",
-     "date": "2026-08-25",
-     "sector": "Technology",
-     "country": "TW",
-     "quote": "\u2026ing industry sources in Europe, the \u2f00Middle East\u2f01 and North America, said startups including Anduril, Helsing, Quantum Systems and Stark Defence are accelerati\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Goldman Sachs: Europe Needs Much Higher Gas Prices to Secure Winter Supply",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Goldman-Sachs-Europe-Needs-Much-Higher-Gas-Prices-to-Secure-Winter-Supply.html",
-     "date": "2026-08-24",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026cording to Goldman Sachs. Since the \u2f00Middle East\u2f01 crisis began, Europe has started losing the competition with Asia for spot LNG supply amid spiking prices in\u2026"
-    },
-    {
-     "publisher": "Seatrade Maritime",
-     "title": "Venezuela a beacon of hope in a bleak energy world",
-     "url": "https://www.seatrade-maritime.com/tankers/venezuela-a-beacon-of-hope-in-a-bleak-energy-world",
-     "date": "2026-08-24",
-     "sector": "Supply chain",
-     "country": "SG",
-     "quote": "\u2026ions are reshaping tanker demand as \u2f00Middle East\u2f01 disruption continues."
-    },
-    {
-     "publisher": "The Loadstar",
-     "title": "Pressure and surcharges on the increase across \u2f00Middle East\u2f01 ports",
-     "url": "https://theloadstar.com/pressure-and-surcharges-on-the-increase-across-middle-east-ports/",
-     "date": "2026-08-24",
-     "sector": "Supply chain",
-     "country": "GB",
-     "quote": "\u2026city pressures plaguing alternative \u2f00Middle East\u2f01 hubs, after container lines extend the levy of congestion surcharges to more gateways. After Saudi Arabia's J\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Japan Power Prices Surge to Highest Since 2023",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Japan-Power-Prices-Surge-to-Highest-Since-2023.html",
-     "date": "2026-08-24",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026as gas supply disruptions from the \u2f00Middle East\u2f01 and an intense heatwave pushed up prices and consumption. The day-ahead power price in Japan has jumped to $0\u2026"
-    },
-    {
-     "publisher": "Container News",
-     "title": "South Korea sends first container ship through Arctic route",
-     "url": "https://container-news.com/south-korea-sends-first-container-ship-through-arctic-route/",
-     "date": "2026-08-23",
-     "sector": "Supply chain",
-     "country": "GR",
-     "quote": "\u2026ercial viability as conflict in the \u2f00Middle East\u2f01 disrupts established shipping corridors. [\u2026] The post South Korea sends first container ship through Arctic r\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Diesel Crisis Threatens to Outlast the \u2f00Middle East\u2f01 War",
-     "url": "https://oilprice.com/Energy/Energy-General/Diesel-Crisis-Threatens-to-Outlast-the-Middle-East-War.html",
-     "date": "2026-08-23",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "The outlook for the \u2f00Middle East\u2f01 war remains grim, the U.S. just threatened Iran with the \u201ctoughest sanctions in history,\u201d and the world is ru\u2026"
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-05-29",
-     "n": 0
-    },
-    {
-     "day": "2026-05-30",
-     "n": 0
-    },
-    {
-     "day": "2026-05-31",
-     "n": 0
-    },
-    {
-     "day": "2026-06-01",
-     "n": 0
-    },
-    {
-     "day": "2026-06-02",
-     "n": 1
-    },
-    {
-     "day": "2026-06-03",
-     "n": 0
-    },
-    {
-     "day": "2026-06-04",
-     "n": 0
-    },
-    {
-     "day": "2026-06-05",
-     "n": 0
-    },
-    {
-     "day": "2026-06-06",
-     "n": 0
-    },
-    {
-     "day": "2026-06-07",
-     "n": 0
-    },
-    {
-     "day": "2026-06-08",
-     "n": 2
-    },
-    {
-     "day": "2026-06-09",
-     "n": 0
-    },
-    {
-     "day": "2026-06-10",
-     "n": 1
-    },
-    {
-     "day": "2026-06-11",
-     "n": 0
-    },
-    {
-     "day": "2026-06-12",
-     "n": 0
-    },
-    {
-     "day": "2026-06-13",
-     "n": 0
-    },
-    {
-     "day": "2026-06-14",
-     "n": 0
-    },
-    {
-     "day": "2026-06-15",
-     "n": 1
-    },
-    {
-     "day": "2026-06-16",
-     "n": 0
-    },
-    {
-     "day": "2026-06-17",
-     "n": 0
-    },
-    {
-     "day": "2026-06-18",
-     "n": 0
-    },
-    {
-     "day": "2026-06-19",
-     "n": 0
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 1
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 1
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 1
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 0
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 2
-    },
-    {
-     "day": "2026-07-09",
-     "n": 1
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 1
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 1
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 0
-    },
-    {
-     "day": "2026-07-30",
-     "n": 2
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 1
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 3
-    },
-    {
-     "day": "2026-08-04",
-     "n": 6
-    },
-    {
-     "day": "2026-08-05",
-     "n": 5
-    },
-    {
-     "day": "2026-08-06",
-     "n": 6
-    },
-    {
-     "day": "2026-08-07",
-     "n": 5
-    },
-    {
-     "day": "2026-08-08",
-     "n": 1
-    },
-    {
-     "day": "2026-08-09",
-     "n": 0
-    },
-    {
-     "day": "2026-08-10",
-     "n": 3
-    },
-    {
-     "day": "2026-08-11",
-     "n": 3
-    },
-    {
-     "day": "2026-08-12",
-     "n": 9
-    },
-    {
-     "day": "2026-08-13",
-     "n": 8
-    },
-    {
-     "day": "2026-08-14",
-     "n": 2
-    },
-    {
-     "day": "2026-08-15",
-     "n": 1
-    },
-    {
-     "day": "2026-08-16",
-     "n": 1
-    },
-    {
-     "day": "2026-08-17",
-     "n": 9
-    },
-    {
-     "day": "2026-08-18",
-     "n": 7
-    },
-    {
-     "day": "2026-08-19",
-     "n": 3
-    },
-    {
-     "day": "2026-08-20",
-     "n": 8
-    },
-    {
-     "day": "2026-08-21",
-     "n": 2
-    },
-    {
-     "day": "2026-08-22",
-     "n": 1
-    },
-    {
-     "day": "2026-08-23",
-     "n": 3
-    },
-    {
-     "day": "2026-08-24",
-     "n": 4
-    },
-    {
-     "day": "2026-08-25",
-     "n": 5
-    },
-    {
-     "day": "2026-08-26",
-     "n": 0
-    }
-   ],
-   "variants": [
-    "middle east conflict"
-   ],
-   "relRatio": 0.99,
-   "docFreq": 0.0043,
-   "specificity": 0.857,
-   "homeShare": 0.48,
-   "daysSeen": 13,
-   "rank": 0.513,
-   "nearShare": 0.088,
-   "heldForSpread": true
-  },
-  {
    "id": "virtual-power-plant",
    "term": "virtual power plant",
    "direction": "rising",
-   "ratio": 0.6467633928571428,
+   "ratio": 0.6466087510958795,
    "display": false,
    "adoptionSpan": 61,
    "pace": "gradual",
@@ -65222,7 +65217,7 @@
    "id": "wind-farm",
    "term": "wind farm",
    "direction": "falling",
-   "ratio": 0.23098692602040816,
+   "ratio": 0.23093169681995693,
    "display": false,
    "adoptionSpan": 27,
    "pace": "mixed",
@@ -65782,7 +65777,7 @@
    "id": "drone-strike",
    "term": "drone strike",
    "direction": "falling",
-   "ratio": 0.16425736961451246,
+   "ratio": 0.16421809551641384,
    "display": false,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -65893,7 +65888,7 @@
      "falling",
      4,
      6,
-     456.6,
+     456.9,
      [
       {
        "title": "Bulker pounded by five drone strikes in \u2f00Black Sea\u2f01",
@@ -66325,7 +66320,7 @@
    "id": "recycling-facility",
    "term": "recycling facility",
    "direction": "falling",
-   "ratio": 0.2771843112244898,
+   "ratio": 0.27711803618394837,
    "display": false,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -66848,7 +66843,7 @@
    "id": "solar-plus-storage",
    "term": "solar plus storage",
    "direction": "steady",
-   "ratio": 0.508171237244898,
+   "ratio": 0.5080497330039053,
    "display": false,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -67448,7 +67443,7 @@
    "homeShare": 0.545,
    "daysSeen": 6,
    "rank": 0.384,
-   "nearShare": 0.268,
+   "nearShare": 0.286,
    "heldForSpread": true
   }
  ]
