@@ -1,12 +1,12 @@
 # Crosstalk — week ending 27 August 2026
 
-*13,913 articles over 123 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*13,937 articles over 123 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
 **data center** — now in 9 sectors. **Materials** picked it up 6d ago; it was first seen in utilities coverage on 31 May 2026.
-  - [Privacy-focused email service Proton goes down after cooling failure in Frankfurt ⼀data center⼁](https://www.datacenterdynamics.com/en/news/privacy-focused-email-service-proton-goes-down-after-cooling-failure-in-frankfurt-data-center/) · Data Center Dynamics · technology
-  - [Sponsored: Designing the white space for flexible fiber requirements](https://www.datacenterdynamics.com/en/opinions/designing-the-white-space-for-flexible-fiber-requirements/) · Data Center Dynamics · technology
+  - [⼀Data centers⼁: 3 things cities should do before approving another one](https://www.smartcitiesdive.com/news/data-centers-3-things-cities-should-do-before-approving-another-one/828943/) · Smart Cities Dive · waste & water
+  - [Accelsius two-phase ⼀data center⼁ cooling technology deployed at training center](https://www.facilitiesdive.com/news/accelsius-two-phase-data-center-cooling-technology-deployed-at-training-cen/828954/) · Facilities Dive · industrials
 
 ## Being used more than a fortnight ago
 
