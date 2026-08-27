@@ -1,6 +1,6 @@
 # Crosstalk — week ending 27 August 2026
 
-*13,976 articles over 123 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*13,982 articles over 123 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
@@ -20,6 +20,6 @@ Nothing crossed into a new sector this week.
 
 ---
 
-Crosstalk tracks which phrases appear in more than one sector's trade press and when each sector started using them. It makes no forecast — testing found that neither a phrase accelerating nor spreading across sectors predicted what followed. "Rising" describes the last fortnight, not the next one.
+Crosstalk tracks which phrases appear in more than one sector's trade press and when each sector started using them. It makes no forecast and reports only what has already been written. "Rising" describes the last fortnight, not the next one.
 
 crosstalkwire.com
