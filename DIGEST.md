@@ -1,6 +1,6 @@
 # Crosstalk — week ending 27 August 2026
 
-*13,636 articles over 123 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*13,648 articles over 123 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
@@ -16,12 +16,12 @@
 | self sufficiency | 2 | 7 | 2.3× |
 | digital twin | 2 | 9 | 2.2× |
 | iron ore | 3 | 6 | 2.0× |
-| key growth | 2 | 6 | 2.0× |
 | charging network | 2 | 7 | 1.8× |
 | solar generation | 2 | 7 | 1.8× |
-| balance sheet | 2 | 7 | 1.8× |
 | solar cell | 2 | 10 | 1.7× |
 | large crude carrier | 2 | 5 | 1.7× |
+| power supply | 2 | 8 | 1.6× |
+| hormuz crisis | 2 | 8 | 1.6× |
 
 ---
 
