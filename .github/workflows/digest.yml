@@ -44,6 +44,7 @@ jobs:
           code=$(curl -sS -o response.json -w "%{http_code}" \
             -X POST https://api.buttondown.com/v1/emails \
             -H "Authorization: Token $KEY" \
+            -H "X-Buttondown-Live-Dangerously: true" \
             -H "Content-Type: application/json" \
             --data-binary @payload.json)
           echo "HTTP $code"
