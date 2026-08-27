@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-27T19:47:03.168245+00:00",
+ "generated": "2026-08-27T20:26:52.737644+00:00",
  "placeWords": [
   "africa",
   "alberta",
@@ -316,7 +316,7 @@
    },
    {
     "day": "2026-08-27",
-    "close": 106.5
+    "close": 106.98
    }
   ],
   "Supply chain": [
@@ -566,7 +566,7 @@
    },
    {
     "day": "2026-08-27",
-    "close": 86.63
+    "close": 86.4
    }
   ],
   "Materials": [
@@ -816,7 +816,7 @@
    },
    {
     "day": "2026-08-27",
-    "close": 53.27
+    "close": 53.24
    }
   ],
   "Energy": [
@@ -1066,7 +1066,7 @@
    },
    {
     "day": "2026-08-27",
-    "close": 62.47
+    "close": 62.27
    }
   ],
   "Finance": [
@@ -1316,7 +1316,7 @@
    },
    {
     "day": "2026-08-27",
-    "close": 57.85
+    "close": 57.89
    }
   ],
   "Industrials": [
@@ -1566,7 +1566,7 @@
    },
    {
     "day": "2026-08-27",
-    "close": 178.62
+    "close": 178.83
    }
   ],
   "Technology": [
@@ -1816,7 +1816,7 @@
    },
    {
     "day": "2026-08-27",
-    "close": 187.86
+    "close": 188.64
    }
   ],
   "Real estate": [
@@ -2066,7 +2066,7 @@
    },
    {
     "day": "2026-08-27",
-    "close": 44.66
+    "close": 44.64
    }
   ],
   "Utilities": [
@@ -2816,14 +2816,14 @@
    },
    {
     "day": "2026-08-27",
-    "close": 115.9
+    "close": 115.88
    }
   ]
  },
  "coverage": [
   [
    "US",
-   8212
+   8218
   ],
   [
    "TW",
@@ -2847,7 +2847,7 @@
   ],
   [
    "GR",
-   438
+   439
   ],
   [
    "SG",
@@ -24869,15 +24869,15 @@
   ]
  },
  "daysCollected": 123,
- "articlesStored": 13992,
- "articlesLive": 10237,
+ "articlesStored": 13999,
+ "articlesLive": 10244,
  "windowDays": 90,
  "terms": [
   {
    "id": "iron-ore",
    "term": "iron ore",
    "direction": "rising",
-   "ratio": 0.7279561001277907,
+   "ratio": 0.727573253193088,
    "display": true,
    "adoptionSpan": 56,
    "pace": "gradual",
@@ -25455,7 +25455,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.83,
+   "relRatio": 1.81,
    "docFreq": 0.0005,
    "specificity": 0.985,
    "homeShare": 0.6,
@@ -25467,7 +25467,7 @@
    "id": "electricity-demand",
    "term": "electricity demand",
    "direction": "steady",
-   "ratio": 0.5095692700894535,
+   "ratio": 0.5093012772351615,
    "display": true,
    "adoptionSpan": 51,
    "pace": "gradual",
@@ -25619,7 +25619,7 @@
      "steady",
      2,
      2,
-     228.6,
+     228.9,
      [
       {
        "title": "The Forgotten Generation: Why Cogeneration is Re-Emerging in the Age of AI",
@@ -25657,7 +25657,7 @@
      "rising",
      4,
      2,
-     171.4,
+     171.7,
      [
       {
        "title": "45 Power Plants in India Running on Critically Low Levels of Coal Stocks",
@@ -26162,7 +26162,7 @@
      "n": 4
     }
    ],
-   "relRatio": 1.28,
+   "relRatio": 1.27,
    "docFreq": 0.0011,
    "specificity": 0.965,
    "homeShare": 0.714,
@@ -26174,7 +26174,7 @@
    "id": "value-chain",
    "term": "value chain",
    "direction": "rising",
-   "ratio": 1.2739231752236335,
+   "ratio": 1.2732531930879039,
    "display": true,
    "adoptionSpan": 19,
    "pace": "mixed",
@@ -26740,7 +26740,7 @@
      "n": 0
     }
    ],
-   "relRatio": 3.2,
+   "relRatio": 3.17,
    "docFreq": 0.0005,
    "specificity": 0.982,
    "homeShare": 0.833,
@@ -26752,7 +26752,7 @@
    "id": "electricity-price",
    "term": "electricity price",
    "direction": "rising",
-   "ratio": 0.545967075095843,
+   "ratio": 0.5456799398948159,
    "display": true,
    "adoptionSpan": 64,
    "pace": "gradual",
@@ -26885,7 +26885,7 @@
      "rising",
      4,
      2,
-     10.3,
+     10.2,
      [
       {
        "title": "Private Equity Is Circling Utilities as AI Reshapes the Grid",
@@ -27322,7 +27322,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.37,
+   "relRatio": 1.36,
    "docFreq": 0.0005,
    "specificity": 0.985,
    "homeShare": 0.8,
@@ -27334,7 +27334,7 @@
    "id": "climate-change",
    "term": "climate change",
    "direction": "steady",
-   "ratio": 0.4246410584078779,
+   "ratio": 0.4244177310293013,
    "display": true,
    "adoptionSpan": 19,
    "pace": "mixed",
@@ -27543,7 +27543,7 @@
      "new",
      4,
      0,
-     914.3,
+     915.6,
      [
       {
        "title": "Rhine low \u2f00water crisis\u2f01 due to \u2018decades of delay in modernising infrastructure'",
@@ -27989,7 +27989,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.07,
+   "relRatio": 1.06,
    "docFreq": 0.0005,
    "specificity": 0.982,
    "homeShare": 0.75,
@@ -28001,7 +28001,7 @@
    "id": "green-hydrogen",
    "term": "green hydrogen",
    "direction": "steady",
-   "ratio": 0.4549725625798692,
+   "ratio": 0.45473328324567996,
    "display": true,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -28563,7 +28563,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.14,
+   "relRatio": 1.13,
    "docFreq": 0.0004,
    "specificity": 0.987,
    "homeShare": 0.75,
@@ -28575,7 +28575,7 @@
    "id": "natural-gas",
    "term": "natural gas",
    "direction": "falling",
-   "ratio": 0.1945399922755303,
+   "ratio": 0.19443767973263557,
    "display": true,
    "adoptionSpan": 44,
    "pace": "gradual",
@@ -28886,7 +28886,7 @@
      "falling",
      2,
      6,
-     154.8,
+     155.1,
      [
       {
        "title": "Norway's Oil Output Falls Nearly 200,000 Bpd as Gulf Supply Crisis Drags On",
@@ -28910,7 +28910,7 @@
      "rising",
      6,
      4,
-     116.1,
+     116.3,
      [
       {
        "title": "Thailand Accelerates Clean Energy Push to Cut LNG Dependence",
@@ -29422,7 +29422,7 @@
      "n": 1
     }
    ],
-   "relRatio": 0.49,
+   "relRatio": 0.48,
    "docFreq": 0.0023,
    "specificity": 0.922,
    "homeShare": 0.615,
@@ -29434,7 +29434,7 @@
    "id": "low-water",
    "term": "low water",
    "direction": "steady",
-   "ratio": 0.4549725625798692,
+   "ratio": 0.45473328324567996,
    "display": true,
    "adoptionSpan": 5,
    "pace": "simultaneous",
@@ -29589,7 +29589,7 @@
      "steady",
      2,
      2,
-     480.0,
+     480.7,
      [
       {
        "title": "Amazon drought triggers container surcharges of up to $1,900",
@@ -29613,7 +29613,7 @@
      "new",
      4,
      0,
-     274.3,
+     274.7,
      [
       {
        "title": "Rhine low water crisis due to \u2018decades of delay in modernising infrastructure'",
@@ -30090,7 +30090,7 @@
     "low water level",
     "water level"
    ],
-   "relRatio": 1.14,
+   "relRatio": 1.13,
    "docFreq": 0.0008,
    "specificity": 0.975,
    "homeShare": 0.778,
@@ -30102,7 +30102,7 @@
    "id": "self-sufficiency",
    "term": "self sufficiency",
    "direction": "rising",
-   "ratio": 0.8492821168157558,
+   "ratio": 0.8488354620586026,
    "display": true,
    "adoptionSpan": 22,
    "pace": "mixed",
@@ -30660,7 +30660,7 @@
      "n": 1
     }
    ],
-   "relRatio": 2.13,
+   "relRatio": 2.12,
    "docFreq": 0.0005,
    "specificity": 0.982,
    "homeShare": 0.833,
@@ -30672,7 +30672,7 @@
    "id": "battery-plant",
    "term": "battery plant",
    "direction": "falling",
-   "ratio": 0.24265203337593022,
+   "ratio": 0.2425244177310293,
    "display": true,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -31203,7 +31203,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.61,
+   "relRatio": 0.6,
    "docFreq": 0.0003,
    "specificity": 0.99,
    "homeShare": 0.75,
@@ -31215,7 +31215,7 @@
    "id": "charging-network",
    "term": "charging network",
    "direction": "rising",
-   "ratio": 0.6369615876118168,
+   "ratio": 0.6366265965439519,
    "display": true,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -31755,7 +31755,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.6,
+   "relRatio": 1.59,
    "docFreq": 0.0005,
    "specificity": 0.982,
    "homeShare": 0.714,
@@ -31768,7 +31768,7 @@
    "id": "electric-vehicle",
    "term": "electric vehicle",
    "direction": "steady",
-   "ratio": 0.3874605049067273,
+   "ratio": 0.3872567315382565,
    "display": true,
    "adoptionSpan": 39,
    "pace": "gradual",
@@ -32025,7 +32025,7 @@
      "steady",
      2,
      2,
-     145.5,
+     145.7,
      [
       {
        "title": "Continental develops recycled tyres for electric vehicles",
@@ -32528,7 +32528,7 @@
    "id": "critical-infrastructure",
    "term": "critical infrastructure",
    "direction": "steady",
-   "ratio": 0.36397805006389533,
+   "ratio": 0.363786626596544,
    "display": true,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -33108,7 +33108,7 @@
    "id": "low-carbon",
    "term": "low carbon",
    "direction": "steady",
-   "ratio": 0.48530406675186044,
+   "ratio": 0.4850488354620586,
    "display": true,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -33719,7 +33719,7 @@
      "n": 1
     }
    ],
-   "relRatio": 1.22,
+   "relRatio": 1.21,
    "docFreq": 0.0006,
    "specificity": 0.98,
    "homeShare": 0.667,
@@ -33731,7 +33731,7 @@
    "id": "clean-energy",
    "term": "clean energy",
    "direction": "falling",
-   "ratio": 0.26691723671352324,
+   "ratio": 0.2667768595041322,
    "display": true,
    "adoptionSpan": 58,
    "pace": "gradual",
@@ -34017,7 +34017,7 @@
      "new",
      4,
      0,
-     174.5,
+     174.8,
      [
       {
        "title": "Delaware enacts clean energy mandate for \u2f00hyperscale data centers\u2f01",
@@ -34551,7 +34551,7 @@
    "id": "ride-hailing",
    "term": "ride hailing",
    "direction": "steady",
-   "ratio": 0.36397805006389533,
+   "ratio": 0.363786626596544,
    "display": true,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -35095,7 +35095,7 @@
    "id": "precious-metal",
    "term": "precious metal",
    "direction": "rising",
-   "ratio": 0.8189506126437646,
+   "ratio": 0.8185199098422239,
    "display": true,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -35250,7 +35250,7 @@
      "rising",
      4,
      2,
-     1066.7,
+     1068.2,
      [
       {
        "title": "\u2f00Silver prices\u2f01 rebound as AI, data centers add to industrial demand",
@@ -35714,7 +35714,7 @@
      "n": 1
     }
    ],
-   "relRatio": 2.05,
+   "relRatio": 2.04,
    "docFreq": 0.0007,
    "specificity": 0.977,
    "homeShare": 0.714,
@@ -35727,7 +35727,7 @@
    "id": "quantum-computing",
    "term": "quantum computing",
    "direction": "steady",
-   "ratio": 0.36397805006389533,
+   "ratio": 0.363786626596544,
    "display": true,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -36306,7 +36306,7 @@
    "id": "grid-scale",
    "term": "grid scale",
    "direction": "rising",
-   "ratio": 1.091934150191686,
+   "ratio": 1.0913598797896318,
    "display": true,
    "adoptionSpan": 37,
    "pace": "gradual",
@@ -36421,7 +36421,7 @@
      "rising",
      4,
      2,
-     50.8,
+     50.9,
      [
       {
        "title": "40 GW project pipeline has Australia's energy transition on track",
@@ -36865,7 +36865,7 @@
      "n": 1
     }
    ],
-   "relRatio": 2.74,
+   "relRatio": 2.72,
    "docFreq": 0.0005,
    "specificity": 0.985,
    "homeShare": 0.667,
@@ -36877,7 +36877,7 @@
    "id": "tariff-refund",
    "term": "tariff refund",
    "direction": "steady",
-   "ratio": 0.3184807938059084,
+   "ratio": 0.31831329827197596,
    "display": true,
    "adoptionSpan": 5,
    "pace": "simultaneous",
@@ -37470,7 +37470,7 @@
      "n": 2
     }
    ],
-   "relRatio": 0.8,
+   "relRatio": 0.79,
    "docFreq": 0.0005,
    "specificity": 0.982,
    "homeShare": 0.6,
@@ -37483,7 +37483,7 @@
    "id": "vessel-attack",
    "term": "vessel attack",
    "direction": "rising",
-   "ratio": 1.8198902503194767,
+   "ratio": 1.8189331329827199,
    "display": true,
    "adoptionSpan": 10,
    "pace": "mixed",
@@ -37997,7 +37997,7 @@
      "n": 0
     }
    ],
-   "relRatio": 4.57,
+   "relRatio": 4.53,
    "docFreq": 0.0004,
    "specificity": 0.987,
    "homeShare": 0.6,
@@ -38009,7 +38009,7 @@
    "id": "battery-cell",
    "term": "battery cell",
    "direction": "steady",
-   "ratio": 0.36397805006389533,
+   "ratio": 0.3637866265965439,
    "display": true,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -38634,7 +38634,7 @@
    "id": "autonomous-vehicle",
    "term": "autonomous vehicle",
    "direction": "steady",
-   "ratio": 0.4246410584078779,
+   "ratio": 0.4244177310293013,
    "display": true,
    "adoptionSpan": 3,
    "pace": "simultaneous",
@@ -39236,7 +39236,7 @@
      "n": 1
     }
    ],
-   "relRatio": 1.07,
+   "relRatio": 1.06,
    "docFreq": 0.0005,
    "specificity": 0.982,
    "homeShare": 0.571,
@@ -39248,7 +39248,7 @@
    "id": "water-system",
    "term": "water system",
    "direction": "falling",
-   "ratio": 0.21838683003833723,
+   "ratio": 0.21827197595792638,
    "display": true,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -39767,7 +39767,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.55,
+   "relRatio": 0.54,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.667,
@@ -39779,7 +39779,7 @@
    "id": "offshore-wind",
    "term": "offshore wind",
    "direction": "falling",
-   "ratio": 0.25198480389038913,
+   "ratio": 0.2518522799514535,
    "display": true,
    "adoptionSpan": 58,
    "pace": "gradual",
@@ -40403,19 +40403,22 @@
      "n": 2
     }
    ],
+   "variants": [
+    "wind farm"
+   ],
    "relRatio": 0.63,
    "docFreq": 0.0007,
    "specificity": 0.977,
    "homeShare": 0.333,
    "daysSeen": 6,
    "rank": 0.472,
-   "nearShare": 0.2
+   "nearShare": 0.196
   },
   {
    "id": "digital-twin",
    "term": "digital twin",
    "direction": "rising",
-   "ratio": 0.9099451251597384,
+   "ratio": 0.9094665664913599,
    "display": true,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -41062,7 +41065,7 @@
      "n": 2
     }
    ],
-   "relRatio": 2.28,
+   "relRatio": 2.27,
    "docFreq": 0.0008,
    "specificity": 0.975,
    "homeShare": 0.5,
@@ -41074,7 +41077,7 @@
    "id": "solid-state",
    "term": "solid state",
    "direction": "falling",
-   "ratio": 0.19598818080363595,
+   "ratio": 0.1958851066289083,
    "display": true,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -41691,7 +41694,7 @@
    "id": "supply-constraint",
    "term": "supply constraint",
    "direction": "falling",
-   "ratio": 0.20798745717936876,
+   "ratio": 0.20787807234088226,
    "display": true,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -42256,7 +42259,7 @@
    "id": "supply-chain",
    "term": "supply chain",
    "direction": "steady",
-   "ratio": 0.48315670362463986,
+   "ratio": 0.48290260167682825,
    "display": false,
    "adoptionSpan": 70,
    "pace": "gradual",
@@ -42640,7 +42643,7 @@
      "steady",
      4,
      4,
-     64.0,
+     64.1,
      [
       {
        "title": "India now moving to build deeper supply chain of electronics manufacturing: Vaishnaw",
@@ -42664,7 +42667,7 @@
      "new",
      6,
      0,
-     38.4,
+     38.5,
      [
       {
        "title": "Tri-fold, rollable foldables intensify materials supply chain battle",
@@ -43159,7 +43162,7 @@
     "global supply chain",
     "supply chain resilience"
    ],
-   "relRatio": 1.21,
+   "relRatio": 1.2,
    "docFreq": 0.0113,
    "specificity": 0.624,
    "homeShare": 0.673,
@@ -43170,7 +43173,7 @@
    "id": "power-supply",
    "term": "power supply",
    "direction": "rising",
-   "ratio": 0.5823648801022325,
+   "ratio": 0.5820586025544704,
    "display": false,
    "adoptionSpan": 5,
    "pace": "simultaneous",
@@ -43760,7 +43763,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.46,
+   "relRatio": 1.45,
    "docFreq": 0.0006,
    "specificity": 0.98,
    "homeShare": 0.857,
@@ -43771,7 +43774,7 @@
    "id": "drone-attack",
    "term": "drone attack",
    "direction": "falling",
-   "ratio": 0.27298353754792154,
+   "ratio": 0.27283996994740795,
    "display": false,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -43890,7 +43893,7 @@
      "rising",
      4,
      2,
-     1066.7,
+     1068.2,
      [
       {
        "title": "MSC suspends Novorossiysk bookings after drone attack",
@@ -44372,7 +44375,7 @@
    "id": "nuclear-power",
    "term": "nuclear power",
    "direction": "steady",
-   "ratio": 0.30710647974141164,
+   "ratio": 0.30694496619083395,
    "display": false,
    "adoptionSpan": 69,
    "pace": "gradual",
@@ -44592,7 +44595,7 @@
      "steady",
      2,
      2,
-     118.5,
+     118.7,
      [
       {
        "title": "China fusion consortium targets 25T superconducting magnet prototype by 2030",
@@ -45118,7 +45121,7 @@
    "id": "solar-cell",
    "term": "solar cell",
    "direction": "rising",
-   "ratio": 0.6066300834398256,
+   "ratio": 0.6063110443275733,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -45699,7 +45702,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.52,
+   "relRatio": 1.51,
    "docFreq": 0.0008,
    "specificity": 0.975,
    "homeShare": 0.889,
@@ -45710,7 +45713,7 @@
    "id": "zero-emission",
    "term": "zero emission",
    "direction": "falling",
-   "ratio": 0.25998432147421097,
+   "ratio": 0.25984759042610284,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -45869,7 +45872,7 @@
      "steady",
      2,
      2,
-     6.2,
+     6.1,
      [
       {
        "title": "Clean tech startup scores $35M funding for new aluminum-based energy system",
@@ -46308,16 +46311,16 @@
    "id": "data-center",
    "term": "data center",
    "direction": "steady",
-   "ratio": 0.3760303033772694,
+   "ratio": 0.37703713286330554,
    "display": false,
    "adoptionSpan": 82,
    "pace": "gradual",
    "kind": "concept",
    "sectorCount": 10,
-   "effectiveSectors": 2.96,
+   "effectiveSectors": 2.95,
    "newestSector": "Materials",
    "daysSinceNewestSector": 6,
-   "articles14d": 312,
+   "articles14d": 313,
    "articlesPrior14d": 302,
    "publishers": 23,
    "events": 286,
@@ -46328,7 +46331,7 @@
      "firstSeen": "2026-05-31",
      "recent": 22,
      "articles": 77,
-     "share": 0.071,
+     "share": 0.07,
      "atSectorStart": false,
      "grip": 0.429,
      "outlets": 3,
@@ -46348,8 +46351,8 @@
     {
      "name": "Technology",
      "firstSeen": "2026-06-01",
-     "recent": 237,
-     "articles": 491,
+     "recent": 238,
+     "articles": 492,
      "share": 0.76,
      "atSectorStart": false,
      "grip": 0.667,
@@ -46438,7 +46441,7 @@
    "origins": [
     [
      "US",
-     500
+     501
     ],
     [
      "TW",
@@ -46493,7 +46496,7 @@
        104,
        128,
        117,
-       96
+       97
       ]
      },
      {
@@ -46721,7 +46724,7 @@
      "new",
      4,
      0,
-     30.8,
+     30.7,
      [
       {
        "title": "Duke Energy Florida asks to punt on rate for \u2f00large load customers\u2f01",
@@ -47209,7 +47212,7 @@
     },
     {
      "day": "2026-08-27",
-     "n": 29
+     "n": 30
     }
    ],
    "variants": [
@@ -47220,16 +47223,16 @@
    ],
    "relRatio": 0.94,
    "docFreq": 0.0235,
-   "specificity": 0.218,
+   "specificity": 0.216,
    "homeShare": 0.76,
    "daysSeen": 14,
-   "rank": 0.856
+   "rank": 0.852
   },
   {
    "id": "heat-pump",
    "term": "heat pump",
    "direction": "rising",
-   "ratio": 0.6239623715381063,
+   "ratio": 0.6236342170226468,
    "display": false,
    "adoptionSpan": 62,
    "pace": "gradual",
@@ -47850,7 +47853,7 @@
      "n": 3
     }
    ],
-   "relRatio": 1.57,
+   "relRatio": 1.55,
    "docFreq": 0.0009,
    "specificity": 0.97,
    "homeShare": 0.909,
@@ -47861,7 +47864,7 @@
    "id": "battery-electric",
    "term": "battery electric",
    "direction": "steady",
-   "ratio": 0.5095692700894535,
+   "ratio": 0.5093012772351615,
    "display": false,
    "adoptionSpan": 9,
    "pace": "mixed",
@@ -48522,7 +48525,7 @@
      "n": 1
     }
    ],
-   "relRatio": 1.28,
+   "relRatio": 1.27,
    "docFreq": 0.0011,
    "specificity": 0.965,
    "homeShare": 0.833,
@@ -48533,7 +48536,7 @@
    "id": "digital-asset",
    "term": "digital asset",
    "direction": "steady",
-   "ratio": 0.48530406675186044,
+   "ratio": 0.4850488354620586,
    "display": false,
    "adoptionSpan": 21,
    "pace": "mixed",
@@ -49064,7 +49067,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.22,
+   "relRatio": 1.21,
    "docFreq": 0.0003,
    "specificity": 0.99,
    "homeShare": 0.75,
@@ -49075,7 +49078,7 @@
    "id": "fossil-fuel",
    "term": "fossil fuel",
    "direction": "falling",
-   "ratio": 0.28598275362163206,
+   "ratio": 0.2858323494687131,
    "display": false,
    "adoptionSpan": 17,
    "pace": "mixed",
@@ -49726,7 +49729,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.72,
+   "relRatio": 0.71,
    "docFreq": 0.0008,
    "specificity": 0.972,
    "homeShare": 0.9,
@@ -49737,7 +49740,7 @@
    "id": "scale-solar",
    "term": "scale solar",
    "direction": "steady",
-   "ratio": 0.3033150417199128,
+   "ratio": 0.30315552216378666,
    "display": false,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -50263,10 +50266,521 @@
    "rank": 0.803
   },
   {
+   "id": "energy-policy",
+   "term": "energy policy",
+   "direction": "steady",
+   "ratio": 0.4850488354620586,
+   "display": false,
+   "adoptionSpan": 4,
+   "pace": "simultaneous",
+   "kind": "concept",
+   "sectorCount": 2,
+   "effectiveSectors": 1.98,
+   "newestSector": "Utilities",
+   "daysSinceNewestSector": 20,
+   "articles14d": 4,
+   "articlesPrior14d": 3,
+   "publishers": 2,
+   "events": 3,
+   "topPubShare": 0.667,
+   "sectors": [
+    {
+     "name": "Energy",
+     "firstSeen": "2026-08-03",
+     "recent": 3,
+     "articles": 4,
+     "share": 0.75,
+     "atSectorStart": false,
+     "grip": 0.333,
+     "outlets": 2,
+     "adopt": 65
+    },
+    {
+     "name": "Utilities",
+     "firstSeen": "2026-08-07",
+     "recent": 1,
+     "articles": 3,
+     "share": 0.25,
+     "atSectorStart": false,
+     "grip": 0.286,
+     "outlets": 2,
+     "adopt": 69
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "US",
+     4
+    ],
+    [
+     "GB",
+     2
+    ],
+    [
+     "IN",
+     1
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-05-30",
+     "2026-06-06",
+     "2026-06-13",
+     "2026-06-20",
+     "2026-06-27",
+     "2026-07-04",
+     "2026-07-11",
+     "2026-07-18",
+     "2026-07-25",
+     "2026-08-01",
+     "2026-08-08",
+     "2026-08-15",
+     "2026-08-22"
+    ],
+    "bands": [
+     {
+      "sector": "Energy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       2,
+       1
+      ]
+     },
+     {
+      "sector": "Utilities",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       1,
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   "cooc": [],
+   "examples": [
+    {
+     "publisher": "OilPrice",
+     "title": "U.S. In Talks To Take Direct Ownership Of Venezuelan Oil Fields",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/US-In-Talks-To-Take-Direct-Ownership-Of-Venezuelan-Oil-Fields.html",
+     "date": "2026-08-27",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026ficantly alter Washington's foreign \u2f00energy policy\u2f01 framework and expand U.S.-controlled global reserves. The targeted fields represent a strategic slice\u2026"
+    },
+    {
+     "publisher": "Utility Dive",
+     "title": "Trump's \u2f00energy policy\u2f01 could cost US 540 GW of renewables, says NRDC",
+     "url": "https://www.utilitydive.com/news/trumps-energy-policy-could-cost-us-540-gw-of-renewables-says-nrdc/828826/",
+     "date": "2026-08-26",
+     "sector": "Utilities",
+     "country": "US",
+     "quote": ""
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Just 7% of America's Nuclear Fuel Comes From Home",
+     "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Just-7-of-Americas-Nuclear-Fuel-Comes-From-Home.html",
+     "date": "2026-08-15",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026ast long without drastic changes in \u2f00energy policy\u2f01 and investment at the state and federal level. The United States' nuclear energy fleet, while sizable, is agi\u2026"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-05-30",
+     "n": 0
+    },
+    {
+     "day": "2026-05-31",
+     "n": 0
+    },
+    {
+     "day": "2026-06-01",
+     "n": 0
+    },
+    {
+     "day": "2026-06-02",
+     "n": 0
+    },
+    {
+     "day": "2026-06-03",
+     "n": 0
+    },
+    {
+     "day": "2026-06-04",
+     "n": 0
+    },
+    {
+     "day": "2026-06-05",
+     "n": 0
+    },
+    {
+     "day": "2026-06-06",
+     "n": 0
+    },
+    {
+     "day": "2026-06-07",
+     "n": 0
+    },
+    {
+     "day": "2026-06-08",
+     "n": 0
+    },
+    {
+     "day": "2026-06-09",
+     "n": 0
+    },
+    {
+     "day": "2026-06-10",
+     "n": 0
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 0
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 0
+    },
+    {
+     "day": "2026-06-16",
+     "n": 0
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 0
+    },
+    {
+     "day": "2026-06-19",
+     "n": 0
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 0
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-31",
+     "n": 0
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 1
+    },
+    {
+     "day": "2026-08-04",
+     "n": 0
+    },
+    {
+     "day": "2026-08-05",
+     "n": 0
+    },
+    {
+     "day": "2026-08-06",
+     "n": 0
+    },
+    {
+     "day": "2026-08-07",
+     "n": 1
+    },
+    {
+     "day": "2026-08-08",
+     "n": 0
+    },
+    {
+     "day": "2026-08-09",
+     "n": 0
+    },
+    {
+     "day": "2026-08-10",
+     "n": 0
+    },
+    {
+     "day": "2026-08-11",
+     "n": 1
+    },
+    {
+     "day": "2026-08-12",
+     "n": 0
+    },
+    {
+     "day": "2026-08-13",
+     "n": 0
+    },
+    {
+     "day": "2026-08-14",
+     "n": 0
+    },
+    {
+     "day": "2026-08-15",
+     "n": 2
+    },
+    {
+     "day": "2026-08-16",
+     "n": 0
+    },
+    {
+     "day": "2026-08-17",
+     "n": 0
+    },
+    {
+     "day": "2026-08-18",
+     "n": 0
+    },
+    {
+     "day": "2026-08-19",
+     "n": 0
+    },
+    {
+     "day": "2026-08-20",
+     "n": 0
+    },
+    {
+     "day": "2026-08-21",
+     "n": 0
+    },
+    {
+     "day": "2026-08-22",
+     "n": 0
+    },
+    {
+     "day": "2026-08-23",
+     "n": 0
+    },
+    {
+     "day": "2026-08-24",
+     "n": 0
+    },
+    {
+     "day": "2026-08-25",
+     "n": 0
+    },
+    {
+     "day": "2026-08-26",
+     "n": 1
+    },
+    {
+     "day": "2026-08-27",
+     "n": 1
+    }
+   ],
+   "relRatio": 1.21,
+   "docFreq": 0.0003,
+   "specificity": 0.99,
+   "homeShare": 0.75,
+   "daysSeen": 3,
+   "rank": 0.801
+  },
+  {
    "id": "energy-grid",
    "term": "energy grid",
    "direction": "rising",
-   "ratio": 1.091934150191686,
+   "ratio": 1.0913598797896318,
    "display": false,
    "adoptionSpan": 51,
    "pace": "gradual",
@@ -50395,7 +50909,7 @@
      "steady",
      2,
      2,
-     10.3,
+     10.2,
      [
       {
        "title": "\u2f00Data center\u2f01 load made up 9% of PJM wholesale costs so far in 2026: market monitor",
@@ -50824,7 +51338,7 @@
      "n": 0
     }
    ],
-   "relRatio": 2.74,
+   "relRatio": 2.72,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.667,
@@ -50835,7 +51349,7 @@
    "id": "crude-oil",
    "term": "crude oil",
    "direction": "steady",
-   "ratio": 0.3033150417199128,
+   "ratio": 0.3031555221637866,
    "display": false,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -51004,7 +51518,7 @@
      "steady",
      2,
      2,
-     213.3,
+     213.6,
      [
       {
        "title": "Norway's Oil Output Falls Nearly 200,000 Bpd as Gulf Supply Crisis Drags On",
@@ -51506,7 +52020,7 @@
    "id": "solar-generation",
    "term": "solar generation",
    "direction": "rising",
-   "ratio": 0.7279561001277907,
+   "ratio": 0.727573253193088,
    "display": false,
    "adoptionSpan": 9,
    "pace": "mixed",
@@ -51643,7 +52157,7 @@
      "new",
      6,
      0,
-     76.6,
+     76.7,
      [
       {
        "title": "Battery boom brings round-the-clock solar closer, Ember says",
@@ -52105,7 +52619,7 @@
      "n": 1
     }
    ],
-   "relRatio": 1.83,
+   "relRatio": 1.81,
    "docFreq": 0.0006,
    "specificity": 0.98,
    "homeShare": 0.714,
@@ -52116,7 +52630,7 @@
    "id": "global-energy",
    "term": "global energy",
    "direction": "falling",
-   "ratio": 0.26471130913737845,
+   "ratio": 0.2645720920702138,
    "display": false,
    "adoptionSpan": 54,
    "pace": "gradual",
@@ -52279,7 +52793,7 @@
      "steady",
      2,
      2,
-     150.0,
+     150.2,
      [
       {
        "title": "Infineon buys India-based C2i Semiconductors to bolster AI data center power systems",
@@ -52303,7 +52817,7 @@
      "steady",
      2,
      2,
-     19.0,
+     19.1,
      [
       {
        "title": "Global Oil Security Looks Shakier as Conflicts Hit 45 Million Bpd of Supply",
@@ -52807,7 +53321,7 @@
    "id": "real-estate",
    "term": "real estate",
    "direction": "falling",
-   "ratio": 0.2696133704177003,
+   "ratio": 0.2739627681776442,
    "display": false,
    "adoptionSpan": 62,
    "pace": "gradual",
@@ -52816,7 +53330,7 @@
    "effectiveSectors": 1.3,
    "newestSector": "Technology",
    "daysSinceNewestSector": 24,
-   "articles14d": 60,
+   "articles14d": 61,
    "articlesPrior14d": 81,
    "publishers": 10,
    "events": 61,
@@ -52825,9 +53339,9 @@
     {
      "name": "Real estate",
      "firstSeen": "2026-06-02",
-     "recent": 52,
-     "articles": 145,
-     "share": 0.945,
+     "recent": 53,
+     "articles": 146,
+     "share": 0.946,
      "atSectorStart": false,
      "grip": 0.5,
      "outlets": 3,
@@ -52860,7 +53374,7 @@
    "origins": [
     [
      "US",
-     125
+     126
     ],
     [
      "HK",
@@ -52907,7 +53421,7 @@
        41,
        36,
        27,
-       19
+       20
       ]
      },
      {
@@ -53562,13 +54076,13 @@
     },
     {
      "day": "2026-08-27",
-     "n": 5
+     "n": 6
     }
    ],
    "relRatio": 0.68,
-   "docFreq": 0.0045,
-   "specificity": 0.85,
-   "homeShare": 0.945,
+   "docFreq": 0.0046,
+   "specificity": 0.847,
+   "homeShare": 0.946,
    "daysSeen": 11,
    "rank": 0.748
   },
@@ -53576,7 +54090,7 @@
    "id": "power-grid",
    "term": "power grid",
    "direction": "falling",
-   "ratio": 0.10919341501916861,
+   "ratio": 0.10913598797896319,
    "display": false,
    "adoptionSpan": 13,
    "pace": "mixed",
@@ -53749,7 +54263,7 @@
      "steady",
      2,
      2,
-     228.6,
+     228.9,
      [
       {
        "title": "The Forgotten Generation: Why Cogeneration is Re-Emerging in the Age of AI",
@@ -54184,7 +54698,7 @@
    "id": "mass-production",
    "term": "mass production",
    "direction": "rising",
-   "ratio": 0.5459670750958431,
+   "ratio": 0.5456799398948159,
    "display": false,
    "adoptionSpan": 31,
    "pace": "gradual",
@@ -54809,7 +55323,7 @@
      "n": 3
     }
    ],
-   "relRatio": 1.37,
+   "relRatio": 1.36,
    "docFreq": 0.0027,
    "specificity": 0.91,
    "homeShare": 0.917,
@@ -54820,7 +55334,7 @@
    "id": "red-sea",
    "term": "red sea",
    "direction": "steady",
-   "ratio": 0.31544764338870934,
+   "ratio": 0.3152817430503381,
    "display": false,
    "adoptionSpan": 17,
    "pace": "mixed",
@@ -54979,7 +55493,7 @@
      "new",
      4,
      0,
-     246.2,
+     246.5,
      [
       {
        "title": "Houthi strike hits Saudi VLCC off Yanbu",
@@ -55478,512 +55992,10 @@
    "rank": 0.69
   },
   {
-   "id": "energy-policy",
-   "term": "energy policy",
-   "direction": "steady",
-   "ratio": 0.36397805006389533,
-   "display": false,
-   "adoptionSpan": 4,
-   "pace": "simultaneous",
-   "kind": "concept",
-   "sectorCount": 2,
-   "effectiveSectors": 2.0,
-   "newestSector": "Utilities",
-   "daysSinceNewestSector": 20,
-   "articles14d": 3,
-   "articlesPrior14d": 3,
-   "publishers": 2,
-   "events": 2,
-   "topPubShare": 0.5,
-   "sectors": [
-    {
-     "name": "Energy",
-     "firstSeen": "2026-08-03",
-     "recent": 2,
-     "articles": 3,
-     "share": 0.667,
-     "atSectorStart": false,
-     "grip": 0.333,
-     "outlets": 2,
-     "adopt": 65
-    },
-    {
-     "name": "Utilities",
-     "firstSeen": "2026-08-07",
-     "recent": 1,
-     "articles": 3,
-     "share": 0.333,
-     "atSectorStart": false,
-     "grip": 0.286,
-     "outlets": 2,
-     "adopt": 69
-    }
-   ],
-   "sinceStart": false,
-   "origins": [
-    [
-     "US",
-     3
-    ],
-    [
-     "GB",
-     2
-    ],
-    [
-     "IN",
-     1
-    ]
-   ],
-   "flow": {
-    "weeks": [
-     "2026-05-30",
-     "2026-06-06",
-     "2026-06-13",
-     "2026-06-20",
-     "2026-06-27",
-     "2026-07-04",
-     "2026-07-11",
-     "2026-07-18",
-     "2026-07-25",
-     "2026-08-01",
-     "2026-08-08",
-     "2026-08-15",
-     "2026-08-22"
-    ],
-    "bands": [
-     {
-      "sector": "Energy",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       2,
-       0
-      ]
-     },
-     {
-      "sector": "Utilities",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       1,
-       0,
-       1
-      ]
-     }
-    ]
-   },
-   "cooc": [],
-   "examples": [
-    {
-     "publisher": "Utility Dive",
-     "title": "Trump's \u2f00energy policy\u2f01 could cost US 540 GW of renewables, says NRDC",
-     "url": "https://www.utilitydive.com/news/trumps-energy-policy-could-cost-us-540-gw-of-renewables-says-nrdc/828826/",
-     "date": "2026-08-26",
-     "sector": "Utilities",
-     "country": "US",
-     "quote": ""
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Just 7% of America's Nuclear Fuel Comes From Home",
-     "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Just-7-of-Americas-Nuclear-Fuel-Comes-From-Home.html",
-     "date": "2026-08-15",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026ast long without drastic changes in \u2f00energy policy\u2f01 and investment at the state and federal level. The United States' nuclear energy fleet, while sizable, is agi\u2026"
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-05-30",
-     "n": 0
-    },
-    {
-     "day": "2026-05-31",
-     "n": 0
-    },
-    {
-     "day": "2026-06-01",
-     "n": 0
-    },
-    {
-     "day": "2026-06-02",
-     "n": 0
-    },
-    {
-     "day": "2026-06-03",
-     "n": 0
-    },
-    {
-     "day": "2026-06-04",
-     "n": 0
-    },
-    {
-     "day": "2026-06-05",
-     "n": 0
-    },
-    {
-     "day": "2026-06-06",
-     "n": 0
-    },
-    {
-     "day": "2026-06-07",
-     "n": 0
-    },
-    {
-     "day": "2026-06-08",
-     "n": 0
-    },
-    {
-     "day": "2026-06-09",
-     "n": 0
-    },
-    {
-     "day": "2026-06-10",
-     "n": 0
-    },
-    {
-     "day": "2026-06-11",
-     "n": 0
-    },
-    {
-     "day": "2026-06-12",
-     "n": 0
-    },
-    {
-     "day": "2026-06-13",
-     "n": 0
-    },
-    {
-     "day": "2026-06-14",
-     "n": 0
-    },
-    {
-     "day": "2026-06-15",
-     "n": 0
-    },
-    {
-     "day": "2026-06-16",
-     "n": 0
-    },
-    {
-     "day": "2026-06-17",
-     "n": 0
-    },
-    {
-     "day": "2026-06-18",
-     "n": 0
-    },
-    {
-     "day": "2026-06-19",
-     "n": 0
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 0
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 0
-    },
-    {
-     "day": "2026-07-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 0
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 1
-    },
-    {
-     "day": "2026-08-04",
-     "n": 0
-    },
-    {
-     "day": "2026-08-05",
-     "n": 0
-    },
-    {
-     "day": "2026-08-06",
-     "n": 0
-    },
-    {
-     "day": "2026-08-07",
-     "n": 1
-    },
-    {
-     "day": "2026-08-08",
-     "n": 0
-    },
-    {
-     "day": "2026-08-09",
-     "n": 0
-    },
-    {
-     "day": "2026-08-10",
-     "n": 0
-    },
-    {
-     "day": "2026-08-11",
-     "n": 1
-    },
-    {
-     "day": "2026-08-12",
-     "n": 0
-    },
-    {
-     "day": "2026-08-13",
-     "n": 0
-    },
-    {
-     "day": "2026-08-14",
-     "n": 0
-    },
-    {
-     "day": "2026-08-15",
-     "n": 2
-    },
-    {
-     "day": "2026-08-16",
-     "n": 0
-    },
-    {
-     "day": "2026-08-17",
-     "n": 0
-    },
-    {
-     "day": "2026-08-18",
-     "n": 0
-    },
-    {
-     "day": "2026-08-19",
-     "n": 0
-    },
-    {
-     "day": "2026-08-20",
-     "n": 0
-    },
-    {
-     "day": "2026-08-21",
-     "n": 0
-    },
-    {
-     "day": "2026-08-22",
-     "n": 0
-    },
-    {
-     "day": "2026-08-23",
-     "n": 0
-    },
-    {
-     "day": "2026-08-24",
-     "n": 0
-    },
-    {
-     "day": "2026-08-25",
-     "n": 0
-    },
-    {
-     "day": "2026-08-26",
-     "n": 1
-    },
-    {
-     "day": "2026-08-27",
-     "n": 0
-    }
-   ],
-   "relRatio": 0.91,
-   "docFreq": 0.0002,
-   "specificity": 0.992,
-   "homeShare": 0.667,
-   "daysSeen": 2,
-   "rank": 0.679
-  },
-  {
    "id": "oil-price",
    "term": "oil price",
    "direction": "falling",
-   "ratio": 0.22398649234701254,
+   "ratio": 0.22386869329018091,
    "display": false,
    "adoptionSpan": 43,
    "pace": "gradual",
@@ -56709,7 +56721,7 @@
    "id": "solar-panel",
    "term": "solar panel",
    "direction": "rising",
-   "ratio": 0.5625115319169292,
+   "ratio": 0.5622156956492043,
    "display": false,
    "adoptionSpan": 10,
    "pace": "mixed",
@@ -57388,7 +57400,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.41,
+   "relRatio": 1.4,
    "docFreq": 0.0013,
    "specificity": 0.957,
    "homeShare": 0.857,
@@ -57399,7 +57411,7 @@
    "id": "oil-export",
    "term": "oil export",
    "direction": "steady",
-   "ratio": 0.4003758550702849,
+   "ratio": 0.4001652892561983,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -57510,7 +57522,7 @@
      "new",
      4,
      0,
-     436.4,
+     437.0,
      [
       {
        "title": "Qatar and Kuwait Restore 70% of Pre-War Oil Exports Through Hormuz",
@@ -58050,7 +58062,7 @@
    "id": "energy-bill",
    "term": "energy bill",
    "direction": "rising",
-   "ratio": 1.4559122002555813,
+   "ratio": 1.455146506386176,
    "display": false,
    "adoptionSpan": 58,
    "pace": "gradual",
@@ -58649,7 +58661,7 @@
      "n": 1
     }
    ],
-   "relRatio": 3.65,
+   "relRatio": 3.63,
    "docFreq": 0.0009,
    "specificity": 0.97,
    "homeShare": 0.583,
@@ -58660,7 +58672,7 @@
    "id": "critical-mineral",
    "term": "critical mineral",
    "direction": "falling",
-   "ratio": 0.1819890250319477,
+   "ratio": 0.181893313298272,
    "display": false,
    "adoptionSpan": 61,
    "pace": "gradual",
@@ -58862,7 +58874,7 @@
      "new",
      4,
      0,
-     256.0,
+     256.4,
      [
       {
        "title": "Battery recycling projects among DOE's latest $500M grant funding round",
@@ -58886,7 +58898,7 @@
      "rising",
      10,
      2,
-     96.0,
+     96.1,
      [
       {
        "title": "DOE proposes $10M for critical minerals research and development",
@@ -59398,7 +59410,7 @@
      "n": 2
     }
    ],
-   "relRatio": 0.46,
+   "relRatio": 0.45,
    "docFreq": 0.0019,
    "specificity": 0.937,
    "homeShare": 0.773,
@@ -59409,7 +59421,7 @@
    "id": "export-control",
    "term": "export control",
    "direction": "rising",
-   "ratio": 0.9099451251597384,
+   "ratio": 0.9094665664913599,
    "display": false,
    "adoptionSpan": 67,
    "pace": "gradual",
@@ -59941,7 +59953,7 @@
      "n": 0
     }
    ],
-   "relRatio": 2.28,
+   "relRatio": 2.27,
    "docFreq": 0.0004,
    "specificity": 0.987,
    "homeShare": 0.8,
@@ -59952,7 +59964,7 @@
    "id": "small-modular-reactor",
    "term": "small modular reactor",
    "direction": "steady",
-   "ratio": 0.46797177865357975,
+   "ratio": 0.4677256627669851,
    "display": false,
    "adoptionSpan": 70,
    "pace": "gradual",
@@ -60089,7 +60101,7 @@
      "new",
      4,
      0,
-     711.1,
+     712.1,
      [
       {
        "title": "Port of \u2f00Corpus Christi\u2f01 to explore nuclear technology for maritime operations",
@@ -60564,7 +60576,7 @@
    "id": "image-prime-creative",
    "term": "image prime creative",
    "direction": "rising",
-   "ratio": 1.8198902503194767,
+   "ratio": 1.8189331329827199,
    "display": false,
    "adoptionSpan": 10,
    "pace": "mixed",
@@ -61028,7 +61040,7 @@
      "n": 0
     }
    ],
-   "relRatio": 4.57,
+   "relRatio": 4.53,
    "docFreq": 0.0004,
    "specificity": 0.987,
    "homeShare": 0.6,
@@ -61039,7 +61051,7 @@
    "id": "production-capacity",
    "term": "production capacity",
    "direction": "steady",
-   "ratio": 0.3919763616072719,
+   "ratio": 0.3917702132578166,
    "display": false,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -61751,7 +61763,7 @@
    "id": "digital-infrastructure",
    "term": "digital infrastructure",
    "direction": "rising",
-   "ratio": 1.3345861835676163,
+   "ratio": 1.333884297520661,
    "display": false,
    "adoptionSpan": 45,
    "pace": "gradual",
@@ -62403,7 +62415,7 @@
      "n": 1
     }
    ],
-   "relRatio": 3.35,
+   "relRatio": 3.33,
    "docFreq": 0.0008,
    "specificity": 0.972,
    "homeShare": 0.778,
@@ -62414,7 +62426,7 @@
    "id": "coast-guard",
    "term": "coast guard",
    "direction": "steady",
-   "ratio": 0.3986426262604568,
+   "ratio": 0.3984329719866909,
    "display": false,
    "adoptionSpan": 29,
    "pace": "gradual",
@@ -62995,7 +63007,7 @@
      "n": 4
     }
    ],
-   "relRatio": 1.0,
+   "relRatio": 0.99,
    "docFreq": 0.0017,
    "specificity": 0.942,
    "homeShare": 0.739,
@@ -63006,7 +63018,7 @@
    "id": "marking-significant",
    "term": "marking significant",
    "direction": "falling",
-   "ratio": 0.2729835375479215,
+   "ratio": 0.27283996994740795,
    "display": false,
    "adoptionSpan": 3,
    "pace": "simultaneous",
@@ -63507,7 +63519,7 @@
    "id": "trade-corridor",
    "term": "trade corridor",
    "direction": "steady",
-   "ratio": 0.36397805006389533,
+   "ratio": 0.363786626596544,
    "display": false,
    "adoptionSpan": 3,
    "pace": "simultaneous",
@@ -64014,7 +64026,7 @@
    "id": "large-crude-carrier",
    "term": "large crude carrier",
    "direction": "rising",
-   "ratio": 0.7279561001277907,
+   "ratio": 0.727573253193088,
    "display": false,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -64541,7 +64553,7 @@
      "n": 1
     }
    ],
-   "relRatio": 1.83,
+   "relRatio": 1.81,
    "docFreq": 0.0005,
    "specificity": 0.985,
    "homeShare": 0.667,
@@ -64552,7 +64564,7 @@
    "id": "solar-farm",
    "term": "solar farm",
    "direction": "falling",
-   "ratio": 0.2729835375479215,
+   "ratio": 0.27283996994740795,
    "display": false,
    "adoptionSpan": 50,
    "pace": "gradual",
@@ -65063,7 +65075,7 @@
    "id": "middle-east",
    "term": "middle east",
    "direction": "steady",
-   "ratio": 0.4586123430805082,
+   "ratio": 0.45837114951164537,
    "display": false,
    "adoptionSpan": 65,
    "pace": "gradual",
@@ -65814,7 +65826,7 @@
    "variants": [
     "middle east conflict"
    ],
-   "relRatio": 1.15,
+   "relRatio": 1.14,
    "docFreq": 0.0047,
    "specificity": 0.842,
    "homeShare": 0.5,
@@ -65825,7 +65837,7 @@
    "id": "rare-earth",
    "term": "rare earth",
    "direction": "falling",
-   "ratio": 0.25998432147421097,
+   "ratio": 0.25984759042610284,
    "display": false,
    "adoptionSpan": 67,
    "pace": "gradual",
@@ -66064,7 +66076,7 @@
      "rising",
      6,
      4,
-     480.0,
+     480.7,
      [
       {
        "title": "LG Electronics Targets 1.6 Tons of Rare-Earth Magnets From E-Waste Annually",
@@ -66095,7 +66107,7 @@
      "new",
      4,
      0,
-     320.0,
+     320.5,
      [
       {
        "title": "Greenland Mines gets \u2f00exploration license\u2f01 for Sarfartoq rare earths project",
@@ -66119,7 +66131,7 @@
      "steady",
      2,
      2,
-     120.0,
+     120.2,
      [
       {
        "title": "American rare Earths, Novex to boost US magnet production",
@@ -66143,7 +66155,7 @@
      "rising",
      10,
      2,
-     96.0,
+     96.1,
      [
       {
        "title": "DOE proposes $10M for \u2f00critical minerals\u2f01 research and development",
@@ -66666,7 +66678,7 @@
    "id": "hormuz-crisis",
    "term": "hormuz crisis",
    "direction": "rising",
-   "ratio": 0.5823648801022325,
+   "ratio": 0.5820586025544704,
    "display": false,
    "adoptionSpan": 47,
    "pace": "gradual",
@@ -67251,7 +67263,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.46,
+   "relRatio": 1.45,
    "docFreq": 0.0006,
    "specificity": 0.98,
    "homeShare": 0.625,
@@ -67262,7 +67274,7 @@
    "id": "recycling-facility",
    "term": "recycling facility",
    "direction": "falling",
-   "ratio": 0.2729835375479215,
+   "ratio": 0.27283996994740795,
    "display": false,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -67782,7 +67794,7 @@
    "id": "industrial-property",
    "term": "industrial property",
    "direction": "rising",
-   "ratio": 1.091934150191686,
+   "ratio": 1.0913598797896318,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -68296,7 +68308,7 @@
      "n": 1
     }
    ],
-   "relRatio": 2.74,
+   "relRatio": 2.72,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.667,
@@ -68307,7 +68319,7 @@
    "id": "nuclear-fuel",
    "term": "nuclear fuel",
    "direction": "steady",
-   "ratio": 0.5095692700894535,
+   "ratio": 0.5093012772351615,
    "display": false,
    "adoptionSpan": 58,
    "pace": "gradual",
@@ -68871,7 +68883,7 @@
      "n": 1
     }
    ],
-   "relRatio": 1.28,
+   "relRatio": 1.27,
    "docFreq": 0.0005,
    "specificity": 0.982,
    "homeShare": 0.6,
@@ -68882,7 +68894,7 @@
    "id": "storage-site",
    "term": "storage site",
    "direction": "steady",
-   "ratio": 0.3639780500638954,
+   "ratio": 0.363786626596544,
    "display": false,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -69404,10 +69416,535 @@
    "rank": 0.464
   },
   {
+   "id": "effective-date",
+   "term": "effective date",
+   "direction": "falling",
+   "ratio": 0.20210368144252444,
+   "display": false,
+   "adoptionSpan": 21,
+   "pace": "mixed",
+   "kind": "concept",
+   "sectorCount": 2,
+   "effectiveSectors": 1.86,
+   "newestSector": "Supply chain",
+   "daysSinceNewestSector": 22,
+   "articles14d": 5,
+   "articlesPrior14d": 9,
+   "publishers": 2,
+   "events": 5,
+   "topPubShare": 0.6,
+   "sectors": [
+    {
+     "name": "Policy",
+     "firstSeen": "2026-07-15",
+     "recent": 2,
+     "articles": 11,
+     "share": 0.4,
+     "atSectorStart": false,
+     "grip": 0.2,
+     "outlets": 1,
+     "adopt": 46
+    },
+    {
+     "name": "Supply chain",
+     "firstSeen": "2026-08-05",
+     "recent": 3,
+     "articles": 5,
+     "share": 0.6,
+     "atSectorStart": false,
+     "grip": 0.143,
+     "outlets": 1,
+     "adopt": 67
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "US",
+     11
+    ],
+    [
+     "GR",
+     5
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-05-30",
+     "2026-06-06",
+     "2026-06-13",
+     "2026-06-20",
+     "2026-06-27",
+     "2026-07-04",
+     "2026-07-11",
+     "2026-07-18",
+     "2026-07-25",
+     "2026-08-01",
+     "2026-08-08",
+     "2026-08-15",
+     "2026-08-22"
+    ],
+    "bands": [
+     {
+      "sector": "Policy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       1,
+       6,
+       0,
+       1,
+       0,
+       2
+      ]
+     },
+     {
+      "sector": "Supply chain",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       1,
+       2,
+       1
+      ]
+     }
+    ]
+   },
+   "cooc": [],
+   "examples": [
+    {
+     "publisher": "Container News",
+     "title": "Maersk increases destination handling charges for Sudan",
+     "url": "https://container-news.com/maersk-increases-destination-handling-charges-for-sudan/",
+     "date": "2026-08-27",
+     "sector": "Supply chain",
+     "country": "GR",
+     "quote": "\u2026EUR 189 for each 40-foot container. \u2f00Effective dates\u2f01 The revised charges will apply according to the shipment's [\u2026] The post Maersk increases destination handling\u2026"
+    },
+    {
+     "publisher": "Federal Register",
+     "title": "Air Plan Approval; FL; Emissions Reporting Requirements and Permitting Forms",
+     "url": "https://www.federalregister.gov/documents/2026/08/27/2026-17490/air-plan-approval-fl-emissions-reporting-requirements-and-permitting-forms",
+     "date": "2026-08-27",
+     "sector": "Policy",
+     "country": "US",
+     "quote": "\u2026ications; renumbers and updates the \u2f00effective dates\u2f01 of various forms to align with programmatic changes; and improves the process for submitting forms across sev\u2026"
+    },
+    {
+     "publisher": "Federal Register",
+     "title": "Rescinding Regulations for Loans for Minority Business Enterprises Seeking DOE Contracts and Assistance",
+     "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17381/rescinding-regulations-for-loans-for-minority-business-enterprises-seeking-doe-contracts-and",
+     "date": "2026-08-26",
+     "sector": "Policy",
+     "country": "US",
+     "quote": "\u2026ergy (DOE) is further extending the \u2f00effective date\u2f01 of the direct final rule \"Rescinding Regulations for Loans for Minority Business Enterprises Seeking DOE Cont\u2026"
+    },
+    {
+     "publisher": "Container News",
+     "title": "Trump delays 50% Canada tariffs as trade talks advance",
+     "url": "https://container-news.com/trump-delays-50-canada-tariffs-as-trade-talks-advance/",
+     "date": "2026-08-20",
+     "sector": "Supply chain",
+     "country": "GR",
+     "quote": "\u2026te House proclamation has moved the \u2f00effective date\u2f01 to 12:01 a.m. on 22 August. [\u2026] The post Trump delays 50% Canada tariffs as trade talks advance appeared firs\u2026"
+    },
+    {
+     "publisher": "Container News",
+     "title": "CMA CGM updates Panama Canal surcharge on Far East trades",
+     "url": "https://container-news.com/cma-cgm-updates-panama-canal-surcharge-on-far-east-trades/",
+     "date": "2026-08-19",
+     "sector": "Supply chain",
+     "country": "GR",
+     "quote": "\u2026or US territories and Colombia, the \u2f00effective date\u2f01 will be 6 September 2026. Surcharge set at US$250 per [\u2026] The post CMA CGM updates Panama Canal surcharge on\u2026"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-05-30",
+     "n": 0
+    },
+    {
+     "day": "2026-05-31",
+     "n": 0
+    },
+    {
+     "day": "2026-06-01",
+     "n": 0
+    },
+    {
+     "day": "2026-06-02",
+     "n": 0
+    },
+    {
+     "day": "2026-06-03",
+     "n": 0
+    },
+    {
+     "day": "2026-06-04",
+     "n": 0
+    },
+    {
+     "day": "2026-06-05",
+     "n": 0
+    },
+    {
+     "day": "2026-06-06",
+     "n": 0
+    },
+    {
+     "day": "2026-06-07",
+     "n": 0
+    },
+    {
+     "day": "2026-06-08",
+     "n": 0
+    },
+    {
+     "day": "2026-06-09",
+     "n": 0
+    },
+    {
+     "day": "2026-06-10",
+     "n": 0
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 0
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 0
+    },
+    {
+     "day": "2026-06-16",
+     "n": 0
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 0
+    },
+    {
+     "day": "2026-06-19",
+     "n": 0
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 0
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 1
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 1
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-31",
+     "n": 6
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 0
+    },
+    {
+     "day": "2026-08-04",
+     "n": 0
+    },
+    {
+     "day": "2026-08-05",
+     "n": 1
+    },
+    {
+     "day": "2026-08-06",
+     "n": 0
+    },
+    {
+     "day": "2026-08-07",
+     "n": 0
+    },
+    {
+     "day": "2026-08-08",
+     "n": 0
+    },
+    {
+     "day": "2026-08-09",
+     "n": 0
+    },
+    {
+     "day": "2026-08-10",
+     "n": 0
+    },
+    {
+     "day": "2026-08-11",
+     "n": 0
+    },
+    {
+     "day": "2026-08-12",
+     "n": 1
+    },
+    {
+     "day": "2026-08-13",
+     "n": 1
+    },
+    {
+     "day": "2026-08-14",
+     "n": 0
+    },
+    {
+     "day": "2026-08-15",
+     "n": 0
+    },
+    {
+     "day": "2026-08-16",
+     "n": 0
+    },
+    {
+     "day": "2026-08-17",
+     "n": 0
+    },
+    {
+     "day": "2026-08-18",
+     "n": 0
+    },
+    {
+     "day": "2026-08-19",
+     "n": 1
+    },
+    {
+     "day": "2026-08-20",
+     "n": 1
+    },
+    {
+     "day": "2026-08-21",
+     "n": 0
+    },
+    {
+     "day": "2026-08-22",
+     "n": 0
+    },
+    {
+     "day": "2026-08-23",
+     "n": 0
+    },
+    {
+     "day": "2026-08-24",
+     "n": 0
+    },
+    {
+     "day": "2026-08-25",
+     "n": 0
+    },
+    {
+     "day": "2026-08-26",
+     "n": 1
+    },
+    {
+     "day": "2026-08-27",
+     "n": 2
+    }
+   ],
+   "relRatio": 0.5,
+   "docFreq": 0.0004,
+   "specificity": 0.987,
+   "homeShare": 0.6,
+   "daysSeen": 4,
+   "rank": 0.461
+  },
+  {
    "id": "drilling-rigs",
    "term": "drilling rigs",
    "direction": "rising",
-   "ratio": 2.183868300383372,
+   "ratio": 2.1827197595792636,
    "display": false,
    "adoptionSpan": 57,
    "pace": "gradual",
@@ -69518,7 +70055,7 @@
      "new",
      4,
      0,
-     800.0,
+     801.2,
      [
       {
        "title": "COSL eyes two new deepwater semisubs",
@@ -69955,7 +70492,7 @@
      "n": 1
     }
    ],
-   "relRatio": 5.48,
+   "relRatio": 5.44,
    "docFreq": 0.0005,
    "specificity": 0.985,
    "homeShare": 0.5,
@@ -69966,7 +70503,7 @@
    "id": "offshore-oil",
    "term": "offshore oil",
    "direction": "falling",
-   "ratio": 0.15599059288452657,
+   "ratio": 0.1559085542556617,
    "display": false,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -70474,526 +71011,10 @@
    "rank": 0.417
   },
   {
-   "id": "effective-date",
-   "term": "effective date",
-   "direction": "falling",
-   "ratio": 0.16176802225062015,
-   "display": false,
-   "adoptionSpan": 21,
-   "pace": "mixed",
-   "kind": "concept",
-   "sectorCount": 2,
-   "effectiveSectors": 1.79,
-   "newestSector": "Supply chain",
-   "daysSinceNewestSector": 22,
-   "articles14d": 4,
-   "articlesPrior14d": 9,
-   "publishers": 2,
-   "events": 4,
-   "topPubShare": 0.5,
-   "sectors": [
-    {
-     "name": "Policy",
-     "firstSeen": "2026-07-15",
-     "recent": 2,
-     "articles": 11,
-     "share": 0.5,
-     "atSectorStart": false,
-     "grip": 0.2,
-     "outlets": 1,
-     "adopt": 46
-    },
-    {
-     "name": "Supply chain",
-     "firstSeen": "2026-08-05",
-     "recent": 2,
-     "articles": 4,
-     "share": 0.5,
-     "atSectorStart": false,
-     "grip": 0.143,
-     "outlets": 1,
-     "adopt": 67
-    }
-   ],
-   "sinceStart": false,
-   "origins": [
-    [
-     "US",
-     11
-    ],
-    [
-     "GR",
-     4
-    ]
-   ],
-   "flow": {
-    "weeks": [
-     "2026-05-30",
-     "2026-06-06",
-     "2026-06-13",
-     "2026-06-20",
-     "2026-06-27",
-     "2026-07-04",
-     "2026-07-11",
-     "2026-07-18",
-     "2026-07-25",
-     "2026-08-01",
-     "2026-08-08",
-     "2026-08-15",
-     "2026-08-22"
-    ],
-    "bands": [
-     {
-      "sector": "Policy",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       1,
-       6,
-       0,
-       1,
-       0,
-       2
-      ]
-     },
-     {
-      "sector": "Supply chain",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       1,
-       2,
-       0
-      ]
-     }
-    ]
-   },
-   "cooc": [],
-   "examples": [
-    {
-     "publisher": "Federal Register",
-     "title": "Air Plan Approval; FL; Emissions Reporting Requirements and Permitting Forms",
-     "url": "https://www.federalregister.gov/documents/2026/08/27/2026-17490/air-plan-approval-fl-emissions-reporting-requirements-and-permitting-forms",
-     "date": "2026-08-27",
-     "sector": "Policy",
-     "country": "US",
-     "quote": "\u2026ications; renumbers and updates the \u2f00effective dates\u2f01 of various forms to align with programmatic changes; and improves the process for submitting forms across sev\u2026"
-    },
-    {
-     "publisher": "Federal Register",
-     "title": "Rescinding Regulations for Loans for Minority Business Enterprises Seeking DOE Contracts and Assistance",
-     "url": "https://www.federalregister.gov/documents/2026/08/26/2026-17381/rescinding-regulations-for-loans-for-minority-business-enterprises-seeking-doe-contracts-and",
-     "date": "2026-08-26",
-     "sector": "Policy",
-     "country": "US",
-     "quote": "\u2026ergy (DOE) is further extending the \u2f00effective date\u2f01 of the direct final rule \"Rescinding Regulations for Loans for Minority Business Enterprises Seeking DOE Cont\u2026"
-    },
-    {
-     "publisher": "Container News",
-     "title": "Trump delays 50% Canada tariffs as trade talks advance",
-     "url": "https://container-news.com/trump-delays-50-canada-tariffs-as-trade-talks-advance/",
-     "date": "2026-08-20",
-     "sector": "Supply chain",
-     "country": "GR",
-     "quote": "\u2026te House proclamation has moved the \u2f00effective date\u2f01 to 12:01 a.m. on 22 August. [\u2026] The post Trump delays 50% Canada tariffs as trade talks advance appeared firs\u2026"
-    },
-    {
-     "publisher": "Container News",
-     "title": "CMA CGM updates Panama Canal surcharge on Far East trades",
-     "url": "https://container-news.com/cma-cgm-updates-panama-canal-surcharge-on-far-east-trades/",
-     "date": "2026-08-19",
-     "sector": "Supply chain",
-     "country": "GR",
-     "quote": "\u2026or US territories and Colombia, the \u2f00effective date\u2f01 will be 6 September 2026. Surcharge set at US$250 per [\u2026] The post CMA CGM updates Panama Canal surcharge on\u2026"
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-05-30",
-     "n": 0
-    },
-    {
-     "day": "2026-05-31",
-     "n": 0
-    },
-    {
-     "day": "2026-06-01",
-     "n": 0
-    },
-    {
-     "day": "2026-06-02",
-     "n": 0
-    },
-    {
-     "day": "2026-06-03",
-     "n": 0
-    },
-    {
-     "day": "2026-06-04",
-     "n": 0
-    },
-    {
-     "day": "2026-06-05",
-     "n": 0
-    },
-    {
-     "day": "2026-06-06",
-     "n": 0
-    },
-    {
-     "day": "2026-06-07",
-     "n": 0
-    },
-    {
-     "day": "2026-06-08",
-     "n": 0
-    },
-    {
-     "day": "2026-06-09",
-     "n": 0
-    },
-    {
-     "day": "2026-06-10",
-     "n": 0
-    },
-    {
-     "day": "2026-06-11",
-     "n": 0
-    },
-    {
-     "day": "2026-06-12",
-     "n": 0
-    },
-    {
-     "day": "2026-06-13",
-     "n": 0
-    },
-    {
-     "day": "2026-06-14",
-     "n": 0
-    },
-    {
-     "day": "2026-06-15",
-     "n": 0
-    },
-    {
-     "day": "2026-06-16",
-     "n": 0
-    },
-    {
-     "day": "2026-06-17",
-     "n": 0
-    },
-    {
-     "day": "2026-06-18",
-     "n": 0
-    },
-    {
-     "day": "2026-06-19",
-     "n": 0
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 0
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 1
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 1
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 0
-    },
-    {
-     "day": "2026-07-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-31",
-     "n": 6
-    },
-    {
-     "day": "2026-08-01",
-     "n": 0
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 0
-    },
-    {
-     "day": "2026-08-04",
-     "n": 0
-    },
-    {
-     "day": "2026-08-05",
-     "n": 1
-    },
-    {
-     "day": "2026-08-06",
-     "n": 0
-    },
-    {
-     "day": "2026-08-07",
-     "n": 0
-    },
-    {
-     "day": "2026-08-08",
-     "n": 0
-    },
-    {
-     "day": "2026-08-09",
-     "n": 0
-    },
-    {
-     "day": "2026-08-10",
-     "n": 0
-    },
-    {
-     "day": "2026-08-11",
-     "n": 0
-    },
-    {
-     "day": "2026-08-12",
-     "n": 1
-    },
-    {
-     "day": "2026-08-13",
-     "n": 1
-    },
-    {
-     "day": "2026-08-14",
-     "n": 0
-    },
-    {
-     "day": "2026-08-15",
-     "n": 0
-    },
-    {
-     "day": "2026-08-16",
-     "n": 0
-    },
-    {
-     "day": "2026-08-17",
-     "n": 0
-    },
-    {
-     "day": "2026-08-18",
-     "n": 0
-    },
-    {
-     "day": "2026-08-19",
-     "n": 1
-    },
-    {
-     "day": "2026-08-20",
-     "n": 1
-    },
-    {
-     "day": "2026-08-21",
-     "n": 0
-    },
-    {
-     "day": "2026-08-22",
-     "n": 0
-    },
-    {
-     "day": "2026-08-23",
-     "n": 0
-    },
-    {
-     "day": "2026-08-24",
-     "n": 0
-    },
-    {
-     "day": "2026-08-25",
-     "n": 0
-    },
-    {
-     "day": "2026-08-26",
-     "n": 1
-    },
-    {
-     "day": "2026-08-27",
-     "n": 1
-    }
-   ],
-   "relRatio": 0.41,
-   "docFreq": 0.0003,
-   "specificity": 0.99,
-   "homeShare": 0.5,
-   "daysSeen": 4,
-   "rank": 0.338
-  },
-  {
    "id": "energy-efficiency",
    "term": "energy efficiency",
    "direction": "steady",
-   "ratio": 0.46797177865357975,
+   "ratio": 0.4677256627669851,
    "display": false,
    "adoptionSpan": 56,
    "pace": "gradual",
@@ -71704,7 +71725,7 @@
    "id": "grid-capacity",
    "term": "grid capacity",
    "direction": "steady",
-   "ratio": 0.4549725625798692,
+   "ratio": 0.45473328324567996,
    "display": false,
    "adoptionSpan": 10,
    "pace": "mixed",
@@ -71852,7 +71873,7 @@
      "steady",
      2,
      2,
-     6.2,
+     6.1,
      [
       {
        "title": "The POWER Interview: How Is Rising Scrutiny Changing the Way \u2f00Data Centers\u2f01 Secure Power?",
@@ -72287,7 +72308,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.14,
+   "relRatio": 1.13,
    "docFreq": 0.0004,
    "specificity": 0.987,
    "homeShare": 0.4,
@@ -72299,7 +72320,7 @@
    "id": "energy-infrastructure",
    "term": "energy infrastructure",
    "direction": "falling",
-   "ratio": 0.1498733147321922,
+   "ratio": 0.1497944933044593,
    "display": false,
    "adoptionSpan": 3,
    "pace": "simultaneous",
@@ -72955,7 +72976,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.38,
+   "relRatio": 0.37,
    "docFreq": 0.0005,
    "specificity": 0.982,
    "homeShare": 0.6,
@@ -72967,7 +72988,7 @@
    "id": "power-generation",
    "term": "power generation",
    "direction": "falling",
-   "ratio": 0.13865830478624583,
+   "ratio": 0.13858538156058817,
    "display": false,
    "adoptionSpan": 42,
    "pace": "gradual",
@@ -73195,7 +73216,7 @@
      "new",
      4,
      0,
-     600.0,
+     600.9,
      [
       {
        "title": "DCD Talks: Natural gas as a bridge to AI scale with Stiven Smith, Cummins",
@@ -73219,7 +73240,7 @@
      "steady",
      2,
      2,
-     400.0,
+     400.6,
      [
       {
        "title": "Irish electricity generation by grid-scale PV up 51% in 2025",
@@ -73250,7 +73271,7 @@
      "rising",
      4,
      2,
-     171.4,
+     171.7,
      [
       {
        "title": "45 Power Plants in India Running on Critically Low Levels of Coal Stocks",
@@ -73288,7 +73309,7 @@
      "steady",
      2,
      2,
-     150.0,
+     150.2,
      [
       {
        "title": "Infineon buys India-based C2i Semiconductors to bolster AI data center power systems",
@@ -73312,7 +73333,7 @@
      "rising",
      6,
      4,
-     116.1,
+     116.3,
      [
       {
        "title": "Thailand Accelerates Clean Energy Push to Cut LNG Dependence",
@@ -73800,7 +73821,7 @@
    "id": "utility-scale",
    "term": "utility scale",
    "direction": "falling",
-   "ratio": 0.19598818080363595,
+   "ratio": 0.1958851066289083,
    "display": false,
    "adoptionSpan": 32,
    "pace": "gradual",
@@ -73937,7 +73958,7 @@
      "rising",
      4,
      2,
-     195.9,
+     196.2,
      [
       {
        "title": "Are conventional BESS degradation guarantees restricting asset value?",
@@ -74395,7 +74416,7 @@
    "id": "grid-connection",
    "term": "grid connection",
    "direction": "steady",
-   "ratio": 0.4159749143587375,
+   "ratio": 0.41575614468176453,
    "display": false,
    "adoptionSpan": 15,
    "pace": "mixed",
