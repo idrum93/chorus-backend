@@ -1,20 +1,20 @@
 # Crosstalk — week ending 27 August 2026
 
-*13,654 articles over 123 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*13,780 articles over 123 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
 **data center** — now in 9 sectors. **Materials** picked it up 6d ago; it was first seen in utilities coverage on 31 May 2026.
-  - [Anthropic reportedly commits US$45 billion to Nscale for AI computing capacity](https://www.digitimes.com/news/a20260827VL206/anthropic-capacity-infrastructure-microsoft-bloomberg.html) · DigiTimes Asia · technology
-  - [Indian states begins to tighten screws on ⼀data centers⼁ even as the build-out accelerates](https://www.digitimes.com/news/a20260826VL205/data-data-center-water-funding-demand.html) · DigiTimes Asia · technology
+  - [Nvidia Cuts Margin Outlook as Surging Memory Prices Raise Costs](https://www.thelec.net/news/articleView.html?idxno=13401) · The Elec · technology
+  - [Sponsored: The architecture advantage: Rethinking power for AI ⼀data centers⼁](https://www.datacenterdynamics.com/en/marketwatch/the-architecture-advantage-rethinking-power-for-ai-data-centers/) · Data Center Dynamics · technology
 
 ## Being used more than a fortnight ago
 
 | phrase | sectors | articles | vs prior fortnight |
 |---|---|---|---|
-| energy bill | 2 | 11 | 3.7× |
+| energy bill | 2 | 12 | 4.0× |
+| digital twin | 2 | 10 | 2.5× |
 | self sufficiency | 2 | 7 | 2.3× |
-| digital twin | 2 | 9 | 2.2× |
 | iron ore | 3 | 6 | 2.0× |
 | charging network | 2 | 7 | 1.8× |
 | solar generation | 2 | 7 | 1.8× |
