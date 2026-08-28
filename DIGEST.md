@@ -1,6 +1,6 @@
 # Crosstalk — week ending 28 August 2026
 
-*14,396 articles over 124 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*14,436 articles over 124 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
@@ -15,6 +15,8 @@ Nothing crossed into a new sector this week.
 **[precious metal](https://crosstalkwire.com/#precious-metal)** — 9 articles, 2.2× the fortnight before, in materials, industrials
 
 **[digital twin](https://crosstalkwire.com/#digital-twin)** — 10 articles, 2.0× the fortnight before, in technology, industrials, utilities
+
+**[iron ore](https://crosstalkwire.com/#iron-ore)** — 6 articles, 1.5× the fortnight before, in energy, materials
 
 **[low water](https://crosstalkwire.com/#low-water)** — 12 articles, 1.5× the fortnight before, in energy, supply chain
 
