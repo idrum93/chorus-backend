@@ -1,5 +1,5 @@
 {
- "generated": "2026-08-29T07:32:47.106247+00:00",
+ "generated": "2026-08-29T17:08:26.140417+00:00",
  "placeWords": [
   "africa",
   "alberta",
@@ -2867,7 +2867,7 @@
  "coverage": [
   [
    "US",
-   8433
+   8442
   ],
   [
    "TW",
@@ -2875,7 +2875,7 @@
   ],
   [
    "IN",
-   906
+   912
   ],
   [
    "GB",
@@ -2887,11 +2887,11 @@
   ],
   [
    "DE",
-   471
+   474
   ],
   [
    "GR",
-   465
+   470
   ],
   [
    "SG",
@@ -4364,27 +4364,27 @@
      ],
      "examples": [
       {
-       "publisher": "The Register",
-       "title": "German-Japanese researchers invent electricity-free tech that could cool \u2f00datacenters\u2f01",
-       "url": "https://www.theregister.com/science/2026/08/28/german-japanese-researchers-invent-electricity-free-tech-that-could-cool-datacenters/5293364",
-       "date": "2026-08-28",
+       "publisher": "Data Center Dynamics",
+       "title": "From pressure to proof: Leading through constraint in the \u2f00data center\u2f01 era",
+       "url": "https://www.datacenterdynamics.com/en/opinions/from-pressure-to-proof-leading-through-constraint-in-the-data-center-era/",
+       "date": "2026-08-29",
        "sector": "Technology",
        "country": "US",
        "quote": ""
       },
       {
-       "publisher": "OilPrice",
-       "title": "The AI Boom Could Triple \u2f00Data Center\u2f01 Water Use by 2030",
-       "url": "https://oilprice.com/Energy/Energy-General/The-AI-Boom-Could-Triple-Data-Center-Water-Use-by-2030.html",
-       "date": "2026-08-28",
-       "sector": "Energy",
+       "publisher": "The Register",
+       "title": "AWS mumbles about its cost-busting networking tech when it should be shouting",
+       "url": "https://www.theregister.com/networks/2026/08/29/aws-mumbles-about-its-cost-busting-networking-tech-when-it-should-be-shouting/5293379",
+       "date": "2026-08-29",
+       "sector": "Technology",
        "country": "US",
-       "quote": "The massive \u2f00data center\u2f01 capacity scale-up underway has focused attention on the scale of water required for these facilities to opera\u2026"
+       "quote": "A lot of \u2f00datacenter networks\u2f01 are run by absolute clowns. Not Amazon's"
       },
       {
-       "publisher": "Data Center Dynamics",
-       "title": "ESDS Software Solution targets Rs 720 Crore IPO, will use proceeds to expand \u2f00data center\u2f01 footprint",
-       "url": "https://www.datacenterdynamics.com/en/news/esds-software-solution-targets-rs-720-crore-ipo-will-use-proceeds-to-expand-data-center-footprint/",
+       "publisher": "The Register",
+       "title": "German-Japanese researchers invent electricity-free tech that could cool \u2f00datacenters\u2f01",
+       "url": "https://www.theregister.com/science/2026/08/28/german-japanese-researchers-invent-electricity-free-tech-that-could-cool-datacenters/5293364",
        "date": "2026-08-28",
        "sector": "Technology",
        "country": "US",
@@ -4510,12 +4510,12 @@
    "sector": "Technology",
    "borrowed": [
     "low water",
-    "wind farm",
     "tariff refund",
+    "wind farm",
     "natural gas"
    ],
-   "articles": 89,
-   "articles14d": 32,
+   "articles": 91,
+   "articles14d": 34,
    "terms": [
     {
      "term": "low water",
@@ -4560,6 +4560,45 @@
      ]
     },
     {
+     "term": "tariff refund",
+     "id": "tariff-refund",
+     "articles": 2,
+     "home": "Supply chain",
+     "shown": true,
+     "sectors": 3,
+     "direction": "steady",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "CFO Dive",
+       "title": "Amazon, Target customers aim to move location of \u2f00tariff refund\u2f01 suits",
+       "url": "https://www.cfodive.com/news/amazon-target-customers-aim-move-location-tariff-refund-suits/829126/",
+       "date": "2026-08-28",
+       "sector": "Finance",
+       "country": "US",
+       "quote": "\u2026actions filed by customers seeking \u2f00tariff refunds\u2f01 from large retailers should be heard comes as the money has begun to flow back into company coffers."
+      },
+      {
+       "publisher": "Retail Dive",
+       "title": "Burlington CEO calls using \u2f00tariff refunds\u2f01 to cut prices \u2018the right thing to do'",
+       "url": "https://www.retaildive.com/news/burlington-tariff-refunds-cut-prices-q2-earnings/828916/",
+       "date": "2026-08-27",
+       "sector": "Consumer",
+       "country": "US",
+       "quote": ""
+      },
+      {
+       "publisher": "CFO Dive",
+       "title": "How \u2f00tariff refunds\u2f01 are shaking up earnings calls",
+       "url": "https://www.cfodive.com/news/tariff-refunds-shaking-earnings-calls-trump/828616/",
+       "date": "2026-08-27",
+       "sector": "Finance",
+       "country": "US",
+       "quote": "Billions have been paid out in \u2f00tariff refunds\u2f01, with the impact showing up prominently in public companies' earnings calls and financial statements."
+      }
+     ]
+    },
+    {
      "term": "wind farm",
      "id": "wind-farm",
      "articles": 2,
@@ -4599,45 +4638,6 @@
      ]
     },
     {
-     "term": "tariff refund",
-     "id": "tariff-refund",
-     "articles": 1,
-     "home": "Supply chain",
-     "shown": true,
-     "sectors": 3,
-     "direction": "steady",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "Retail Dive",
-       "title": "Burlington CEO calls using \u2f00tariff refunds\u2f01 to cut prices \u2018the right thing to do'",
-       "url": "https://www.retaildive.com/news/burlington-tariff-refunds-cut-prices-q2-earnings/828916/",
-       "date": "2026-08-27",
-       "sector": "Consumer",
-       "country": "US",
-       "quote": ""
-      },
-      {
-       "publisher": "CFO Dive",
-       "title": "How \u2f00tariff refunds\u2f01 are shaking up earnings calls",
-       "url": "https://www.cfodive.com/news/tariff-refunds-shaking-earnings-calls-trump/828616/",
-       "date": "2026-08-27",
-       "sector": "Finance",
-       "country": "US",
-       "quote": "Billions have been paid out in \u2f00tariff refunds\u2f01, with the impact showing up prominently in public companies' earnings calls and financial statements."
-      },
-      {
-       "publisher": "Supply Chain Dive",
-       "title": "How big box retailers are using \u2f00tariff refunds\u2f01",
-       "url": "https://www.supplychaindive.com/news/how-big-box-retailers-are-using-tariff-refunds/828717/",
-       "date": "2026-08-26",
-       "sector": "Supply chain",
-       "country": "US",
-       "quote": ""
-      }
-     ]
-    },
-    {
      "term": "natural gas",
      "id": "natural-gas",
      "articles": 1,
@@ -4647,6 +4647,15 @@
      "direction": "falling",
      "variants": [],
      "examples": [
+      {
+       "publisher": "OilPrice",
+       "title": "Oil-Rich Azerbaijan Bets Big on a Clean Energy Boom",
+       "url": "https://oilprice.com/Energy/Energy-General/Oil-Rich-Azerbaijan-Bets-Big-on-a-Clean-Energy-Boom.html",
+       "date": "2026-08-29",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2026ing more renewable energy capacity. \u2f00Natural gas\u2f01 contributed 67 per cent of Azerbaijan's energy supply in 2023, while oil and oil products accounted for 31.1%\u2026"
+      },
       {
        "publisher": "OilPrice",
        "title": "Gas Prices in Asia and Europe Jump as Qatar Extends LNG Force Majeure",
@@ -4664,15 +4673,6 @@
        "sector": "Energy",
        "country": "US",
        "quote": "\u2026ning to build an enormous amount of \u2f00natural gas\u2f01-fired power plants in the U.S., fueled in large part by the AI boom. The expansion is a serious threat to the\u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Thailand Accelerates Clean Energy Push to Cut LNG Dependence",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Thailand-Accelerates-Clean-Energy-Push-to-Cut-LNG-Dependence.html",
-       "date": "2026-08-27",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026hed on Thursday. Thailand relies on \u2f00natural gas\u2f01 for more than 60% of its electricity generation and has become increasingly dependent on imported LNG. Follow\u2026"
       }
      ]
     },
@@ -4692,27 +4692,27 @@
      ],
      "examples": [
       {
-       "publisher": "The Register",
-       "title": "German-Japanese researchers invent electricity-free tech that could cool \u2f00datacenters\u2f01",
-       "url": "https://www.theregister.com/science/2026/08/28/german-japanese-researchers-invent-electricity-free-tech-that-could-cool-datacenters/5293364",
-       "date": "2026-08-28",
+       "publisher": "Data Center Dynamics",
+       "title": "From pressure to proof: Leading through constraint in the \u2f00data center\u2f01 era",
+       "url": "https://www.datacenterdynamics.com/en/opinions/from-pressure-to-proof-leading-through-constraint-in-the-data-center-era/",
+       "date": "2026-08-29",
        "sector": "Technology",
        "country": "US",
        "quote": ""
       },
       {
-       "publisher": "OilPrice",
-       "title": "The AI Boom Could Triple \u2f00Data Center\u2f01 Water Use by 2030",
-       "url": "https://oilprice.com/Energy/Energy-General/The-AI-Boom-Could-Triple-Data-Center-Water-Use-by-2030.html",
-       "date": "2026-08-28",
-       "sector": "Energy",
+       "publisher": "The Register",
+       "title": "AWS mumbles about its cost-busting networking tech when it should be shouting",
+       "url": "https://www.theregister.com/networks/2026/08/29/aws-mumbles-about-its-cost-busting-networking-tech-when-it-should-be-shouting/5293379",
+       "date": "2026-08-29",
+       "sector": "Technology",
        "country": "US",
-       "quote": "The massive \u2f00data center\u2f01 capacity scale-up underway has focused attention on the scale of water required for these facilities to opera\u2026"
+       "quote": "A lot of \u2f00datacenter networks\u2f01 are run by absolute clowns. Not Amazon's"
       },
       {
-       "publisher": "Data Center Dynamics",
-       "title": "ESDS Software Solution targets Rs 720 Crore IPO, will use proceeds to expand \u2f00data center\u2f01 footprint",
-       "url": "https://www.datacenterdynamics.com/en/news/esds-software-solution-targets-rs-720-crore-ipo-will-use-proceeds-to-expand-data-center-footprint/",
+       "publisher": "The Register",
+       "title": "German-Japanese researchers invent electricity-free tech that could cool \u2f00datacenters\u2f01",
+       "url": "https://www.theregister.com/science/2026/08/28/german-japanese-researchers-invent-electricity-free-tech-that-could-cool-datacenters/5293364",
        "date": "2026-08-28",
        "sector": "Technology",
        "country": "US",
@@ -4842,6 +4842,13 @@
    ],
    "examples": [
     {
+     "publisher": "The Register",
+     "title": "AWS mumbles about its cost-busting networking tech when it should be shouting",
+     "url": "https://www.theregister.com/networks/2026/08/29/aws-mumbles-about-its-cost-busting-networking-tech-when-it-should-be-shouting/5293379",
+     "sector": "Technology",
+     "quote": "\u2026rks are run by absolute clowns. Not \u2f00Amazon\u2f01's"
+    },
+    {
      "publisher": "DigiTimes Asia",
      "title": "LG Innotek wins Zoox camera module order for robotaxi production",
      "url": "https://www.digitimes.com/news/a20260827PD231/lg-innotek-zoox-camera-module-production-robotaxi.html",
@@ -4849,25 +4856,18 @@
      "quote": "\u2026automotive camera modules for Zoox, \u2f00Amazon\u2f01's autonomous vehicle unit. The deal marks the Korean component maker's first mass production win for a robota\u2026"
     },
     {
+     "publisher": "CFO Dive",
+     "title": "\u2f00Amazon\u2f01, Target customers aim to move location of tariff refund suits",
+     "url": "https://www.cfodive.com/news/amazon-target-customers-aim-move-location-tariff-refund-suits/829126/",
+     "sector": "Finance",
+     "quote": ""
+    },
+    {
      "publisher": "The Register",
      "title": "AWS Route 53 DNS service reimagined...as a file system?",
      "url": "https://www.theregister.com/offbeat/2026/08/28/aws-route-53-dns-service-reimaginedas-a-file-system/5293357",
      "sector": "Technology",
      "quote": "\u2026industry pros have a bit of fun at \u2f00Amazon\u2f01's expense"
-    },
-    {
-     "publisher": "Energy Live News",
-     "title": "\u2f00Amazon\u2f01 backs Sweden's wind power",
-     "url": "https://www.energylivenews.com/2026/08/28/amazon-backs-swedens-wind-power/",
-     "sector": "Utilities",
-     "quote": "\u2026d capacity of nearly 200MW The post \u2f00Amazon\u2f01 backs Sweden's wind power appeared first on Energy Live News ."
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "\u2f00Amazon\u2f01 Nears 1 GW of Wind Power in Sweden With Four New Deals",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Amazon-Nears-1-GW-of-Wind-Power-in-Sweden-With-Four-New-Deals.html",
-     "sector": "Energy",
-     "quote": "\u2f00Amazon\u2f01 has expanded Germany's largest-ever power purchase agreement (PPA), signed in June, and announced another fou\u2026"
     }
    ]
   },
@@ -4935,6 +4935,15 @@
      "examples": [
       {
        "publisher": "OilPrice",
+       "title": "Oil-Rich Azerbaijan Bets Big on a Clean Energy Boom",
+       "url": "https://oilprice.com/Energy/Energy-General/Oil-Rich-Azerbaijan-Bets-Big-on-a-Clean-Energy-Boom.html",
+       "date": "2026-08-29",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2026ing more renewable energy capacity. \u2f00Natural gas\u2f01 contributed 67 per cent of Azerbaijan's energy supply in 2023, while oil and oil products accounted for 31.1%\u2026"
+      },
+      {
+       "publisher": "OilPrice",
        "title": "Gas Prices in Asia and Europe Jump as Qatar Extends LNG Force Majeure",
        "url": "https://oilprice.com/Latest-Energy-News/World-News/Gas-Prices-in-Asia-and-Europe-Jump-as-Qatar-Extends-LNG-Force-Majeure.html",
        "date": "2026-08-28",
@@ -4950,15 +4959,6 @@
        "sector": "Energy",
        "country": "US",
        "quote": "\u2026ning to build an enormous amount of \u2f00natural gas\u2f01-fired power plants in the U.S., fueled in large part by the AI boom. The expansion is a serious threat to the\u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Thailand Accelerates Clean Energy Push to Cut LNG Dependence",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Thailand-Accelerates-Clean-Energy-Push-to-Cut-LNG-Dependence.html",
-       "date": "2026-08-27",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026hed on Thursday. Thailand relies on \u2f00natural gas\u2f01 for more than 60% of its electricity generation and has become increasingly dependent on imported LNG. Follow\u2026"
       }
      ]
     },
@@ -5533,27 +5533,27 @@
      ],
      "examples": [
       {
-       "publisher": "The Register",
-       "title": "German-Japanese researchers invent electricity-free tech that could cool \u2f00datacenters\u2f01",
-       "url": "https://www.theregister.com/science/2026/08/28/german-japanese-researchers-invent-electricity-free-tech-that-could-cool-datacenters/5293364",
-       "date": "2026-08-28",
+       "publisher": "Data Center Dynamics",
+       "title": "From pressure to proof: Leading through constraint in the \u2f00data center\u2f01 era",
+       "url": "https://www.datacenterdynamics.com/en/opinions/from-pressure-to-proof-leading-through-constraint-in-the-data-center-era/",
+       "date": "2026-08-29",
        "sector": "Technology",
        "country": "US",
        "quote": ""
       },
       {
-       "publisher": "OilPrice",
-       "title": "The AI Boom Could Triple \u2f00Data Center\u2f01 Water Use by 2030",
-       "url": "https://oilprice.com/Energy/Energy-General/The-AI-Boom-Could-Triple-Data-Center-Water-Use-by-2030.html",
-       "date": "2026-08-28",
-       "sector": "Energy",
+       "publisher": "The Register",
+       "title": "AWS mumbles about its cost-busting networking tech when it should be shouting",
+       "url": "https://www.theregister.com/networks/2026/08/29/aws-mumbles-about-its-cost-busting-networking-tech-when-it-should-be-shouting/5293379",
+       "date": "2026-08-29",
+       "sector": "Technology",
        "country": "US",
-       "quote": "The massive \u2f00data center\u2f01 capacity scale-up underway has focused attention on the scale of water required for these facilities to opera\u2026"
+       "quote": "A lot of \u2f00datacenter networks\u2f01 are run by absolute clowns. Not Amazon's"
       },
       {
-       "publisher": "Data Center Dynamics",
-       "title": "ESDS Software Solution targets Rs 720 Crore IPO, will use proceeds to expand \u2f00data center\u2f01 footprint",
-       "url": "https://www.datacenterdynamics.com/en/news/esds-software-solution-targets-rs-720-crore-ipo-will-use-proceeds-to-expand-data-center-footprint/",
+       "publisher": "The Register",
+       "title": "German-Japanese researchers invent electricity-free tech that could cool \u2f00datacenters\u2f01",
+       "url": "https://www.theregister.com/science/2026/08/28/german-japanese-researchers-invent-electricity-free-tech-that-could-cool-datacenters/5293364",
        "date": "2026-08-28",
        "sector": "Technology",
        "country": "US",
@@ -5617,6 +5617,15 @@
      "examples": [
       {
        "publisher": "OilPrice",
+       "title": "Oil-Rich Azerbaijan Bets Big on a Clean Energy Boom",
+       "url": "https://oilprice.com/Energy/Energy-General/Oil-Rich-Azerbaijan-Bets-Big-on-a-Clean-Energy-Boom.html",
+       "date": "2026-08-29",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2026ing more renewable energy capacity. \u2f00Natural gas\u2f01 contributed 67 per cent of Azerbaijan's energy supply in 2023, while oil and oil products accounted for 31.1%\u2026"
+      },
+      {
+       "publisher": "OilPrice",
        "title": "Gas Prices in Asia and Europe Jump as Qatar Extends LNG Force Majeure",
        "url": "https://oilprice.com/Latest-Energy-News/World-News/Gas-Prices-in-Asia-and-Europe-Jump-as-Qatar-Extends-LNG-Force-Majeure.html",
        "date": "2026-08-28",
@@ -5632,15 +5641,6 @@
        "sector": "Energy",
        "country": "US",
        "quote": "\u2026ning to build an enormous amount of \u2f00natural gas\u2f01-fired power plants in the U.S., fueled in large part by the AI boom. The expansion is a serious threat to the\u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Thailand Accelerates Clean Energy Push to Cut LNG Dependence",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Thailand-Accelerates-Clean-Energy-Push-to-Cut-LNG-Dependence.html",
-       "date": "2026-08-27",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026hed on Thursday. Thailand relies on \u2f00natural gas\u2f01 for more than 60% of its electricity generation and has become increasingly dependent on imported LNG. Follow\u2026"
       }
      ]
     },
@@ -5738,27 +5738,27 @@
      ],
      "examples": [
       {
-       "publisher": "The Register",
-       "title": "German-Japanese researchers invent electricity-free tech that could cool \u2f00datacenters\u2f01",
-       "url": "https://www.theregister.com/science/2026/08/28/german-japanese-researchers-invent-electricity-free-tech-that-could-cool-datacenters/5293364",
-       "date": "2026-08-28",
+       "publisher": "Data Center Dynamics",
+       "title": "From pressure to proof: Leading through constraint in the \u2f00data center\u2f01 era",
+       "url": "https://www.datacenterdynamics.com/en/opinions/from-pressure-to-proof-leading-through-constraint-in-the-data-center-era/",
+       "date": "2026-08-29",
        "sector": "Technology",
        "country": "US",
        "quote": ""
       },
       {
-       "publisher": "OilPrice",
-       "title": "The AI Boom Could Triple \u2f00Data Center\u2f01 Water Use by 2030",
-       "url": "https://oilprice.com/Energy/Energy-General/The-AI-Boom-Could-Triple-Data-Center-Water-Use-by-2030.html",
-       "date": "2026-08-28",
-       "sector": "Energy",
+       "publisher": "The Register",
+       "title": "AWS mumbles about its cost-busting networking tech when it should be shouting",
+       "url": "https://www.theregister.com/networks/2026/08/29/aws-mumbles-about-its-cost-busting-networking-tech-when-it-should-be-shouting/5293379",
+       "date": "2026-08-29",
+       "sector": "Technology",
        "country": "US",
-       "quote": "The massive \u2f00data center\u2f01 capacity scale-up underway has focused attention on the scale of water required for these facilities to opera\u2026"
+       "quote": "A lot of \u2f00datacenter networks\u2f01 are run by absolute clowns. Not Amazon's"
       },
       {
-       "publisher": "Data Center Dynamics",
-       "title": "ESDS Software Solution targets Rs 720 Crore IPO, will use proceeds to expand \u2f00data center\u2f01 footprint",
-       "url": "https://www.datacenterdynamics.com/en/news/esds-software-solution-targets-rs-720-crore-ipo-will-use-proceeds-to-expand-data-center-footprint/",
+       "publisher": "The Register",
+       "title": "German-Japanese researchers invent electricity-free tech that could cool \u2f00datacenters\u2f01",
+       "url": "https://www.theregister.com/science/2026/08/28/german-japanese-researchers-invent-electricity-free-tech-that-could-cool-datacenters/5293364",
        "date": "2026-08-28",
        "sector": "Technology",
        "country": "US",
@@ -6062,27 +6062,27 @@
      ],
      "examples": [
       {
-       "publisher": "The Register",
-       "title": "German-Japanese researchers invent electricity-free tech that could cool \u2f00datacenters\u2f01",
-       "url": "https://www.theregister.com/science/2026/08/28/german-japanese-researchers-invent-electricity-free-tech-that-could-cool-datacenters/5293364",
-       "date": "2026-08-28",
+       "publisher": "Data Center Dynamics",
+       "title": "From pressure to proof: Leading through constraint in the \u2f00data center\u2f01 era",
+       "url": "https://www.datacenterdynamics.com/en/opinions/from-pressure-to-proof-leading-through-constraint-in-the-data-center-era/",
+       "date": "2026-08-29",
        "sector": "Technology",
        "country": "US",
        "quote": ""
       },
       {
-       "publisher": "OilPrice",
-       "title": "The AI Boom Could Triple \u2f00Data Center\u2f01 Water Use by 2030",
-       "url": "https://oilprice.com/Energy/Energy-General/The-AI-Boom-Could-Triple-Data-Center-Water-Use-by-2030.html",
-       "date": "2026-08-28",
-       "sector": "Energy",
+       "publisher": "The Register",
+       "title": "AWS mumbles about its cost-busting networking tech when it should be shouting",
+       "url": "https://www.theregister.com/networks/2026/08/29/aws-mumbles-about-its-cost-busting-networking-tech-when-it-should-be-shouting/5293379",
+       "date": "2026-08-29",
+       "sector": "Technology",
        "country": "US",
-       "quote": "The massive \u2f00data center\u2f01 capacity scale-up underway has focused attention on the scale of water required for these facilities to opera\u2026"
+       "quote": "A lot of \u2f00datacenter networks\u2f01 are run by absolute clowns. Not Amazon's"
       },
       {
-       "publisher": "Data Center Dynamics",
-       "title": "ESDS Software Solution targets Rs 720 Crore IPO, will use proceeds to expand \u2f00data center\u2f01 footprint",
-       "url": "https://www.datacenterdynamics.com/en/news/esds-software-solution-targets-rs-720-crore-ipo-will-use-proceeds-to-expand-data-center-footprint/",
+       "publisher": "The Register",
+       "title": "German-Japanese researchers invent electricity-free tech that could cool \u2f00datacenters\u2f01",
+       "url": "https://www.theregister.com/science/2026/08/28/german-japanese-researchers-invent-electricity-free-tech-that-could-cool-datacenters/5293364",
        "date": "2026-08-28",
        "sector": "Technology",
        "country": "US",
@@ -6189,27 +6189,27 @@
      ],
      "examples": [
       {
-       "publisher": "The Register",
-       "title": "German-Japanese researchers invent electricity-free tech that could cool \u2f00datacenters\u2f01",
-       "url": "https://www.theregister.com/science/2026/08/28/german-japanese-researchers-invent-electricity-free-tech-that-could-cool-datacenters/5293364",
-       "date": "2026-08-28",
+       "publisher": "Data Center Dynamics",
+       "title": "From pressure to proof: Leading through constraint in the \u2f00data center\u2f01 era",
+       "url": "https://www.datacenterdynamics.com/en/opinions/from-pressure-to-proof-leading-through-constraint-in-the-data-center-era/",
+       "date": "2026-08-29",
        "sector": "Technology",
        "country": "US",
        "quote": ""
       },
       {
-       "publisher": "OilPrice",
-       "title": "The AI Boom Could Triple \u2f00Data Center\u2f01 Water Use by 2030",
-       "url": "https://oilprice.com/Energy/Energy-General/The-AI-Boom-Could-Triple-Data-Center-Water-Use-by-2030.html",
-       "date": "2026-08-28",
-       "sector": "Energy",
+       "publisher": "The Register",
+       "title": "AWS mumbles about its cost-busting networking tech when it should be shouting",
+       "url": "https://www.theregister.com/networks/2026/08/29/aws-mumbles-about-its-cost-busting-networking-tech-when-it-should-be-shouting/5293379",
+       "date": "2026-08-29",
+       "sector": "Technology",
        "country": "US",
-       "quote": "The massive \u2f00data center\u2f01 capacity scale-up underway has focused attention on the scale of water required for these facilities to opera\u2026"
+       "quote": "A lot of \u2f00datacenter networks\u2f01 are run by absolute clowns. Not Amazon's"
       },
       {
-       "publisher": "Data Center Dynamics",
-       "title": "ESDS Software Solution targets Rs 720 Crore IPO, will use proceeds to expand \u2f00data center\u2f01 footprint",
-       "url": "https://www.datacenterdynamics.com/en/news/esds-software-solution-targets-rs-720-crore-ipo-will-use-proceeds-to-expand-data-center-footprint/",
+       "publisher": "The Register",
+       "title": "German-Japanese researchers invent electricity-free tech that could cool \u2f00datacenters\u2f01",
+       "url": "https://www.theregister.com/science/2026/08/28/german-japanese-researchers-invent-electricity-free-tech-that-could-cool-datacenters/5293364",
        "date": "2026-08-28",
        "sector": "Technology",
        "country": "US",
@@ -6396,27 +6396,27 @@
      ],
      "examples": [
       {
-       "publisher": "The Register",
-       "title": "German-Japanese researchers invent electricity-free tech that could cool \u2f00datacenters\u2f01",
-       "url": "https://www.theregister.com/science/2026/08/28/german-japanese-researchers-invent-electricity-free-tech-that-could-cool-datacenters/5293364",
-       "date": "2026-08-28",
+       "publisher": "Data Center Dynamics",
+       "title": "From pressure to proof: Leading through constraint in the \u2f00data center\u2f01 era",
+       "url": "https://www.datacenterdynamics.com/en/opinions/from-pressure-to-proof-leading-through-constraint-in-the-data-center-era/",
+       "date": "2026-08-29",
        "sector": "Technology",
        "country": "US",
        "quote": ""
       },
       {
-       "publisher": "OilPrice",
-       "title": "The AI Boom Could Triple \u2f00Data Center\u2f01 Water Use by 2030",
-       "url": "https://oilprice.com/Energy/Energy-General/The-AI-Boom-Could-Triple-Data-Center-Water-Use-by-2030.html",
-       "date": "2026-08-28",
-       "sector": "Energy",
+       "publisher": "The Register",
+       "title": "AWS mumbles about its cost-busting networking tech when it should be shouting",
+       "url": "https://www.theregister.com/networks/2026/08/29/aws-mumbles-about-its-cost-busting-networking-tech-when-it-should-be-shouting/5293379",
+       "date": "2026-08-29",
+       "sector": "Technology",
        "country": "US",
-       "quote": "The massive \u2f00data center\u2f01 capacity scale-up underway has focused attention on the scale of water required for these facilities to opera\u2026"
+       "quote": "A lot of \u2f00datacenter networks\u2f01 are run by absolute clowns. Not Amazon's"
       },
       {
-       "publisher": "Data Center Dynamics",
-       "title": "ESDS Software Solution targets Rs 720 Crore IPO, will use proceeds to expand \u2f00data center\u2f01 footprint",
-       "url": "https://www.datacenterdynamics.com/en/news/esds-software-solution-targets-rs-720-crore-ipo-will-use-proceeds-to-expand-data-center-footprint/",
+       "publisher": "The Register",
+       "title": "German-Japanese researchers invent electricity-free tech that could cool \u2f00datacenters\u2f01",
+       "url": "https://www.theregister.com/science/2026/08/28/german-japanese-researchers-invent-electricity-free-tech-that-could-cool-datacenters/5293364",
        "date": "2026-08-28",
        "sector": "Technology",
        "country": "US",
@@ -6560,6 +6560,15 @@
      "examples": [
       {
        "publisher": "OilPrice",
+       "title": "Oil-Rich Azerbaijan Bets Big on a Clean Energy Boom",
+       "url": "https://oilprice.com/Energy/Energy-General/Oil-Rich-Azerbaijan-Bets-Big-on-a-Clean-Energy-Boom.html",
+       "date": "2026-08-29",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2026ing more renewable energy capacity. \u2f00Natural gas\u2f01 contributed 67 per cent of Azerbaijan's energy supply in 2023, while oil and oil products accounted for 31.1%\u2026"
+      },
+      {
+       "publisher": "OilPrice",
        "title": "Gas Prices in Asia and Europe Jump as Qatar Extends LNG Force Majeure",
        "url": "https://oilprice.com/Latest-Energy-News/World-News/Gas-Prices-in-Asia-and-Europe-Jump-as-Qatar-Extends-LNG-Force-Majeure.html",
        "date": "2026-08-28",
@@ -6575,15 +6584,6 @@
        "sector": "Energy",
        "country": "US",
        "quote": "\u2026ning to build an enormous amount of \u2f00natural gas\u2f01-fired power plants in the U.S., fueled in large part by the AI boom. The expansion is a serious threat to the\u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Thailand Accelerates Clean Energy Push to Cut LNG Dependence",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Thailand-Accelerates-Clean-Energy-Push-to-Cut-LNG-Dependence.html",
-       "date": "2026-08-27",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026hed on Thursday. Thailand relies on \u2f00natural gas\u2f01 for more than 60% of its electricity generation and has become increasingly dependent on imported LNG. Follow\u2026"
       }
      ]
     },
@@ -6642,27 +6642,27 @@
      ],
      "examples": [
       {
-       "publisher": "The Register",
-       "title": "German-Japanese researchers invent electricity-free tech that could cool \u2f00datacenters\u2f01",
-       "url": "https://www.theregister.com/science/2026/08/28/german-japanese-researchers-invent-electricity-free-tech-that-could-cool-datacenters/5293364",
-       "date": "2026-08-28",
+       "publisher": "Data Center Dynamics",
+       "title": "From pressure to proof: Leading through constraint in the \u2f00data center\u2f01 era",
+       "url": "https://www.datacenterdynamics.com/en/opinions/from-pressure-to-proof-leading-through-constraint-in-the-data-center-era/",
+       "date": "2026-08-29",
        "sector": "Technology",
        "country": "US",
        "quote": ""
       },
       {
-       "publisher": "OilPrice",
-       "title": "The AI Boom Could Triple \u2f00Data Center\u2f01 Water Use by 2030",
-       "url": "https://oilprice.com/Energy/Energy-General/The-AI-Boom-Could-Triple-Data-Center-Water-Use-by-2030.html",
-       "date": "2026-08-28",
-       "sector": "Energy",
+       "publisher": "The Register",
+       "title": "AWS mumbles about its cost-busting networking tech when it should be shouting",
+       "url": "https://www.theregister.com/networks/2026/08/29/aws-mumbles-about-its-cost-busting-networking-tech-when-it-should-be-shouting/5293379",
+       "date": "2026-08-29",
+       "sector": "Technology",
        "country": "US",
-       "quote": "The massive \u2f00data center\u2f01 capacity scale-up underway has focused attention on the scale of water required for these facilities to opera\u2026"
+       "quote": "A lot of \u2f00datacenter networks\u2f01 are run by absolute clowns. Not Amazon's"
       },
       {
-       "publisher": "Data Center Dynamics",
-       "title": "ESDS Software Solution targets Rs 720 Crore IPO, will use proceeds to expand \u2f00data center\u2f01 footprint",
-       "url": "https://www.datacenterdynamics.com/en/news/esds-software-solution-targets-rs-720-crore-ipo-will-use-proceeds-to-expand-data-center-footprint/",
+       "publisher": "The Register",
+       "title": "German-Japanese researchers invent electricity-free tech that could cool \u2f00datacenters\u2f01",
+       "url": "https://www.theregister.com/science/2026/08/28/german-japanese-researchers-invent-electricity-free-tech-that-could-cool-datacenters/5293364",
        "date": "2026-08-28",
        "sector": "Technology",
        "country": "US",
@@ -6765,6 +6765,15 @@
      "examples": [
       {
        "publisher": "OilPrice",
+       "title": "Oil-Rich Azerbaijan Bets Big on a Clean Energy Boom",
+       "url": "https://oilprice.com/Energy/Energy-General/Oil-Rich-Azerbaijan-Bets-Big-on-a-Clean-Energy-Boom.html",
+       "date": "2026-08-29",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2026ing more renewable energy capacity. \u2f00Natural gas\u2f01 contributed 67 per cent of Azerbaijan's energy supply in 2023, while oil and oil products accounted for 31.1%\u2026"
+      },
+      {
+       "publisher": "OilPrice",
        "title": "Gas Prices in Asia and Europe Jump as Qatar Extends LNG Force Majeure",
        "url": "https://oilprice.com/Latest-Energy-News/World-News/Gas-Prices-in-Asia-and-Europe-Jump-as-Qatar-Extends-LNG-Force-Majeure.html",
        "date": "2026-08-28",
@@ -6780,15 +6789,6 @@
        "sector": "Energy",
        "country": "US",
        "quote": "\u2026ning to build an enormous amount of \u2f00natural gas\u2f01-fired power plants in the U.S., fueled in large part by the AI boom. The expansion is a serious threat to the\u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Thailand Accelerates Clean Energy Push to Cut LNG Dependence",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Thailand-Accelerates-Clean-Energy-Push-to-Cut-LNG-Dependence.html",
-       "date": "2026-08-27",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026hed on Thursday. Thailand relies on \u2f00natural gas\u2f01 for more than 60% of its electricity generation and has become increasingly dependent on imported LNG. Follow\u2026"
       }
      ]
     },
@@ -6847,27 +6847,27 @@
      ],
      "examples": [
       {
-       "publisher": "The Register",
-       "title": "German-Japanese researchers invent electricity-free tech that could cool \u2f00datacenters\u2f01",
-       "url": "https://www.theregister.com/science/2026/08/28/german-japanese-researchers-invent-electricity-free-tech-that-could-cool-datacenters/5293364",
-       "date": "2026-08-28",
+       "publisher": "Data Center Dynamics",
+       "title": "From pressure to proof: Leading through constraint in the \u2f00data center\u2f01 era",
+       "url": "https://www.datacenterdynamics.com/en/opinions/from-pressure-to-proof-leading-through-constraint-in-the-data-center-era/",
+       "date": "2026-08-29",
        "sector": "Technology",
        "country": "US",
        "quote": ""
       },
       {
-       "publisher": "OilPrice",
-       "title": "The AI Boom Could Triple \u2f00Data Center\u2f01 Water Use by 2030",
-       "url": "https://oilprice.com/Energy/Energy-General/The-AI-Boom-Could-Triple-Data-Center-Water-Use-by-2030.html",
-       "date": "2026-08-28",
-       "sector": "Energy",
+       "publisher": "The Register",
+       "title": "AWS mumbles about its cost-busting networking tech when it should be shouting",
+       "url": "https://www.theregister.com/networks/2026/08/29/aws-mumbles-about-its-cost-busting-networking-tech-when-it-should-be-shouting/5293379",
+       "date": "2026-08-29",
+       "sector": "Technology",
        "country": "US",
-       "quote": "The massive \u2f00data center\u2f01 capacity scale-up underway has focused attention on the scale of water required for these facilities to opera\u2026"
+       "quote": "A lot of \u2f00datacenter networks\u2f01 are run by absolute clowns. Not Amazon's"
       },
       {
-       "publisher": "Data Center Dynamics",
-       "title": "ESDS Software Solution targets Rs 720 Crore IPO, will use proceeds to expand \u2f00data center\u2f01 footprint",
-       "url": "https://www.datacenterdynamics.com/en/news/esds-software-solution-targets-rs-720-crore-ipo-will-use-proceeds-to-expand-data-center-footprint/",
+       "publisher": "The Register",
+       "title": "German-Japanese researchers invent electricity-free tech that could cool \u2f00datacenters\u2f01",
+       "url": "https://www.theregister.com/science/2026/08/28/german-japanese-researchers-invent-electricity-free-tech-that-could-cool-datacenters/5293364",
        "date": "2026-08-28",
        "sector": "Technology",
        "country": "US",
@@ -6916,8 +6916,8 @@
    "borrowed": [
     "tariff refund"
    ],
-   "articles": 32,
-   "articles14d": 21,
+   "articles": 33,
+   "articles14d": 22,
    "terms": [
     {
      "term": "tariff refund",
@@ -6929,6 +6929,15 @@
      "direction": "steady",
      "variants": [],
      "examples": [
+      {
+       "publisher": "CFO Dive",
+       "title": "Amazon, Target customers aim to move location of \u2f00tariff refund\u2f01 suits",
+       "url": "https://www.cfodive.com/news/amazon-target-customers-aim-move-location-tariff-refund-suits/829126/",
+       "date": "2026-08-28",
+       "sector": "Finance",
+       "country": "US",
+       "quote": "\u2026actions filed by customers seeking \u2f00tariff refunds\u2f01 from large retailers should be heard comes as the money has begun to flow back into company coffers."
+      },
       {
        "publisher": "Retail Dive",
        "title": "Burlington CEO calls using \u2f00tariff refunds\u2f01 to cut prices \u2018the right thing to do'",
@@ -6946,15 +6955,6 @@
        "sector": "Finance",
        "country": "US",
        "quote": "Billions have been paid out in \u2f00tariff refunds\u2f01, with the impact showing up prominently in public companies' earnings calls and financial statements."
-      },
-      {
-       "publisher": "Supply Chain Dive",
-       "title": "How big box retailers are using \u2f00tariff refunds\u2f01",
-       "url": "https://www.supplychaindive.com/news/how-big-box-retailers-are-using-tariff-refunds/828717/",
-       "date": "2026-08-26",
-       "sector": "Supply chain",
-       "country": "US",
-       "quote": ""
       }
      ]
     },
@@ -7009,6 +7009,13 @@
      "quote": ""
     },
     {
+     "publisher": "Supply Chain Dive",
+     "title": "\u2f00Walmart\u2f01 to build $1.3B fulfillment center in Georgia",
+     "url": "https://www.supplychaindive.com/news/walmart-to-build-13b-fulfillment-center-in-georgia/828955/",
+     "sector": "Supply chain",
+     "quote": ""
+    },
+    {
      "publisher": "Grocery Dive",
      "title": "The Friday Checkout: Why did \u2f00Walmart\u2f01 take so long to adopt tap-to-pay?",
      "url": "https://www.grocerydive.com/news/walmart-tay-to-pay-technology-checkout/829047/",
@@ -7021,13 +7028,6 @@
      "url": "https://commercialobserver.com/2026/08/walmart-miami-dade-medley-seagis/",
      "sector": "Real estate",
      "quote": "\u2f00Walmart\u2f01 has signed an industrial lease in Miami-Dade County, likely spanning more than 130,000 square feet. The retai\u2026"
-    },
-    {
-     "publisher": "Supply Chain Dive",
-     "title": "How big box retailers are using \u2f00tariff refunds\u2f01",
-     "url": "https://www.supplychaindive.com/news/how-big-box-retailers-are-using-tariff-refunds/828717/",
-     "sector": "Supply chain",
-     "quote": "\u2f00Walmart\u2f01 is investing its $2.9 billion return into price cuts, while Target plans for additional reimbursements and Ho\u2026"
     }
    ]
   },
@@ -7098,27 +7098,27 @@
      ],
      "examples": [
       {
-       "publisher": "The Register",
-       "title": "German-Japanese researchers invent electricity-free tech that could cool \u2f00datacenters\u2f01",
-       "url": "https://www.theregister.com/science/2026/08/28/german-japanese-researchers-invent-electricity-free-tech-that-could-cool-datacenters/5293364",
-       "date": "2026-08-28",
+       "publisher": "Data Center Dynamics",
+       "title": "From pressure to proof: Leading through constraint in the \u2f00data center\u2f01 era",
+       "url": "https://www.datacenterdynamics.com/en/opinions/from-pressure-to-proof-leading-through-constraint-in-the-data-center-era/",
+       "date": "2026-08-29",
        "sector": "Technology",
        "country": "US",
        "quote": ""
       },
       {
-       "publisher": "OilPrice",
-       "title": "The AI Boom Could Triple \u2f00Data Center\u2f01 Water Use by 2030",
-       "url": "https://oilprice.com/Energy/Energy-General/The-AI-Boom-Could-Triple-Data-Center-Water-Use-by-2030.html",
-       "date": "2026-08-28",
-       "sector": "Energy",
+       "publisher": "The Register",
+       "title": "AWS mumbles about its cost-busting networking tech when it should be shouting",
+       "url": "https://www.theregister.com/networks/2026/08/29/aws-mumbles-about-its-cost-busting-networking-tech-when-it-should-be-shouting/5293379",
+       "date": "2026-08-29",
+       "sector": "Technology",
        "country": "US",
-       "quote": "The massive \u2f00data center\u2f01 capacity scale-up underway has focused attention on the scale of water required for these facilities to opera\u2026"
+       "quote": "A lot of \u2f00datacenter networks\u2f01 are run by absolute clowns. Not Amazon's"
       },
       {
-       "publisher": "Data Center Dynamics",
-       "title": "ESDS Software Solution targets Rs 720 Crore IPO, will use proceeds to expand \u2f00data center\u2f01 footprint",
-       "url": "https://www.datacenterdynamics.com/en/news/esds-software-solution-targets-rs-720-crore-ipo-will-use-proceeds-to-expand-data-center-footprint/",
+       "publisher": "The Register",
+       "title": "German-Japanese researchers invent electricity-free tech that could cool \u2f00datacenters\u2f01",
+       "url": "https://www.theregister.com/science/2026/08/28/german-japanese-researchers-invent-electricity-free-tech-that-could-cool-datacenters/5293364",
        "date": "2026-08-28",
        "sector": "Technology",
        "country": "US",
@@ -7225,27 +7225,27 @@
      ],
      "examples": [
       {
-       "publisher": "The Register",
-       "title": "German-Japanese researchers invent electricity-free tech that could cool \u2f00datacenters\u2f01",
-       "url": "https://www.theregister.com/science/2026/08/28/german-japanese-researchers-invent-electricity-free-tech-that-could-cool-datacenters/5293364",
-       "date": "2026-08-28",
+       "publisher": "Data Center Dynamics",
+       "title": "From pressure to proof: Leading through constraint in the \u2f00data center\u2f01 era",
+       "url": "https://www.datacenterdynamics.com/en/opinions/from-pressure-to-proof-leading-through-constraint-in-the-data-center-era/",
+       "date": "2026-08-29",
        "sector": "Technology",
        "country": "US",
        "quote": ""
       },
       {
-       "publisher": "OilPrice",
-       "title": "The AI Boom Could Triple \u2f00Data Center\u2f01 Water Use by 2030",
-       "url": "https://oilprice.com/Energy/Energy-General/The-AI-Boom-Could-Triple-Data-Center-Water-Use-by-2030.html",
-       "date": "2026-08-28",
-       "sector": "Energy",
+       "publisher": "The Register",
+       "title": "AWS mumbles about its cost-busting networking tech when it should be shouting",
+       "url": "https://www.theregister.com/networks/2026/08/29/aws-mumbles-about-its-cost-busting-networking-tech-when-it-should-be-shouting/5293379",
+       "date": "2026-08-29",
+       "sector": "Technology",
        "country": "US",
-       "quote": "The massive \u2f00data center\u2f01 capacity scale-up underway has focused attention on the scale of water required for these facilities to opera\u2026"
+       "quote": "A lot of \u2f00datacenter networks\u2f01 are run by absolute clowns. Not Amazon's"
       },
       {
-       "publisher": "Data Center Dynamics",
-       "title": "ESDS Software Solution targets Rs 720 Crore IPO, will use proceeds to expand \u2f00data center\u2f01 footprint",
-       "url": "https://www.datacenterdynamics.com/en/news/esds-software-solution-targets-rs-720-crore-ipo-will-use-proceeds-to-expand-data-center-footprint/",
+       "publisher": "The Register",
+       "title": "German-Japanese researchers invent electricity-free tech that could cool \u2f00datacenters\u2f01",
+       "url": "https://www.theregister.com/science/2026/08/28/german-japanese-researchers-invent-electricity-free-tech-that-could-cool-datacenters/5293364",
        "date": "2026-08-28",
        "sector": "Technology",
        "country": "US",
@@ -19692,15 +19692,15 @@
   ]
  },
  "daysCollected": 126,
- "articlesStored": 14521,
- "articlesLive": 10766,
+ "articlesStored": 14544,
+ "articlesLive": 10789,
  "windowDays": 90,
  "terms": [
   {
    "id": "iron-ore",
    "term": "iron ore",
    "direction": "rising",
-   "ratio": 0.5411900970030404,
+   "ratio": 0.5401343833538039,
    "display": true,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -20280,7 +20280,7 @@
    "id": "green-hydrogen",
    "term": "green hydrogen",
    "direction": "steady",
-   "ratio": 0.30066116500168916,
+   "ratio": 0.30007465741878,
    "display": true,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -20854,7 +20854,7 @@
    "id": "fossil-fuel",
    "term": "fossil fuel",
    "direction": "steady",
-   "ratio": 0.3330400596941787,
+   "ratio": 0.332390389756187,
    "display": true,
    "adoptionSpan": 44,
    "pace": "gradual",
@@ -21512,7 +21512,7 @@
    "id": "power-supply",
    "term": "power supply",
    "direction": "steady",
-   "ratio": 0.4123353120023165,
+   "ratio": 0.41153095874575535,
    "display": true,
    "adoptionSpan": 5,
    "pace": "simultaneous",
@@ -22122,10 +22122,824 @@
    ]
   },
   {
+   "id": "natural-gas",
+   "term": "natural gas",
+   "direction": "falling",
+   "ratio": 0.19933530814247524,
+   "display": true,
+   "adoptionSpan": 44,
+   "pace": "gradual",
+   "kind": "concept",
+   "sectorCount": 4,
+   "effectiveSectors": 2.66,
+   "newestSector": "Supply chain",
+   "daysSinceNewestSector": 24,
+   "articles14d": 31,
+   "articlesPrior14d": 56,
+   "publishers": 14,
+   "events": 32,
+   "topPubShare": 0.5,
+   "sectors": [
+    {
+     "name": "Energy",
+     "firstSeen": "2026-06-22",
+     "recent": 17,
+     "articles": 54,
+     "share": 0.63,
+     "atSectorStart": false,
+     "grip": 0.5,
+     "outlets": 3,
+     "adopt": 21
+    },
+    {
+     "name": "Technology",
+     "firstSeen": "2026-07-31",
+     "recent": 3,
+     "articles": 9,
+     "share": 0.111,
+     "atSectorStart": false,
+     "grip": 0.222,
+     "outlets": 2,
+     "adopt": 60
+    },
+    {
+     "name": "Utilities",
+     "firstSeen": "2026-08-03",
+     "recent": 5,
+     "articles": 19,
+     "share": 0.185,
+     "atSectorStart": false,
+     "grip": 0.571,
+     "outlets": 4,
+     "adopt": 63
+    },
+    {
+     "name": "Supply chain",
+     "firstSeen": "2026-08-05",
+     "recent": 2,
+     "articles": 3,
+     "share": 0.074,
+     "atSectorStart": false,
+     "grip": 0.143,
+     "outlets": 1,
+     "adopt": 65
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "US",
+     75
+    ],
+    [
+     "NL",
+     10
+    ],
+    [
+     "SG",
+     3
+    ],
+    [
+     "GB",
+     2
+    ],
+    [
+     "IN",
+     2
+    ],
+    [
+     "TW",
+     2
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-06-01",
+     "2026-06-08",
+     "2026-06-15",
+     "2026-06-22",
+     "2026-06-29",
+     "2026-07-06",
+     "2026-07-13",
+     "2026-07-20",
+     "2026-07-27",
+     "2026-08-03",
+     "2026-08-10",
+     "2026-08-17",
+     "2026-08-24"
+    ],
+    "bands": [
+     {
+      "sector": "Energy",
+      "n": [
+       0,
+       0,
+       0,
+       1,
+       0,
+       1,
+       0,
+       2,
+       2,
+       22,
+       9,
+       4,
+       13
+      ]
+     },
+     {
+      "sector": "Utilities",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       13,
+       1,
+       5,
+       0
+      ]
+     },
+     {
+      "sector": "Technology",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       2,
+       3,
+       2,
+       1
+      ]
+     },
+     {
+      "sector": "Supply chain",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       2,
+       0
+      ]
+     },
+     {
+      "sector": "Policy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       1,
+       0
+      ]
+     },
+     {
+      "sector": "Industrials",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       1,
+       0
+      ]
+     },
+     {
+      "sector": "Waste & water",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       1
+      ]
+     },
+     {
+      "sector": "Real estate",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "sector": "Materials",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0
+      ]
+     },
+     {
+      "sector": "Autos",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0
+      ]
+     },
+     {
+      "sector": "Finance",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   "cooc": [
+    [
+     "crude oil production",
+     0.5,
+     "steady",
+     1,
+     1,
+     78.0,
+     [
+      {
+       "title": "Norway's Oil Output Falls Nearly 200,000 Bpd as Gulf Supply Crisis Drags On",
+       "url": "https://oilprice.com/Energy/Crude-Oil/Norways-Oil-Output-Falls-Nearly-200000-Bpd-as-Gulf-Supply-Crisis-Drags-On.html",
+       "publisher": "OilPrice",
+       "sector": "Energy",
+       "quote": "Norway's \u2f00crude oil production\u2f01 averaged 1.776 million barrels per day in July, according to preliminary figures from the Norwegian Offshore\u2026"
+      },
+      {
+       "title": "Longer wells boost Permian crude oil and natural gas production",
+       "url": "https://www.eia.gov/todayinenergy/detail.php?id=67984",
+       "publisher": "EIA Today in Energy",
+       "sector": "Utilities",
+       "quote": ""
+      }
+     ]
+    ]
+   ],
+   "examples": [
+    {
+     "publisher": "OilPrice",
+     "title": "Oil-Rich Azerbaijan Bets Big on a Clean Energy Boom",
+     "url": "https://oilprice.com/Energy/Energy-General/Oil-Rich-Azerbaijan-Bets-Big-on-a-Clean-Energy-Boom.html",
+     "date": "2026-08-29",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026ing more renewable energy capacity. \u2f00Natural gas\u2f01 contributed 67 per cent of Azerbaijan's energy supply in 2023, while oil and oil products accounted for 31.1%\u2026"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Gas Prices in Asia and Europe Jump as Qatar Extends LNG Force Majeure",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Gas-Prices-in-Asia-and-Europe-Jump-as-Qatar-Extends-LNG-Force-Majeure.html",
+     "date": "2026-08-28",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2f00Natural gas\u2f01 prices in Asia and Europe jumped on Friday as the market digested reports that Qatar has extended the force m\u2026"
+    },
+    {
+     "publisher": "Canary Media",
+     "title": "America's big but uncertain gas boom",
+     "url": "https://www.canarymedia.com/articles/fossil-fuels/us-gas-plant-construction-uncertain-ai",
+     "date": "2026-08-28",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026ning to build an enormous amount of \u2f00natural gas\u2f01-fired power plants in the U.S., fueled in large part by the AI boom. The expansion is a serious threat to the\u2026"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Thailand Accelerates Clean Energy Push to Cut LNG Dependence",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Thailand-Accelerates-Clean-Energy-Push-to-Cut-LNG-Dependence.html",
+     "date": "2026-08-27",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026hed on Thursday. Thailand relies on \u2f00natural gas\u2f01 for more than 60% of its electricity generation and has become increasingly dependent on imported LNG. Follow\u2026"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "The Netherlands to Miss \u2f00Natural Gas\u2f01 Filling Target for Winter",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/The-Netherlands-to-Miss-Natural-Gas-Filling-Target-for-Winter.html",
+     "date": "2026-08-26",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026rlands will miss its target to fill \u2f00natural gas\u2f01 storage sites ahead of the winter, its gas network operators said on Wednesday, in one of the first evidence-\u2026"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "India's ONGC Targets Tenfold Oil Output Boost in Venezuela",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-ONGC-Targets-Tenfold-Oil-Output-Boost-in-Venezuela.html",
+     "date": "2026-08-26",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "India's state-owned Oil and \u2f00Natural Gas\u2f01 Corporation (ONGC) plans to invest about $200 million to revive production at the San Cristobal oilfield in V\u2026"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "\u2f00Natural Gas\u2f01, Not Oil, Is Key Inflation Concern in Europe",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Natural-Gas-Not-Oil-Is-Key-Inflation-Concern-in-Europe.html",
+     "date": "2026-08-26",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026be more concerned about the jump in \u2f00natural gas\u2f01 prices rather than the increase in crude oil futures. European benchmark natural gas prices have hit a five-m\u2026"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Qatar Loses $24 Billion as LNG Exports Collapse 96%",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-Loses-24-Billion-as-LNG-Exports-Collapse-96.html",
+     "date": "2026-08-26",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026he world's second-largest liquefied \u2f00natural gas\u2f01 exporter has lost $24 billion in sales as exports tumbled by as much as 96%, Reuters calculations showed on W\u2026"
+    },
+    {
+     "publisher": "ET Energyworld",
+     "title": "ONGC plans $200 million investment to revive Venezuela oilfield",
+     "url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/ongc-plans-200-million-investment-to-revive-venezuela-oilfield/133528283",
+     "date": "2026-08-26",
+     "sector": "Energy",
+     "country": "IN",
+     "quote": "Oil and \u2f00Natural Gas\u2f01 Corporationplans $200 million Venezuela oilfield revival, targets output recovery and unlocking $500 million\u2026"
+    },
+    {
+     "publisher": "CFO Dive",
+     "title": "Targa grants new CFO hefty long-term incentive",
+     "url": "https://www.cfodive.com/news/targa-grants-new-cfo-hefty-long-term-incentive/828746/",
+     "date": "2026-08-25",
+     "sector": "Finance",
+     "country": "US",
+     "quote": "The \u2f00natural gas\u2f01 company will provide company insider Ben Branstetter with a long-term incentive award of 400% of his base pay\u2026"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Norway's Troll Gas Expansion Buys Europe Time But Not New Supply",
+     "url": "https://oilprice.com/Energy/Natural-Gas/Norways-Troll-Gas-Expansion-Buys-Europe-TimeBut-Not-New-Supply.html",
+     "date": "2026-08-25",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026lerating 55 billion cubic meters of \u2f00natural gas\u2f01 from the Troll West reservoir and helping sustain high gas deliveries to Europe from one of the continent's m\u2026"
+    },
+    {
+     "publisher": "Waste Dive",
+     "title": "Canadian Clean Fuels Fund invests in Generate Upcycle digester project",
+     "url": "https://www.wastedive.com/news/generate-upcycle-london-ontario-anaerobic-digester-funding-natural-resources-canada/828699/",
+     "date": "2026-08-25",
+     "sector": "Waste & water",
+     "country": "US",
+     "quote": "\u2026would dramatically expand renewable \u2f00natural gas\u2f01 output. Generate Upcycle President Bill Caesar said it's the latest example of public policy supporting diges\u2026"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-06-01",
+     "n": 0
+    },
+    {
+     "day": "2026-06-02",
+     "n": 0
+    },
+    {
+     "day": "2026-06-03",
+     "n": 0
+    },
+    {
+     "day": "2026-06-04",
+     "n": 0
+    },
+    {
+     "day": "2026-06-05",
+     "n": 0
+    },
+    {
+     "day": "2026-06-06",
+     "n": 0
+    },
+    {
+     "day": "2026-06-07",
+     "n": 0
+    },
+    {
+     "day": "2026-06-08",
+     "n": 0
+    },
+    {
+     "day": "2026-06-09",
+     "n": 0
+    },
+    {
+     "day": "2026-06-10",
+     "n": 0
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 0
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 0
+    },
+    {
+     "day": "2026-06-16",
+     "n": 0
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 0
+    },
+    {
+     "day": "2026-06-19",
+     "n": 0
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 1
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 1
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 2
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-31",
+     "n": 2
+    },
+    {
+     "day": "2026-08-01",
+     "n": 2
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 11
+    },
+    {
+     "day": "2026-08-04",
+     "n": 7
+    },
+    {
+     "day": "2026-08-05",
+     "n": 9
+    },
+    {
+     "day": "2026-08-06",
+     "n": 7
+    },
+    {
+     "day": "2026-08-07",
+     "n": 6
+    },
+    {
+     "day": "2026-08-08",
+     "n": 1
+    },
+    {
+     "day": "2026-08-09",
+     "n": 0
+    },
+    {
+     "day": "2026-08-10",
+     "n": 4
+    },
+    {
+     "day": "2026-08-11",
+     "n": 1
+    },
+    {
+     "day": "2026-08-12",
+     "n": 3
+    },
+    {
+     "day": "2026-08-13",
+     "n": 5
+    },
+    {
+     "day": "2026-08-14",
+     "n": 2
+    },
+    {
+     "day": "2026-08-15",
+     "n": 0
+    },
+    {
+     "day": "2026-08-16",
+     "n": 0
+    },
+    {
+     "day": "2026-08-17",
+     "n": 4
+    },
+    {
+     "day": "2026-08-18",
+     "n": 3
+    },
+    {
+     "day": "2026-08-19",
+     "n": 3
+    },
+    {
+     "day": "2026-08-20",
+     "n": 4
+    },
+    {
+     "day": "2026-08-21",
+     "n": 1
+    },
+    {
+     "day": "2026-08-22",
+     "n": 0
+    },
+    {
+     "day": "2026-08-23",
+     "n": 0
+    },
+    {
+     "day": "2026-08-24",
+     "n": 3
+    },
+    {
+     "day": "2026-08-25",
+     "n": 5
+    },
+    {
+     "day": "2026-08-26",
+     "n": 5
+    },
+    {
+     "day": "2026-08-27",
+     "n": 1
+    },
+    {
+     "day": "2026-08-28",
+     "n": 1
+    },
+    {
+     "day": "2026-08-29",
+     "n": 1
+    }
+   ],
+   "relRatio": 0.51,
+   "docFreq": 0.0022,
+   "specificity": 0.925,
+   "homeShare": 0.63,
+   "daysSeen": 11,
+   "rank": 0.877,
+   "nearShare": 0.071
+  },
+  {
    "id": "electricity-demand",
    "term": "electricity demand",
    "direction": "steady",
-   "ratio": 0.393592797820393,
+   "ratio": 0.39282500607549375,
    "display": true,
    "adoptionSpan": 51,
    "pace": "gradual",
@@ -22277,7 +23091,7 @@
      "steady",
      1,
      1,
-     50.1,
+     50.4,
      [
       {
        "title": "45 Power Plants in India Running on Critically Low Levels of Coal Stocks",
@@ -22839,7 +23653,7 @@
    "id": "low-water",
    "term": "low water",
    "direction": "rising",
-   "ratio": 0.5411900970030404,
+   "ratio": 0.5401343833538039,
    "display": true,
    "adoptionSpan": 5,
    "pace": "simultaneous",
@@ -22994,7 +23808,7 @@
      "new",
      3,
      0,
-     171.7,
+     151.1,
      [
       {
        "title": "Rhine low water crisis due to \u2018decades of delay in modernising infrastructure'",
@@ -23504,7 +24318,7 @@
    "id": "value-chain",
    "term": "value chain",
    "direction": "rising",
-   "ratio": 0.5411900970030404,
+   "ratio": 0.5401343833538039,
    "display": true,
    "adoptionSpan": 19,
    "pace": "mixed",
@@ -24089,824 +24903,10 @@
    "apart": true
   },
   {
-   "id": "natural-gas",
-   "term": "natural gas",
-   "direction": "falling",
-   "ratio": 0.19328217750108587,
-   "display": true,
-   "adoptionSpan": 44,
-   "pace": "gradual",
-   "kind": "concept",
-   "sectorCount": 4,
-   "effectiveSectors": 2.68,
-   "newestSector": "Supply chain",
-   "daysSinceNewestSector": 24,
-   "articles14d": 30,
-   "articlesPrior14d": 56,
-   "publishers": 14,
-   "events": 31,
-   "topPubShare": 0.484,
-   "sectors": [
-    {
-     "name": "Energy",
-     "firstSeen": "2026-06-22",
-     "recent": 16,
-     "articles": 53,
-     "share": 0.615,
-     "atSectorStart": false,
-     "grip": 0.5,
-     "outlets": 3,
-     "adopt": 21
-    },
-    {
-     "name": "Technology",
-     "firstSeen": "2026-07-31",
-     "recent": 3,
-     "articles": 9,
-     "share": 0.115,
-     "atSectorStart": false,
-     "grip": 0.222,
-     "outlets": 2,
-     "adopt": 60
-    },
-    {
-     "name": "Utilities",
-     "firstSeen": "2026-08-03",
-     "recent": 5,
-     "articles": 19,
-     "share": 0.192,
-     "atSectorStart": false,
-     "grip": 0.571,
-     "outlets": 4,
-     "adopt": 63
-    },
-    {
-     "name": "Supply chain",
-     "firstSeen": "2026-08-05",
-     "recent": 2,
-     "articles": 3,
-     "share": 0.077,
-     "atSectorStart": false,
-     "grip": 0.143,
-     "outlets": 1,
-     "adopt": 65
-    }
-   ],
-   "sinceStart": false,
-   "origins": [
-    [
-     "US",
-     74
-    ],
-    [
-     "NL",
-     10
-    ],
-    [
-     "SG",
-     3
-    ],
-    [
-     "GB",
-     2
-    ],
-    [
-     "IN",
-     2
-    ],
-    [
-     "TW",
-     2
-    ]
-   ],
-   "flow": {
-    "weeks": [
-     "2026-06-01",
-     "2026-06-08",
-     "2026-06-15",
-     "2026-06-22",
-     "2026-06-29",
-     "2026-07-06",
-     "2026-07-13",
-     "2026-07-20",
-     "2026-07-27",
-     "2026-08-03",
-     "2026-08-10",
-     "2026-08-17",
-     "2026-08-24"
-    ],
-    "bands": [
-     {
-      "sector": "Energy",
-      "n": [
-       0,
-       0,
-       0,
-       1,
-       0,
-       1,
-       0,
-       2,
-       2,
-       22,
-       9,
-       4,
-       12
-      ]
-     },
-     {
-      "sector": "Utilities",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       13,
-       1,
-       5,
-       0
-      ]
-     },
-     {
-      "sector": "Technology",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       2,
-       3,
-       2,
-       1
-      ]
-     },
-     {
-      "sector": "Supply chain",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       2,
-       0
-      ]
-     },
-     {
-      "sector": "Policy",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       1,
-       0
-      ]
-     },
-     {
-      "sector": "Industrials",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       1,
-       0
-      ]
-     },
-     {
-      "sector": "Waste & water",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       1
-      ]
-     },
-     {
-      "sector": "Real estate",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Materials",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Autos",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Finance",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1
-      ]
-     }
-    ]
-   },
-   "cooc": [
-    [
-     "crude oil production",
-     0.5,
-     "steady",
-     1,
-     1,
-     80.1,
-     [
-      {
-       "title": "Norway's Oil Output Falls Nearly 200,000 Bpd as Gulf Supply Crisis Drags On",
-       "url": "https://oilprice.com/Energy/Crude-Oil/Norways-Oil-Output-Falls-Nearly-200000-Bpd-as-Gulf-Supply-Crisis-Drags-On.html",
-       "publisher": "OilPrice",
-       "sector": "Energy",
-       "quote": "Norway's \u2f00crude oil production\u2f01 averaged 1.776 million barrels per day in July, according to preliminary figures from the Norwegian Offshore\u2026"
-      },
-      {
-       "title": "Longer wells boost Permian crude oil and natural gas production",
-       "url": "https://www.eia.gov/todayinenergy/detail.php?id=67984",
-       "publisher": "EIA Today in Energy",
-       "sector": "Utilities",
-       "quote": ""
-      }
-     ]
-    ]
-   ],
-   "examples": [
-    {
-     "publisher": "OilPrice",
-     "title": "Gas Prices in Asia and Europe Jump as Qatar Extends LNG Force Majeure",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Gas-Prices-in-Asia-and-Europe-Jump-as-Qatar-Extends-LNG-Force-Majeure.html",
-     "date": "2026-08-28",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2f00Natural gas\u2f01 prices in Asia and Europe jumped on Friday as the market digested reports that Qatar has extended the force m\u2026"
-    },
-    {
-     "publisher": "Canary Media",
-     "title": "America's big but uncertain gas boom",
-     "url": "https://www.canarymedia.com/articles/fossil-fuels/us-gas-plant-construction-uncertain-ai",
-     "date": "2026-08-28",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026ning to build an enormous amount of \u2f00natural gas\u2f01-fired power plants in the U.S., fueled in large part by the AI boom. The expansion is a serious threat to the\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Thailand Accelerates Clean Energy Push to Cut LNG Dependence",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Thailand-Accelerates-Clean-Energy-Push-to-Cut-LNG-Dependence.html",
-     "date": "2026-08-27",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026hed on Thursday. Thailand relies on \u2f00natural gas\u2f01 for more than 60% of its electricity generation and has become increasingly dependent on imported LNG. Follow\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "The Netherlands to Miss \u2f00Natural Gas\u2f01 Filling Target for Winter",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/The-Netherlands-to-Miss-Natural-Gas-Filling-Target-for-Winter.html",
-     "date": "2026-08-26",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026rlands will miss its target to fill \u2f00natural gas\u2f01 storage sites ahead of the winter, its gas network operators said on Wednesday, in one of the first evidence-\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "India's ONGC Targets Tenfold Oil Output Boost in Venezuela",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Indias-ONGC-Targets-Tenfold-Oil-Output-Boost-in-Venezuela.html",
-     "date": "2026-08-26",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "India's state-owned Oil and \u2f00Natural Gas\u2f01 Corporation (ONGC) plans to invest about $200 million to revive production at the San Cristobal oilfield in V\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "\u2f00Natural Gas\u2f01, Not Oil, Is Key Inflation Concern in Europe",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Natural-Gas-Not-Oil-Is-Key-Inflation-Concern-in-Europe.html",
-     "date": "2026-08-26",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026be more concerned about the jump in \u2f00natural gas\u2f01 prices rather than the increase in crude oil futures. European benchmark natural gas prices have hit a five-m\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Qatar Loses $24 Billion as LNG Exports Collapse 96%",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-Loses-24-Billion-as-LNG-Exports-Collapse-96.html",
-     "date": "2026-08-26",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026he world's second-largest liquefied \u2f00natural gas\u2f01 exporter has lost $24 billion in sales as exports tumbled by as much as 96%, Reuters calculations showed on W\u2026"
-    },
-    {
-     "publisher": "ET Energyworld",
-     "title": "ONGC plans $200 million investment to revive Venezuela oilfield",
-     "url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/ongc-plans-200-million-investment-to-revive-venezuela-oilfield/133528283",
-     "date": "2026-08-26",
-     "sector": "Energy",
-     "country": "IN",
-     "quote": "Oil and \u2f00Natural Gas\u2f01 Corporationplans $200 million Venezuela oilfield revival, targets output recovery and unlocking $500 million\u2026"
-    },
-    {
-     "publisher": "CFO Dive",
-     "title": "Targa grants new CFO hefty long-term incentive",
-     "url": "https://www.cfodive.com/news/targa-grants-new-cfo-hefty-long-term-incentive/828746/",
-     "date": "2026-08-25",
-     "sector": "Finance",
-     "country": "US",
-     "quote": "The \u2f00natural gas\u2f01 company will provide company insider Ben Branstetter with a long-term incentive award of 400% of his base pay\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Norway's Troll Gas Expansion Buys Europe Time But Not New Supply",
-     "url": "https://oilprice.com/Energy/Natural-Gas/Norways-Troll-Gas-Expansion-Buys-Europe-TimeBut-Not-New-Supply.html",
-     "date": "2026-08-25",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026lerating 55 billion cubic meters of \u2f00natural gas\u2f01 from the Troll West reservoir and helping sustain high gas deliveries to Europe from one of the continent's m\u2026"
-    },
-    {
-     "publisher": "Waste Dive",
-     "title": "Canadian Clean Fuels Fund invests in Generate Upcycle digester project",
-     "url": "https://www.wastedive.com/news/generate-upcycle-london-ontario-anaerobic-digester-funding-natural-resources-canada/828699/",
-     "date": "2026-08-25",
-     "sector": "Waste & water",
-     "country": "US",
-     "quote": "\u2026would dramatically expand renewable \u2f00natural gas\u2f01 output. Generate Upcycle President Bill Caesar said it's the latest example of public policy supporting diges\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Hormuz Crisis Boosts Appeal of $42-Billion Tanzania LNG",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Crisis-Boosts-Appeal-of-42-Billion-Tanzania-LNG.html",
-     "date": "2026-08-25",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026onflict that has crippled liquefied \u2f00natural gas\u2f01 supply through the Strait of Hormuz, a senior executive at the Norwegian energy major said on Tuesday. Howeve\u2026"
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-06-01",
-     "n": 0
-    },
-    {
-     "day": "2026-06-02",
-     "n": 0
-    },
-    {
-     "day": "2026-06-03",
-     "n": 0
-    },
-    {
-     "day": "2026-06-04",
-     "n": 0
-    },
-    {
-     "day": "2026-06-05",
-     "n": 0
-    },
-    {
-     "day": "2026-06-06",
-     "n": 0
-    },
-    {
-     "day": "2026-06-07",
-     "n": 0
-    },
-    {
-     "day": "2026-06-08",
-     "n": 0
-    },
-    {
-     "day": "2026-06-09",
-     "n": 0
-    },
-    {
-     "day": "2026-06-10",
-     "n": 0
-    },
-    {
-     "day": "2026-06-11",
-     "n": 0
-    },
-    {
-     "day": "2026-06-12",
-     "n": 0
-    },
-    {
-     "day": "2026-06-13",
-     "n": 0
-    },
-    {
-     "day": "2026-06-14",
-     "n": 0
-    },
-    {
-     "day": "2026-06-15",
-     "n": 0
-    },
-    {
-     "day": "2026-06-16",
-     "n": 0
-    },
-    {
-     "day": "2026-06-17",
-     "n": 0
-    },
-    {
-     "day": "2026-06-18",
-     "n": 0
-    },
-    {
-     "day": "2026-06-19",
-     "n": 0
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 1
-    },
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 0
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 1
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 2
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 0
-    },
-    {
-     "day": "2026-07-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-31",
-     "n": 2
-    },
-    {
-     "day": "2026-08-01",
-     "n": 2
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 11
-    },
-    {
-     "day": "2026-08-04",
-     "n": 7
-    },
-    {
-     "day": "2026-08-05",
-     "n": 9
-    },
-    {
-     "day": "2026-08-06",
-     "n": 7
-    },
-    {
-     "day": "2026-08-07",
-     "n": 6
-    },
-    {
-     "day": "2026-08-08",
-     "n": 1
-    },
-    {
-     "day": "2026-08-09",
-     "n": 0
-    },
-    {
-     "day": "2026-08-10",
-     "n": 4
-    },
-    {
-     "day": "2026-08-11",
-     "n": 1
-    },
-    {
-     "day": "2026-08-12",
-     "n": 3
-    },
-    {
-     "day": "2026-08-13",
-     "n": 5
-    },
-    {
-     "day": "2026-08-14",
-     "n": 2
-    },
-    {
-     "day": "2026-08-15",
-     "n": 0
-    },
-    {
-     "day": "2026-08-16",
-     "n": 0
-    },
-    {
-     "day": "2026-08-17",
-     "n": 4
-    },
-    {
-     "day": "2026-08-18",
-     "n": 3
-    },
-    {
-     "day": "2026-08-19",
-     "n": 3
-    },
-    {
-     "day": "2026-08-20",
-     "n": 4
-    },
-    {
-     "day": "2026-08-21",
-     "n": 1
-    },
-    {
-     "day": "2026-08-22",
-     "n": 0
-    },
-    {
-     "day": "2026-08-23",
-     "n": 0
-    },
-    {
-     "day": "2026-08-24",
-     "n": 3
-    },
-    {
-     "day": "2026-08-25",
-     "n": 5
-    },
-    {
-     "day": "2026-08-26",
-     "n": 5
-    },
-    {
-     "day": "2026-08-27",
-     "n": 1
-    },
-    {
-     "day": "2026-08-28",
-     "n": 1
-    },
-    {
-     "day": "2026-08-29",
-     "n": 0
-    }
-   ],
-   "relRatio": 0.49,
-   "docFreq": 0.0022,
-   "specificity": 0.928,
-   "homeShare": 0.615,
-   "daysSeen": 10,
-   "rank": 0.855,
-   "nearShare": 0.075
-  },
-  {
    "id": "self-sufficiency",
    "term": "self sufficiency",
    "direction": "rising",
-   "ratio": 0.9621157280054051,
+   "ratio": 0.9602389037400959,
    "display": true,
    "adoptionSpan": 22,
    "pace": "mixed",
@@ -25482,10 +25482,686 @@
    "nearShare": 0.136
   },
   {
+   "id": "climate-change",
+   "term": "climate change",
+   "direction": "steady",
+   "ratio": 0.48011945187004795,
+   "display": true,
+   "adoptionSpan": 19,
+   "pace": "mixed",
+   "kind": "concept",
+   "sectorCount": 2,
+   "effectiveSectors": 1.93,
+   "newestSector": "Energy",
+   "daysSinceNewestSector": 12,
+   "articles14d": 8,
+   "articlesPrior14d": 6,
+   "publishers": 5,
+   "events": 8,
+   "topPubShare": 0.5,
+   "sectors": [
+    {
+     "name": "Policy",
+     "firstSeen": "2026-07-29",
+     "recent": 1,
+     "articles": 7,
+     "share": 0.2,
+     "atSectorStart": false,
+     "grip": 0.2,
+     "outlets": 1,
+     "adopt": 58
+    },
+    {
+     "name": "Energy",
+     "firstSeen": "2026-08-17",
+     "recent": 4,
+     "articles": 4,
+     "share": 0.8,
+     "atSectorStart": false,
+     "grip": 0.167,
+     "outlets": 1,
+     "adopt": 77
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "GB",
+     8
+    ],
+    [
+     "US",
+     7
+    ],
+    [
+     "KR",
+     1
+    ],
+    [
+     "TW",
+     1
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-06-01",
+     "2026-06-08",
+     "2026-06-15",
+     "2026-06-22",
+     "2026-06-29",
+     "2026-07-06",
+     "2026-07-13",
+     "2026-07-20",
+     "2026-07-27",
+     "2026-08-03",
+     "2026-08-10",
+     "2026-08-17",
+     "2026-08-24"
+    ],
+    "bands": [
+     {
+      "sector": "Policy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       2,
+       4,
+       0,
+       0,
+       1
+      ]
+     },
+     {
+      "sector": "Energy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       3,
+       1
+      ]
+     },
+     {
+      "sector": "Technology",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       1,
+       0
+      ]
+     },
+     {
+      "sector": "Consumer",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "sector": "Labor",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0
+      ]
+     },
+     {
+      "sector": "Supply chain",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0
+      ]
+     },
+     {
+      "sector": "Utilities",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   "cooc": [
+    [
+     "water crisis",
+     0.75,
+     "new",
+     3,
+     0,
+     604.4,
+     [
+      {
+       "title": "Rhine low \u2f00water crisis\u2f01 due to \u2018decades of delay in modernising infrastructure'",
+       "url": "https://theloadstar.com/rhine-low-water-crisis-due-to-decades-of-delay-in-modernising-infrastructure/",
+       "publisher": "The Loadstar",
+       "sector": "Supply chain",
+       "quote": "\u2026s one of the ... The post Rhine low \u2f00water crisis\u2f01 due to \u2018decades of delay in modernising infrastructure' appeared first on The Loadstar ."
+      },
+      {
+       "title": "The Next Energy Crisis Could Be a \u2f00Water Crisis\u2f01",
+       "url": "https://oilprice.com/Energy/Energy-General/The-Next-Energy-Crisis-Could-Be-a-Water-Crisis.html",
+       "publisher": "OilPrice",
+       "sector": "Energy",
+       "quote": "\u2026something closer to home. Thanks to \u2f00climate change\u2f01 (yes, just say it and hope the big boss doesn't hear you), temperatures have risen, and rainfall patterns hav\u2026"
+      }
+     ]
+    ]
+   ],
+   "examples": [
+    {
+     "publisher": "OilPrice",
+     "title": "Oil-Rich Azerbaijan Bets Big on a Clean Energy Boom",
+     "url": "https://oilprice.com/Energy/Energy-General/Oil-Rich-Azerbaijan-Bets-Big-on-a-Clean-Energy-Boom.html",
+     "date": "2026-08-29",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026r. However, the host of the 29th UN \u2f00Climate Change\u2f01 Conference (COP29) in 2024 is now looking to diversify its energy mix by deploying more renewable energy capa\u2026"
+    },
+    {
+     "publisher": "Carbon Brief",
+     "title": "\u2f00Climate change\u2f01 exposes 580 million children to 20 extra \u2018heat-stress days' every year",
+     "url": "https://www.carbonbrief.org/climate-change-exposes-580-million-children-to-20-extra-heat-stress-days-every-year",
+     "date": "2026-08-26",
+     "sector": "Policy",
+     "country": "GB",
+     "quote": "\u2026tional \u201cheat-stress days\u201d\u2026 The post \u2f00Climate change\u2f01 exposes 580 million children to 20 extra \u2018heat-stress days' every year appeared first on Carbon Brief ."
+    },
+    {
+     "publisher": "Energy Live News",
+     "title": "Seagrass plays a big role in reducing \u2f00climate change\u2f01- study finds",
+     "url": "https://www.energylivenews.com/2026/08/25/seagrass-plays-a-big-role-in-reducing-climate-change-study-finds/",
+     "date": "2026-08-25",
+     "sector": "Utilities",
+     "country": "GB",
+     "quote": "\u2026agrass plays a big role in reducing \u2f00climate change\u2f01- study finds appeared first on Energy Live News ."
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Super El Ni\u00f1o Threatens Food, Water and Trade Worldwide",
+     "url": "https://oilprice.com/Energy/Energy-General/Super-El-Nio-Threatens-Food-Water-and-Trade-Worldwide.html",
+     "date": "2026-08-23",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026is directly linked to human-caused \u2f00climate change\u2f01, it is certainly exacerbating extreme weather patterns in some parts of the world. El Ni\u00f1o occurs every few y\u2026"
+    },
+    {
+     "publisher": "The Loadstar",
+     "title": "Rhine low water crisis due to \u2018decades of delay in modernising infrastructure'",
+     "url": "https://theloadstar.com/rhine-low-water-crisis-due-to-decades-of-delay-in-modernising-infrastructure/",
+     "date": "2026-08-20",
+     "sector": "Supply chain",
+     "country": "GB",
+     "quote": "\u2026Factor-in the increasing impact of \u2f00climate change\u2f01, and inland waterway services are at serious risk. The analysis is that of Theresa Hacksteiner, secretary gen\u2026"
+    },
+    {
+     "publisher": "The Elec",
+     "title": "LG Publishes 2025 ESG Report on Compliance, Climate and Safety",
+     "url": "https://www.thelec.net/news/articleView.html?idxno=13179",
+     "date": "2026-08-19",
+     "sector": "Technology",
+     "country": "KR",
+     "quote": "\u2026h a focus on compliance management, \u2f00climate change\u2f01, and safety and health. Data from the first half of 2026 was reflected in some areas.The report cover"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "The Case for Britain Backing Its North Sea Oil and Gas Industry",
+     "url": "https://oilprice.com/Energy/Energy-General/The-Case-for-Britain-Backing-Its-North-Sea-Oil-and-Gas-Industry.html",
+     "date": "2026-08-18",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026er more visible, the need to tackle \u2f00climate change\u2f01 is beyond doubt. The UK must scale up renewable and low-carbon energy, but people deserve honesty. Even on ou\u2026"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "The Next Energy Crisis Could Be a Water Crisis",
+     "url": "https://oilprice.com/Energy/Energy-General/The-Next-Energy-Crisis-Could-Be-a-Water-Crisis.html",
+     "date": "2026-08-17",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026something closer to home. Thanks to \u2f00climate change\u2f01 (yes, just say it and hope the big boss doesn't hear you), temperatures have risen, and rainfall patterns hav\u2026"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-06-01",
+     "n": 0
+    },
+    {
+     "day": "2026-06-02",
+     "n": 0
+    },
+    {
+     "day": "2026-06-03",
+     "n": 0
+    },
+    {
+     "day": "2026-06-04",
+     "n": 0
+    },
+    {
+     "day": "2026-06-05",
+     "n": 0
+    },
+    {
+     "day": "2026-06-06",
+     "n": 0
+    },
+    {
+     "day": "2026-06-07",
+     "n": 0
+    },
+    {
+     "day": "2026-06-08",
+     "n": 0
+    },
+    {
+     "day": "2026-06-09",
+     "n": 0
+    },
+    {
+     "day": "2026-06-10",
+     "n": 0
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 0
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 0
+    },
+    {
+     "day": "2026-06-16",
+     "n": 0
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 0
+    },
+    {
+     "day": "2026-06-19",
+     "n": 0
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 0
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 1
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 2
+    },
+    {
+     "day": "2026-07-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-31",
+     "n": 0
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 1
+    },
+    {
+     "day": "2026-08-04",
+     "n": 2
+    },
+    {
+     "day": "2026-08-05",
+     "n": 0
+    },
+    {
+     "day": "2026-08-06",
+     "n": 2
+    },
+    {
+     "day": "2026-08-07",
+     "n": 0
+    },
+    {
+     "day": "2026-08-08",
+     "n": 0
+    },
+    {
+     "day": "2026-08-09",
+     "n": 0
+    },
+    {
+     "day": "2026-08-10",
+     "n": 1
+    },
+    {
+     "day": "2026-08-11",
+     "n": 0
+    },
+    {
+     "day": "2026-08-12",
+     "n": 0
+    },
+    {
+     "day": "2026-08-13",
+     "n": 0
+    },
+    {
+     "day": "2026-08-14",
+     "n": 0
+    },
+    {
+     "day": "2026-08-15",
+     "n": 0
+    },
+    {
+     "day": "2026-08-16",
+     "n": 0
+    },
+    {
+     "day": "2026-08-17",
+     "n": 1
+    },
+    {
+     "day": "2026-08-18",
+     "n": 1
+    },
+    {
+     "day": "2026-08-19",
+     "n": 1
+    },
+    {
+     "day": "2026-08-20",
+     "n": 1
+    },
+    {
+     "day": "2026-08-21",
+     "n": 0
+    },
+    {
+     "day": "2026-08-22",
+     "n": 0
+    },
+    {
+     "day": "2026-08-23",
+     "n": 1
+    },
+    {
+     "day": "2026-08-24",
+     "n": 0
+    },
+    {
+     "day": "2026-08-25",
+     "n": 1
+    },
+    {
+     "day": "2026-08-26",
+     "n": 1
+    },
+    {
+     "day": "2026-08-27",
+     "n": 0
+    },
+    {
+     "day": "2026-08-28",
+     "n": 0
+    },
+    {
+     "day": "2026-08-29",
+     "n": 1
+    }
+   ],
+   "relRatio": 1.22,
+   "docFreq": 0.0006,
+   "specificity": 0.981,
+   "homeShare": 0.8,
+   "daysSeen": 8,
+   "rank": 0.834,
+   "nearShare": 0.091
+  },
+  {
    "id": "electricity-price",
    "term": "electricity price",
    "direction": "steady",
-   "ratio": 0.360793398002027,
+   "ratio": 0.36008958890253595,
    "display": true,
    "adoptionSpan": 64,
    "pace": "gradual",
@@ -25618,7 +26294,7 @@
      "rising",
      2,
      1,
-     6.2,
+     6.3,
      [
       {
        "title": "Private Equity Is Circling Utilities as AI Reshapes the Grid",
@@ -26058,7 +26734,7 @@
    "id": "autonomous-vehicle",
    "term": "autonomous vehicle",
    "direction": "steady",
-   "ratio": 0.42092563100236474,
+   "ratio": 0.4201045203862919,
    "display": true,
    "adoptionSpan": 3,
    "pace": "simultaneous",
@@ -26675,7 +27351,7 @@
    "id": "wind-farm",
    "term": "wind farm",
    "direction": "falling",
-   "ratio": 0.24052893200135128,
+   "ratio": 0.24005972593502398,
    "display": true,
    "adoptionSpan": 27,
    "pace": "mixed",
@@ -27264,7 +27940,7 @@
    "id": "battery-plant",
    "term": "battery plant",
    "direction": "falling",
-   "ratio": 0.20616765600115824,
+   "ratio": 0.20576547937287767,
    "display": true,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -27807,7 +28483,7 @@
    "id": "low-carbon",
    "term": "low carbon",
    "direction": "steady",
-   "ratio": 0.48105786400270256,
+   "ratio": 0.48011945187004795,
    "display": true,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -28430,7 +29106,7 @@
    "id": "critical-infrastructure",
    "term": "critical infrastructure",
    "direction": "steady",
-   "ratio": 0.30925148400173735,
+   "ratio": 0.30864821905931655,
    "display": true,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -29012,7 +29688,7 @@
    "id": "ride-hailing",
    "term": "ride hailing",
    "direction": "steady",
-   "ratio": 0.48105786400270256,
+   "ratio": 0.48011945187004795,
    "display": true,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -29555,7 +30231,7 @@
    "id": "precious-metal",
    "term": "precious metal",
    "direction": "rising",
-   "ratio": 0.8117851455045607,
+   "ratio": 0.8102015750307059,
    "display": true,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -29710,7 +30386,7 @@
      "steady",
      1,
      1,
-     267.1,
+     268.6,
      [
       {
        "title": "\u2f00Silver prices\u2f01 rebound as AI, data centers add to industrial demand",
@@ -30184,677 +30860,10 @@
    "apart": true
   },
   {
-   "id": "climate-change",
-   "term": "climate change",
-   "direction": "steady",
-   "ratio": 0.42092563100236474,
-   "display": true,
-   "adoptionSpan": 19,
-   "pace": "mixed",
-   "kind": "concept",
-   "sectorCount": 2,
-   "effectiveSectors": 1.84,
-   "newestSector": "Energy",
-   "daysSinceNewestSector": 12,
-   "articles14d": 7,
-   "articlesPrior14d": 6,
-   "publishers": 5,
-   "events": 7,
-   "topPubShare": 0.429,
-   "sectors": [
-    {
-     "name": "Policy",
-     "firstSeen": "2026-07-29",
-     "recent": 1,
-     "articles": 7,
-     "share": 0.25,
-     "atSectorStart": false,
-     "grip": 0.2,
-     "outlets": 1,
-     "adopt": 58
-    },
-    {
-     "name": "Energy",
-     "firstSeen": "2026-08-17",
-     "recent": 3,
-     "articles": 3,
-     "share": 0.75,
-     "atSectorStart": false,
-     "grip": 0.167,
-     "outlets": 1,
-     "adopt": 77
-    }
-   ],
-   "sinceStart": false,
-   "origins": [
-    [
-     "GB",
-     8
-    ],
-    [
-     "US",
-     6
-    ],
-    [
-     "KR",
-     1
-    ],
-    [
-     "TW",
-     1
-    ]
-   ],
-   "flow": {
-    "weeks": [
-     "2026-06-01",
-     "2026-06-08",
-     "2026-06-15",
-     "2026-06-22",
-     "2026-06-29",
-     "2026-07-06",
-     "2026-07-13",
-     "2026-07-20",
-     "2026-07-27",
-     "2026-08-03",
-     "2026-08-10",
-     "2026-08-17",
-     "2026-08-24"
-    ],
-    "bands": [
-     {
-      "sector": "Policy",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       2,
-       4,
-       0,
-       0,
-       1
-      ]
-     },
-     {
-      "sector": "Energy",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       3,
-       0
-      ]
-     },
-     {
-      "sector": "Technology",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       1,
-       0
-      ]
-     },
-     {
-      "sector": "Consumer",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Labor",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Supply chain",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0
-      ]
-     },
-     {
-      "sector": "Utilities",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1
-      ]
-     }
-    ]
-   },
-   "cooc": [
-    [
-     "water crisis",
-     0.75,
-     "new",
-     3,
-     0,
-     686.9,
-     [
-      {
-       "title": "Rhine low \u2f00water crisis\u2f01 due to \u2018decades of delay in modernising infrastructure'",
-       "url": "https://theloadstar.com/rhine-low-water-crisis-due-to-decades-of-delay-in-modernising-infrastructure/",
-       "publisher": "The Loadstar",
-       "sector": "Supply chain",
-       "quote": "\u2026s one of the ... The post Rhine low \u2f00water crisis\u2f01 due to \u2018decades of delay in modernising infrastructure' appeared first on The Loadstar ."
-      },
-      {
-       "title": "The Next Energy Crisis Could Be a \u2f00Water Crisis\u2f01",
-       "url": "https://oilprice.com/Energy/Energy-General/The-Next-Energy-Crisis-Could-Be-a-Water-Crisis.html",
-       "publisher": "OilPrice",
-       "sector": "Energy",
-       "quote": "\u2026something closer to home. Thanks to \u2f00climate change\u2f01 (yes, just say it and hope the big boss doesn't hear you), temperatures have risen, and rainfall patterns hav\u2026"
-      }
-     ]
-    ]
-   ],
-   "examples": [
-    {
-     "publisher": "Carbon Brief",
-     "title": "\u2f00Climate change\u2f01 exposes 580 million children to 20 extra \u2018heat-stress days' every year",
-     "url": "https://www.carbonbrief.org/climate-change-exposes-580-million-children-to-20-extra-heat-stress-days-every-year",
-     "date": "2026-08-26",
-     "sector": "Policy",
-     "country": "GB",
-     "quote": "\u2026tional \u201cheat-stress days\u201d\u2026 The post \u2f00Climate change\u2f01 exposes 580 million children to 20 extra \u2018heat-stress days' every year appeared first on Carbon Brief ."
-    },
-    {
-     "publisher": "Energy Live News",
-     "title": "Seagrass plays a big role in reducing \u2f00climate change\u2f01- study finds",
-     "url": "https://www.energylivenews.com/2026/08/25/seagrass-plays-a-big-role-in-reducing-climate-change-study-finds/",
-     "date": "2026-08-25",
-     "sector": "Utilities",
-     "country": "GB",
-     "quote": "\u2026agrass plays a big role in reducing \u2f00climate change\u2f01- study finds appeared first on Energy Live News ."
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Super El Ni\u00f1o Threatens Food, Water and Trade Worldwide",
-     "url": "https://oilprice.com/Energy/Energy-General/Super-El-Nio-Threatens-Food-Water-and-Trade-Worldwide.html",
-     "date": "2026-08-23",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026is directly linked to human-caused \u2f00climate change\u2f01, it is certainly exacerbating extreme weather patterns in some parts of the world. El Ni\u00f1o occurs every few y\u2026"
-    },
-    {
-     "publisher": "The Loadstar",
-     "title": "Rhine low water crisis due to \u2018decades of delay in modernising infrastructure'",
-     "url": "https://theloadstar.com/rhine-low-water-crisis-due-to-decades-of-delay-in-modernising-infrastructure/",
-     "date": "2026-08-20",
-     "sector": "Supply chain",
-     "country": "GB",
-     "quote": "\u2026Factor-in the increasing impact of \u2f00climate change\u2f01, and inland waterway services are at serious risk. The analysis is that of Theresa Hacksteiner, secretary gen\u2026"
-    },
-    {
-     "publisher": "The Elec",
-     "title": "LG Publishes 2025 ESG Report on Compliance, Climate and Safety",
-     "url": "https://www.thelec.net/news/articleView.html?idxno=13179",
-     "date": "2026-08-19",
-     "sector": "Technology",
-     "country": "KR",
-     "quote": "\u2026h a focus on compliance management, \u2f00climate change\u2f01, and safety and health. Data from the first half of 2026 was reflected in some areas.The report cover"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "The Case for Britain Backing Its North Sea Oil and Gas Industry",
-     "url": "https://oilprice.com/Energy/Energy-General/The-Case-for-Britain-Backing-Its-North-Sea-Oil-and-Gas-Industry.html",
-     "date": "2026-08-18",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026er more visible, the need to tackle \u2f00climate change\u2f01 is beyond doubt. The UK must scale up renewable and low-carbon energy, but people deserve honesty. Even on ou\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "The Next Energy Crisis Could Be a Water Crisis",
-     "url": "https://oilprice.com/Energy/Energy-General/The-Next-Energy-Crisis-Could-Be-a-Water-Crisis.html",
-     "date": "2026-08-17",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026something closer to home. Thanks to \u2f00climate change\u2f01 (yes, just say it and hope the big boss doesn't hear you), temperatures have risen, and rainfall patterns hav\u2026"
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-06-01",
-     "n": 0
-    },
-    {
-     "day": "2026-06-02",
-     "n": 0
-    },
-    {
-     "day": "2026-06-03",
-     "n": 0
-    },
-    {
-     "day": "2026-06-04",
-     "n": 0
-    },
-    {
-     "day": "2026-06-05",
-     "n": 0
-    },
-    {
-     "day": "2026-06-06",
-     "n": 0
-    },
-    {
-     "day": "2026-06-07",
-     "n": 0
-    },
-    {
-     "day": "2026-06-08",
-     "n": 0
-    },
-    {
-     "day": "2026-06-09",
-     "n": 0
-    },
-    {
-     "day": "2026-06-10",
-     "n": 0
-    },
-    {
-     "day": "2026-06-11",
-     "n": 0
-    },
-    {
-     "day": "2026-06-12",
-     "n": 0
-    },
-    {
-     "day": "2026-06-13",
-     "n": 0
-    },
-    {
-     "day": "2026-06-14",
-     "n": 0
-    },
-    {
-     "day": "2026-06-15",
-     "n": 0
-    },
-    {
-     "day": "2026-06-16",
-     "n": 0
-    },
-    {
-     "day": "2026-06-17",
-     "n": 0
-    },
-    {
-     "day": "2026-06-18",
-     "n": 0
-    },
-    {
-     "day": "2026-06-19",
-     "n": 0
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 1
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 2
-    },
-    {
-     "day": "2026-07-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 0
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 1
-    },
-    {
-     "day": "2026-08-04",
-     "n": 2
-    },
-    {
-     "day": "2026-08-05",
-     "n": 0
-    },
-    {
-     "day": "2026-08-06",
-     "n": 2
-    },
-    {
-     "day": "2026-08-07",
-     "n": 0
-    },
-    {
-     "day": "2026-08-08",
-     "n": 0
-    },
-    {
-     "day": "2026-08-09",
-     "n": 0
-    },
-    {
-     "day": "2026-08-10",
-     "n": 1
-    },
-    {
-     "day": "2026-08-11",
-     "n": 0
-    },
-    {
-     "day": "2026-08-12",
-     "n": 0
-    },
-    {
-     "day": "2026-08-13",
-     "n": 0
-    },
-    {
-     "day": "2026-08-14",
-     "n": 0
-    },
-    {
-     "day": "2026-08-15",
-     "n": 0
-    },
-    {
-     "day": "2026-08-16",
-     "n": 0
-    },
-    {
-     "day": "2026-08-17",
-     "n": 1
-    },
-    {
-     "day": "2026-08-18",
-     "n": 1
-    },
-    {
-     "day": "2026-08-19",
-     "n": 1
-    },
-    {
-     "day": "2026-08-20",
-     "n": 1
-    },
-    {
-     "day": "2026-08-21",
-     "n": 0
-    },
-    {
-     "day": "2026-08-22",
-     "n": 0
-    },
-    {
-     "day": "2026-08-23",
-     "n": 1
-    },
-    {
-     "day": "2026-08-24",
-     "n": 0
-    },
-    {
-     "day": "2026-08-25",
-     "n": 1
-    },
-    {
-     "day": "2026-08-26",
-     "n": 1
-    },
-    {
-     "day": "2026-08-27",
-     "n": 0
-    },
-    {
-     "day": "2026-08-28",
-     "n": 0
-    },
-    {
-     "day": "2026-08-29",
-     "n": 0
-    }
-   ],
-   "relRatio": 1.07,
-   "docFreq": 0.0005,
-   "specificity": 0.983,
-   "homeShare": 0.75,
-   "daysSeen": 7,
-   "rank": 0.722,
-   "nearShare": 0.115
-  },
-  {
    "id": "tariff-refund",
    "term": "tariff refund",
    "direction": "steady",
-   "ratio": 0.31569422325177354,
+   "ratio": 0.36008958890253595,
    "display": true,
    "adoptionSpan": 5,
    "pace": "simultaneous",
@@ -30863,11 +30872,11 @@
    "effectiveSectors": 2.66,
    "newestSector": "Consumer",
    "daysSinceNewestSector": 25,
-   "articles14d": 7,
+   "articles14d": 8,
    "articlesPrior14d": 8,
    "publishers": 5,
-   "events": 7,
-   "topPubShare": 0.429,
+   "events": 8,
+   "topPubShare": 0.375,
    "sectors": [
     {
      "name": "Industrials",
@@ -30907,7 +30916,7 @@
    "origins": [
     [
      "US",
-     16
+     17
     ]
    ],
    "flow": {
@@ -30982,7 +30991,7 @@
       ]
      },
      {
-      "sector": "Technology",
+      "sector": "Finance",
       "n": [
        0,
        0,
@@ -30996,11 +31005,11 @@
        0,
        0,
        0,
-       1
+       2
       ]
      },
      {
-      "sector": "Finance",
+      "sector": "Technology",
       "n": [
        0,
        0,
@@ -31021,6 +31030,15 @@
    },
    "cooc": [],
    "examples": [
+    {
+     "publisher": "CFO Dive",
+     "title": "Amazon, Target customers aim to move location of \u2f00tariff refund\u2f01 suits",
+     "url": "https://www.cfodive.com/news/amazon-target-customers-aim-move-location-tariff-refund-suits/829126/",
+     "date": "2026-08-28",
+     "sector": "Finance",
+     "country": "US",
+     "quote": "\u2026actions filed by customers seeking \u2f00tariff refunds\u2f01 from large retailers should be heard comes as the money has begun to flow back into company coffers."
+    },
     {
      "publisher": "Retail Dive",
      "title": "Burlington CEO calls using \u2f00tariff refunds\u2f01 to cut prices \u2018the right thing to do'",
@@ -31440,19 +31458,19 @@
     },
     {
      "day": "2026-08-28",
-     "n": 0
+     "n": 1
     },
     {
      "day": "2026-08-29",
      "n": 0
     }
    ],
-   "relRatio": 0.8,
-   "docFreq": 0.0005,
-   "specificity": 0.983,
+   "relRatio": 0.92,
+   "docFreq": 0.0006,
+   "specificity": 0.981,
    "homeShare": 0.6,
-   "daysSeen": 6,
-   "rank": 0.638,
+   "daysSeen": 7,
+   "rank": 0.637,
    "nearShare": 0.05,
    "apart": true
   },
@@ -31460,7 +31478,7 @@
    "id": "battery-cell",
    "term": "battery cell",
    "direction": "falling",
-   "ratio": 0.2705950485015202,
+   "ratio": 0.27006719167690196,
    "display": true,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -32076,7 +32094,7 @@
    "id": "grid-connection",
    "term": "grid connection",
    "direction": "steady",
-   "ratio": 0.4123353120023165,
+   "ratio": 0.41153095874575535,
    "display": true,
    "adoptionSpan": 15,
    "pace": "mixed",
@@ -32666,7 +32684,7 @@
    "id": "solid-state",
    "term": "solid state",
    "direction": "falling",
-   "ratio": 0.21046281550118237,
+   "ratio": 0.21005226019314596,
    "display": true,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -33283,7 +33301,7 @@
    "id": "digital-twin",
    "term": "digital twin",
    "direction": "rising",
-   "ratio": 0.721586796004054,
+   "ratio": 0.7201791778050719,
    "display": true,
    "adoptionSpan": 14,
    "pace": "mixed",
@@ -33953,7 +33971,7 @@
    "id": "quantum-computing",
    "term": "quantum computing",
    "direction": "steady",
-   "ratio": 0.2886347184016215,
+   "ratio": 0.28807167112202875,
    "display": true,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -34532,7 +34550,7 @@
    "id": "supply-chain",
    "term": "supply chain",
    "direction": "steady",
-   "ratio": 0.4524704089697551,
+   "ratio": 0.4515877631318689,
    "display": false,
    "adoptionSpan": 68,
    "pace": "gradual",
@@ -34927,7 +34945,7 @@
      "rising",
      4,
      1,
-     62.8,
+     63.2,
      [
       {
        "title": "India now moving to build deeper supply chain of electronics manufacturing: Vaishnaw",
@@ -34951,7 +34969,7 @@
      "steady",
      4,
      0,
-     25.1,
+     25.3,
      [
       {
        "title": "Longcheer and Luxshare move into robot ODM",
@@ -35478,16 +35496,16 @@
    ],
    "relRatio": 1.15,
    "docFreq": 0.0111,
-   "specificity": 0.631,
+   "specificity": 0.632,
    "homeShare": 0.693,
    "daysSeen": 13,
-   "rank": 1.405
+   "rank": 1.406
   },
   {
    "id": "zero-emission",
    "term": "zero emission",
    "direction": "steady",
-   "ratio": 0.30925148400173735,
+   "ratio": 0.30864821905931655,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -36094,7 +36112,7 @@
    "id": "solar-generation",
    "term": "solar generation",
    "direction": "steady",
-   "ratio": 0.3607933980020269,
+   "ratio": 0.36008958890253595,
    "display": false,
    "adoptionSpan": 9,
    "pace": "mixed",
@@ -36231,7 +36249,7 @@
      "rising",
      2,
      1,
-     34.8,
+     35.0,
      [
       {
        "title": "Battery boom brings round-the-clock solar closer, Ember says",
@@ -36679,7 +36697,7 @@
    "id": "solar-cell",
    "term": "solar cell",
    "direction": "rising",
-   "ratio": 0.5154191400028957,
+   "ratio": 0.5144136984321942,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -37271,7 +37289,7 @@
    "id": "iran-war",
    "term": "iran war",
    "direction": "steady",
-   "ratio": 0.41776077663392597,
+   "ratio": 0.41694583978188376,
    "display": false,
    "adoptionSpan": 43,
    "pace": "gradual",
@@ -38001,7 +38019,7 @@
    "id": "data-center",
    "term": "data center",
    "direction": "steady",
-   "ratio": 0.3550299251904929,
+   "ratio": 0.35548780501879745,
    "display": false,
    "adoptionSpan": 81,
    "pace": "gradual",
@@ -38010,18 +38028,18 @@
    "effectiveSectors": 2.85,
    "newestSector": "Materials",
    "daysSinceNewestSector": 8,
-   "articles14d": 308,
+   "articles14d": 309,
    "articlesPrior14d": 313,
    "publishers": 23,
-   "events": 285,
-   "topPubShare": 0.551,
+   "events": 286,
+   "topPubShare": 0.552,
    "sectors": [
     {
      "name": "Technology",
      "firstSeen": "2026-06-01",
-     "recent": 235,
-     "articles": 516,
-     "share": 0.765,
+     "recent": 236,
+     "articles": 517,
+     "share": 0.766,
      "atSectorStart": false,
      "grip": 0.667,
      "outlets": 6,
@@ -38032,7 +38050,7 @@
      "firstSeen": "2026-06-02",
      "recent": 22,
      "articles": 76,
-     "share": 0.072,
+     "share": 0.071,
      "atSectorStart": false,
      "grip": 0.429,
      "outlets": 3,
@@ -38054,7 +38072,7 @@
      "firstSeen": "2026-07-07",
      "recent": 2,
      "articles": 4,
-     "share": 0.007,
+     "share": 0.006,
      "atSectorStart": false,
      "grip": 0.2,
      "outlets": 1,
@@ -38076,7 +38094,7 @@
      "firstSeen": "2026-07-29",
      "recent": 2,
      "articles": 3,
-     "share": 0.007,
+     "share": 0.006,
      "atSectorStart": false,
      "grip": 0.25,
      "outlets": 1,
@@ -38120,7 +38138,7 @@
    "origins": [
     [
      "US",
-     515
+     516
     ],
     [
      "TW",
@@ -38175,7 +38193,7 @@
        108,
        128,
        118,
-       114
+       115
       ]
      },
      {
@@ -38549,6 +38567,24 @@
    ],
    "examples": [
     {
+     "publisher": "Data Center Dynamics",
+     "title": "From pressure to proof: Leading through constraint in the \u2f00data center\u2f01 era",
+     "url": "https://www.datacenterdynamics.com/en/opinions/from-pressure-to-proof-leading-through-constraint-in-the-data-center-era/",
+     "date": "2026-08-29",
+     "sector": "Technology",
+     "country": "US",
+     "quote": ""
+    },
+    {
+     "publisher": "The Register",
+     "title": "AWS mumbles about its cost-busting networking tech when it should be shouting",
+     "url": "https://www.theregister.com/networks/2026/08/29/aws-mumbles-about-its-cost-busting-networking-tech-when-it-should-be-shouting/5293379",
+     "date": "2026-08-29",
+     "sector": "Technology",
+     "country": "US",
+     "quote": "A lot of \u2f00datacenter networks\u2f01 are run by absolute clowns. Not Amazon's"
+    },
+    {
      "publisher": "The Register",
      "title": "German-Japanese researchers invent electricity-free tech that could cool \u2f00datacenters\u2f01",
      "url": "https://www.theregister.com/science/2026/08/28/german-japanese-researchers-invent-electricity-free-tech-that-could-cool-datacenters/5293364",
@@ -38637,24 +38673,6 @@
      "sector": "Technology",
      "country": "US",
      "quote": ""
-    },
-    {
-     "publisher": "Data Center Dynamics",
-     "title": "atNorth signs contract with YIT for additional \u2f00data center\u2f01 building at campus in Finland",
-     "url": "https://www.datacenterdynamics.com/en/news/atnorth-signs-contract-with-yit-for-additional-data-center-building-at-campus-in-finland/",
-     "date": "2026-08-28",
-     "sector": "Technology",
-     "country": "US",
-     "quote": ""
-    },
-    {
-     "publisher": "Data Center Dynamics",
-     "title": "X2M sets up dedicated \u2f00data center\u2f01 subsidiary and signs a deal for data center project",
-     "url": "https://www.datacenterdynamics.com/en/news/x2m-sets-up-dedicated-data-center-subsidiary-and-signs-a-deal-for-data-center-project/",
-     "date": "2026-08-28",
-     "sector": "Technology",
-     "country": "US",
-     "quote": "\u2026stralian IoT company moves into the \u2f00data center\u2f01 sphere"
     }
    ],
    "daily": [
@@ -39016,7 +39034,7 @@
     },
     {
      "day": "2026-08-29",
-     "n": 0
+     "n": 1
     }
    ],
    "variants": [
@@ -39027,16 +39045,16 @@
    ],
    "relRatio": 0.9,
    "docFreq": 0.0223,
-   "specificity": 0.257,
-   "homeShare": 0.765,
-   "daysSeen": 13,
+   "specificity": 0.256,
+   "homeShare": 0.766,
+   "daysSeen": 14,
    "rank": 0.846
   },
   {
    "id": "drone-attack",
    "term": "drone attack",
    "direction": "falling",
-   "ratio": 0.22202670646278577,
+   "ratio": 0.22159359317079133,
    "display": false,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -39155,7 +39173,7 @@
      "falling",
      2,
      4,
-     1202.0,
+     1208.8,
      [
       {
        "title": "MSC suspends Novorossiysk bookings after drone attack",
@@ -39621,7 +39639,7 @@
    "id": "heat-pump",
    "term": "heat pump",
    "direction": "rising",
-   "ratio": 0.5411900970030404,
+   "ratio": 0.5401343833538039,
    "display": false,
    "adoptionSpan": 62,
    "pace": "gradual",
@@ -40253,7 +40271,7 @@
    "id": "digital-asset",
    "term": "digital asset",
    "direction": "steady",
-   "ratio": 0.48105786400270256,
+   "ratio": 0.48011945187004795,
    "display": false,
    "adoptionSpan": 21,
    "pace": "mixed",
@@ -40795,7 +40813,7 @@
    "id": "battery-electric",
    "term": "battery electric",
    "direction": "steady",
-   "ratio": 0.46903141740263504,
+   "ratio": 0.4681164655732968,
    "display": false,
    "adoptionSpan": 9,
    "pace": "mixed",
@@ -41467,7 +41485,7 @@
    "id": "scale-solar",
    "term": "scale solar",
    "direction": "falling",
-   "ratio": 0.25770957000144784,
+   "ratio": 0.2572068492160971,
    "display": false,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -41996,7 +42014,7 @@
    "id": "energy-grid",
    "term": "energy grid",
    "direction": "rising",
-   "ratio": 1.0823801940060809,
+   "ratio": 1.0802687667076079,
    "display": false,
    "adoptionSpan": 51,
    "pace": "gradual",
@@ -42565,7 +42583,7 @@
    "id": "red-sea",
    "term": "red sea",
    "direction": "falling",
-   "ratio": 0.2705950485015202,
+   "ratio": 0.27006719167690196,
    "display": false,
    "adoptionSpan": 17,
    "pace": "mixed",
@@ -42724,7 +42742,7 @@
      "falling",
      1,
      2,
-     16.7,
+     16.8,
      [
       {
        "title": "Saudi-flagged tanker hit by missile in Red Sea",
@@ -43233,7 +43251,7 @@
    "id": "raw-material",
    "term": "raw material",
    "direction": "falling",
-   "ratio": 0.27753338307848224,
+   "ratio": 0.2769919914634892,
    "display": false,
    "adoptionSpan": 48,
    "pace": "gradual",
@@ -43887,7 +43905,7 @@
    "id": "crude-oil",
    "term": "crude oil",
    "direction": "falling",
-   "ratio": 0.24654215530138507,
+   "ratio": 0.24606121908339956,
    "display": false,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -44056,7 +44074,7 @@
      "steady",
      1,
      1,
-     117.3,
+     117.9,
      [
       {
        "title": "Norway's Oil Output Falls Nearly 200,000 Bpd as Gulf Supply Crisis Drags On",
@@ -44558,7 +44576,7 @@
    "id": "small-modular-reactor",
    "term": "small modular reactor",
    "direction": "steady",
-   "ratio": 0.32070524266846834,
+   "ratio": 0.3200796345800319,
    "display": false,
    "adoptionSpan": 70,
    "pace": "gradual",
@@ -45136,7 +45154,7 @@
    "id": "mass-production",
    "term": "mass production",
    "direction": "steady",
-   "ratio": 0.40734738484099814,
+   "ratio": 0.4065527616641535,
    "display": false,
    "adoptionSpan": 31,
    "pace": "gradual",
@@ -45772,7 +45790,7 @@
    "id": "global-energy",
    "term": "global energy",
    "direction": "steady",
-   "ratio": 0.29519459836529477,
+   "ratio": 0.2946187545566203,
    "display": false,
    "adoptionSpan": 54,
    "pace": "gradual",
@@ -46385,7 +46403,7 @@
    "id": "energy-bill",
    "term": "energy bill",
    "direction": "rising",
-   "ratio": 2.345157087013175,
+   "ratio": 2.3405823278664837,
    "display": false,
    "adoptionSpan": 58,
    "pace": "gradual",
@@ -46995,7 +47013,7 @@
    "id": "critical-mineral",
    "term": "critical mineral",
    "direction": "falling",
-   "ratio": 0.2340281500553688,
+   "ratio": 0.23357162523407737,
    "display": false,
    "adoptionSpan": 61,
    "pace": "gradual",
@@ -47197,7 +47215,7 @@
      "rising",
      8,
      1,
-     72.8,
+     73.3,
      [
       {
        "title": "DOE proposes $10M for critical minerals research and development",
@@ -47720,7 +47738,7 @@
    "id": "local-government",
    "term": "local government",
    "direction": "steady",
-   "ratio": 0.48105786400270256,
+   "ratio": 0.48011945187004795,
    "display": false,
    "adoptionSpan": 14,
    "pace": "mixed",
@@ -48298,7 +48316,7 @@
    "id": "shopping-center",
    "term": "shopping center",
    "direction": "rising",
-   "ratio": 0.9019834950050674,
+   "ratio": 0.9002239722563399,
    "display": false,
    "adoptionSpan": 26,
    "pace": "mixed",
@@ -48809,7 +48827,7 @@
    "id": "shipping-lane",
    "term": "shipping lane",
    "direction": "steady",
-   "ratio": 0.3607933980020269,
+   "ratio": 0.36008958890253595,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -49320,7 +49338,7 @@
    "id": "oil-price",
    "term": "oil price",
    "direction": "falling",
-   "ratio": 0.2164760388012162,
+   "ratio": 0.2160537533415216,
    "display": false,
    "adoptionSpan": 43,
    "pace": "gradual",
@@ -50046,7 +50064,7 @@
    "id": "solar-panel",
    "term": "solar panel",
    "direction": "rising",
-   "ratio": 0.5247903970938573,
+   "ratio": 0.523766674767325,
    "display": false,
    "adoptionSpan": 10,
    "pace": "mixed",
@@ -50736,7 +50754,7 @@
    "id": "oil-export",
    "term": "oil export",
    "direction": "steady",
-   "ratio": 0.4329520776024324,
+   "ratio": 0.4321075066830432,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -51324,7 +51342,7 @@
    "id": "hormuz-crisis",
    "term": "hormuz crisis",
    "direction": "steady",
-   "ratio": 0.3607933980020269,
+   "ratio": 0.36008958890253595,
    "display": false,
    "adoptionSpan": 47,
    "pace": "gradual",
@@ -51911,7 +51929,7 @@
    "id": "production-capacity",
    "term": "production capacity",
    "direction": "steady",
-   "ratio": 0.42092563100236474,
+   "ratio": 0.4201045203862919,
    "display": false,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -52623,7 +52641,7 @@
    "id": "image-prime-creative",
    "term": "image prime creative",
    "direction": "rising",
-   "ratio": 1.8039669900101347,
+   "ratio": 1.8004479445126798,
    "display": false,
    "adoptionSpan": 10,
    "pace": "mixed",
@@ -53098,7 +53116,7 @@
    "id": "digital-infrastructure",
    "term": "digital infrastructure",
    "direction": "rising",
-   "ratio": 0.9019834950050674,
+   "ratio": 0.9002239722563399,
    "display": false,
    "adoptionSpan": 45,
    "pace": "gradual",
@@ -53752,7 +53770,7 @@
    "id": "rare-earth",
    "term": "rare earth",
    "direction": "rising",
-   "ratio": 0.5291636504029729,
+   "ratio": 0.5281313970570527,
    "display": false,
    "adoptionSpan": 67,
    "pace": "gradual",
@@ -53991,7 +54009,7 @@
      "new",
      3,
      0,
-     218.5,
+     219.8,
      [
       {
        "title": "Greenland Mines gets \u2f00exploration license\u2f01 for Sarfartoq rare earths project",
@@ -54015,7 +54033,7 @@
      "steady",
      2,
      2,
-     145.7,
+     146.5,
      [
       {
        "title": "LG Electronics Targets 1.6 Tons of Rare-Earth Magnets From E-Waste Annually",
@@ -54046,7 +54064,7 @@
      "rising",
      8,
      1,
-     72.8,
+     73.3,
      [
       {
        "title": "DOE proposes $10M for \u2f00critical minerals\u2f01 research and development",
@@ -54091,7 +54109,7 @@
      "falling",
      1,
      2,
-     72.8,
+     73.3,
      [
       {
        "title": "American rare Earths, Novex to boost US magnet production",
@@ -54624,7 +54642,7 @@
    "id": "coast-guard",
    "term": "coast guard",
    "direction": "steady",
-   "ratio": 0.33072728150185804,
+   "ratio": 0.330082123160658,
    "display": false,
    "adoptionSpan": 29,
    "pace": "gradual",
@@ -55216,7 +55234,7 @@
    "id": "solar-farm",
    "term": "solar farm",
    "direction": "falling",
-   "ratio": 0.2705950485015202,
+   "ratio": 0.27006719167690196,
    "display": false,
    "adoptionSpan": 50,
    "pace": "gradual",
@@ -55727,7 +55745,7 @@
    "id": "supply-constraint",
    "term": "supply constraint",
    "direction": "falling",
-   "ratio": 0.1352975242507601,
+   "ratio": 0.13503359583845098,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -56282,7 +56300,7 @@
    "id": "middle-east",
    "term": "middle east",
    "direction": "steady",
-   "ratio": 0.4648684166564578,
+   "ratio": 0.4639615857013443,
    "display": false,
    "adoptionSpan": 65,
    "pace": "gradual",
@@ -57034,17 +57052,17 @@
     "middle east conflict"
    ],
    "relRatio": 1.18,
-   "docFreq": 0.0049,
-   "specificity": 0.838,
+   "docFreq": 0.0048,
+   "specificity": 0.839,
    "homeShare": 0.477,
    "daysSeen": 13,
-   "rank": 0.493
+   "rank": 0.494
   },
   {
    "id": "recycling-facility",
    "term": "recycling facility",
    "direction": "steady",
-   "ratio": 0.3607933980020269,
+   "ratio": 0.36008958890253595,
    "display": false,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -57564,7 +57582,7 @@
    "id": "industrial-property",
    "term": "industrial property",
    "direction": "rising",
-   "ratio": 1.0823801940060809,
+   "ratio": 1.0802687667076079,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -58089,7 +58107,7 @@
    "id": "storage-site",
    "term": "storage site",
    "direction": "steady",
-   "ratio": 0.360793398002027,
+   "ratio": 0.36008958890253595,
    "display": false,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -58614,7 +58632,7 @@
    "id": "nuclear-fuel",
    "term": "nuclear fuel",
    "direction": "falling",
-   "ratio": 0.22549587375126684,
+   "ratio": 0.22505599306408497,
    "display": false,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -59171,7 +59189,7 @@
    "id": "large-crude-carrier",
    "term": "large crude carrier",
    "direction": "rising",
-   "ratio": 0.8418512620047295,
+   "ratio": 0.8402090407725838,
    "display": false,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -59718,7 +59736,7 @@
    "id": "rooftop-solar",
    "term": "rooftop solar",
    "direction": "steady",
-   "ratio": 0.31569422325177354,
+   "ratio": 0.31507839028971896,
    "display": false,
    "adoptionSpan": 45,
    "pace": "gradual",
@@ -60287,7 +60305,7 @@
    "id": "drilling-rigs",
    "term": "drilling rigs",
    "direction": "rising",
-   "ratio": 1.0823801940060809,
+   "ratio": 1.0802687667076079,
    "display": false,
    "adoptionSpan": 57,
    "pace": "gradual",
@@ -60398,7 +60416,7 @@
      "new",
      3,
      0,
-     601.0,
+     604.4,
      [
       {
        "title": "COSL eyes two new deepwater semisubs",
@@ -60846,7 +60864,7 @@
    "id": "petroleum-product",
    "term": "petroleum product",
    "direction": "steady",
-   "ratio": 0.48105786400270256,
+   "ratio": 0.48011945187004795,
    "display": false,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -61358,7 +61376,7 @@
    "id": "effective-date",
    "term": "effective date",
    "direction": "rising",
-   "ratio": 0.8418512620047295,
+   "ratio": 0.8402090407725838,
    "display": false,
    "adoptionSpan": 21,
    "pace": "mixed",
@@ -61910,7 +61928,7 @@
    "id": "electric-vehicle",
    "term": "electric vehicle",
    "direction": "steady",
-   "ratio": 0.393592797820393,
+   "ratio": 0.39282500607549375,
    "display": false,
    "adoptionSpan": 39,
    "pace": "gradual",
@@ -62681,7 +62699,7 @@
    "id": "energy-price",
    "term": "energy price",
    "direction": "rising",
-   "ratio": 1.9843636890111482,
+   "ratio": 1.9804927389639477,
    "display": false,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -63295,17 +63313,17 @@
    ],
    "relRatio": 5.04,
    "docFreq": 0.0008,
-   "specificity": 0.973,
+   "specificity": 0.974,
    "homeShare": 0.625,
    "daysSeen": 5,
-   "rank": 0.729,
+   "rank": 0.73,
    "nearShare": 0.067
   },
   {
    "id": "water-system",
    "term": "water system",
    "direction": "falling",
-   "ratio": 0.2164760388012162,
+   "ratio": 0.2160537533415216,
    "display": false,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -63836,7 +63854,7 @@
    "id": "energy-efficiency",
    "term": "energy efficiency",
    "direction": "steady",
-   "ratio": 0.3607933980020269,
+   "ratio": 0.36008958890253595,
    "display": false,
    "adoptionSpan": 56,
    "pace": "gradual",
@@ -64506,7 +64524,7 @@
    "id": "vessel-attack",
    "term": "vessel attack",
    "direction": "rising",
-   "ratio": 1.8039669900101347,
+   "ratio": 1.8004479445126798,
    "display": false,
    "adoptionSpan": 10,
    "pace": "mixed",
@@ -65031,7 +65049,7 @@
    "id": "charging-infrastructure",
    "term": "charging infrastructure",
    "direction": "rising",
-   "ratio": 0.8117851455045607,
+   "ratio": 0.8102015750307059,
    "display": false,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -65623,7 +65641,7 @@
    "id": "drone-strike",
    "term": "drone strike",
    "direction": "falling",
-   "ratio": 0.12026446600067564,
+   "ratio": 0.12002986296751199,
    "display": false,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -66130,7 +66148,7 @@
    "id": "wind-power",
    "term": "wind power",
    "direction": "steady",
-   "ratio": 0.30925148400173735,
+   "ratio": 0.30864821905931655,
    "display": false,
    "adoptionSpan": 3,
    "pace": "simultaneous",
@@ -66731,7 +66749,7 @@
    "id": "grid-capacity",
    "term": "grid capacity",
    "direction": "steady",
-   "ratio": 0.4509917475025337,
+   "ratio": 0.45011198612816994,
    "display": false,
    "adoptionSpan": 10,
    "pace": "mixed",
@@ -67319,7 +67337,7 @@
    "id": "power-generation",
    "term": "power generation",
    "direction": "falling",
-   "ratio": 0.13744510400077214,
+   "ratio": 0.13717698624858513,
    "display": false,
    "adoptionSpan": 42,
    "pace": "gradual",
@@ -67547,7 +67565,7 @@
      "rising",
      2,
      1,
-     601.0,
+     604.4,
      [
       {
        "title": "Irish electricity generation by grid-scale PV up 51% in 2025",
@@ -67578,7 +67596,7 @@
      "steady",
      1,
      1,
-     50.1,
+     50.4,
      [
       {
        "title": "45 Power Plants in India Running on Critically Low Levels of Coal Stocks",
@@ -68052,7 +68070,7 @@
    "id": "grid-scale",
    "term": "grid scale",
    "direction": "rising",
-   "ratio": 0.7215867960040538,
+   "ratio": 0.7201791778050719,
    "display": false,
    "adoptionSpan": 37,
    "pace": "gradual",
@@ -68189,7 +68207,7 @@
      "rising",
      2,
      1,
-     25.0,
+     25.2,
      [
       {
        "title": "40 GW project pipeline has Australia's energy transition on track",
@@ -68645,7 +68663,7 @@
    "id": "geothermal-energy",
    "term": "geothermal energy",
    "direction": "rising",
-   "ratio": 1.8039669900101347,
+   "ratio": 1.8004479445126798,
    "display": false,
    "adoptionSpan": 33,
    "pace": "gradual",
