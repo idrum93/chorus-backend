@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-01T20:08:03.794125+00:00",
+ "generated": "2026-09-01T20:57:21.640411+00:00",
  "placeWords": [
   "africa",
   "alberta",
@@ -566,7 +566,7 @@
    },
    {
     "day": "2026-09-01",
-    "close": 82.97
+    "close": 82.92
    }
   ],
   "Materials": [
@@ -816,7 +816,7 @@
    },
    {
     "day": "2026-09-01",
-    "close": 52.1
+    "close": 52.07
    }
   ],
   "Energy": [
@@ -1066,7 +1066,7 @@
    },
    {
     "day": "2026-09-01",
-    "close": 64.62
+    "close": 64.77
    }
   ],
   "Finance": [
@@ -1316,7 +1316,7 @@
    },
    {
     "day": "2026-09-01",
-    "close": 57.15
+    "close": 57.2
    }
   ],
   "Industrials": [
@@ -1566,7 +1566,7 @@
    },
    {
     "day": "2026-09-01",
-    "close": 172.61
+    "close": 172.73
    }
   ],
   "Technology": [
@@ -2066,7 +2066,7 @@
    },
    {
     "day": "2026-09-01",
-    "close": 43.91
+    "close": 44.04
    }
   ],
   "Utilities": [
@@ -2316,7 +2316,7 @@
    },
    {
     "day": "2026-09-01",
-    "close": 42.34
+    "close": 42.56
    }
   ],
   "Healthcare": [
@@ -2566,7 +2566,7 @@
    },
    {
     "day": "2026-09-01",
-    "close": 171.4
+    "close": 171.67
    }
   ],
   "Consumer": [
@@ -2816,14 +2816,14 @@
    },
    {
     "day": "2026-09-01",
-    "close": 114.44
+    "close": 114.59
    }
   ]
  },
  "coverage": [
   [
    "US",
-   8716
+   8726
   ],
   [
    "TW",
@@ -2847,7 +2847,7 @@
   ],
   [
    "GR",
-   519
+   520
   ],
   [
    "SG",
@@ -3129,6 +3129,13 @@
   {
    "articles_list": [
     {
+     "title": "Job openings inch up as hiring slows, affirming labor market stability",
+     "url": "https://www.cfodive.com/news/job-openings-rise-hiring-slows-affirming-labor-market-stability-fed-manufacturing-GDP/829359/",
+     "publisher": "CFO Dive",
+     "sector": "Finance",
+     "quote": "Steady employment gives the \u2f00Federal Reserve\u2f01 some leeway to raise the federal funds rate should inflation fail to fall toward their 2% target."
+    },
+    {
      "title": "U.S.-Iran Strikes Put $100 Oil Back in Focus",
      "url": "https://oilprice.com/Energy/Crude-Oil/US-Iran-Strikes-Put-100-Oil-Back-in-Focus.html",
      "publisher": "OilPrice",
@@ -3141,13 +3148,6 @@
      "publisher": "Banking Dive",
      "sector": "Finance",
      "quote": "\u2026his first Jackson Hole address, new \u2f00Federal Reserve\u2f01 Chair Kevin Warsh doubled down on a promise to cut \u201cforward guidance\u201d and a commitment to 2% inflation."
-    },
-    {
-     "title": "Kevin Warsh Notes Inflation Concerns But Offers No Clues as to Next Fed Decision",
-     "url": "https://commercialobserver.com/2026/08/kevin-warsh-jackson-hole-fed/",
-     "publisher": "Commercial Observer",
-     "sector": "Real estate",
-     "quote": "New \u2f00Federal Reserve\u2f01 Chairman Kevin Warsh did not tip his hand Friday about whether an interest rate hike is on the horizon but di\u2026"
     }
    ],
    "name": "Federal Reserve",
@@ -3163,8 +3163,8 @@
    "home": "Finance",
    "away": [],
    "awayShare": 0.0,
-   "articles": 28,
-   "recent": 8,
+   "articles": 29,
+   "recent": 9,
    "prior": 20,
    "firstSeen": "2026-06-18",
    "direction": "falling"
@@ -3356,6 +3356,13 @@
   },
   {
    "articles_list": [
+    {
+     "title": "\u2f00European Commission\u2f01 objects proposed joint venture between UPM and Sappi",
+     "url": "https://www.recyclingtoday.com/european-commission-objects-proposed-joint-venture-between-upm-and-sappi",
+     "publisher": "Recycling Today",
+     "sector": "Materials",
+     "quote": ""
+    },
     {
      "title": "Decarbonization proposals provoke concerns in papermaking sector",
      "url": "https://www.recyclingtoday.com/paper-packaging-board-production-europe-carbon-emissions-ets-concerns-recycling",
@@ -5572,10 +5579,19 @@
      "articles": 1,
      "home": "Energy",
      "shown": true,
-     "sectors": 4,
+     "sectors": 5,
      "direction": "falling",
      "variants": [],
      "examples": [
+      {
+       "publisher": "Renewable Energy World",
+       "title": "\u2f00Clean energy\u2f01's growth boom is creating new IP risks",
+       "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/clean-energys-growth-boom-is-creating-new-ip-risks/",
+       "date": "2026-09-01",
+       "sector": "Utilities",
+       "country": "US",
+       "quote": ""
+      },
       {
        "publisher": "Commercial Observer",
        "title": "Nuveen Green Capital Closes $173M C-PACE Loan on Miami-Area Condos Project",
@@ -5593,15 +5609,6 @@
        "sector": "Energy",
        "country": "US",
        "quote": "Montreal-based Prodigy \u2f00Clean Energy\u2f01 has announced plans for a 50 MWe full-scale Prodigy Transportable Nuclear Power Plant within the traditional\u2026"
-      },
-      {
-       "publisher": "Canary Media",
-       "title": "Can the Obama Presidential Center help Chicago embrace community solar?",
-       "url": "https://www.canarymedia.com/articles/solar/obama-presidential-center-community-solar",
-       "date": "2026-09-01",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026It will also be powered entirely by \u2f00clean energy\u2f01. Solar panels sit on the roof and on a\u2026"
       }
      ]
     },
@@ -6227,10 +6234,19 @@
      "articles": 1,
      "home": "Energy",
      "shown": true,
-     "sectors": 4,
+     "sectors": 5,
      "direction": "falling",
      "variants": [],
      "examples": [
+      {
+       "publisher": "Renewable Energy World",
+       "title": "\u2f00Clean energy\u2f01's growth boom is creating new IP risks",
+       "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/clean-energys-growth-boom-is-creating-new-ip-risks/",
+       "date": "2026-09-01",
+       "sector": "Utilities",
+       "country": "US",
+       "quote": ""
+      },
       {
        "publisher": "Commercial Observer",
        "title": "Nuveen Green Capital Closes $173M C-PACE Loan on Miami-Area Condos Project",
@@ -6248,15 +6264,6 @@
        "sector": "Energy",
        "country": "US",
        "quote": "Montreal-based Prodigy \u2f00Clean Energy\u2f01 has announced plans for a 50 MWe full-scale Prodigy Transportable Nuclear Power Plant within the traditional\u2026"
-      },
-      {
-       "publisher": "Canary Media",
-       "title": "Can the Obama Presidential Center help Chicago embrace community solar?",
-       "url": "https://www.canarymedia.com/articles/solar/obama-presidential-center-community-solar",
-       "date": "2026-09-01",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026It will also be powered entirely by \u2f00clean energy\u2f01. Solar panels sit on the roof and on a\u2026"
       }
      ]
     },
@@ -7085,10 +7092,19 @@
      "articles": 1,
      "home": "Energy",
      "shown": true,
-     "sectors": 4,
+     "sectors": 5,
      "direction": "falling",
      "variants": [],
      "examples": [
+      {
+       "publisher": "Renewable Energy World",
+       "title": "\u2f00Clean energy\u2f01's growth boom is creating new IP risks",
+       "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/clean-energys-growth-boom-is-creating-new-ip-risks/",
+       "date": "2026-09-01",
+       "sector": "Utilities",
+       "country": "US",
+       "quote": ""
+      },
       {
        "publisher": "Commercial Observer",
        "title": "Nuveen Green Capital Closes $173M C-PACE Loan on Miami-Area Condos Project",
@@ -7106,15 +7122,6 @@
        "sector": "Energy",
        "country": "US",
        "quote": "Montreal-based Prodigy \u2f00Clean Energy\u2f01 has announced plans for a 50 MWe full-scale Prodigy Transportable Nuclear Power Plant within the traditional\u2026"
-      },
-      {
-       "publisher": "Canary Media",
-       "title": "Can the Obama Presidential Center help Chicago embrace community solar?",
-       "url": "https://www.canarymedia.com/articles/solar/obama-presidential-center-community-solar",
-       "date": "2026-09-01",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026It will also be powered entirely by \u2f00clean energy\u2f01. Solar panels sit on the roof and on a\u2026"
       }
      ]
     },
@@ -7279,813 +7286,6 @@
   }
  ],
  "filings": {
-  "nuclear technology": [
-   {
-    "q": "2016Q1",
-    "sector": "Healthcare",
-    "share": 0.0001
-   },
-   {
-    "q": "2016Q1",
-    "sector": "Materials",
-    "share": 0.0077
-   },
-   {
-    "q": "2016Q2",
-    "sector": "Finance",
-    "share": 0.0002
-   },
-   {
-    "q": "2016Q2",
-    "sector": "Materials",
-    "share": 0.00359
-   },
-   {
-    "q": "2016Q3",
-    "sector": "Healthcare",
-    "share": 0.00011
-   },
-   {
-    "q": "2016Q3",
-    "sector": "Materials",
-    "share": 0.00251
-   },
-   {
-    "q": "2016Q3",
-    "sector": "Utilities",
-    "share": 0.00161
-   },
-   {
-    "q": "2016Q4",
-    "sector": "Utilities",
-    "share": 0.00096
-   },
-   {
-    "q": "2017Q1",
-    "sector": "Materials",
-    "share": 0.00596
-   },
-   {
-    "q": "2017Q2",
-    "sector": "Materials",
-    "share": 0.00047
-   },
-   {
-    "q": "2017Q2",
-    "sector": "Utilities",
-    "share": 0.00379
-   },
-   {
-    "q": "2017Q3",
-    "sector": "Materials",
-    "share": 0.00196
-   },
-   {
-    "q": "2017Q3",
-    "sector": "Utilities",
-    "share": 0.00367
-   },
-   {
-    "q": "2017Q4",
-    "sector": "Utilities",
-    "share": 0.00098
-   },
-   {
-    "q": "2018Q1",
-    "sector": "Materials",
-    "share": 0.00468
-   },
-   {
-    "q": "2018Q1",
-    "sector": "Utilities",
-    "share": 0.00134
-   },
-   {
-    "q": "2018Q2",
-    "sector": "Energy",
-    "share": 0.00038
-   },
-   {
-    "q": "2018Q2",
-    "sector": "Healthcare",
-    "share": 0.00015
-   },
-   {
-    "q": "2018Q2",
-    "sector": "Materials",
-    "share": 0.00098
-   },
-   {
-    "q": "2018Q2",
-    "sector": "Technology",
-    "share": 0.00041
-   },
-   {
-    "q": "2018Q2",
-    "sector": "Utilities",
-    "share": 0.0029
-   },
-   {
-    "q": "2018Q3",
-    "sector": "Finance",
-    "share": 7e-05
-   },
-   {
-    "q": "2018Q3",
-    "sector": "Healthcare",
-    "share": 0.00029
-   },
-   {
-    "q": "2018Q3",
-    "sector": "Materials",
-    "share": 0.0019
-   },
-   {
-    "q": "2018Q3",
-    "sector": "Technology",
-    "share": 0.00063
-   },
-   {
-    "q": "2018Q4",
-    "sector": "Finance",
-    "share": 0.00028
-   },
-   {
-    "q": "2018Q4",
-    "sector": "Real estate",
-    "share": 0.00153
-   },
-   {
-    "q": "2019Q1",
-    "sector": "Healthcare",
-    "share": 8e-05
-   },
-   {
-    "q": "2019Q1",
-    "sector": "Materials",
-    "share": 0.0051
-   },
-   {
-    "q": "2019Q1",
-    "sector": "Technology",
-    "share": 0.00016
-   },
-   {
-    "q": "2019Q1",
-    "sector": "Utilities",
-    "share": 0.00248
-   },
-   {
-    "q": "2019Q2",
-    "sector": "Materials",
-    "share": 0.00293
-   },
-   {
-    "q": "2019Q2",
-    "sector": "Technology",
-    "share": 0.00012
-   },
-   {
-    "q": "2019Q2",
-    "sector": "Utilities",
-    "share": 0.00405
-   },
-   {
-    "q": "2019Q3",
-    "sector": "Healthcare",
-    "share": 8e-05
-   },
-   {
-    "q": "2019Q4",
-    "sector": "Finance",
-    "share": 7e-05
-   },
-   {
-    "q": "2019Q4",
-    "sector": "Healthcare",
-    "share": 9e-05
-   },
-   {
-    "q": "2019Q4",
-    "sector": "Materials",
-    "share": 0.00164
-   },
-   {
-    "q": "2020Q1",
-    "sector": "Materials",
-    "share": 0.00617
-   },
-   {
-    "q": "2020Q1",
-    "sector": "Utilities",
-    "share": 0.00284
-   },
-   {
-    "q": "2020Q2",
-    "sector": "Materials",
-    "share": 0.00519
-   },
-   {
-    "q": "2020Q2",
-    "sector": "Technology",
-    "share": 0.00028
-   },
-   {
-    "q": "2020Q2",
-    "sector": "Utilities",
-    "share": 0.01355
-   },
-   {
-    "q": "2020Q3",
-    "sector": "Materials",
-    "share": 0.00238
-   },
-   {
-    "q": "2020Q3",
-    "sector": "Technology",
-    "share": 0.00015
-   },
-   {
-    "q": "2020Q3",
-    "sector": "Utilities",
-    "share": 0.00334
-   },
-   {
-    "q": "2020Q4",
-    "sector": "Healthcare",
-    "share": 7e-05
-   },
-   {
-    "q": "2020Q4",
-    "sector": "Materials",
-    "share": 0.00329
-   },
-   {
-    "q": "2020Q4",
-    "sector": "Utilities",
-    "share": 0.00812
-   },
-   {
-    "q": "2021Q1",
-    "sector": "Materials",
-    "share": 0.00543
-   },
-   {
-    "q": "2021Q1",
-    "sector": "Utilities",
-    "share": 0.00591
-   },
-   {
-    "q": "2021Q2",
-    "sector": "Finance",
-    "share": 3e-05
-   },
-   {
-    "q": "2021Q2",
-    "sector": "Materials",
-    "share": 0.00249
-   },
-   {
-    "q": "2021Q2",
-    "sector": "Technology",
-    "share": 9e-05
-   },
-   {
-    "q": "2021Q2",
-    "sector": "Utilities",
-    "share": 0.00555
-   },
-   {
-    "q": "2021Q3",
-    "sector": "Finance",
-    "share": 4e-05
-   },
-   {
-    "q": "2021Q3",
-    "sector": "Materials",
-    "share": 0.00287
-   },
-   {
-    "q": "2021Q3",
-    "sector": "Real estate",
-    "share": 0.00111
-   },
-   {
-    "q": "2021Q3",
-    "sector": "Utilities",
-    "share": 0.00236
-   },
-   {
-    "q": "2021Q4",
-    "sector": "Materials",
-    "share": 0.0028
-   },
-   {
-    "q": "2021Q4",
-    "sector": "Technology",
-    "share": 9e-05
-   },
-   {
-    "q": "2021Q4",
-    "sector": "Utilities",
-    "share": 0.00101
-   },
-   {
-    "q": "2022Q1",
-    "sector": "Finance",
-    "share": 2e-05
-   },
-   {
-    "q": "2022Q1",
-    "sector": "Materials",
-    "share": 0.0048
-   },
-   {
-    "q": "2022Q1",
-    "sector": "Real estate",
-    "share": 0.00329
-   },
-   {
-    "q": "2022Q1",
-    "sector": "Technology",
-    "share": 0.00055
-   },
-   {
-    "q": "2022Q1",
-    "sector": "Utilities",
-    "share": 0.00491
-   },
-   {
-    "q": "2022Q2",
-    "sector": "Healthcare",
-    "share": 0.00012
-   },
-   {
-    "q": "2022Q2",
-    "sector": "Materials",
-    "share": 0.00385
-   },
-   {
-    "q": "2022Q2",
-    "sector": "Real estate",
-    "share": 0.001
-   },
-   {
-    "q": "2022Q2",
-    "sector": "Technology",
-    "share": 0.0001
-   },
-   {
-    "q": "2022Q2",
-    "sector": "Utilities",
-    "share": 0.00926
-   },
-   {
-    "q": "2022Q3",
-    "sector": "Finance",
-    "share": 0.00022
-   },
-   {
-    "q": "2022Q3",
-    "sector": "Materials",
-    "share": 0.0024
-   },
-   {
-    "q": "2022Q3",
-    "sector": "Real estate",
-    "share": 0.00102
-   },
-   {
-    "q": "2022Q3",
-    "sector": "Technology",
-    "share": 0.00022
-   },
-   {
-    "q": "2022Q3",
-    "sector": "Utilities",
-    "share": 0.00134
-   },
-   {
-    "q": "2022Q4",
-    "sector": "Finance",
-    "share": 0.00057
-   },
-   {
-    "q": "2022Q4",
-    "sector": "Materials",
-    "share": 0.00369
-   },
-   {
-    "q": "2022Q4",
-    "sector": "Real estate",
-    "share": 0.00213
-   },
-   {
-    "q": "2022Q4",
-    "sector": "Utilities",
-    "share": 0.00517
-   },
-   {
-    "q": "2023Q1",
-    "sector": "Autos",
-    "share": 0.00131
-   },
-   {
-    "q": "2023Q1",
-    "sector": "Energy",
-    "share": 0.00056
-   },
-   {
-    "q": "2023Q1",
-    "sector": "Finance",
-    "share": 0.00019
-   },
-   {
-    "q": "2023Q1",
-    "sector": "Materials",
-    "share": 0.00671
-   },
-   {
-    "q": "2023Q1",
-    "sector": "Real estate",
-    "share": 0.00263
-   },
-   {
-    "q": "2023Q1",
-    "sector": "Technology",
-    "share": 0.00024
-   },
-   {
-    "q": "2023Q1",
-    "sector": "Utilities",
-    "share": 0.00741
-   },
-   {
-    "q": "2023Q2",
-    "sector": "Finance",
-    "share": 9e-05
-   },
-   {
-    "q": "2023Q2",
-    "sector": "Healthcare",
-    "share": 5e-05
-   },
-   {
-    "q": "2023Q2",
-    "sector": "Materials",
-    "share": 0.00317
-   },
-   {
-    "q": "2023Q2",
-    "sector": "Real estate",
-    "share": 0.00085
-   },
-   {
-    "q": "2023Q2",
-    "sector": "Technology",
-    "share": 0.0003
-   },
-   {
-    "q": "2023Q2",
-    "sector": "Utilities",
-    "share": 0.00709
-   },
-   {
-    "q": "2023Q3",
-    "sector": "Finance",
-    "share": 0.00037
-   },
-   {
-    "q": "2023Q3",
-    "sector": "Materials",
-    "share": 0.00349
-   },
-   {
-    "q": "2023Q3",
-    "sector": "Real estate",
-    "share": 0.00114
-   },
-   {
-    "q": "2023Q3",
-    "sector": "Technology",
-    "share": 0.00038
-   },
-   {
-    "q": "2023Q4",
-    "sector": "Finance",
-    "share": 0.00015
-   },
-   {
-    "q": "2023Q4",
-    "sector": "Materials",
-    "share": 0.00259
-   },
-   {
-    "q": "2023Q4",
-    "sector": "Real estate",
-    "share": 0.00109
-   },
-   {
-    "q": "2023Q4",
-    "sector": "Technology",
-    "share": 0.00025
-   },
-   {
-    "q": "2023Q4",
-    "sector": "Utilities",
-    "share": 0.00597
-   },
-   {
-    "q": "2024Q1",
-    "sector": "Finance",
-    "share": 8e-05
-   },
-   {
-    "q": "2024Q1",
-    "sector": "Materials",
-    "share": 0.00487
-   },
-   {
-    "q": "2024Q1",
-    "sector": "Real estate",
-    "share": 0.00291
-   },
-   {
-    "q": "2024Q1",
-    "sector": "Technology",
-    "share": 0.00078
-   },
-   {
-    "q": "2024Q1",
-    "sector": "Utilities",
-    "share": 0.01346
-   },
-   {
-    "q": "2024Q2",
-    "sector": "Autos",
-    "share": 0.00101
-   },
-   {
-    "q": "2024Q2",
-    "sector": "Finance",
-    "share": 0.00012
-   },
-   {
-    "q": "2024Q2",
-    "sector": "Healthcare",
-    "share": 5e-05
-   },
-   {
-    "q": "2024Q2",
-    "sector": "Materials",
-    "share": 0.00183
-   },
-   {
-    "q": "2024Q2",
-    "sector": "Real estate",
-    "share": 0.00086
-   },
-   {
-    "q": "2024Q2",
-    "sector": "Technology",
-    "share": 0.00028
-   },
-   {
-    "q": "2024Q2",
-    "sector": "Utilities",
-    "share": 0.01467
-   },
-   {
-    "q": "2024Q3",
-    "sector": "Finance",
-    "share": 0.00024
-   },
-   {
-    "q": "2024Q3",
-    "sector": "Materials",
-    "share": 0.00487
-   },
-   {
-    "q": "2024Q3",
-    "sector": "Real estate",
-    "share": 0.00109
-   },
-   {
-    "q": "2024Q3",
-    "sector": "Technology",
-    "share": 0.00012
-   },
-   {
-    "q": "2024Q3",
-    "sector": "Utilities",
-    "share": 0.00933
-   },
-   {
-    "q": "2024Q4",
-    "sector": "Finance",
-    "share": 0.00013
-   },
-   {
-    "q": "2024Q4",
-    "sector": "Healthcare",
-    "share": 7e-05
-   },
-   {
-    "q": "2024Q4",
-    "sector": "Materials",
-    "share": 0.00476
-   },
-   {
-    "q": "2024Q4",
-    "sector": "Real estate",
-    "share": 0.00105
-   },
-   {
-    "q": "2024Q4",
-    "sector": "Utilities",
-    "share": 0.00773
-   },
-   {
-    "q": "2025Q1",
-    "sector": "Energy",
-    "share": 0.00064
-   },
-   {
-    "q": "2025Q1",
-    "sector": "Finance",
-    "share": 0.00026
-   },
-   {
-    "q": "2025Q1",
-    "sector": "Materials",
-    "share": 0.00529
-   },
-   {
-    "q": "2025Q1",
-    "sector": "Real estate",
-    "share": 0.00292
-   },
-   {
-    "q": "2025Q1",
-    "sector": "Technology",
-    "share": 0.00045
-   },
-   {
-    "q": "2025Q1",
-    "sector": "Utilities",
-    "share": 0.01624
-   },
-   {
-    "q": "2025Q2",
-    "sector": "Autos",
-    "share": 0.00141
-   },
-   {
-    "q": "2025Q2",
-    "sector": "Finance",
-    "share": 0.00054
-   },
-   {
-    "q": "2025Q2",
-    "sector": "Healthcare",
-    "share": 0.00012
-   },
-   {
-    "q": "2025Q2",
-    "sector": "Materials",
-    "share": 0.00425
-   },
-   {
-    "q": "2025Q2",
-    "sector": "Real estate",
-    "share": 0.00089
-   },
-   {
-    "q": "2025Q2",
-    "sector": "Utilities",
-    "share": 0.01514
-   },
-   {
-    "q": "2025Q3",
-    "sector": "Finance",
-    "share": 0.00132
-   },
-   {
-    "q": "2025Q3",
-    "sector": "Materials",
-    "share": 0.00503
-   },
-   {
-    "q": "2025Q3",
-    "sector": "Real estate",
-    "share": 0.00108
-   },
-   {
-    "q": "2025Q3",
-    "sector": "Technology",
-    "share": 0.00011
-   },
-   {
-    "q": "2025Q3",
-    "sector": "Utilities",
-    "share": 0.00728
-   },
-   {
-    "q": "2025Q4",
-    "sector": "Finance",
-    "share": 0.00048
-   },
-   {
-    "q": "2025Q4",
-    "sector": "Materials",
-    "share": 0.00883
-   },
-   {
-    "q": "2025Q4",
-    "sector": "Real estate",
-    "share": 0.00134
-   },
-   {
-    "q": "2025Q4",
-    "sector": "Technology",
-    "share": 0.00013
-   },
-   {
-    "q": "2025Q4",
-    "sector": "Utilities",
-    "share": 0.01466
-   },
-   {
-    "q": "2026Q1",
-    "sector": "Finance",
-    "share": 0.0003
-   },
-   {
-    "q": "2026Q1",
-    "sector": "Materials",
-    "share": 0.01224
-   },
-   {
-    "q": "2026Q1",
-    "sector": "Real estate",
-    "share": 0.0048
-   },
-   {
-    "q": "2026Q1",
-    "sector": "Technology",
-    "share": 0.0001
-   },
-   {
-    "q": "2026Q1",
-    "sector": "Utilities",
-    "share": 0.02135
-   },
-   {
-    "q": "2026Q2",
-    "sector": "Finance",
-    "share": 0.00058
-   },
-   {
-    "q": "2026Q2",
-    "sector": "Healthcare",
-    "share": 0.00014
-   },
-   {
-    "q": "2026Q2",
-    "sector": "Materials",
-    "share": 0.01332
-   },
-   {
-    "q": "2026Q2",
-    "sector": "Technology",
-    "share": 0.00036
-   },
-   {
-    "q": "2026Q2",
-    "sector": "Utilities",
-    "share": 0.02921
-   },
-   {
-    "q": "2026Q3",
-    "sector": "Finance",
-    "share": 0.00037
-   },
-   {
-    "q": "2026Q3",
-    "sector": "Healthcare",
-    "share": 0.0014
-   },
-   {
-    "q": "2026Q3",
-    "sector": "Materials",
-    "share": 0.00549
-   },
-   {
-    "q": "2026Q3",
-    "sector": "Utilities",
-    "share": 0.01463
-   }
-  ],
   "clean energy": [
    {
     "q": "2016Q1",
@@ -9511,6 +8711,813 @@
     "q": "2026Q3",
     "sector": "Utilities",
     "share": 0.3122
+   }
+  ],
+  "nuclear technology": [
+   {
+    "q": "2016Q1",
+    "sector": "Healthcare",
+    "share": 0.0001
+   },
+   {
+    "q": "2016Q1",
+    "sector": "Materials",
+    "share": 0.0077
+   },
+   {
+    "q": "2016Q2",
+    "sector": "Finance",
+    "share": 0.0002
+   },
+   {
+    "q": "2016Q2",
+    "sector": "Materials",
+    "share": 0.00359
+   },
+   {
+    "q": "2016Q3",
+    "sector": "Healthcare",
+    "share": 0.00011
+   },
+   {
+    "q": "2016Q3",
+    "sector": "Materials",
+    "share": 0.00251
+   },
+   {
+    "q": "2016Q3",
+    "sector": "Utilities",
+    "share": 0.00161
+   },
+   {
+    "q": "2016Q4",
+    "sector": "Utilities",
+    "share": 0.00096
+   },
+   {
+    "q": "2017Q1",
+    "sector": "Materials",
+    "share": 0.00596
+   },
+   {
+    "q": "2017Q2",
+    "sector": "Materials",
+    "share": 0.00047
+   },
+   {
+    "q": "2017Q2",
+    "sector": "Utilities",
+    "share": 0.00379
+   },
+   {
+    "q": "2017Q3",
+    "sector": "Materials",
+    "share": 0.00196
+   },
+   {
+    "q": "2017Q3",
+    "sector": "Utilities",
+    "share": 0.00367
+   },
+   {
+    "q": "2017Q4",
+    "sector": "Utilities",
+    "share": 0.00098
+   },
+   {
+    "q": "2018Q1",
+    "sector": "Materials",
+    "share": 0.00468
+   },
+   {
+    "q": "2018Q1",
+    "sector": "Utilities",
+    "share": 0.00134
+   },
+   {
+    "q": "2018Q2",
+    "sector": "Energy",
+    "share": 0.00038
+   },
+   {
+    "q": "2018Q2",
+    "sector": "Healthcare",
+    "share": 0.00015
+   },
+   {
+    "q": "2018Q2",
+    "sector": "Materials",
+    "share": 0.00098
+   },
+   {
+    "q": "2018Q2",
+    "sector": "Technology",
+    "share": 0.00041
+   },
+   {
+    "q": "2018Q2",
+    "sector": "Utilities",
+    "share": 0.0029
+   },
+   {
+    "q": "2018Q3",
+    "sector": "Finance",
+    "share": 7e-05
+   },
+   {
+    "q": "2018Q3",
+    "sector": "Healthcare",
+    "share": 0.00029
+   },
+   {
+    "q": "2018Q3",
+    "sector": "Materials",
+    "share": 0.0019
+   },
+   {
+    "q": "2018Q3",
+    "sector": "Technology",
+    "share": 0.00063
+   },
+   {
+    "q": "2018Q4",
+    "sector": "Finance",
+    "share": 0.00028
+   },
+   {
+    "q": "2018Q4",
+    "sector": "Real estate",
+    "share": 0.00153
+   },
+   {
+    "q": "2019Q1",
+    "sector": "Healthcare",
+    "share": 8e-05
+   },
+   {
+    "q": "2019Q1",
+    "sector": "Materials",
+    "share": 0.0051
+   },
+   {
+    "q": "2019Q1",
+    "sector": "Technology",
+    "share": 0.00016
+   },
+   {
+    "q": "2019Q1",
+    "sector": "Utilities",
+    "share": 0.00248
+   },
+   {
+    "q": "2019Q2",
+    "sector": "Materials",
+    "share": 0.00293
+   },
+   {
+    "q": "2019Q2",
+    "sector": "Technology",
+    "share": 0.00012
+   },
+   {
+    "q": "2019Q2",
+    "sector": "Utilities",
+    "share": 0.00405
+   },
+   {
+    "q": "2019Q3",
+    "sector": "Healthcare",
+    "share": 8e-05
+   },
+   {
+    "q": "2019Q4",
+    "sector": "Finance",
+    "share": 7e-05
+   },
+   {
+    "q": "2019Q4",
+    "sector": "Healthcare",
+    "share": 9e-05
+   },
+   {
+    "q": "2019Q4",
+    "sector": "Materials",
+    "share": 0.00164
+   },
+   {
+    "q": "2020Q1",
+    "sector": "Materials",
+    "share": 0.00617
+   },
+   {
+    "q": "2020Q1",
+    "sector": "Utilities",
+    "share": 0.00284
+   },
+   {
+    "q": "2020Q2",
+    "sector": "Materials",
+    "share": 0.00519
+   },
+   {
+    "q": "2020Q2",
+    "sector": "Technology",
+    "share": 0.00028
+   },
+   {
+    "q": "2020Q2",
+    "sector": "Utilities",
+    "share": 0.01355
+   },
+   {
+    "q": "2020Q3",
+    "sector": "Materials",
+    "share": 0.00238
+   },
+   {
+    "q": "2020Q3",
+    "sector": "Technology",
+    "share": 0.00015
+   },
+   {
+    "q": "2020Q3",
+    "sector": "Utilities",
+    "share": 0.00334
+   },
+   {
+    "q": "2020Q4",
+    "sector": "Healthcare",
+    "share": 7e-05
+   },
+   {
+    "q": "2020Q4",
+    "sector": "Materials",
+    "share": 0.00329
+   },
+   {
+    "q": "2020Q4",
+    "sector": "Utilities",
+    "share": 0.00812
+   },
+   {
+    "q": "2021Q1",
+    "sector": "Materials",
+    "share": 0.00543
+   },
+   {
+    "q": "2021Q1",
+    "sector": "Utilities",
+    "share": 0.00591
+   },
+   {
+    "q": "2021Q2",
+    "sector": "Finance",
+    "share": 3e-05
+   },
+   {
+    "q": "2021Q2",
+    "sector": "Materials",
+    "share": 0.00249
+   },
+   {
+    "q": "2021Q2",
+    "sector": "Technology",
+    "share": 9e-05
+   },
+   {
+    "q": "2021Q2",
+    "sector": "Utilities",
+    "share": 0.00555
+   },
+   {
+    "q": "2021Q3",
+    "sector": "Finance",
+    "share": 4e-05
+   },
+   {
+    "q": "2021Q3",
+    "sector": "Materials",
+    "share": 0.00287
+   },
+   {
+    "q": "2021Q3",
+    "sector": "Real estate",
+    "share": 0.00111
+   },
+   {
+    "q": "2021Q3",
+    "sector": "Utilities",
+    "share": 0.00236
+   },
+   {
+    "q": "2021Q4",
+    "sector": "Materials",
+    "share": 0.0028
+   },
+   {
+    "q": "2021Q4",
+    "sector": "Technology",
+    "share": 9e-05
+   },
+   {
+    "q": "2021Q4",
+    "sector": "Utilities",
+    "share": 0.00101
+   },
+   {
+    "q": "2022Q1",
+    "sector": "Finance",
+    "share": 2e-05
+   },
+   {
+    "q": "2022Q1",
+    "sector": "Materials",
+    "share": 0.0048
+   },
+   {
+    "q": "2022Q1",
+    "sector": "Real estate",
+    "share": 0.00329
+   },
+   {
+    "q": "2022Q1",
+    "sector": "Technology",
+    "share": 0.00055
+   },
+   {
+    "q": "2022Q1",
+    "sector": "Utilities",
+    "share": 0.00491
+   },
+   {
+    "q": "2022Q2",
+    "sector": "Healthcare",
+    "share": 0.00012
+   },
+   {
+    "q": "2022Q2",
+    "sector": "Materials",
+    "share": 0.00385
+   },
+   {
+    "q": "2022Q2",
+    "sector": "Real estate",
+    "share": 0.001
+   },
+   {
+    "q": "2022Q2",
+    "sector": "Technology",
+    "share": 0.0001
+   },
+   {
+    "q": "2022Q2",
+    "sector": "Utilities",
+    "share": 0.00926
+   },
+   {
+    "q": "2022Q3",
+    "sector": "Finance",
+    "share": 0.00022
+   },
+   {
+    "q": "2022Q3",
+    "sector": "Materials",
+    "share": 0.0024
+   },
+   {
+    "q": "2022Q3",
+    "sector": "Real estate",
+    "share": 0.00102
+   },
+   {
+    "q": "2022Q3",
+    "sector": "Technology",
+    "share": 0.00022
+   },
+   {
+    "q": "2022Q3",
+    "sector": "Utilities",
+    "share": 0.00134
+   },
+   {
+    "q": "2022Q4",
+    "sector": "Finance",
+    "share": 0.00057
+   },
+   {
+    "q": "2022Q4",
+    "sector": "Materials",
+    "share": 0.00369
+   },
+   {
+    "q": "2022Q4",
+    "sector": "Real estate",
+    "share": 0.00213
+   },
+   {
+    "q": "2022Q4",
+    "sector": "Utilities",
+    "share": 0.00517
+   },
+   {
+    "q": "2023Q1",
+    "sector": "Autos",
+    "share": 0.00131
+   },
+   {
+    "q": "2023Q1",
+    "sector": "Energy",
+    "share": 0.00056
+   },
+   {
+    "q": "2023Q1",
+    "sector": "Finance",
+    "share": 0.00019
+   },
+   {
+    "q": "2023Q1",
+    "sector": "Materials",
+    "share": 0.00671
+   },
+   {
+    "q": "2023Q1",
+    "sector": "Real estate",
+    "share": 0.00263
+   },
+   {
+    "q": "2023Q1",
+    "sector": "Technology",
+    "share": 0.00024
+   },
+   {
+    "q": "2023Q1",
+    "sector": "Utilities",
+    "share": 0.00741
+   },
+   {
+    "q": "2023Q2",
+    "sector": "Finance",
+    "share": 9e-05
+   },
+   {
+    "q": "2023Q2",
+    "sector": "Healthcare",
+    "share": 5e-05
+   },
+   {
+    "q": "2023Q2",
+    "sector": "Materials",
+    "share": 0.00317
+   },
+   {
+    "q": "2023Q2",
+    "sector": "Real estate",
+    "share": 0.00085
+   },
+   {
+    "q": "2023Q2",
+    "sector": "Technology",
+    "share": 0.0003
+   },
+   {
+    "q": "2023Q2",
+    "sector": "Utilities",
+    "share": 0.00709
+   },
+   {
+    "q": "2023Q3",
+    "sector": "Finance",
+    "share": 0.00037
+   },
+   {
+    "q": "2023Q3",
+    "sector": "Materials",
+    "share": 0.00349
+   },
+   {
+    "q": "2023Q3",
+    "sector": "Real estate",
+    "share": 0.00114
+   },
+   {
+    "q": "2023Q3",
+    "sector": "Technology",
+    "share": 0.00038
+   },
+   {
+    "q": "2023Q4",
+    "sector": "Finance",
+    "share": 0.00015
+   },
+   {
+    "q": "2023Q4",
+    "sector": "Materials",
+    "share": 0.00259
+   },
+   {
+    "q": "2023Q4",
+    "sector": "Real estate",
+    "share": 0.00109
+   },
+   {
+    "q": "2023Q4",
+    "sector": "Technology",
+    "share": 0.00025
+   },
+   {
+    "q": "2023Q4",
+    "sector": "Utilities",
+    "share": 0.00597
+   },
+   {
+    "q": "2024Q1",
+    "sector": "Finance",
+    "share": 8e-05
+   },
+   {
+    "q": "2024Q1",
+    "sector": "Materials",
+    "share": 0.00487
+   },
+   {
+    "q": "2024Q1",
+    "sector": "Real estate",
+    "share": 0.00291
+   },
+   {
+    "q": "2024Q1",
+    "sector": "Technology",
+    "share": 0.00078
+   },
+   {
+    "q": "2024Q1",
+    "sector": "Utilities",
+    "share": 0.01346
+   },
+   {
+    "q": "2024Q2",
+    "sector": "Autos",
+    "share": 0.00101
+   },
+   {
+    "q": "2024Q2",
+    "sector": "Finance",
+    "share": 0.00012
+   },
+   {
+    "q": "2024Q2",
+    "sector": "Healthcare",
+    "share": 5e-05
+   },
+   {
+    "q": "2024Q2",
+    "sector": "Materials",
+    "share": 0.00183
+   },
+   {
+    "q": "2024Q2",
+    "sector": "Real estate",
+    "share": 0.00086
+   },
+   {
+    "q": "2024Q2",
+    "sector": "Technology",
+    "share": 0.00028
+   },
+   {
+    "q": "2024Q2",
+    "sector": "Utilities",
+    "share": 0.01467
+   },
+   {
+    "q": "2024Q3",
+    "sector": "Finance",
+    "share": 0.00024
+   },
+   {
+    "q": "2024Q3",
+    "sector": "Materials",
+    "share": 0.00487
+   },
+   {
+    "q": "2024Q3",
+    "sector": "Real estate",
+    "share": 0.00109
+   },
+   {
+    "q": "2024Q3",
+    "sector": "Technology",
+    "share": 0.00012
+   },
+   {
+    "q": "2024Q3",
+    "sector": "Utilities",
+    "share": 0.00933
+   },
+   {
+    "q": "2024Q4",
+    "sector": "Finance",
+    "share": 0.00013
+   },
+   {
+    "q": "2024Q4",
+    "sector": "Healthcare",
+    "share": 7e-05
+   },
+   {
+    "q": "2024Q4",
+    "sector": "Materials",
+    "share": 0.00476
+   },
+   {
+    "q": "2024Q4",
+    "sector": "Real estate",
+    "share": 0.00105
+   },
+   {
+    "q": "2024Q4",
+    "sector": "Utilities",
+    "share": 0.00773
+   },
+   {
+    "q": "2025Q1",
+    "sector": "Energy",
+    "share": 0.00064
+   },
+   {
+    "q": "2025Q1",
+    "sector": "Finance",
+    "share": 0.00026
+   },
+   {
+    "q": "2025Q1",
+    "sector": "Materials",
+    "share": 0.00529
+   },
+   {
+    "q": "2025Q1",
+    "sector": "Real estate",
+    "share": 0.00292
+   },
+   {
+    "q": "2025Q1",
+    "sector": "Technology",
+    "share": 0.00045
+   },
+   {
+    "q": "2025Q1",
+    "sector": "Utilities",
+    "share": 0.01624
+   },
+   {
+    "q": "2025Q2",
+    "sector": "Autos",
+    "share": 0.00141
+   },
+   {
+    "q": "2025Q2",
+    "sector": "Finance",
+    "share": 0.00054
+   },
+   {
+    "q": "2025Q2",
+    "sector": "Healthcare",
+    "share": 0.00012
+   },
+   {
+    "q": "2025Q2",
+    "sector": "Materials",
+    "share": 0.00425
+   },
+   {
+    "q": "2025Q2",
+    "sector": "Real estate",
+    "share": 0.00089
+   },
+   {
+    "q": "2025Q2",
+    "sector": "Utilities",
+    "share": 0.01514
+   },
+   {
+    "q": "2025Q3",
+    "sector": "Finance",
+    "share": 0.00132
+   },
+   {
+    "q": "2025Q3",
+    "sector": "Materials",
+    "share": 0.00503
+   },
+   {
+    "q": "2025Q3",
+    "sector": "Real estate",
+    "share": 0.00108
+   },
+   {
+    "q": "2025Q3",
+    "sector": "Technology",
+    "share": 0.00011
+   },
+   {
+    "q": "2025Q3",
+    "sector": "Utilities",
+    "share": 0.00728
+   },
+   {
+    "q": "2025Q4",
+    "sector": "Finance",
+    "share": 0.00048
+   },
+   {
+    "q": "2025Q4",
+    "sector": "Materials",
+    "share": 0.00883
+   },
+   {
+    "q": "2025Q4",
+    "sector": "Real estate",
+    "share": 0.00134
+   },
+   {
+    "q": "2025Q4",
+    "sector": "Technology",
+    "share": 0.00013
+   },
+   {
+    "q": "2025Q4",
+    "sector": "Utilities",
+    "share": 0.01466
+   },
+   {
+    "q": "2026Q1",
+    "sector": "Finance",
+    "share": 0.0003
+   },
+   {
+    "q": "2026Q1",
+    "sector": "Materials",
+    "share": 0.01224
+   },
+   {
+    "q": "2026Q1",
+    "sector": "Real estate",
+    "share": 0.0048
+   },
+   {
+    "q": "2026Q1",
+    "sector": "Technology",
+    "share": 0.0001
+   },
+   {
+    "q": "2026Q1",
+    "sector": "Utilities",
+    "share": 0.02135
+   },
+   {
+    "q": "2026Q2",
+    "sector": "Finance",
+    "share": 0.00058
+   },
+   {
+    "q": "2026Q2",
+    "sector": "Healthcare",
+    "share": 0.00014
+   },
+   {
+    "q": "2026Q2",
+    "sector": "Materials",
+    "share": 0.01332
+   },
+   {
+    "q": "2026Q2",
+    "sector": "Technology",
+    "share": 0.00036
+   },
+   {
+    "q": "2026Q2",
+    "sector": "Utilities",
+    "share": 0.02921
+   },
+   {
+    "q": "2026Q3",
+    "sector": "Finance",
+    "share": 0.00037
+   },
+   {
+    "q": "2026Q3",
+    "sector": "Healthcare",
+    "share": 0.0014
+   },
+   {
+    "q": "2026Q3",
+    "sector": "Materials",
+    "share": 0.00549
+   },
+   {
+    "q": "2026Q3",
+    "sector": "Utilities",
+    "share": 0.01463
    }
   ],
   "supply chain": [
@@ -21959,16 +21966,841 @@
    }
   ]
  },
- "daysCollected": 128,
- "articlesStored": 15464,
- "articlesLive": 11709,
+ "daysCollected": 114,
+ "articlesStored": 15475,
+ "articlesLive": 11720,
  "windowDays": 90,
  "terms": [
+  {
+   "id": "clean-energy",
+   "term": "clean energy",
+   "direction": "falling",
+   "ratio": 0.22602957906712173,
+   "display": true,
+   "adoptionSpan": 58,
+   "pace": "gradual",
+   "kind": "concept",
+   "sectorCount": 5,
+   "effectiveSectors": 2.7,
+   "newestSector": "Technology",
+   "daysSinceNewestSector": 25,
+   "articles14d": 22,
+   "articlesPrior14d": 33,
+   "publishers": 11,
+   "events": 22,
+   "topPubShare": 0.273,
+   "sectors": [
+    {
+     "name": "Energy",
+     "firstSeen": "2026-06-10",
+     "recent": 15,
+     "articles": 53,
+     "share": 0.682,
+     "atSectorStart": false,
+     "grip": 0.833,
+     "outlets": 5,
+     "adopt": 6,
+     "daysSince": 83
+    },
+    {
+     "name": "Utilities",
+     "firstSeen": "2026-07-09",
+     "recent": 4,
+     "articles": 11,
+     "share": 0.182,
+     "atSectorStart": false,
+     "grip": 0.429,
+     "outlets": 3,
+     "adopt": 35,
+     "daysSince": 54
+    },
+    {
+     "name": "Real estate",
+     "firstSeen": "2026-08-03",
+     "recent": 1,
+     "articles": 5,
+     "share": 0.045,
+     "atSectorStart": false,
+     "grip": 0.167,
+     "outlets": 1,
+     "adopt": 60,
+     "daysSince": 29
+    },
+    {
+     "name": "Waste & water",
+     "firstSeen": "2026-08-06",
+     "recent": 1,
+     "articles": 3,
+     "share": 0.045,
+     "atSectorStart": false,
+     "grip": 0.25,
+     "outlets": 1,
+     "adopt": 63,
+     "daysSince": 26
+    },
+    {
+     "name": "Technology",
+     "firstSeen": "2026-08-07",
+     "recent": 1,
+     "articles": 4,
+     "share": 0.045,
+     "atSectorStart": false,
+     "grip": 0.111,
+     "outlets": 1,
+     "adopt": 64,
+     "daysSince": 25
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "US",
+     64
+    ],
+    [
+     "GB",
+     10
+    ],
+    [
+     "DE",
+     4
+    ],
+    [
+     "IN",
+     3
+    ],
+    [
+     "TW",
+     3
+    ],
+    [
+     "AU",
+     1
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-06-04",
+     "2026-06-11",
+     "2026-06-18",
+     "2026-06-25",
+     "2026-07-02",
+     "2026-07-09",
+     "2026-07-16",
+     "2026-07-23",
+     "2026-07-30",
+     "2026-08-06",
+     "2026-08-13",
+     "2026-08-20",
+     "2026-08-27"
+    ],
+    "bands": [
+     {
+      "sector": "Energy",
+      "n": [
+       1,
+       2,
+       2,
+       0,
+       3,
+       4,
+       3,
+       3,
+       4,
+       10,
+       8,
+       5,
+       8
+      ]
+     },
+     {
+      "sector": "Utilities",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       1,
+       4,
+       3,
+       2,
+       0
+      ]
+     },
+     {
+      "sector": "Policy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       1,
+       1,
+       0,
+       0,
+       2,
+       1,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "sector": "Real estate",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       1,
+       2,
+       0,
+       1
+      ]
+     },
+     {
+      "sector": "Technology",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       2,
+       1,
+       0,
+       1
+      ]
+     },
+     {
+      "sector": "Waste & water",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       2,
+       0,
+       1,
+       0
+      ]
+     },
+     {
+      "sector": "Materials",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       2,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "sector": "Industrials",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "sector": "Labor",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "cooc": [
+    [
+     "hyperscale data center",
+     1.0,
+     "new",
+     2,
+     0,
+     145.5,
+     [
+      {
+       "title": "Delaware enacts clean energy mandate for \u2f00hyperscale data centers\u2f01",
+       "url": "https://www.datacenterdynamics.com/en/news/delaware-enacts-clean-energy-mandate-for-hyperscale-data-centers/",
+       "publisher": "Data Center Dynamics",
+       "sector": "Technology",
+       "quote": ""
+      },
+      {
+       "title": "The Race to Power AI Is Reviving America's Nuclear Ambitions",
+       "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-Race-to-Power-AI-Is-Reviving-Americas-Nuclear-Ambitions.html",
+       "publisher": "OilPrice",
+       "sector": "Energy",
+       "quote": "\u2026rid at a blistering rate. \u201cA single \u2f00hyperscale data center\u2f01 can consume as much electricity as 50,000 homes,\u201d writes the MIT Energy Initiative. \u201cU.S. data centers consum\u2026"
+      }
+     ]
+    ],
+    [
+     "nuclear power",
+     1.0,
+     "new",
+     2,
+     0,
+     32.3,
+     [
+      {
+       "title": "Proposal for Canadian marine-based SMR plant",
+       "url": "https://www.world-nuclear-news.org/articles/proposal-for-canadian-marine-based-SMR-plant",
+       "publisher": "World Nuclear News",
+       "sector": "Energy",
+       "quote": "\u2026We full-scale Prodigy Transportable \u2f00Nuclear Power\u2f01 Plant within the traditional territory of the Pabineau and Eel River Bar First Nations."
+      },
+      {
+       "title": "Thailand Accelerates Clean Energy Push to Cut LNG Dependence",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Thailand-Accelerates-Clean-Energy-Push-to-Cut-LNG-Dependence.html",
+       "publisher": "OilPrice",
+       "sector": "Energy",
+       "quote": "\u2026enewable energy sources and embrace \u2f00nuclear power\u2f01 for the first time to cut reliance on imported LNG in the wake of the Middle East crisis, Energy Minister Aka\u2026"
+      }
+     ]
+    ]
+   ],
+   "examples": [
+    {
+     "publisher": "Renewable Energy World",
+     "title": "\u2f00Clean energy\u2f01's growth boom is creating new IP risks",
+     "url": "https://www.renewableenergyworld.com/energy-business/policy-and-regulation/clean-energys-growth-boom-is-creating-new-ip-risks/",
+     "date": "2026-09-01",
+     "sector": "Utilities",
+     "country": "US",
+     "quote": ""
+    },
+    {
+     "publisher": "Commercial Observer",
+     "title": "Nuveen Green Capital Closes $173M C-PACE Loan on Miami-Area Condos Project",
+     "url": "https://commercialobserver.com/2026/09/nuveen-green-capital-c-pace-miami-condos/",
+     "date": "2026-09-01",
+     "sector": "Real estate",
+     "country": "US",
+     "quote": "\u2026gth of Commercial Property Assessed \u2f00Clean Energy\u2f01 (C-PACE) debt as a construction financing tool has made a big splash in South Florida. Miami developer Shoma\u2026"
+    },
+    {
+     "publisher": "World Nuclear News",
+     "title": "Proposal for Canadian marine-based SMR plant",
+     "url": "https://www.world-nuclear-news.org/articles/proposal-for-canadian-marine-based-SMR-plant",
+     "date": "2026-09-01",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "Montreal-based Prodigy \u2f00Clean Energy\u2f01 has announced plans for a 50 MWe full-scale Prodigy Transportable Nuclear Power Plant within the traditional\u2026"
+    },
+    {
+     "publisher": "Canary Media",
+     "title": "Can the Obama Presidential Center help Chicago embrace community solar?",
+     "url": "https://www.canarymedia.com/articles/solar/obama-presidential-center-community-solar",
+     "date": "2026-09-01",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026It will also be powered entirely by \u2f00clean energy\u2f01. Solar panels sit on the roof and on a\u2026"
+    },
+    {
+     "publisher": "Canary Media",
+     "title": "Meet the super PAC working to crush \u2f00clean energy\u2f01's political foes",
+     "url": "https://www.canarymedia.com/articles/politics/super-pac-crushing-clean-energy-foes",
+     "date": "2026-09-01",
+     "sector": "Energy",
+     "country": "US",
+     "quote": ""
+    },
+    {
+     "publisher": "PV Magazine",
+     "title": "Austrian startup offers hybrid PV-wind system for off-grid applications",
+     "url": "https://www.pv-magazine.com/2026/08/31/austrian-startup-offers-hybrid-pv-wind-system-for-off-grid-applications/",
+     "date": "2026-08-31",
+     "sector": "Energy",
+     "country": "DE",
+     "quote": "Novventos \u2f00Clean Energy\u2f01 has developed a container-based hybrid system combining modular photovoltaics with small vertical-axis wind t\u2026"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "America's Electricity Boom Is Outrunning Its Power Grid",
+     "url": "https://oilprice.com/Energy/Energy-General/Americas-Electricity-Boom-Is-Outrunning-Its-Power-Grid.html",
+     "date": "2026-08-29",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026ross the country. At the same time, \u2f00clean energy\u2f01 campaigns and the renewable energy transition are increasingly electrifying our lives, from electric vehicles\u2026"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Mexico's Green Energy Push Is Finally Gaining Momentum",
+     "url": "https://oilprice.com/Energy/Energy-General/Mexicos-Green-Energy-Push-Is-Finally-Gaining-Momentum.html",
+     "date": "2026-08-29",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026nt to the accelerated deployment of \u2f00clean energy\u2f01. In February, Sheinbaum launched Mexico's strategic energy transition roadmap,\u2026"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Oil-Rich Azerbaijan Bets Big on a \u2f00Clean Energy\u2f01 Boom",
+     "url": "https://oilprice.com/Energy/Energy-General/Oil-Rich-Azerbaijan-Bets-Big-on-a-Clean-Energy-Boom.html",
+     "date": "2026-08-29",
+     "sector": "Energy",
+     "country": "US",
+     "quote": ""
+    },
+    {
+     "publisher": "Data Center Dynamics",
+     "title": "Delaware enacts \u2f00clean energy\u2f01 mandate for hyperscale data centers",
+     "url": "https://www.datacenterdynamics.com/en/news/delaware-enacts-clean-energy-mandate-for-hyperscale-data-centers/",
+     "date": "2026-08-27",
+     "sector": "Technology",
+     "country": "US",
+     "quote": ""
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Thailand Accelerates \u2f00Clean Energy\u2f01 Push to Cut LNG Dependence",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Thailand-Accelerates-Clean-Energy-Push-to-Cut-LNG-Dependence.html",
+     "date": "2026-08-27",
+     "sector": "Energy",
+     "country": "US",
+     "quote": ""
+    },
+    {
+     "publisher": "Canary Media",
+     "title": "California Legislature passes balcony solar bill",
+     "url": "https://www.canarymedia.com/articles/balcony-solar/california-lawmakers-pass-bill-oking-balcony-solar",
+     "date": "2026-08-26",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026alize balcony solar , a form of DIY \u2f00clean energy\u2f01 that's taken off in Germany . The bill, which\u2026"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-06-04",
+     "n": 0
+    },
+    {
+     "day": "2026-06-05",
+     "n": 0
+    },
+    {
+     "day": "2026-06-06",
+     "n": 0
+    },
+    {
+     "day": "2026-06-07",
+     "n": 0
+    },
+    {
+     "day": "2026-06-08",
+     "n": 0
+    },
+    {
+     "day": "2026-06-09",
+     "n": 0
+    },
+    {
+     "day": "2026-06-10",
+     "n": 1
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 0
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 1
+    },
+    {
+     "day": "2026-06-16",
+     "n": 1
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 1
+    },
+    {
+     "day": "2026-06-19",
+     "n": 0
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 0
+    },
+    {
+     "day": "2026-06-23",
+     "n": 1
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 1
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 1
+    },
+    {
+     "day": "2026-07-07",
+     "n": 2
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 3
+    },
+    {
+     "day": "2026-07-10",
+     "n": 2
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 1
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 1
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 1
+    },
+    {
+     "day": "2026-07-22",
+     "n": 1
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 1
+    },
+    {
+     "day": "2026-07-29",
+     "n": 3
+    },
+    {
+     "day": "2026-07-30",
+     "n": 3
+    },
+    {
+     "day": "2026-07-31",
+     "n": 0
+    },
+    {
+     "day": "2026-08-01",
+     "n": 1
+    },
+    {
+     "day": "2026-08-02",
+     "n": 1
+    },
+    {
+     "day": "2026-08-03",
+     "n": 3
+    },
+    {
+     "day": "2026-08-04",
+     "n": 0
+    },
+    {
+     "day": "2026-08-05",
+     "n": 2
+    },
+    {
+     "day": "2026-08-06",
+     "n": 4
+    },
+    {
+     "day": "2026-08-07",
+     "n": 3
+    },
+    {
+     "day": "2026-08-08",
+     "n": 2
+    },
+    {
+     "day": "2026-08-09",
+     "n": 1
+    },
+    {
+     "day": "2026-08-10",
+     "n": 1
+    },
+    {
+     "day": "2026-08-11",
+     "n": 3
+    },
+    {
+     "day": "2026-08-12",
+     "n": 7
+    },
+    {
+     "day": "2026-08-13",
+     "n": 2
+    },
+    {
+     "day": "2026-08-14",
+     "n": 4
+    },
+    {
+     "day": "2026-08-15",
+     "n": 1
+    },
+    {
+     "day": "2026-08-16",
+     "n": 0
+    },
+    {
+     "day": "2026-08-17",
+     "n": 1
+    },
+    {
+     "day": "2026-08-18",
+     "n": 2
+    },
+    {
+     "day": "2026-08-19",
+     "n": 4
+    },
+    {
+     "day": "2026-08-20",
+     "n": 0
+    },
+    {
+     "day": "2026-08-21",
+     "n": 1
+    },
+    {
+     "day": "2026-08-22",
+     "n": 1
+    },
+    {
+     "day": "2026-08-23",
+     "n": 0
+    },
+    {
+     "day": "2026-08-24",
+     "n": 2
+    },
+    {
+     "day": "2026-08-25",
+     "n": 2
+    },
+    {
+     "day": "2026-08-26",
+     "n": 2
+    },
+    {
+     "day": "2026-08-27",
+     "n": 2
+    },
+    {
+     "day": "2026-08-28",
+     "n": 0
+    },
+    {
+     "day": "2026-08-29",
+     "n": 3
+    },
+    {
+     "day": "2026-08-30",
+     "n": 0
+    },
+    {
+     "day": "2026-08-31",
+     "n": 1
+    },
+    {
+     "day": "2026-09-01",
+     "n": 4
+    }
+   ],
+   "relRatio": 0.67,
+   "docFreq": 0.0015,
+   "specificity": 0.95,
+   "homeShare": 0.682,
+   "daysSeen": 10,
+   "rank": 1.01,
+   "nearShare": 0.112,
+   "alsoHeld": [
+    "energy crisis",
+    "energy cost",
+    "energy infrastructure",
+    "energy storage",
+    "geothermal energy"
+   ]
+  },
   {
    "id": "nuclear-technology",
    "term": "nuclear technology",
    "direction": "steady",
-   "ratio": 0.4241239155680032,
+   "ratio": 0.42380546075085324,
    "display": true,
    "adoptionSpan": 28,
    "pace": "gradual",
@@ -22552,7 +23384,7 @@
    "id": "iron-ore",
    "term": "iron ore",
    "direction": "steady",
-   "ratio": 0.4241239155680032,
+   "ratio": 0.42380546075085324,
    "display": true,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -23122,823 +23954,10 @@
    "apart": true
   },
   {
-   "id": "clean-energy",
-   "term": "clean energy",
-   "direction": "falling",
-   "ratio": 0.21591762974371073,
-   "display": true,
-   "adoptionSpan": 58,
-   "pace": "gradual",
-   "kind": "concept",
-   "sectorCount": 4,
-   "effectiveSectors": 2.23,
-   "newestSector": "Technology",
-   "daysSinceNewestSector": 25,
-   "articles14d": 21,
-   "articlesPrior14d": 33,
-   "publishers": 11,
-   "events": 21,
-   "topPubShare": 0.286,
-   "sectors": [
-    {
-     "name": "Energy",
-     "firstSeen": "2026-06-10",
-     "recent": 15,
-     "articles": 53,
-     "share": 0.714,
-     "atSectorStart": false,
-     "grip": 0.833,
-     "outlets": 5,
-     "adopt": 6,
-     "daysSince": 83
-    },
-    {
-     "name": "Utilities",
-     "firstSeen": "2026-07-09",
-     "recent": 4,
-     "articles": 11,
-     "share": 0.19,
-     "atSectorStart": false,
-     "grip": 0.429,
-     "outlets": 3,
-     "adopt": 35,
-     "daysSince": 54
-    },
-    {
-     "name": "Waste & water",
-     "firstSeen": "2026-08-06",
-     "recent": 1,
-     "articles": 3,
-     "share": 0.048,
-     "atSectorStart": false,
-     "grip": 0.25,
-     "outlets": 1,
-     "adopt": 63,
-     "daysSince": 26
-    },
-    {
-     "name": "Technology",
-     "firstSeen": "2026-08-07",
-     "recent": 1,
-     "articles": 4,
-     "share": 0.048,
-     "atSectorStart": false,
-     "grip": 0.111,
-     "outlets": 1,
-     "adopt": 64,
-     "daysSince": 25
-    }
-   ],
-   "sinceStart": false,
-   "origins": [
-    [
-     "US",
-     63
-    ],
-    [
-     "GB",
-     10
-    ],
-    [
-     "DE",
-     4
-    ],
-    [
-     "IN",
-     3
-    ],
-    [
-     "TW",
-     3
-    ],
-    [
-     "AU",
-     1
-    ]
-   ],
-   "flow": {
-    "weeks": [
-     "2026-06-04",
-     "2026-06-11",
-     "2026-06-18",
-     "2026-06-25",
-     "2026-07-02",
-     "2026-07-09",
-     "2026-07-16",
-     "2026-07-23",
-     "2026-07-30",
-     "2026-08-06",
-     "2026-08-13",
-     "2026-08-20",
-     "2026-08-27"
-    ],
-    "bands": [
-     {
-      "sector": "Energy",
-      "n": [
-       1,
-       2,
-       2,
-       0,
-       3,
-       4,
-       3,
-       3,
-       4,
-       10,
-       8,
-       5,
-       8
-      ]
-     },
-     {
-      "sector": "Utilities",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       1,
-       4,
-       3,
-       2,
-       0
-      ]
-     },
-     {
-      "sector": "Policy",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       1,
-       1,
-       0,
-       0,
-       2,
-       1,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Real estate",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       1,
-       2,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Technology",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       2,
-       1,
-       0,
-       1
-      ]
-     },
-     {
-      "sector": "Waste & water",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       2,
-       0,
-       1,
-       0
-      ]
-     },
-     {
-      "sector": "Materials",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       2,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Industrials",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Labor",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "cooc": [
-    [
-     "hyperscale data center",
-     1.0,
-     "new",
-     2,
-     0,
-     152.0,
-     [
-      {
-       "title": "Delaware enacts clean energy mandate for \u2f00hyperscale data centers\u2f01",
-       "url": "https://www.datacenterdynamics.com/en/news/delaware-enacts-clean-energy-mandate-for-hyperscale-data-centers/",
-       "publisher": "Data Center Dynamics",
-       "sector": "Technology",
-       "quote": ""
-      },
-      {
-       "title": "The Race to Power AI Is Reviving America's Nuclear Ambitions",
-       "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/The-Race-to-Power-AI-Is-Reviving-Americas-Nuclear-Ambitions.html",
-       "publisher": "OilPrice",
-       "sector": "Energy",
-       "quote": "\u2026rid at a blistering rate. \u201cA single \u2f00hyperscale data center\u2f01 can consume as much electricity as 50,000 homes,\u201d writes the MIT Energy Initiative. \u201cU.S. data centers consum\u2026"
-      }
-     ]
-    ],
-    [
-     "nuclear power",
-     1.0,
-     "new",
-     2,
-     0,
-     33.8,
-     [
-      {
-       "title": "Proposal for Canadian marine-based SMR plant",
-       "url": "https://www.world-nuclear-news.org/articles/proposal-for-canadian-marine-based-SMR-plant",
-       "publisher": "World Nuclear News",
-       "sector": "Energy",
-       "quote": "\u2026We full-scale Prodigy Transportable \u2f00Nuclear Power\u2f01 Plant within the traditional territory of the Pabineau and Eel River Bar First Nations."
-      },
-      {
-       "title": "Thailand Accelerates Clean Energy Push to Cut LNG Dependence",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Thailand-Accelerates-Clean-Energy-Push-to-Cut-LNG-Dependence.html",
-       "publisher": "OilPrice",
-       "sector": "Energy",
-       "quote": "\u2026enewable energy sources and embrace \u2f00nuclear power\u2f01 for the first time to cut reliance on imported LNG in the wake of the Middle East crisis, Energy Minister Aka\u2026"
-      }
-     ]
-    ]
-   ],
-   "examples": [
-    {
-     "publisher": "Commercial Observer",
-     "title": "Nuveen Green Capital Closes $173M C-PACE Loan on Miami-Area Condos Project",
-     "url": "https://commercialobserver.com/2026/09/nuveen-green-capital-c-pace-miami-condos/",
-     "date": "2026-09-01",
-     "sector": "Real estate",
-     "country": "US",
-     "quote": "\u2026gth of Commercial Property Assessed \u2f00Clean Energy\u2f01 (C-PACE) debt as a construction financing tool has made a big splash in South Florida. Miami developer Shoma\u2026"
-    },
-    {
-     "publisher": "World Nuclear News",
-     "title": "Proposal for Canadian marine-based SMR plant",
-     "url": "https://www.world-nuclear-news.org/articles/proposal-for-canadian-marine-based-SMR-plant",
-     "date": "2026-09-01",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "Montreal-based Prodigy \u2f00Clean Energy\u2f01 has announced plans for a 50 MWe full-scale Prodigy Transportable Nuclear Power Plant within the traditional\u2026"
-    },
-    {
-     "publisher": "Canary Media",
-     "title": "Can the Obama Presidential Center help Chicago embrace community solar?",
-     "url": "https://www.canarymedia.com/articles/solar/obama-presidential-center-community-solar",
-     "date": "2026-09-01",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026It will also be powered entirely by \u2f00clean energy\u2f01. Solar panels sit on the roof and on a\u2026"
-    },
-    {
-     "publisher": "Canary Media",
-     "title": "Meet the super PAC working to crush \u2f00clean energy\u2f01's political foes",
-     "url": "https://www.canarymedia.com/articles/politics/super-pac-crushing-clean-energy-foes",
-     "date": "2026-09-01",
-     "sector": "Energy",
-     "country": "US",
-     "quote": ""
-    },
-    {
-     "publisher": "PV Magazine",
-     "title": "Austrian startup offers hybrid PV-wind system for off-grid applications",
-     "url": "https://www.pv-magazine.com/2026/08/31/austrian-startup-offers-hybrid-pv-wind-system-for-off-grid-applications/",
-     "date": "2026-08-31",
-     "sector": "Energy",
-     "country": "DE",
-     "quote": "Novventos \u2f00Clean Energy\u2f01 has developed a container-based hybrid system combining modular photovoltaics with small vertical-axis wind t\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "America's Electricity Boom Is Outrunning Its Power Grid",
-     "url": "https://oilprice.com/Energy/Energy-General/Americas-Electricity-Boom-Is-Outrunning-Its-Power-Grid.html",
-     "date": "2026-08-29",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026ross the country. At the same time, \u2f00clean energy\u2f01 campaigns and the renewable energy transition are increasingly electrifying our lives, from electric vehicles\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Mexico's Green Energy Push Is Finally Gaining Momentum",
-     "url": "https://oilprice.com/Energy/Energy-General/Mexicos-Green-Energy-Push-Is-Finally-Gaining-Momentum.html",
-     "date": "2026-08-29",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026nt to the accelerated deployment of \u2f00clean energy\u2f01. In February, Sheinbaum launched Mexico's strategic energy transition roadmap,\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Oil-Rich Azerbaijan Bets Big on a \u2f00Clean Energy\u2f01 Boom",
-     "url": "https://oilprice.com/Energy/Energy-General/Oil-Rich-Azerbaijan-Bets-Big-on-a-Clean-Energy-Boom.html",
-     "date": "2026-08-29",
-     "sector": "Energy",
-     "country": "US",
-     "quote": ""
-    },
-    {
-     "publisher": "Data Center Dynamics",
-     "title": "Delaware enacts \u2f00clean energy\u2f01 mandate for hyperscale data centers",
-     "url": "https://www.datacenterdynamics.com/en/news/delaware-enacts-clean-energy-mandate-for-hyperscale-data-centers/",
-     "date": "2026-08-27",
-     "sector": "Technology",
-     "country": "US",
-     "quote": ""
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Thailand Accelerates \u2f00Clean Energy\u2f01 Push to Cut LNG Dependence",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Thailand-Accelerates-Clean-Energy-Push-to-Cut-LNG-Dependence.html",
-     "date": "2026-08-27",
-     "sector": "Energy",
-     "country": "US",
-     "quote": ""
-    },
-    {
-     "publisher": "Canary Media",
-     "title": "California Legislature passes balcony solar bill",
-     "url": "https://www.canarymedia.com/articles/balcony-solar/california-lawmakers-pass-bill-oking-balcony-solar",
-     "date": "2026-08-26",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026alize balcony solar , a form of DIY \u2f00clean energy\u2f01 that's taken off in Germany . The bill, which\u2026"
-    },
-    {
-     "publisher": "Energy Storage News",
-     "title": "US IPPs Swift Current, Avantus raise US$1 billion+ for \u2f00clean energy\u2f01 projects",
-     "url": "https://www.energy-storage.news/us-ipps-swift-current-avantus-raise-us1-billion-for-clean-energy-projects/",
-     "date": "2026-08-26",
-     "sector": "Utilities",
-     "country": "GB",
-     "quote": ""
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-06-04",
-     "n": 0
-    },
-    {
-     "day": "2026-06-05",
-     "n": 0
-    },
-    {
-     "day": "2026-06-06",
-     "n": 0
-    },
-    {
-     "day": "2026-06-07",
-     "n": 0
-    },
-    {
-     "day": "2026-06-08",
-     "n": 0
-    },
-    {
-     "day": "2026-06-09",
-     "n": 0
-    },
-    {
-     "day": "2026-06-10",
-     "n": 1
-    },
-    {
-     "day": "2026-06-11",
-     "n": 0
-    },
-    {
-     "day": "2026-06-12",
-     "n": 0
-    },
-    {
-     "day": "2026-06-13",
-     "n": 0
-    },
-    {
-     "day": "2026-06-14",
-     "n": 0
-    },
-    {
-     "day": "2026-06-15",
-     "n": 1
-    },
-    {
-     "day": "2026-06-16",
-     "n": 1
-    },
-    {
-     "day": "2026-06-17",
-     "n": 0
-    },
-    {
-     "day": "2026-06-18",
-     "n": 1
-    },
-    {
-     "day": "2026-06-19",
-     "n": 0
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 1
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 1
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 1
-    },
-    {
-     "day": "2026-07-07",
-     "n": 2
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 3
-    },
-    {
-     "day": "2026-07-10",
-     "n": 2
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 1
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 1
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 1
-    },
-    {
-     "day": "2026-07-22",
-     "n": 1
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 1
-    },
-    {
-     "day": "2026-07-29",
-     "n": 3
-    },
-    {
-     "day": "2026-07-30",
-     "n": 3
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 1
-    },
-    {
-     "day": "2026-08-02",
-     "n": 1
-    },
-    {
-     "day": "2026-08-03",
-     "n": 3
-    },
-    {
-     "day": "2026-08-04",
-     "n": 0
-    },
-    {
-     "day": "2026-08-05",
-     "n": 2
-    },
-    {
-     "day": "2026-08-06",
-     "n": 4
-    },
-    {
-     "day": "2026-08-07",
-     "n": 3
-    },
-    {
-     "day": "2026-08-08",
-     "n": 2
-    },
-    {
-     "day": "2026-08-09",
-     "n": 1
-    },
-    {
-     "day": "2026-08-10",
-     "n": 1
-    },
-    {
-     "day": "2026-08-11",
-     "n": 3
-    },
-    {
-     "day": "2026-08-12",
-     "n": 7
-    },
-    {
-     "day": "2026-08-13",
-     "n": 2
-    },
-    {
-     "day": "2026-08-14",
-     "n": 4
-    },
-    {
-     "day": "2026-08-15",
-     "n": 1
-    },
-    {
-     "day": "2026-08-16",
-     "n": 0
-    },
-    {
-     "day": "2026-08-17",
-     "n": 1
-    },
-    {
-     "day": "2026-08-18",
-     "n": 2
-    },
-    {
-     "day": "2026-08-19",
-     "n": 4
-    },
-    {
-     "day": "2026-08-20",
-     "n": 0
-    },
-    {
-     "day": "2026-08-21",
-     "n": 1
-    },
-    {
-     "day": "2026-08-22",
-     "n": 1
-    },
-    {
-     "day": "2026-08-23",
-     "n": 0
-    },
-    {
-     "day": "2026-08-24",
-     "n": 2
-    },
-    {
-     "day": "2026-08-25",
-     "n": 2
-    },
-    {
-     "day": "2026-08-26",
-     "n": 2
-    },
-    {
-     "day": "2026-08-27",
-     "n": 2
-    },
-    {
-     "day": "2026-08-28",
-     "n": 0
-    },
-    {
-     "day": "2026-08-29",
-     "n": 3
-    },
-    {
-     "day": "2026-08-30",
-     "n": 0
-    },
-    {
-     "day": "2026-08-31",
-     "n": 1
-    },
-    {
-     "day": "2026-09-01",
-     "n": 3
-    }
-   ],
-   "relRatio": 0.64,
-   "docFreq": 0.0014,
-   "specificity": 0.952,
-   "homeShare": 0.714,
-   "daysSeen": 10,
-   "rank": 0.896,
-   "nearShare": 0.121,
-   "alsoHeld": [
-    "energy crisis",
-    "energy cost",
-    "energy infrastructure",
-    "energy storage",
-    "geothermal energy"
-   ]
-  },
-  {
    "id": "self-sufficiency",
    "term": "self sufficiency",
    "direction": "rising",
-   "ratio": 0.9047976865450735,
+   "ratio": 0.9041183162684868,
    "display": true,
    "adoptionSpan": 22,
    "pace": "mixed",
@@ -24519,7 +24538,7 @@
    "id": "battery-plant",
    "term": "battery plant",
    "direction": "falling",
-   "ratio": 0.22619942163626838,
+   "ratio": 0.2260295790671217,
    "display": true,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -25064,7 +25083,7 @@
    "id": "wind-farm",
    "term": "wind farm",
    "direction": "steady",
-   "ratio": 0.3392991324544026,
+   "ratio": 0.3390443686006826,
    "display": true,
    "adoptionSpan": 27,
    "pace": "mixed",
@@ -25696,7 +25715,7 @@
    "id": "grid-connection",
    "term": "grid connection",
    "direction": "steady",
-   "ratio": 0.3392991324544026,
+   "ratio": 0.3390443686006826,
    "display": true,
    "adoptionSpan": 15,
    "pace": "mixed",
@@ -26284,7 +26303,7 @@
    "id": "ride-hailing",
    "term": "ride hailing",
    "direction": "rising",
-   "ratio": 1.3571965298176103,
+   "ratio": 1.3561774744027304,
    "display": true,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -26829,7 +26848,7 @@
    "id": "tariff-refund",
    "term": "tariff refund",
    "direction": "rising",
-   "ratio": 0.508948698681604,
+   "ratio": 0.5085665529010238,
    "display": true,
    "adoptionSpan": 5,
    "pace": "simultaneous",
@@ -27456,7 +27475,7 @@
    "id": "raw-material",
    "term": "raw material",
    "direction": "falling",
-   "ratio": 0.24235652318171613,
+   "ratio": 0.24217454900048754,
    "display": true,
    "adoptionSpan": 48,
    "pace": "gradual",
@@ -27665,7 +27684,7 @@
      "new",
      2,
      0,
-     478.9,
+     480.0,
      [
       {
        "title": "South Korea-India joint venture opens \u2f00semiconductor materials plant\u2f01, targets China-free supply chain",
@@ -28150,7 +28169,7 @@
    "id": "value-chain",
    "term": "value chain",
    "direction": "steady",
-   "ratio": 0.4241239155680032,
+   "ratio": 0.42380546075085324,
    "display": true,
    "adoptionSpan": 19,
    "pace": "mixed",
@@ -28730,7 +28749,7 @@
    "id": "green-hydrogen",
    "term": "green hydrogen",
    "direction": "falling",
-   "ratio": 0.1938852185453729,
+   "ratio": 0.19373963920039006,
    "display": true,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -29298,7 +29317,7 @@
    "id": "wind-power",
    "term": "wind power",
    "direction": "steady",
-   "ratio": 0.3958489878634697,
+   "ratio": 0.395551763367463,
    "display": true,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -29932,7 +29951,7 @@
    "id": "electricity-demand",
    "term": "electricity demand",
    "direction": "falling",
-   "ratio": 0.23489939939150953,
+   "ratio": 0.23472302441585718,
    "display": true,
    "adoptionSpan": 51,
    "pace": "gradual",
@@ -30087,7 +30106,7 @@
      "rising",
      2,
      2,
-     78.8,
+     79.0,
      [
       {
        "title": "Interview: Taiwan's National Atomic Research Institute eyes SMRs for AI power shift",
@@ -30563,7 +30582,7 @@
    "id": "electric-vehicle",
    "term": "electric vehicle",
    "direction": "steady",
-   "ratio": 0.392314621900403,
+   "ratio": 0.3920200511945392,
    "display": true,
    "adoptionSpan": 19,
    "pace": "mixed",
@@ -30848,7 +30867,7 @@
      "new",
      2,
      0,
-     129.4,
+     129.7,
      [
       {
        "title": "LG Energy Solution Secures 80,000 Tons of US \u2f00Lithium Carbonate\u2f01",
@@ -30872,7 +30891,7 @@
      "rising",
      2,
      2,
-     24.7,
+     23.6,
      [
       {
        "title": "America's Electricity Boom Is Outrunning Its Power Grid",
@@ -31372,10 +31391,653 @@
    "nearShare": 0.211
   },
   {
+   "id": "precious-metal",
+   "term": "precious metal",
+   "direction": "rising",
+   "ratio": 0.8476109215017065,
+   "display": true,
+   "adoptionSpan": 0,
+   "pace": "simultaneous",
+   "kind": "concept",
+   "sectorCount": 2,
+   "effectiveSectors": 1.82,
+   "newestSector": "Materials",
+   "daysSinceNewestSector": 28,
+   "articles14d": 10,
+   "articlesPrior14d": 4,
+   "publishers": 4,
+   "events": 9,
+   "topPubShare": 0.333,
+   "sectors": [
+    {
+     "name": "Materials",
+     "firstSeen": "2026-08-04",
+     "recent": 6,
+     "articles": 10,
+     "share": 0.667,
+     "atSectorStart": false,
+     "grip": 0.6,
+     "outlets": 3,
+     "adopt": 61,
+     "daysSince": 28
+    },
+    {
+     "name": "Industrials",
+     "firstSeen": "2026-08-04",
+     "recent": 3,
+     "articles": 4,
+     "share": 0.333,
+     "atSectorStart": false,
+     "grip": 0.167,
+     "outlets": 1,
+     "adopt": 61,
+     "daysSince": 28
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "US",
+     10
+    ],
+    [
+     "JP",
+     4
+    ],
+    [
+     "DE",
+     1
+    ],
+    [
+     "TW",
+     1
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-06-04",
+     "2026-06-11",
+     "2026-06-18",
+     "2026-06-25",
+     "2026-07-02",
+     "2026-07-09",
+     "2026-07-16",
+     "2026-07-23",
+     "2026-07-30",
+     "2026-08-06",
+     "2026-08-13",
+     "2026-08-20",
+     "2026-08-27"
+    ],
+    "bands": [
+     {
+      "sector": "Materials",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       2,
+       1,
+       2,
+       3,
+       2
+      ]
+     },
+     {
+      "sector": "Industrials",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "sector": "Technology",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0
+      ]
+     },
+     {
+      "sector": "Energy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0
+      ]
+     }
+    ]
+   },
+   "cooc": [
+    [
+     "silver price",
+     1.0,
+     "new",
+     2,
+     0,
+     960.0,
+     [
+      {
+       "title": "\u2f00Silver prices\u2f01 rebound as AI, data centers add to industrial demand",
+       "url": "https://www.pv-magazine.com/2026/08/25/silver-prices-rebound-as-ai-data-centers-add-to-industrial-demand/",
+       "publisher": "PV Magazine",
+       "sector": "Energy",
+       "quote": "\u2f00Silver prices\u2f01 have resumed their upward trend amid a broader precious-metals rally, while the market heads toward a sixth c\u2026"
+      },
+      {
+       "title": "\u2f00Silver price\u2f01 20% August surge sends miners soaring",
+       "url": "https://www.mining.com/silver-price-20-august-surge-sends-miners-soaring/",
+       "publisher": "Mining.com",
+       "sector": "Materials",
+       "quote": "\u2026anks map out further upside for the \u2f00precious metal\u2f01 this year."
+      }
+     ]
+    ]
+   ],
+   "examples": [
+    {
+     "publisher": "Northern Miner",
+     "title": "ACG starts copper concentrate output in Turkey",
+     "url": "https://www.northernminer.com/news/acg-starts-copper-concentrate-output-in-turkey/1003894524/",
+     "date": "2026-09-01",
+     "sector": "Materials",
+     "country": "US",
+     "quote": "\u2026Turkey, marking its transition from \u2f00precious metals\u2f01 as it targets full sulphide production by the end... The post ACG starts copper concentrate output in Turkey\u2026"
+    },
+    {
+     "publisher": "Mining.com",
+     "title": "ACG Metals produces first copper concentrate at Turkish mine",
+     "url": "https://www.mining.com/acg-metals-produces-first-copper-concentrate-at-turkish-mine/",
+     "date": "2026-09-01",
+     "sector": "Materials",
+     "country": "US",
+     "quote": "\u2026ransitioned its Gediktepe mine from \u2f00precious metals\u2f01 and zinc to copper production."
+    },
+    {
+     "publisher": "Japan Industry News",
+     "title": "TANAKA Memorial Foundation Seeks Proposals for 2026 \u2f00Precious Metals\u2f01 Research Grants",
+     "url": "https://www.japanindustrynews.com/2026/09/tanaka-memorial-foundation-seeks-proposals-for-2026-precious-metals-research-grants/",
+     "date": "2026-09-01",
+     "sector": "Industrials",
+     "country": "JP",
+     "quote": "\u2026ubmissions for its fiscal year 2026 \u2f00Precious Metals\u2f01 Research Grants, inviting proposals from researchers affiliated with educational and public research institut\u2026"
+    },
+    {
+     "publisher": "Japan Industry News",
+     "title": "TANAKA \u2f00Precious Metal\u2f01 Group Engages Female Students in STEM Through Experiential Program",
+     "url": "https://www.japanindustrynews.com/2026/08/tanaka-precious-metal-group-engages-female-students-in-stem-through-experiential-program/",
+     "date": "2026-08-27",
+     "sector": "Industrials",
+     "country": "JP",
+     "quote": "TANAKA \u2f00Precious Metal\u2f01 Group Co., Ltd. recently participated in the Girls Meet STEM program, an initiative aimed at encouraging fema\u2026"
+    },
+    {
+     "publisher": "Recycling Today",
+     "title": "Elmery co-founder wins chemistry medal",
+     "url": "https://www.recyclingtoday.com/elmery-precious-metals-recycling-lundstrom-faraday-medal-uk-finland",
+     "date": "2026-08-25",
+     "sector": "Materials",
+     "country": "US",
+     "quote": "Mari Lundstr\u00f6m, whose \u2f00precious metals\u2f01 recovery process led her to co-found Finland-based Elmery Ltd., has won a Faraday Medal."
+    },
+    {
+     "publisher": "PV Magazine",
+     "title": "Silver prices rebound as AI, data centers add to industrial demand",
+     "url": "https://www.pv-magazine.com/2026/08/25/silver-prices-rebound-as-ai-data-centers-add-to-industrial-demand/",
+     "date": "2026-08-25",
+     "sector": "Energy",
+     "country": "DE",
+     "quote": "\u2026d their upward trend amid a broader \u2f00precious-metals\u2f01 rally, while the market heads toward a sixth consecutive annual structural deficit. Growing demand from AI, d\u2026"
+    },
+    {
+     "publisher": "Mining.com",
+     "title": "Silver price 20% August surge sends miners soaring",
+     "url": "https://www.mining.com/silver-price-20-august-surge-sends-miners-soaring/",
+     "date": "2026-08-21",
+     "sector": "Materials",
+     "country": "US",
+     "quote": "\u2026anks map out further upside for the \u2f00precious metal\u2f01 this year."
+    },
+    {
+     "publisher": "Northern Miner",
+     "title": "Central Nevada Gold on mine hunt: CEO",
+     "url": "https://www.northernminer.com/news/central-nevada-gold-on-mine-hunt-ceo/1003894159/",
+     "date": "2026-08-21",
+     "sector": "Materials",
+     "country": "US",
+     "quote": "\u2026a Gold will look at acquiring other \u2f00precious metals\u2f01 assets in the state after buying the past-producing Mule Canyon mine from Newmont (NYSE, ASX: NEM; TSX:... Th\u2026"
+    },
+    {
+     "publisher": "Japan Industry News",
+     "title": "TANAKA Invests in Clean Planet to Advance Quantum Hydrogen Energy",
+     "url": "https://www.japanindustrynews.com/2026/08/tanaka-invests-in-clean-planet-to-advance-quantum-hydrogen-energy/",
+     "date": "2026-08-20",
+     "sector": "Industrials",
+     "country": "JP",
+     "quote": "TANAKA \u2f00PRECIOUS METAL\u2f01 GROUP Co., Ltd. has announced an investment in Clean Planet Inc., marking the start of a collaboration that a\u2026"
+    },
+    {
+     "publisher": "Mining.com",
+     "title": "Gold, silver, miners surge as Treasury doubles buybacks",
+     "url": "https://www.mining.com/gold-silver-miners-surge-as-treasury-doubles-buybacks/",
+     "date": "2026-08-19",
+     "sector": "Materials",
+     "country": "US",
+     "quote": "\u2026m yields and a weaker dollar lifted \u2f00precious metals\u2f01, with leading gold miners gaining nearly 9%."
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-06-04",
+     "n": 0
+    },
+    {
+     "day": "2026-06-05",
+     "n": 0
+    },
+    {
+     "day": "2026-06-06",
+     "n": 0
+    },
+    {
+     "day": "2026-06-07",
+     "n": 0
+    },
+    {
+     "day": "2026-06-08",
+     "n": 0
+    },
+    {
+     "day": "2026-06-09",
+     "n": 0
+    },
+    {
+     "day": "2026-06-10",
+     "n": 0
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 0
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 0
+    },
+    {
+     "day": "2026-06-16",
+     "n": 0
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 0
+    },
+    {
+     "day": "2026-06-19",
+     "n": 0
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 0
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-31",
+     "n": 0
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 0
+    },
+    {
+     "day": "2026-08-04",
+     "n": 2
+    },
+    {
+     "day": "2026-08-05",
+     "n": 1
+    },
+    {
+     "day": "2026-08-06",
+     "n": 0
+    },
+    {
+     "day": "2026-08-07",
+     "n": 0
+    },
+    {
+     "day": "2026-08-08",
+     "n": 0
+    },
+    {
+     "day": "2026-08-09",
+     "n": 0
+    },
+    {
+     "day": "2026-08-10",
+     "n": 0
+    },
+    {
+     "day": "2026-08-11",
+     "n": 0
+    },
+    {
+     "day": "2026-08-12",
+     "n": 1
+    },
+    {
+     "day": "2026-08-13",
+     "n": 0
+    },
+    {
+     "day": "2026-08-14",
+     "n": 0
+    },
+    {
+     "day": "2026-08-15",
+     "n": 0
+    },
+    {
+     "day": "2026-08-16",
+     "n": 0
+    },
+    {
+     "day": "2026-08-17",
+     "n": 2
+    },
+    {
+     "day": "2026-08-18",
+     "n": 0
+    },
+    {
+     "day": "2026-08-19",
+     "n": 1
+    },
+    {
+     "day": "2026-08-20",
+     "n": 1
+    },
+    {
+     "day": "2026-08-21",
+     "n": 2
+    },
+    {
+     "day": "2026-08-22",
+     "n": 0
+    },
+    {
+     "day": "2026-08-23",
+     "n": 0
+    },
+    {
+     "day": "2026-08-24",
+     "n": 0
+    },
+    {
+     "day": "2026-08-25",
+     "n": 2
+    },
+    {
+     "day": "2026-08-26",
+     "n": 0
+    },
+    {
+     "day": "2026-08-27",
+     "n": 1
+    },
+    {
+     "day": "2026-08-28",
+     "n": 0
+    },
+    {
+     "day": "2026-08-29",
+     "n": 0
+    },
+    {
+     "day": "2026-08-30",
+     "n": 0
+    },
+    {
+     "day": "2026-08-31",
+     "n": 0
+    },
+    {
+     "day": "2026-09-01",
+     "n": 3
+    }
+   ],
+   "relRatio": 2.5,
+   "docFreq": 0.0007,
+   "specificity": 0.977,
+   "homeShare": 0.667,
+   "daysSeen": 6,
+   "rank": 0.652,
+   "nearShare": 0.015,
+   "apart": true
+  },
+  {
    "id": "quantum-computing",
    "term": "quantum computing",
    "direction": "steady",
-   "ratio": 0.40715895894528314,
+   "ratio": 0.4068532423208191,
    "display": true,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -31971,653 +32633,10 @@
    "nearShare": 0.0
   },
   {
-   "id": "precious-metal",
-   "term": "precious metal",
-   "direction": "rising",
-   "ratio": 0.7634230480224059,
-   "display": true,
-   "adoptionSpan": 0,
-   "pace": "simultaneous",
-   "kind": "concept",
-   "sectorCount": 2,
-   "effectiveSectors": 1.85,
-   "newestSector": "Materials",
-   "daysSinceNewestSector": 28,
-   "articles14d": 9,
-   "articlesPrior14d": 4,
-   "publishers": 4,
-   "events": 9,
-   "topPubShare": 0.333,
-   "sectors": [
-    {
-     "name": "Materials",
-     "firstSeen": "2026-08-04",
-     "recent": 5,
-     "articles": 9,
-     "share": 0.625,
-     "atSectorStart": false,
-     "grip": 0.6,
-     "outlets": 3,
-     "adopt": 61,
-     "daysSince": 28
-    },
-    {
-     "name": "Industrials",
-     "firstSeen": "2026-08-04",
-     "recent": 3,
-     "articles": 4,
-     "share": 0.375,
-     "atSectorStart": false,
-     "grip": 0.167,
-     "outlets": 1,
-     "adopt": 61,
-     "daysSince": 28
-    }
-   ],
-   "sinceStart": false,
-   "origins": [
-    [
-     "US",
-     9
-    ],
-    [
-     "JP",
-     4
-    ],
-    [
-     "DE",
-     1
-    ],
-    [
-     "TW",
-     1
-    ]
-   ],
-   "flow": {
-    "weeks": [
-     "2026-06-04",
-     "2026-06-11",
-     "2026-06-18",
-     "2026-06-25",
-     "2026-07-02",
-     "2026-07-09",
-     "2026-07-16",
-     "2026-07-23",
-     "2026-07-30",
-     "2026-08-06",
-     "2026-08-13",
-     "2026-08-20",
-     "2026-08-27"
-    ],
-    "bands": [
-     {
-      "sector": "Materials",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       2,
-       1,
-       2,
-       3,
-       1
-      ]
-     },
-     {
-      "sector": "Industrials",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       1,
-       2
-      ]
-     },
-     {
-      "sector": "Technology",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Energy",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0
-      ]
-     }
-    ]
-   },
-   "cooc": [
-    [
-     "silver price",
-     1.0,
-     "new",
-     2,
-     0,
-     1064.2,
-     [
-      {
-       "title": "\u2f00Silver prices\u2f01 rebound as AI, data centers add to industrial demand",
-       "url": "https://www.pv-magazine.com/2026/08/25/silver-prices-rebound-as-ai-data-centers-add-to-industrial-demand/",
-       "publisher": "PV Magazine",
-       "sector": "Energy",
-       "quote": "\u2f00Silver prices\u2f01 have resumed their upward trend amid a broader precious-metals rally, while the market heads toward a sixth c\u2026"
-      },
-      {
-       "title": "\u2f00Silver price\u2f01 20% August surge sends miners soaring",
-       "url": "https://www.mining.com/silver-price-20-august-surge-sends-miners-soaring/",
-       "publisher": "Mining.com",
-       "sector": "Materials",
-       "quote": "\u2026anks map out further upside for the \u2f00precious metal\u2f01 this year."
-      }
-     ]
-    ]
-   ],
-   "examples": [
-    {
-     "publisher": "Northern Miner",
-     "title": "ACG starts copper concentrate output in Turkey",
-     "url": "https://www.northernminer.com/news/acg-starts-copper-concentrate-output-in-turkey/1003894524/",
-     "date": "2026-09-01",
-     "sector": "Materials",
-     "country": "US",
-     "quote": "\u2026Turkey, marking its transition from \u2f00precious metals\u2f01 as it targets full sulphide production by the end... The post ACG starts copper concentrate output in Turkey\u2026"
-    },
-    {
-     "publisher": "Mining.com",
-     "title": "ACG Metals produces first copper concentrate at Turkish mine",
-     "url": "https://www.mining.com/acg-metals-produces-first-copper-concentrate-at-turkish-mine/",
-     "date": "2026-09-01",
-     "sector": "Materials",
-     "country": "US",
-     "quote": "\u2026ransitioned its Gediktepe mine from \u2f00precious metals\u2f01 and zinc to copper production."
-    },
-    {
-     "publisher": "Japan Industry News",
-     "title": "TANAKA Memorial Foundation Seeks Proposals for 2026 \u2f00Precious Metals\u2f01 Research Grants",
-     "url": "https://www.japanindustrynews.com/2026/09/tanaka-memorial-foundation-seeks-proposals-for-2026-precious-metals-research-grants/",
-     "date": "2026-09-01",
-     "sector": "Industrials",
-     "country": "JP",
-     "quote": "\u2026ubmissions for its fiscal year 2026 \u2f00Precious Metals\u2f01 Research Grants, inviting proposals from researchers affiliated with educational and public research institut\u2026"
-    },
-    {
-     "publisher": "Japan Industry News",
-     "title": "TANAKA \u2f00Precious Metal\u2f01 Group Engages Female Students in STEM Through Experiential Program",
-     "url": "https://www.japanindustrynews.com/2026/08/tanaka-precious-metal-group-engages-female-students-in-stem-through-experiential-program/",
-     "date": "2026-08-27",
-     "sector": "Industrials",
-     "country": "JP",
-     "quote": "TANAKA \u2f00Precious Metal\u2f01 Group Co., Ltd. recently participated in the Girls Meet STEM program, an initiative aimed at encouraging fema\u2026"
-    },
-    {
-     "publisher": "Recycling Today",
-     "title": "Elmery co-founder wins chemistry medal",
-     "url": "https://www.recyclingtoday.com/elmery-precious-metals-recycling-lundstrom-faraday-medal-uk-finland",
-     "date": "2026-08-25",
-     "sector": "Materials",
-     "country": "US",
-     "quote": "Mari Lundstr\u00f6m, whose \u2f00precious metals\u2f01 recovery process led her to co-found Finland-based Elmery Ltd., has won a Faraday Medal."
-    },
-    {
-     "publisher": "PV Magazine",
-     "title": "Silver prices rebound as AI, data centers add to industrial demand",
-     "url": "https://www.pv-magazine.com/2026/08/25/silver-prices-rebound-as-ai-data-centers-add-to-industrial-demand/",
-     "date": "2026-08-25",
-     "sector": "Energy",
-     "country": "DE",
-     "quote": "\u2026d their upward trend amid a broader \u2f00precious-metals\u2f01 rally, while the market heads toward a sixth consecutive annual structural deficit. Growing demand from AI, d\u2026"
-    },
-    {
-     "publisher": "Mining.com",
-     "title": "Silver price 20% August surge sends miners soaring",
-     "url": "https://www.mining.com/silver-price-20-august-surge-sends-miners-soaring/",
-     "date": "2026-08-21",
-     "sector": "Materials",
-     "country": "US",
-     "quote": "\u2026anks map out further upside for the \u2f00precious metal\u2f01 this year."
-    },
-    {
-     "publisher": "Northern Miner",
-     "title": "Central Nevada Gold on mine hunt: CEO",
-     "url": "https://www.northernminer.com/news/central-nevada-gold-on-mine-hunt-ceo/1003894159/",
-     "date": "2026-08-21",
-     "sector": "Materials",
-     "country": "US",
-     "quote": "\u2026a Gold will look at acquiring other \u2f00precious metals\u2f01 assets in the state after buying the past-producing Mule Canyon mine from Newmont (NYSE, ASX: NEM; TSX:... Th\u2026"
-    },
-    {
-     "publisher": "Japan Industry News",
-     "title": "TANAKA Invests in Clean Planet to Advance Quantum Hydrogen Energy",
-     "url": "https://www.japanindustrynews.com/2026/08/tanaka-invests-in-clean-planet-to-advance-quantum-hydrogen-energy/",
-     "date": "2026-08-20",
-     "sector": "Industrials",
-     "country": "JP",
-     "quote": "TANAKA \u2f00PRECIOUS METAL\u2f01 GROUP Co., Ltd. has announced an investment in Clean Planet Inc., marking the start of a collaboration that a\u2026"
-    },
-    {
-     "publisher": "Mining.com",
-     "title": "Gold, silver, miners surge as Treasury doubles buybacks",
-     "url": "https://www.mining.com/gold-silver-miners-surge-as-treasury-doubles-buybacks/",
-     "date": "2026-08-19",
-     "sector": "Materials",
-     "country": "US",
-     "quote": "\u2026m yields and a weaker dollar lifted \u2f00precious metals\u2f01, with leading gold miners gaining nearly 9%."
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-06-04",
-     "n": 0
-    },
-    {
-     "day": "2026-06-05",
-     "n": 0
-    },
-    {
-     "day": "2026-06-06",
-     "n": 0
-    },
-    {
-     "day": "2026-06-07",
-     "n": 0
-    },
-    {
-     "day": "2026-06-08",
-     "n": 0
-    },
-    {
-     "day": "2026-06-09",
-     "n": 0
-    },
-    {
-     "day": "2026-06-10",
-     "n": 0
-    },
-    {
-     "day": "2026-06-11",
-     "n": 0
-    },
-    {
-     "day": "2026-06-12",
-     "n": 0
-    },
-    {
-     "day": "2026-06-13",
-     "n": 0
-    },
-    {
-     "day": "2026-06-14",
-     "n": 0
-    },
-    {
-     "day": "2026-06-15",
-     "n": 0
-    },
-    {
-     "day": "2026-06-16",
-     "n": 0
-    },
-    {
-     "day": "2026-06-17",
-     "n": 0
-    },
-    {
-     "day": "2026-06-18",
-     "n": 0
-    },
-    {
-     "day": "2026-06-19",
-     "n": 0
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 0
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 0
-    },
-    {
-     "day": "2026-07-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 0
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 0
-    },
-    {
-     "day": "2026-08-04",
-     "n": 2
-    },
-    {
-     "day": "2026-08-05",
-     "n": 1
-    },
-    {
-     "day": "2026-08-06",
-     "n": 0
-    },
-    {
-     "day": "2026-08-07",
-     "n": 0
-    },
-    {
-     "day": "2026-08-08",
-     "n": 0
-    },
-    {
-     "day": "2026-08-09",
-     "n": 0
-    },
-    {
-     "day": "2026-08-10",
-     "n": 0
-    },
-    {
-     "day": "2026-08-11",
-     "n": 0
-    },
-    {
-     "day": "2026-08-12",
-     "n": 1
-    },
-    {
-     "day": "2026-08-13",
-     "n": 0
-    },
-    {
-     "day": "2026-08-14",
-     "n": 0
-    },
-    {
-     "day": "2026-08-15",
-     "n": 0
-    },
-    {
-     "day": "2026-08-16",
-     "n": 0
-    },
-    {
-     "day": "2026-08-17",
-     "n": 2
-    },
-    {
-     "day": "2026-08-18",
-     "n": 0
-    },
-    {
-     "day": "2026-08-19",
-     "n": 1
-    },
-    {
-     "day": "2026-08-20",
-     "n": 1
-    },
-    {
-     "day": "2026-08-21",
-     "n": 2
-    },
-    {
-     "day": "2026-08-22",
-     "n": 0
-    },
-    {
-     "day": "2026-08-23",
-     "n": 0
-    },
-    {
-     "day": "2026-08-24",
-     "n": 0
-    },
-    {
-     "day": "2026-08-25",
-     "n": 2
-    },
-    {
-     "day": "2026-08-26",
-     "n": 0
-    },
-    {
-     "day": "2026-08-27",
-     "n": 1
-    },
-    {
-     "day": "2026-08-28",
-     "n": 0
-    },
-    {
-     "day": "2026-08-29",
-     "n": 0
-    },
-    {
-     "day": "2026-08-30",
-     "n": 0
-    },
-    {
-     "day": "2026-08-31",
-     "n": 0
-    },
-    {
-     "day": "2026-09-01",
-     "n": 2
-    }
-   ],
-   "relRatio": 2.25,
-   "docFreq": 0.0006,
-   "specificity": 0.98,
-   "homeShare": 0.625,
-   "daysSeen": 6,
-   "rank": 0.603,
-   "nearShare": 0.016,
-   "apart": true
-  },
-  {
    "id": "climate-change",
    "term": "climate change",
    "direction": "rising",
-   "ratio": 0.6107384384179247,
+   "ratio": 0.6102798634812286,
    "display": true,
    "adoptionSpan": 19,
    "pace": "mixed",
@@ -33283,7 +33302,7 @@
    "id": "battery-cell",
    "term": "battery cell",
    "direction": "steady",
-   "ratio": 0.43624174172708907,
+   "ratio": 0.43591418820087763,
    "display": true,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -33478,7 +33497,7 @@
      "new",
      2,
      0,
-     266.1,
+     266.7,
      [
       {
        "title": "EcoPro BM Forms Research Alliance for All-\u2f00Solid-State\u2f01 Batteries",
@@ -33954,7 +33973,7 @@
    "id": "digital-twin",
    "term": "digital twin",
    "direction": "rising",
-   "ratio": 0.7464580913996857,
+   "ratio": 0.7458976109215016,
    "display": true,
    "adoptionSpan": 14,
    "pace": "mixed",
@@ -34636,7 +34655,7 @@
    "id": "critical-infrastructure",
    "term": "critical infrastructure",
    "direction": "steady",
-   "ratio": 0.254474349340802,
+   "ratio": 0.2542832764505119,
    "display": true,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -35239,7 +35258,7 @@
    "id": "solid-state",
    "term": "solid state",
    "direction": "falling",
-   "ratio": 0.22619942163626838,
+   "ratio": 0.2260295790671217,
    "display": true,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -35440,7 +35459,7 @@
      "new",
      2,
      0,
-     266.1,
+     266.7,
      [
       {
        "title": "EcoPro BM Forms Research Alliance for All-Solid-State Batteries",
@@ -35910,7 +35929,7 @@
    "id": "supply-chain",
    "term": "supply chain",
    "direction": "steady",
-   "ratio": 0.39753704324881506,
+   "ratio": 0.39723855127094904,
    "display": false,
    "adoptionSpan": 65,
    "pace": "gradual",
@@ -36315,7 +36334,7 @@
      "rising",
      2,
      2,
-     61.0,
+     61.1,
      [
       {
        "title": "\u2f00Cargo theft\u2f01 topic of recent summit",
@@ -36339,7 +36358,7 @@
      "new",
      2,
      0,
-     24.4,
+     24.5,
      [
       {
        "title": "UPS announces exec \u2f00leadership changes\u2f01 and new global operating model",
@@ -36844,7 +36863,7 @@
    "id": "natural-gas",
    "term": "natural gas",
    "direction": "steady",
-   "ratio": 0.24881936379989525,
+   "ratio": 0.24863253697383386,
    "display": false,
    "adoptionSpan": 44,
    "pace": "gradual",
@@ -37159,7 +37178,7 @@
      "steady",
      2,
      4,
-     58.0,
+     58.2,
      [
       {
        "title": "DCD Talks: Natural gas as a bridge to AI scale with Stiven Smith, Cummins",
@@ -37661,16 +37680,16 @@
    "id": "data-center",
    "term": "data center",
    "direction": "steady",
-   "ratio": 0.32314203090895494,
+   "ratio": 0.32397572999620783,
    "display": false,
    "adoptionSpan": 74,
    "pace": "gradual",
    "kind": "concept",
    "sectorCount": 10,
-   "effectiveSectors": 2.95,
+   "effectiveSectors": 2.96,
    "newestSector": "Materials",
    "daysSinceNewestSector": 11,
-   "articles14d": 300,
+   "articles14d": 301,
    "articlesPrior14d": 315,
    "publishers": 24,
    "events": 278,
@@ -37681,7 +37700,7 @@
      "firstSeen": "2026-06-08",
      "recent": 226,
      "articles": 550,
-     "share": 0.758,
+     "share": 0.756,
      "atSectorStart": false,
      "grip": 0.667,
      "outlets": 6,
@@ -37691,9 +37710,9 @@
     {
      "name": "Utilities",
      "firstSeen": "2026-06-09",
-     "recent": 23,
-     "articles": 80,
-     "share": 0.077,
+     "recent": 24,
+     "articles": 81,
+     "share": 0.08,
      "atSectorStart": false,
      "grip": 0.429,
      "outlets": 3,
@@ -37801,7 +37820,7 @@
    "origins": [
     [
      "US",
-     536
+     537
     ],
     [
      "TW",
@@ -37874,7 +37893,7 @@
        19,
        10,
        11,
-       10
+       11
       ]
      },
      {
@@ -38641,7 +38660,7 @@
     },
     {
      "day": "2026-09-01",
-     "n": 27
+     "n": 28
     }
    ],
    "variants": [
@@ -38650,18 +38669,18 @@
     "power demand",
     "energy demand"
    ],
-   "relRatio": 0.95,
+   "relRatio": 0.96,
    "docFreq": 0.0205,
-   "specificity": 0.317,
-   "homeShare": 0.758,
+   "specificity": 0.315,
+   "homeShare": 0.756,
    "daysSeen": 14,
-   "rank": 0.885
+   "rank": 0.881
   },
   {
    "id": "energy-grid",
    "term": "energy grid",
    "direction": "rising",
-   "ratio": 1.3571965298176103,
+   "ratio": 1.3561774744027304,
    "display": false,
    "adoptionSpan": 51,
    "pace": "gradual",
@@ -39188,7 +39207,7 @@
    "id": "solar-panel",
    "term": "solar panel",
    "direction": "steady",
-   "ratio": 0.36191907461802947,
+   "ratio": 0.3616473265073948,
    "display": false,
    "adoptionSpan": 62,
    "pace": "gradual",
@@ -39880,7 +39899,7 @@
    "id": "solar-cell",
    "term": "solar cell",
    "direction": "rising",
-   "ratio": 0.4523988432725368,
+   "ratio": 0.4520591581342434,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -40496,7 +40515,7 @@
    "id": "power-supply",
    "term": "power supply",
    "direction": "steady",
-   "ratio": 0.29688674089760225,
+   "ratio": 0.29666382252559725,
    "display": false,
    "adoptionSpan": 5,
    "pace": "simultaneous",
@@ -41094,7 +41113,7 @@
    "id": "autonomous-vehicle",
    "term": "autonomous vehicle",
    "direction": "rising",
-   "ratio": 0.6785982649088051,
+   "ratio": 0.6780887372013652,
    "display": false,
    "adoptionSpan": 3,
    "pace": "simultaneous",
@@ -41718,7 +41737,7 @@
    "id": "full-scale",
    "term": "full scale",
    "direction": "rising",
-   "ratio": 0.508948698681604,
+   "ratio": 0.5085665529010238,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -42294,7 +42313,7 @@
    "id": "water-level",
    "term": "water level",
    "direction": "falling",
-   "ratio": 0.09424975901511183,
+   "ratio": 0.09417899127796739,
    "display": false,
    "adoptionSpan": 5,
    "pace": "simultaneous",
@@ -42865,7 +42884,7 @@
    "id": "crude-oil",
    "term": "crude oil",
    "direction": "falling",
-   "ratio": 0.23072341006899377,
+   "ratio": 0.23055017064846417,
    "display": false,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -43048,7 +43067,7 @@
      "rising",
      2,
      2,
-     80.5,
+     80.7,
      [
       {
        "title": "MABUX: Bunker market volatility persists in September",
@@ -43553,7 +43572,7 @@
    "id": "lng-carrier",
    "term": "lng carrier",
    "direction": "steady",
-   "ratio": 0.26389932524231313,
+   "ratio": 0.2637011755783087,
    "display": false,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -44106,27 +44125,27 @@
    "id": "iran-war",
    "term": "iran war",
    "direction": "steady",
-   "ratio": 0.4191342224436738,
+   "ratio": 0.4387633005420598,
    "display": false,
    "adoptionSpan": 43,
    "pace": "gradual",
    "kind": "place",
    "sectorCount": 2,
-   "effectiveSectors": 1.49,
+   "effectiveSectors": 1.48,
    "newestSector": "Supply chain",
    "daysSinceNewestSector": 32,
-   "articles14d": 21,
+   "articles14d": 22,
    "articlesPrior14d": 17,
    "publishers": 4,
-   "events": 22,
-   "topPubShare": 0.864,
+   "events": 23,
+   "topPubShare": 0.87,
    "sectors": [
     {
      "name": "Energy",
      "firstSeen": "2026-06-18",
-     "recent": 19,
-     "articles": 38,
-     "share": 0.95,
+     "recent": 20,
+     "articles": 39,
+     "share": 0.952,
      "atSectorStart": false,
      "grip": 0.333,
      "outlets": 2,
@@ -44138,7 +44157,7 @@
      "firstSeen": "2026-07-31",
      "recent": 1,
      "articles": 6,
-     "share": 0.05,
+     "share": 0.048,
      "atSectorStart": false,
      "grip": 0.429,
      "outlets": 3,
@@ -44150,7 +44169,7 @@
    "origins": [
     [
      "US",
-     49
+     50
     ],
     [
      "GB",
@@ -44205,7 +44224,7 @@
        3,
        10,
        8,
-       9
+       10
       ]
      },
      {
@@ -44358,6 +44377,15 @@
    "examples": [
     {
      "publisher": "OilPrice",
+     "title": "Bessent Says Strait of Hormuz Obsolete Within Two Years",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Bessent-Says-Strait-of-Hormuz-Obsolete-Within-Two-Years.html",
+     "date": "2026-09-01",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026dout that has accelerated since the \u2f00Iran war\u2f01 disrupted one of the world's busiest oil routes. \u201cThat will be bypassed in two years,\u201d Bessent said Tuesday d\u2026"
+    },
+    {
+     "publisher": "OilPrice",
      "title": "\u2f00Iran War\u2f01 Triggers Billions in New Oil Pipeline and Port Investment",
      "url": "https://oilprice.com/Energy/Energy-General/Iran-War-Triggers-Billions-in-New-Oil-Pipeline-and-Port-Investment.html",
      "date": "2026-08-31",
@@ -44454,15 +44482,6 @@
      "sector": "Energy",
      "country": "US",
      "quote": "\u2026Trump announced a ceasefire in the \u2f00Iran war\u2f01 and hours before Exxon shares opened 6.5% lower, according to financial disclosures reviewed by CBS News. Exx\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "CNOOC Posts Record Profit as China Pumps More Oil at Home",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/CNOOC-Posts-Record-Profit-as-China-Pumps-More-Oil-at-Home.html",
-     "date": "2026-08-26",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026by higher oil prices following the \u2f00Iran war\u2f01 and continued growth from its offshore fields. Net profit attributable to shareholders jumped 23.4% from a ye\u2026"
     }
    ],
    "daily": [
@@ -44824,21 +44843,21 @@
     },
     {
      "day": "2026-09-01",
-     "n": 0
+     "n": 1
     }
    ],
-   "relRatio": 1.24,
-   "docFreq": 0.0014,
-   "specificity": 0.952,
-   "homeShare": 0.95,
-   "daysSeen": 9,
-   "rank": 0.817
+   "relRatio": 1.29,
+   "docFreq": 0.0015,
+   "specificity": 0.95,
+   "homeShare": 0.952,
+   "daysSeen": 10,
+   "rank": 0.813
   },
   {
    "id": "nuclear-power",
    "term": "nuclear power",
    "direction": "steady",
-   "ratio": 0.27760838109905667,
+   "ratio": 0.27739993794601303,
    "display": false,
    "adoptionSpan": 69,
    "pace": "gradual",
@@ -45061,7 +45080,7 @@
      "rising",
      2,
      2,
-     236.5,
+     237.0,
      [
       {
        "title": "IAEA concern over diesel supply for Zaporizhzhia generators",
@@ -45085,7 +45104,7 @@
      "new",
      2,
      0,
-     118.2,
+     118.5,
      [
       {
        "title": "Interview: Taiwan's National Atomic Research Institute eyes SMRs for AI power shift",
@@ -45109,7 +45128,7 @@
      "rising",
      2,
      2,
-     78.8,
+     79.0,
      [
       {
        "title": "Interview: Taiwan's National Atomic Research Institute eyes SMRs for AI power shift",
@@ -45635,7 +45654,7 @@
    "id": "grid-capacity",
    "term": "grid capacity",
    "direction": "falling",
-   "ratio": 0.20357947947264157,
+   "ratio": 0.20342662116040955,
    "display": false,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -46170,7 +46189,7 @@
    "id": "energy-bill",
    "term": "energy bill",
    "direction": "rising",
-   "ratio": 0.6785982649088051,
+   "ratio": 0.6780887372013652,
    "display": false,
    "adoptionSpan": 58,
    "pace": "gradual",
@@ -46767,7 +46786,7 @@
    "id": "digital-asset",
    "term": "digital asset",
    "direction": "falling",
-   "ratio": 0.20357947947264157,
+   "ratio": 0.20342662116040955,
    "display": false,
    "adoptionSpan": 21,
    "pace": "mixed",
@@ -47302,7 +47321,7 @@
    "id": "charging-infrastructure",
    "term": "charging infrastructure",
    "direction": "rising",
-   "ratio": 0.6785982649088051,
+   "ratio": 0.6780887372013652,
    "display": false,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -47903,7 +47922,7 @@
    "id": "heat-pump",
    "term": "heat pump",
    "direction": "steady",
-   "ratio": 0.30845375677672965,
+   "ratio": 0.30822215327334784,
    "display": false,
    "adoptionSpan": 62,
    "pace": "gradual",
@@ -48519,7 +48538,7 @@
    "id": "fuel-supply",
    "term": "fuel supply",
    "direction": "steady",
-   "ratio": 0.3958489878634697,
+   "ratio": 0.395551763367463,
    "display": false,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -49077,7 +49096,7 @@
    "id": "global-energy",
    "term": "global energy",
    "direction": "falling",
-   "ratio": 0.22619942163626838,
+   "ratio": 0.2260295790671217,
    "display": false,
    "adoptionSpan": 54,
    "pace": "gradual",
@@ -49242,7 +49261,7 @@
      "new",
      2,
      0,
-     88.7,
+     88.9,
      [
       {
        "title": "ONGC can withstand \u2f00oil prices\u2f01 in $60-90 range, says chairman",
@@ -49708,7 +49727,7 @@
    "id": "red-sea",
    "term": "red sea",
    "direction": "falling",
-   "ratio": 0.18960833872451913,
+   "ratio": 0.18946597068861676,
    "display": false,
    "adoptionSpan": 17,
    "pace": "mixed",
@@ -49873,7 +49892,7 @@
      "new",
      2,
      0,
-     252.1,
+     252.6,
      [
       {
        "title": "Houthi strike hits Saudi VLCC off Yanbu",
@@ -50348,7 +50367,7 @@
    "id": "grid-reliability",
    "term": "grid reliability",
    "direction": "rising",
-   "ratio": 0.6785982649088051,
+   "ratio": 0.6780887372013652,
    "display": false,
    "adoptionSpan": 47,
    "pace": "gradual",
@@ -50870,7 +50889,7 @@
    "id": "real-estate",
    "term": "real estate",
    "direction": "steady",
-   "ratio": 0.2827492770453355,
+   "ratio": 0.28253697383390214,
    "display": false,
    "adoptionSpan": 59,
    "pace": "gradual",
@@ -51173,7 +51192,7 @@
      "new",
      2,
      0,
-     159.6,
+     160.0,
      [
       {
        "title": "Vamsiram Builders secures 5.38-acre land parcel in Hyderabad's Raidurg for \u20b91,447 crore",
@@ -51675,7 +51694,7 @@
    "id": "critical-mineral",
    "term": "critical mineral",
    "direction": "steady",
-   "ratio": 0.35186576698975086,
+   "ratio": 0.35160156743774496,
    "display": false,
    "adoptionSpan": 61,
    "pace": "gradual",
@@ -51914,7 +51933,7 @@
      "new",
      6,
      0,
-     102.6,
+     102.9,
      [
       {
        "title": "Australia and Korea target critical minerals growth",
@@ -52444,7 +52463,7 @@
    "id": "recycling-facility",
    "term": "recycling facility",
    "direction": "rising",
-   "ratio": 0.508948698681604,
+   "ratio": 0.5085665529010238,
    "display": false,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -52957,7 +52976,7 @@
    "id": "oil-export",
    "term": "oil export",
    "direction": "steady",
-   "ratio": 0.3701445081320756,
+   "ratio": 0.3698665839280174,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -53547,7 +53566,7 @@
    "id": "rooftop-solar",
    "term": "rooftop solar",
    "direction": "steady",
-   "ratio": 0.4241239155680032,
+   "ratio": 0.42380546075085324,
    "display": false,
    "adoptionSpan": 45,
    "pace": "gradual",
@@ -54145,7 +54164,7 @@
    "id": "mass-production",
    "term": "mass production",
    "direction": "steady",
-   "ratio": 0.3877704370907458,
+   "ratio": 0.3874792784007801,
    "display": false,
    "adoptionSpan": 31,
    "pace": "gradual",
@@ -54306,7 +54325,7 @@
      "new",
      3,
      0,
-     19.4,
+     19.5,
      [
       {
        "title": "SK hynix to Start HBM4E Production at Indiana Plant in 2029",
@@ -54815,7 +54834,7 @@
    "id": "trade-route",
    "term": "trade route",
    "direction": "rising",
-   "ratio": 0.508948698681604,
+   "ratio": 0.5085665529010238,
    "display": false,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -55328,7 +55347,7 @@
    "id": "fossil-fuel",
    "term": "fossil fuel",
    "direction": "falling",
-   "ratio": 0.2261994216362684,
+   "ratio": 0.22602957906712173,
    "display": false,
    "adoptionSpan": 27,
    "pace": "mixed",
@@ -55958,7 +55977,7 @@
    "id": "ukrainian-drone",
    "term": "ukrainian drone",
    "direction": "steady",
-   "ratio": 0.3392991324544026,
+   "ratio": 0.3390443686006826,
    "display": false,
    "adoptionSpan": 5,
    "pace": "simultaneous",
@@ -56511,7 +56530,7 @@
    "id": "oil-price",
    "term": "oil price",
    "direction": "steady",
-   "ratio": 0.3053692192089624,
+   "ratio": 0.3051399317406143,
    "display": false,
    "adoptionSpan": 43,
    "pace": "gradual",
@@ -56762,7 +56781,7 @@
      "new",
      2,
      0,
-     88.7,
+     88.9,
      [
       {
        "title": "ONGC can withstand oil prices in $60-90 range, says chairman",
@@ -57264,7 +57283,7 @@
    "id": "middle-east",
    "term": "middle east",
    "direction": "steady",
-   "ratio": 0.3732290456998429,
+   "ratio": 0.3729488054607508,
    "display": false,
    "adoptionSpan": 59,
    "pace": "gradual",
@@ -57554,39 +57573,7 @@
      }
     ]
    },
-   "cooc": [
-    [
-     "large crude carrier",
-     0.6,
-     "rising",
-     3,
-     2,
-     62.2,
-     [
-      {
-       "title": "Two Supertankers Hit by Unknown Projectiles in Strait of Hormuz",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Two-Supertankers-Hit-by-Unknown-Projectiles-in-Strait-of-Hormuz.html",
-       "publisher": "OilPrice",
-       "sector": "Energy",
-       "quote": "\u2026low recovery at risk. The Sidr very \u2f00large crude carrier\u2f01 (VLCC), operated by Saudi Arabia's state shipping giant Bahri, was hit by unknown projectiles northeast of Kh\u2026"
-      },
-      {
-       "title": "\u201cK\u201d Line orders three VLCCs from Nihon Shipyard",
-       "url": "https://container-news.com/k-line-orders-three-vlccs-from-nihon-shipyard/",
-       "publisher": "Container News",
-       "sector": "Supply chain",
-       "quote": "\u2026for the construction of three very \u2f00large crude carriers\u2f01. The next-generation VLCCs will feature energy-saving designs and high fuel efficiency. Malaccamax design tar\u2026"
-      },
-      {
-       "title": "Middle East Oil Crisis Sends Supertanker Prices to Record Highs",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Oil-Crisis-Sends-Supertanker-Prices-to-Record-Highs.html",
-       "publisher": "OilPrice",
-       "sector": "Energy",
-       "quote": "\u2026aying both new and second-hand very \u2f00large crude carriers\u2f01 reached prices of over $130 million in the second quarter of the year. Citing data from shipbroking company B\u2026"
-      }
-     ]
-    ]
-   ],
+   "cooc": [],
    "examples": [
     {
      "publisher": "Seatrade Maritime",
@@ -58073,7 +58060,7 @@
    "id": "shopping-center",
    "term": "shopping center",
    "direction": "rising",
-   "ratio": 0.8482478311360064,
+   "ratio": 0.8476109215017065,
    "display": false,
    "adoptionSpan": 26,
    "pace": "mixed",
@@ -58586,7 +58573,7 @@
    "id": "drone-attack",
    "term": "drone attack",
    "direction": "steady",
-   "ratio": 0.2870992659229561,
+   "ratio": 0.2868836965082699,
    "display": false,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -59179,7 +59166,7 @@
    "id": "digital-infrastructure",
    "term": "digital infrastructure",
    "direction": "rising",
-   "ratio": 0.7464580913996857,
+   "ratio": 0.7458976109215016,
    "display": false,
    "adoptionSpan": 45,
    "pace": "gradual",
@@ -59862,7 +59849,7 @@
    "id": "production-capacity",
    "term": "production capacity",
    "direction": "steady",
-   "ratio": 0.4241239155680032,
+   "ratio": 0.42380546075085324,
    "display": false,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -60576,7 +60563,7 @@
    "id": "solar-power",
    "term": "solar power",
    "direction": "rising",
-   "ratio": 0.45239884327253677,
+   "ratio": 0.4520591581342434,
    "display": false,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -61253,7 +61240,7 @@
    "id": "rare-earth",
    "term": "rare earth",
    "direction": "steady",
-   "ratio": 0.4241239155680032,
+   "ratio": 0.42380546075085324,
    "display": false,
    "adoptionSpan": 64,
    "pace": "gradual",
@@ -61484,7 +61471,7 @@
      "new",
      2,
      0,
-     319.3,
+     320.0,
      [
       {
        "title": "Greenland Mines gets \u2f00exploration license\u2f01 for Sarfartoq rare earths project",
@@ -61508,7 +61495,7 @@
      "new",
      6,
      0,
-     102.6,
+     102.9,
      [
       {
        "title": "Australia and Korea target \u2f00critical minerals\u2f01 growth",
@@ -62038,7 +62025,7 @@
    "id": "small-modular-reactor",
    "term": "small modular reactor",
    "direction": "falling",
-   "ratio": 0.2261994216362684,
+   "ratio": 0.2260295790671217,
    "display": false,
    "adoptionSpan": 67,
    "pace": "gradual",
@@ -62177,7 +62164,7 @@
      "new",
      2,
      0,
-     1064.2,
+     1066.7,
      [
       {
        "title": "Port of \u2f00Corpus Christi\u2f01 to explore nuclear technology for maritime operations",
@@ -62625,7 +62612,7 @@
    "id": "image-prime-creative",
    "term": "image prime creative",
    "direction": "rising",
-   "ratio": 0.565498554090671,
+   "ratio": 0.5650739476678043,
    "display": false,
    "adoptionSpan": 10,
    "pace": "mixed",
@@ -63102,7 +63089,7 @@
    "id": "petroleum-product",
    "term": "petroleum product",
    "direction": "rising",
-   "ratio": 0.508948698681604,
+   "ratio": 0.5085665529010238,
    "display": false,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -63607,7 +63594,7 @@
    "id": "zero-emission",
    "term": "zero emission",
    "direction": "steady",
-   "ratio": 0.3392991324544026,
+   "ratio": 0.3390443686006826,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -63768,7 +63755,7 @@
      "new",
      2,
      0,
-     598.6,
+     600.0,
      [
       {
        "title": "Yusen Terminals to invest $200 million in electrification at Port of Los Angeles",
@@ -63792,7 +63779,7 @@
      "new",
      2,
      0,
-     478.9,
+     480.0,
      [
       {
        "title": "Yusen Terminals to invest $200 million in electrification at Port of Los Angeles",
@@ -64258,7 +64245,7 @@
    "id": "shipping-lane",
    "term": "shipping lane",
    "direction": "steady",
-   "ratio": 0.33929913245440263,
+   "ratio": 0.3390443686006826,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -64771,7 +64758,7 @@
    "id": "supply-constraint",
    "term": "supply constraint",
    "direction": "falling",
-   "ratio": 0.127237174670401,
+   "ratio": 0.12714163822525595,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -65317,7 +65304,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.38,
+   "relRatio": 0.37,
    "docFreq": 0.0002,
    "specificity": 0.993,
    "homeShare": 0.667,
@@ -65328,7 +65315,7 @@
    "id": "hormuz-crisis",
    "term": "hormuz crisis",
    "direction": "steady",
-   "ratio": 0.2908278278180594,
+   "ratio": 0.2906094588005851,
    "display": false,
    "adoptionSpan": 47,
    "pace": "gradual",
@@ -65911,7 +65898,7 @@
    "id": "solar-farm",
    "term": "solar farm",
    "direction": "steady",
-   "ratio": 0.254474349340802,
+   "ratio": 0.2542832764505119,
    "display": false,
    "adoptionSpan": 50,
    "pace": "gradual",
@@ -66424,7 +66411,7 @@
    "id": "energy-management",
    "term": "energy management",
    "direction": "steady",
-   "ratio": 0.3392991324544026,
+   "ratio": 0.3390443686006826,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -66999,7 +66986,7 @@
    "id": "coast-guard",
    "term": "coast guard",
    "direction": "steady",
-   "ratio": 0.2609993326572328,
+   "ratio": 0.26080336046206354,
    "display": false,
    "adoptionSpan": 29,
    "pace": "gradual",
@@ -67593,7 +67580,7 @@
    "id": "nuclear-fuel",
    "term": "nuclear fuel",
    "direction": "falling",
-   "ratio": 0.24235652318171613,
+   "ratio": 0.24217454900048754,
    "display": false,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -68152,7 +68139,7 @@
    "id": "large-crude-carrier",
    "term": "large crude carrier",
    "direction": "rising",
-   "ratio": 0.5937734817952045,
+   "ratio": 0.5933276450511945,
    "display": false,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -68701,7 +68688,7 @@
    "id": "drilling-rigs",
    "term": "drilling rigs",
    "direction": "rising",
-   "ratio": 1.017897397363208,
+   "ratio": 1.0171331058020476,
    "display": false,
    "adoptionSpan": 57,
    "pace": "gradual",
@@ -68814,7 +68801,7 @@
      "new",
      2,
      0,
-     638.5,
+     640.0,
      [
       {
        "title": "COSL eyes two new deepwater semisubs",
@@ -69262,7 +69249,7 @@
    "id": "storage-site",
    "term": "storage site",
    "direction": "steady",
-   "ratio": 0.3392991324544026,
+   "ratio": 0.3390443686006826,
    "display": false,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -69780,7 +69767,7 @@
    "id": "effective-date",
    "term": "effective date",
    "direction": "rising",
-   "ratio": 0.9047976865450735,
+   "ratio": 0.9041183162684868,
    "display": false,
    "adoptionSpan": 21,
    "pace": "mixed",
@@ -70334,7 +70321,7 @@
    "id": "advanced-nuclear",
    "term": "advanced nuclear",
    "direction": "rising",
-   "ratio": 0.45239884327253677,
+   "ratio": 0.4520591581342434,
    "display": false,
    "adoptionSpan": 82,
    "pace": "gradual",
@@ -70850,7 +70837,7 @@
    "id": "power-station",
    "term": "power station",
    "direction": "rising",
-   "ratio": 0.508948698681604,
+   "ratio": 0.5085665529010238,
    "display": false,
    "adoptionSpan": 9,
    "pace": "mixed",
@@ -71364,7 +71351,7 @@
    "id": "energy-crisis",
    "term": "energy crisis",
    "direction": "steady",
-   "ratio": 0.27143930596352206,
+   "ratio": 0.27123549488054605,
    "display": false,
    "adoptionSpan": 32,
    "pace": "gradual",
