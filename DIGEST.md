@@ -1,6 +1,6 @@
 # Crosstalk — week ending 2 September 2026
 
-*15,587 articles over 129 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*15,600 articles over 129 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
@@ -9,8 +9,6 @@ Nothing crossed into a new sector this week.
 ## Being used more than a fortnight ago
 
 **[self sufficiency](https://crosstalkwire.com/#self-sufficiency)** — 8 articles, 2.7× the fortnight before, in energy, technology
-
-**[precious metal](https://crosstalkwire.com/#precious-metal)** — 9 articles, 2.2× the fortnight before, in materials, industrials
 
 **[tariff refund](https://crosstalkwire.com/#tariff-refund)** — 9 articles, 1.8× the fortnight before, in industrials, supply chain, consumer
 
