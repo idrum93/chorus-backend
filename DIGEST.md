@@ -10,6 +10,8 @@ Nothing crossed into a new sector this week.
 
 **[nuclear technology](https://crosstalkwire.com/#nuclear-technology)** — 6 articles, 2.0× the fortnight before, in energy, supply chain
 
+**[precious metal](https://crosstalkwire.com/#precious-metal)** — 10 articles, 2.0× the fortnight before, in materials, industrials
+
 **[tariff refund](https://crosstalkwire.com/#tariff-refund)** — 9 articles, 1.8× the fortnight before, in industrials, supply chain, consumer
 
 **[digital twin](https://crosstalkwire.com/#digital-twin)** — 9 articles, 1.8× the fortnight before, in technology, industrials, utilities
@@ -21,8 +23,6 @@ Nothing crossed into a new sector this week.
 **[carbon dioxide](https://crosstalkwire.com/#carbon-dioxide)** — 5 articles, 1.7× the fortnight before, in policy, energy
 
 **[climate change](https://crosstalkwire.com/#climate-change)** — 8 articles, 1.6× the fortnight before, in policy, energy
-
-**[infrastructure investment](https://crosstalkwire.com/#infrastructure-investment)** — 6 articles, 1.5× the fortnight before, in real estate, technology
 
 ---
 
