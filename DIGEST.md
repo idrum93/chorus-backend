@@ -1,6 +1,6 @@
 # Crosstalk — week ending 3 September 2026
 
-*16,107 articles over 130 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*16,267 articles over 130 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
@@ -8,7 +8,7 @@ Nothing crossed into a new sector this week.
 
 ## Being used more than a fortnight ago
 
-**[grid scale](https://crosstalkwire.com/#grid-scale)** — 8 articles, 2.7× the fortnight before, in energy, utilities
+**[greenhouse gas](https://crosstalkwire.com/#greenhouse-gas)** — 10 articles, 3.3× the fortnight before, in energy, technology
 
 **[precious metal](https://crosstalkwire.com/#precious-metal)** — 10 articles, 2.0× the fortnight before, in materials, industrials
 
