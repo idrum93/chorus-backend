@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-04T23:25:47.060549+00:00",
+ "generated": "2026-09-04T23:45:19.585014+00:00",
  "placeWords": [
   "africa",
   "alberta",
@@ -24398,14 +24398,14 @@
    "homeShare": 0.68,
    "daysSeen": 11,
    "rank": 1.15,
-   "nearShare": 0.098,
    "alsoHeld": [
     "energy infrastructure",
     "energy crisis",
     "energy cost",
     "energy saving",
     "energy storage"
-   ]
+   ],
+   "nearShare": 0.098
   },
   {
    "id": "iron-ore",
@@ -26173,11 +26173,11 @@
    "homeShare": 0.6,
    "daysSeen": 5,
    "rank": 0.794,
-   "nearShare": 0.297,
    "alsoHeld": [
     "grid operator",
     "grid scale"
-   ]
+   ],
+   "nearShare": 0.081
   },
   {
    "id": "solar-power",
@@ -26841,7 +26841,6 @@
    "homeShare": 0.667,
    "daysSeen": 6,
    "rank": 0.779,
-   "nearShare": 0.298,
    "alsoHeld": [
     "power generation",
     "power purchase agreement",
@@ -26849,7 +26848,8 @@
     "power station",
     "power grid",
     "virtual power plant"
-   ]
+   ],
+   "nearShare": 0.191
   },
   {
    "id": "electricity-demand",
@@ -27515,10 +27515,10 @@
    "homeShare": 0.6,
    "daysSeen": 8,
    "rank": 0.758,
-   "nearShare": 0.125,
    "alsoHeld": [
     "demand remain"
-   ]
+   ],
+   "nearShare": 0.1
   },
   {
    "id": "utility-scale",
@@ -28125,10 +28125,10 @@
    "homeShare": 0.714,
    "daysSeen": 5,
    "rank": 0.744,
-   "nearShare": 0.444,
    "alsoHeld": [
     "full scale"
-   ]
+   ],
+   "nearShare": 0.25
   },
   {
    "id": "fossil-fuel",
@@ -29423,10 +29423,10 @@
    "homeShare": 0.75,
    "daysSeen": 6,
    "rank": 0.697,
-   "nearShare": 0.558,
    "alsoHeld": [
     "offshore wind"
-   ]
+   ],
+   "nearShare": 0.209
   },
   {
    "id": "raw-material",
@@ -30130,7 +30130,7 @@
    "homeShare": 0.7,
    "daysSeen": 7,
    "rank": 0.688,
-   "nearShare": 0.154
+   "nearShare": 0.138
   },
   {
    "id": "ride-hailing",
@@ -31549,7 +31549,8 @@
    "homeShare": 0.452,
    "daysSeen": 12,
    "rank": 0.642,
-   "nearShare": 0.139
+   "nearShare": 0.045,
+   "apart": true
   },
   {
    "id": "climate-change",
@@ -32831,10 +32832,10 @@
    "homeShare": 0.667,
    "daysSeen": 4,
    "rank": 0.541,
-   "nearShare": 0.186,
    "alsoHeld": [
     "carbon emission"
-   ]
+   ],
+   "nearShare": 0.186
   },
   {
    "id": "critical-infrastructure",
@@ -33437,7 +33438,7 @@
    "homeShare": 0.6,
    "daysSeen": 5,
    "rank": 0.529,
-   "nearShare": 0.159
+   "nearShare": 0.114
   },
   {
    "id": "battery-cell",
@@ -34079,7 +34080,7 @@
    "homeShare": 0.6,
    "daysSeen": 6,
    "rank": 0.503,
-   "nearShare": 0.25
+   "nearShare": 0.125
   },
   {
    "id": "solid-state",
@@ -35476,10 +35477,11 @@
    "homeShare": 0.333,
    "daysSeen": 5,
    "rank": 0.401,
-   "nearShare": 0.055,
    "alsoHeld": [
     "digital transformation"
-   ]
+   ],
+   "nearShare": 0.055,
+   "apart": true
   },
   {
    "id": "lng-carrier",
@@ -73966,8 +73968,7 @@
    "specificity": 0.973,
    "homeShare": 0.5,
    "daysSeen": 7,
-   "rank": 0.646,
-   "nearShare": 0.173
+   "rank": 0.646
   }
  ]
 }
