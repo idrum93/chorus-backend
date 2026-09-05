@@ -1,6 +1,6 @@
-# Crosstalk — week ending 4 September 2026
+# Crosstalk — week ending 5 September 2026
 
-*17,055 articles over 131 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*17,057 articles over 131 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
@@ -12,13 +12,13 @@ Nothing crossed into a new sector this week.
 
 **[digital twin](https://crosstalkwire.com/#digital-twin)** — 9 articles, 1.8× the fortnight before, in technology, industrials, utilities
 
-**[electricity demand](https://crosstalkwire.com/#electricity-demand)** — 15 articles, 1.7× the fortnight before, in energy, utilities, technology
-
 **[carbon dioxide](https://crosstalkwire.com/#carbon-dioxide)** — 5 articles, 1.7× the fortnight before, in policy, energy
 
 **[iron ore](https://crosstalkwire.com/#iron-ore)** — 8 articles, 1.6× the fortnight before, in energy, materials
 
 **[solar power](https://crosstalkwire.com/#solar-power)** — 10 articles, 1.4× the fortnight before, in energy, policy, utilities
+
+**[electricity demand](https://crosstalkwire.com/#electricity-demand)** — 14 articles, 1.4× the fortnight before, in energy, utilities, technology
 
 ---
 
