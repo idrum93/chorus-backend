@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-07T04:08:19.062803+00:00",
+ "generated": "2026-09-07T04:19:21.594852+00:00",
  "placeWords": [
   "africa",
   "alberta",
@@ -2787,7 +2787,7 @@
   ],
   [
    "IN",
-   1131
+   1133
   ],
   [
    "GB",
@@ -2807,7 +2807,7 @@
   ],
   [
    "SG",
-   542
+   543
   ],
   [
    "AU",
@@ -23031,15 +23031,15 @@
   ]
  },
  "daysCollected": 135,
- "articlesStored": 17287,
- "articlesLive": 13510,
+ "articlesStored": 17290,
+ "articlesLive": 13513,
  "windowDays": 90,
  "terms": [
   {
    "id": "iron-ore",
    "term": "iron ore",
    "direction": "steady",
-   "ratio": 0.35835688249989767,
+   "ratio": 0.35829085027537216,
    "display": true,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -23617,7 +23617,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.17,
+   "relRatio": 1.14,
    "docFreq": 0.0004,
    "specificity": 0.986,
    "homeShare": 0.833,
@@ -23628,7 +23628,7 @@
    "id": "clean-energy",
    "term": "clean energy",
    "direction": "steady",
-   "ratio": 0.2632826075509452,
+   "ratio": 0.26323409407986526,
    "display": true,
    "adoptionSpan": 58,
    "pace": "gradual",
@@ -23937,7 +23937,7 @@
      "new",
      2,
      0,
-     109.8,
+     109.9,
      [
       {
        "title": "Delaware enacts clean energy mandate for \u2f00hyperscale data centers\u2f01",
@@ -24486,7 +24486,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.86,
+   "relRatio": 0.84,
    "docFreq": 0.0015,
    "specificity": 0.951,
    "homeShare": 0.739,
@@ -24503,7 +24503,7 @@
    "id": "utility-scale",
    "term": "utility scale",
    "direction": "steady",
-   "ratio": 0.23890458833326508,
+   "ratio": 0.2388605668502481,
    "display": true,
    "adoptionSpan": 32,
    "pace": "gradual",
@@ -24642,7 +24642,7 @@
      "rising",
      3,
      4,
-     232.5,
+     232.7,
      [
       {
        "title": "US utility-scale \u2f00battery energy storage\u2f01 capacity almost doubled during first 18 months of Trump's second term",
@@ -25098,7 +25098,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.78,
+   "relRatio": 0.76,
    "docFreq": 0.0004,
    "specificity": 0.986,
    "homeShare": 0.714,
@@ -25112,7 +25112,7 @@
    "id": "solar-power",
    "term": "solar power",
    "direction": "rising",
-   "ratio": 0.5119384035712823,
+   "ratio": 0.5118440718219602,
    "display": true,
    "adoptionSpan": 58,
    "pace": "gradual",
@@ -25764,7 +25764,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.67,
+   "relRatio": 1.63,
    "docFreq": 0.0006,
    "specificity": 0.98,
    "homeShare": 0.667,
@@ -25783,7 +25783,7 @@
    "id": "digital-twin",
    "term": "digital twin",
    "direction": "steady",
-   "ratio": 0.3071630421427694,
+   "ratio": 0.3071064430931761,
    "display": true,
    "adoptionSpan": 14,
    "pace": "mixed",
@@ -26432,7 +26432,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.0,
+   "relRatio": 0.98,
    "docFreq": 0.0005,
    "specificity": 0.984,
    "homeShare": 0.714,
@@ -26443,7 +26443,7 @@
    "id": "battery-cell",
    "term": "battery cell",
    "direction": "falling",
-   "ratio": 0.18429782528566163,
+   "ratio": 0.18426386585590565,
    "display": true,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -27038,7 +27038,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.6,
+   "relRatio": 0.59,
    "docFreq": 0.0004,
    "specificity": 0.988,
    "homeShare": 0.75,
@@ -27049,7 +27049,7 @@
    "id": "wind-farm",
    "term": "wind farm",
    "direction": "steady",
-   "ratio": 0.35835688249989767,
+   "ratio": 0.35829085027537216,
    "display": true,
    "adoptionSpan": 16,
    "pace": "mixed",
@@ -27645,7 +27645,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.17,
+   "relRatio": 1.14,
    "docFreq": 0.0004,
    "specificity": 0.986,
    "homeShare": 0.75,
@@ -27659,7 +27659,7 @@
    "id": "precious-metal",
    "term": "precious metal",
    "direction": "steady",
-   "ratio": 0.35104347673459363,
+   "ratio": 0.350978792106487,
    "display": true,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -28268,7 +28268,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.14,
+   "relRatio": 1.12,
    "docFreq": 0.0005,
    "specificity": 0.984,
    "homeShare": 0.667,
@@ -28279,7 +28279,7 @@
    "id": "electricity-demand",
    "term": "electricity demand",
    "direction": "steady",
-   "ratio": 0.36301086798690924,
+   "ratio": 0.3629439782010263,
    "display": true,
    "adoptionSpan": 51,
    "pace": "gradual",
@@ -28933,7 +28933,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.18,
+   "relRatio": 1.16,
    "docFreq": 0.0008,
    "specificity": 0.973,
    "homeShare": 0.615,
@@ -28947,7 +28947,7 @@
    "id": "solid-state",
    "term": "solid state",
    "direction": "steady",
-   "ratio": 0.2513152162986295,
+   "ratio": 0.25126890798532586,
    "display": true,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -29608,7 +29608,7 @@
    "variants": [
     "solid state battery"
    ],
-   "relRatio": 0.82,
+   "relRatio": 0.8,
    "docFreq": 0.0006,
    "specificity": 0.982,
    "homeShare": 0.714,
@@ -29619,7 +29619,7 @@
    "id": "ride-hailing",
    "term": "ride hailing",
    "direction": "rising",
-   "ratio": 1.5358152107138467,
+   "ratio": 1.5355322154658804,
    "display": true,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -30183,7 +30183,7 @@
      "n": 0
     }
    ],
-   "relRatio": 5.0,
+   "relRatio": 4.9,
    "docFreq": 0.0003,
    "specificity": 0.99,
    "homeShare": 0.75,
@@ -30194,7 +30194,7 @@
    "id": "fossil-fuel",
    "term": "fossil fuel",
    "direction": "steady",
-   "ratio": 0.3071630421427694,
+   "ratio": 0.3071064430931761,
    "display": true,
    "adoptionSpan": 44,
    "pace": "gradual",
@@ -30901,7 +30901,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.0,
+   "relRatio": 0.98,
    "docFreq": 0.0009,
    "specificity": 0.971,
    "homeShare": 0.571,
@@ -30912,7 +30912,7 @@
    "id": "raw-material",
    "term": "raw material",
    "direction": "steady",
-   "ratio": 0.23037228160707707,
+   "ratio": 0.23032983231988208,
    "display": true,
    "adoptionSpan": 48,
    "pace": "gradual",
@@ -31121,7 +31121,7 @@
      "new",
      2,
      0,
-     683.3,
+     683.7,
      [
       {
        "title": "South Korea-India joint venture opens \u2f00semiconductor materials plant\u2f01, targets China-free supply chain",
@@ -31588,7 +31588,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.75,
+   "relRatio": 0.74,
    "docFreq": 0.0006,
    "specificity": 0.982,
    "homeShare": 0.667,
@@ -31599,7 +31599,7 @@
    "id": "carbon-dioxide",
    "term": "carbon dioxide",
    "direction": "rising",
-   "ratio": 0.5119384035712823,
+   "ratio": 0.5118440718219602,
    "display": true,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -32203,7 +32203,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.67,
+   "relRatio": 1.63,
    "docFreq": 0.0003,
    "specificity": 0.99,
    "homeShare": 0.667,
@@ -32217,7 +32217,7 @@
    "id": "grid-connection",
    "term": "grid connection",
    "direction": "falling",
-   "ratio": 0.19197690133923084,
+   "ratio": 0.19194152693323505,
    "display": true,
    "adoptionSpan": 15,
    "pace": "mixed",
@@ -32789,7 +32789,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.62,
+   "relRatio": 0.61,
    "docFreq": 0.0003,
    "specificity": 0.99,
    "homeShare": 0.5,
@@ -32804,7 +32804,7 @@
    "id": "electric-vehicle",
    "term": "electric vehicle",
    "direction": "steady",
-   "ratio": 0.2586636144360163,
+   "ratio": 0.2586159520784641,
    "display": true,
    "adoptionSpan": 39,
    "pace": "gradual",
@@ -33602,7 +33602,7 @@
      "n": 1
     }
    ],
-   "relRatio": 0.84,
+   "relRatio": 0.83,
    "docFreq": 0.002,
    "specificity": 0.934,
    "homeShare": 0.433,
@@ -33610,541 +33610,10 @@
    "rank": 0.611
   },
   {
-   "id": "key-growth-driver",
-   "term": "key growth driver",
-   "direction": "steady",
-   "ratio": 0.230372281607077,
-   "display": true,
-   "adoptionSpan": 3,
-   "pace": "simultaneous",
-   "kind": "concept",
-   "sectorCount": 2,
-   "effectiveSectors": 1.98,
-   "newestSector": "Technology",
-   "daysSinceNewestSector": 25,
-   "articles14d": 3,
-   "articlesPrior14d": 4,
-   "publishers": 3,
-   "events": 3,
-   "topPubShare": 0.333,
-   "sectors": [
-    {
-     "name": "Consumer",
-     "firstSeen": "2026-08-10",
-     "recent": 1,
-     "articles": 3,
-     "share": 0.5,
-     "atSectorStart": false,
-     "grip": 0.2,
-     "outlets": 1,
-     "adopt": 61,
-     "daysSince": 28
-    },
-    {
-     "name": "Technology",
-     "firstSeen": "2026-08-13",
-     "recent": 1,
-     "articles": 4,
-     "share": 0.5,
-     "atSectorStart": false,
-     "grip": 0.111,
-     "outlets": 1,
-     "adopt": 64,
-     "daysSince": 25
-    }
-   ],
-   "sinceStart": false,
-   "origins": [
-    [
-     "TW",
-     4
-    ],
-    [
-     "IN",
-     3
-    ],
-    [
-     "DE",
-     1
-    ]
-   ],
-   "flow": {
-    "weeks": [
-     "2026-06-10",
-     "2026-06-17",
-     "2026-06-24",
-     "2026-07-01",
-     "2026-07-08",
-     "2026-07-15",
-     "2026-07-22",
-     "2026-07-29",
-     "2026-08-05",
-     "2026-08-12",
-     "2026-08-19",
-     "2026-08-26",
-     "2026-09-02"
-    ],
-    "bands": [
-     {
-      "sector": "Technology",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       2,
-       1,
-       1,
-       0
-      ]
-     },
-     {
-      "sector": "Consumer",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       1,
-       0,
-       1
-      ]
-     },
-     {
-      "sector": "Energy",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1
-      ]
-     }
-    ]
-   },
-   "cooc": [],
-   "examples": [
-    {
-     "publisher": "ET Retail",
-     "title": "PeeSafe eyes sub-brand launches, acquisitions ahead of FY29-30 IPO plan",
-     "url": "https://retail.economictimes.indiatimes.com/news/health-and-beauty/pharmacy/peesafe-eyes-sub-brand-launches-acquisitions-ahead-of-fy29-30-ipo-plan/133825056",
-     "date": "2026-09-07",
-     "sector": "Consumer",
-     "country": "IN",
-     "quote": "\u2026nal business and quick commerce are \u2f00key growth drivers\u2f01."
-    },
-    {
-     "publisher": "PV Magazine",
-     "title": "Chinese PV Industry Brief: Inverter manufacturers post mixed H1 results as storage gains ground",
-     "url": "https://www.pv-magazine.com/2026/09/04/chinese-pv-industry-brief-inverter-manufacturers-post-mixed-h1-results-as-storage-gains-ground/",
-     "date": "2026-09-04",
-     "sector": "Energy",
-     "country": "DE",
-     "quote": "\u2026lts, as energy storage emerged as a \u2f00key growth driver\u2f01, offsetting weaker demand across some traditional inverter segments. The post Chinese PV Industry Brief: Inve\u2026"
-    },
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "Humanoid robot demand boosts planetary gear reducers",
-     "url": "https://www.digitimes.com/news/a20260828PD229/apex-robot-demand-market-business.html",
-     "date": "2026-08-28",
-     "sector": "Technology",
-     "country": "TW",
-     "quote": "\u2026anetary gear reducers emerging as a \u2f00key growth driver\u2f01. The company said its results for the first half of the year posted double-digit profit growth, while the red\u2026"
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-06-10",
-     "n": 0
-    },
-    {
-     "day": "2026-06-11",
-     "n": 0
-    },
-    {
-     "day": "2026-06-12",
-     "n": 0
-    },
-    {
-     "day": "2026-06-13",
-     "n": 0
-    },
-    {
-     "day": "2026-06-14",
-     "n": 0
-    },
-    {
-     "day": "2026-06-15",
-     "n": 0
-    },
-    {
-     "day": "2026-06-16",
-     "n": 0
-    },
-    {
-     "day": "2026-06-17",
-     "n": 0
-    },
-    {
-     "day": "2026-06-18",
-     "n": 0
-    },
-    {
-     "day": "2026-06-19",
-     "n": 0
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 0
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 0
-    },
-    {
-     "day": "2026-07-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 0
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 0
-    },
-    {
-     "day": "2026-08-04",
-     "n": 0
-    },
-    {
-     "day": "2026-08-05",
-     "n": 0
-    },
-    {
-     "day": "2026-08-06",
-     "n": 0
-    },
-    {
-     "day": "2026-08-07",
-     "n": 0
-    },
-    {
-     "day": "2026-08-08",
-     "n": 0
-    },
-    {
-     "day": "2026-08-09",
-     "n": 0
-    },
-    {
-     "day": "2026-08-10",
-     "n": 1
-    },
-    {
-     "day": "2026-08-11",
-     "n": 0
-    },
-    {
-     "day": "2026-08-12",
-     "n": 0
-    },
-    {
-     "day": "2026-08-13",
-     "n": 1
-    },
-    {
-     "day": "2026-08-14",
-     "n": 1
-    },
-    {
-     "day": "2026-08-15",
-     "n": 0
-    },
-    {
-     "day": "2026-08-16",
-     "n": 0
-    },
-    {
-     "day": "2026-08-17",
-     "n": 0
-    },
-    {
-     "day": "2026-08-18",
-     "n": 0
-    },
-    {
-     "day": "2026-08-19",
-     "n": 1
-    },
-    {
-     "day": "2026-08-20",
-     "n": 1
-    },
-    {
-     "day": "2026-08-21",
-     "n": 0
-    },
-    {
-     "day": "2026-08-22",
-     "n": 0
-    },
-    {
-     "day": "2026-08-23",
-     "n": 0
-    },
-    {
-     "day": "2026-08-24",
-     "n": 0
-    },
-    {
-     "day": "2026-08-25",
-     "n": 0
-    },
-    {
-     "day": "2026-08-26",
-     "n": 0
-    },
-    {
-     "day": "2026-08-27",
-     "n": 0
-    },
-    {
-     "day": "2026-08-28",
-     "n": 1
-    },
-    {
-     "day": "2026-08-29",
-     "n": 0
-    },
-    {
-     "day": "2026-08-30",
-     "n": 0
-    },
-    {
-     "day": "2026-08-31",
-     "n": 0
-    },
-    {
-     "day": "2026-09-01",
-     "n": 0
-    },
-    {
-     "day": "2026-09-02",
-     "n": 0
-    },
-    {
-     "day": "2026-09-03",
-     "n": 0
-    },
-    {
-     "day": "2026-09-04",
-     "n": 1
-    },
-    {
-     "day": "2026-09-05",
-     "n": 0
-    },
-    {
-     "day": "2026-09-06",
-     "n": 0
-    },
-    {
-     "day": "2026-09-07",
-     "n": 1
-    }
-   ],
-   "relRatio": 0.75,
-   "docFreq": 0.0002,
-   "specificity": 0.994,
-   "homeShare": 0.5,
-   "daysSeen": 3,
-   "rank": 0.608
-  },
-  {
    "id": "energy-bill",
    "term": "energy bill",
    "direction": "steady",
-   "ratio": 0.3949239113264178,
+   "ratio": 0.3948511411197978,
    "display": false,
    "adoptionSpan": 51,
    "pace": "gradual",
@@ -34718,7 +34187,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.29,
+   "relRatio": 1.26,
    "docFreq": 0.0006,
    "specificity": 0.982,
    "homeShare": 0.889,
@@ -34729,7 +34198,7 @@
    "id": "real-estate",
    "term": "real estate",
    "direction": "falling",
-   "ratio": 0.19746195566320887,
+   "ratio": 0.19742557055989893,
    "display": false,
    "adoptionSpan": 51,
    "pace": "gradual",
@@ -35498,7 +34967,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.64,
+   "relRatio": 0.63,
    "docFreq": 0.0028,
    "specificity": 0.908,
    "homeShare": 0.953,
@@ -35509,7 +34978,7 @@
    "id": "electric-truck",
    "term": "electric truck",
    "direction": "steady",
-   "ratio": 0.3949239113264178,
+   "ratio": 0.3948511411197978,
    "display": false,
    "adoptionSpan": 34,
    "pace": "gradual",
@@ -36079,7 +35548,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.29,
+   "relRatio": 1.26,
    "docFreq": 0.0006,
    "specificity": 0.982,
    "homeShare": 0.889,
@@ -36090,7 +35559,7 @@
    "id": "rooftop-solar",
    "term": "rooftop solar",
    "direction": "rising",
-   "ratio": 0.6757586927140926,
+   "ratio": 0.6756341748049873,
    "display": false,
    "adoptionSpan": 45,
    "pace": "gradual",
@@ -36686,7 +36155,7 @@
      "n": 0
     }
    ],
-   "relRatio": 2.2,
+   "relRatio": 2.16,
    "docFreq": 0.0007,
    "specificity": 0.977,
    "homeShare": 0.9,
@@ -36697,7 +36166,7 @@
    "id": "mass-production",
    "term": "mass production",
    "direction": "steady",
-   "ratio": 0.3394959939472714,
+   "ratio": 0.3394334371029841,
    "display": false,
    "adoptionSpan": 31,
    "pace": "gradual",
@@ -37386,7 +36855,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.11,
+   "relRatio": 1.08,
    "docFreq": 0.0026,
    "specificity": 0.914,
    "homeShare": 0.976,
@@ -37397,7 +36866,7 @@
    "id": "red-sea",
    "term": "red sea",
    "direction": "falling",
-   "ratio": 0.1535815210713847,
+   "ratio": 0.15355322154658804,
    "display": false,
    "adoptionSpan": 17,
    "pace": "mixed",
@@ -37983,7 +37452,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.5,
+   "relRatio": 0.49,
    "docFreq": 0.0009,
    "specificity": 0.969,
    "homeShare": 0.867,
@@ -37994,7 +37463,7 @@
    "id": "charging-network",
    "term": "charging network",
    "direction": "falling",
-   "ratio": 0.19197690133923084,
+   "ratio": 0.19194152693323505,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -38518,7 +37987,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.62,
+   "relRatio": 0.61,
    "docFreq": 0.0003,
    "specificity": 0.99,
    "homeShare": 0.8,
@@ -38529,7 +37998,7 @@
    "id": "small-modular-reactor",
    "term": "small modular reactor",
    "direction": "steady",
-   "ratio": 0.3071630421427694,
+   "ratio": 0.3071064430931761,
    "display": false,
    "adoptionSpan": 27,
    "pace": "mixed",
@@ -39147,7 +38616,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.0,
+   "relRatio": 0.98,
    "docFreq": 0.0006,
    "specificity": 0.982,
    "homeShare": 0.889,
@@ -39158,7 +38627,7 @@
    "id": "natural-gas",
    "term": "natural gas",
    "direction": "steady",
-   "ratio": 0.34953035830039275,
+   "ratio": 0.3494659524853383,
    "display": false,
    "adoptionSpan": 44,
    "pace": "gradual",
@@ -39473,7 +38942,7 @@
      "new",
      3,
      0,
-     279.5,
+     279.7,
      [
       {
        "title": "U.S. \u2f00LNG exports\u2f01 rose 23% in the first half of 2026 because of higher capacity",
@@ -39505,7 +38974,7 @@
      "rising",
      2,
      2,
-     186.3,
+     186.5,
      [
       {
        "title": "UK Poised to Approve Jackdaw Gas Field as Energy Costs Soar",
@@ -40001,7 +39470,7 @@
     "liquefied natural gas",
     "lng export"
    ],
-   "relRatio": 1.14,
+   "relRatio": 1.12,
    "docFreq": 0.002,
    "specificity": 0.932,
    "homeShare": 0.806,
@@ -40012,7 +39481,7 @@
    "id": "iran-war",
    "term": "iran war",
    "direction": "rising",
-   "ratio": 0.5375353237498464,
+   "ratio": 0.5374362754130582,
    "display": false,
    "adoptionSpan": 43,
    "pace": "gradual",
@@ -40733,7 +40202,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.75,
+   "relRatio": 1.72,
    "docFreq": 0.0017,
    "specificity": 0.943,
    "homeShare": 0.926,
@@ -40744,7 +40213,7 @@
    "id": "crude-oil",
    "term": "crude oil",
    "direction": "steady",
-   "ratio": 0.23572977652817187,
+   "ratio": 0.2356863400482514,
    "display": false,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -41401,7 +40870,7 @@
     "crude oil price",
     "petroleum product"
    ],
-   "relRatio": 0.77,
+   "relRatio": 0.75,
    "docFreq": 0.002,
    "specificity": 0.932,
    "homeShare": 0.879,
@@ -41412,7 +40881,7 @@
    "id": "nuclear-power",
    "term": "nuclear power",
    "direction": "steady",
-   "ratio": 0.3711553425891797,
+   "ratio": 0.37108695207092113,
    "display": false,
    "adoptionSpan": 51,
    "pace": "gradual",
@@ -41635,7 +41104,7 @@
      "new",
      2,
      0,
-     127.2,
+     127.3,
      [
       {
        "title": "IAEA concern over diesel supply for Zaporizhzhia generators",
@@ -42226,7 +41695,7 @@
    "variants": [
     "nuclear powered"
    ],
-   "relRatio": 1.21,
+   "relRatio": 1.18,
    "docFreq": 0.0018,
    "specificity": 0.941,
    "homeShare": 0.778,
@@ -42237,7 +41706,7 @@
    "id": "oil-price",
    "term": "oil price",
    "direction": "steady",
-   "ratio": 0.3662328579394558,
+   "ratio": 0.36616537445724845,
    "display": false,
    "adoptionSpan": 46,
    "pace": "gradual",
@@ -42516,7 +41985,7 @@
      "new",
      3,
      0,
-     198.4,
+     198.5,
      [
       {
        "title": "Elevated crack spreads and crude oil prices contribute to higher prices at the pump",
@@ -43015,7 +42484,7 @@
      "n": 1
     }
    ],
-   "relRatio": 1.19,
+   "relRatio": 1.17,
    "docFreq": 0.0019,
    "specificity": 0.937,
    "homeShare": 0.867,
@@ -43026,7 +42495,7 @@
    "id": "gold-price",
    "term": "gold price",
    "direction": "steady",
-   "ratio": 0.3071630421427694,
+   "ratio": 0.3071064430931761,
    "display": false,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -43600,7 +43069,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.0,
+   "relRatio": 0.98,
    "docFreq": 0.0004,
    "specificity": 0.986,
    "homeShare": 0.833,
@@ -43611,7 +43080,7 @@
    "id": "gas-price",
    "term": "gas price",
    "direction": "rising",
-   "ratio": 0.6143260842855387,
+   "ratio": 0.6142128861863522,
    "display": false,
    "adoptionSpan": 32,
    "pace": "gradual",
@@ -44230,7 +43699,7 @@
      "n": 0
     }
    ],
-   "relRatio": 2.0,
+   "relRatio": 1.96,
    "docFreq": 0.0006,
    "specificity": 0.98,
    "homeShare": 0.9,
@@ -44241,7 +43710,7 @@
    "id": "power-demand",
    "term": "power demand",
    "direction": "falling",
-   "ratio": 0.11813963159337283,
+   "ratio": 0.11811786272814466,
    "display": false,
    "adoptionSpan": 13,
    "pace": "mixed",
@@ -44834,7 +44303,7 @@
    "id": "heat-pump",
    "term": "heat pump",
    "direction": "steady",
-   "ratio": 0.25990718950542024,
+   "ratio": 0.2598592980019182,
    "display": false,
    "adoptionSpan": 62,
    "pace": "gradual",
@@ -45448,7 +44917,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.85,
+   "relRatio": 0.83,
    "docFreq": 0.0007,
    "specificity": 0.977,
    "homeShare": 0.818,
@@ -45459,7 +44928,7 @@
    "id": "key-hurdle",
    "term": "key hurdle",
    "direction": "rising",
-   "ratio": 0.6143260842855388,
+   "ratio": 0.6142128861863522,
    "display": false,
    "adoptionSpan": 16,
    "pace": "mixed",
@@ -45992,7 +45461,7 @@
      "n": 0
     }
    ],
-   "relRatio": 2.0,
+   "relRatio": 1.96,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.75,
@@ -46003,7 +45472,7 @@
    "id": "oil-export",
    "term": "oil export",
    "direction": "steady",
-   "ratio": 0.2513152162986295,
+   "ratio": 0.25126890798532586,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -46573,7 +46042,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.82,
+   "relRatio": 0.8,
    "docFreq": 0.0006,
    "specificity": 0.982,
    "homeShare": 0.889,
@@ -46584,7 +46053,7 @@
    "id": "critical-mineral",
    "term": "critical mineral",
    "direction": "steady",
-   "ratio": 0.31944956382848017,
+   "ratio": 0.31939070081690313,
    "display": false,
    "adoptionSpan": 54,
    "pace": "gradual",
@@ -46880,7 +46349,7 @@
      "steady",
      2,
      4,
-     88.7,
+     88.8,
      [
       {
        "title": "Vulcan targets repeatable lithium growth after Project Ludwig PFS",
@@ -47422,7 +46891,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.04,
+   "relRatio": 1.02,
    "docFreq": 0.0016,
    "specificity": 0.947,
    "homeShare": 0.739,
@@ -47433,7 +46902,7 @@
    "id": "global-energy",
    "term": "global energy",
    "direction": "steady",
-   "ratio": 0.3455584224106156,
+   "ratio": 0.3454947484798231,
    "display": false,
    "adoptionSpan": 54,
    "pace": "gradual",
@@ -48037,7 +47506,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.12,
+   "relRatio": 1.1,
    "docFreq": 0.0006,
    "specificity": 0.982,
    "homeShare": 0.667,
@@ -48048,7 +47517,7 @@
    "id": "tariff-refund",
    "term": "tariff refund",
    "direction": "steady",
-   "ratio": 0.35835688249989767,
+   "ratio": 0.35829085027537216,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -48632,7 +48101,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.17,
+   "relRatio": 1.14,
    "docFreq": 0.0004,
    "specificity": 0.986,
    "homeShare": 0.8,
@@ -48643,7 +48112,7 @@
    "id": "energy-cost",
    "term": "energy cost",
    "direction": "falling",
-   "ratio": 0.1535815210713847,
+   "ratio": 0.15355322154658807,
    "display": false,
    "adoptionSpan": 65,
    "pace": "gradual",
@@ -49203,7 +48672,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.5,
+   "relRatio": 0.49,
    "docFreq": 0.0002,
    "specificity": 0.994,
    "homeShare": 0.667,
@@ -49214,7 +48683,7 @@
    "id": "rare-earth",
    "term": "rare earth",
    "direction": "rising",
-   "ratio": 0.42234918294630786,
+   "ratio": 0.4222713592531171,
    "display": false,
    "adoptionSpan": 58,
    "pace": "gradual",
@@ -49977,7 +49446,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.37,
+   "relRatio": 1.35,
    "docFreq": 0.0014,
    "specificity": 0.955,
    "homeShare": 0.667,
@@ -49988,7 +49457,7 @@
    "id": "data-center",
    "term": "data center",
    "direction": "steady",
-   "ratio": 0.24630101521664785,
+   "ratio": 0.24625563083941984,
    "display": false,
    "adoptionSpan": 72,
    "pace": "gradual",
@@ -51046,7 +50515,7 @@
     "energy demand",
     "gas plant"
    ],
-   "relRatio": 0.8,
+   "relRatio": 0.79,
    "docFreq": 0.0159,
    "specificity": 0.47,
    "homeShare": 0.745,
@@ -51057,7 +50526,7 @@
    "id": "nuclear-reactor",
    "term": "nuclear reactor",
    "direction": "steady",
-   "ratio": 0.3071630421427694,
+   "ratio": 0.3071064430931761,
    "display": false,
    "adoptionSpan": 51,
    "pace": "gradual",
@@ -51609,7 +51078,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.0,
+   "relRatio": 0.98,
    "docFreq": 0.0004,
    "specificity": 0.986,
    "homeShare": 0.667,
@@ -51620,7 +51089,7 @@
    "id": "coast-guard",
    "term": "coast guard",
    "direction": "steady",
-   "ratio": 0.25596920178564114,
+   "ratio": 0.2559220359109801,
    "display": false,
    "adoptionSpan": 29,
    "pace": "gradual",
@@ -52225,7 +51694,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.83,
+   "relRatio": 0.82,
    "docFreq": 0.0012,
    "specificity": 0.959,
    "homeShare": 0.75,
@@ -52236,7 +51705,7 @@
    "id": "stock-exchange",
    "term": "stock exchange",
    "direction": "rising",
-   "ratio": 1.0750706474996927,
+   "ratio": 1.0748725508261163,
    "display": false,
    "adoptionSpan": 19,
    "pace": "mixed",
@@ -52822,7 +52291,7 @@
      "n": 0
     }
    ],
-   "relRatio": 3.5,
+   "relRatio": 3.43,
    "docFreq": 0.0004,
    "specificity": 0.986,
    "homeShare": 0.6,
@@ -52833,7 +52302,7 @@
    "id": "public-interest",
    "term": "public interest",
    "direction": "rising",
-   "ratio": 0.460744563214154,
+   "ratio": 0.4606596646397641,
    "display": false,
    "adoptionSpan": 27,
    "pace": "mixed",
@@ -53331,7 +52800,7 @@
      "n": 1
     }
    ],
-   "relRatio": 1.5,
+   "relRatio": 1.47,
    "docFreq": 0.0002,
    "specificity": 0.994,
    "homeShare": 0.667,
@@ -53342,7 +52811,7 @@
    "id": "large-crude-carrier",
    "term": "large crude carrier",
    "direction": "steady",
-   "ratio": 0.3071630421427694,
+   "ratio": 0.3071064430931761,
    "display": false,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -53853,7 +53322,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.0,
+   "relRatio": 0.98,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.75,
@@ -53864,7 +53333,7 @@
    "id": "fuel-supply",
    "term": "fuel supply",
    "direction": "falling",
-   "ratio": 0.17552173836729681,
+   "ratio": 0.1754893960532435,
    "display": false,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -54384,7 +53853,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.57,
+   "relRatio": 0.56,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.75,
@@ -54395,7 +53864,7 @@
    "id": "drilling-rigs",
    "term": "drilling rigs",
    "direction": "falling",
-   "ratio": 0.18429782528566163,
+   "ratio": 0.18426386585590565,
    "display": false,
    "adoptionSpan": 57,
    "pace": "gradual",
@@ -54893,7 +54362,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.6,
+   "relRatio": 0.59,
    "docFreq": 0.0002,
    "specificity": 0.994,
    "homeShare": 0.667,
@@ -54904,7 +54373,7 @@
    "id": "lng-carrier",
    "term": "lng carrier",
    "direction": "falling",
-   "ratio": 0.09214891264283082,
+   "ratio": 0.09213193292795283,
    "display": false,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -55410,7 +54879,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.3,
+   "relRatio": 0.29,
    "docFreq": 0.0002,
    "specificity": 0.994,
    "homeShare": 0.667,
@@ -55421,7 +54890,7 @@
    "id": "supply-chain",
    "term": "supply chain",
    "direction": "steady",
-   "ratio": 0.3639671663746514,
+   "ratio": 0.36390010037753057,
    "display": false,
    "adoptionSpan": 58,
    "pace": "gradual",
@@ -56283,7 +55752,7 @@
    "variants": [
     "global supply chain"
    ],
-   "relRatio": 1.18,
+   "relRatio": 1.16,
    "docFreq": 0.0106,
    "specificity": 0.646,
    "homeShare": 0.643,
@@ -56294,7 +55763,7 @@
    "id": "prices-climb",
    "term": "prices climb",
    "direction": "rising",
-   "ratio": 0.921489126428308,
+   "ratio": 0.9213193292795282,
    "display": false,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -56810,7 +56279,7 @@
      "n": 0
     }
    ],
-   "relRatio": 3.0,
+   "relRatio": 2.94,
    "docFreq": 0.0002,
    "specificity": 0.994,
    "homeShare": 0.667,
@@ -57360,7 +56829,7 @@
    "id": "middle-east",
    "term": "middle east",
    "direction": "steady",
-   "ratio": 0.30716304214276935,
+   "ratio": 0.3071064430931761,
    "display": false,
    "adoptionSpan": 57,
    "pace": "gradual",
@@ -57675,7 +57144,7 @@
      "new",
      5,
      0,
-     100.8,
+     100.9,
      [
       {
        "title": "U.S. Diesel Prices Hit All-Time High as \u2f00Global Fuel\u2f01 Squeeze Deepens",
@@ -57721,7 +57190,7 @@
      "new",
      2,
      0,
-     100.8,
+     100.9,
      [
       {
        "title": "Ryanair Warns Some Airlines Could Struggle with Jet Fuel Price Spike",
@@ -58216,7 +57685,7 @@
    "variants": [
     "middle east conflict"
    ],
-   "relRatio": 1.0,
+   "relRatio": 0.98,
    "docFreq": 0.0037,
    "specificity": 0.875,
    "homeShare": 0.559,
@@ -58227,7 +57696,7 @@
    "id": "feasibility-study",
    "term": "feasibility study",
    "direction": "steady",
-   "ratio": 0.3071630421427694,
+   "ratio": 0.3071064430931761,
    "display": false,
    "adoptionSpan": 21,
    "pace": "mixed",
@@ -58831,7 +58300,7 @@
      "n": 1
     }
    ],
-   "relRatio": 1.0,
+   "relRatio": 0.98,
    "docFreq": 0.0005,
    "specificity": 0.984,
    "homeShare": 0.5,
@@ -58842,7 +58311,7 @@
    "id": "high-energy",
    "term": "high energy",
    "direction": "steady",
-   "ratio": 0.3071630421427694,
+   "ratio": 0.3071064430931761,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -59409,7 +58878,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.0,
+   "relRatio": 0.98,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.5,
@@ -59420,7 +58889,7 @@
    "id": "energy-price",
    "term": "energy price",
    "direction": "steady",
-   "ratio": 0.3071630421427694,
+   "ratio": 0.30710644309317614,
    "display": false,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -59989,7 +59458,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.0,
+   "relRatio": 0.98,
    "docFreq": 0.0004,
    "specificity": 0.988,
    "homeShare": 0.5,
@@ -60000,7 +59469,7 @@
    "id": "effective-date",
    "term": "effective date",
    "direction": "rising",
-   "ratio": 0.6143260842855388,
+   "ratio": 0.6142128861863522,
    "display": false,
    "adoptionSpan": 21,
    "pace": "mixed",
@@ -60543,7 +60012,7 @@
      "n": 0
     }
    ],
-   "relRatio": 2.0,
+   "relRatio": 1.96,
    "docFreq": 0.0005,
    "specificity": 0.984,
    "homeShare": 0.625,
@@ -60554,7 +60023,7 @@
    "id": "industrial-property",
    "term": "industrial property",
    "direction": "rising",
-   "ratio": 0.460744563214154,
+   "ratio": 0.4606596646397641,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -61070,7 +60539,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.5,
+   "relRatio": 1.47,
    "docFreq": 0.0002,
    "specificity": 0.994,
    "homeShare": 0.667,
@@ -61081,7 +60550,7 @@
    "id": "recycling-facility",
    "term": "recycling facility",
    "direction": "rising",
-   "ratio": 0.40955072285702593,
+   "ratio": 0.4094752574575682,
    "display": false,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -61592,7 +61061,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.33,
+   "relRatio": 1.31,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.5,
@@ -61603,7 +61072,7 @@
    "id": "media-briefing",
    "term": "media briefing",
    "direction": "rising",
-   "ratio": 0.6143260842855388,
+   "ratio": 0.6142128861863523,
    "display": false,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -62136,7 +61605,7 @@
      "n": 3
     }
    ],
-   "relRatio": 2.0,
+   "relRatio": 1.96,
    "docFreq": 0.0004,
    "specificity": 0.988,
    "homeShare": 0.5,
@@ -62147,7 +61616,7 @@
    "id": "battery-pack",
    "term": "battery pack",
    "direction": "rising",
-   "ratio": 0.6143260842855388,
+   "ratio": 0.6142128861863522,
    "display": false,
    "adoptionSpan": 5,
    "pace": "simultaneous",
@@ -62654,7 +62123,7 @@
      "n": 0
     }
    ],
-   "relRatio": 2.0,
+   "relRatio": 1.96,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.5,
@@ -62665,7 +62134,7 @@
    "id": "image-prime-creative",
    "term": "image prime creative",
    "direction": "steady",
-   "ratio": 0.3071630421427694,
+   "ratio": 0.3071064430931761,
    "display": false,
    "adoptionSpan": 10,
    "pace": "mixed",
@@ -63131,7 +62600,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.0,
+   "relRatio": 0.98,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.5,
@@ -63142,7 +62611,7 @@
    "id": "power-conversion",
    "term": "power conversion",
    "direction": "steady",
-   "ratio": 0.3071630421427694,
+   "ratio": 0.3071064430931761,
    "display": false,
    "adoptionSpan": 13,
    "pace": "mixed",
@@ -63675,7 +63144,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.0,
+   "relRatio": 0.98,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.5,
@@ -63686,7 +63155,7 @@
    "id": "warning-label",
    "term": "warning label",
    "direction": "rising",
-   "ratio": 0.6143260842855388,
+   "ratio": 0.6142128861863522,
    "display": false,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -64189,7 +63658,7 @@
      "n": 0
     }
    ],
-   "relRatio": 2.0,
+   "relRatio": 1.96,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.5,
@@ -64200,7 +63669,7 @@
    "id": "storage-site",
    "term": "storage site",
    "direction": "steady",
-   "ratio": 0.24573043371421552,
+   "ratio": 0.2456851544745409,
    "display": false,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -64707,7 +64176,7 @@
      "n": 1
     }
    ],
-   "relRatio": 0.8,
+   "relRatio": 0.78,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.5,
@@ -64718,7 +64187,7 @@
    "id": "trade-route",
    "term": "trade route",
    "direction": "rising",
-   "ratio": 0.40955072285702593,
+   "ratio": 0.4094752574575682,
    "display": false,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -65229,7 +64698,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.33,
+   "relRatio": 1.31,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.5,
@@ -65240,7 +64709,7 @@
    "id": "zero-emission",
    "term": "zero emission",
    "direction": "rising",
-   "ratio": 0.5631322439284105,
+   "ratio": 0.5630284790041562,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -65419,7 +64888,7 @@
      "new",
      2,
      0,
-     559.0,
+     559.4,
      [
       {
        "title": "Yusen Terminals to invest $200 million in electrification at Port of Los Angeles",
@@ -65902,7 +65371,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.83,
+   "relRatio": 1.8,
    "docFreq": 0.0007,
    "specificity": 0.977,
    "homeShare": 0.5,
@@ -65913,7 +65382,7 @@
    "id": "solar-farm",
    "term": "solar farm",
    "direction": "steady",
-   "ratio": 0.3071630421427694,
+   "ratio": 0.3071064430931761,
    "display": false,
    "adoptionSpan": 50,
    "pace": "gradual",
@@ -66424,7 +65893,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.0,
+   "relRatio": 0.98,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.5,
@@ -66435,7 +65904,7 @@
    "id": "rizing-demand",
    "term": "rizing demand",
    "direction": "steady",
-   "ratio": 0.3071630421427694,
+   "ratio": 0.3071064430931761,
    "display": false,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -67065,7 +66534,7 @@
      "n": 1
     }
    ],
-   "relRatio": 1.0,
+   "relRatio": 0.98,
    "docFreq": 0.0006,
    "specificity": 0.982,
    "homeShare": 0.6,
@@ -67076,7 +66545,7 @@
    "id": "case-study",
    "term": "case study",
    "direction": "rising",
-   "ratio": 0.40955072285702593,
+   "ratio": 0.4094752574575682,
    "display": false,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -67605,7 +67074,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.33,
+   "relRatio": 1.31,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.5,
@@ -67616,7 +67085,7 @@
    "id": "low-carbon",
    "term": "low carbon",
    "direction": "falling",
-   "ratio": 0.20477536142851294,
+   "ratio": 0.20473762872878407,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -68223,7 +67692,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.67,
+   "relRatio": 0.65,
    "docFreq": 0.0004,
    "specificity": 0.988,
    "homeShare": 0.4,
@@ -68234,7 +67703,7 @@
    "id": "power-supply",
    "term": "power supply",
    "direction": "falling",
-   "ratio": 0.20477536142851294,
+   "ratio": 0.20473762872878407,
    "display": false,
    "adoptionSpan": 49,
    "pace": "gradual",
@@ -68815,7 +68284,7 @@
      "n": 1
     }
    ],
-   "relRatio": 0.67,
+   "relRatio": 0.65,
    "docFreq": 0.0004,
    "specificity": 0.988,
    "homeShare": 0.6,
@@ -68826,7 +68295,7 @@
    "id": "full-scale",
    "term": "full scale",
    "direction": "steady",
-   "ratio": 0.3071630421427694,
+   "ratio": 0.30710644309317614,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -69399,7 +68868,7 @@
      "n": 1
     }
    ],
-   "relRatio": 1.0,
+   "relRatio": 0.98,
    "docFreq": 0.0004,
    "specificity": 0.988,
    "homeShare": 0.6,
@@ -69410,7 +68879,7 @@
    "id": "demand-remain",
    "term": "demand remain",
    "direction": "steady",
-   "ratio": 0.24573043371421552,
+   "ratio": 0.2456851544745409,
    "display": false,
    "adoptionSpan": 9,
    "pace": "mixed",
@@ -69970,7 +69439,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.8,
+   "relRatio": 0.78,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.667,
@@ -69981,7 +69450,7 @@
    "id": "energy-crisis",
    "term": "energy crisis",
    "direction": "rising",
-   "ratio": 0.460744563214154,
+   "ratio": 0.4606596646397641,
    "display": false,
    "adoptionSpan": 32,
    "pace": "gradual",
@@ -70479,7 +69948,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.5,
+   "relRatio": 1.47,
    "docFreq": 0.0002,
    "specificity": 0.994,
    "homeShare": 0.667,
@@ -70490,7 +69959,7 @@
    "id": "advanced-nuclear",
    "term": "advanced nuclear",
    "direction": "rising",
-   "ratio": 0.921489126428308,
+   "ratio": 0.9213193292795282,
    "display": false,
    "adoptionSpan": 33,
    "pace": "gradual",
@@ -71011,7 +70480,7 @@
      "n": 0
     }
    ],
-   "relRatio": 3.0,
+   "relRatio": 2.94,
    "docFreq": 0.0004,
    "specificity": 0.988,
    "homeShare": 0.5,
@@ -71022,7 +70491,7 @@
    "id": "grid-operator",
    "term": "grid operator",
    "direction": "rising",
-   "ratio": 0.40955072285702593,
+   "ratio": 0.4094752574575682,
    "display": false,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -71547,7 +71016,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.33,
+   "relRatio": 1.31,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.667,
@@ -71558,7 +71027,7 @@
    "id": "grid-scale",
    "term": "grid scale",
    "direction": "rising",
-   "ratio": 0.9214891264283083,
+   "ratio": 0.9213193292795283,
    "display": false,
    "adoptionSpan": 37,
    "pace": "gradual",
@@ -72162,7 +71631,7 @@
      "n": 0
     }
    ],
-   "relRatio": 3.0,
+   "relRatio": 2.94,
    "docFreq": 0.0006,
    "specificity": 0.982,
    "homeShare": 0.625,
@@ -72173,7 +71642,7 @@
    "id": "oil-tanker",
    "term": "oil tanker",
    "direction": "steady",
-   "ratio": 0.24573043371421552,
+   "ratio": 0.2456851544745409,
    "display": false,
    "adoptionSpan": 40,
    "pace": "gradual",
@@ -72702,12 +72171,561 @@
      "n": 0
     }
    ],
-   "relRatio": 0.8,
+   "relRatio": 0.78,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.667,
    "daysSeen": 3,
    "rank": 0.83
+  },
+  {
+   "id": "power-station",
+   "term": "power station",
+   "direction": "rising",
+   "ratio": 0.7677661077329402,
+   "display": false,
+   "adoptionSpan": 9,
+   "pace": "mixed",
+   "kind": "concept",
+   "sectorCount": 2,
+   "effectiveSectors": 1.98,
+   "newestSector": "Energy",
+   "daysSinceNewestSector": 26,
+   "articles14d": 5,
+   "articlesPrior14d": 2,
+   "publishers": 5,
+   "events": 5,
+   "topPubShare": 0.2,
+   "sectors": [
+    {
+     "name": "Utilities",
+     "firstSeen": "2026-08-03",
+     "recent": 2,
+     "articles": 3,
+     "share": 0.5,
+     "atSectorStart": false,
+     "grip": 0.429,
+     "outlets": 3,
+     "adopt": 54,
+     "daysSince": 35
+    },
+    {
+     "name": "Energy",
+     "firstSeen": "2026-08-12",
+     "recent": 2,
+     "articles": 4,
+     "share": 0.5,
+     "atSectorStart": false,
+     "grip": 0.5,
+     "outlets": 3,
+     "adopt": 63,
+     "daysSince": 26
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "US",
+     4
+    ],
+    [
+     "DE",
+     2
+    ],
+    [
+     "GB",
+     2
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-06-10",
+     "2026-06-17",
+     "2026-06-24",
+     "2026-07-01",
+     "2026-07-08",
+     "2026-07-15",
+     "2026-07-22",
+     "2026-07-29",
+     "2026-08-05",
+     "2026-08-12",
+     "2026-08-19",
+     "2026-08-26",
+     "2026-09-02"
+    ],
+    "bands": [
+     {
+      "sector": "Energy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       2,
+       1,
+       1,
+       0
+      ]
+     },
+     {
+      "sector": "Utilities",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       2,
+       0
+      ]
+     },
+     {
+      "sector": "Real estate",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   "cooc": [],
+   "examples": [
+    {
+     "publisher": "Construction Enquirer",
+     "title": "Go-ahead for 200 council homes at Battersea \u2f00Power Station\u2f01",
+     "url": "https://www.constructionenquirer.com/2026/09/02/go-ahead-for-200-council-homes-at-battersea-power-station/",
+     "date": "2026-09-02",
+     "sector": "Real estate",
+     "country": "GB",
+     "quote": ""
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Saudi Arabia Plans To Free 1 Mb/d As it Invests in Nuclear Power",
+     "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Saudi-Arabia-Plans-To-Free-1-Mbd-As-it-Invests-in-Nuclear-Power.html",
+     "date": "2026-09-01",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "Saudi Arabia's \u2f00power stations\u2f01, desalination plants, factories and farms consume more than 1 million barrels per day of liquid fuel that the\u2026"
+    },
+    {
+     "publisher": "Energy Live News",
+     "title": "Gas-fired \u2f00power stations\u2f01 prevented the UK from shortages this summer",
+     "url": "https://www.energylivenews.com/2026/09/01/gas-fired-power-stations-prevented-the-uk-from-shortages-this-summer/",
+     "date": "2026-09-01",
+     "sector": "Utilities",
+     "country": "GB",
+     "quote": "\u2026nd still weather The post Gas-fired \u2f00power stations\u2f01 prevented the UK from shortages this summer appeared first on Energy Live News ."
+    },
+    {
+     "publisher": "POWER Magazine",
+     "title": "Hull Street Acquires Two PJM-Based \u2f00Power Stations\u2f01 from Rockland Capital",
+     "url": "https://www.powermag.com/hull-street-acquires-two-pjm-based-power-stations-from-rockland-capital/",
+     "date": "2026-08-26",
+     "sector": "Utilities",
+     "country": "US",
+     "quote": "\u2026Hull Street Acquires Two PJM-Based \u2f00Power Stations\u2f01 from Rockland Capital appeared first on POWER Magazine ."
+    },
+    {
+     "publisher": "PV Magazine",
+     "title": "40 GW project pipeline has Australia's energy transition on track",
+     "url": "https://www.pv-magazine.com/2026/08/25/40-gw-project-pipeline-has-australias-energy-transition-on-track/",
+     "date": "2026-08-25",
+     "sector": "Energy",
+     "country": "DE",
+     "quote": "\u2026ty reliability as ageing coal-fired \u2f00power stations\u2f01 retire but the market operator warns the transition depends on these projects being delivered, not just annou\u2026"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-06-10",
+     "n": 0
+    },
+    {
+     "day": "2026-06-11",
+     "n": 0
+    },
+    {
+     "day": "2026-06-12",
+     "n": 0
+    },
+    {
+     "day": "2026-06-13",
+     "n": 0
+    },
+    {
+     "day": "2026-06-14",
+     "n": 0
+    },
+    {
+     "day": "2026-06-15",
+     "n": 0
+    },
+    {
+     "day": "2026-06-16",
+     "n": 0
+    },
+    {
+     "day": "2026-06-17",
+     "n": 0
+    },
+    {
+     "day": "2026-06-18",
+     "n": 0
+    },
+    {
+     "day": "2026-06-19",
+     "n": 0
+    },
+    {
+     "day": "2026-06-20",
+     "n": 0
+    },
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 0
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-31",
+     "n": 0
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 1
+    },
+    {
+     "day": "2026-08-04",
+     "n": 0
+    },
+    {
+     "day": "2026-08-05",
+     "n": 0
+    },
+    {
+     "day": "2026-08-06",
+     "n": 0
+    },
+    {
+     "day": "2026-08-07",
+     "n": 0
+    },
+    {
+     "day": "2026-08-08",
+     "n": 0
+    },
+    {
+     "day": "2026-08-09",
+     "n": 0
+    },
+    {
+     "day": "2026-08-10",
+     "n": 0
+    },
+    {
+     "day": "2026-08-11",
+     "n": 0
+    },
+    {
+     "day": "2026-08-12",
+     "n": 2
+    },
+    {
+     "day": "2026-08-13",
+     "n": 0
+    },
+    {
+     "day": "2026-08-14",
+     "n": 0
+    },
+    {
+     "day": "2026-08-15",
+     "n": 0
+    },
+    {
+     "day": "2026-08-16",
+     "n": 0
+    },
+    {
+     "day": "2026-08-17",
+     "n": 0
+    },
+    {
+     "day": "2026-08-18",
+     "n": 0
+    },
+    {
+     "day": "2026-08-19",
+     "n": 0
+    },
+    {
+     "day": "2026-08-20",
+     "n": 0
+    },
+    {
+     "day": "2026-08-21",
+     "n": 0
+    },
+    {
+     "day": "2026-08-22",
+     "n": 0
+    },
+    {
+     "day": "2026-08-23",
+     "n": 0
+    },
+    {
+     "day": "2026-08-24",
+     "n": 0
+    },
+    {
+     "day": "2026-08-25",
+     "n": 1
+    },
+    {
+     "day": "2026-08-26",
+     "n": 1
+    },
+    {
+     "day": "2026-08-27",
+     "n": 0
+    },
+    {
+     "day": "2026-08-28",
+     "n": 0
+    },
+    {
+     "day": "2026-08-29",
+     "n": 0
+    },
+    {
+     "day": "2026-08-30",
+     "n": 0
+    },
+    {
+     "day": "2026-08-31",
+     "n": 0
+    },
+    {
+     "day": "2026-09-01",
+     "n": 2
+    },
+    {
+     "day": "2026-09-02",
+     "n": 1
+    },
+    {
+     "day": "2026-09-03",
+     "n": 0
+    },
+    {
+     "day": "2026-09-04",
+     "n": 0
+    },
+    {
+     "day": "2026-09-05",
+     "n": 0
+    },
+    {
+     "day": "2026-09-06",
+     "n": 0
+    },
+    {
+     "day": "2026-09-07",
+     "n": 0
+    }
+   ],
+   "relRatio": 2.45,
+   "docFreq": 0.0003,
+   "specificity": 0.99,
+   "homeShare": 0.5,
+   "daysSeen": 4,
+   "rank": 0.79
   }
  ]
 }
