@@ -1,14 +1,12 @@
 # Crosstalk — week ending 7 September 2026
 
-*17,477 articles over 135 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*17,498 articles over 135 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
 Nothing crossed into a new sector this week.
 
 ## Being used more than a fortnight ago
-
-**[leadership change](https://crosstalkwire.com/#leadership-change)** — 6 articles, 2.0× the fortnight before, in consumer, finance
 
 **[solar power](https://crosstalkwire.com/#solar-power)** — 10 articles, 1.7× the fortnight before, in energy, policy, utilities
 
