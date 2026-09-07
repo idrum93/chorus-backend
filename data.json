@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-07T04:19:21.594852+00:00",
+ "generated": "2026-09-07T04:41:03.460884+00:00",
  "placeWords": [
   "africa",
   "alberta",
@@ -2779,7 +2779,7 @@
  "coverage": [
   [
    "US",
-   9215
+   9216
   ],
   [
    "TW",
@@ -2807,7 +2807,7 @@
   ],
   [
    "SG",
-   543
+   544
   ],
   [
    "AU",
@@ -4071,7 +4071,7 @@
     {
      "term": "supply chain",
      "id": "supply-chain",
-     "articles": 13,
+     "articles": 14,
      "home": "Technology",
      "shown": false,
      "sectors": 9,
@@ -4151,7 +4151,7 @@
     {
      "term": "data center",
      "id": "data-center",
-     "articles": 5,
+     "articles": 6,
      "home": "Technology",
      "shown": false,
      "sectors": 11,
@@ -4382,6 +4382,374 @@
    ]
   },
   {
+   "prior14d": 30,
+   "direction": "steady",
+   "ticker": "AMZN",
+   "name": "Amazon",
+   "sector": "Technology",
+   "borrowed": [
+    "wind farm",
+    "ride hailing"
+   ],
+   "articles": 103,
+   "articles14d": 30,
+   "terms": [
+    {
+     "term": "wind farm",
+     "id": "wind-farm",
+     "articles": 2,
+     "home": "Energy",
+     "shown": true,
+     "sectors": 2,
+     "direction": "steady",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "Energy Live News",
+       "title": "Hull factory starts production of blades for world's largest \u2f00wind farm\u2f01",
+       "url": "https://www.energylivenews.com/2026/09/02/hull-factory-starts-production-of-blades-for-worlds-largest-wind-farm/",
+       "date": "2026-09-02",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "\u2026ction of blades for world's largest \u2f00wind farm\u2f01 appeared first on Energy Live News ."
+      },
+      {
+       "publisher": "Circular Online",
+       "title": "ScottishPower reports 99.9% reuse and recycling at Hagshaw Hill \u2f00wind farm\u2f01 decommissioning",
+       "url": "https://www.circularonline.co.uk/news/scottishpower-reports-99-9-reuse-and-recycling-at-hagshaw-hill/",
+       "date": "2026-09-01",
+       "sector": "Waste & water",
+       "country": "GB",
+       "quote": "\u2026ioning of the original Hagshaw Hill \u2f00wind farm\u2f01 in South Lanarkshire. According to the company, a report compiled by Mott MacDonald found that 79.5% of the m\u2026"
+      },
+      {
+       "publisher": "The Elec",
+       "title": "SK eternix Starts Commercial Operations at 99 MW Onshore \u2f00Wind Farm\u2f01",
+       "url": "https://www.thelec.net/news/articleView.html?idxno=13475",
+       "date": "2026-08-31",
+       "sector": "Technology",
+       "country": "KR",
+       "quote": "\u2026outh Korea's largest single onshore \u2f00wind farm\u2f01.SK eternix said on Aug. 31 that the 99-megawatt (MW) Hwanghaksan wind farm, built in Oksan-myeon, Uiseong-gun\u2026"
+      }
+     ]
+    },
+    {
+     "term": "ride hailing",
+     "id": "ride-hailing",
+     "articles": 1,
+     "home": "Autos",
+     "shown": true,
+     "sectors": 2,
+     "direction": "rising",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "Electrive",
+       "title": "Tesla debuts Cybercab autonomous rides",
+       "url": "https://www.electrive.com/2026/09/04/tesla-debuts-cybercab-autonomous-rides/",
+       "date": "2026-09-04",
+       "sector": "Autos",
+       "country": "DE",
+       "quote": "\u2026tric two-seaters for its driverless \u2f00ride-hailing\u2f01 service."
+      },
+      {
+       "publisher": "ET HRWorld",
+       "title": "Uber plans 10% workforce cut to trim management layers",
+       "url": "https://hr.economictimes.indiatimes.com/news/industry/uber-plans-10-workforce-cut-to-trim-management-layers/133710173",
+       "date": "2026-09-02",
+       "sector": "Labor",
+       "country": "IN",
+       "quote": "\u2026investor \u200bconcerns that autonomous \u2f00ride-hailing\u2f01 companies such as Waymo could threaten Uber's dominant North American market share."
+      },
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "Uber expands \u2f00ride-hailing\u2f01 reach across Taiwan as trips and local demand rise",
+       "url": "https://www.digitimes.com/news/a20260827PD208/uber-taiwan-demand-2026-taipei.html",
+       "date": "2026-08-27",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026ber and its partner fleets expanded \u2f00ride-hailing\u2f01 coverage in July 2026 to 19 counties and cities across Taiwan proper, underscoring how mobility platforms are\u2026"
+      }
+     ]
+    },
+    {
+     "term": "data center",
+     "id": "data-center",
+     "articles": 13,
+     "home": "Technology",
+     "shown": false,
+     "sectors": 11,
+     "direction": "steady",
+     "variants": [
+      "data center campus",
+      "data center power",
+      "data center demand",
+      "energy demand",
+      "gas plant"
+     ],
+     "examples": [
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "Chicony Power's August revenue dips as AI server and satellite demand strengthens",
+       "url": "https://www.digitimes.com/news/a20260907PD206/revenue-demand-ai-server-chicony-power-growth.html",
+       "date": "2026-09-07",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026technology supply chains and future \u2f00data center\u2f01 investment."
+      },
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "India's TCS unit secures land in Hyderabad for planned 1GW AI \u2f00data center\u2f01 campus",
+       "url": "https://www.digitimes.com/news/a20260907PR200/hyderabad-data-center-infrastructure-subsidiary-telangana.html",
+       "date": "2026-09-07",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026es in Hyderabad to build a large AI \u2f00data center\u2f01 campus capable of reaching 1GW of capacity. The project could strengthen India's role in global artificial in\u2026"
+      },
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "Taiwan-Netherlands silicon photonics team targets 1.6T DR8 in 2026, 3.2T optical links next",
+       "url": "https://www.digitimes.com/news/a20260904PD230/photonics-silicon-2026-data-center-packaging.html",
+       "date": "2026-09-06",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "AI \u2f00data center\u2f01 demand is accelerating the shift to faster optical interconnects, putting transmission speed, power efficienc\u2026"
+      }
+     ]
+    },
+    {
+     "term": "supply chain",
+     "id": "supply-chain",
+     "articles": 4,
+     "home": "Technology",
+     "shown": false,
+     "sectors": 9,
+     "direction": "steady",
+     "variants": [
+      "global supply chain"
+     ],
+     "examples": [
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "Weekly news roundup: AI memory race heats up, Taiwan manufacturing rebounds, Nexperia rift deepens",
+       "url": "https://www.digitimes.com/news/a20260907VL200/2026-micron-nexperia-samsung-taiwan.html",
+       "date": "2026-09-07",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "AI infrastructure and semiconductor \u2f00supply chains\u2f01 led reader interest this week, from Taiwan's manufacturing recovery and Nexperia's legal battle to Sandisk's\u2026"
+      },
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "Foxconn revenue climbs on AI server demand, outlook improves",
+       "url": "https://www.digitimes.com/news/a20260907PD200/foxconn-electronics-revenue-demand-sales.html",
+       "date": "2026-09-07",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026ate suggests the global electronics \u2f00supply chain\u2f01 remains supported, even as investors closely watch shifts in trade, policy, and consumer demand."
+      },
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "Chicony Power's August revenue dips as AI server and satellite demand strengthens",
+       "url": "https://www.digitimes.com/news/a20260907PD206/revenue-demand-ai-server-chicony-power-growth.html",
+       "date": "2026-09-07",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026opportunities for global technology \u2f00supply chains\u2f01 and future data center investment."
+      }
+     ]
+    },
+    {
+     "term": "tariff refund",
+     "id": "tariff-refund",
+     "articles": 2,
+     "home": "Supply chain",
+     "shown": false,
+     "sectors": 2,
+     "direction": "steady",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "Supply Chain Dive",
+       "title": "What off-price retailers are saying about \u2f00tariff refunds\u2f01",
+       "url": "https://www.supplychaindive.com/news/what-off-price-retailers-are-saying-about-tariff-refunds/829450/",
+       "date": "2026-09-03",
+       "sector": "Supply chain",
+       "country": "US",
+       "quote": ""
+      },
+      {
+       "publisher": "Supply Chain Dive",
+       "title": "Williams-Sonoma to spread \u2f00tariff refunds\u2f01 to vendors, employees",
+       "url": "https://www.supplychaindive.com/news/williams-sonoma-to-spread-tariff-refunds-to-vendors-employees/829090/",
+       "date": "2026-08-31",
+       "sector": "Supply chain",
+       "country": "US",
+       "quote": ""
+      },
+      {
+       "publisher": "CFO Dive",
+       "title": "Amazon, Target customers aim to move location of \u2f00tariff refund\u2f01 suits",
+       "url": "https://www.cfodive.com/news/amazon-target-customers-aim-move-location-tariff-refund-suits/829126/",
+       "date": "2026-08-28",
+       "sector": "Finance",
+       "country": "US",
+       "quote": "\u2026actions filed by customers seeking \u2f00tariff refunds\u2f01 from large retailers should be heard comes as the money has begun to flow back into company coffers."
+      }
+     ]
+    },
+    {
+     "term": "natural gas",
+     "id": "natural-gas",
+     "articles": 2,
+     "home": "Energy",
+     "shown": false,
+     "sectors": 4,
+     "direction": "steady",
+     "variants": [
+      "liquefied natural gas",
+      "lng export"
+     ],
+     "examples": [
+      {
+       "publisher": "OilPrice",
+       "title": "This Cattle Feedlot Turns Manure Into 1.2 Million MMBtu of \u2f00Natural Gas\u2f01 a Year",
+       "url": "https://oilprice.com/Energy/Natural-Gas/Nebraska-Cattle-Feedlot-Turns-Manure-Into-12-Million-MMBtu-of-Natural-Gas-a-Yea.html",
+       "date": "2026-09-05",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2026manure into a source of sustainable \u2f00natural gas\u2f01 for energy production and shipping fuel. The initiative just broke ground in Broken Bow, Nebraska, where eigh\u2026"
+      },
+      {
+       "publisher": "OilPrice",
+       "title": "Europe Gas Prices Head for Fourth Straight Weekly Gain",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Europe-Gas-Prices-Head-for-Fourth-Straight-Weekly-Gain.html",
+       "date": "2026-09-04",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "European benchmark \u2f00natural gas\u2f01 prices on Friday headed for their fourth consecutive weekly gain as the re-escalation in the Middle East damp\u2026"
+      },
+      {
+       "publisher": "OilPrice",
+       "title": "Turkmenistan Moves to Tackle Major Methane Leaks",
+       "url": "https://oilprice.com/Energy/Energy-General/Turkmenistan-Moves-to-Tackle-Major-Methane-Leaks.html",
+       "date": "2026-09-04",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2026sponse System (MARS) has identified \u2f00natural gas\u2f01-rich Turkmenistan as one of the world's leading sources of methane leaks. According to MARS, Turkmenistan had\u2026"
+      }
+     ]
+    },
+    {
+     "term": "mass production",
+     "id": "mass-production",
+     "articles": 1,
+     "home": "Technology",
+     "shown": false,
+     "sectors": 2,
+     "direction": "steady",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "Hanmi's 2.5D bonders pass Taiwan foundry qualification as packaging outsourcing expands",
+       "url": "https://www.digitimes.com/news/a20260904VL217/packaging-hanmi-taiwan-outsourcing-production.html",
+       "date": "2026-09-05",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026foundry after the equipment passed \u2f00mass-production\u2f01 qualification, giving the company an important production foothold as Taiwan's advanced-packaging supply chai\u2026"
+      },
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "Jmem Tek's PQC security chip nears \u2f00mass production\u2f01",
+       "url": "https://www.digitimes.com/news/a20260904PD206/jmem-technology-security-hardware-ic-design-startup.html",
+       "date": "2026-09-04",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": ""
+      },
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "Samsung SDI nears solid-state battery \u2f00mass production\u2f01, eyes China supply chain",
+       "url": "https://www.digitimes.com/news/a20260904PD225/samsung-sdi-production-supply-chain-solid-state-battery-2027.html",
+       "date": "2026-09-04",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026As Samsung SDI prepares to initiate \u2f00mass production\u2f01 of all-solid-state batteries in the second half of 2027, its supply chain strategy and upcoming moves are rap\u2026"
+      }
+     ]
+    },
+    {
+     "term": "heat pump",
+     "id": "heat-pump",
+     "articles": 1,
+     "home": "Energy",
+     "shown": false,
+     "sectors": 2,
+     "direction": "steady",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "PV Magazine",
+       "title": "Multi-source \u2f00heat pump\u2f01 test bench explores coupling with solar, thermal storage",
+       "url": "https://www.pv-magazine.com/2026/09/04/multi-source-heat-pump-test-bench-explores-coupling-with-solar-thermal-storage/",
+       "date": "2026-09-04",
+       "sector": "Energy",
+       "country": "DE",
+       "quote": "\u2026ring air-, water- and ground-source \u2f00heat pump\u2f01 operation. The experimental platform integrates solar generation and thermal energy storage. The post Multi-s\u2026"
+      },
+      {
+       "publisher": "PV Magazine",
+       "title": "Optimizing PV-driven \u2f00heat pump\u2f01 operation for homes with poor thermal insulation",
+       "url": "https://www.pv-magazine.com/2026/09/04/optimizing-pv-driven-heat-pump-operation-for-homes-with-poor-thermal-insulation/",
+       "date": "2026-09-04",
+       "sector": "Energy",
+       "country": "DE",
+       "quote": "\u2026ining rooftop PV with an air-source \u2f00heat pump\u2f01. The system could meet winter heating needs with 61 m\u00b2 of PV and achieve a payback period of about 14 years.\u2026"
+      },
+      {
+       "publisher": "PV Magazine",
+       "title": "Skyven Technologies' industrial \u2f00heat pump\u2f01 achieves COP of 8.0",
+       "url": "https://www.pv-magazine.com/2026/09/03/skyven-technologies-industrial-heat-pump-achieves-cop-of-8-0/",
+       "date": "2026-09-03",
+       "sector": "Energy",
+       "country": "DE",
+       "quote": "\u2026ost Skyven Technologies' industrial \u2f00heat pump\u2f01 achieves COP of 8.0 appeared first on pv magazine Global ."
+      }
+     ]
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "Container News",
+     "title": "CMA CGM raises Manaus low water surcharge to US$2,315 per TEU",
+     "url": "https://container-news.com/cma-cgm-raises-manaus-low-water-surcharge-to-us2315-per-teu/",
+     "sector": "Supply chain",
+     "quote": "\u2026levels affect navigation across the \u2f00Amazon\u2f01 River system. Amazon [\u2026] The post CMA CGM raises Manaus low water surcharge to US$2,315 per TEU appeared firs\u2026"
+    },
+    {
+     "publisher": "Retail Dive",
+     "title": "\u2f00Amazon\u2f01 Prime members now get free Alexa+ access",
+     "url": "https://www.retaildive.com/news/amazon-adds-perks-prime-free-alexa-access/829610/",
+     "sector": "Consumer",
+     "quote": "\u2026digit growth in Prime membership as \u2f00Amazon\u2f01 and rivals emphasize the importance of their paid membership programs."
+    },
+    {
+     "publisher": "ET Telecom",
+     "title": "Satcom spectrum fee: DCC may soon decide airwave charges, allocation terms",
+     "url": "https://telecom.economictimes.indiatimes.com/news/portal-in-portal/satcom/satcom-spectrum-fee-dcc-may-soon-decide-airwave-charges-allocation-terms/133723333",
+     "sector": "Technology",
+     "quote": "\u2026Eutelsat OneWeb, Jio Satellite and \u2f00Amazon\u2f01 Leo to enter the broadband market from the space market."
+    },
+    {
+     "publisher": "Energy Storage News",
+     "title": "\u2f00Amazon\u2f01 signs first Asia Pacific standalone battery storage tolling deal for 50MW BESS in Australia",
+     "url": "https://www.energy-storage.news/amazon-signs-first-asia-pacific-standalone-battery-storage-tolling-deal-for-50mw-bess-in-australia/",
+     "sector": "Utilities",
+     "quote": "\u2026has signed a tolling agreement with \u2f00Amazon\u2f01 Australia for the 50MW/200MWh Bairnsdale BESS in East Gippsland, Victoria."
+    }
+   ]
+  },
+  {
    "prior14d": 32,
    "direction": "steady",
    "ticker": "HYMTF",
@@ -4398,7 +4766,7 @@
     {
      "term": "electric vehicle",
      "id": "electric-vehicle",
-     "articles": 7,
+     "articles": 8,
      "home": "Technology",
      "shown": true,
      "sectors": 4,
@@ -4748,7 +5116,8 @@
    "name": "Tesla",
    "sector": "Autos",
    "borrowed": [
-    "electric vehicle"
+    "electric vehicle",
+    "solar power"
    ],
    "articles": 66,
    "articles14d": 19,
@@ -4789,6 +5158,84 @@
        "sector": "Energy",
        "country": "US",
        "quote": "\u2026-power networks, grid batteries and \u2f00electric vehicles\u2f01 accounted for 26% of combined demand for copper, lithium, nickel, cobalt, graphite and magnet rare earths in\u2026"
+      }
+     ]
+    },
+    {
+     "term": "solar power",
+     "id": "solar-power",
+     "articles": 1,
+     "home": "Energy",
+     "shown": true,
+     "sectors": 3,
+     "direction": "rising",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "Carbon Brief",
+       "title": "Analysis: UK \u2f00solar power\u2f01 hits record high over summer 2026",
+       "url": "https://www.carbonbrief.org/analysis-uk-solar-power-hits-record-high-over-summer-2026",
+       "date": "2026-09-04",
+       "sector": "Policy",
+       "country": "GB",
+       "quote": "\u2f00Solar power\u2f01 generation in the UK reached a new record over the summer of 2026, as temperatures across the nation\u2026 The pos\u2026"
+      },
+      {
+       "publisher": "The Elec",
+       "title": "SK eternix, ENlighten to Partner Across Renewable Energy Business",
+       "url": "https://www.thelec.net/news/articleView.html?idxno=13657",
+       "date": "2026-09-04",
+       "sector": "Technology",
+       "country": "KR",
+       "quote": "\u2026newable energy businesses including \u2f00solar power\u2f01.SK eternix said on Sept. 4 that it signed a memorandum of understanding (MOU) with energy climate-tech compan\u2026"
+      },
+      {
+       "publisher": "PV Magazine",
+       "title": "Solar reaches new power generation highs in Portugal in August",
+       "url": "https://www.pv-magazine.com/2026/09/03/solar-reaches-new-power-highs-in-portugal-in-august/",
+       "date": "2026-09-03",
+       "sector": "Energy",
+       "country": "DE",
+       "quote": "\u2f00Solar power\u2f01 generation in Portugal reached a record 3.85 GW in August, supported by continued growth in installed PV capa\u2026"
+      }
+     ]
+    },
+    {
+     "term": "ride hailing",
+     "id": "ride-hailing",
+     "articles": 2,
+     "home": "Autos",
+     "shown": true,
+     "sectors": 2,
+     "direction": "rising",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "Electrive",
+       "title": "Tesla debuts Cybercab autonomous rides",
+       "url": "https://www.electrive.com/2026/09/04/tesla-debuts-cybercab-autonomous-rides/",
+       "date": "2026-09-04",
+       "sector": "Autos",
+       "country": "DE",
+       "quote": "\u2026tric two-seaters for its driverless \u2f00ride-hailing\u2f01 service."
+      },
+      {
+       "publisher": "ET HRWorld",
+       "title": "Uber plans 10% workforce cut to trim management layers",
+       "url": "https://hr.economictimes.indiatimes.com/news/industry/uber-plans-10-workforce-cut-to-trim-management-layers/133710173",
+       "date": "2026-09-02",
+       "sector": "Labor",
+       "country": "IN",
+       "quote": "\u2026investor \u200bconcerns that autonomous \u2f00ride-hailing\u2f01 companies such as Waymo could threaten Uber's dominant North American market share."
+      },
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "Uber expands \u2f00ride-hailing\u2f01 reach across Taiwan as trips and local demand rise",
+       "url": "https://www.digitimes.com/news/a20260827PD208/uber-taiwan-demand-2026-taipei.html",
+       "date": "2026-08-27",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026ber and its partner fleets expanded \u2f00ride-hailing\u2f01 coverage in July 2026 to 19 counties and cities across Taiwan proper, underscoring how mobility platforms are\u2026"
       }
      ]
     },
@@ -4984,92 +5431,6 @@
        "sector": "Energy",
        "country": "DE",
        "quote": "\u2026kW. The post Eswatini, Namibia open \u2f00rooftop solar\u2f01 application portals appeared first on pv magazine Global ."
-      }
-     ]
-    },
-    {
-     "term": "supply chain",
-     "id": "supply-chain",
-     "articles": 1,
-     "home": "Technology",
-     "shown": false,
-     "sectors": 9,
-     "direction": "steady",
-     "variants": [
-      "global supply chain"
-     ],
-     "examples": [
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Weekly news roundup: AI memory race heats up, Taiwan manufacturing rebounds, Nexperia rift deepens",
-       "url": "https://www.digitimes.com/news/a20260907VL200/2026-micron-nexperia-samsung-taiwan.html",
-       "date": "2026-09-07",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "AI infrastructure and semiconductor \u2f00supply chains\u2f01 led reader interest this week, from Taiwan's manufacturing recovery and Nexperia's legal battle to Sandisk's\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Foxconn revenue climbs on AI server demand, outlook improves",
-       "url": "https://www.digitimes.com/news/a20260907PD200/foxconn-electronics-revenue-demand-sales.html",
-       "date": "2026-09-07",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026ate suggests the global electronics \u2f00supply chain\u2f01 remains supported, even as investors closely watch shifts in trade, policy, and consumer demand."
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Chicony Power's August revenue dips as AI server and satellite demand strengthens",
-       "url": "https://www.digitimes.com/news/a20260907PD206/revenue-demand-ai-server-chicony-power-growth.html",
-       "date": "2026-09-07",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026opportunities for global technology \u2f00supply chains\u2f01 and future data center investment."
-      }
-     ]
-    },
-    {
-     "term": "data center",
-     "id": "data-center",
-     "articles": 1,
-     "home": "Technology",
-     "shown": false,
-     "sectors": 11,
-     "direction": "steady",
-     "variants": [
-      "data center campus",
-      "data center power",
-      "data center demand",
-      "energy demand",
-      "gas plant"
-     ],
-     "examples": [
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Chicony Power's August revenue dips as AI server and satellite demand strengthens",
-       "url": "https://www.digitimes.com/news/a20260907PD206/revenue-demand-ai-server-chicony-power-growth.html",
-       "date": "2026-09-07",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026technology supply chains and future \u2f00data center\u2f01 investment."
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "India's TCS unit secures land in Hyderabad for planned 1GW AI \u2f00data center\u2f01 campus",
-       "url": "https://www.digitimes.com/news/a20260907PR200/hyderabad-data-center-infrastructure-subsidiary-telangana.html",
-       "date": "2026-09-07",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026es in Hyderabad to build a large AI \u2f00data center\u2f01 campus capable of reaching 1GW of capacity. The project could strengthen India's role in global artificial in\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Taiwan-Netherlands silicon photonics team targets 1.6T DR8 in 2026, 3.2T optical links next",
-       "url": "https://www.digitimes.com/news/a20260904PD230/photonics-silicon-2026-data-center-packaging.html",
-       "date": "2026-09-06",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "AI \u2f00data center\u2f01 demand is accelerating the shift to faster optical interconnects, putting transmission speed, power efficienc\u2026"
       }
      ]
     }
@@ -5471,295 +5832,6 @@
    ]
   },
   {
-   "prior14d": 30,
-   "direction": "steady",
-   "ticker": "AMZN",
-   "name": "Amazon",
-   "sector": "Technology",
-   "borrowed": [
-    "wind farm"
-   ],
-   "articles": 103,
-   "articles14d": 30,
-   "terms": [
-    {
-     "term": "wind farm",
-     "id": "wind-farm",
-     "articles": 2,
-     "home": "Energy",
-     "shown": true,
-     "sectors": 2,
-     "direction": "steady",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "Energy Live News",
-       "title": "Hull factory starts production of blades for world's largest \u2f00wind farm\u2f01",
-       "url": "https://www.energylivenews.com/2026/09/02/hull-factory-starts-production-of-blades-for-worlds-largest-wind-farm/",
-       "date": "2026-09-02",
-       "sector": "Utilities",
-       "country": "GB",
-       "quote": "\u2026ction of blades for world's largest \u2f00wind farm\u2f01 appeared first on Energy Live News ."
-      },
-      {
-       "publisher": "Circular Online",
-       "title": "ScottishPower reports 99.9% reuse and recycling at Hagshaw Hill \u2f00wind farm\u2f01 decommissioning",
-       "url": "https://www.circularonline.co.uk/news/scottishpower-reports-99-9-reuse-and-recycling-at-hagshaw-hill/",
-       "date": "2026-09-01",
-       "sector": "Waste & water",
-       "country": "GB",
-       "quote": "\u2026ioning of the original Hagshaw Hill \u2f00wind farm\u2f01 in South Lanarkshire. According to the company, a report compiled by Mott MacDonald found that 79.5% of the m\u2026"
-      },
-      {
-       "publisher": "The Elec",
-       "title": "SK eternix Starts Commercial Operations at 99 MW Onshore \u2f00Wind Farm\u2f01",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=13475",
-       "date": "2026-08-31",
-       "sector": "Technology",
-       "country": "KR",
-       "quote": "\u2026outh Korea's largest single onshore \u2f00wind farm\u2f01.SK eternix said on Aug. 31 that the 99-megawatt (MW) Hwanghaksan wind farm, built in Oksan-myeon, Uiseong-gun\u2026"
-      }
-     ]
-    },
-    {
-     "term": "data center",
-     "id": "data-center",
-     "articles": 11,
-     "home": "Technology",
-     "shown": false,
-     "sectors": 11,
-     "direction": "steady",
-     "variants": [
-      "data center campus",
-      "data center power",
-      "data center demand",
-      "energy demand",
-      "gas plant"
-     ],
-     "examples": [
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Chicony Power's August revenue dips as AI server and satellite demand strengthens",
-       "url": "https://www.digitimes.com/news/a20260907PD206/revenue-demand-ai-server-chicony-power-growth.html",
-       "date": "2026-09-07",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026technology supply chains and future \u2f00data center\u2f01 investment."
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "India's TCS unit secures land in Hyderabad for planned 1GW AI \u2f00data center\u2f01 campus",
-       "url": "https://www.digitimes.com/news/a20260907PR200/hyderabad-data-center-infrastructure-subsidiary-telangana.html",
-       "date": "2026-09-07",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026es in Hyderabad to build a large AI \u2f00data center\u2f01 campus capable of reaching 1GW of capacity. The project could strengthen India's role in global artificial in\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Taiwan-Netherlands silicon photonics team targets 1.6T DR8 in 2026, 3.2T optical links next",
-       "url": "https://www.digitimes.com/news/a20260904PD230/photonics-silicon-2026-data-center-packaging.html",
-       "date": "2026-09-06",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "AI \u2f00data center\u2f01 demand is accelerating the shift to faster optical interconnects, putting transmission speed, power efficienc\u2026"
-      }
-     ]
-    },
-    {
-     "term": "supply chain",
-     "id": "supply-chain",
-     "articles": 4,
-     "home": "Technology",
-     "shown": false,
-     "sectors": 9,
-     "direction": "steady",
-     "variants": [
-      "global supply chain"
-     ],
-     "examples": [
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Weekly news roundup: AI memory race heats up, Taiwan manufacturing rebounds, Nexperia rift deepens",
-       "url": "https://www.digitimes.com/news/a20260907VL200/2026-micron-nexperia-samsung-taiwan.html",
-       "date": "2026-09-07",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "AI infrastructure and semiconductor \u2f00supply chains\u2f01 led reader interest this week, from Taiwan's manufacturing recovery and Nexperia's legal battle to Sandisk's\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Foxconn revenue climbs on AI server demand, outlook improves",
-       "url": "https://www.digitimes.com/news/a20260907PD200/foxconn-electronics-revenue-demand-sales.html",
-       "date": "2026-09-07",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026ate suggests the global electronics \u2f00supply chain\u2f01 remains supported, even as investors closely watch shifts in trade, policy, and consumer demand."
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Chicony Power's August revenue dips as AI server and satellite demand strengthens",
-       "url": "https://www.digitimes.com/news/a20260907PD206/revenue-demand-ai-server-chicony-power-growth.html",
-       "date": "2026-09-07",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026opportunities for global technology \u2f00supply chains\u2f01 and future data center investment."
-      }
-     ]
-    },
-    {
-     "term": "tariff refund",
-     "id": "tariff-refund",
-     "articles": 2,
-     "home": "Supply chain",
-     "shown": false,
-     "sectors": 2,
-     "direction": "steady",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "Supply Chain Dive",
-       "title": "What off-price retailers are saying about \u2f00tariff refunds\u2f01",
-       "url": "https://www.supplychaindive.com/news/what-off-price-retailers-are-saying-about-tariff-refunds/829450/",
-       "date": "2026-09-03",
-       "sector": "Supply chain",
-       "country": "US",
-       "quote": ""
-      },
-      {
-       "publisher": "Supply Chain Dive",
-       "title": "Williams-Sonoma to spread \u2f00tariff refunds\u2f01 to vendors, employees",
-       "url": "https://www.supplychaindive.com/news/williams-sonoma-to-spread-tariff-refunds-to-vendors-employees/829090/",
-       "date": "2026-08-31",
-       "sector": "Supply chain",
-       "country": "US",
-       "quote": ""
-      },
-      {
-       "publisher": "CFO Dive",
-       "title": "Amazon, Target customers aim to move location of \u2f00tariff refund\u2f01 suits",
-       "url": "https://www.cfodive.com/news/amazon-target-customers-aim-move-location-tariff-refund-suits/829126/",
-       "date": "2026-08-28",
-       "sector": "Finance",
-       "country": "US",
-       "quote": "\u2026actions filed by customers seeking \u2f00tariff refunds\u2f01 from large retailers should be heard comes as the money has begun to flow back into company coffers."
-      }
-     ]
-    },
-    {
-     "term": "natural gas",
-     "id": "natural-gas",
-     "articles": 2,
-     "home": "Energy",
-     "shown": false,
-     "sectors": 4,
-     "direction": "steady",
-     "variants": [
-      "liquefied natural gas",
-      "lng export"
-     ],
-     "examples": [
-      {
-       "publisher": "OilPrice",
-       "title": "This Cattle Feedlot Turns Manure Into 1.2 Million MMBtu of \u2f00Natural Gas\u2f01 a Year",
-       "url": "https://oilprice.com/Energy/Natural-Gas/Nebraska-Cattle-Feedlot-Turns-Manure-Into-12-Million-MMBtu-of-Natural-Gas-a-Yea.html",
-       "date": "2026-09-05",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026manure into a source of sustainable \u2f00natural gas\u2f01 for energy production and shipping fuel. The initiative just broke ground in Broken Bow, Nebraska, where eigh\u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Europe Gas Prices Head for Fourth Straight Weekly Gain",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Europe-Gas-Prices-Head-for-Fourth-Straight-Weekly-Gain.html",
-       "date": "2026-09-04",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "European benchmark \u2f00natural gas\u2f01 prices on Friday headed for their fourth consecutive weekly gain as the re-escalation in the Middle East damp\u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Turkmenistan Moves to Tackle Major Methane Leaks",
-       "url": "https://oilprice.com/Energy/Energy-General/Turkmenistan-Moves-to-Tackle-Major-Methane-Leaks.html",
-       "date": "2026-09-04",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026sponse System (MARS) has identified \u2f00natural gas\u2f01-rich Turkmenistan as one of the world's leading sources of methane leaks. According to MARS, Turkmenistan had\u2026"
-      }
-     ]
-    },
-    {
-     "term": "mass production",
-     "id": "mass-production",
-     "articles": 1,
-     "home": "Technology",
-     "shown": false,
-     "sectors": 2,
-     "direction": "steady",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Hanmi's 2.5D bonders pass Taiwan foundry qualification as packaging outsourcing expands",
-       "url": "https://www.digitimes.com/news/a20260904VL217/packaging-hanmi-taiwan-outsourcing-production.html",
-       "date": "2026-09-05",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026foundry after the equipment passed \u2f00mass-production\u2f01 qualification, giving the company an important production foothold as Taiwan's advanced-packaging supply chai\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Jmem Tek's PQC security chip nears \u2f00mass production\u2f01",
-       "url": "https://www.digitimes.com/news/a20260904PD206/jmem-technology-security-hardware-ic-design-startup.html",
-       "date": "2026-09-04",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": ""
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Samsung SDI nears solid-state battery \u2f00mass production\u2f01, eyes China supply chain",
-       "url": "https://www.digitimes.com/news/a20260904PD225/samsung-sdi-production-supply-chain-solid-state-battery-2027.html",
-       "date": "2026-09-04",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026As Samsung SDI prepares to initiate \u2f00mass production\u2f01 of all-solid-state batteries in the second half of 2027, its supply chain strategy and upcoming moves are rap\u2026"
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "Container News",
-     "title": "CMA CGM raises Manaus low water surcharge to US$2,315 per TEU",
-     "url": "https://container-news.com/cma-cgm-raises-manaus-low-water-surcharge-to-us2315-per-teu/",
-     "sector": "Supply chain",
-     "quote": "\u2026levels affect navigation across the \u2f00Amazon\u2f01 River system. Amazon [\u2026] The post CMA CGM raises Manaus low water surcharge to US$2,315 per TEU appeared firs\u2026"
-    },
-    {
-     "publisher": "Retail Dive",
-     "title": "\u2f00Amazon\u2f01 Prime members now get free Alexa+ access",
-     "url": "https://www.retaildive.com/news/amazon-adds-perks-prime-free-alexa-access/829610/",
-     "sector": "Consumer",
-     "quote": "\u2026digit growth in Prime membership as \u2f00Amazon\u2f01 and rivals emphasize the importance of their paid membership programs."
-    },
-    {
-     "publisher": "ET Telecom",
-     "title": "Satcom spectrum fee: DCC may soon decide airwave charges, allocation terms",
-     "url": "https://telecom.economictimes.indiatimes.com/news/portal-in-portal/satcom/satcom-spectrum-fee-dcc-may-soon-decide-airwave-charges-allocation-terms/133723333",
-     "sector": "Technology",
-     "quote": "\u2026Eutelsat OneWeb, Jio Satellite and \u2f00Amazon\u2f01 Leo to enter the broadband market from the space market."
-    },
-    {
-     "publisher": "Energy Storage News",
-     "title": "\u2f00Amazon\u2f01 signs first Asia Pacific standalone battery storage tolling deal for 50MW BESS in Australia",
-     "url": "https://www.energy-storage.news/amazon-signs-first-asia-pacific-standalone-battery-storage-tolling-deal-for-50mw-bess-in-australia/",
-     "sector": "Utilities",
-     "quote": "\u2026has signed a tolling agreement with \u2f00Amazon\u2f01 Australia for the 50MW/200MWh Bairnsdale BESS in East Gippsland, Victoria."
-    }
-   ]
-  },
-  {
    "prior14d": 8,
    "direction": "steady",
    "ticker": "SIE.DE",
@@ -6139,7 +6211,7 @@
     {
      "term": "data center",
      "id": "data-center",
-     "articles": 10,
+     "articles": 11,
      "home": "Technology",
      "shown": false,
      "sectors": 11,
@@ -6462,6 +6534,45 @@
        "quote": "\u2026global shipping. It covers changing \u2f00trade routes\u2f01, geopolitical disruption, carrier performance, port developments and the latest shifts across liner networks.\u2026"
       }
      ]
+    },
+    {
+     "term": "low carbon",
+     "id": "low-carbon",
+     "articles": 1,
+     "home": "Technology",
+     "shown": false,
+     "sectors": 3,
+     "direction": "falling",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "Energy Live News",
+       "title": "\u2f00Low carbon\u2f01 and fossil fuels are growing in parallel",
+       "url": "https://www.energylivenews.com/2026/09/04/low-carbon-and-fossil-fuel-are-growing-in-parallel/",
+       "date": "2026-09-04",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "\u2026and solar, says new report The post \u2f00Low carbon\u2f01 and fossil fuels are growing in parallel appeared first on Energy Live News ."
+      },
+      {
+       "publisher": "PV Magazine",
+       "title": "France updates list of certified \u2f00low-carbon\u2f01 photovoltaic modules",
+       "url": "https://www.pv-magazine.com/2026/09/04/france-updates-list-of-certified-low-carbon-photovoltaic-modules/",
+       "date": "2026-09-04",
+       "sector": "Energy",
+       "country": "DE",
+       "quote": "\u2026st France updates list of certified \u2f00low-carbon\u2f01 photovoltaic modules appeared first on pv magazine Global ."
+      },
+      {
+       "publisher": "Energy Live News",
+       "title": "Carbon pricing could slash energy bills by \u00a32.3 billion",
+       "url": "https://www.energylivenews.com/2026/09/04/carbon-pricing-slashes-energy-bills-by-almost-2-3-billion/",
+       "date": "2026-09-04",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "\u2026ver part of the revenue received by \u2f00low-carbon\u2f01 generators The post Carbon pricing could slash energy bills by \u00a32.3 billion appeared first on Energy Live New\u2026"
+      }
+     ]
     }
    ],
    "examples": [
@@ -6492,6 +6603,255 @@
      "url": "https://container-news.com/cma-cgm-announces-new-fak-rates-and-surcharges-from-october/",
      "sector": "Supply chain",
      "quote": "\u2f00CMA CGM\u2f01 has announced a series of freight rate and surcharge changes across several trades, effective 1 October 2026.\u2026"
+    }
+   ]
+  },
+  {
+   "prior14d": 4,
+   "direction": "steady",
+   "ticker": "6501.T",
+   "name": "Hitachi",
+   "sector": "Industrials",
+   "borrowed": [
+    "solid state"
+   ],
+   "articles": 11,
+   "articles14d": 4,
+   "terms": [
+    {
+     "term": "solid state",
+     "id": "solid-state",
+     "articles": 1,
+     "home": "Technology",
+     "shown": true,
+     "sectors": 2,
+     "direction": "steady",
+     "variants": [
+      "solid state battery"
+     ],
+     "examples": [
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "Samsung SDI nears \u2f00solid-state\u2f01 battery mass production, eyes China supply chain",
+       "url": "https://www.digitimes.com/news/a20260904PD225/samsung-sdi-production-supply-chain-solid-state-battery-2027.html",
+       "date": "2026-09-04",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026to initiate mass production of all-\u2f00solid-state\u2f01 batteries in the second half of 2027, its supply chain strategy and upcoming moves are rapidly becoming a maj\u2026"
+      },
+      {
+       "publisher": "SCMP Business",
+       "title": "Boost for EVs: Chinese carmaker Chery to begin testing \u2f00solid-state\u2f01 batteries next year",
+       "url": "https://www.scmp.com/business/china-business/article/3366292/boost-evs-chinese-carmaker-chery-begin-testing-solid-state-batteries-next-year?utm_source=rss_feed",
+       "date": "2026-09-04",
+       "sector": "Supply chain",
+       "country": "HK",
+       "quote": "\u2026deliveries, will begin testing its \u2f00solid-state\u2f01 batteries next year, aiming to spearhead commercialisation of a technology likely to further spur the electri\u2026"
+      },
+      {
+       "publisher": "CnEVPost",
+       "title": "Chery targets 2027 vehicle validation for 400 Wh/kg all-\u2f00solid-state\u2f01 battery",
+       "url": "https://cnevpost.com/2026/09/03/chery-targets-2027-vehicle-validation-solid-state-battery/",
+       "date": "2026-09-03",
+       "sector": "Autos",
+       "country": "CN",
+       "quote": "\u2026and begin vehicle validation of all-\u2f00solid-state\u2f01 batteries in 2027. For details, please visit CnEVPost (cnev.co)."
+      }
+     ]
+    },
+    {
+     "term": "nuclear power",
+     "id": "nuclear-power",
+     "articles": 2,
+     "home": "Energy",
+     "shown": false,
+     "sectors": 3,
+     "direction": "steady",
+     "variants": [
+      "nuclear powered"
+     ],
+     "examples": [
+      {
+       "publisher": "OilPrice",
+       "title": "America Is Betting Big on a New Generation of Small Nuclear Reactors",
+       "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/America-Is-Betting-Big-on-a-New-Generation-of-Small-Nuclear-Reactors.html",
+       "date": "2026-09-05",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2026(SMRs) as part of their plans for a \u2f00nuclear power\u2f01 renaissance, with significant progress being seen in recent years. However, the United States appears to be l\u2026"
+      },
+      {
+       "publisher": "OilPrice",
+       "title": "How The U.S. Fell Behind China On \u2f00Nuclear Power\u2f01",
+       "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/How-The-US-Fell-Behind-China-On-Nuclear-Power.html",
+       "date": "2026-09-04",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2026d States is the largest producer of \u2f00nuclear power\u2f01 in the world, solely responsible for about one-third of global output. As of today, the U.S. has 96 operating\u2026"
+      },
+      {
+       "publisher": "Container News",
+       "title": "Pink Corridor project explores \u2f00nuclear-powered\u2f01 transatlantic container shipping",
+       "url": "https://container-news.com/pink-corridor-project-explores-nuclear-powered-transatlantic-container-shipping/",
+       "date": "2026-09-04",
+       "sector": "Supply chain",
+       "country": "GR",
+       "quote": "\u2026explore what is needed to operate a \u2f00nuclear-powered\u2f01 containership between the UK and US. The partners will focus on safety, security, port access and regulation.\u2026"
+      }
+     ]
+    },
+    {
+     "term": "data center",
+     "id": "data-center",
+     "articles": 2,
+     "home": "Technology",
+     "shown": false,
+     "sectors": 11,
+     "direction": "steady",
+     "variants": [
+      "data center campus",
+      "data center power",
+      "data center demand",
+      "energy demand",
+      "gas plant"
+     ],
+     "examples": [
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "Chicony Power's August revenue dips as AI server and satellite demand strengthens",
+       "url": "https://www.digitimes.com/news/a20260907PD206/revenue-demand-ai-server-chicony-power-growth.html",
+       "date": "2026-09-07",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026technology supply chains and future \u2f00data center\u2f01 investment."
+      },
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "India's TCS unit secures land in Hyderabad for planned 1GW AI \u2f00data center\u2f01 campus",
+       "url": "https://www.digitimes.com/news/a20260907PR200/hyderabad-data-center-infrastructure-subsidiary-telangana.html",
+       "date": "2026-09-07",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026es in Hyderabad to build a large AI \u2f00data center\u2f01 campus capable of reaching 1GW of capacity. The project could strengthen India's role in global artificial in\u2026"
+      },
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "Taiwan-Netherlands silicon photonics team targets 1.6T DR8 in 2026, 3.2T optical links next",
+       "url": "https://www.digitimes.com/news/a20260904PD230/photonics-silicon-2026-data-center-packaging.html",
+       "date": "2026-09-06",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "AI \u2f00data center\u2f01 demand is accelerating the shift to faster optical interconnects, putting transmission speed, power efficienc\u2026"
+      }
+     ]
+    },
+    {
+     "term": "small modular reactor",
+     "id": "small-modular-reactor",
+     "articles": 1,
+     "home": "Energy",
+     "shown": false,
+     "sectors": 2,
+     "direction": "steady",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "OilPrice",
+       "title": "America Is Betting Big on a New Generation of Small Nuclear Reactors",
+       "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/America-Is-Betting-Big-on-a-New-Generation-of-Small-Nuclear-Reactors.html",
+       "date": "2026-09-05",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2026nts worldwide are racing to develop \u2f00small modular reactors\u2f01 (SMRs) as part of their plans for a nuclear power renaissance, with significant progress being seen in recent\u2026"
+      },
+      {
+       "publisher": "World Nuclear News",
+       "title": "Siemens Energy to produce Rolls-Royce SMR turbines in the UK",
+       "url": "https://www.world-nuclear-news.org/articles/siemens-energy-to-produce-rolls-royce-smr-turbines-in-the-uk",
+       "date": "2026-09-04",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2026- for Rolls-Royce SMR's first three \u2f00small modular reactors\u2f01 at the Gwyndod project on Anglesey in North Wales, will be manufactured at Germany-based Siemens Energy's fac\u2026"
+      },
+      {
+       "publisher": "World Nuclear News",
+       "title": "Consortium formed for Swedish SMR project",
+       "url": "https://www.world-nuclear-news.org/articles/consortium-formed-for-swedish-smr-project",
+       "date": "2026-09-03",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2026s for an initial four-unit BWRX-300 \u2f00small modular reactor\u2f01 project, either at its existing licensed nuclear site in Nyk\u00f6ping or at the M\u00e5lma site in Valdemarsvik."
+      }
+     ]
+    },
+    {
+     "term": "grid scale",
+     "id": "grid-scale",
+     "articles": 1,
+     "home": "Energy",
+     "shown": false,
+     "sectors": 2,
+     "direction": "rising",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "Energy Storage News",
+       "title": "Under the hood: Inside Tesla's Megapack 3 as Texas production begins",
+       "url": "https://www.energy-storage.news/under-the-hood-inside-teslas-megapack-3-as-texas-production-begins/",
+       "date": "2026-09-04",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "\u2026esla was one of the pioneers of the \u2f00grid-scale\u2f01 battery storage market, but has faced increasing competition in the past few years. In this article we look u\u2026"
+      },
+      {
+       "publisher": "PV Magazine",
+       "title": "Texas Instruments introduces chip-level diagnostics to improve \u2f00grid-scale\u2f01 battery cell safety",
+       "url": "https://www.pv-magazine.com/2026/09/02/texas-instruments-introduces-chip-level-diagnostics-to-improve-grid-scale-battery-cell-safety/",
+       "date": "2026-09-02",
+       "sector": "Energy",
+       "country": "DE",
+       "quote": "\u2026s chip-level diagnostics to improve \u2f00grid-scale\u2f01 battery cell safety appeared first on pv magazine Global ."
+      },
+      {
+       "publisher": "PV Magazine",
+       "title": "Rooftop solar meets 99.9% of South Australia electricity demand",
+       "url": "https://www.pv-magazine.com/2026/09/02/rooftop-solar-meets-99-9-of-sa-electricity-demand/",
+       "date": "2026-09-02",
+       "sector": "Energy",
+       "country": "DE",
+       "quote": "\u2026of winter, slashing the reliance on \u2f00grid-scale\u2f01 generation. The post Rooftop solar meets 99.9% of South Australia electricity demand appeared first on pv mag\u2026"
+      }
+     ]
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "World Nuclear News",
+     "title": "Consortium formed for Swedish SMR project",
+     "url": "https://www.world-nuclear-news.org/articles/consortium-formed-for-swedish-smr-project",
+     "sector": "Energy",
+     "quote": "Studsvik has selected GE Vernova \u2f00Hitachi\u2f01 Nuclear Energy and Samsung C&T as its strategic partners for an initial four-unit BWRX-300 small modular reac\u2026"
+    },
+    {
+     "publisher": "Energy Live News",
+     "title": "Big step taken in cutting SF-6",
+     "url": "https://www.energylivenews.com/2026/09/03/big-step-taken-in-cutting-sf-6/",
+     "sector": "Utilities",
+     "quote": "\u2026nt in Germany from 2027, supporting \u2f00Hitachi\u2f01 Energy's growing range of lower-emission power grid technology The post Big step taken in cutting SF-6 appear\u2026"
+    },
+    {
+     "publisher": "POWER Magazine",
+     "title": "Studsvik Selects GE Vernova \u2f00Hitachi\u2f01, Samsung C&T for 1.2-GW Swedish BWRX-300 Project",
+     "url": "https://www.powermag.com/studsvik-selects-ge-vernova-hitachi-samsung-ct-for-1-2-gw-swedish-bwrx-300-project/",
+     "sector": "Utilities",
+     "quote": "\u2026Studsvik AB has selected GE Vernova \u2f00Hitachi\u2f01 Nuclear Energy and Samsung C&T as strategic collaborators for a proposed four-unit BWRX-300 project totaling\u2026"
+    },
+    {
+     "publisher": "Japan Industry News",
+     "title": "Mitsubishi and \u2f00Hitachi\u2f01 Partner to Enhance Power-Trading for Grid-Scale Batteries",
+     "url": "https://www.japanindustrynews.com/2026/08/mitsubishi-and-hitachi-partner-to-enhance-power-trading-for-grid-scale-batteries/",
+     "sector": "Industrials",
+     "quote": "\u2026ubishi Research Institute, Inc. and \u2f00Hitachi\u2f01, Ltd. have signed a Memorandum of Understanding to develop a cooperative framework aimed at delivering advanc\u2026"
     }
    ]
   },
@@ -6694,6 +7054,208 @@
      "url": "https://www.wardsauto.com/news/general-motors-gives-first-time-dealers-a-chance-to-turn-around-troubled-st/828323/",
      "sector": "Autos",
      "quote": ""
+    }
+   ]
+  },
+  {
+   "prior14d": 3,
+   "direction": null,
+   "ticker": "EDF.PA",
+   "name": "EDF",
+   "sector": "Utilities",
+   "borrowed": [
+    "wind farm"
+   ],
+   "articles": 14,
+   "articles14d": 3,
+   "terms": [
+    {
+     "term": "wind farm",
+     "id": "wind-farm",
+     "articles": 1,
+     "home": "Energy",
+     "shown": true,
+     "sectors": 2,
+     "direction": "steady",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "Energy Live News",
+       "title": "Hull factory starts production of blades for world's largest \u2f00wind farm\u2f01",
+       "url": "https://www.energylivenews.com/2026/09/02/hull-factory-starts-production-of-blades-for-worlds-largest-wind-farm/",
+       "date": "2026-09-02",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "\u2026ction of blades for world's largest \u2f00wind farm\u2f01 appeared first on Energy Live News ."
+      },
+      {
+       "publisher": "Circular Online",
+       "title": "ScottishPower reports 99.9% reuse and recycling at Hagshaw Hill \u2f00wind farm\u2f01 decommissioning",
+       "url": "https://www.circularonline.co.uk/news/scottishpower-reports-99-9-reuse-and-recycling-at-hagshaw-hill/",
+       "date": "2026-09-01",
+       "sector": "Waste & water",
+       "country": "GB",
+       "quote": "\u2026ioning of the original Hagshaw Hill \u2f00wind farm\u2f01 in South Lanarkshire. According to the company, a report compiled by Mott MacDonald found that 79.5% of the m\u2026"
+      },
+      {
+       "publisher": "The Elec",
+       "title": "SK eternix Starts Commercial Operations at 99 MW Onshore \u2f00Wind Farm\u2f01",
+       "url": "https://www.thelec.net/news/articleView.html?idxno=13475",
+       "date": "2026-08-31",
+       "sector": "Technology",
+       "country": "KR",
+       "quote": "\u2026outh Korea's largest single onshore \u2f00wind farm\u2f01.SK eternix said on Aug. 31 that the 99-megawatt (MW) Hwanghaksan wind farm, built in Oksan-myeon, Uiseong-gun\u2026"
+      }
+     ]
+    },
+    {
+     "term": "nuclear power",
+     "id": "nuclear-power",
+     "articles": 3,
+     "home": "Energy",
+     "shown": false,
+     "sectors": 3,
+     "direction": "steady",
+     "variants": [
+      "nuclear powered"
+     ],
+     "examples": [
+      {
+       "publisher": "OilPrice",
+       "title": "America Is Betting Big on a New Generation of Small Nuclear Reactors",
+       "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/America-Is-Betting-Big-on-a-New-Generation-of-Small-Nuclear-Reactors.html",
+       "date": "2026-09-05",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2026(SMRs) as part of their plans for a \u2f00nuclear power\u2f01 renaissance, with significant progress being seen in recent years. However, the United States appears to be l\u2026"
+      },
+      {
+       "publisher": "OilPrice",
+       "title": "How The U.S. Fell Behind China On \u2f00Nuclear Power\u2f01",
+       "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/How-The-US-Fell-Behind-China-On-Nuclear-Power.html",
+       "date": "2026-09-04",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2026d States is the largest producer of \u2f00nuclear power\u2f01 in the world, solely responsible for about one-third of global output. As of today, the U.S. has 96 operating\u2026"
+      },
+      {
+       "publisher": "Container News",
+       "title": "Pink Corridor project explores \u2f00nuclear-powered\u2f01 transatlantic container shipping",
+       "url": "https://container-news.com/pink-corridor-project-explores-nuclear-powered-transatlantic-container-shipping/",
+       "date": "2026-09-04",
+       "sector": "Supply chain",
+       "country": "GR",
+       "quote": "\u2026explore what is needed to operate a \u2f00nuclear-powered\u2f01 containership between the UK and US. The partners will focus on safety, security, port access and regulation.\u2026"
+      }
+     ]
+    },
+    {
+     "term": "low carbon",
+     "id": "low-carbon",
+     "articles": 1,
+     "home": "Technology",
+     "shown": false,
+     "sectors": 3,
+     "direction": "falling",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "Energy Live News",
+       "title": "\u2f00Low carbon\u2f01 and fossil fuels are growing in parallel",
+       "url": "https://www.energylivenews.com/2026/09/04/low-carbon-and-fossil-fuel-are-growing-in-parallel/",
+       "date": "2026-09-04",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "\u2026and solar, says new report The post \u2f00Low carbon\u2f01 and fossil fuels are growing in parallel appeared first on Energy Live News ."
+      },
+      {
+       "publisher": "PV Magazine",
+       "title": "France updates list of certified \u2f00low-carbon\u2f01 photovoltaic modules",
+       "url": "https://www.pv-magazine.com/2026/09/04/france-updates-list-of-certified-low-carbon-photovoltaic-modules/",
+       "date": "2026-09-04",
+       "sector": "Energy",
+       "country": "DE",
+       "quote": "\u2026st France updates list of certified \u2f00low-carbon\u2f01 photovoltaic modules appeared first on pv magazine Global ."
+      },
+      {
+       "publisher": "Energy Live News",
+       "title": "Carbon pricing could slash energy bills by \u00a32.3 billion",
+       "url": "https://www.energylivenews.com/2026/09/04/carbon-pricing-slashes-energy-bills-by-almost-2-3-billion/",
+       "date": "2026-09-04",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "\u2026ver part of the revenue received by \u2f00low-carbon\u2f01 generators The post Carbon pricing could slash energy bills by \u00a32.3 billion appeared first on Energy Live New\u2026"
+      }
+     ]
+    },
+    {
+     "term": "heat pump",
+     "id": "heat-pump",
+     "articles": 1,
+     "home": "Energy",
+     "shown": false,
+     "sectors": 2,
+     "direction": "steady",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "PV Magazine",
+       "title": "Multi-source \u2f00heat pump\u2f01 test bench explores coupling with solar, thermal storage",
+       "url": "https://www.pv-magazine.com/2026/09/04/multi-source-heat-pump-test-bench-explores-coupling-with-solar-thermal-storage/",
+       "date": "2026-09-04",
+       "sector": "Energy",
+       "country": "DE",
+       "quote": "\u2026ring air-, water- and ground-source \u2f00heat pump\u2f01 operation. The experimental platform integrates solar generation and thermal energy storage. The post Multi-s\u2026"
+      },
+      {
+       "publisher": "PV Magazine",
+       "title": "Optimizing PV-driven \u2f00heat pump\u2f01 operation for homes with poor thermal insulation",
+       "url": "https://www.pv-magazine.com/2026/09/04/optimizing-pv-driven-heat-pump-operation-for-homes-with-poor-thermal-insulation/",
+       "date": "2026-09-04",
+       "sector": "Energy",
+       "country": "DE",
+       "quote": "\u2026ining rooftop PV with an air-source \u2f00heat pump\u2f01. The system could meet winter heating needs with 61 m\u00b2 of PV and achieve a payback period of about 14 years.\u2026"
+      },
+      {
+       "publisher": "PV Magazine",
+       "title": "Skyven Technologies' industrial \u2f00heat pump\u2f01 achieves COP of 8.0",
+       "url": "https://www.pv-magazine.com/2026/09/03/skyven-technologies-industrial-heat-pump-achieves-cop-of-8-0/",
+       "date": "2026-09-03",
+       "sector": "Energy",
+       "country": "DE",
+       "quote": "\u2026ost Skyven Technologies' industrial \u2f00heat pump\u2f01 achieves COP of 8.0 appeared first on pv magazine Global ."
+      }
+     ]
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "Energy Storage News",
+     "title": "\u2f00EDF\u2f01 Power Solutions Australia seeks EPBC Act approval for 4GWh pumped hydro plant",
+     "url": "https://www.energy-storage.news/edf-power-solutions-australia-seeks-epbc-act-approval-for-4gwh-pumped-hydro-plant/",
+     "sector": "Utilities",
+     "quote": "\u2f00EDF\u2f01 Power Solutions Australia has referred the Wala Wala Pumped Hydro Energy Storage project, a 300-400MW facilit\u2026"
+    },
+    {
+     "publisher": "World Nuclear News",
+     "title": "Second EPR site authorised for site preparations",
+     "url": "https://www.world-nuclear-news.org/articles/second-epr-site-authorised-for-site-preparations",
+     "sector": "Energy",
+     "quote": "The French government has given \u2f00EDF\u2f01 the go-ahead to start site preparation work for the second pair of new EPR2 reactors proposed for constructio\u2026"
+    },
+    {
+     "publisher": "World Nuclear News",
+     "title": "Reactor technology selection process progresses in Netherlands",
+     "url": "https://www.world-nuclear-news.org/articles/reactor-technology-selection-process-progresses-in-netherlands",
+     "sector": "Energy",
+     "quote": "\u2f00EDF\u2f01 and Westinghouse have been awarded contracts by the Nuclear Energy Organisation of the Netherlands - the stat\u2026"
+    },
+    {
+     "publisher": "Energy Storage News",
+     "title": "US ROUNDUP: BESS projects and deals for EDP Renewables, Tucson Electric Power, and \u2f00EDF\u2f01",
+     "url": "https://www.energy-storage.news/us-roundup-bess-projects-and-deals-for-edp-renewables-tucson-electric-power-and-edf/",
+     "sector": "Utilities",
+     "quote": "\u2026ewables, Tucson Electric Power, and \u2f00EDF\u2f01 Power Solutions North America."
     }
    ]
   },
@@ -7015,6 +7577,167 @@
    ]
   },
   {
+   "prior14d": 12,
+   "direction": "steady",
+   "ticker": "7211.T",
+   "name": "Mitsubishi Motors",
+   "sector": "Autos",
+   "borrowed": [
+    "electric vehicle"
+   ],
+   "articles": 32,
+   "articles14d": 10,
+   "terms": [
+    {
+     "term": "electric vehicle",
+     "id": "electric-vehicle",
+     "articles": 4,
+     "home": "Technology",
+     "shown": true,
+     "sectors": 4,
+     "direction": "steady",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "China's power battery sector maintains strong growth momentum as global market presence expands",
+       "url": "https://www.digitimes.com/news/a20260907VL210/power-battery-growth-market-2026-byd.html",
+       "date": "2026-09-07",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026driven by rising demand across both \u2f00electric vehicles\u2f01 and stationary energy storage applications. According to the latest data from the Ministry of Industry and In\u2026"
+      },
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "China NEV imports sink as local brands crowd out foreign cars",
+       "url": "https://www.digitimes.com/news/a20260904PD208/nev-automakers-market-vehicle-2026.html",
+       "date": "2026-09-06",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026re. China imported just 125 battery \u2f00electric vehicles\u2f01 in the month, equal to only four cars a day entering the market."
+      },
+      {
+       "publisher": "OilPrice",
+       "title": "Most Critical Minerals Aren't Going to the Energy Transition",
+       "url": "https://oilprice.com/Energy/Energy-General/Most-Critical-Minerals-Arent-Going-to-the-Energy-Transition.html",
+       "date": "2026-09-06",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2026-power networks, grid batteries and \u2f00electric vehicles\u2f01 accounted for 26% of combined demand for copper, lithium, nickel, cobalt, graphite and magnet rare earths in\u2026"
+      }
+     ]
+    },
+    {
+     "term": "electric truck",
+     "id": "electric-truck",
+     "articles": 1,
+     "home": "Autos",
+     "shown": false,
+     "sectors": 2,
+     "direction": "steady",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "Electrive",
+       "title": "New York Port Authority launches $45m \u2f00electric truck\u2f01 programme",
+       "url": "https://www.electrive.com/2026/09/04/new-york-port-authority-launches-45m-electric-truck-programme/",
+       "date": "2026-09-04",
+       "sector": "Autos",
+       "country": "DE",
+       "quote": "\u2026mme to accelerate the deployment of \u2f00electric trucks\u2f01 and charging infrastructure. The scheme is in partnership with CALSTART."
+      },
+      {
+       "publisher": "Electrive",
+       "title": "UltraTech to intensify supply chain electrification with 600+ eHGVs",
+       "url": "https://www.electrive.com/2026/09/04/ultratech-to-intensify-supply-chain-electrification-with-600-ehgvs/",
+       "date": "2026-09-04",
+       "sector": "Autos",
+       "country": "DE",
+       "quote": "\u2026eration by introducing over 600 new \u2f00electric trucks\u2f01 by December 2026."
+      },
+      {
+       "publisher": "OilPrice",
+       "title": "\u2f00Electric Trucks\u2f01 Have Moved From Impossible to Inevitable",
+       "url": "https://oilprice.com/Energy/Energy-General/Electric-Trucks-Have-Moved-From-Impossible-to-Inevitable.html",
+       "date": "2026-09-03",
+       "sector": "Energy",
+       "country": "US",
+       "quote": ""
+      }
+     ]
+    },
+    {
+     "term": "grid scale",
+     "id": "grid-scale",
+     "articles": 1,
+     "home": "Energy",
+     "shown": false,
+     "sectors": 2,
+     "direction": "rising",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "Energy Storage News",
+       "title": "Under the hood: Inside Tesla's Megapack 3 as Texas production begins",
+       "url": "https://www.energy-storage.news/under-the-hood-inside-teslas-megapack-3-as-texas-production-begins/",
+       "date": "2026-09-04",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "\u2026esla was one of the pioneers of the \u2f00grid-scale\u2f01 battery storage market, but has faced increasing competition in the past few years. In this article we look u\u2026"
+      },
+      {
+       "publisher": "PV Magazine",
+       "title": "Texas Instruments introduces chip-level diagnostics to improve \u2f00grid-scale\u2f01 battery cell safety",
+       "url": "https://www.pv-magazine.com/2026/09/02/texas-instruments-introduces-chip-level-diagnostics-to-improve-grid-scale-battery-cell-safety/",
+       "date": "2026-09-02",
+       "sector": "Energy",
+       "country": "DE",
+       "quote": "\u2026s chip-level diagnostics to improve \u2f00grid-scale\u2f01 battery cell safety appeared first on pv magazine Global ."
+      },
+      {
+       "publisher": "PV Magazine",
+       "title": "Rooftop solar meets 99.9% of South Australia electricity demand",
+       "url": "https://www.pv-magazine.com/2026/09/02/rooftop-solar-meets-99-9-of-sa-electricity-demand/",
+       "date": "2026-09-02",
+       "sector": "Energy",
+       "country": "DE",
+       "quote": "\u2026of winter, slashing the reliance on \u2f00grid-scale\u2f01 generation. The post Rooftop solar meets 99.9% of South Australia electricity demand appeared first on pv mag\u2026"
+      }
+     ]
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "DigiTimes Asia",
+     "title": "Mitsubishi Heavy Industries and NEC form alliance to advance defense tech, AI sovereignty",
+     "url": "https://www.digitimes.com/news/a20260903PR203/mitsubishi-heavy-nec-industrial-defense-alliance-partnership.html",
+     "sector": "Technology",
+     "quote": ""
+    },
+    {
+     "publisher": "Just Auto",
+     "title": "Mitsubishi unveils all-new Pajero flagship SUV",
+     "url": "https://www.just-auto.com/news/mitsubishi-unveils-all-new-pajero-flagship-suv/",
+     "sector": "Autos",
+     "quote": ""
+    },
+    {
+     "publisher": "Northern Miner",
+     "title": "SW US CEO chat: Hudbay builds copper giant",
+     "url": "https://www.northernminer.com/news/sw-us-ceo-chat-hudbay-builds-copper-giant/1003894493/",
+     "sector": "Materials",
+     "quote": ""
+    },
+    {
+     "publisher": "Electrive",
+     "title": "MHI brings electric transport refrigeration to Europe for electric trucks",
+     "url": "https://www.electrive.com/2026/08/31/mhi-brings-electric-transport-refrigeration-to-europe-for-electric-trucks/",
+     "sector": "Autos",
+     "quote": ""
+    }
+   ]
+  },
+  {
    "prior14d": 4,
    "direction": "steady",
    "ticker": "ABT",
@@ -7182,169 +7905,6 @@
    ]
   },
   {
-   "prior14d": 3,
-   "direction": null,
-   "ticker": "EDF.PA",
-   "name": "EDF",
-   "sector": "Utilities",
-   "borrowed": [
-    "wind farm"
-   ],
-   "articles": 14,
-   "articles14d": 3,
-   "terms": [
-    {
-     "term": "wind farm",
-     "id": "wind-farm",
-     "articles": 1,
-     "home": "Energy",
-     "shown": true,
-     "sectors": 2,
-     "direction": "steady",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "Energy Live News",
-       "title": "Hull factory starts production of blades for world's largest \u2f00wind farm\u2f01",
-       "url": "https://www.energylivenews.com/2026/09/02/hull-factory-starts-production-of-blades-for-worlds-largest-wind-farm/",
-       "date": "2026-09-02",
-       "sector": "Utilities",
-       "country": "GB",
-       "quote": "\u2026ction of blades for world's largest \u2f00wind farm\u2f01 appeared first on Energy Live News ."
-      },
-      {
-       "publisher": "Circular Online",
-       "title": "ScottishPower reports 99.9% reuse and recycling at Hagshaw Hill \u2f00wind farm\u2f01 decommissioning",
-       "url": "https://www.circularonline.co.uk/news/scottishpower-reports-99-9-reuse-and-recycling-at-hagshaw-hill/",
-       "date": "2026-09-01",
-       "sector": "Waste & water",
-       "country": "GB",
-       "quote": "\u2026ioning of the original Hagshaw Hill \u2f00wind farm\u2f01 in South Lanarkshire. According to the company, a report compiled by Mott MacDonald found that 79.5% of the m\u2026"
-      },
-      {
-       "publisher": "The Elec",
-       "title": "SK eternix Starts Commercial Operations at 99 MW Onshore \u2f00Wind Farm\u2f01",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=13475",
-       "date": "2026-08-31",
-       "sector": "Technology",
-       "country": "KR",
-       "quote": "\u2026outh Korea's largest single onshore \u2f00wind farm\u2f01.SK eternix said on Aug. 31 that the 99-megawatt (MW) Hwanghaksan wind farm, built in Oksan-myeon, Uiseong-gun\u2026"
-      }
-     ]
-    },
-    {
-     "term": "nuclear power",
-     "id": "nuclear-power",
-     "articles": 3,
-     "home": "Energy",
-     "shown": false,
-     "sectors": 3,
-     "direction": "steady",
-     "variants": [
-      "nuclear powered"
-     ],
-     "examples": [
-      {
-       "publisher": "OilPrice",
-       "title": "America Is Betting Big on a New Generation of Small Nuclear Reactors",
-       "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/America-Is-Betting-Big-on-a-New-Generation-of-Small-Nuclear-Reactors.html",
-       "date": "2026-09-05",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026(SMRs) as part of their plans for a \u2f00nuclear power\u2f01 renaissance, with significant progress being seen in recent years. However, the United States appears to be l\u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "How The U.S. Fell Behind China On \u2f00Nuclear Power\u2f01",
-       "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/How-The-US-Fell-Behind-China-On-Nuclear-Power.html",
-       "date": "2026-09-04",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026d States is the largest producer of \u2f00nuclear power\u2f01 in the world, solely responsible for about one-third of global output. As of today, the U.S. has 96 operating\u2026"
-      },
-      {
-       "publisher": "Container News",
-       "title": "Pink Corridor project explores \u2f00nuclear-powered\u2f01 transatlantic container shipping",
-       "url": "https://container-news.com/pink-corridor-project-explores-nuclear-powered-transatlantic-container-shipping/",
-       "date": "2026-09-04",
-       "sector": "Supply chain",
-       "country": "GR",
-       "quote": "\u2026explore what is needed to operate a \u2f00nuclear-powered\u2f01 containership between the UK and US. The partners will focus on safety, security, port access and regulation.\u2026"
-      }
-     ]
-    },
-    {
-     "term": "heat pump",
-     "id": "heat-pump",
-     "articles": 1,
-     "home": "Energy",
-     "shown": false,
-     "sectors": 2,
-     "direction": "steady",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "PV Magazine",
-       "title": "Multi-source \u2f00heat pump\u2f01 test bench explores coupling with solar, thermal storage",
-       "url": "https://www.pv-magazine.com/2026/09/04/multi-source-heat-pump-test-bench-explores-coupling-with-solar-thermal-storage/",
-       "date": "2026-09-04",
-       "sector": "Energy",
-       "country": "DE",
-       "quote": "\u2026ring air-, water- and ground-source \u2f00heat pump\u2f01 operation. The experimental platform integrates solar generation and thermal energy storage. The post Multi-s\u2026"
-      },
-      {
-       "publisher": "PV Magazine",
-       "title": "Optimizing PV-driven \u2f00heat pump\u2f01 operation for homes with poor thermal insulation",
-       "url": "https://www.pv-magazine.com/2026/09/04/optimizing-pv-driven-heat-pump-operation-for-homes-with-poor-thermal-insulation/",
-       "date": "2026-09-04",
-       "sector": "Energy",
-       "country": "DE",
-       "quote": "\u2026ining rooftop PV with an air-source \u2f00heat pump\u2f01. The system could meet winter heating needs with 61 m\u00b2 of PV and achieve a payback period of about 14 years.\u2026"
-      },
-      {
-       "publisher": "PV Magazine",
-       "title": "Skyven Technologies' industrial \u2f00heat pump\u2f01 achieves COP of 8.0",
-       "url": "https://www.pv-magazine.com/2026/09/03/skyven-technologies-industrial-heat-pump-achieves-cop-of-8-0/",
-       "date": "2026-09-03",
-       "sector": "Energy",
-       "country": "DE",
-       "quote": "\u2026ost Skyven Technologies' industrial \u2f00heat pump\u2f01 achieves COP of 8.0 appeared first on pv magazine Global ."
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "Energy Storage News",
-     "title": "\u2f00EDF\u2f01 Power Solutions Australia seeks EPBC Act approval for 4GWh pumped hydro plant",
-     "url": "https://www.energy-storage.news/edf-power-solutions-australia-seeks-epbc-act-approval-for-4gwh-pumped-hydro-plant/",
-     "sector": "Utilities",
-     "quote": "\u2f00EDF\u2f01 Power Solutions Australia has referred the Wala Wala Pumped Hydro Energy Storage project, a 300-400MW facilit\u2026"
-    },
-    {
-     "publisher": "World Nuclear News",
-     "title": "Second EPR site authorised for site preparations",
-     "url": "https://www.world-nuclear-news.org/articles/second-epr-site-authorised-for-site-preparations",
-     "sector": "Energy",
-     "quote": "The French government has given \u2f00EDF\u2f01 the go-ahead to start site preparation work for the second pair of new EPR2 reactors proposed for constructio\u2026"
-    },
-    {
-     "publisher": "World Nuclear News",
-     "title": "Reactor technology selection process progresses in Netherlands",
-     "url": "https://www.world-nuclear-news.org/articles/reactor-technology-selection-process-progresses-in-netherlands",
-     "sector": "Energy",
-     "quote": "\u2f00EDF\u2f01 and Westinghouse have been awarded contracts by the Nuclear Energy Organisation of the Netherlands - the stat\u2026"
-    },
-    {
-     "publisher": "Energy Storage News",
-     "title": "US ROUNDUP: BESS projects and deals for EDP Renewables, Tucson Electric Power, and \u2f00EDF\u2f01",
-     "url": "https://www.energy-storage.news/us-roundup-bess-projects-and-deals-for-edp-renewables-tucson-electric-power-and-edf/",
-     "sector": "Utilities",
-     "quote": "\u2026ewables, Tucson Electric Power, and \u2f00EDF\u2f01 Power Solutions North America."
-    }
-   ]
-  },
-  {
    "prior14d": 1,
    "direction": null,
    "ticker": "D",
@@ -7507,128 +8067,6 @@
      "title": "Virginia regulators order \u2f00Dominion Energy\u2f01 to directly assign transmission costs to data centers",
      "url": "https://www.datacenterdynamics.com/en/news/virginia-regulators-order-dominion-energy-to-directly-assign-transmission-costs-to-data-centers/",
      "sector": "Technology",
-     "quote": ""
-    }
-   ]
-  },
-  {
-   "prior14d": 12,
-   "direction": "steady",
-   "ticker": "7211.T",
-   "name": "Mitsubishi Motors",
-   "sector": "Autos",
-   "borrowed": [
-    "electric vehicle"
-   ],
-   "articles": 32,
-   "articles14d": 10,
-   "terms": [
-    {
-     "term": "electric vehicle",
-     "id": "electric-vehicle",
-     "articles": 4,
-     "home": "Technology",
-     "shown": true,
-     "sectors": 4,
-     "direction": "steady",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "China's power battery sector maintains strong growth momentum as global market presence expands",
-       "url": "https://www.digitimes.com/news/a20260907VL210/power-battery-growth-market-2026-byd.html",
-       "date": "2026-09-07",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026driven by rising demand across both \u2f00electric vehicles\u2f01 and stationary energy storage applications. According to the latest data from the Ministry of Industry and In\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "China NEV imports sink as local brands crowd out foreign cars",
-       "url": "https://www.digitimes.com/news/a20260904PD208/nev-automakers-market-vehicle-2026.html",
-       "date": "2026-09-06",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026re. China imported just 125 battery \u2f00electric vehicles\u2f01 in the month, equal to only four cars a day entering the market."
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Most Critical Minerals Aren't Going to the Energy Transition",
-       "url": "https://oilprice.com/Energy/Energy-General/Most-Critical-Minerals-Arent-Going-to-the-Energy-Transition.html",
-       "date": "2026-09-06",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026-power networks, grid batteries and \u2f00electric vehicles\u2f01 accounted for 26% of combined demand for copper, lithium, nickel, cobalt, graphite and magnet rare earths in\u2026"
-      }
-     ]
-    },
-    {
-     "term": "electric truck",
-     "id": "electric-truck",
-     "articles": 1,
-     "home": "Autos",
-     "shown": false,
-     "sectors": 2,
-     "direction": "steady",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "Electrive",
-       "title": "New York Port Authority launches $45m \u2f00electric truck\u2f01 programme",
-       "url": "https://www.electrive.com/2026/09/04/new-york-port-authority-launches-45m-electric-truck-programme/",
-       "date": "2026-09-04",
-       "sector": "Autos",
-       "country": "DE",
-       "quote": "\u2026mme to accelerate the deployment of \u2f00electric trucks\u2f01 and charging infrastructure. The scheme is in partnership with CALSTART."
-      },
-      {
-       "publisher": "Electrive",
-       "title": "UltraTech to intensify supply chain electrification with 600+ eHGVs",
-       "url": "https://www.electrive.com/2026/09/04/ultratech-to-intensify-supply-chain-electrification-with-600-ehgvs/",
-       "date": "2026-09-04",
-       "sector": "Autos",
-       "country": "DE",
-       "quote": "\u2026eration by introducing over 600 new \u2f00electric trucks\u2f01 by December 2026."
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "\u2f00Electric Trucks\u2f01 Have Moved From Impossible to Inevitable",
-       "url": "https://oilprice.com/Energy/Energy-General/Electric-Trucks-Have-Moved-From-Impossible-to-Inevitable.html",
-       "date": "2026-09-03",
-       "sector": "Energy",
-       "country": "US",
-       "quote": ""
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "Mitsubishi Heavy Industries and NEC form alliance to advance defense tech, AI sovereignty",
-     "url": "https://www.digitimes.com/news/a20260903PR203/mitsubishi-heavy-nec-industrial-defense-alliance-partnership.html",
-     "sector": "Technology",
-     "quote": ""
-    },
-    {
-     "publisher": "Just Auto",
-     "title": "Mitsubishi unveils all-new Pajero flagship SUV",
-     "url": "https://www.just-auto.com/news/mitsubishi-unveils-all-new-pajero-flagship-suv/",
-     "sector": "Autos",
-     "quote": ""
-    },
-    {
-     "publisher": "Northern Miner",
-     "title": "SW US CEO chat: Hudbay builds copper giant",
-     "url": "https://www.northernminer.com/news/sw-us-ceo-chat-hudbay-builds-copper-giant/1003894493/",
-     "sector": "Materials",
-     "quote": ""
-    },
-    {
-     "publisher": "Electrive",
-     "title": "MHI brings electric transport refrigeration to Europe for electric trucks",
-     "url": "https://www.electrive.com/2026/08/31/mhi-brings-electric-transport-refrigeration-to-europe-for-electric-trucks/",
-     "sector": "Autos",
      "quote": ""
     }
    ]
@@ -7803,6 +8241,45 @@
        "sector": "Energy",
        "country": "US",
        "quote": "\u2026-power networks, grid batteries and \u2f00electric vehicles\u2f01 accounted for 26% of combined demand for copper, lithium, nickel, cobalt, graphite and magnet rare earths in\u2026"
+      }
+     ]
+    },
+    {
+     "term": "zero emission",
+     "id": "zero-emission",
+     "articles": 1,
+     "home": "Supply chain",
+     "shown": false,
+     "sectors": 2,
+     "direction": "rising",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "OilPrice",
+       "title": "Oil-Rich Oman Bets Big on Renewable Energy",
+       "url": "https://oilprice.com/Energy/Energy-General/Oil-Rich-Oman-Bets-Big-on-Renewable-Energy.html",
+       "date": "2026-09-06",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2026and Minerals launched a revised net-\u2f00zero emissions\u2f01 strategy and a carbon markets regulatory framework as part of the government's aims to achieve net-zero carbo\u2026"
+      },
+      {
+       "publisher": "Container News",
+       "title": "Port of NY/NJ launches \u2f00zero-emission\u2f01 truck and charging incentive programmes",
+       "url": "https://container-news.com/port-of-ny-nj-launches-zero-emission-truck-and-charging-incentive-programmes/",
+       "date": "2026-09-05",
+       "sector": "Supply chain",
+       "country": "GR",
+       "quote": "\u2026llion to accelerate the adoption of \u2f00zero-emission\u2f01 drayage trucks, terminal tractors and supporting charging infrastructure at the Port of New York and New Jers\u2026"
+      },
+      {
+       "publisher": "OilPrice",
+       "title": "Electric Trucks Have Moved From Impossible to Inevitable",
+       "url": "https://oilprice.com/Energy/Energy-General/Electric-Trucks-Have-Moved-From-Impossible-to-Inevitable.html",
+       "date": "2026-09-03",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2026different verdict. Global sales of \u2f00zero-emission\u2f01 medium- and heavy-duty vehicles rose 86% in 2025,\u2026"
       }
      ]
     }
@@ -23031,15 +23508,15 @@
   ]
  },
  "daysCollected": 135,
- "articlesStored": 17290,
- "articlesLive": 13513,
+ "articlesStored": 17292,
+ "articlesLive": 13515,
  "windowDays": 90,
  "terms": [
   {
    "id": "iron-ore",
    "term": "iron ore",
    "direction": "steady",
-   "ratio": 0.35829085027537216,
+   "ratio": 0.35824684230997567,
    "display": true,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -23628,7 +24105,7 @@
    "id": "clean-energy",
    "term": "clean energy",
    "direction": "steady",
-   "ratio": 0.26323409407986526,
+   "ratio": 0.26320176169712495,
    "display": true,
    "adoptionSpan": 58,
    "pace": "gradual",
@@ -24503,7 +24980,7 @@
    "id": "utility-scale",
    "term": "utility scale",
    "direction": "steady",
-   "ratio": 0.2388605668502481,
+   "ratio": 0.23883122820665043,
    "display": true,
    "adoptionSpan": 32,
    "pace": "gradual",
@@ -24642,7 +25119,7 @@
      "rising",
      3,
      4,
-     232.7,
+     232.8,
      [
       {
        "title": "US utility-scale \u2f00battery energy storage\u2f01 capacity almost doubled during first 18 months of Trump's second term",
@@ -25112,7 +25589,7 @@
    "id": "solar-power",
    "term": "solar power",
    "direction": "rising",
-   "ratio": 0.5118440718219602,
+   "ratio": 0.5117812032999652,
    "display": true,
    "adoptionSpan": 58,
    "pace": "gradual",
@@ -25783,7 +26260,7 @@
    "id": "digital-twin",
    "term": "digital twin",
    "direction": "steady",
-   "ratio": 0.3071064430931761,
+   "ratio": 0.30706872197997914,
    "display": true,
    "adoptionSpan": 14,
    "pace": "mixed",
@@ -26443,7 +26920,7 @@
    "id": "battery-cell",
    "term": "battery cell",
    "direction": "falling",
-   "ratio": 0.18426386585590565,
+   "ratio": 0.18424123318798746,
    "display": true,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -27049,7 +27526,7 @@
    "id": "wind-farm",
    "term": "wind farm",
    "direction": "steady",
-   "ratio": 0.35829085027537216,
+   "ratio": 0.35824684230997567,
    "display": true,
    "adoptionSpan": 16,
    "pace": "mixed",
@@ -27659,7 +28136,7 @@
    "id": "precious-metal",
    "term": "precious metal",
    "direction": "steady",
-   "ratio": 0.350978792106487,
+   "ratio": 0.35093568226283334,
    "display": true,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -28279,7 +28756,7 @@
    "id": "electricity-demand",
    "term": "electricity demand",
    "direction": "steady",
-   "ratio": 0.3629439782010263,
+   "ratio": 0.36289939870361165,
    "display": true,
    "adoptionSpan": 51,
    "pace": "gradual",
@@ -28434,7 +28911,7 @@
      "new",
      3,
      0,
-     73.4,
+     73.5,
      [
       {
        "title": "Saudi Arabia Plans To Free 1 Mb/d As it Invests in \u2f00Nuclear Power\u2f01",
@@ -28947,7 +29424,7 @@
    "id": "solid-state",
    "term": "solid state",
    "direction": "steady",
-   "ratio": 0.25126890798532586,
+   "ratio": 0.2512380452563465,
    "display": true,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -29619,7 +30096,7 @@
    "id": "ride-hailing",
    "term": "ride hailing",
    "direction": "rising",
-   "ratio": 1.5355322154658804,
+   "ratio": 1.5353436098998956,
    "display": true,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -30194,7 +30671,7 @@
    "id": "fossil-fuel",
    "term": "fossil fuel",
    "direction": "steady",
-   "ratio": 0.3071064430931761,
+   "ratio": 0.30706872197997914,
    "display": true,
    "adoptionSpan": 44,
    "pace": "gradual",
@@ -30912,7 +31389,7 @@
    "id": "raw-material",
    "term": "raw material",
    "direction": "steady",
-   "ratio": 0.23032983231988208,
+   "ratio": 0.23030154148498436,
    "display": true,
    "adoptionSpan": 48,
    "pace": "gradual",
@@ -31121,7 +31598,7 @@
      "new",
      2,
      0,
-     683.7,
+     684.0,
      [
       {
        "title": "South Korea-India joint venture opens \u2f00semiconductor materials plant\u2f01, targets China-free supply chain",
@@ -31599,7 +32076,7 @@
    "id": "carbon-dioxide",
    "term": "carbon dioxide",
    "direction": "rising",
-   "ratio": 0.5118440718219602,
+   "ratio": 0.5117812032999652,
    "display": true,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -32217,7 +32694,7 @@
    "id": "grid-connection",
    "term": "grid connection",
    "direction": "falling",
-   "ratio": 0.19194152693323505,
+   "ratio": 0.19191795123748695,
    "display": true,
    "adoptionSpan": 15,
    "pace": "mixed",
@@ -32804,7 +33281,7 @@
    "id": "electric-vehicle",
    "term": "electric vehicle",
    "direction": "steady",
-   "ratio": 0.2586159520784641,
+   "ratio": 0.2585841869305088,
    "display": true,
    "adoptionSpan": 39,
    "pace": "gradual",
@@ -33613,7 +34090,7 @@
    "id": "energy-bill",
    "term": "energy bill",
    "direction": "steady",
-   "ratio": 0.3948511411197978,
+   "ratio": 0.3948026425456874,
    "display": false,
    "adoptionSpan": 51,
    "pace": "gradual",
@@ -34198,7 +34675,7 @@
    "id": "real-estate",
    "term": "real estate",
    "direction": "falling",
-   "ratio": 0.19742557055989893,
+   "ratio": 0.1974013212728437,
    "display": false,
    "adoptionSpan": 51,
    "pace": "gradual",
@@ -34978,7 +35455,7 @@
    "id": "electric-truck",
    "term": "electric truck",
    "direction": "steady",
-   "ratio": 0.3948511411197978,
+   "ratio": 0.3948026425456874,
    "display": false,
    "adoptionSpan": 34,
    "pace": "gradual",
@@ -35559,7 +36036,7 @@
    "id": "rooftop-solar",
    "term": "rooftop solar",
    "direction": "rising",
-   "ratio": 0.6756341748049873,
+   "ratio": 0.675551188355954,
    "display": false,
    "adoptionSpan": 45,
    "pace": "gradual",
@@ -36166,7 +36643,7 @@
    "id": "mass-production",
    "term": "mass production",
    "direction": "steady",
-   "ratio": 0.3394334371029841,
+   "ratio": 0.3393917453462927,
    "display": false,
    "adoptionSpan": 31,
    "pace": "gradual",
@@ -36866,7 +37343,7 @@
    "id": "red-sea",
    "term": "red sea",
    "direction": "falling",
-   "ratio": 0.15355322154658804,
+   "ratio": 0.15353436098998957,
    "display": false,
    "adoptionSpan": 17,
    "pace": "mixed",
@@ -37463,7 +37940,7 @@
    "id": "charging-network",
    "term": "charging network",
    "direction": "falling",
-   "ratio": 0.19194152693323505,
+   "ratio": 0.19191795123748695,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -37998,7 +38475,7 @@
    "id": "small-modular-reactor",
    "term": "small modular reactor",
    "direction": "steady",
-   "ratio": 0.3071064430931761,
+   "ratio": 0.30706872197997914,
    "display": false,
    "adoptionSpan": 27,
    "pace": "mixed",
@@ -38137,7 +38614,7 @@
      "new",
      4,
      0,
-     70.7,
+     70.8,
      [
       {
        "title": "America Is Betting Big on a New Generation of Small Nuclear Reactors",
@@ -38627,7 +39104,7 @@
    "id": "natural-gas",
    "term": "natural gas",
    "direction": "steady",
-   "ratio": 0.3494659524853383,
+   "ratio": 0.34942302845997625,
    "display": false,
    "adoptionSpan": 44,
    "pace": "gradual",
@@ -38942,7 +39419,7 @@
      "new",
      3,
      0,
-     279.7,
+     279.8,
      [
       {
        "title": "U.S. \u2f00LNG exports\u2f01 rose 23% in the first half of 2026 because of higher capacity",
@@ -39481,7 +39958,7 @@
    "id": "iran-war",
    "term": "iran war",
    "direction": "rising",
-   "ratio": 0.5374362754130582,
+   "ratio": 0.5373702634649634,
    "display": false,
    "adoptionSpan": 43,
    "pace": "gradual",
@@ -40213,7 +40690,7 @@
    "id": "crude-oil",
    "term": "crude oil",
    "direction": "steady",
-   "ratio": 0.2356863400482514,
+   "ratio": 0.2356573912869607,
    "display": false,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -40881,7 +41358,7 @@
    "id": "nuclear-power",
    "term": "nuclear power",
    "direction": "steady",
-   "ratio": 0.37108695207092113,
+   "ratio": 0.3710413723924748,
    "display": false,
    "adoptionSpan": 51,
    "pace": "gradual",
@@ -41104,7 +41581,7 @@
      "new",
      2,
      0,
-     127.3,
+     127.4,
      [
       {
        "title": "IAEA concern over diesel supply for Zaporizhzhia generators",
@@ -41129,7 +41606,7 @@
      "new",
      3,
      0,
-     73.4,
+     73.5,
      [
       {
        "title": "Saudi Arabia Plans To Free 1 Mb/d As it Invests in Nuclear Power",
@@ -41161,7 +41638,7 @@
      "new",
      4,
      0,
-     70.7,
+     70.8,
      [
       {
        "title": "America Is Betting Big on a New Generation of Small Nuclear Reactors",
@@ -41706,7 +42183,7 @@
    "id": "oil-price",
    "term": "oil price",
    "direction": "steady",
-   "ratio": 0.36616537445724845,
+   "ratio": 0.3661203992838213,
    "display": false,
    "adoptionSpan": 46,
    "pace": "gradual",
@@ -41985,7 +42462,7 @@
      "new",
      3,
      0,
-     198.5,
+     198.6,
      [
       {
        "title": "Elevated crack spreads and crude oil prices contribute to higher prices at the pump",
@@ -42495,7 +42972,7 @@
    "id": "gold-price",
    "term": "gold price",
    "direction": "steady",
-   "ratio": 0.3071064430931761,
+   "ratio": 0.30706872197997914,
    "display": false,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -43080,7 +43557,7 @@
    "id": "gas-price",
    "term": "gas price",
    "direction": "rising",
-   "ratio": 0.6142128861863522,
+   "ratio": 0.6141374439599583,
    "display": false,
    "adoptionSpan": 32,
    "pace": "gradual",
@@ -43710,7 +44187,7 @@
    "id": "power-demand",
    "term": "power demand",
    "direction": "falling",
-   "ratio": 0.11811786272814466,
+   "ratio": 0.11810335460768429,
    "display": false,
    "adoptionSpan": 13,
    "pace": "mixed",
@@ -44303,7 +44780,7 @@
    "id": "heat-pump",
    "term": "heat pump",
    "direction": "steady",
-   "ratio": 0.2598592980019182,
+   "ratio": 0.25982738013690543,
    "display": false,
    "adoptionSpan": 62,
    "pace": "gradual",
@@ -44928,7 +45405,7 @@
    "id": "key-hurdle",
    "term": "key hurdle",
    "direction": "rising",
-   "ratio": 0.6142128861863522,
+   "ratio": 0.6141374439599583,
    "display": false,
    "adoptionSpan": 16,
    "pace": "mixed",
@@ -45472,7 +45949,7 @@
    "id": "oil-export",
    "term": "oil export",
    "direction": "steady",
-   "ratio": 0.25126890798532586,
+   "ratio": 0.2512380452563465,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -46053,7 +46530,7 @@
    "id": "critical-mineral",
    "term": "critical mineral",
    "direction": "steady",
-   "ratio": 0.31939070081690313,
+   "ratio": 0.31935147085917825,
    "display": false,
    "adoptionSpan": 54,
    "pace": "gradual",
@@ -46296,7 +46773,7 @@
      "rising",
      6,
      4,
-     96.8,
+     96.9,
      [
       {
        "title": "Most Critical Minerals Aren't Going to the Energy Transition",
@@ -46902,7 +47379,7 @@
    "id": "global-energy",
    "term": "global energy",
    "direction": "steady",
-   "ratio": 0.3454947484798231,
+   "ratio": 0.34545231222747647,
    "display": false,
    "adoptionSpan": 54,
    "pace": "gradual",
@@ -47517,7 +47994,7 @@
    "id": "tariff-refund",
    "term": "tariff refund",
    "direction": "steady",
-   "ratio": 0.35829085027537216,
+   "ratio": 0.35824684230997567,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -48112,7 +48589,7 @@
    "id": "energy-cost",
    "term": "energy cost",
    "direction": "falling",
-   "ratio": 0.15355322154658807,
+   "ratio": 0.15353436098998957,
    "display": false,
    "adoptionSpan": 65,
    "pace": "gradual",
@@ -48683,7 +49160,7 @@
    "id": "rare-earth",
    "term": "rare earth",
    "direction": "rising",
-   "ratio": 0.4222713592531171,
+   "ratio": 0.4222194927224712,
    "display": false,
    "adoptionSpan": 58,
    "pace": "gradual",
@@ -48926,7 +49403,7 @@
      "rising",
      6,
      4,
-     96.8,
+     96.9,
      [
       {
        "title": "Most \u2f00Critical Minerals\u2f01 Aren't Going to the Energy Transition",
@@ -49457,7 +49934,7 @@
    "id": "data-center",
    "term": "data center",
    "direction": "steady",
-   "ratio": 0.24625563083941984,
+   "ratio": 0.2462253838786829,
    "display": false,
    "adoptionSpan": 72,
    "pace": "gradual",
@@ -49892,7 +50369,7 @@
      "new",
      2,
      0,
-     35.6,
+     35.7,
      [
       {
        "title": "Duke Energy Florida asks to punt on rate for \u2f00large load customers\u2f01",
@@ -50526,7 +51003,7 @@
    "id": "nuclear-reactor",
    "term": "nuclear reactor",
    "direction": "steady",
-   "ratio": 0.3071064430931761,
+   "ratio": 0.30706872197997914,
    "display": false,
    "adoptionSpan": 51,
    "pace": "gradual",
@@ -51089,7 +51566,7 @@
    "id": "coast-guard",
    "term": "coast guard",
    "direction": "steady",
-   "ratio": 0.2559220359109801,
+   "ratio": 0.2558906016499826,
    "display": false,
    "adoptionSpan": 29,
    "pace": "gradual",
@@ -51705,7 +52182,7 @@
    "id": "stock-exchange",
    "term": "stock exchange",
    "direction": "rising",
-   "ratio": 1.0748725508261163,
+   "ratio": 1.0747405269299268,
    "display": false,
    "adoptionSpan": 19,
    "pace": "mixed",
@@ -52302,7 +52779,7 @@
    "id": "public-interest",
    "term": "public interest",
    "direction": "rising",
-   "ratio": 0.4606596646397641,
+   "ratio": 0.46060308296996866,
    "display": false,
    "adoptionSpan": 27,
    "pace": "mixed",
@@ -52811,7 +53288,7 @@
    "id": "large-crude-carrier",
    "term": "large crude carrier",
    "direction": "steady",
-   "ratio": 0.3071064430931761,
+   "ratio": 0.30706872197997914,
    "display": false,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -53333,7 +53810,7 @@
    "id": "fuel-supply",
    "term": "fuel supply",
    "direction": "falling",
-   "ratio": 0.1754893960532435,
+   "ratio": 0.17546784113141667,
    "display": false,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -53864,7 +54341,7 @@
    "id": "drilling-rigs",
    "term": "drilling rigs",
    "direction": "falling",
-   "ratio": 0.18426386585590565,
+   "ratio": 0.18424123318798746,
    "display": false,
    "adoptionSpan": 57,
    "pace": "gradual",
@@ -54373,7 +54850,7 @@
    "id": "lng-carrier",
    "term": "lng carrier",
    "direction": "falling",
-   "ratio": 0.09213193292795283,
+   "ratio": 0.09212061659399373,
    "display": false,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -54890,7 +55367,7 @@
    "id": "supply-chain",
    "term": "supply chain",
    "direction": "steady",
-   "ratio": 0.36390010037753057,
+   "ratio": 0.3638554034420301,
    "display": false,
    "adoptionSpan": 58,
    "pace": "gradual",
@@ -55763,7 +56240,7 @@
    "id": "prices-climb",
    "term": "prices climb",
    "direction": "rising",
-   "ratio": 0.9213193292795282,
+   "ratio": 0.9212061659399373,
    "display": false,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -56829,7 +57306,7 @@
    "id": "middle-east",
    "term": "middle east",
    "direction": "steady",
-   "ratio": 0.3071064430931761,
+   "ratio": 0.3070687219799791,
    "display": false,
    "adoptionSpan": 57,
    "pace": "gradual",
@@ -57696,7 +58173,7 @@
    "id": "feasibility-study",
    "term": "feasibility study",
    "direction": "steady",
-   "ratio": 0.3071064430931761,
+   "ratio": 0.30706872197997914,
    "display": false,
    "adoptionSpan": 21,
    "pace": "mixed",
@@ -58311,7 +58788,7 @@
    "id": "high-energy",
    "term": "high energy",
    "direction": "steady",
-   "ratio": 0.3071064430931761,
+   "ratio": 0.30706872197997914,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -58889,7 +59366,7 @@
    "id": "energy-price",
    "term": "energy price",
    "direction": "steady",
-   "ratio": 0.30710644309317614,
+   "ratio": 0.30706872197997914,
    "display": false,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -59469,7 +59946,7 @@
    "id": "effective-date",
    "term": "effective date",
    "direction": "rising",
-   "ratio": 0.6142128861863522,
+   "ratio": 0.6141374439599583,
    "display": false,
    "adoptionSpan": 21,
    "pace": "mixed",
@@ -60023,7 +60500,7 @@
    "id": "industrial-property",
    "term": "industrial property",
    "direction": "rising",
-   "ratio": 0.4606596646397641,
+   "ratio": 0.46060308296996866,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -60550,7 +61027,7 @@
    "id": "recycling-facility",
    "term": "recycling facility",
    "direction": "rising",
-   "ratio": 0.4094752574575682,
+   "ratio": 0.40942496263997225,
    "display": false,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -61072,7 +61549,7 @@
    "id": "media-briefing",
    "term": "media briefing",
    "direction": "rising",
-   "ratio": 0.6142128861863523,
+   "ratio": 0.6141374439599583,
    "display": false,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -61616,7 +62093,7 @@
    "id": "battery-pack",
    "term": "battery pack",
    "direction": "rising",
-   "ratio": 0.6142128861863522,
+   "ratio": 0.6141374439599583,
    "display": false,
    "adoptionSpan": 5,
    "pace": "simultaneous",
@@ -62134,7 +62611,7 @@
    "id": "image-prime-creative",
    "term": "image prime creative",
    "direction": "steady",
-   "ratio": 0.3071064430931761,
+   "ratio": 0.30706872197997914,
    "display": false,
    "adoptionSpan": 10,
    "pace": "mixed",
@@ -62611,7 +63088,7 @@
    "id": "power-conversion",
    "term": "power conversion",
    "direction": "steady",
-   "ratio": 0.3071064430931761,
+   "ratio": 0.30706872197997914,
    "display": false,
    "adoptionSpan": 13,
    "pace": "mixed",
@@ -63155,7 +63632,7 @@
    "id": "warning-label",
    "term": "warning label",
    "direction": "rising",
-   "ratio": 0.6142128861863522,
+   "ratio": 0.6141374439599583,
    "display": false,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -63669,7 +64146,7 @@
    "id": "storage-site",
    "term": "storage site",
    "direction": "steady",
-   "ratio": 0.2456851544745409,
+   "ratio": 0.2456549775839833,
    "display": false,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -64187,7 +64664,7 @@
    "id": "trade-route",
    "term": "trade route",
    "direction": "rising",
-   "ratio": 0.4094752574575682,
+   "ratio": 0.40942496263997225,
    "display": false,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -64709,7 +65186,7 @@
    "id": "zero-emission",
    "term": "zero emission",
    "direction": "rising",
-   "ratio": 0.5630284790041562,
+   "ratio": 0.5629593236299617,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -64888,7 +65365,7 @@
      "new",
      2,
      0,
-     559.4,
+     559.6,
      [
       {
        "title": "Yusen Terminals to invest $200 million in electrification at Port of Los Angeles",
@@ -65382,7 +65859,7 @@
    "id": "solar-farm",
    "term": "solar farm",
    "direction": "steady",
-   "ratio": 0.3071064430931761,
+   "ratio": 0.30706872197997914,
    "display": false,
    "adoptionSpan": 50,
    "pace": "gradual",
@@ -65904,7 +66381,7 @@
    "id": "rizing-demand",
    "term": "rizing demand",
    "direction": "steady",
-   "ratio": 0.3071064430931761,
+   "ratio": 0.30706872197997914,
    "display": false,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -66545,7 +67022,7 @@
    "id": "case-study",
    "term": "case study",
    "direction": "rising",
-   "ratio": 0.4094752574575682,
+   "ratio": 0.40942496263997225,
    "display": false,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -67085,7 +67562,7 @@
    "id": "low-carbon",
    "term": "low carbon",
    "direction": "falling",
-   "ratio": 0.20473762872878407,
+   "ratio": 0.2047124813199861,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -67703,7 +68180,7 @@
    "id": "power-supply",
    "term": "power supply",
    "direction": "falling",
-   "ratio": 0.20473762872878407,
+   "ratio": 0.2047124813199861,
    "display": false,
    "adoptionSpan": 49,
    "pace": "gradual",
@@ -68295,7 +68772,7 @@
    "id": "full-scale",
    "term": "full scale",
    "direction": "steady",
-   "ratio": 0.30710644309317614,
+   "ratio": 0.30706872197997914,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -68879,7 +69356,7 @@
    "id": "demand-remain",
    "term": "demand remain",
    "direction": "steady",
-   "ratio": 0.2456851544745409,
+   "ratio": 0.2456549775839833,
    "display": false,
    "adoptionSpan": 9,
    "pace": "mixed",
@@ -69450,7 +69927,7 @@
    "id": "energy-crisis",
    "term": "energy crisis",
    "direction": "rising",
-   "ratio": 0.4606596646397641,
+   "ratio": 0.46060308296996866,
    "display": false,
    "adoptionSpan": 32,
    "pace": "gradual",
@@ -69959,7 +70436,7 @@
    "id": "advanced-nuclear",
    "term": "advanced nuclear",
    "direction": "rising",
-   "ratio": 0.9213193292795282,
+   "ratio": 0.9212061659399373,
    "display": false,
    "adoptionSpan": 33,
    "pace": "gradual",
@@ -70491,7 +70968,7 @@
    "id": "grid-operator",
    "term": "grid operator",
    "direction": "rising",
-   "ratio": 0.4094752574575682,
+   "ratio": 0.40942496263997225,
    "display": false,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -71027,7 +71504,7 @@
    "id": "grid-scale",
    "term": "grid scale",
    "direction": "rising",
-   "ratio": 0.9213193292795283,
+   "ratio": 0.9212061659399374,
    "display": false,
    "adoptionSpan": 37,
    "pace": "gradual",
@@ -71642,7 +72119,7 @@
    "id": "oil-tanker",
    "term": "oil tanker",
    "direction": "steady",
-   "ratio": 0.2456851544745409,
+   "ratio": 0.2456549775839833,
    "display": false,
    "adoptionSpan": 40,
    "pace": "gradual",
@@ -72182,7 +72659,7 @@
    "id": "power-station",
    "term": "power station",
    "direction": "rising",
-   "ratio": 0.7677661077329402,
+   "ratio": 0.7676718049499478,
    "display": false,
    "adoptionSpan": 9,
    "pace": "mixed",
