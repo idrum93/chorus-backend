@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-15T04:44:45.763961+00:00",
+ "generated": "2026-09-15T04:54:18.258435+00:00",
  "placeWords": [
   "africa",
   "alberta",
@@ -2009,7 +2009,7 @@
  "coverage": [
   [
    "US",
-   9535
+   9538
   ],
   [
    "TW",
@@ -2037,7 +2037,7 @@
   ],
   [
    "SG",
-   609
+   610
   ],
   [
    "AU",
@@ -3874,7 +3874,6 @@
      "sectors": 2,
      "direction": "steady",
      "variants": [
-      "nuclear powered",
       "energy center"
      ],
      "examples": [
@@ -4029,7 +4028,8 @@
    "borrowed": [
     "virtual power plant",
     "electric vehicle",
-    "energy storage"
+    "energy storage",
+    "grid scale"
    ],
    "articles": 81,
    "articles14d": 27,
@@ -4156,6 +4156,45 @@
        "sector": "Energy",
        "country": "DE",
        "quote": "\u2026es the barriers that have kept home \u2f00energy storage\u2f01 from the mainstream. The post Anker SOLIX launches XE, the next-generation all-in-one home energy storage app\u2026"
+      }
+     ]
+    },
+    {
+     "term": "grid scale",
+     "id": "grid-scale",
+     "articles": 1,
+     "home": "Utilities",
+     "shown": true,
+     "sectors": 2,
+     "direction": "steady",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "Energy Storage News",
+       "title": "Competitive TCO, detailed specs and strong local presence key for BESS supplier success in Germany, RWE says",
+       "url": "https://www.energy-storage.news/germany-capacity-market-contracts-bankable-base-layer-alongside-merchant-revenues-rwe/",
+       "date": "2026-09-14",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "\u2026and opportunities in the country's \u2f00grid-scale\u2f01 storage market."
+      },
+      {
+       "publisher": "Energy Storage News",
+       "title": "Australia's NEM BESS fleet earns AU$29 million in August as capture rate climbs to 54%",
+       "url": "https://www.energy-storage.news/australias-nem-bess-fleet-earns-au29-million-in-august-as-capture-rate-climbs-to-54/",
+       "date": "2026-09-09",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "Australia's 58 \u2f00grid-scale\u2f01 battery storage systems in the NEM generated a combined AU$28.79 million in estimated gross energy and FCAS r\u2026"
+      },
+      {
+       "publisher": "Energy Storage News",
+       "title": "Under the hood: Inside Tesla's Megapack 3 as Texas production begins",
+       "url": "https://www.energy-storage.news/under-the-hood-inside-teslas-megapack-3-as-texas-production-begins/",
+       "date": "2026-09-04",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "\u2026esla was one of the pioneers of the \u2f00grid-scale\u2f01 battery storage market, but has faced increasing competition in the past few years. In this article we look u\u2026"
       }
      ]
     },
@@ -4318,45 +4357,6 @@
        "sector": "Technology",
        "country": "US",
        "quote": "Robots and \u2f00autonomous vehicles\u2f01 are both edge devices, but a humanoid has wheels as well as fingers. Close interaction with humans raises the\u2026"
-      }
-     ]
-    },
-    {
-     "term": "charging infrastructure",
-     "id": "charging-infrastructure",
-     "articles": 1,
-     "home": "Autos",
-     "shown": false,
-     "sectors": 3,
-     "direction": "rising",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "Electrive",
-       "title": "ABB E-Mobility and Elexon cooperate on depot \u2f00charging infrastructure\u2f01",
-       "url": "https://www.electrive.com/2026/09/14/abb-e-mobility-and-elexon-cooperate-on-depot-charging-infrastructure/",
-       "date": "2026-09-14",
-       "sector": "Autos",
-       "country": "DE",
-       "quote": ""
-      },
-      {
-       "publisher": "Electrive",
-       "title": "Pennsylvania to invest $11 million in EV chargers",
-       "url": "https://www.electrive.com/2026/09/11/pennsylvania-to-invest-11-million-in-ev-chargers/",
-       "date": "2026-09-11",
-       "sector": "Autos",
-       "country": "DE",
-       "quote": "\u2026to invest $11 million USD in new EV \u2f00charging infrastructure\u2f01 across the Central PA region. This will be the third region where funding has been offered, following the Sou\u2026"
-      },
-      {
-       "publisher": "The Elec",
-       "title": "Hyundai Motor Group Partners on Used EV Battery ESS Project",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=13852",
-       "date": "2026-09-10",
-       "sector": "Technology",
-       "country": "KR",
-       "quote": "\u2026EV fast-charging station to assess \u2f00charging infrastructure\u2f01 efficiency and the potential"
       }
      ]
     }
@@ -5561,7 +5561,6 @@
      "sectors": 2,
      "direction": "steady",
      "variants": [
-      "nuclear powered",
       "energy center"
      ],
      "examples": [
@@ -5828,6 +5827,245 @@
    ]
   },
   {
+   "prior14d": 6,
+   "direction": "steady",
+   "ticker": "F",
+   "name": "Ford Motor",
+   "sector": "Autos",
+   "borrowed": [
+    "grid scale"
+   ],
+   "articles": 41,
+   "articles14d": 8,
+   "terms": [
+    {
+     "term": "grid scale",
+     "id": "grid-scale",
+     "articles": 1,
+     "home": "Utilities",
+     "shown": true,
+     "sectors": 2,
+     "direction": "steady",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "Energy Storage News",
+       "title": "Competitive TCO, detailed specs and strong local presence key for BESS supplier success in Germany, RWE says",
+       "url": "https://www.energy-storage.news/germany-capacity-market-contracts-bankable-base-layer-alongside-merchant-revenues-rwe/",
+       "date": "2026-09-14",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "\u2026and opportunities in the country's \u2f00grid-scale\u2f01 storage market."
+      },
+      {
+       "publisher": "Energy Storage News",
+       "title": "Australia's NEM BESS fleet earns AU$29 million in August as capture rate climbs to 54%",
+       "url": "https://www.energy-storage.news/australias-nem-bess-fleet-earns-au29-million-in-august-as-capture-rate-climbs-to-54/",
+       "date": "2026-09-09",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "Australia's 58 \u2f00grid-scale\u2f01 battery storage systems in the NEM generated a combined AU$28.79 million in estimated gross energy and FCAS r\u2026"
+      },
+      {
+       "publisher": "Energy Storage News",
+       "title": "Under the hood: Inside Tesla's Megapack 3 as Texas production begins",
+       "url": "https://www.energy-storage.news/under-the-hood-inside-teslas-megapack-3-as-texas-production-begins/",
+       "date": "2026-09-04",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "\u2026esla was one of the pioneers of the \u2f00grid-scale\u2f01 battery storage market, but has faced increasing competition in the past few years. In this article we look u\u2026"
+      }
+     ]
+    },
+    {
+     "term": "electric truck",
+     "id": "electric-truck",
+     "articles": 2,
+     "home": "Autos",
+     "shown": false,
+     "sectors": 2,
+     "direction": "rising",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "Electrive",
+       "title": "SAIC brand brings 42-tonne \u2f00electric truck\u2f01 to Europe",
+       "url": "https://www.electrive.com/2026/09/14/maxus-goes-maxi-saic-brand-brings-42-tonne-electric-truck-to-europe/",
+       "date": "2026-09-14",
+       "sector": "Autos",
+       "country": "DE",
+       "quote": "\u2026manufacturer is showcasing a light \u2f00electric truck\u2f01 for the 7.5-tonne class as well as a fully electric 42-tonne truck, as well as an autonomous RoboVan."
+      },
+      {
+       "publisher": "Electrive",
+       "title": "BYD brings ETT 44 \u2f00electric truck\u2f01 to Europe",
+       "url": "https://www.electrive.com/2026/09/14/byd-brings-ett-44-electric-truck-to-europe/",
+       "date": "2026-09-14",
+       "sector": "Autos",
+       "country": "DE",
+       "quote": "\u2026is entering the European heavy-duty \u2f00electric truck\u2f01 market with the ETT 44. The 44-tonne tractor unit features a 651-kWh battery and, according to the manufactur\u2026"
+      },
+      {
+       "publisher": "Supply Chain Dive",
+       "title": "Google helps deploy 25 \u2f00electric trucks\u2f01 in Texas as part of alliance",
+       "url": "https://www.supplychaindive.com/news/google-helps-deploy-25-electric-trucks-in-texas-as-part-of-alliance/830251/",
+       "date": "2026-09-14",
+       "sector": "Supply chain",
+       "country": "US",
+       "quote": ""
+      }
+     ]
+    },
+    {
+     "term": "critical mineral",
+     "id": "critical-mineral",
+     "articles": 1,
+     "home": "Materials",
+     "shown": false,
+     "sectors": 3,
+     "direction": "steady",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "Mining.com",
+       "title": "Pentagon backs $150M Blue Moon tungsten restart",
+       "url": "https://www.mining.com/us-department-of-war-commits-450-million-to-tungsten-supply-chain/",
+       "date": "2026-09-14",
+       "sector": "Materials",
+       "country": "US",
+       "quote": "\u2026to become less reliant on China for \u2f00critical minerals\u2f01."
+      },
+      {
+       "publisher": "ET Manufacturing",
+       "title": "BRICS 2026: PM Modi warns against weaponisation of technology and \u2f00critical minerals\u2f01",
+       "url": "https://manufacturing.economictimes.indiatimes.com/news/industry/brics-2026-pm-modi-warns-against-weaponisation-of-technology-and-critical-minerals/134186744",
+       "date": "2026-09-13",
+       "sector": "Industrials",
+       "country": "IN",
+       "quote": ""
+      },
+      {
+       "publisher": "Northern Miner",
+       "title": "Mineral tracking a must for industry credibility: OECD",
+       "url": "https://www.northernminer.com/news/mineral-tracking-a-must-for-industry-credibility-oecd/1003894758/",
+       "date": "2026-09-11",
+       "sector": "Materials",
+       "country": "US",
+       "quote": "Better traceability of \u2f00critical minerals\u2f01 like lithium and nickel can boost the credibility and integrity of the supply chain, a new report this week b\u2026"
+      }
+     ]
+    },
+    {
+     "term": "oil production",
+     "id": "oil-production",
+     "articles": 1,
+     "home": "Energy",
+     "shown": false,
+     "sectors": 2,
+     "direction": "steady",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "EIA Today in Energy",
+       "title": "United States on track for record crude \u2f00oil production\u2f01 in 2026",
+       "url": "https://www.eia.gov/todayinenergy/detail.php?id=68125",
+       "date": "2026-09-15",
+       "sector": "Utilities",
+       "country": "US",
+       "quote": "We forecast U.S. crude \u2f00oil production\u2f01 will average 13.8 million barrels per day (b/d) in 2026, surpassing the previous record of 13.7 million b/d s\u2026"
+      },
+      {
+       "publisher": "ET Energyworld",
+       "title": "BRICS has the oil jackpot. Now comes the hard part",
+       "url": "https://energy.economictimes.indiatimes.com/news/oil-and-gas/brics-has-the-oil-jackpot-now-comes-the-hard-part/134111417",
+       "date": "2026-09-12",
+       "sector": "Energy",
+       "country": "IN",
+       "quote": "\u2026for roughly 41-47% of global crude \u2f00oil production\u2f01, but differences among members make a common energy policy difficult."
+      },
+      {
+       "publisher": "OilPrice",
+       "title": "Citadel Eyes U.S. Shale as Oil Trading Moves Closer to the Wellhead",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Citadel-Eyes-US-Shale-as-Oil-Trading-Moves-Closer-to-the-Wellhead.html",
+       "date": "2026-09-04",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "Citadel is shopping for U.S. \u2f00oil production\u2f01 assets, including a previous bid for WildFire Energy before Magnolia Oil & Gas agreed to buy the Eagle Ford p\u2026"
+      }
+     ]
+    },
+    {
+     "term": "supply chain",
+     "id": "supply-chain",
+     "articles": 1,
+     "home": "Technology",
+     "shown": false,
+     "sectors": 8,
+     "direction": "steady",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "TSMC 3nm, 2nm, and CoWoS stay tight as AWS, MediaTek, TPU shift capacity",
+       "url": "https://www.digitimes.com/news/a20260915PD214/tsmc-3nm-2nm-capacity-cowos.html",
+       "date": "2026-09-15",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026t its advanced capacity allocation. \u2f00Supply chain\u2f01 sources said Nvidia and Apple continue to dominate TSMC's advanced process and packaging resources, while AWS\u2026"
+      },
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "Column: When digital trust breaks quantum risk rewrites \u2f00supply chain\u2f01 resilience",
+       "url": "https://www.digitimes.com/news/a20260915PD213/quantum-supply-chain-security-software-materials.html",
+       "date": "2026-09-15",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2f00Supply chain\u2f01 resilience was once centred on raw materials, components, factories and logistics. AI, cloud services and the\u2026"
+      },
+      {
+       "publisher": "MedTech Dive",
+       "title": "Zimmer proposes to cut 580 jobs in Switzerland",
+       "url": "https://www.medtechdive.com/news/zimmer-proposes-to-cut-580-jobs-in-switzerland/830245/",
+       "date": "2026-09-14",
+       "sector": "Healthcare",
+       "country": "US",
+       "quote": "\u2026mpany's manufacturing footprint and \u2f00supply chain\u2f01."
+      }
+     ]
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "Just Auto",
+     "title": "Ford investing $1bn for new paint shop at Kentucky Truck Plant",
+     "url": "https://www.just-auto.com/news/ford-investing-1bn-for-new-paint-shop-at-kentucky-truck-plant/",
+     "sector": "Autos",
+     "quote": ""
+    },
+    {
+     "publisher": "Manufacturing Dive",
+     "title": "Ford invests $1B in its key Kentucky plant for truck, SUV production",
+     "url": "https://www.manufacturingdive.com/news/ford-invests-1b-in-its-key-kentucky-plant-for-truck-suv-production/830181/",
+     "sector": "Industrials",
+     "quote": ""
+    },
+    {
+     "publisher": "Manufacturing Dive",
+     "title": "Transportation secretary urges Ford to cut technology ties with China",
+     "url": "https://www.manufacturingdive.com/news/transportation-secretary-urges-ford-to-cut-technology-ties-with-china/830031/",
+     "sector": "Industrials",
+     "quote": ""
+    },
+    {
+     "publisher": "The Loadstar",
+     "title": "Sunday Brunch: The American Dream looks very different from Hong Kong",
+     "url": "https://theloadstar.com/sunday-brunch-the-american-dream-looks-very-different-from-hong-kong/",
+     "sector": "Supply chain",
+     "quote": ""
+    }
+   ]
+  },
+  {
    "prior14d": 8,
    "direction": "steady",
    "ticker": "TM",
@@ -6082,7 +6320,8 @@
    "name": "Hitachi",
    "sector": "Industrials",
    "borrowed": [
-    "solid state"
+    "solid state",
+    "grid scale"
    ],
    "articles": 11,
    "articles14d": 3,
@@ -6129,6 +6368,45 @@
      ]
     },
     {
+     "term": "grid scale",
+     "id": "grid-scale",
+     "articles": 1,
+     "home": "Utilities",
+     "shown": true,
+     "sectors": 2,
+     "direction": "steady",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "Energy Storage News",
+       "title": "Competitive TCO, detailed specs and strong local presence key for BESS supplier success in Germany, RWE says",
+       "url": "https://www.energy-storage.news/germany-capacity-market-contracts-bankable-base-layer-alongside-merchant-revenues-rwe/",
+       "date": "2026-09-14",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "\u2026and opportunities in the country's \u2f00grid-scale\u2f01 storage market."
+      },
+      {
+       "publisher": "Energy Storage News",
+       "title": "Australia's NEM BESS fleet earns AU$29 million in August as capture rate climbs to 54%",
+       "url": "https://www.energy-storage.news/australias-nem-bess-fleet-earns-au29-million-in-august-as-capture-rate-climbs-to-54/",
+       "date": "2026-09-09",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "Australia's 58 \u2f00grid-scale\u2f01 battery storage systems in the NEM generated a combined AU$28.79 million in estimated gross energy and FCAS r\u2026"
+      },
+      {
+       "publisher": "Energy Storage News",
+       "title": "Under the hood: Inside Tesla's Megapack 3 as Texas production begins",
+       "url": "https://www.energy-storage.news/under-the-hood-inside-teslas-megapack-3-as-texas-production-begins/",
+       "date": "2026-09-04",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "\u2026esla was one of the pioneers of the \u2f00grid-scale\u2f01 battery storage market, but has faced increasing competition in the past few years. In this article we look u\u2026"
+      }
+     ]
+    },
+    {
      "term": "nuclear power",
      "id": "nuclear-power",
      "articles": 2,
@@ -6137,7 +6415,6 @@
      "sectors": 2,
      "direction": "steady",
      "variants": [
-      "nuclear powered",
       "energy center"
      ],
      "examples": [
@@ -6212,45 +6489,6 @@
        "sector": "Technology",
        "country": "TW",
        "quote": "\u2026etting big on energy storage for AI \u2f00data centers\u2f01 as demand for backup batteries from AI data centers surges. The company said it will keep energy storage syst\u2026"
-      }
-     ]
-    },
-    {
-     "term": "grid scale",
-     "id": "grid-scale",
-     "articles": 1,
-     "home": "Utilities",
-     "shown": false,
-     "sectors": 2,
-     "direction": "steady",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "Energy Storage News",
-       "title": "Competitive TCO, detailed specs and strong local presence key for BESS supplier success in Germany, RWE says",
-       "url": "https://www.energy-storage.news/germany-capacity-market-contracts-bankable-base-layer-alongside-merchant-revenues-rwe/",
-       "date": "2026-09-14",
-       "sector": "Utilities",
-       "country": "GB",
-       "quote": "\u2026and opportunities in the country's \u2f00grid-scale\u2f01 storage market."
-      },
-      {
-       "publisher": "Energy Storage News",
-       "title": "Australia's NEM BESS fleet earns AU$29 million in August as capture rate climbs to 54%",
-       "url": "https://www.energy-storage.news/australias-nem-bess-fleet-earns-au29-million-in-august-as-capture-rate-climbs-to-54/",
-       "date": "2026-09-09",
-       "sector": "Utilities",
-       "country": "GB",
-       "quote": "Australia's 58 \u2f00grid-scale\u2f01 battery storage systems in the NEM generated a combined AU$28.79 million in estimated gross energy and FCAS r\u2026"
-      },
-      {
-       "publisher": "Energy Storage News",
-       "title": "Under the hood: Inside Tesla's Megapack 3 as Texas production begins",
-       "url": "https://www.energy-storage.news/under-the-hood-inside-teslas-megapack-3-as-texas-production-begins/",
-       "date": "2026-09-04",
-       "sector": "Utilities",
-       "country": "GB",
-       "quote": "\u2026esla was one of the pioneers of the \u2f00grid-scale\u2f01 battery storage market, but has faced increasing competition in the past few years. In this article we look u\u2026"
       }
      ]
     },
@@ -7485,7 +7723,8 @@
    "name": "Mitsubishi Motors",
    "sector": "Autos",
    "borrowed": [
-    "electric vehicle"
+    "electric vehicle",
+    "grid scale"
    ],
    "articles": 33,
    "articles14d": 3,
@@ -7532,6 +7771,45 @@
      ]
     },
     {
+     "term": "grid scale",
+     "id": "grid-scale",
+     "articles": 1,
+     "home": "Utilities",
+     "shown": true,
+     "sectors": 2,
+     "direction": "steady",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "Energy Storage News",
+       "title": "Competitive TCO, detailed specs and strong local presence key for BESS supplier success in Germany, RWE says",
+       "url": "https://www.energy-storage.news/germany-capacity-market-contracts-bankable-base-layer-alongside-merchant-revenues-rwe/",
+       "date": "2026-09-14",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "\u2026and opportunities in the country's \u2f00grid-scale\u2f01 storage market."
+      },
+      {
+       "publisher": "Energy Storage News",
+       "title": "Australia's NEM BESS fleet earns AU$29 million in August as capture rate climbs to 54%",
+       "url": "https://www.energy-storage.news/australias-nem-bess-fleet-earns-au29-million-in-august-as-capture-rate-climbs-to-54/",
+       "date": "2026-09-09",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "Australia's 58 \u2f00grid-scale\u2f01 battery storage systems in the NEM generated a combined AU$28.79 million in estimated gross energy and FCAS r\u2026"
+      },
+      {
+       "publisher": "Energy Storage News",
+       "title": "Under the hood: Inside Tesla's Megapack 3 as Texas production begins",
+       "url": "https://www.energy-storage.news/under-the-hood-inside-teslas-megapack-3-as-texas-production-begins/",
+       "date": "2026-09-04",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "\u2026esla was one of the pioneers of the \u2f00grid-scale\u2f01 battery storage market, but has faced increasing competition in the past few years. In this article we look u\u2026"
+      }
+     ]
+    },
+    {
      "term": "electric truck",
      "id": "electric-truck",
      "articles": 1,
@@ -7567,45 +7845,6 @@
        "sector": "Supply chain",
        "country": "US",
        "quote": ""
-      }
-     ]
-    },
-    {
-     "term": "grid scale",
-     "id": "grid-scale",
-     "articles": 1,
-     "home": "Utilities",
-     "shown": false,
-     "sectors": 2,
-     "direction": "steady",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "Energy Storage News",
-       "title": "Competitive TCO, detailed specs and strong local presence key for BESS supplier success in Germany, RWE says",
-       "url": "https://www.energy-storage.news/germany-capacity-market-contracts-bankable-base-layer-alongside-merchant-revenues-rwe/",
-       "date": "2026-09-14",
-       "sector": "Utilities",
-       "country": "GB",
-       "quote": "\u2026and opportunities in the country's \u2f00grid-scale\u2f01 storage market."
-      },
-      {
-       "publisher": "Energy Storage News",
-       "title": "Australia's NEM BESS fleet earns AU$29 million in August as capture rate climbs to 54%",
-       "url": "https://www.energy-storage.news/australias-nem-bess-fleet-earns-au29-million-in-august-as-capture-rate-climbs-to-54/",
-       "date": "2026-09-09",
-       "sector": "Utilities",
-       "country": "GB",
-       "quote": "Australia's 58 \u2f00grid-scale\u2f01 battery storage systems in the NEM generated a combined AU$28.79 million in estimated gross energy and FCAS r\u2026"
-      },
-      {
-       "publisher": "Energy Storage News",
-       "title": "Under the hood: Inside Tesla's Megapack 3 as Texas production begins",
-       "url": "https://www.energy-storage.news/under-the-hood-inside-teslas-megapack-3-as-texas-production-begins/",
-       "date": "2026-09-04",
-       "sector": "Utilities",
-       "country": "GB",
-       "quote": "\u2026esla was one of the pioneers of the \u2f00grid-scale\u2f01 battery storage market, but has faced increasing competition in the past few years. In this article we look u\u2026"
       }
      ]
     }
@@ -7768,15 +8007,15 @@
  ],
  "filings": {},
  "daysCollected": 143,
- "articlesStored": 18562,
- "articlesLive": 14322,
+ "articlesStored": 18566,
+ "articlesLive": 14323,
  "windowDays": 90,
  "terms": [
   {
    "id": "virtual-power-plant",
    "term": "virtual power plant",
    "direction": "steady",
-   "ratio": 0.18859192410042808,
+   "ratio": 0.1885482938114517,
    "display": true,
    "adoptionSpan": 47,
    "pace": "gradual",
@@ -8330,7 +8569,7 @@
    "id": "iron-ore",
    "term": "iron ore",
    "direction": "rising",
-   "ratio": 0.33946546338077055,
+   "ratio": 0.33938692886061306,
    "display": true,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -8492,33 +8731,7 @@
      }
     ]
    },
-   "cooc": [
-    [
-     "eyes stake",
-     1.0,
-     "new",
-     2,
-     0,
-     996.3,
-     [
-      {
-       "title": "Baowu \u2f00eyes stake\u2f01 in BHP's Jimblebar mine: Reuters",
-       "url": "https://www.northernminer.com/news/baowu-eyes-stake-in-bhps-jimblebar-mine-reuters/1003894633/",
-       "publisher": "Northern Miner",
-       "sector": "Materials",
-       "quote": "\u2026cussions cited by... The post Baowu \u2f00eyes stake\u2f01 in BHP's Jimblebar mine: Reuters appeared first on The Northern Miner ."
-      },
-      {
-       "title": "Baowu \u2f00eyes stake\u2f01 in BHP's massive Jimblebar iron ore mine",
-       "url": "https://www.mining.com/baowu-eyes-stake-in-bhps-massive-jimblebar-iron-ore-mine/",
-       "publisher": "Mining.com",
-       "sector": "Materials",
-       "quote": "\u2026rn Australian operation as it seeks \u2f00iron ore\u2f01 supply."
-      }
-     ],
-     []
-    ]
-   ],
+   "cooc": [],
    "examples": [
     {
      "publisher": "Seatrade Maritime",
@@ -8948,7 +9161,7 @@
    "id": "lithium-carbonate",
    "term": "lithium carbonate",
    "direction": "rising",
-   "ratio": 0.28288788615064214,
+   "ratio": 0.28282244071717755,
    "display": true,
    "adoptionSpan": 35,
    "pace": "gradual",
@@ -9127,7 +9340,7 @@
      "new",
      2,
      0,
-     747.2,
+     748.2,
      [
       {
        "title": "R3 Lithium begins operations at former Ascend Elements facility",
@@ -9558,7 +9771,7 @@
    "id": "offshore-wind",
    "term": "offshore wind",
    "direction": "falling",
-   "ratio": 0.09429596205021404,
+   "ratio": 0.09427414690572584,
    "display": true,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -10128,7 +10341,7 @@
    "id": "solar-plus-storage",
    "term": "solar plus storage",
    "direction": "steady",
-   "ratio": 0.20206277582188722,
+   "ratio": 0.20201602908369823,
    "display": true,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -10681,7 +10894,7 @@
    "id": "greenhouse-gas",
    "term": "greenhouse gas",
    "direction": "steady",
-   "ratio": 0.24247533098626467,
+   "ratio": 0.2424192349004379,
    "display": true,
    "adoptionSpan": 25,
    "pace": "mixed",
@@ -11374,7 +11587,7 @@
    "id": "carbon-dioxide",
    "term": "carbon dioxide",
    "direction": "rising",
-   "ratio": 0.37718384820085615,
+   "ratio": 0.3770965876229034,
    "display": true,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -11980,7 +12193,7 @@
    "id": "energy-storage",
    "term": "energy storage",
    "direction": "steady",
-   "ratio": 0.175310802684905,
+   "ratio": 0.17527024495149032,
    "display": true,
    "adoptionSpan": 58,
    "pace": "gradual",
@@ -12223,7 +12436,7 @@
      "new",
      2,
      0,
-     135.9,
+     136.0,
      [
       {
        "title": "AI Data Centers Turn to Industrial Boilers and Steam Turbines for Power",
@@ -12735,69 +12948,65 @@
    ]
   },
   {
-   "id": "full-scale",
-   "term": "full scale",
+   "id": "grid-scale",
+   "term": "grid scale",
    "direction": "steady",
-   "ratio": 0.18859192410042808,
+   "ratio": 0.20201602908369823,
    "display": true,
-   "adoptionSpan": 8,
-   "pace": "mixed",
+   "adoptionSpan": 37,
+   "pace": "gradual",
    "kind": "concept",
    "sectorCount": 2,
-   "effectiveSectors": 1.99,
-   "newestSector": "Technology",
-   "daysSinceNewestSector": 40,
-   "articles14d": 4,
-   "articlesPrior14d": 6,
+   "effectiveSectors": 2.0,
+   "newestSector": "Utilities",
+   "daysSinceNewestSector": 42,
+   "articles14d": 5,
+   "articlesPrior14d": 7,
    "publishers": 0,
    "events": 0,
    "topPubShare": null,
    "sectors": [
     {
      "name": "Energy",
-     "firstSeen": "2026-07-29",
+     "firstSeen": "2026-06-28",
      "recent": 2,
-     "articles": 5,
-     "share": 0.667,
+     "articles": 7,
+     "share": 0.4,
      "atSectorStart": false,
-     "grip": 0.333,
-     "outlets": 2,
-     "adopt": 41,
-     "daysSince": 48
+     "grip": 0.167,
+     "outlets": 1,
+     "adopt": 10,
+     "daysSince": 79
     },
     {
-     "name": "Technology",
-     "firstSeen": "2026-08-06",
-     "recent": 1,
-     "articles": 6,
-     "share": 0.333,
+     "name": "Utilities",
+     "firstSeen": "2026-08-04",
+     "recent": 3,
+     "articles": 8,
+     "share": 0.6,
      "atSectorStart": false,
-     "grip": 0.111,
-     "outlets": 1,
-     "adopt": 49,
-     "daysSince": 40
+     "grip": 0.429,
+     "outlets": 3,
+     "adopt": 47,
+     "daysSince": 42
     }
    ],
    "sinceStart": false,
    "origins": [
     [
-     "US",
-     7
+     "GB",
+     8
     ],
     [
-     "KR",
-     4
+     "DE",
+     6
     ],
     [
-     "GR",
-     2
-    ],
-    [
-     "CN",
+     "JP",
      1
     ],
     [
-     "TW",
+     "US",
      1
     ]
    ],
@@ -12819,7 +13028,7 @@
     ],
     "bands": [
      {
-      "sector": "Technology",
+      "sector": "Utilities",
       "n": [
        0,
        0,
@@ -12827,35 +13036,35 @@
        0,
        0,
        0,
-       0,
-       2,
        1,
-       0,
-       3,
-       0,
-       0
+       1,
+       1,
+       1,
+       1,
+       2,
+       1
       ]
      },
      {
       "sector": "Energy",
       "n": [
        0,
+       1,
+       0,
+       0,
        0,
        0,
        0,
        0,
        1,
-       0,
-       0,
-       1,
-       0,
        2,
-       1,
+       3,
+       0,
        0
       ]
      },
      {
-      "sector": "Supply chain",
+      "sector": "Industrials",
       "n": [
        0,
        0,
@@ -12865,28 +13074,10 @@
        0,
        0,
        0,
-       1,
-       1,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Autos",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
        0,
        0,
        1,
        0,
-       0,
-       1,
        0
       ]
      }
@@ -12895,40 +13086,49 @@
    "cooc": [],
    "examples": [
     {
-     "publisher": "World Nuclear News",
-     "title": "Groundwork begins at new Chinese plant site",
-     "url": "https://www.world-nuclear-news.org/articles/groundwork-begins-at-new-chinese-plant-site",
+     "publisher": "Energy Storage News",
+     "title": "Competitive TCO, detailed specs and strong local presence key for BESS supplier success in Germany, RWE says",
+     "url": "https://www.energy-storage.news/germany-capacity-market-contracts-bankable-base-layer-alongside-merchant-revenues-rwe/",
+     "date": "2026-09-14",
+     "sector": "Utilities",
+     "country": "GB",
+     "quote": "\u2026and opportunities in the country's \u2f00grid-scale\u2f01 storage market."
+    },
+    {
+     "publisher": "Energy Storage News",
+     "title": "Australia's NEM BESS fleet earns AU$29 million in August as capture rate climbs to 54%",
+     "url": "https://www.energy-storage.news/australias-nem-bess-fleet-earns-au29-million-in-august-as-capture-rate-climbs-to-54/",
      "date": "2026-09-09",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2f00Full-scale\u2f01 site levelling work for the initial phase of the Laiyang nuclear power plant in China's Shandong Province has\u2026"
+     "sector": "Utilities",
+     "country": "GB",
+     "quote": "Australia's 58 \u2f00grid-scale\u2f01 battery storage systems in the NEM generated a combined AU$28.79 million in estimated gross energy and FCAS r\u2026"
     },
     {
-     "publisher": "CnEVPost",
-     "title": "Beijing Auto Show to return in March 2027 as \u2f00full-scale\u2f01 events keep alternating with Shanghai",
-     "url": "https://cnevpost.com/2026/09/07/beijing-auto-show-to-return-mar-2027/",
-     "date": "2026-09-07",
-     "sector": "Autos",
-     "country": "CN",
-     "quote": ""
+     "publisher": "Energy Storage News",
+     "title": "Under the hood: Inside Tesla's Megapack 3 as Texas production begins",
+     "url": "https://www.energy-storage.news/under-the-hood-inside-teslas-megapack-3-as-texas-production-begins/",
+     "date": "2026-09-04",
+     "sector": "Utilities",
+     "country": "GB",
+     "quote": "\u2026esla was one of the pioneers of the \u2f00grid-scale\u2f01 battery storage market, but has faced increasing competition in the past few years. In this article we look u\u2026"
     },
     {
-     "publisher": "OilPrice",
-     "title": "Ukraine's Refinery Strikes Force Russia to Process Oil Abroad",
-     "url": "https://oilprice.com/Energy/Gas-Prices/Ukraines-Refinery-Strikes-Force-Russia-to-Process-Oil-Abroad.html",
+     "publisher": "PV Magazine",
+     "title": "Texas Instruments introduces chip-level diagnostics to improve \u2f00grid-scale\u2f01 battery cell safety",
+     "url": "https://www.pv-magazine.com/2026/09/02/texas-instruments-introduces-chip-level-diagnostics-to-improve-grid-scale-battery-cell-safety/",
      "date": "2026-09-02",
      "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026o finance and sustain its four-year \u2f00full-scale\u2f01 war in Ukraine. Russia has already halted exports to curb its fuel crisis and introduced rationing measures.\u2026"
+     "country": "DE",
+     "quote": "\u2026s chip-level diagnostics to improve \u2f00grid-scale\u2f01 battery cell safety appeared first on pv magazine Global ."
     },
     {
-     "publisher": "DigiTimes Asia",
-     "title": "Deep Dive: CXMT challenges Pentagon as Trump-Xi meeting nears",
-     "url": "https://www.digitimes.com/news/a20260901PD238/cxmt-government-2026-military-competition.html",
+     "publisher": "PV Magazine",
+     "title": "Rooftop solar meets 99.9% of South Australia electricity demand",
+     "url": "https://www.pv-magazine.com/2026/09/02/rooftop-solar-meets-99-9-of-sa-electricity-demand/",
      "date": "2026-09-02",
-     "sector": "Technology",
-     "country": "TW",
-     "quote": "\u2026nd technological competition into a \u2f00full-scale\u2f01 courtroom battle. On August 28, 2026, the Chinese memory leader disclosed a stellar first-half financial repo\u2026"
+     "sector": "Energy",
+     "country": "DE",
+     "quote": "\u2026of winter, slashing the reliance on \u2f00grid-scale\u2f01 generation. The post Rooftop solar meets 99.9% of South Australia electricity demand appeared first on pv mag\u2026"
     }
    ],
    "daily": [
@@ -12974,7 +13174,7 @@
     },
     {
      "day": "2026-06-28",
-     "n": 0
+     "n": 1
     },
     {
      "day": "2026-06-29",
@@ -13098,7 +13298,7 @@
     },
     {
      "day": "2026-07-29",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-07-30",
@@ -13122,7 +13322,7 @@
     },
     {
      "day": "2026-08-04",
-     "n": 0
+     "n": 1
     },
     {
      "day": "2026-08-05",
@@ -13130,7 +13330,7 @@
     },
     {
      "day": "2026-08-06",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-08-07",
@@ -13162,11 +13362,11 @@
     },
     {
      "day": "2026-08-14",
-     "n": 0
+     "n": 1
     },
     {
      "day": "2026-08-15",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-08-16",
@@ -13174,7 +13374,7 @@
     },
     {
      "day": "2026-08-17",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-08-18",
@@ -13182,7 +13382,7 @@
     },
     {
      "day": "2026-08-19",
-     "n": 2
+     "n": 1
     },
     {
      "day": "2026-08-20",
@@ -13190,7 +13390,7 @@
     },
     {
      "day": "2026-08-21",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-08-22",
@@ -13206,19 +13406,19 @@
     },
     {
      "day": "2026-08-25",
-     "n": 0
+     "n": 2
     },
     {
      "day": "2026-08-26",
-     "n": 0
+     "n": 1
     },
     {
      "day": "2026-08-27",
-     "n": 0
+     "n": 2
     },
     {
      "day": "2026-08-28",
-     "n": 2
+     "n": 0
     },
     {
      "day": "2026-08-29",
@@ -13246,7 +13446,7 @@
     },
     {
      "day": "2026-09-04",
-     "n": 0
+     "n": 1
     },
     {
      "day": "2026-09-05",
@@ -13258,7 +13458,7 @@
     },
     {
      "day": "2026-09-07",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-09-08",
@@ -13286,21 +13486,20 @@
     },
     {
      "day": "2026-09-14",
-     "n": 0
+     "n": 1
     },
     {
      "day": "2026-09-15",
      "n": 0
     }
    ],
-   "relRatio": 0.93,
-   "docFreq": 0.0002,
-   "specificity": 0.992,
-   "homeShare": 0.667,
-   "daysSeen": 3,
-   "rank": 0.958,
+   "relRatio": 1.0,
+   "docFreq": 0.0003,
+   "specificity": 0.99,
+   "homeShare": 0.6,
+   "daysSeen": 4,
+   "rank": 0.881,
    "alsoHeld": [
-    "grid scale",
     "utility scale"
    ]
   },
@@ -13308,7 +13507,7 @@
    "id": "drone-attack",
    "term": "drone attack",
    "direction": "falling",
-   "ratio": 0.10286832223659713,
+   "ratio": 0.10284452389715547,
    "display": true,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -13852,7 +14051,7 @@
    "id": "solid-state",
    "term": "solid state",
    "direction": "rising",
-   "ratio": 0.3182488719194724,
+   "ratio": 0.31817524580682477,
    "display": true,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -14513,7 +14712,7 @@
    "variants": [
     "solid state battery"
    ],
-   "relRatio": 1.57,
+   "relRatio": 1.58,
    "docFreq": 0.0005,
    "specificity": 0.983,
    "homeShare": 0.571,
@@ -14524,7 +14723,7 @@
    "id": "raw-material",
    "term": "raw material",
    "direction": "steady",
-   "ratio": 0.19802152030544948,
+   "ratio": 0.19797570850202426,
    "display": true,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -15157,7 +15356,7 @@
    "id": "electric-vehicle",
    "term": "electric vehicle",
    "direction": "steady",
-   "ratio": 0.16820360798146292,
+   "ratio": 0.16816469448048396,
    "display": true,
    "adoptionSpan": 39,
    "pace": "gradual",
@@ -15454,7 +15653,7 @@
      "rising",
      3,
      2,
-     74.1,
+     74.2,
      [
       {
        "title": "Hyundai Motor Group Partners on Used EV Battery ESS Project",
@@ -15967,7 +16166,7 @@
    "id": "fossil-fuel",
    "term": "fossil fuel",
    "direction": "rising",
-   "ratio": 0.2828878861506421,
+   "ratio": 0.2828224407171775,
    "display": true,
    "adoptionSpan": 44,
    "pace": "gradual",
@@ -16172,7 +16371,7 @@
      "rising",
      3,
      2,
-     94.4,
+     94.5,
      [
       {
        "title": "China's industrial engine starts to break its fossil fuel habit",
@@ -16204,7 +16403,7 @@
      "new",
      2,
      0,
-     62.9,
+     63.0,
      [
       {
        "title": "Most \u2f00Critical Minerals\u2f01 Aren't Going to the Energy Transition",
@@ -16698,7 +16897,7 @@
    "id": "feasibility-study",
    "term": "feasibility study",
    "direction": "steady",
-   "ratio": 0.16165022065750978,
+   "ratio": 0.1616128232669586,
    "display": true,
    "adoptionSpan": 21,
    "pace": "mixed",
@@ -17289,7 +17488,7 @@
    "id": "mass-production",
    "term": "mass production",
    "direction": "falling",
-   "ratio": 0.13799409080519126,
+   "ratio": 0.1379621662035012,
    "display": false,
    "adoptionSpan": 50,
    "pace": "gradual",
@@ -17472,7 +17671,7 @@
      "new",
      2,
      0,
-     66.4,
+     66.5,
      [
       {
        "title": "Silicon photonics testing shift could reshape how CPO suppliers win business",
@@ -17975,7 +18174,7 @@
    "id": "real-estate",
    "term": "real estate",
    "direction": "falling",
-   "ratio": 0.10037957250506657,
+   "ratio": 0.1003563499319017,
    "display": false,
    "adoptionSpan": 40,
    "pace": "gradual",
@@ -18743,7 +18942,7 @@
    "id": "stock-exchange",
    "term": "stock exchange",
    "direction": "rising",
-   "ratio": 0.5657757723012843,
+   "ratio": 0.5656448814343551,
    "display": false,
    "adoptionSpan": 19,
    "pace": "mixed",
@@ -19367,7 +19566,7 @@
    "id": "iran-war",
    "term": "iran war",
    "direction": "steady",
-   "ratio": 0.19679157297435973,
+   "ratio": 0.19674604571629742,
    "display": false,
    "adoptionSpan": 43,
    "pace": "gradual",
@@ -20099,7 +20298,7 @@
    "id": "nuclear-power",
    "term": "nuclear power",
    "direction": "steady",
-   "ratio": 0.23411411267639348,
+   "ratio": 0.23405995093835383,
    "display": false,
    "adoptionSpan": 41,
    "pace": "gradual",
@@ -20799,7 +20998,6 @@
     }
    ],
    "variants": [
-    "nuclear powered",
     "energy center"
    ],
    "relRatio": 1.16,
@@ -20813,7 +21011,7 @@
    "id": "energy-bill",
    "term": "energy bill",
    "direction": "falling",
-   "ratio": 0.14144394307532104,
+   "ratio": 0.14141122035858875,
    "display": false,
    "adoptionSpan": 37,
    "pace": "gradual",
@@ -21362,7 +21560,7 @@
    "id": "atomic-energy",
    "term": "atomic energy",
    "direction": "rising",
-   "ratio": 0.8486636584519264,
+   "ratio": 0.8484673221515326,
    "display": false,
    "adoptionSpan": 26,
    "pace": "mixed",
@@ -21965,7 +22163,7 @@
    "id": "crude-oil",
    "term": "crude oil",
    "direction": "steady",
-   "ratio": 0.152912370892239,
+   "ratio": 0.15287699498225812,
    "display": false,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -22140,7 +22338,7 @@
      "new",
      2,
      0,
-     298.9,
+     299.3,
      [
       {
        "title": "Elevated crack spreads and crude oil prices contribute to higher prices at the pump",
@@ -22647,7 +22845,7 @@
    "id": "humanoid-robot",
    "term": "humanoid robot",
    "direction": "falling",
-   "ratio": 0.09724271086428324,
+   "ratio": 0.09722021399652979,
    "display": false,
    "adoptionSpan": 46,
    "pace": "gradual",
@@ -23298,7 +23496,7 @@
    "id": "heat-pump",
    "term": "heat pump",
    "direction": "steady",
-   "ratio": 0.19802152030544948,
+   "ratio": 0.19797570850202426,
    "display": false,
    "adoptionSpan": 51,
    "pace": "gradual",
@@ -23887,7 +24085,7 @@
    "id": "oil-production",
    "term": "oil production",
    "direction": "steady",
-   "ratio": 0.2514558988005708,
+   "ratio": 0.25139772508193564,
    "display": false,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -24467,7 +24665,7 @@
    "id": "critical-mineral",
    "term": "critical mineral",
    "direction": "steady",
-   "ratio": 0.19195963703079286,
+   "ratio": 0.19191522762951332,
    "display": false,
    "adoptionSpan": 46,
    "pace": "gradual",
@@ -24698,7 +24896,7 @@
      "rising",
      2,
      2,
-     314.6,
+     315.1,
      [
       {
        "title": "Traceability is essential for the critical \u2f00minerals supply chain\u2f01, report",
@@ -24723,7 +24921,7 @@
      "falling",
      4,
      12,
-     78.7,
+     78.8,
      [
       {
        "title": "BRICS 2026: PM Modi warns against weaponisation of technology and critical minerals",
@@ -24762,7 +24960,7 @@
      "new",
      2,
      0,
-     62.9,
+     63.0,
      [
       {
        "title": "Most Critical Minerals Aren't Going to the Energy Transition",
@@ -25265,7 +25463,7 @@
    "id": "nuclear-reactor",
    "term": "nuclear reactor",
    "direction": "steady",
-   "ratio": 0.23573990512553508,
+   "ratio": 0.2356853672643146,
    "display": false,
    "adoptionSpan": 44,
    "pace": "gradual",
@@ -25810,7 +26008,7 @@
    "id": "energy-demand",
    "term": "energy demand",
    "direction": "rising",
-   "ratio": 0.2828878861506421,
+   "ratio": 0.2828224407171775,
    "display": false,
    "adoptionSpan": 40,
    "pace": "gradual",
@@ -26417,7 +26615,7 @@
    "id": "red-sea",
    "term": "red sea",
    "direction": "steady",
-   "ratio": 0.1637771972451086,
+   "ratio": 0.1637393077836291,
    "display": false,
    "adoptionSpan": 17,
    "pace": "mixed",
@@ -27050,7 +27248,7 @@
    "id": "energy-cost",
    "term": "energy cost",
    "direction": "rising",
-   "ratio": 0.37718384820085615,
+   "ratio": 0.3770965876229034,
    "display": false,
    "adoptionSpan": 34,
    "pace": "gradual",
@@ -27648,7 +27846,7 @@
    "id": "foreign-exchange",
    "term": "foreign exchange",
    "direction": "rising",
-   "ratio": 0.5657757723012843,
+   "ratio": 0.5656448814343551,
    "display": false,
    "adoptionSpan": 23,
    "pace": "mixed",
@@ -28250,7 +28448,7 @@
    "id": "low-carbon",
    "term": "low carbon",
    "direction": "steady",
-   "ratio": 0.22631030892051368,
+   "ratio": 0.22625795257374204,
    "display": false,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -28838,7 +29036,7 @@
    "id": "electric-truck",
    "term": "electric truck",
    "direction": "rising",
-   "ratio": 0.49505380076362376,
+   "ratio": 0.4949392712550607,
    "display": false,
    "adoptionSpan": 34,
    "pace": "gradual",
@@ -28969,7 +29167,7 @@
      "new",
      2,
      0,
-     17.4,
+     17.5,
      [
       {
        "title": "Google helps deploy 25 electric trucks in Texas as part of alliance",
@@ -29454,7 +29652,7 @@
    "id": "coast-guard",
    "term": "coast guard",
    "direction": "steady",
-   "ratio": 0.19802152030544948,
+   "ratio": 0.19797570850202426,
    "display": false,
    "adoptionSpan": 29,
    "pace": "gradual",
@@ -30070,7 +30268,7 @@
    "id": "data-center",
    "term": "data center",
    "direction": "falling",
-   "ratio": 0.12230466364928752,
+   "ratio": 0.12227636875891175,
    "display": false,
    "adoptionSpan": 56,
    "pace": "gradual",
@@ -31011,7 +31209,7 @@
    "id": "credit-facility",
    "term": "credit facility",
    "direction": "rising",
-   "ratio": 0.5657757723012843,
+   "ratio": 0.5656448814343551,
    "display": false,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -31573,7 +31771,7 @@
    "id": "warning-label",
    "term": "warning label",
    "direction": "rising",
-   "ratio": 0.37718384820085615,
+   "ratio": 0.3770965876229034,
    "display": false,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -31682,7 +31880,7 @@
      "rising",
      2,
      2,
-     1494.5,
+     1496.5,
      [
       {
        "title": "Global nutrition experts back FSSAI warning labels, seek stricter rules",
@@ -32113,7 +32311,7 @@
    "id": "autonomous-vehicle",
    "term": "autonomous vehicle",
    "direction": "falling",
-   "ratio": 0.1060829573064908,
+   "ratio": 0.10605841526894158,
    "display": false,
    "adoptionSpan": 3,
    "pace": "simultaneous",
@@ -32692,7 +32890,7 @@
    "id": "oil-price",
    "term": "oil price",
    "direction": "falling",
-   "ratio": 0.14144394307532107,
+   "ratio": 0.14141122035858877,
    "display": false,
    "adoptionSpan": 46,
    "pace": "gradual",
@@ -32971,7 +33169,7 @@
      "steady",
      2,
      0,
-     398.5,
+     399.1,
      [
       {
        "title": "Elevated crack spreads and crude oil prices contribute to higher prices at the pump",
@@ -33474,7 +33672,7 @@
    "id": "retail-space",
    "term": "retail space",
    "direction": "steady",
-   "ratio": 0.2121659146129816,
+   "ratio": 0.21211683053788316,
    "display": false,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -34023,7 +34221,7 @@
    "id": "charging-infrastructure",
    "term": "charging infrastructure",
    "direction": "rising",
-   "ratio": 0.3111766747657063,
+   "ratio": 0.3111046847888953,
    "display": false,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -34664,7 +34862,7 @@
    "id": "key-hurdle",
    "term": "key hurdle",
    "direction": "steady",
-   "ratio": 0.2121659146129816,
+   "ratio": 0.21211683053788316,
    "display": false,
    "adoptionSpan": 16,
    "pace": "mixed",
@@ -35199,7 +35397,7 @@
    "id": "capacity-expansion",
    "term": "capacity expansion",
    "direction": "falling",
-   "ratio": 0.06528181988091741,
+   "ratio": 0.06526671708857944,
    "display": false,
    "adoptionSpan": 16,
    "pace": "mixed",
@@ -35792,7 +35990,7 @@
    "id": "consumer-demand",
    "term": "consumer demand",
    "direction": "rising",
-   "ratio": 0.47147981025107016,
+   "ratio": 0.4713707345286292,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -36403,7 +36601,7 @@
    "id": "gold-price",
    "term": "gold price",
    "direction": "steady",
-   "ratio": 0.16165022065750978,
+   "ratio": 0.1616128232669586,
    "display": false,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -36983,7 +37181,7 @@
    "id": "fuel-cell",
    "term": "fuel cell",
    "direction": "rising",
-   "ratio": 1.6973273169038527,
+   "ratio": 1.6969346443030653,
    "display": false,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -37563,7 +37761,7 @@
    "id": "gas-price",
    "term": "gas price",
    "direction": "steady",
-   "ratio": 0.2514558988005708,
+   "ratio": 0.25139772508193564,
    "display": false,
    "adoptionSpan": 32,
    "pace": "gradual",
@@ -38193,7 +38391,7 @@
    "id": "wind-power",
    "term": "wind power",
    "direction": "steady",
-   "ratio": 0.16165022065750978,
+   "ratio": 0.1616128232669586,
    "display": false,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -38358,7 +38556,7 @@
      "new",
      2,
      0,
-     747.2,
+     748.2,
      [
       {
        "title": "British wind power to drive Maersk container ship",
@@ -38789,7 +38987,7 @@
    "id": "high-energy",
    "term": "high energy",
    "direction": "rising",
-   "ratio": 0.28288788615064214,
+   "ratio": 0.28282244071717755,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -39346,7 +39544,7 @@
    "id": "black-sea",
    "term": "black sea",
    "direction": "steady",
-   "ratio": 0.24247533098626467,
+   "ratio": 0.2424192349004379,
    "display": false,
    "adoptionSpan": 33,
    "pace": "gradual",
@@ -39908,7 +40106,7 @@
    "id": "supply-chain",
    "term": "supply chain",
    "direction": "steady",
-   "ratio": 0.1732688302672683,
+   "ratio": 0.17322874493927126,
    "display": false,
    "adoptionSpan": 50,
    "pace": "gradual",
@@ -40307,7 +40505,7 @@
      "new",
      2,
      0,
-     17.4,
+     17.5,
      [
       {
        "title": "Google helps deploy 25 \u2f00electric trucks\u2f01 in Texas as part of alliance",
@@ -40810,7 +41008,7 @@
    "id": "electricity-demand",
    "term": "electricity demand",
    "direction": "steady",
-   "ratio": 0.19802152030544948,
+   "ratio": 0.19797570850202426,
    "display": false,
    "adoptionSpan": 41,
    "pace": "gradual",
@@ -41385,7 +41583,7 @@
    "id": "oil-export",
    "term": "oil export",
    "direction": "falling",
-   "ratio": 0.11786995256276754,
+   "ratio": 0.1178426836321573,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -41921,7 +42119,7 @@
    "id": "middle-east",
    "term": "middle east",
    "direction": "falling",
-   "ratio": 0.13287158288893797,
+   "ratio": 0.13284084336715915,
    "display": false,
    "adoptionSpan": 37,
    "pace": "gradual",
@@ -42248,7 +42446,7 @@
      "rising",
      2,
      2,
-     192.8,
+     193.1,
      [
       {
        "title": "India's Crude Oil Benchmark Tops $100 as Middle East War Escalates",
@@ -42756,7 +42954,7 @@
    "id": "zero-emission",
    "term": "zero emission",
    "direction": "rising",
-   "ratio": 0.28288788615064214,
+   "ratio": 0.28282244071717755,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -43398,7 +43596,7 @@
    "id": "rare-earth",
    "term": "rare earth",
    "direction": "steady",
-   "ratio": 0.22631030892051368,
+   "ratio": 0.22625795257374204,
    "display": false,
    "adoptionSpan": 50,
    "pace": "gradual",
@@ -43641,7 +43839,7 @@
      "new",
      2,
      0,
-     373.6,
+     374.1,
      [
       {
        "title": "Ionic Rare Earths, US \u2f00Strategic Metals\u2f01 form JV to build $100M magnet recycling plant in Missouri",
@@ -43666,7 +43864,7 @@
      "new",
      2,
      0,
-     249.1,
+     249.4,
      [
       {
        "title": "\u2f00Site visit\u2f01: Cyclic Materials opens commercial-scale rare earth recycling plant in Arizona",
@@ -43691,7 +43889,7 @@
      "falling",
      4,
      12,
-     78.7,
+     78.8,
      [
       {
        "title": "BRICS 2026: PM Modi warns against weaponisation of technology and \u2f00critical minerals\u2f01",
@@ -44208,7 +44406,7 @@
    "id": "solar-panel",
    "term": "solar panel",
    "direction": "falling",
-   "ratio": 0.06656185556485697,
+   "ratio": 0.0665464566393359,
    "display": false,
    "adoptionSpan": 59,
    "pace": "gradual",
@@ -44828,7 +45026,7 @@
    "id": "media-briefing",
    "term": "media briefing",
    "direction": "rising",
-   "ratio": 0.5657757723012843,
+   "ratio": 0.5656448814343551,
    "display": false,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -45354,7 +45552,7 @@
    "id": "tata-sons",
    "term": "tata sons",
    "direction": "rising",
-   "ratio": 1.1315515446025686,
+   "ratio": 1.1312897628687102,
    "display": false,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -45499,7 +45697,7 @@
      "new",
      2,
      0,
-     1494.5,
+     1496.5,
      [
       {
        "title": "Tata Sons board likely to meet this week amid succession concerns",
@@ -45930,7 +46128,7 @@
    "id": "energy-saving",
    "term": "energy saving",
    "direction": "steady",
-   "ratio": 0.2121659146129816,
+   "ratio": 0.21211683053788316,
    "display": false,
    "adoptionSpan": 19,
    "pace": "mixed",
@@ -46483,7 +46681,7 @@
    "id": "center-stage",
    "term": "center stage",
    "direction": "falling",
-   "ratio": 0.1060829573064908,
+   "ratio": 0.10605841526894158,
    "display": false,
    "adoptionSpan": 3,
    "pace": "simultaneous",
@@ -47107,7 +47305,7 @@
    "id": "drone-strike",
    "term": "drone strike",
    "direction": "rising",
-   "ratio": 0.37718384820085615,
+   "ratio": 0.3770965876229034,
    "display": false,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -47629,7 +47827,7 @@
    "id": "rizing-demand",
    "term": "rizing demand",
    "direction": "falling",
-   "ratio": 0.09429596205021404,
+   "ratio": 0.09427414690572584,
    "display": false,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -48267,563 +48465,10 @@
    "rank": 0.418
   },
   {
-   "id": "grid-scale",
-   "term": "grid scale",
-   "direction": "steady",
-   "ratio": 0.20206277582188722,
-   "display": false,
-   "adoptionSpan": 37,
-   "pace": "gradual",
-   "kind": "concept",
-   "sectorCount": 2,
-   "effectiveSectors": 2.0,
-   "newestSector": "Utilities",
-   "daysSinceNewestSector": 42,
-   "articles14d": 5,
-   "articlesPrior14d": 7,
-   "publishers": 0,
-   "events": 0,
-   "topPubShare": null,
-   "sectors": [
-    {
-     "name": "Energy",
-     "firstSeen": "2026-06-28",
-     "recent": 2,
-     "articles": 7,
-     "share": 0.4,
-     "atSectorStart": false,
-     "grip": 0.167,
-     "outlets": 1,
-     "adopt": 10,
-     "daysSince": 79
-    },
-    {
-     "name": "Utilities",
-     "firstSeen": "2026-08-04",
-     "recent": 3,
-     "articles": 8,
-     "share": 0.6,
-     "atSectorStart": false,
-     "grip": 0.429,
-     "outlets": 3,
-     "adopt": 47,
-     "daysSince": 42
-    }
-   ],
-   "sinceStart": false,
-   "origins": [
-    [
-     "GB",
-     8
-    ],
-    [
-     "DE",
-     6
-    ],
-    [
-     "JP",
-     1
-    ],
-    [
-     "US",
-     1
-    ]
-   ],
-   "flow": {
-    "weeks": [
-     "2026-06-18",
-     "2026-06-25",
-     "2026-07-02",
-     "2026-07-09",
-     "2026-07-16",
-     "2026-07-23",
-     "2026-07-30",
-     "2026-08-06",
-     "2026-08-13",
-     "2026-08-20",
-     "2026-08-27",
-     "2026-09-03",
-     "2026-09-10"
-    ],
-    "bands": [
-     {
-      "sector": "Utilities",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       1,
-       1,
-       1,
-       1,
-       2,
-       1
-      ]
-     },
-     {
-      "sector": "Energy",
-      "n": [
-       0,
-       1,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       2,
-       3,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Industrials",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "cooc": [],
-   "examples": [
-    {
-     "publisher": "Energy Storage News",
-     "title": "Competitive TCO, detailed specs and strong local presence key for BESS supplier success in Germany, RWE says",
-     "url": "https://www.energy-storage.news/germany-capacity-market-contracts-bankable-base-layer-alongside-merchant-revenues-rwe/",
-     "date": "2026-09-14",
-     "sector": "Utilities",
-     "country": "GB",
-     "quote": "\u2026and opportunities in the country's \u2f00grid-scale\u2f01 storage market."
-    },
-    {
-     "publisher": "Energy Storage News",
-     "title": "Australia's NEM BESS fleet earns AU$29 million in August as capture rate climbs to 54%",
-     "url": "https://www.energy-storage.news/australias-nem-bess-fleet-earns-au29-million-in-august-as-capture-rate-climbs-to-54/",
-     "date": "2026-09-09",
-     "sector": "Utilities",
-     "country": "GB",
-     "quote": "Australia's 58 \u2f00grid-scale\u2f01 battery storage systems in the NEM generated a combined AU$28.79 million in estimated gross energy and FCAS r\u2026"
-    },
-    {
-     "publisher": "Energy Storage News",
-     "title": "Under the hood: Inside Tesla's Megapack 3 as Texas production begins",
-     "url": "https://www.energy-storage.news/under-the-hood-inside-teslas-megapack-3-as-texas-production-begins/",
-     "date": "2026-09-04",
-     "sector": "Utilities",
-     "country": "GB",
-     "quote": "\u2026esla was one of the pioneers of the \u2f00grid-scale\u2f01 battery storage market, but has faced increasing competition in the past few years. In this article we look u\u2026"
-    },
-    {
-     "publisher": "PV Magazine",
-     "title": "Texas Instruments introduces chip-level diagnostics to improve \u2f00grid-scale\u2f01 battery cell safety",
-     "url": "https://www.pv-magazine.com/2026/09/02/texas-instruments-introduces-chip-level-diagnostics-to-improve-grid-scale-battery-cell-safety/",
-     "date": "2026-09-02",
-     "sector": "Energy",
-     "country": "DE",
-     "quote": "\u2026s chip-level diagnostics to improve \u2f00grid-scale\u2f01 battery cell safety appeared first on pv magazine Global ."
-    },
-    {
-     "publisher": "PV Magazine",
-     "title": "Rooftop solar meets 99.9% of South Australia electricity demand",
-     "url": "https://www.pv-magazine.com/2026/09/02/rooftop-solar-meets-99-9-of-sa-electricity-demand/",
-     "date": "2026-09-02",
-     "sector": "Energy",
-     "country": "DE",
-     "quote": "\u2026of winter, slashing the reliance on \u2f00grid-scale\u2f01 generation. The post Rooftop solar meets 99.9% of South Australia electricity demand appeared first on pv mag\u2026"
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-06-18",
-     "n": 0
-    },
-    {
-     "day": "2026-06-19",
-     "n": 0
-    },
-    {
-     "day": "2026-06-20",
-     "n": 0
-    },
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 1
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 0
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 0
-    },
-    {
-     "day": "2026-07-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 0
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 0
-    },
-    {
-     "day": "2026-08-04",
-     "n": 1
-    },
-    {
-     "day": "2026-08-05",
-     "n": 0
-    },
-    {
-     "day": "2026-08-06",
-     "n": 0
-    },
-    {
-     "day": "2026-08-07",
-     "n": 0
-    },
-    {
-     "day": "2026-08-08",
-     "n": 0
-    },
-    {
-     "day": "2026-08-09",
-     "n": 0
-    },
-    {
-     "day": "2026-08-10",
-     "n": 0
-    },
-    {
-     "day": "2026-08-11",
-     "n": 0
-    },
-    {
-     "day": "2026-08-12",
-     "n": 1
-    },
-    {
-     "day": "2026-08-13",
-     "n": 0
-    },
-    {
-     "day": "2026-08-14",
-     "n": 1
-    },
-    {
-     "day": "2026-08-15",
-     "n": 0
-    },
-    {
-     "day": "2026-08-16",
-     "n": 0
-    },
-    {
-     "day": "2026-08-17",
-     "n": 0
-    },
-    {
-     "day": "2026-08-18",
-     "n": 0
-    },
-    {
-     "day": "2026-08-19",
-     "n": 1
-    },
-    {
-     "day": "2026-08-20",
-     "n": 0
-    },
-    {
-     "day": "2026-08-21",
-     "n": 0
-    },
-    {
-     "day": "2026-08-22",
-     "n": 0
-    },
-    {
-     "day": "2026-08-23",
-     "n": 0
-    },
-    {
-     "day": "2026-08-24",
-     "n": 0
-    },
-    {
-     "day": "2026-08-25",
-     "n": 2
-    },
-    {
-     "day": "2026-08-26",
-     "n": 1
-    },
-    {
-     "day": "2026-08-27",
-     "n": 2
-    },
-    {
-     "day": "2026-08-28",
-     "n": 0
-    },
-    {
-     "day": "2026-08-29",
-     "n": 0
-    },
-    {
-     "day": "2026-08-30",
-     "n": 0
-    },
-    {
-     "day": "2026-08-31",
-     "n": 0
-    },
-    {
-     "day": "2026-09-01",
-     "n": 1
-    },
-    {
-     "day": "2026-09-02",
-     "n": 2
-    },
-    {
-     "day": "2026-09-03",
-     "n": 0
-    },
-    {
-     "day": "2026-09-04",
-     "n": 1
-    },
-    {
-     "day": "2026-09-05",
-     "n": 0
-    },
-    {
-     "day": "2026-09-06",
-     "n": 0
-    },
-    {
-     "day": "2026-09-07",
-     "n": 0
-    },
-    {
-     "day": "2026-09-08",
-     "n": 0
-    },
-    {
-     "day": "2026-09-09",
-     "n": 1
-    },
-    {
-     "day": "2026-09-10",
-     "n": 0
-    },
-    {
-     "day": "2026-09-11",
-     "n": 0
-    },
-    {
-     "day": "2026-09-12",
-     "n": 0
-    },
-    {
-     "day": "2026-09-13",
-     "n": 0
-    },
-    {
-     "day": "2026-09-14",
-     "n": 1
-    },
-    {
-     "day": "2026-09-15",
-     "n": 0
-    }
-   ],
-   "relRatio": 1.0,
-   "docFreq": 0.0003,
-   "specificity": 0.99,
-   "homeShare": 0.6,
-   "daysSeen": 4,
-   "rank": 0.881
-  },
-  {
    "id": "power-grid",
    "term": "power grid",
    "direction": "rising",
-   "ratio": 0.39604304061089896,
+   "ratio": 0.3959514170040485,
    "display": false,
    "adoptionSpan": 47,
    "pace": "gradual",
@@ -49474,7 +49119,7 @@
    "id": "utility-scale",
    "term": "utility scale",
    "direction": "steady",
-   "ratio": 0.17680492884415133,
+   "ratio": 0.17676402544823597,
    "display": false,
    "adoptionSpan": 32,
    "pace": "gradual",
@@ -50031,7 +49676,7 @@
    "id": "clean-energy",
    "term": "clean energy",
    "direction": "steady",
-   "ratio": 0.22395290986925834,
+   "ratio": 0.22390109890109888,
    "display": false,
    "adoptionSpan": 50,
    "pace": "gradual",
@@ -50340,7 +49985,7 @@
      "rising",
      3,
      2,
-     94.4,
+     94.5,
      [
       {
        "title": "China's industrial engine starts to break its \u2f00fossil fuel\u2f01 habit",
@@ -50875,7 +50520,7 @@
    "id": "natural-gas",
    "term": "natural gas",
    "direction": "steady",
-   "ratio": 0.14548519859175882,
+   "ratio": 0.14545154094026275,
    "display": false,
    "adoptionSpan": 42,
    "pace": "gradual",
@@ -51178,7 +50823,7 @@
      "new",
      2,
      0,
-     332.1,
+     332.6,
      [
       {
        "title": "HD Hyundai to Unveil Next-Generation LNG Carrier Technologies",
@@ -51203,7 +50848,7 @@
      "rising",
      2,
      2,
-     221.4,
+     221.7,
      [
       {
        "title": "HD Hyundai to Unveil Next-Generation \u2f00LNG Carrier\u2f01 Technologies",
@@ -51709,7 +51354,7 @@
    "id": "power-supply",
    "term": "power supply",
    "direction": "steady",
-   "ratio": 0.24247533098626467,
+   "ratio": 0.2424192349004379,
    "display": false,
    "adoptionSpan": 49,
    "pace": "gradual",
@@ -52323,7 +51968,7 @@
    "id": "power-generation",
    "term": "power generation",
    "direction": "steady",
-   "ratio": 0.2545990975355779,
+   "ratio": 0.2545401966454598,
    "display": false,
    "adoptionSpan": 38,
    "pace": "gradual",
@@ -53028,7 +52673,7 @@
    "id": "solar-power",
    "term": "solar power",
    "direction": "steady",
-   "ratio": 0.1885919241004281,
+   "ratio": 0.18854829381145172,
    "display": false,
    "adoptionSpan": 56,
    "pace": "gradual",
@@ -53658,7 +53303,7 @@
    "id": "global-energy",
    "term": "global energy",
    "direction": "falling",
-   "ratio": 0.1257279494002854,
+   "ratio": 0.12569886254096782,
    "display": false,
    "adoptionSpan": 54,
    "pace": "gradual",
@@ -54258,7 +53903,7 @@
    "id": "green-energy",
    "term": "green energy",
    "direction": "falling",
-   "ratio": 0.12123766549313233,
+   "ratio": 0.12120961745021895,
    "display": false,
    "adoptionSpan": 38,
    "pace": "gradual",
