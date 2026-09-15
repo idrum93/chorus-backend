@@ -1,14 +1,21 @@
 # Crosstalk — week ending 15 September 2026
 
-*18,751 articles over 143 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*18,763 articles over 143 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
-## Crossed into a new sector this week
+## What is crossing now
 
-Nothing crossed into a new sector this week.
+**[virtual power plant](https://crosstalkwire.com/#virtual-power-plant)** — Energy, Utilities, 4 articles across 4 newsrooms
+**[iron ore](https://crosstalkwire.com/#iron-ore)** — Energy, Materials, Supply chain, 6 articles across 5 newsrooms
+**[lithium carbonate](https://crosstalkwire.com/#lithium-carbonate)** — Autos, Materials, 4 articles across 3 newsrooms
+**[early stage](https://crosstalkwire.com/#early-stage)** — Materials, Technology, 4 articles across 0 newsrooms
+**[offshore wind](https://crosstalkwire.com/#offshore-wind)** — Supply chain, Utilities, 4 articles across 3 newsrooms
+**[solar plus storage](https://crosstalkwire.com/#solar-plus-storage)** — Energy, Utilities, 5 articles across 0 newsrooms
 
-## Being used more than a fortnight ago
+## Being discussed alongside
 
-Nothing moved sharply this fortnight.
+**lithium carbonate** — recycling facility
+**energy storage** — grid interconnection
+**lng carrier** — liquefied natural gas
 
 ---
 
