@@ -44,9 +44,12 @@ jobs:
         run: python3 prices.py
 
       - name: Collect
+        shell: bash
         env:
           NEWSAPI_AI_KEY: ${{ secrets.NEWSAPI_AI_KEY }}
-        run: python3 collect.py 2>&1 | tee run.txt
+        run: |
+          set -o pipefail
+          python3 collect.py 2>&1 | tee run.txt
 
       - name: Report
         if: always()
