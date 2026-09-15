@@ -1,6 +1,6 @@
 # Crosstalk — week ending 15 September 2026
 
-*18,561 articles over 143 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*18,562 articles over 143 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## Crossed into a new sector this week
 
@@ -8,7 +8,7 @@ Nothing crossed into a new sector this week.
 
 ## Being used more than a fortnight ago
 
-**[public offering ipo](https://crosstalkwire.com/#public-offering-ipo)** — 6 articles, 1.5× the fortnight before, in technology, supply chain
+Nothing moved sharply this fortnight.
 
 ---
 
