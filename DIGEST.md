@@ -1,6 +1,6 @@
 # Crosstalk — week ending 15 September 2026
 
-*18,936 articles over 143 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*18,988 articles over 143 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
