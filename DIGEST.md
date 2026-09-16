@@ -1,23 +1,20 @@
-# Crosstalk — week ending 15 September 2026
+# Crosstalk — week ending 16 September 2026
 
-*18,988 articles over 143 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*19,099 articles over 144 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
-**[iron ore](https://crosstalkwire.com/#iron-ore)** — Energy, Materials, Supply chain, 9 articles across 6 newsrooms
+**[iron ore](https://crosstalkwire.com/#iron-ore)** — Energy, Materials, Supply chain, 8 articles across 6 newsrooms
 **[virtual power plant](https://crosstalkwire.com/#virtual-power-plant)** — Energy, Utilities, 4 articles across 4 newsrooms
-**[battery production](https://crosstalkwire.com/#battery-production)** — Autos, Technology, 3 articles across 3 newsrooms
-**[wind energy](https://crosstalkwire.com/#wind-energy)** — Energy, Utilities, 5 articles across 5 newsrooms
-**[lithium carbonate](https://crosstalkwire.com/#lithium-carbonate)** — Autos, Materials, 4 articles across 3 newsrooms
-**[solar plus storage](https://crosstalkwire.com/#solar-plus-storage)** — Energy, Utilities, 5 articles across 0 newsrooms
-
-## Being used more than a fortnight ago
-
-**[iron ore](https://crosstalkwire.com/#iron-ore)** — 9 articles, 1.8× the fortnight before, in energy, supply chain, materials
+**[utility scale](https://crosstalkwire.com/#utility-scale)** — Energy, Utilities, 4 articles across 0 newsrooms
+**[lng carrier](https://crosstalkwire.com/#lng-carrier)** — Energy, Supply chain, 5 articles across 4 newsrooms
+**[raw material](https://crosstalkwire.com/#raw-material)** — Energy, Technology, 5 articles across 4 newsrooms
+**[solar plus storage](https://crosstalkwire.com/#solar-plus-storage)** — Energy, Utilities, 6 articles across 0 newsrooms
 
 ## Being discussed alongside
 
-**electric vehicle** — charging infrastructure
+**lng carrier** — hybrid electric
+**hybrid electric** — lng carrier
 
 ---
 
