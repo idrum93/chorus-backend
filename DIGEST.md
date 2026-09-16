@@ -1,11 +1,11 @@
 # Crosstalk — week ending 16 September 2026
 
-*19,265 articles over 144 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*19,449 articles over 144 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
-**[utility scale](https://crosstalkwire.com/#utility-scale)** — Energy, Utilities, 5 articles across 0 newsrooms
-**[virtual power plant](https://crosstalkwire.com/#virtual-power-plant)** — Energy, Utilities, 4 articles across 4 newsrooms
+**[utility scale](https://crosstalkwire.com/#utility-scale)** — Energy, Utilities, 6 articles across 0 newsrooms
+**[virtual power plant](https://crosstalkwire.com/#virtual-power-plant)** — Energy, Utilities, 5 articles across 4 newsrooms
 **[solar plus storage](https://crosstalkwire.com/#solar-plus-storage)** — Energy, Utilities, 7 articles across 0 newsrooms
 **[raw material](https://crosstalkwire.com/#raw-material)** — Energy, Technology, 5 articles across 4 newsrooms
 **[lithium carbonate](https://crosstalkwire.com/#lithium-carbonate)** — Autos, Materials, 4 articles across 3 newsrooms
