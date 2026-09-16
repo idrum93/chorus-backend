@@ -1,19 +1,23 @@
 # Crosstalk — week ending 16 September 2026
 
-*19,099 articles over 144 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*19,265 articles over 144 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
-**[iron ore](https://crosstalkwire.com/#iron-ore)** — Energy, Materials, Supply chain, 8 articles across 6 newsrooms
+**[utility scale](https://crosstalkwire.com/#utility-scale)** — Energy, Utilities, 5 articles across 0 newsrooms
 **[virtual power plant](https://crosstalkwire.com/#virtual-power-plant)** — Energy, Utilities, 4 articles across 4 newsrooms
-**[utility scale](https://crosstalkwire.com/#utility-scale)** — Energy, Utilities, 4 articles across 0 newsrooms
-**[lng carrier](https://crosstalkwire.com/#lng-carrier)** — Energy, Supply chain, 5 articles across 4 newsrooms
+**[solar plus storage](https://crosstalkwire.com/#solar-plus-storage)** — Energy, Utilities, 7 articles across 0 newsrooms
 **[raw material](https://crosstalkwire.com/#raw-material)** — Energy, Technology, 5 articles across 4 newsrooms
-**[solar plus storage](https://crosstalkwire.com/#solar-plus-storage)** — Energy, Utilities, 6 articles across 0 newsrooms
+**[lithium carbonate](https://crosstalkwire.com/#lithium-carbonate)** — Autos, Materials, 4 articles across 3 newsrooms
+**[iron ore](https://crosstalkwire.com/#iron-ore)** — Energy, Materials, Supply chain, 9 articles across 7 newsrooms
+
+## Being used more than a fortnight ago
+
+**[iron ore](https://crosstalkwire.com/#iron-ore)** — 9 articles, 1.5× the fortnight before, in energy, supply chain, materials
 
 ## Being discussed alongside
 
-**lng carrier** — hybrid electric
+**energy storage** — grid interconnection
 **hybrid electric** — lng carrier
 
 ---
