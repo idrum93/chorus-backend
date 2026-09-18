@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-18T01:55:08.032007+00:00",
+ "generated": "2026-09-18T02:06:20.286457+00:00",
  "placeWords": [
   "africa",
   "alberta",
@@ -2827,7 +2827,7 @@
   ],
   [
    "TW",
-   1734
+   1743
   ],
   [
    "GB",
@@ -3137,6 +3137,13 @@
   {
    "articles_list": [
     {
+     "title": "Taiwan central bank keeps rates unchanged as inflation stays contained",
+     "url": "https://www.digitimes.com/news/a20260918PD201/taiwan-inflation-2026-2027-economy.html",
+     "publisher": "DigiTimes Asia",
+     "sector": "Technology",
+     "quote": "\u2026eadily. The decision came as the US \u2f00Federal Reserve\u2f01's rate hike drew criticism from President Donald Trump."
+    },
+    {
      "title": "Iran war to spur inflation by 0.6 percentage point by Q1 2027: CBO study",
      "url": "https://www.cfodive.com/news/iran-war-spur-inflation-06-percentage-point-q1-2027-cbo-study-Fed/830724/",
      "publisher": "CFO Dive",
@@ -3149,13 +3156,6 @@
      "publisher": "SCMP Business",
      "sector": "Supply chain",
      "quote": "The US \u2f00Federal Reserve\u2f01 raised interest rates for the first time in three years in an effort to quell inflation partly caused by the\u2026"
-    },
-    {
-     "title": "Hong Kong property market gets reprieve on rates, but position remains precarious",
-     "url": "https://www.scmp.com/business/article/3367855/hong-kong-property-market-gets-reprieve-rates-position-remains-precarious?utm_source=rss_feed",
-     "publisher": "SCMP Business",
-     "sector": "Supply chain",
-     "quote": "\u2026et dodged an immediate hit from the \u2f00Federal Reserve\u2f01's rate hike on Thursday as major local banks kept their prime rates unchanged, but another increase could pun\u2026"
     }
    ],
    "name": "Federal Reserve",
@@ -3163,21 +3163,22 @@
    "sectors": [
     "Finance",
     "Supply chain",
+    "Technology",
     "Real estate",
     "Energy",
-    "Technology",
     "Consumer"
    ],
    "sectorCount": 6,
    "home": "Finance",
    "away": [
     "Supply chain",
+    "Technology",
     "Real estate",
     "Energy"
    ],
-   "awayShare": 0.319,
-   "articles": 47,
-   "recent": 16,
+   "awayShare": 0.354,
+   "articles": 48,
+   "recent": 17,
    "prior": 31,
    "firstSeen": "2026-06-22",
    "direction": "falling"
@@ -4111,29 +4112,43 @@
   {
    "articles_list": [
     {
-     "title": "Federal-State Unemployment Compensation (UC) Program; Data Availability",
-     "url": "https://www.federalregister.gov/documents/2026/09/16/2026-18978/federal-state-unemployment-compensation-uc-program-data-availability",
-     "publisher": "Federal Register",
-     "sector": "Policy",
-     "quote": "The \u2f00Department of Labor\u2f01 (DOL or the Department) is issuing this final rule to require the disclosure of confidential unemployment com\u2026"
+     "title": "Taiwan central bank keeps rates unchanged as inflation stays contained",
+     "url": "https://www.digitimes.com/news/a20260918PD201/taiwan-inflation-2026-2027-economy.html",
+     "publisher": "DigiTimes Asia",
+     "sector": "Technology",
+     "quote": "\u2026steadily. The decision came as the \u2f00US Federal Reserve\u2f01's rate hike drew criticism from President Donald Trump."
+    },
+    {
+     "title": "Fed rate hike risks worsening China's economic divide",
+     "url": "https://www.scmp.com/plus/economy/policy/article/3367858/fed-rate-hike-risks-worsening-chinas-economic-divide?utm_source=rss_feed",
+     "publisher": "SCMP Business",
+     "sector": "Supply chain",
+     "quote": "The \u2f00US Federal Reserve\u2f01 raised interest rates for the first time in three years in an effort to quell inflation partly caused by the\u2026"
+    },
+    {
+     "title": "Hong Kong stocks decline after Fed raises interest rates and signals more to come",
+     "url": "https://www.scmp.com/business/china-business/article/3367790/hong-kong-stocks-decline-after-fed-raises-interest-rates-and-signals-more-come?utm_source=rss_feed",
+     "publisher": "SCMP Business",
+     "sector": "Supply chain",
+     "quote": "\u2026d China fell on Thursday, after the \u2f00US Federal Reserve\u2f01 raised interest rates for the first time in three years and signalled that further tightening remained on the\u2026"
     }
    ],
-   "name": "Department of Labor",
+   "name": "US Federal Reserve",
    "acronym": null,
    "sectors": [
-    "Policy",
     "Supply chain",
-    "Labor"
+    "Technology",
+    "Consumer"
    ],
    "sectorCount": 3,
-   "home": "Policy",
+   "home": "Supply chain",
    "away": [],
    "awayShare": 0.0,
-   "articles": 8,
-   "recent": 1,
-   "prior": 7,
-   "firstSeen": "2026-06-23",
-   "direction": "falling"
+   "articles": 9,
+   "recent": 7,
+   "prior": 2,
+   "firstSeen": "2026-08-20",
+   "direction": "rising"
   }
  ],
  "companies": [
@@ -4161,6 +4176,15 @@
      "variants": [],
      "examples": [
       {
+       "publisher": "DigiTimes Asia",
+       "title": "Resonac grows 300mm SiC crystal, marking a substrate milestone",
+       "url": "https://www.digitimes.com/news/a20260918PR200/sic-resonac-300mm-substrate-silicon.html",
+       "date": "2026-09-18",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026power electronics used worldwide in \u2f00electric vehicles\u2f01, renewable energy systems, data centers, and advanced computing. The achievement underscores the push for lar\u2026"
+      },
+      {
        "publisher": "Utility Dive",
        "title": "Trump is stalling EV adoption. Here's how states can step up.",
        "url": "https://www.utilitydive.com/news/trump-is-stalling-ev-adoption-heres-how-states-can-step-up/829632/",
@@ -4177,15 +4201,6 @@
        "sector": "Autos",
        "country": "DE",
        "quote": "\u2026y, these tariffs only apply to pure \u2f00electric vehicles\u2f01 from China."
-      },
-      {
-       "publisher": "Just Auto",
-       "title": "Thailand eyes 30% excise tax on imported \u2f00electric vehicles\u2f01 report",
-       "url": "https://www.just-auto.com/news/thailand-30-excise-tax-imported-evs/",
-       "date": "2026-09-16",
-       "sector": "Autos",
-       "country": "US",
-       "quote": ""
       }
      ]
     },
@@ -4286,30 +4301,30 @@
      "examples": [
       {
        "publisher": "DigiTimes Asia",
+       "title": "Resonac grows 300mm SiC crystal, marking a substrate milestone",
+       "url": "https://www.digitimes.com/news/a20260918PR200/sic-resonac-300mm-substrate-silicon.html",
+       "date": "2026-09-18",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026vehicles, renewable energy systems, \u2f00data centers\u2f01, and advanced computing. The achievement underscores the push for larger, higher-quality wafers that may impr\u2026"
+      },
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "GlobalFoundries, Marvell expand SiGe capacity deal for AI optical connectivity",
+       "url": "https://www.digitimes.com/news/a20260918VL208/marvell-globalfoundries-technology-capacity-data.html",
+       "date": "2026-09-18",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026l connectivity used in AI and cloud \u2f00data centers\u2f01."
+      },
+      {
+       "publisher": "DigiTimes Asia",
        "title": "GaN is winning the AI power argument, not yet the cost battle",
        "url": "https://www.digitimes.com/news/a20260917VL222/gan-cost-silicon-data-adoption.html",
        "date": "2026-09-18",
        "sector": "Technology",
        "country": "TW",
        "quote": "\u2026as a key power semiconductor for AI \u2f00data centers\u2f01, where rising rack power and the shift toward higher-voltage architectures are forcing suppliers to improve e\u2026"
-      },
-      {
-       "publisher": "The Elec",
-       "title": "Doosan to Invest 968.4 Billion Won in AI CCL Capacity",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=14003",
-       "date": "2026-09-18",
-       "sector": "Technology",
-       "country": "KR",
-       "quote": "\u2026sed in artificial intelligence (AI) \u2f00data centers\u2f01. The investment is equivalent to 7.92% of the company's consolidated equity in 2025. CCL is a key material us\u2026"
-      },
-      {
-       "publisher": "POWER Magazine",
-       "title": "Bringing a Power Plant's Worth of Load Onto the Grid: NERC's Interconnection Reckoning",
-       "url": "https://www.powermag.com/bringing-a-power-plants-worth-of-load-onto-the-grid-nercs-interconnection-reckoning/",
-       "date": "2026-09-17",
-       "sector": "Utilities",
-       "country": "US",
-       "quote": "\u2f00Data centers\u2f01 are connecting to the transmission system faster than the reliability rules were built to handle and behaving\u2026"
       }
      ]
     },
@@ -4738,30 +4753,30 @@
      "examples": [
       {
        "publisher": "DigiTimes Asia",
+       "title": "Resonac grows 300mm SiC crystal, marking a substrate milestone",
+       "url": "https://www.digitimes.com/news/a20260918PR200/sic-resonac-300mm-substrate-silicon.html",
+       "date": "2026-09-18",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026vehicles, renewable energy systems, \u2f00data centers\u2f01, and advanced computing. The achievement underscores the push for larger, higher-quality wafers that may impr\u2026"
+      },
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "GlobalFoundries, Marvell expand SiGe capacity deal for AI optical connectivity",
+       "url": "https://www.digitimes.com/news/a20260918VL208/marvell-globalfoundries-technology-capacity-data.html",
+       "date": "2026-09-18",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026l connectivity used in AI and cloud \u2f00data centers\u2f01."
+      },
+      {
+       "publisher": "DigiTimes Asia",
        "title": "GaN is winning the AI power argument, not yet the cost battle",
        "url": "https://www.digitimes.com/news/a20260917VL222/gan-cost-silicon-data-adoption.html",
        "date": "2026-09-18",
        "sector": "Technology",
        "country": "TW",
        "quote": "\u2026as a key power semiconductor for AI \u2f00data centers\u2f01, where rising rack power and the shift toward higher-voltage architectures are forcing suppliers to improve e\u2026"
-      },
-      {
-       "publisher": "The Elec",
-       "title": "Doosan to Invest 968.4 Billion Won in AI CCL Capacity",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=14003",
-       "date": "2026-09-18",
-       "sector": "Technology",
-       "country": "KR",
-       "quote": "\u2026sed in artificial intelligence (AI) \u2f00data centers\u2f01. The investment is equivalent to 7.92% of the company's consolidated equity in 2025. CCL is a key material us\u2026"
-      },
-      {
-       "publisher": "POWER Magazine",
-       "title": "Bringing a Power Plant's Worth of Load Onto the Grid: NERC's Interconnection Reckoning",
-       "url": "https://www.powermag.com/bringing-a-power-plants-worth-of-load-onto-the-grid-nercs-interconnection-reckoning/",
-       "date": "2026-09-17",
-       "sector": "Utilities",
-       "country": "US",
-       "quote": "\u2f00Data centers\u2f01 are connecting to the transmission system faster than the reliability rules were built to handle and behaving\u2026"
       }
      ]
     },
@@ -4902,6 +4917,15 @@
      "variants": [],
      "examples": [
       {
+       "publisher": "DigiTimes Asia",
+       "title": "Resonac grows 300mm SiC crystal, marking a substrate milestone",
+       "url": "https://www.digitimes.com/news/a20260918PR200/sic-resonac-300mm-substrate-silicon.html",
+       "date": "2026-09-18",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026power electronics used worldwide in \u2f00electric vehicles\u2f01, renewable energy systems, data centers, and advanced computing. The achievement underscores the push for lar\u2026"
+      },
+      {
        "publisher": "Utility Dive",
        "title": "Trump is stalling EV adoption. Here's how states can step up.",
        "url": "https://www.utilitydive.com/news/trump-is-stalling-ev-adoption-heres-how-states-can-step-up/829632/",
@@ -4918,15 +4942,6 @@
        "sector": "Autos",
        "country": "DE",
        "quote": "\u2026y, these tariffs only apply to pure \u2f00electric vehicles\u2f01 from China."
-      },
-      {
-       "publisher": "Just Auto",
-       "title": "Thailand eyes 30% excise tax on imported \u2f00electric vehicles\u2f01 report",
-       "url": "https://www.just-auto.com/news/thailand-30-excise-tax-imported-evs/",
-       "date": "2026-09-16",
-       "sector": "Autos",
-       "country": "US",
-       "quote": ""
       }
      ]
     },
@@ -5392,30 +5407,30 @@
      "examples": [
       {
        "publisher": "DigiTimes Asia",
+       "title": "Resonac grows 300mm SiC crystal, marking a substrate milestone",
+       "url": "https://www.digitimes.com/news/a20260918PR200/sic-resonac-300mm-substrate-silicon.html",
+       "date": "2026-09-18",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026vehicles, renewable energy systems, \u2f00data centers\u2f01, and advanced computing. The achievement underscores the push for larger, higher-quality wafers that may impr\u2026"
+      },
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "GlobalFoundries, Marvell expand SiGe capacity deal for AI optical connectivity",
+       "url": "https://www.digitimes.com/news/a20260918VL208/marvell-globalfoundries-technology-capacity-data.html",
+       "date": "2026-09-18",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026l connectivity used in AI and cloud \u2f00data centers\u2f01."
+      },
+      {
+       "publisher": "DigiTimes Asia",
        "title": "GaN is winning the AI power argument, not yet the cost battle",
        "url": "https://www.digitimes.com/news/a20260917VL222/gan-cost-silicon-data-adoption.html",
        "date": "2026-09-18",
        "sector": "Technology",
        "country": "TW",
        "quote": "\u2026as a key power semiconductor for AI \u2f00data centers\u2f01, where rising rack power and the shift toward higher-voltage architectures are forcing suppliers to improve e\u2026"
-      },
-      {
-       "publisher": "The Elec",
-       "title": "Doosan to Invest 968.4 Billion Won in AI CCL Capacity",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=14003",
-       "date": "2026-09-18",
-       "sector": "Technology",
-       "country": "KR",
-       "quote": "\u2026sed in artificial intelligence (AI) \u2f00data centers\u2f01. The investment is equivalent to 7.92% of the company's consolidated equity in 2025. CCL is a key material us\u2026"
-      },
-      {
-       "publisher": "POWER Magazine",
-       "title": "Bringing a Power Plant's Worth of Load Onto the Grid: NERC's Interconnection Reckoning",
-       "url": "https://www.powermag.com/bringing-a-power-plants-worth-of-load-onto-the-grid-nercs-interconnection-reckoning/",
-       "date": "2026-09-17",
-       "sector": "Utilities",
-       "country": "US",
-       "quote": "\u2f00Data centers\u2f01 are connecting to the transmission system faster than the reliability rules were built to handle and behaving\u2026"
       }
      ]
     },
@@ -5881,30 +5896,30 @@
      "examples": [
       {
        "publisher": "DigiTimes Asia",
+       "title": "Resonac grows 300mm SiC crystal, marking a substrate milestone",
+       "url": "https://www.digitimes.com/news/a20260918PR200/sic-resonac-300mm-substrate-silicon.html",
+       "date": "2026-09-18",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026vehicles, renewable energy systems, \u2f00data centers\u2f01, and advanced computing. The achievement underscores the push for larger, higher-quality wafers that may impr\u2026"
+      },
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "GlobalFoundries, Marvell expand SiGe capacity deal for AI optical connectivity",
+       "url": "https://www.digitimes.com/news/a20260918VL208/marvell-globalfoundries-technology-capacity-data.html",
+       "date": "2026-09-18",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026l connectivity used in AI and cloud \u2f00data centers\u2f01."
+      },
+      {
+       "publisher": "DigiTimes Asia",
        "title": "GaN is winning the AI power argument, not yet the cost battle",
        "url": "https://www.digitimes.com/news/a20260917VL222/gan-cost-silicon-data-adoption.html",
        "date": "2026-09-18",
        "sector": "Technology",
        "country": "TW",
        "quote": "\u2026as a key power semiconductor for AI \u2f00data centers\u2f01, where rising rack power and the shift toward higher-voltage architectures are forcing suppliers to improve e\u2026"
-      },
-      {
-       "publisher": "The Elec",
-       "title": "Doosan to Invest 968.4 Billion Won in AI CCL Capacity",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=14003",
-       "date": "2026-09-18",
-       "sector": "Technology",
-       "country": "KR",
-       "quote": "\u2026sed in artificial intelligence (AI) \u2f00data centers\u2f01. The investment is equivalent to 7.92% of the company's consolidated equity in 2025. CCL is a key material us\u2026"
-      },
-      {
-       "publisher": "POWER Magazine",
-       "title": "Bringing a Power Plant's Worth of Load Onto the Grid: NERC's Interconnection Reckoning",
-       "url": "https://www.powermag.com/bringing-a-power-plants-worth-of-load-onto-the-grid-nercs-interconnection-reckoning/",
-       "date": "2026-09-17",
-       "sector": "Utilities",
-       "country": "US",
-       "quote": "\u2f00Data centers\u2f01 are connecting to the transmission system faster than the reliability rules were built to handle and behaving\u2026"
       }
      ]
     },
@@ -6355,8 +6370,8 @@
    "borrowed": [
     "digital twin"
    ],
-   "articles": 67,
-   "articles14d": 12,
+   "articles": 68,
+   "articles14d": 13,
    "terms": [
     {
      "term": "digital twin",
@@ -6400,13 +6415,22 @@
     {
      "term": "tata sons",
      "id": "tata-sons",
-     "articles": 24,
+     "articles": 25,
      "home": "Finance",
      "shown": false,
      "sectors": 3,
      "direction": "rising",
      "variants": [],
      "examples": [
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "A 4-1 board vote has split \u2f00Tata Sons\u2f01 from the charity that owns two-thirds of it",
+       "url": "https://www.digitimes.com/news/a20260918VL203/chairman-stock-market.html?chid=10",
+       "date": "2026-09-18",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2f00Tata Sons\u2f01 reappointed N. Chandrasekaran as chairman on September 17 and agreed to move toward a stock market listing, R\u2026"
+      },
       {
        "publisher": "ET BFSI",
        "title": "\u2f00Tata Sons\u2f01 board reappoints N Chandrasekaran as Executive Chairman for five years",
@@ -6424,15 +6448,6 @@
        "sector": "Consumer",
        "country": "IN",
        "quote": "The reappointment was approved at a \u2f00Tata Sons\u2f01 board meeting held in Mumbai on Thursday. Chandrasekaran's current five-year term is due to end in February 2\u2026"
-      },
-      {
-       "publisher": "ET BFSI",
-       "title": "\u2f00Tata Sons\u2f01 approves five-year extension for N Chandrasekaran to prepare for IPO",
-       "url": "https://bfsi.economictimes.indiatimes.com/news/industry/tata-sons-approves-five-year-extension-for-n-chandrasekaran-to-prepare-for-ipo/134307302",
-       "date": "2026-09-17",
-       "sector": "Finance",
-       "country": "IN",
-       "quote": "The \u2f00Tata Sons\u2f01 board has approved N Chandrasekaran's reappointment as executive chairman for another five-year term and init\u2026"
       }
      ]
     },
@@ -6493,30 +6508,30 @@
      "examples": [
       {
        "publisher": "DigiTimes Asia",
+       "title": "Resonac grows 300mm SiC crystal, marking a substrate milestone",
+       "url": "https://www.digitimes.com/news/a20260918PR200/sic-resonac-300mm-substrate-silicon.html",
+       "date": "2026-09-18",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026vehicles, renewable energy systems, \u2f00data centers\u2f01, and advanced computing. The achievement underscores the push for larger, higher-quality wafers that may impr\u2026"
+      },
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "GlobalFoundries, Marvell expand SiGe capacity deal for AI optical connectivity",
+       "url": "https://www.digitimes.com/news/a20260918VL208/marvell-globalfoundries-technology-capacity-data.html",
+       "date": "2026-09-18",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026l connectivity used in AI and cloud \u2f00data centers\u2f01."
+      },
+      {
+       "publisher": "DigiTimes Asia",
        "title": "GaN is winning the AI power argument, not yet the cost battle",
        "url": "https://www.digitimes.com/news/a20260917VL222/gan-cost-silicon-data-adoption.html",
        "date": "2026-09-18",
        "sector": "Technology",
        "country": "TW",
        "quote": "\u2026as a key power semiconductor for AI \u2f00data centers\u2f01, where rising rack power and the shift toward higher-voltage architectures are forcing suppliers to improve e\u2026"
-      },
-      {
-       "publisher": "The Elec",
-       "title": "Doosan to Invest 968.4 Billion Won in AI CCL Capacity",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=14003",
-       "date": "2026-09-18",
-       "sector": "Technology",
-       "country": "KR",
-       "quote": "\u2026sed in artificial intelligence (AI) \u2f00data centers\u2f01. The investment is equivalent to 7.92% of the company's consolidated equity in 2025. CCL is a key material us\u2026"
-      },
-      {
-       "publisher": "POWER Magazine",
-       "title": "Bringing a Power Plant's Worth of Load Onto the Grid: NERC's Interconnection Reckoning",
-       "url": "https://www.powermag.com/bringing-a-power-plants-worth-of-load-onto-the-grid-nercs-interconnection-reckoning/",
-       "date": "2026-09-17",
-       "sector": "Utilities",
-       "country": "US",
-       "quote": "\u2f00Data centers\u2f01 are connecting to the transmission system faster than the reliability rules were built to handle and behaving\u2026"
       }
      ]
     },
@@ -6641,6 +6656,13 @@
    "examples": [
     {
      "publisher": "DigiTimes Asia",
+     "title": "A 4-1 board vote has split Tata Sons from the charity that owns two-thirds of it",
+     "url": "https://www.digitimes.com/news/a20260918VL203/chairman-stock-market.html?chid=10",
+     "sector": "Technology",
+     "quote": ""
+    },
+    {
+     "publisher": "DigiTimes Asia",
      "title": "Tata Electronics put 16 MoUs on the record at Semicon India, join hands with Nexperia",
      "url": "https://www.digitimes.com/news/a20260918VL201/semicon-nexperia-partnership-2026-packaging.html",
      "sector": "Technology",
@@ -6658,13 +6680,6 @@
      "title": "Tata Sons Board approves re-appointment of N Chandrasekaran as chairman of Tata Group for another 5-year term",
      "url": "https://retail.economictimes.indiatimes.com/news/industry/tata-sons-board-approves-re-appointment-of-n-chandrasekaran-as-chairman-of-tata-group-for-another-5-year-term/134309726",
      "sector": "Consumer",
-     "quote": ""
-    },
-    {
-     "publisher": "ET BFSI",
-     "title": "Tata Sons approves five-year extension for N Chandrasekaran to prepare for IPO",
-     "url": "https://bfsi.economictimes.indiatimes.com/news/industry/tata-sons-approves-five-year-extension-for-n-chandrasekaran-to-prepare-for-ipo/134307302",
-     "sector": "Finance",
      "quote": ""
     }
    ]
@@ -7100,30 +7115,30 @@
      "examples": [
       {
        "publisher": "DigiTimes Asia",
+       "title": "Resonac grows 300mm SiC crystal, marking a substrate milestone",
+       "url": "https://www.digitimes.com/news/a20260918PR200/sic-resonac-300mm-substrate-silicon.html",
+       "date": "2026-09-18",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026vehicles, renewable energy systems, \u2f00data centers\u2f01, and advanced computing. The achievement underscores the push for larger, higher-quality wafers that may impr\u2026"
+      },
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "GlobalFoundries, Marvell expand SiGe capacity deal for AI optical connectivity",
+       "url": "https://www.digitimes.com/news/a20260918VL208/marvell-globalfoundries-technology-capacity-data.html",
+       "date": "2026-09-18",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026l connectivity used in AI and cloud \u2f00data centers\u2f01."
+      },
+      {
+       "publisher": "DigiTimes Asia",
        "title": "GaN is winning the AI power argument, not yet the cost battle",
        "url": "https://www.digitimes.com/news/a20260917VL222/gan-cost-silicon-data-adoption.html",
        "date": "2026-09-18",
        "sector": "Technology",
        "country": "TW",
        "quote": "\u2026as a key power semiconductor for AI \u2f00data centers\u2f01, where rising rack power and the shift toward higher-voltage architectures are forcing suppliers to improve e\u2026"
-      },
-      {
-       "publisher": "The Elec",
-       "title": "Doosan to Invest 968.4 Billion Won in AI CCL Capacity",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=14003",
-       "date": "2026-09-18",
-       "sector": "Technology",
-       "country": "KR",
-       "quote": "\u2026sed in artificial intelligence (AI) \u2f00data centers\u2f01. The investment is equivalent to 7.92% of the company's consolidated equity in 2025. CCL is a key material us\u2026"
-      },
-      {
-       "publisher": "POWER Magazine",
-       "title": "Bringing a Power Plant's Worth of Load Onto the Grid: NERC's Interconnection Reckoning",
-       "url": "https://www.powermag.com/bringing-a-power-plants-worth-of-load-onto-the-grid-nercs-interconnection-reckoning/",
-       "date": "2026-09-17",
-       "sector": "Utilities",
-       "country": "US",
-       "quote": "\u2f00Data centers\u2f01 are connecting to the transmission system faster than the reliability rules were built to handle and behaving\u2026"
       }
      ]
     },
@@ -7262,6 +7277,15 @@
      "variants": [],
      "examples": [
       {
+       "publisher": "DigiTimes Asia",
+       "title": "Resonac grows 300mm SiC crystal, marking a substrate milestone",
+       "url": "https://www.digitimes.com/news/a20260918PR200/sic-resonac-300mm-substrate-silicon.html",
+       "date": "2026-09-18",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026power electronics used worldwide in \u2f00electric vehicles\u2f01, renewable energy systems, data centers, and advanced computing. The achievement underscores the push for lar\u2026"
+      },
+      {
        "publisher": "Utility Dive",
        "title": "Trump is stalling EV adoption. Here's how states can step up.",
        "url": "https://www.utilitydive.com/news/trump-is-stalling-ev-adoption-heres-how-states-can-step-up/829632/",
@@ -7278,15 +7302,6 @@
        "sector": "Autos",
        "country": "DE",
        "quote": "\u2026y, these tariffs only apply to pure \u2f00electric vehicles\u2f01 from China."
-      },
-      {
-       "publisher": "Just Auto",
-       "title": "Thailand eyes 30% excise tax on imported \u2f00electric vehicles\u2f01 report",
-       "url": "https://www.just-auto.com/news/thailand-30-excise-tax-imported-evs/",
-       "date": "2026-09-16",
-       "sector": "Autos",
-       "country": "US",
-       "quote": ""
       }
      ]
     },
@@ -7547,6 +7562,15 @@
      "variants": [],
      "examples": [
       {
+       "publisher": "DigiTimes Asia",
+       "title": "Resonac grows 300mm SiC crystal, marking a substrate milestone",
+       "url": "https://www.digitimes.com/news/a20260918PR200/sic-resonac-300mm-substrate-silicon.html",
+       "date": "2026-09-18",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026power electronics used worldwide in \u2f00electric vehicles\u2f01, renewable energy systems, data centers, and advanced computing. The achievement underscores the push for lar\u2026"
+      },
+      {
        "publisher": "Utility Dive",
        "title": "Trump is stalling EV adoption. Here's how states can step up.",
        "url": "https://www.utilitydive.com/news/trump-is-stalling-ev-adoption-heres-how-states-can-step-up/829632/",
@@ -7563,15 +7587,6 @@
        "sector": "Autos",
        "country": "DE",
        "quote": "\u2026y, these tariffs only apply to pure \u2f00electric vehicles\u2f01 from China."
-      },
-      {
-       "publisher": "Just Auto",
-       "title": "Thailand eyes 30% excise tax on imported \u2f00electric vehicles\u2f01 report",
-       "url": "https://www.just-auto.com/news/thailand-30-excise-tax-imported-evs/",
-       "date": "2026-09-16",
-       "sector": "Autos",
-       "country": "US",
-       "quote": ""
       }
      ]
     },
@@ -7751,6 +7766,15 @@
      "variants": [],
      "examples": [
       {
+       "publisher": "DigiTimes Asia",
+       "title": "Resonac grows 300mm SiC crystal, marking a substrate milestone",
+       "url": "https://www.digitimes.com/news/a20260918PR200/sic-resonac-300mm-substrate-silicon.html",
+       "date": "2026-09-18",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026power electronics used worldwide in \u2f00electric vehicles\u2f01, renewable energy systems, data centers, and advanced computing. The achievement underscores the push for lar\u2026"
+      },
+      {
        "publisher": "Utility Dive",
        "title": "Trump is stalling EV adoption. Here's how states can step up.",
        "url": "https://www.utilitydive.com/news/trump-is-stalling-ev-adoption-heres-how-states-can-step-up/829632/",
@@ -7767,15 +7791,6 @@
        "sector": "Autos",
        "country": "DE",
        "quote": "\u2026y, these tariffs only apply to pure \u2f00electric vehicles\u2f01 from China."
-      },
-      {
-       "publisher": "Just Auto",
-       "title": "Thailand eyes 30% excise tax on imported \u2f00electric vehicles\u2f01 report",
-       "url": "https://www.just-auto.com/news/thailand-30-excise-tax-imported-evs/",
-       "date": "2026-09-16",
-       "sector": "Autos",
-       "country": "US",
-       "quote": ""
       }
      ]
     },
@@ -8252,30 +8267,30 @@
      "examples": [
       {
        "publisher": "DigiTimes Asia",
+       "title": "Resonac grows 300mm SiC crystal, marking a substrate milestone",
+       "url": "https://www.digitimes.com/news/a20260918PR200/sic-resonac-300mm-substrate-silicon.html",
+       "date": "2026-09-18",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026vehicles, renewable energy systems, \u2f00data centers\u2f01, and advanced computing. The achievement underscores the push for larger, higher-quality wafers that may impr\u2026"
+      },
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "GlobalFoundries, Marvell expand SiGe capacity deal for AI optical connectivity",
+       "url": "https://www.digitimes.com/news/a20260918VL208/marvell-globalfoundries-technology-capacity-data.html",
+       "date": "2026-09-18",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026l connectivity used in AI and cloud \u2f00data centers\u2f01."
+      },
+      {
+       "publisher": "DigiTimes Asia",
        "title": "GaN is winning the AI power argument, not yet the cost battle",
        "url": "https://www.digitimes.com/news/a20260917VL222/gan-cost-silicon-data-adoption.html",
        "date": "2026-09-18",
        "sector": "Technology",
        "country": "TW",
        "quote": "\u2026as a key power semiconductor for AI \u2f00data centers\u2f01, where rising rack power and the shift toward higher-voltage architectures are forcing suppliers to improve e\u2026"
-      },
-      {
-       "publisher": "The Elec",
-       "title": "Doosan to Invest 968.4 Billion Won in AI CCL Capacity",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=14003",
-       "date": "2026-09-18",
-       "sector": "Technology",
-       "country": "KR",
-       "quote": "\u2026sed in artificial intelligence (AI) \u2f00data centers\u2f01. The investment is equivalent to 7.92% of the company's consolidated equity in 2025. CCL is a key material us\u2026"
-      },
-      {
-       "publisher": "POWER Magazine",
-       "title": "Bringing a Power Plant's Worth of Load Onto the Grid: NERC's Interconnection Reckoning",
-       "url": "https://www.powermag.com/bringing-a-power-plants-worth-of-load-onto-the-grid-nercs-interconnection-reckoning/",
-       "date": "2026-09-17",
-       "sector": "Utilities",
-       "country": "US",
-       "quote": "\u2f00Data centers\u2f01 are connecting to the transmission system faster than the reliability rules were built to handle and behaving\u2026"
       }
      ]
     }
@@ -8456,6 +8471,15 @@
      "variants": [],
      "examples": [
       {
+       "publisher": "DigiTimes Asia",
+       "title": "Resonac grows 300mm SiC crystal, marking a substrate milestone",
+       "url": "https://www.digitimes.com/news/a20260918PR200/sic-resonac-300mm-substrate-silicon.html",
+       "date": "2026-09-18",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "\u2026power electronics used worldwide in \u2f00electric vehicles\u2f01, renewable energy systems, data centers, and advanced computing. The achievement underscores the push for lar\u2026"
+      },
+      {
        "publisher": "Utility Dive",
        "title": "Trump is stalling EV adoption. Here's how states can step up.",
        "url": "https://www.utilitydive.com/news/trump-is-stalling-ev-adoption-heres-how-states-can-step-up/829632/",
@@ -8472,15 +8496,6 @@
        "sector": "Autos",
        "country": "DE",
        "quote": "\u2026y, these tariffs only apply to pure \u2f00electric vehicles\u2f01 from China."
-      },
-      {
-       "publisher": "Just Auto",
-       "title": "Thailand eyes 30% excise tax on imported \u2f00electric vehicles\u2f01 report",
-       "url": "https://www.just-auto.com/news/thailand-30-excise-tax-imported-evs/",
-       "date": "2026-09-16",
-       "sector": "Autos",
-       "country": "US",
-       "quote": ""
       }
      ]
     }
@@ -8519,15 +8534,15 @@
  ],
  "filings": {},
  "daysCollected": 145,
- "articlesStored": 20049,
- "articlesLive": 15806,
+ "articlesStored": 20058,
+ "articlesLive": 15815,
  "windowDays": 90,
  "terms": [
   {
    "id": "utility-scale",
    "term": "utility scale",
    "direction": "steady",
-   "ratio": 0.22885594970400627,
+   "ratio": 0.2287457285049194,
    "display": true,
    "adoptionSpan": 32,
    "pace": "gradual",
@@ -9089,7 +9104,7 @@
    "id": "oil-tanker",
    "term": "oil tanker",
    "direction": "rising",
-   "ratio": 0.5339972159760147,
+   "ratio": 0.5337400331781452,
    "display": true,
    "adoptionSpan": 40,
    "pace": "gradual",
@@ -9650,7 +9665,7 @@
    "id": "energy-price",
    "term": "energy price",
    "direction": "steady",
-   "ratio": 0.17799907199200488,
+   "ratio": 0.17791334439271508,
    "display": true,
    "adoptionSpan": 19,
    "pace": "mixed",
@@ -9829,7 +9844,7 @@
      "new",
      2,
      0,
-     424.3,
+     425.6,
      [
       {
        "title": "Export Constraints Curb Kazakhstan's Ability to Offset the \u2f00Global Oil\u2f01 Shortage",
@@ -10266,7 +10281,7 @@
    "id": "iron-ore",
    "term": "iron ore",
    "direction": "rising",
-   "ratio": 0.2669986079880073,
+   "ratio": 0.2668700165890726,
    "display": true,
    "adoptionSpan": 15,
    "pace": "mixed",
@@ -10445,7 +10460,7 @@
      "new",
      2,
      0,
-     87.4,
+     87.6,
      [
       {
        "title": "Billionaire's buying spree stretches beyond iron ore",
@@ -10912,7 +10927,7 @@
    "id": "solar-storage",
    "term": "solar storage",
    "direction": "steady",
-   "ratio": 0.1601991647928044,
+   "ratio": 0.16012200995344358,
    "display": true,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -11457,7 +11472,7 @@
    "id": "digital-twin",
    "term": "digital twin",
    "direction": "falling",
-   "ratio": 0.10679944319520292,
+   "ratio": 0.10674800663562906,
    "display": true,
    "adoptionSpan": 14,
    "pace": "mixed",
@@ -12081,7 +12096,7 @@
    "id": "virtual-power-plant",
    "term": "virtual power plant",
    "direction": "rising",
-   "ratio": 0.2669986079880073,
+   "ratio": 0.2668700165890726,
    "display": true,
    "adoptionSpan": 41,
    "pace": "gradual",
@@ -12634,7 +12649,7 @@
    "id": "battery-technology",
    "term": "battery technology",
    "direction": "rising",
-   "ratio": 0.26699860798800734,
+   "ratio": 0.2668700165890726,
    "display": true,
    "adoptionSpan": 19,
    "pace": "mixed",
@@ -13216,7 +13231,7 @@
    "id": "natural-gas",
    "term": "natural gas",
    "direction": "steady",
-   "ratio": 0.16782769644960455,
+   "ratio": 0.1677468675702742,
    "display": true,
    "adoptionSpan": 42,
    "pace": "gradual",
@@ -13519,7 +13534,7 @@
      "steady",
      2,
      2,
-     33.8,
+     33.9,
      [
       {
        "title": "HD Hyundai to Unveil Next-Generation \u2f00LNG Carrier\u2f01 Technologies",
@@ -14031,7 +14046,7 @@
    "id": "life-science",
    "term": "life science",
    "direction": "steady",
-   "ratio": 0.20024895599100548,
+   "ratio": 0.20015251244180446,
    "display": true,
    "adoptionSpan": 13,
    "pace": "mixed",
@@ -14597,7 +14612,7 @@
    "id": "machine-tool",
    "term": "machine tool",
    "direction": "rising",
-   "ratio": 0.8009958239640219,
+   "ratio": 0.8006100497672178,
    "display": true,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -15141,7 +15156,7 @@
    "id": "fuel-cell",
    "term": "fuel cell",
    "direction": "rising",
-   "ratio": 2.6699860798800725,
+   "ratio": 2.668700165890726,
    "display": true,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -15786,10 +15801,10 @@
    "id": "offshore-wind",
    "term": "offshore wind",
    "direction": "falling",
-   "ratio": 0.11124941999500304,
+   "ratio": 0.11119584024544693,
    "display": true,
    "adoptionSpan": 4,
-   "pace": "simultaneous",
+   "pace": "mixed",
    "kind": "concept",
    "sectorCount": 2,
    "effectiveSectors": 1.99,
@@ -16365,10 +16380,10 @@
    "id": "solid-state",
    "term": "solid state",
    "direction": "falling",
-   "ratio": 0.1213630036309124,
+   "ratio": 0.12130455299503301,
    "display": true,
    "adoptionSpan": 1,
-   "pace": "simultaneous",
+   "pace": "mixed",
    "kind": "concept",
    "sectorCount": 2,
    "effectiveSectors": 1.93,
@@ -17001,7 +17016,7 @@
    "id": "critical-infrastructure",
    "term": "critical infrastructure",
    "direction": "falling",
-   "ratio": 0.13349930399400367,
+   "ratio": 0.1334350082945363,
    "display": true,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -17594,27 +17609,27 @@
    "id": "electric-vehicle",
    "term": "electric vehicle",
    "direction": "steady",
-   "ratio": 0.16181733817454985,
+   "ratio": 0.1698263741930462,
    "display": true,
    "adoptionSpan": 39,
    "pace": "gradual",
    "kind": "concept",
    "sectorCount": 5,
-   "effectiveSectors": 4.04,
+   "effectiveSectors": 4.02,
    "newestSector": "Supply chain",
    "daysSinceNewestSector": 45,
-   "articles14d": 20,
+   "articles14d": 21,
    "articlesPrior14d": 33,
    "publishers": 11,
-   "events": 20,
-   "topPubShare": 0.25,
+   "events": 21,
+   "topPubShare": 0.286,
    "sectors": [
     {
      "name": "Energy",
      "firstSeen": "2026-06-26",
      "recent": 2,
      "articles": 17,
-     "share": 0.105,
+     "share": 0.1,
      "atSectorStart": false,
      "grip": 0.333,
      "outlets": 2,
@@ -17624,9 +17639,9 @@
     {
      "name": "Technology",
      "firstSeen": "2026-07-14",
-     "recent": 7,
-     "articles": 39,
-     "share": 0.368,
+     "recent": 8,
+     "articles": 40,
+     "share": 0.4,
      "atSectorStart": false,
      "grip": 0.222,
      "outlets": 2,
@@ -17638,7 +17653,7 @@
      "firstSeen": "2026-07-15",
      "recent": 3,
      "articles": 31,
-     "share": 0.158,
+     "share": 0.15,
      "atSectorStart": false,
      "grip": 0.75,
      "outlets": 3,
@@ -17650,7 +17665,7 @@
      "firstSeen": "2026-07-29",
      "recent": 1,
      "articles": 4,
-     "share": 0.053,
+     "share": 0.05,
      "atSectorStart": false,
      "grip": 0.143,
      "outlets": 1,
@@ -17662,7 +17677,7 @@
      "firstSeen": "2026-08-04",
      "recent": 6,
      "articles": 11,
-     "share": 0.316,
+     "share": 0.3,
      "atSectorStart": false,
      "grip": 0.25,
      "outlets": 2,
@@ -17682,7 +17697,7 @@
     ],
     [
      "TW",
-     21
+     22
     ],
     [
      "KR",
@@ -17729,7 +17744,7 @@
        7,
        6,
        4,
-       3
+       4
       ]
      },
      {
@@ -17917,6 +17932,15 @@
    "cooc": [],
    "examples": [
     {
+     "publisher": "DigiTimes Asia",
+     "title": "Resonac grows 300mm SiC crystal, marking a substrate milestone",
+     "url": "https://www.digitimes.com/news/a20260918PR200/sic-resonac-300mm-substrate-silicon.html",
+     "date": "2026-09-18",
+     "sector": "Technology",
+     "country": "TW",
+     "quote": "\u2026power electronics used worldwide in \u2f00electric vehicles\u2f01, renewable energy systems, data centers, and advanced computing. The achievement underscores the push for lar\u2026"
+    },
+    {
      "publisher": "Utility Dive",
      "title": "Trump is stalling EV adoption. Here's how states can step up.",
      "url": "https://www.utilitydive.com/news/trump-is-stalling-ev-adoption-heres-how-states-can-step-up/829632/",
@@ -18014,15 +18038,6 @@
      "sector": "Technology",
      "country": "KR",
      "quote": "\u2026strategy to navigate shifts in the \u2f00electric-vehicle\u2f01 (EV) market. The company is changing both battery materials and production methods depending on vehicle type\u2026"
-    },
-    {
-     "publisher": "Canary Media",
-     "title": "The battery era is here and China is supplying it",
-     "url": "https://www.canarymedia.com/articles/batteries/the-battery-era-is-here-and-china-is-supplying-it",
-     "date": "2026-09-11",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026. Battery deployment, both to power \u2f00electric vehicles\u2f01 and to store electricity for the grid, has skyrocketed in recent years. Last year, more than 1.5 terawatt-hou\u2026"
     }
    ],
    "daily": [
@@ -18384,21 +18399,21 @@
     },
     {
      "day": "2026-09-18",
-     "n": 0
+     "n": 1
     }
    ],
-   "relRatio": 0.81,
+   "relRatio": 0.85,
    "docFreq": 0.0011,
-   "specificity": 0.964,
-   "homeShare": 0.368,
-   "daysSeen": 8,
-   "rank": 0.457
+   "specificity": 0.963,
+   "homeShare": 0.4,
+   "daysSeen": 9,
+   "rank": 0.517
   },
   {
    "id": "nuclear-power",
    "term": "nuclear power",
    "direction": "steady",
-   "ratio": 0.21175751668014367,
+   "ratio": 0.21165553039822999,
    "display": false,
    "adoptionSpan": 63,
    "pace": "gradual",
@@ -18643,7 +18658,7 @@
      "new",
      2,
      0,
-     258.3,
+     259.0,
      [
       {
        "title": "Taiwan Mulls Nuclear Revival to Cut Its LNG Exposure",
@@ -18668,7 +18683,7 @@
      "new",
      2,
      0,
-     129.1,
+     129.5,
      [
       {
        "title": "Shuttered nuclear plant in Iowa gets $1.9B federal loan to restart",
@@ -18693,7 +18708,7 @@
      "falling",
      3,
      4,
-     32.3,
+     32.4,
      [
       {
        "title": "Growing US momentum for nuclear power in maritime",
@@ -19203,7 +19218,7 @@
    "id": "stock-exchange",
    "term": "stock exchange",
    "direction": "rising",
-   "ratio": 0.31149837598600855,
+   "ratio": 0.3113483526872514,
    "display": false,
    "adoptionSpan": 19,
    "pace": "mixed",
@@ -19818,7 +19833,7 @@
    "id": "capacity-expansion",
    "term": "capacity expansion",
    "direction": "steady",
-   "ratio": 0.2373320959893398,
+   "ratio": 0.2372177925236201,
    "display": false,
    "adoptionSpan": 16,
    "pace": "mixed",
@@ -20474,7 +20489,7 @@
    "id": "container-ship",
    "term": "container ship",
    "direction": "falling",
-   "ratio": 0.06674965199700182,
+   "ratio": 0.06671750414726815,
    "display": false,
    "adoptionSpan": 36,
    "pace": "gradual",
@@ -21094,7 +21109,7 @@
    "id": "real-estate",
    "term": "real estate",
    "direction": "falling",
-   "ratio": 0.1410558683710227,
+   "ratio": 0.14098793329234027,
    "display": false,
    "adoptionSpan": 42,
    "pace": "gradual",
@@ -21415,7 +21430,7 @@
      "new",
      2,
      0,
-     60.6,
+     60.8,
      [
       {
        "title": "Stockdale \u2f00Capital Partners\u2f01 Aims for $300M in Loans by 2028 Via New Credit Platform",
@@ -21918,7 +21933,7 @@
    "id": "mass-production",
    "term": "mass production",
    "direction": "falling",
-   "ratio": 0.07119962879680194,
+   "ratio": 0.07116533775708603,
    "display": false,
    "adoptionSpan": 50,
    "pace": "gradual",
@@ -22578,7 +22593,7 @@
    "id": "fast-charging",
    "term": "fast charging",
    "direction": "rising",
-   "ratio": 0.40049791198201096,
+   "ratio": 0.400305024883609,
    "display": false,
    "adoptionSpan": 37,
    "pace": "gradual",
@@ -23157,7 +23172,7 @@
    "id": "crude-oil",
    "term": "crude oil",
    "direction": "steady",
-   "ratio": 0.15372647126582237,
+   "ratio": 0.15365243379370846,
    "display": false,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -23824,7 +23839,7 @@
    "id": "lng-carrier",
    "term": "lng carrier",
    "direction": "rising",
-   "ratio": 0.5339972159760146,
+   "ratio": 0.5337400331781452,
    "display": false,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -23967,7 +23982,7 @@
      "new",
      2,
      0,
-     742.5,
+     744.8,
      [
       {
        "title": "LR and HD KSOE advance AI and \u2f00hybrid electric\u2f01 technologies for LNG carriers",
@@ -23992,7 +24007,7 @@
      "new",
      3,
      0,
-     556.9,
+     558.6,
      [
       {
        "title": "HD Hyundai Samho and ClassNK develop LNG carrier for amended IGC Code",
@@ -24024,7 +24039,7 @@
      "new",
      2,
      0,
-     495.0,
+     496.5,
      [
       {
        "title": "WindWings lined up for next-generation LNG carrier design",
@@ -24049,7 +24064,7 @@
      "rising",
      2,
      2,
-     135.0,
+     135.4,
      [
       {
        "title": "HD Hyundai to Unveil Next-Generation LNG Carrier Technologies",
@@ -24629,7 +24644,7 @@
      "new",
      2,
      0,
-     1485.0,
+     1489.5,
      [
       {
        "title": "Shuttered \u2f00nuclear plant\u2f01 in Iowa gets $1.9B federal loan to restart",
@@ -25059,7 +25074,7 @@
    "id": "heat-pump",
    "term": "heat pump",
    "direction": "falling",
-   "ratio": 0.13349930399400364,
+   "ratio": 0.13343500829453633,
    "display": false,
    "adoptionSpan": 51,
    "pace": "gradual",
@@ -25648,7 +25663,7 @@
    "id": "solar-energy",
    "term": "solar energy",
    "direction": "steady",
-   "ratio": 0.15257063313600416,
+   "ratio": 0.15249715233661293,
    "display": false,
    "adoptionSpan": 42,
    "pace": "gradual",
@@ -26192,7 +26207,7 @@
    "id": "humanoid-robot",
    "term": "humanoid robot",
    "direction": "steady",
-   "ratio": 0.1495192204732841,
+   "ratio": 0.14944720928988067,
    "display": false,
    "adoptionSpan": 12,
    "pace": "mixed",
@@ -26375,7 +26390,7 @@
      "steady",
      2,
      4,
-     70.7,
+     70.9,
      [
       {
        "title": "China's humanoid robot race, Part 1: \u2f00Mass production\u2f01 outruns proven demand",
@@ -26882,7 +26897,7 @@
    "id": "charging-infrastructure",
    "term": "charging infrastructure",
    "direction": "falling",
-   "ratio": 0.12459935039440341,
+   "ratio": 0.12453934107490057,
    "display": false,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -27475,7 +27490,7 @@
    "id": "energy-grid",
    "term": "energy grid",
    "direction": "steady",
-   "ratio": 0.20024895599100548,
+   "ratio": 0.20015251244180446,
    "display": false,
    "adoptionSpan": 19,
    "pace": "mixed",
@@ -28002,7 +28017,7 @@
    "id": "energy-demand",
    "term": "energy demand",
    "direction": "rising",
-   "ratio": 0.2669986079880073,
+   "ratio": 0.2668700165890726,
    "display": false,
    "adoptionSpan": 40,
    "pace": "gradual",
@@ -28609,7 +28624,7 @@
    "id": "gas-price",
    "term": "gas price",
    "direction": "steady",
-   "ratio": 0.15574918799300427,
+   "ratio": 0.1556741763436257,
    "display": false,
    "adoptionSpan": 32,
    "pace": "gradual",
@@ -29212,7 +29227,7 @@
    "id": "critical-mineral",
    "term": "critical mineral",
    "direction": "steady",
-   "ratio": 0.1907132914200052,
+   "ratio": 0.19062144042076615,
    "display": false,
    "adoptionSpan": 71,
    "pace": "gradual",
@@ -29455,7 +29470,7 @@
      "falling",
      4,
      10,
-     52.4,
+     52.6,
      [
       {
        "title": "Column: China tightens \u2f00rare earth\u2f01 controls, exposing hidden vulnerabilities in Taiwan's supply chain",
@@ -29972,7 +29987,7 @@
    "id": "media-briefing",
    "term": "media briefing",
    "direction": "rising",
-   "ratio": 0.44499767998001216,
+   "ratio": 0.4447833609817877,
    "display": false,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -30507,7 +30522,7 @@
    "id": "battery-cell",
    "term": "battery cell",
    "direction": "steady",
-   "ratio": 0.1907132914200052,
+   "ratio": 0.19062144042076615,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -31104,7 +31119,7 @@
    "id": "design-technology",
    "term": "design technology",
    "direction": "rising",
-   "ratio": 0.26699860798800734,
+   "ratio": 0.2668700165890726,
    "display": false,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -31612,7 +31627,7 @@
    "id": "oil-price",
    "term": "oil price",
    "direction": "steady",
-   "ratio": 0.15503144979948807,
+   "ratio": 0.15495678382591313,
    "display": false,
    "adoptionSpan": 36,
    "pace": "gradual",
@@ -32356,7 +32371,7 @@
    "id": "atomic-energy",
    "term": "atomic energy",
    "direction": "rising",
-   "ratio": 0.48059749437841315,
+   "ratio": 0.4803660298603308,
    "display": false,
    "adoptionSpan": 26,
    "pace": "mixed",
@@ -32963,7 +32978,7 @@
    "id": "affordable-housing",
    "term": "affordable housing",
    "direction": "steady",
-   "ratio": 0.1601991647928044,
+   "ratio": 0.16012200995344358,
    "display": false,
    "adoptionSpan": 32,
    "pace": "gradual",
@@ -33548,7 +33563,7 @@
    "id": "drone-attack",
    "term": "drone attack",
    "direction": "steady",
-   "ratio": 0.1601991647928044,
+   "ratio": 0.16012200995344358,
    "display": false,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -34113,7 +34128,7 @@
    "id": "diesel-price",
    "term": "diesel price",
    "direction": "rising",
-   "ratio": 0.26699860798800734,
+   "ratio": 0.2668700165890726,
    "display": false,
    "adoptionSpan": 13,
    "pace": "mixed",
@@ -34649,7 +34664,7 @@
    "id": "data-center",
    "term": "data center",
    "direction": "falling",
-   "ratio": 0.11416492203625139,
+   "ratio": 0.11595042100076948,
    "display": false,
    "adoptionSpan": 38,
    "pace": "gradual",
@@ -34658,11 +34673,11 @@
    "effectiveSectors": 2.62,
    "newestSector": "Supply chain",
    "daysSinceNewestSector": 49,
-   "articles14d": 124,
+   "articles14d": 126,
    "articlesPrior14d": 290,
    "publishers": 14,
-   "events": 112,
-   "topPubShare": 0.464,
+   "events": 114,
+   "topPubShare": 0.456,
    "sectors": [
     {
      "name": "Energy",
@@ -34679,9 +34694,9 @@
     {
      "name": "Technology",
      "firstSeen": "2026-06-25",
-     "recent": 92,
-     "articles": 694,
-     "share": 0.742,
+     "recent": 94,
+     "articles": 696,
+     "share": 0.746,
      "atSectorStart": false,
      "grip": 0.778,
      "outlets": 7,
@@ -34693,7 +34708,7 @@
      "firstSeen": "2026-06-26",
      "recent": 12,
      "articles": 95,
-     "share": 0.097,
+     "share": 0.095,
      "atSectorStart": false,
      "grip": 0.429,
      "outlets": 3,
@@ -34717,7 +34732,7 @@
      "firstSeen": "2026-07-29",
      "recent": 10,
      "articles": 59,
-     "share": 0.081,
+     "share": 0.079,
      "atSectorStart": false,
      "grip": 0.333,
      "outlets": 2,
@@ -34745,7 +34760,7 @@
     ],
     [
      "TW",
-     174
+     176
     ],
     [
      "KR",
@@ -34796,7 +34811,7 @@
        120,
        88,
        23,
-       66
+       68
       ]
      },
      {
@@ -35024,7 +35039,7 @@
      "falling",
      3,
      18,
-     35.9,
+     35.5,
      [
       {
        "title": "Sponsored: Why cooling media quality monitoring is becoming a critical part of data center \u2f00liquid cooling\u2f01 strategies",
@@ -35056,7 +35071,7 @@
      "rising",
      3,
      2,
-     28.7,
+     28.4,
      [
       {
        "title": "Aligned breaks ground on \u2f00gigawatt-scale\u2f01 data center campus in Pennsylvania",
@@ -35084,6 +35099,24 @@
     ]
    ],
    "examples": [
+    {
+     "publisher": "DigiTimes Asia",
+     "title": "Resonac grows 300mm SiC crystal, marking a substrate milestone",
+     "url": "https://www.digitimes.com/news/a20260918PR200/sic-resonac-300mm-substrate-silicon.html",
+     "date": "2026-09-18",
+     "sector": "Technology",
+     "country": "TW",
+     "quote": "\u2026vehicles, renewable energy systems, \u2f00data centers\u2f01, and advanced computing. The achievement underscores the push for larger, higher-quality wafers that may impr\u2026"
+    },
+    {
+     "publisher": "DigiTimes Asia",
+     "title": "GlobalFoundries, Marvell expand SiGe capacity deal for AI optical connectivity",
+     "url": "https://www.digitimes.com/news/a20260918VL208/marvell-globalfoundries-technology-capacity-data.html",
+     "date": "2026-09-18",
+     "sector": "Technology",
+     "country": "TW",
+     "quote": "\u2026l connectivity used in AI and cloud \u2f00data centers\u2f01."
+    },
     {
      "publisher": "DigiTimes Asia",
      "title": "GaN is winning the AI power argument, not yet the cost battle",
@@ -35173,24 +35206,6 @@
      "sector": "Technology",
      "country": "KR",
      "quote": "\u2026battlefield platform and defense AI \u2f00data centers\u2f01. To support the expansion, it will jointly develop battlefield cloud technology with Korea University"
-    },
-    {
-     "publisher": "Data Center Dynamics",
-     "title": "Sponsored: Arcadis launches \u2f00Data Center\u2f01 Growth Lab to build next generation of data center talent",
-     "url": "https://www.datacenterdynamics.com/en/product-news/arcadis-launches-data-center-growth-lab-to-build-next-generation-of-data-center-talent/",
-     "date": "2026-09-17",
-     "sector": "Technology",
-     "country": "US",
-     "quote": ""
-    },
-    {
-     "publisher": "Data Center Dynamics",
-     "title": "Magnora joins venture for Estonia \u2f00data center\u2f01 project",
-     "url": "https://www.datacenterdynamics.com/en/news/magnora-joins-venture-for-estonia-data-center-project/",
-     "date": "2026-09-17",
-     "sector": "Technology",
-     "country": "US",
-     "quote": ""
     }
    ],
    "daily": [
@@ -35552,7 +35567,7 @@
     },
     {
      "day": "2026-09-18",
-     "n": 2
+     "n": 4
     }
    ],
    "variants": [
@@ -35560,18 +35575,18 @@
     "data center demand",
     "data center cooling"
    ],
-   "relRatio": 0.57,
-   "docFreq": 0.0066,
-   "specificity": 0.779,
-   "homeShare": 0.742,
+   "relRatio": 0.58,
+   "docFreq": 0.0067,
+   "specificity": 0.775,
+   "homeShare": 0.746,
    "daysSeen": 13,
-   "rank": 1.116
+   "rank": 1.121
   },
   {
    "id": "power-supply",
    "term": "power supply",
    "direction": "rising",
-   "ratio": 0.2669986079880073,
+   "ratio": 0.2668700165890726,
    "display": false,
    "adoptionSpan": 5,
    "pace": "simultaneous",
@@ -36164,7 +36179,7 @@
    "id": "solar-panel",
    "term": "solar panel",
    "direction": "falling",
-   "ratio": 0.053399721597601466,
+   "ratio": 0.05337400331781453,
    "display": false,
    "adoptionSpan": 46,
    "pace": "gradual",
@@ -36775,7 +36790,7 @@
    "id": "red-sea",
    "term": "red sea",
    "direction": "rising",
-   "ratio": 0.281831863987341,
+   "ratio": 0.2816961286217988,
    "display": false,
    "adoptionSpan": 17,
    "pace": "mixed",
@@ -37435,7 +37450,7 @@
    "id": "supply-disruption",
    "term": "supply disruption",
    "direction": "rising",
-   "ratio": 0.40049791198201096,
+   "ratio": 0.4003050248836089,
    "display": false,
    "adoptionSpan": 29,
    "pace": "gradual",
@@ -38035,7 +38050,7 @@
    "id": "chief-economist",
    "term": "chief economist",
    "direction": "rising",
-   "ratio": 0.2669986079880073,
+   "ratio": 0.2668700165890726,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -38562,7 +38577,7 @@
    "id": "memory-chip",
    "term": "memory chip",
    "direction": "rising",
-   "ratio": 0.26699860798800734,
+   "ratio": 0.2668700165890726,
    "display": false,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -39204,7 +39219,7 @@
    "id": "consumer-demand",
    "term": "consumer demand",
    "direction": "rising",
-   "ratio": 0.44499767998001216,
+   "ratio": 0.4447833609817877,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -39824,7 +39839,7 @@
    "id": "baltic-exchange",
    "term": "baltic exchange",
    "direction": "rising",
-   "ratio": 0.8009958239640219,
+   "ratio": 0.8006100497672178,
    "display": false,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -40333,7 +40348,7 @@
    "id": "storage-site",
    "term": "storage site",
    "direction": "rising",
-   "ratio": 0.26699860798800734,
+   "ratio": 0.2668700165890726,
    "display": false,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -40842,7 +40857,7 @@
    "id": "iran-war",
    "term": "iran war",
    "direction": "steady",
-   "ratio": 0.15822139732622653,
+   "ratio": 0.15814519501574673,
    "display": false,
    "adoptionSpan": 29,
    "pace": "gradual",
@@ -41586,7 +41601,7 @@
    "id": "image-prime-creative",
    "term": "image prime creative",
    "direction": "rising",
-   "ratio": 0.5339972159760147,
+   "ratio": 0.5337400331781452,
    "display": false,
    "adoptionSpan": 10,
    "pace": "mixed",
@@ -42063,7 +42078,7 @@
    "id": "warning-label",
    "term": "warning label",
    "direction": "steady",
-   "ratio": 0.20024895599100548,
+   "ratio": 0.20015251244180446,
    "display": false,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -42568,7 +42583,7 @@
    "id": "black-sea",
    "term": "black sea",
    "direction": "rising",
-   "ratio": 0.40049791198201096,
+   "ratio": 0.4003050248836089,
    "display": false,
    "adoptionSpan": 33,
    "pace": "gradual",
@@ -43130,7 +43145,7 @@
    "id": "air-defense",
    "term": "air defense",
    "direction": "rising",
-   "ratio": 0.6674965199700181,
+   "ratio": 0.6671750414726815,
    "display": false,
    "adoptionSpan": 26,
    "pace": "mixed",
@@ -43664,7 +43679,7 @@
    "id": "logistics-facility",
    "term": "logistics facility",
    "direction": "rising",
-   "ratio": 0.5339972159760146,
+   "ratio": 0.5337400331781452,
    "display": false,
    "adoptionSpan": 9,
    "pace": "mixed",
@@ -44191,10 +44206,622 @@
    "rank": 0.829
   },
   {
+   "id": "semicon-india",
+   "term": "semicon india",
+   "direction": "rising",
+   "ratio": 2.134960132712581,
+   "display": false,
+   "adoptionSpan": 17,
+   "pace": "mixed",
+   "kind": "place",
+   "sectorCount": 2,
+   "effectiveSectors": 1.97,
+   "newestSector": "Technology",
+   "daysSinceNewestSector": 30,
+   "articles14d": 8,
+   "articlesPrior14d": 1,
+   "publishers": 2,
+   "events": 8,
+   "topPubShare": 0.625,
+   "sectors": [
+    {
+     "name": "Industrials",
+     "firstSeen": "2026-08-02",
+     "recent": 3,
+     "articles": 5,
+     "share": 0.375,
+     "atSectorStart": false,
+     "grip": 0.143,
+     "outlets": 1,
+     "adopt": 42,
+     "daysSince": 47
+    },
+    {
+     "name": "Technology",
+     "firstSeen": "2026-08-19",
+     "recent": 5,
+     "articles": 7,
+     "share": 0.625,
+     "atSectorStart": false,
+     "grip": 0.222,
+     "outlets": 2,
+     "adopt": 59,
+     "daysSince": 30
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "TW",
+     6
+    ],
+    [
+     "IN",
+     5
+    ],
+    [
+     "KR",
+     1
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-06-21",
+     "2026-06-28",
+     "2026-07-05",
+     "2026-07-12",
+     "2026-07-19",
+     "2026-07-26",
+     "2026-08-02",
+     "2026-08-09",
+     "2026-08-16",
+     "2026-08-23",
+     "2026-08-30",
+     "2026-09-06",
+     "2026-09-13"
+    ],
+    "bands": [
+     {
+      "sector": "Technology",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       1,
+       0,
+       5
+      ]
+     },
+     {
+      "sector": "Industrials",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       1,
+       0,
+       0,
+       0,
+       3
+      ]
+     }
+    ]
+   },
+   "cooc": [
+    [
+     "semiconductor mission",
+     0.67,
+     "new",
+     2,
+     0,
+     744.8,
+     [
+      {
+       "title": "Tata Electronics put 16 MoUs on the record at Semicon India, join hands with Nexperia",
+       "url": "https://www.digitimes.com/news/a20260918VL201/semicon-nexperia-partnership-2026-packaging.html",
+       "publisher": "DigiTimes Asia",
+       "sector": "Technology",
+       "quote": "\u2026e read from the stage. For an India \u2f00Semiconductor Mission\u2f01 trying to show movement from project approvals to commercial production, the distance between the claim and t\u2026"
+      },
+      {
+       "title": "Micron to scale up India chip assembly multifold next year as \u2f00semiconductor mission\u2f01 shifts to execution",
+       "url": "https://manufacturing.economictimes.indiatimes.com/news/hi-tech/micron-to-scale-up-india-chip-assembly-multifold-next-year-as-semiconductor-mission-shifts-to-execution/134305821",
+       "publisher": "ET Manufacturing",
+       "sector": "Industrials",
+       "quote": "Speaking at \u2f00SEMICON India\u2f01 2026, he said the company's India operations are supporting jobs, global memory-chip production and growing A\u2026"
+      }
+     ],
+     []
+    ],
+    [
+     "chip production",
+     0.67,
+     "new",
+     2,
+     0,
+     372.4,
+     [
+      {
+       "title": "Micron to scale up India chip assembly multifold next year as semiconductor mission shifts to execution",
+       "url": "https://manufacturing.economictimes.indiatimes.com/news/hi-tech/micron-to-scale-up-india-chip-assembly-multifold-next-year-as-semiconductor-mission-shifts-to-execution/134305821",
+       "publisher": "ET Manufacturing",
+       "sector": "Industrials",
+       "quote": "\u2026are supporting jobs, global memory-\u2f00chip production\u2f01 and growing AI-driven demand."
+      },
+      {
+       "title": "Chip equipment, materials suppliers lead India investment pledges ahead of SEMICON India 2026",
+       "url": "https://www.digitimes.com/news/a20260917VL203/semicon-india-2026-materials-equipment-investment.html",
+       "publisher": "DigiTimes Asia",
+       "sector": "Technology",
+       "quote": "\u2026, and process chemicals rather than \u2f00chip production\u2f01 itself."
+      }
+     ],
+     []
+    ]
+   ],
+   "examples": [
+    {
+     "publisher": "DigiTimes Asia",
+     "title": "Global chipmakers answer India's pitch with equipment, materials, and R&D not fabs",
+     "url": "https://www.digitimes.com/news/a20260918VL202/semicon-equipment-materials-2026-applied-materials.html",
+     "date": "2026-09-18",
+     "sector": "Technology",
+     "country": "TW",
+     "quote": "The multinationals that filled \u2f00Semicon India\u2f01 2026 committed to almost every layer of the semiconductor value chain except the one India most wants: nobody\u2026"
+    },
+    {
+     "publisher": "DigiTimes Asia",
+     "title": "Modi says India's chip mission has reached commercial production as Semicon 2.0 lifts the purse to US$13.5 billion",
+     "url": "https://www.digitimes.com/news/a20260918VL200/semicon-production-government-commercial-2026.html",
+     "date": "2026-09-18",
+     "sector": "Technology",
+     "country": "TW",
+     "quote": "\u2026ia's government used the opening of \u2f00Semicon India\u2f01 2026 to reframe what it is asking the industry to believe: not that fabs will be built, but that they are alr\u2026"
+    },
+    {
+     "publisher": "DigiTimes Asia",
+     "title": "Tata Electronics put 16 MoUs on the record at \u2f00Semicon India\u2f01, join hands with Nexperia",
+     "url": "https://www.digitimes.com/news/a20260918VL201/semicon-nexperia-partnership-2026-packaging.html",
+     "date": "2026-09-18",
+     "sector": "Technology",
+     "country": "TW",
+     "quote": "\u2026o its supplier-recruitment drive at \u2f00Semicon India\u2f01 2026 16 memoranda of understanding but only five have been documented in the company's own announcements, lea\u2026"
+    },
+    {
+     "publisher": "ET Manufacturing",
+     "title": "Micron to scale up India chip assembly multifold next year as semiconductor mission shifts to execution",
+     "url": "https://manufacturing.economictimes.indiatimes.com/news/hi-tech/micron-to-scale-up-india-chip-assembly-multifold-next-year-as-semiconductor-mission-shifts-to-execution/134305821",
+     "date": "2026-09-17",
+     "sector": "Industrials",
+     "country": "IN",
+     "quote": "Speaking at \u2f00SEMICON India\u2f01 2026, he said the company's India operations are supporting jobs, global memory-chip production and growing A\u2026"
+    },
+    {
+     "publisher": "ET Manufacturing",
+     "title": "\u2f00Semicon India\u2f01 2.0: Infineon CEO calls India key semiconductor market, expands workforce by 28%",
+     "url": "https://manufacturing.economictimes.indiatimes.com/news/hi-tech/semicon-india-2-0-infineon-ceo-calls-india-key-semiconductor-market-expands-workforce-by-28/134305307",
+     "date": "2026-09-17",
+     "sector": "Industrials",
+     "country": "IN",
+     "quote": ""
+    },
+    {
+     "publisher": "DigiTimes Asia",
+     "title": "Chip equipment, materials suppliers lead India investment pledges ahead of \u2f00SEMICON India\u2f01 2026",
+     "url": "https://www.digitimes.com/news/a20260917VL203/semicon-india-2026-materials-equipment-investment.html",
+     "date": "2026-09-17",
+     "sector": "Technology",
+     "country": "TW",
+     "quote": "Foreign commitments timed around \u2f00SEMICON India\u2f01 are moving deeper into the supply chain. In the three days before the 2026 edition opened on September 17, La\u2026"
+    },
+    {
+     "publisher": "DigiTimes Asia",
+     "title": "Applied Materials announces 10-year investment plan ahead of \u2f00SEMICON India\u2f01",
+     "url": "https://www.digitimes.com/news/a20260917VL200/applied-materials-investment-equipment-karnataka-design.html",
+     "date": "2026-09-17",
+     "sector": "Technology",
+     "country": "TW",
+     "quote": ""
+    },
+    {
+     "publisher": "ET Manufacturing",
+     "title": "PM Modi to inaugurate \u2f00SEMICON India\u2f01 2026 on September 17",
+     "url": "https://manufacturing.economictimes.indiatimes.com/news/hi-tech/pm-modi-to-inaugurate-semicon-india-2026-on-september-17/134241139",
+     "date": "2026-09-14",
+     "sector": "Industrials",
+     "country": "IN",
+     "quote": "The fifth edition of \u2f00SEMICON India\u2f01 will bring together over 600 exhibitors, including 300 international companies, in New Delhi from September 1\u2026"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-06-21",
+     "n": 0
+    },
+    {
+     "day": "2026-06-22",
+     "n": 0
+    },
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-31",
+     "n": 0
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 1
+    },
+    {
+     "day": "2026-08-03",
+     "n": 0
+    },
+    {
+     "day": "2026-08-04",
+     "n": 0
+    },
+    {
+     "day": "2026-08-05",
+     "n": 0
+    },
+    {
+     "day": "2026-08-06",
+     "n": 0
+    },
+    {
+     "day": "2026-08-07",
+     "n": 0
+    },
+    {
+     "day": "2026-08-08",
+     "n": 0
+    },
+    {
+     "day": "2026-08-09",
+     "n": 0
+    },
+    {
+     "day": "2026-08-10",
+     "n": 0
+    },
+    {
+     "day": "2026-08-11",
+     "n": 0
+    },
+    {
+     "day": "2026-08-12",
+     "n": 0
+    },
+    {
+     "day": "2026-08-13",
+     "n": 0
+    },
+    {
+     "day": "2026-08-14",
+     "n": 0
+    },
+    {
+     "day": "2026-08-15",
+     "n": 0
+    },
+    {
+     "day": "2026-08-16",
+     "n": 0
+    },
+    {
+     "day": "2026-08-17",
+     "n": 0
+    },
+    {
+     "day": "2026-08-18",
+     "n": 1
+    },
+    {
+     "day": "2026-08-19",
+     "n": 1
+    },
+    {
+     "day": "2026-08-20",
+     "n": 0
+    },
+    {
+     "day": "2026-08-21",
+     "n": 0
+    },
+    {
+     "day": "2026-08-22",
+     "n": 0
+    },
+    {
+     "day": "2026-08-23",
+     "n": 0
+    },
+    {
+     "day": "2026-08-24",
+     "n": 0
+    },
+    {
+     "day": "2026-08-25",
+     "n": 0
+    },
+    {
+     "day": "2026-08-26",
+     "n": 0
+    },
+    {
+     "day": "2026-08-27",
+     "n": 0
+    },
+    {
+     "day": "2026-08-28",
+     "n": 0
+    },
+    {
+     "day": "2026-08-29",
+     "n": 0
+    },
+    {
+     "day": "2026-08-30",
+     "n": 0
+    },
+    {
+     "day": "2026-08-31",
+     "n": 0
+    },
+    {
+     "day": "2026-09-01",
+     "n": 0
+    },
+    {
+     "day": "2026-09-02",
+     "n": 0
+    },
+    {
+     "day": "2026-09-03",
+     "n": 1
+    },
+    {
+     "day": "2026-09-04",
+     "n": 0
+    },
+    {
+     "day": "2026-09-05",
+     "n": 0
+    },
+    {
+     "day": "2026-09-06",
+     "n": 0
+    },
+    {
+     "day": "2026-09-07",
+     "n": 0
+    },
+    {
+     "day": "2026-09-08",
+     "n": 0
+    },
+    {
+     "day": "2026-09-09",
+     "n": 0
+    },
+    {
+     "day": "2026-09-10",
+     "n": 0
+    },
+    {
+     "day": "2026-09-11",
+     "n": 0
+    },
+    {
+     "day": "2026-09-12",
+     "n": 0
+    },
+    {
+     "day": "2026-09-13",
+     "n": 0
+    },
+    {
+     "day": "2026-09-14",
+     "n": 1
+    },
+    {
+     "day": "2026-09-15",
+     "n": 0
+    },
+    {
+     "day": "2026-09-16",
+     "n": 0
+    },
+    {
+     "day": "2026-09-17",
+     "n": 4
+    },
+    {
+     "day": "2026-09-18",
+     "n": 3
+    }
+   ],
+   "relRatio": 10.67,
+   "docFreq": 0.0004,
+   "specificity": 0.986,
+   "homeShare": 0.625,
+   "daysSeen": 3,
+   "rank": 0.827,
+   "variants": [
+    "india semiconductor"
+   ]
+  },
+  {
    "id": "high-speed",
    "term": "high speed",
    "direction": "steady",
-   "ratio": 0.15257063313600416,
+   "ratio": 0.15249715233661293,
    "display": false,
    "adoptionSpan": 3,
    "pace": "simultaneous",
@@ -44814,7 +45441,7 @@
    "id": "supply-chain",
    "term": "supply chain",
    "direction": "falling",
-   "ratio": 0.13275349782643936,
+   "ratio": 0.13268956132082382,
    "display": false,
    "adoptionSpan": 42,
    "pace": "gradual",
@@ -45213,7 +45840,7 @@
      "new",
      2,
      0,
-     33.4,
+     33.5,
      [
       {
        "title": "TOK completes KRW101 billion facility in South Korea to bolster semiconductor supply chain",
@@ -45238,7 +45865,7 @@
      "steady",
      3,
      6,
-     25.0,
+     25.1,
      [
       {
        "title": "Nan Ya accelerates AI materials shift with major \u2f00capacity expansion\u2f01",
@@ -45748,613 +46375,10 @@
    "rank": 0.732
   },
   {
-   "id": "semicon-india",
-   "term": "semicon india",
-   "direction": "rising",
-   "ratio": 1.8689902559160512,
-   "display": false,
-   "adoptionSpan": 17,
-   "pace": "mixed",
-   "kind": "place",
-   "sectorCount": 2,
-   "effectiveSectors": 1.99,
-   "newestSector": "Technology",
-   "daysSinceNewestSector": 30,
-   "articles14d": 7,
-   "articlesPrior14d": 1,
-   "publishers": 2,
-   "events": 7,
-   "topPubShare": 0.571,
-   "sectors": [
-    {
-     "name": "Industrials",
-     "firstSeen": "2026-08-02",
-     "recent": 3,
-     "articles": 5,
-     "share": 0.429,
-     "atSectorStart": false,
-     "grip": 0.143,
-     "outlets": 1,
-     "adopt": 42,
-     "daysSince": 47
-    },
-    {
-     "name": "Technology",
-     "firstSeen": "2026-08-19",
-     "recent": 4,
-     "articles": 6,
-     "share": 0.571,
-     "atSectorStart": false,
-     "grip": 0.222,
-     "outlets": 2,
-     "adopt": 59,
-     "daysSince": 30
-    }
-   ],
-   "sinceStart": false,
-   "origins": [
-    [
-     "IN",
-     5
-    ],
-    [
-     "TW",
-     5
-    ],
-    [
-     "KR",
-     1
-    ]
-   ],
-   "flow": {
-    "weeks": [
-     "2026-06-21",
-     "2026-06-28",
-     "2026-07-05",
-     "2026-07-12",
-     "2026-07-19",
-     "2026-07-26",
-     "2026-08-02",
-     "2026-08-09",
-     "2026-08-16",
-     "2026-08-23",
-     "2026-08-30",
-     "2026-09-06",
-     "2026-09-13"
-    ],
-    "bands": [
-     {
-      "sector": "Technology",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       1,
-       0,
-       4
-      ]
-     },
-     {
-      "sector": "Industrials",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       1,
-       0,
-       0,
-       0,
-       3
-      ]
-     }
-    ]
-   },
-   "cooc": [
-    [
-     "semiconductor mission",
-     1.0,
-     "new",
-     2,
-     0,
-     848.6,
-     [
-      {
-       "title": "Tata Electronics put 16 MoUs on the record at Semicon India, join hands with Nexperia",
-       "url": "https://www.digitimes.com/news/a20260918VL201/semicon-nexperia-partnership-2026-packaging.html",
-       "publisher": "DigiTimes Asia",
-       "sector": "Technology",
-       "quote": "\u2026e read from the stage. For an India \u2f00Semiconductor Mission\u2f01 trying to show movement from project approvals to commercial production, the distance between the claim and t\u2026"
-      },
-      {
-       "title": "Micron to scale up India chip assembly multifold next year as \u2f00semiconductor mission\u2f01 shifts to execution",
-       "url": "https://manufacturing.economictimes.indiatimes.com/news/hi-tech/micron-to-scale-up-india-chip-assembly-multifold-next-year-as-semiconductor-mission-shifts-to-execution/134305821",
-       "publisher": "ET Manufacturing",
-       "sector": "Industrials",
-       "quote": "Speaking at \u2f00SEMICON India\u2f01 2026, he said the company's India operations are supporting jobs, global memory-chip production and growing A\u2026"
-      }
-     ],
-     []
-    ],
-    [
-     "chip production",
-     1.0,
-     "new",
-     2,
-     0,
-     424.3,
-     [
-      {
-       "title": "Micron to scale up India chip assembly multifold next year as semiconductor mission shifts to execution",
-       "url": "https://manufacturing.economictimes.indiatimes.com/news/hi-tech/micron-to-scale-up-india-chip-assembly-multifold-next-year-as-semiconductor-mission-shifts-to-execution/134305821",
-       "publisher": "ET Manufacturing",
-       "sector": "Industrials",
-       "quote": "\u2026are supporting jobs, global memory-\u2f00chip production\u2f01 and growing AI-driven demand."
-      },
-      {
-       "title": "Chip equipment, materials suppliers lead India investment pledges ahead of SEMICON India 2026",
-       "url": "https://www.digitimes.com/news/a20260917VL203/semicon-india-2026-materials-equipment-investment.html",
-       "publisher": "DigiTimes Asia",
-       "sector": "Technology",
-       "quote": "\u2026, and process chemicals rather than \u2f00chip production\u2f01 itself."
-      }
-     ],
-     []
-    ]
-   ],
-   "examples": [
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "Modi says India's chip mission has reached commercial production as Semicon 2.0 lifts the purse to US$13.5 billion",
-     "url": "https://www.digitimes.com/news/a20260918VL200/semicon-production-government-commercial-2026.html",
-     "date": "2026-09-18",
-     "sector": "Technology",
-     "country": "TW",
-     "quote": "\u2026ia's government used the opening of \u2f00Semicon India\u2f01 2026 to reframe what it is asking the industry to believe: not that fabs will be built, but that they are alr\u2026"
-    },
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "Tata Electronics put 16 MoUs on the record at \u2f00Semicon India\u2f01, join hands with Nexperia",
-     "url": "https://www.digitimes.com/news/a20260918VL201/semicon-nexperia-partnership-2026-packaging.html",
-     "date": "2026-09-18",
-     "sector": "Technology",
-     "country": "TW",
-     "quote": "\u2026o its supplier-recruitment drive at \u2f00Semicon India\u2f01 2026 16 memoranda of understanding but only five have been documented in the company's own announcements, lea\u2026"
-    },
-    {
-     "publisher": "ET Manufacturing",
-     "title": "Micron to scale up India chip assembly multifold next year as semiconductor mission shifts to execution",
-     "url": "https://manufacturing.economictimes.indiatimes.com/news/hi-tech/micron-to-scale-up-india-chip-assembly-multifold-next-year-as-semiconductor-mission-shifts-to-execution/134305821",
-     "date": "2026-09-17",
-     "sector": "Industrials",
-     "country": "IN",
-     "quote": "Speaking at \u2f00SEMICON India\u2f01 2026, he said the company's India operations are supporting jobs, global memory-chip production and growing A\u2026"
-    },
-    {
-     "publisher": "ET Manufacturing",
-     "title": "\u2f00Semicon India\u2f01 2.0: Infineon CEO calls India key semiconductor market, expands workforce by 28%",
-     "url": "https://manufacturing.economictimes.indiatimes.com/news/hi-tech/semicon-india-2-0-infineon-ceo-calls-india-key-semiconductor-market-expands-workforce-by-28/134305307",
-     "date": "2026-09-17",
-     "sector": "Industrials",
-     "country": "IN",
-     "quote": ""
-    },
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "Chip equipment, materials suppliers lead India investment pledges ahead of \u2f00SEMICON India\u2f01 2026",
-     "url": "https://www.digitimes.com/news/a20260917VL203/semicon-india-2026-materials-equipment-investment.html",
-     "date": "2026-09-17",
-     "sector": "Technology",
-     "country": "TW",
-     "quote": "Foreign commitments timed around \u2f00SEMICON India\u2f01 are moving deeper into the supply chain. In the three days before the 2026 edition opened on September 17, La\u2026"
-    },
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "Applied Materials announces 10-year investment plan ahead of \u2f00SEMICON India\u2f01",
-     "url": "https://www.digitimes.com/news/a20260917VL200/applied-materials-investment-equipment-karnataka-design.html",
-     "date": "2026-09-17",
-     "sector": "Technology",
-     "country": "TW",
-     "quote": ""
-    },
-    {
-     "publisher": "ET Manufacturing",
-     "title": "PM Modi to inaugurate \u2f00SEMICON India\u2f01 2026 on September 17",
-     "url": "https://manufacturing.economictimes.indiatimes.com/news/hi-tech/pm-modi-to-inaugurate-semicon-india-2026-on-september-17/134241139",
-     "date": "2026-09-14",
-     "sector": "Industrials",
-     "country": "IN",
-     "quote": "The fifth edition of \u2f00SEMICON India\u2f01 will bring together over 600 exhibitors, including 300 international companies, in New Delhi from September 1\u2026"
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-06-21",
-     "n": 0
-    },
-    {
-     "day": "2026-06-22",
-     "n": 0
-    },
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 0
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 0
-    },
-    {
-     "day": "2026-07-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 0
-    },
-    {
-     "day": "2026-08-02",
-     "n": 1
-    },
-    {
-     "day": "2026-08-03",
-     "n": 0
-    },
-    {
-     "day": "2026-08-04",
-     "n": 0
-    },
-    {
-     "day": "2026-08-05",
-     "n": 0
-    },
-    {
-     "day": "2026-08-06",
-     "n": 0
-    },
-    {
-     "day": "2026-08-07",
-     "n": 0
-    },
-    {
-     "day": "2026-08-08",
-     "n": 0
-    },
-    {
-     "day": "2026-08-09",
-     "n": 0
-    },
-    {
-     "day": "2026-08-10",
-     "n": 0
-    },
-    {
-     "day": "2026-08-11",
-     "n": 0
-    },
-    {
-     "day": "2026-08-12",
-     "n": 0
-    },
-    {
-     "day": "2026-08-13",
-     "n": 0
-    },
-    {
-     "day": "2026-08-14",
-     "n": 0
-    },
-    {
-     "day": "2026-08-15",
-     "n": 0
-    },
-    {
-     "day": "2026-08-16",
-     "n": 0
-    },
-    {
-     "day": "2026-08-17",
-     "n": 0
-    },
-    {
-     "day": "2026-08-18",
-     "n": 1
-    },
-    {
-     "day": "2026-08-19",
-     "n": 1
-    },
-    {
-     "day": "2026-08-20",
-     "n": 0
-    },
-    {
-     "day": "2026-08-21",
-     "n": 0
-    },
-    {
-     "day": "2026-08-22",
-     "n": 0
-    },
-    {
-     "day": "2026-08-23",
-     "n": 0
-    },
-    {
-     "day": "2026-08-24",
-     "n": 0
-    },
-    {
-     "day": "2026-08-25",
-     "n": 0
-    },
-    {
-     "day": "2026-08-26",
-     "n": 0
-    },
-    {
-     "day": "2026-08-27",
-     "n": 0
-    },
-    {
-     "day": "2026-08-28",
-     "n": 0
-    },
-    {
-     "day": "2026-08-29",
-     "n": 0
-    },
-    {
-     "day": "2026-08-30",
-     "n": 0
-    },
-    {
-     "day": "2026-08-31",
-     "n": 0
-    },
-    {
-     "day": "2026-09-01",
-     "n": 0
-    },
-    {
-     "day": "2026-09-02",
-     "n": 0
-    },
-    {
-     "day": "2026-09-03",
-     "n": 1
-    },
-    {
-     "day": "2026-09-04",
-     "n": 0
-    },
-    {
-     "day": "2026-09-05",
-     "n": 0
-    },
-    {
-     "day": "2026-09-06",
-     "n": 0
-    },
-    {
-     "day": "2026-09-07",
-     "n": 0
-    },
-    {
-     "day": "2026-09-08",
-     "n": 0
-    },
-    {
-     "day": "2026-09-09",
-     "n": 0
-    },
-    {
-     "day": "2026-09-10",
-     "n": 0
-    },
-    {
-     "day": "2026-09-11",
-     "n": 0
-    },
-    {
-     "day": "2026-09-12",
-     "n": 0
-    },
-    {
-     "day": "2026-09-13",
-     "n": 0
-    },
-    {
-     "day": "2026-09-14",
-     "n": 1
-    },
-    {
-     "day": "2026-09-15",
-     "n": 0
-    },
-    {
-     "day": "2026-09-16",
-     "n": 0
-    },
-    {
-     "day": "2026-09-17",
-     "n": 4
-    },
-    {
-     "day": "2026-09-18",
-     "n": 2
-    }
-   ],
-   "relRatio": 9.33,
-   "docFreq": 0.0004,
-   "specificity": 0.988,
-   "homeShare": 0.571,
-   "daysSeen": 3,
-   "rank": 0.725,
-   "variants": [
-    "india semiconductor"
-   ]
-  },
-  {
    "id": "received-approval",
    "term": "received approval",
    "direction": "rising",
-   "ratio": 0.35599814398400975,
+   "ratio": 0.35582668878543017,
    "display": false,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -46493,7 +46517,7 @@
      "new",
      2,
      0,
-     371.2,
+     372.4,
      [
       {
        "title": "Jiangnan Shipyard wins BV approval for electric-propelled ammonia carrier",
@@ -46926,7 +46950,7 @@
    "id": "processing-facility",
    "term": "processing facility",
    "direction": "steady",
-   "ratio": 0.20024895599100548,
+   "ratio": 0.20015251244180446,
    "display": false,
    "adoptionSpan": 3,
    "pace": "simultaneous",
@@ -47462,7 +47486,7 @@
    "id": "rare-earth",
    "term": "rare earth",
    "direction": "steady",
-   "ratio": 0.1973467972085271,
+   "ratio": 0.19725175139192322,
    "display": false,
    "adoptionSpan": 52,
    "pace": "gradual",
@@ -47717,7 +47741,7 @@
      "new",
      2,
      0,
-     87.4,
+     87.6,
      [
       {
        "title": "Billionaire's buying spree stretches beyond \u2f00iron ore\u2f01",
@@ -47742,7 +47766,7 @@
      "falling",
      4,
      10,
-     52.4,
+     52.6,
      [
       {
        "title": "Column: China tightens rare earth controls, exposing hidden vulnerabilities in Taiwan's supply chain",
@@ -48259,7 +48283,7 @@
    "id": "tata-sons",
    "term": "tata sons",
    "direction": "rising",
-   "ratio": 2.1359888639040583,
+   "ratio": 2.4018301493016536,
    "display": false,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -48268,11 +48292,11 @@
    "effectiveSectors": 2.91,
    "newestSector": "Consumer",
    "daysSinceNewestSector": 37,
-   "articles14d": 8,
+   "articles14d": 9,
    "articlesPrior14d": 1,
-   "publishers": 1,
-   "events": 8,
-   "topPubShare": 1.0,
+   "publishers": 2,
+   "events": 9,
+   "topPubShare": 0.889,
    "sectors": [
     {
      "name": "Finance",
@@ -48316,6 +48340,10 @@
     [
      "IN",
      23
+    ],
+    [
+     "TW",
+     1
     ]
    ],
    "flow": {
@@ -48406,6 +48434,24 @@
        0,
        0
       ]
+     },
+     {
+      "sector": "Technology",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
      }
     ]
    },
@@ -48416,7 +48462,7 @@
      "new",
      2,
      0,
-     742.5,
+     662.0,
      [
       {
        "title": "Tata Sons board likely to meet this week amid succession concerns",
@@ -48437,6 +48483,15 @@
     ]
    ],
    "examples": [
+    {
+     "publisher": "DigiTimes Asia",
+     "title": "A 4-1 board vote has split \u2f00Tata Sons\u2f01 from the charity that owns two-thirds of it",
+     "url": "https://www.digitimes.com/news/a20260918VL203/chairman-stock-market.html?chid=10",
+     "date": "2026-09-18",
+     "sector": "Technology",
+     "country": "TW",
+     "quote": "\u2f00Tata Sons\u2f01 reappointed N. Chandrasekaran as chairman on September 17 and agreed to move toward a stock market listing, R\u2026"
+    },
     {
      "publisher": "ET BFSI",
      "title": "\u2f00Tata Sons\u2f01 board reappoints N Chandrasekaran as Executive Chairman for five years",
@@ -48869,21 +48924,21 @@
     },
     {
      "day": "2026-09-18",
-     "n": 0
+     "n": 1
     }
    ],
-   "relRatio": 10.67,
-   "docFreq": 0.0004,
-   "specificity": 0.986,
+   "relRatio": 12.0,
+   "docFreq": 0.0005,
+   "specificity": 0.984,
    "homeShare": 0.5,
-   "daysSeen": 5,
-   "rank": 0.661
+   "daysSeen": 6,
+   "rank": 0.66
   },
   {
    "id": "fuel-supply",
    "term": "fuel supply",
    "direction": "steady",
-   "ratio": 0.1601991647928044,
+   "ratio": 0.16012200995344358,
    "display": false,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -49432,7 +49487,7 @@
    "id": "middle-east",
    "term": "middle east",
    "direction": "steady",
-   "ratio": 0.20538354460615946,
+   "ratio": 0.2052846281454405,
    "display": false,
    "adoptionSpan": 37,
    "pace": "gradual",
@@ -49777,7 +49832,7 @@
      "rising",
      3,
      2,
-     89.1,
+     89.4,
      [
       {
        "title": "Oil Prices Rise on Saudi Pipeline Outage and Rising Red Sea Risks",
@@ -50292,7 +50347,7 @@
    "id": "price-pressure",
    "term": "price pressure",
    "direction": "rising",
-   "ratio": 1.0679944319520291,
+   "ratio": 1.0674800663562904,
    "display": false,
    "adoptionSpan": 5,
    "pace": "simultaneous",
@@ -50868,7 +50923,7 @@
    "id": "rizing-cost",
    "term": "rizing cost",
    "direction": "steady",
-   "ratio": 0.20766558399067234,
+   "ratio": 0.2075655684581676,
    "display": false,
    "adoptionSpan": 13,
    "pace": "mixed",
@@ -51527,7 +51582,7 @@
    "id": "gold-price",
    "term": "gold price",
    "direction": "falling",
-   "ratio": 0.13349930399400364,
+   "ratio": 0.1334350082945363,
    "display": false,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -52107,7 +52162,7 @@
    "id": "drone-strike",
    "term": "drone strike",
    "direction": "rising",
-   "ratio": 0.35599814398400975,
+   "ratio": 0.35582668878543017,
    "display": false,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -52629,7 +52684,7 @@
    "id": "feasibility-study",
    "term": "feasibility study",
    "direction": "steady",
-   "ratio": 0.1907132914200052,
+   "ratio": 0.19062144042076615,
    "display": false,
    "adoptionSpan": 21,
    "pace": "mixed",
@@ -53229,7 +53284,7 @@
    "id": "raw-material",
    "term": "raw material",
    "direction": "steady",
-   "ratio": 0.1601991647928044,
+   "ratio": 0.16012200995344358,
    "display": false,
    "adoptionSpan": 14,
    "pace": "mixed",
@@ -53877,7 +53932,7 @@
    "id": "rizing-demand",
    "term": "rizing demand",
    "direction": "steady",
-   "ratio": 0.1456356043570949,
+   "ratio": 0.14556546359403963,
    "display": false,
    "adoptionSpan": 19,
    "pace": "mixed",
@@ -54548,7 +54603,7 @@
    "id": "crude-tanker",
    "term": "crude tanker",
    "direction": "rising",
-   "ratio": 1.0679944319520291,
+   "ratio": 1.0674800663562904,
    "display": false,
    "adoptionSpan": 3,
    "pace": "simultaneous",
@@ -55070,7 +55125,7 @@
    "id": "energy-storage",
    "term": "energy storage",
    "direction": "steady",
-   "ratio": 0.18729753097666182,
+   "ratio": 0.18720732506994647,
    "display": false,
    "adoptionSpan": 40,
    "pace": "gradual",
@@ -55313,7 +55368,7 @@
      "rising",
      2,
      2,
-     126.4,
+     126.8,
      [
       {
        "title": "California BESS projects have \u2f00grid interconnection\u2f01 cost advantage over other US markets, developer says",
@@ -55338,7 +55393,7 @@
      "falling",
      3,
      10,
-     3.1,
+     3.0,
      [
       {
        "title": "AI \u2f00data centers\u2f01 give idle EV battery capacity a second life",
@@ -55855,7 +55910,7 @@
    "id": "energy-bill",
    "term": "energy bill",
    "direction": "falling",
-   "ratio": 0.08899953599600244,
+   "ratio": 0.08895667219635754,
    "display": false,
    "adoptionSpan": 37,
    "pace": "gradual",
@@ -56386,7 +56441,7 @@
    "id": "battery-pack",
    "term": "battery pack",
    "direction": "rising",
-   "ratio": 0.44499767998001216,
+   "ratio": 0.4447833609817877,
    "display": false,
    "adoptionSpan": 5,
    "pace": "simultaneous",
@@ -56503,7 +56558,7 @@
      "new",
      2,
      0,
-     1188.0,
+     1191.6,
      [
       {
        "title": "CATL signs tech deal with Egypt's BME to support local battery pack production",
@@ -57455,7 +57510,7 @@
    "id": "power-generation",
    "term": "power generation",
    "direction": "steady",
-   "ratio": 0.16430683568492757,
+   "ratio": 0.16422770251635238,
    "display": false,
    "adoptionSpan": 49,
    "pace": "gradual",
@@ -57734,7 +57789,7 @@
      "new",
      2,
      0,
-     297.0,
+     297.9,
      [
       {
        "title": "Jiangnan Shipyard wins BV approval for electric-propelled ammonia carrier",
@@ -57761,7 +57816,7 @@
      "falling",
      2,
      8,
-     12.0,
+     11.8,
      [
       {
        "title": "HD KSOE Develops 100MW Floating Power Plant",
