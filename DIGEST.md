@@ -1,6 +1,6 @@
 # Crosstalk — week ending 18 September 2026
 
-*20,043 articles over 145 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*20,049 articles over 145 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
@@ -17,9 +17,9 @@
 
 ## Being discussed alongside
 
-**oil tanker** — foreign flagged
 **energy price** — global oil
 **iron ore** — rare earth
+**natural gas** — lng carrier
 
 ---
 
