@@ -1,6 +1,6 @@
 # Crosstalk — week ending 19 September 2026
 
-*20,471 articles over 146 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*20,505 articles over 146 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
@@ -8,8 +8,8 @@
 **[energy price](https://crosstalkwire.com/#energy-price)** — Energy, Utilities, 4 articles across 4 newsrooms
 **[iron ore](https://crosstalkwire.com/#iron-ore)** — Materials, Supply chain, 8 articles across 6 newsrooms
 **[carbon dioxide](https://crosstalkwire.com/#carbon-dioxide)** — Energy, Policy, 4 articles across 3 newsrooms
-**[solar storage](https://crosstalkwire.com/#solar-storage)** — Energy, Utilities, 3 articles across 0 newsrooms
-**[utility scale](https://crosstalkwire.com/#utility-scale)** — Energy, Utilities, 7 articles across 0 newsrooms
+**[energy storage](https://crosstalkwire.com/#energy-storage)** — Energy, Supply chain, Technology and 1 more, 53 articles across 9 newsrooms
+**[virtual power plant](https://crosstalkwire.com/#virtual-power-plant)** — Energy, Utilities, 4 articles across 3 newsrooms
 
 ## Being used more than a fortnight ago
 
@@ -19,6 +19,7 @@
 
 **energy price** — global oil
 **iron ore** — rare earth
+**energy storage** — grid interconnection, battery capacity
 
 ---
 
