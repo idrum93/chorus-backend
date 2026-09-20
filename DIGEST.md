@@ -1,6 +1,6 @@
 # Crosstalk — week ending 20 September 2026
 
-*20,574 articles over 147 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*20,593 articles over 148 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
@@ -10,10 +10,6 @@
 **[iron ore](https://crosstalkwire.com/#iron-ore)** — Materials, Supply chain, 9 articles across 6 newsrooms
 **[carbon dioxide](https://crosstalkwire.com/#carbon-dioxide)** — Energy, Policy, 4 articles across 3 newsrooms
 **[crude tanker](https://crosstalkwire.com/#crude-tanker)** — Energy, Supply chain, 4 articles across 3 newsrooms
-
-## Being used more than a fortnight ago
-
-**[received approval](https://crosstalkwire.com/#received-approval)** — 5 articles, 1.7× the fortnight before, in technology, supply chain
 
 ## Being discussed alongside
 
