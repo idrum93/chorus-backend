@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-20T05:05:12.534536+00:00",
+ "generated": "2026-09-20T11:39:56.485498+00:00",
  "placeWords": [
   "africa",
   "alberta",
@@ -2823,19 +2823,19 @@
  "coverage": [
   [
    "US",
-   10260
+   10261
   ],
   [
    "TW",
    1783
   ],
   [
-   "GB",
-   1400
+   "IN",
+   1404
   ],
   [
-   "IN",
-   1396
+   "GB",
+   1400
   ],
   [
    "KR",
@@ -2847,7 +2847,7 @@
   ],
   [
    "GR",
-   757
+   761
   ],
   [
    "SG",
@@ -2859,7 +2859,7 @@
   ],
   [
    "HK",
-   292
+   294
   ],
   [
    "JP",
@@ -2867,7 +2867,7 @@
   ],
   [
    "CN",
-   137
+   140
   ],
   [
    "IE",
@@ -4165,8 +4165,8 @@
    "borrowed": [
     "crude tanker"
    ],
-   "articles": 231,
-   "articles14d": 51,
+   "articles": 233,
+   "articles14d": 53,
    "terms": [
     {
      "term": "crude tanker",
@@ -4251,13 +4251,22 @@
     {
      "term": "mass production",
      "id": "mass-production",
-     "articles": 12,
+     "articles": 13,
      "home": "Technology",
      "shown": false,
      "sectors": 2,
      "direction": "falling",
      "variants": [],
      "examples": [
+      {
+       "publisher": "SCMP Business",
+       "title": "China's CXMT touts new chip manufacturing platform as close to \u2018world's most advanced'",
+       "url": "https://www.scmp.com/tech/article/3368154/chinas-cxmt-touts-new-chip-manufacturing-platform-close-worlds-most-advanced?utm_source=rss_feed",
+       "date": "2026-09-20",
+       "sector": "Supply chain",
+       "country": "HK",
+       "quote": "\u2026-generation technology platform for \u2f00mass production\u2f01, narrowing the advantage of global leaders including Samsung Electronics and SK Hynix in manufacturing nodes.\u2026"
+      },
       {
        "publisher": "The Elec",
        "title": "DeltaX Signs $90 Million ESS Supply Deal With France's Socomec",
@@ -4275,15 +4284,6 @@
        "sector": "Technology",
        "country": "KR",
        "quote": "\u2026ial applications. The company began \u2f00mass production\u2f01 of LTO batteries for autonomous mobile robots (AMRs) used in factories in August and will also supply LTO bat\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Nvidia roadmap shifts to rack-scale AI with Rubin Ultra",
-       "url": "https://www.digitimes.com/news/a20260917PD230/nvidia-rubin-roadmap-production-gpu.html",
-       "date": "2026-09-18",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026g NVL4, NVL8, and NVL72 moving into \u2f00mass production\u2f01. In the second half of 2027, Vera Rubin Ultra NVL576, HGX Rubin Ultra NBLB and Groq 3 LPX-Next are set to tak\u2026"
       }
      ]
     },
@@ -4332,13 +4332,22 @@
     {
      "term": "memory chip",
      "id": "memory-chip",
-     "articles": 4,
+     "articles": 5,
      "home": "Technology",
      "shown": false,
      "sectors": 2,
-     "direction": "steady",
+     "direction": "rising",
      "variants": [],
      "examples": [
+      {
+       "publisher": "SCMP Business",
+       "title": "China's CXMT touts new chip manufacturing platform as close to \u2018world's most advanced'",
+       "url": "https://www.scmp.com/tech/article/3368154/chinas-cxmt-touts-new-chip-manufacturing-platform-close-worlds-most-advanced?utm_source=rss_feed",
+       "date": "2026-09-20",
+       "sector": "Supply chain",
+       "country": "HK",
+       "quote": "Chinese \u2f00memory chip\u2f01 giant Changxin Memory Technologies (CXMT) said on Sunday that it adopted its new-generation technology platfo\u2026"
+      },
       {
        "publisher": "ET Manufacturing",
        "title": "Micron to scale up India chip assembly multifold next year as semiconductor mission shifts to execution",
@@ -4356,15 +4365,6 @@
        "sector": "Technology",
        "country": "TW",
        "quote": "SK Hynix is reportedly lining up US \u2f00memory chip\u2f01 production and is in talks with Intel over possible cooperation, including leasing part of Intel's Ohio facil\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Samsung looks to outside suppliers as HBM boom shifts priorities",
-       "url": "https://www.digitimes.com/news/a20260916VL220/samsung-hbm-vertical-integration-capacity.html",
-       "date": "2026-09-16",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026es can match, spanning smartphones, \u2f00memory, chip\u2f01 design, foundry manufacturing and packaging. However, recent sourcing moves suggest those internal links are\u2026"
       }
      ]
     },
@@ -4488,6 +4488,20 @@
    ],
    "examples": [
     {
+     "publisher": "SCMP Business",
+     "title": "China's CXMT touts new chip manufacturing platform as close to \u2018world's most advanced'",
+     "url": "https://www.scmp.com/tech/article/3368154/chinas-cxmt-touts-new-chip-manufacturing-platform-close-worlds-most-advanced?utm_source=rss_feed",
+     "sector": "Supply chain",
+     "quote": "\u2026vantage of global leaders including \u2f00Samsung Electronics\u2f01 and SK Hynix in manufacturing nodes. CXMT's fifth-generation technology platform, dubbed G5, achieved a \u201cquan\u2026"
+    },
+    {
+     "publisher": "ET Manufacturing",
+     "title": "India key growth market for AI-powered appliances, records 9-fold jump in 3 years: Samsung",
+     "url": "https://manufacturing.economictimes.indiatimes.com/news/hi-tech/india-key-growth-market-for-ai-powered-appliances-records-9-fold-jump-in-3-years-samsung/134365769",
+     "sector": "Industrials",
+     "quote": ""
+    },
+    {
      "publisher": "DigiTimes Asia",
      "title": "LGES, Samsung SDI reportedly booked out for two years as US restrictions and China slowdown reshape ESS market",
      "url": "https://www.digitimes.com/news/a20260918PD210/market-lges-samsung-sdi-capacity-production.html",
@@ -4500,20 +4514,6 @@
      "url": "https://www.digitimes.com/news/a20260918VL210/hbm-nand-dram-cxmt-samsung.html",
      "sector": "Technology",
      "quote": "\u2026or China's domestic suppliers. With \u2f00Samsung Electronics\u2f01, SK Hynix, and Micron prioritizing high-bandwidth memory (HBM) and high-end server memory, ChangXin Memory Te\u2026"
-    },
-    {
-     "publisher": "The Elec",
-     "title": "Chinese Panel Makers Raise TV LCD Prices, Realizing Supply Concerns",
-     "url": "https://www.thelec.net/news/articleView.html?idxno=14030",
-     "sector": "Technology",
-     "quote": "South Korean TV makers \u2f00Samsung Electronics\u2f01 Co. and LG Electronics Inc. are facing higher costs ahead of the year-end peak season after Chinese liquid-cr\u2026"
-    },
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "Samsung deepens Euclyd ties as startup reportedly reaches test-chip stage",
-     "url": "https://www.digitimes.com/news/a20260918VL214/samsung-startup-development-samsung-foundry-dutch.html",
-     "sector": "Technology",
-     "quote": "\u2f00Samsung Electronics\u2f01 is deepening its relationship with Dutch chip startup Euclyd after the company reportedly reached the test-ch\u2026"
     }
    ]
   },
@@ -4524,51 +4524,11 @@
    "name": "Tesla",
    "sector": "Autos",
    "borrowed": [
-    "electric vehicle",
     "virtual power plant"
    ],
    "articles": 92,
    "articles14d": 30,
    "terms": [
-    {
-     "term": "electric vehicle",
-     "id": "electric-vehicle",
-     "articles": 4,
-     "home": "Technology",
-     "shown": true,
-     "sectors": 5,
-     "direction": "steady",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "BYD plans four Europe factories as EU tariff pressure rises",
-       "url": "https://www.digitimes.com/news/a20260918PD229/byd-europe-manufacturing-vehicle-spain.html",
-       "date": "2026-09-20",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026pand its customer base. The Chinese \u2f00electric vehicle\u2f01 maker wants three vehicle assembly plants and one EV battery plant, according to company adviser and former F\u2026"
-      },
-      {
-       "publisher": "Electrive",
-       "title": "Lucid and Bolt plot electric Robotaxi service for Europe",
-       "url": "https://www.electrive.com/2026/09/19/lucid-and-bolt-plot-electric-robotaxi-service-for-europe/",
-       "date": "2026-09-19",
-       "sector": "Autos",
-       "country": "DE",
-       "quote": "\u2026o deploy at least 25,000 autonomous \u2f00electric vehicles\u2f01 based on Lucid's upcoming midsize platform across multiple European cities and countries."
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Thailand plans to swap EV subsidies for import taxes to defend its production base",
-       "url": "https://www.digitimes.com/news/a20260918VL204/subsidies-production-policy-asia-vehicle.html",
-       "date": "2026-09-18",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026it Southeast Asia's fastest-growing \u2f00electric vehicle\u2f01 market, replacing it with a tax structure built to penalize carmakers that import rather than build. Finance\u2026"
-      }
-     ]
-    },
     {
      "term": "virtual power plant",
      "id": "virtual-power-plant",
@@ -4621,6 +4581,15 @@
      ],
      "examples": [
       {
+       "publisher": "CnEVPost",
+       "title": "Dongfeng to trial-produce \u2f00humanoid robots\u2f01 by year-end, targets human-level capability by end of 2027",
+       "url": "https://cnevpost.com/2026/09/20/dongfeng-trial-produce-humanoid-robots-year-end/",
+       "date": "2026-09-20",
+       "sector": "Autos",
+       "country": "CN",
+       "quote": "Dongfeng's \u2f00humanoid robot\u2f01 will enter factories in October to handle sorting and quality inspection, with small-batch trial production t\u2026"
+      },
+      {
        "publisher": "SCMP Business",
        "title": "Tesla auditing Chinese suppliers ahead of Optimus roll-out: sources",
        "url": "https://www.scmp.com/business/companies/article/3368053/tesla-auditing-chinese-suppliers-ahead-optimus-roll-out-sources?utm_source=rss_feed",
@@ -4637,15 +4606,6 @@
        "sector": "Technology",
        "country": "TW",
        "quote": "\u2f00Humanoid robots\u2f01 have not yet reached mass adoption, but their sensor needs are already reshaping supply-chain expectations wo\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "General-purpose home robots face sensing test",
-       "url": "https://www.digitimes.com/news/a20260917PD210/digitimes-robot-robotics-beijing.html",
-       "date": "2026-09-17",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026obots are the ultimate goal for the \u2f00humanoid robotics\u2f01 industry, but the market remains at an early stage. DIGITIMES analysts said the key to commercialization is n\u2026"
       }
      ]
     },
@@ -4782,6 +4742,15 @@
      "variants": [],
      "examples": [
       {
+       "publisher": "SCMP Business",
+       "title": "China's CXMT touts new chip manufacturing platform as close to \u2018world's most advanced'",
+       "url": "https://www.scmp.com/tech/article/3368154/chinas-cxmt-touts-new-chip-manufacturing-platform-close-worlds-most-advanced?utm_source=rss_feed",
+       "date": "2026-09-20",
+       "sector": "Supply chain",
+       "country": "HK",
+       "quote": "\u2026-generation technology platform for \u2f00mass production\u2f01, narrowing the advantage of global leaders including Samsung Electronics and SK Hynix in manufacturing nodes.\u2026"
+      },
+      {
        "publisher": "The Elec",
        "title": "DeltaX Signs $90 Million ESS Supply Deal With France's Socomec",
        "url": "https://www.thelec.net/news/articleView.html?idxno=14025",
@@ -4798,15 +4767,6 @@
        "sector": "Technology",
        "country": "KR",
        "quote": "\u2026ial applications. The company began \u2f00mass production\u2f01 of LTO batteries for autonomous mobile robots (AMRs) used in factories in August and will also supply LTO bat\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Nvidia roadmap shifts to rack-scale AI with Rubin Ultra",
-       "url": "https://www.digitimes.com/news/a20260917PD230/nvidia-rubin-roadmap-production-gpu.html",
-       "date": "2026-09-18",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026g NVL4, NVL8, and NVL72 moving into \u2f00mass production\u2f01. In the second half of 2027, Vera Rubin Ultra NVL576, HGX Rubin Ultra NBLB and Groq 3 LPX-Next are set to tak\u2026"
       }
      ]
     },
@@ -4846,6 +4806,45 @@
        "sector": "Supply chain",
        "country": "HK",
        "quote": "\u2026nt, senior executives said during a \u2f00media briefing\u2f01 marking the company's second anniversary in Hong..."
+      }
+     ]
+    },
+    {
+     "term": "rooftop solar",
+     "id": "rooftop-solar",
+     "articles": 1,
+     "home": "Energy",
+     "shown": false,
+     "sectors": 2,
+     "direction": "steady",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "PV Magazine",
+       "title": "Very low cost \u2f00rooftop solar\u2f01 slashes domestic energy cost Part 3: African Countries",
+       "url": "https://www.pv-magazine.com/2026/09/18/very-low-cost-rooftop-solar-slashes-domestic-energy-cost-part-3-african-countries/",
+       "date": "2026-09-18",
+       "sector": "Energy",
+       "country": "DE",
+       "quote": "\u2026countries in the African Continent. \u2f00Rooftop solar\u2f01 photovoltaics is growing rapidly in some African nations, but uptake is highly uneven across countries and is\u2026"
+      },
+      {
+       "publisher": "Energy Live News",
+       "title": "Public sector organisations save \u00a37.4 million with low-carbon projects",
+       "url": "https://www.energylivenews.com/2026/09/18/public-sector-organisations-save-7-4-million-with-low-carbon-projects/",
+       "date": "2026-09-18",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "Projects include LED lighting, \u2f00rooftop solar\u2f01, solar farms, battery storage and heat pumps The post Public sector organisations save \u00a37.4 million with low-\u2026"
+      },
+      {
+       "publisher": "Manufacturers' Monthly",
+       "title": "UNSW solar project targets community energy",
+       "url": "https://www.manmonthly.com.au/unsw-solar-project-targets-community-energy/",
+       "date": "2026-09-17",
+       "sector": "Industrials",
+       "country": "AU",
+       "quote": "\u2026ew community energy model combining \u2f00rooftop solar\u2f01, battery storage and artificial intelligence. UNSW researchers have partnered with JT Solar Technology Pty Lt\u2026"
       }
      ]
     }
@@ -5260,52 +5259,12 @@
    "name": "Hyundai Motor",
    "sector": "Autos",
    "borrowed": [
-    "electric vehicle",
     "natural gas",
     "carbon dioxide"
    ],
-   "articles": 98,
-   "articles14d": 19,
+   "articles": 99,
+   "articles14d": 20,
    "terms": [
-    {
-     "term": "electric vehicle",
-     "id": "electric-vehicle",
-     "articles": 9,
-     "home": "Technology",
-     "shown": true,
-     "sectors": 5,
-     "direction": "steady",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "BYD plans four Europe factories as EU tariff pressure rises",
-       "url": "https://www.digitimes.com/news/a20260918PD229/byd-europe-manufacturing-vehicle-spain.html",
-       "date": "2026-09-20",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026pand its customer base. The Chinese \u2f00electric vehicle\u2f01 maker wants three vehicle assembly plants and one EV battery plant, according to company adviser and former F\u2026"
-      },
-      {
-       "publisher": "Electrive",
-       "title": "Lucid and Bolt plot electric Robotaxi service for Europe",
-       "url": "https://www.electrive.com/2026/09/19/lucid-and-bolt-plot-electric-robotaxi-service-for-europe/",
-       "date": "2026-09-19",
-       "sector": "Autos",
-       "country": "DE",
-       "quote": "\u2026o deploy at least 25,000 autonomous \u2f00electric vehicles\u2f01 based on Lucid's upcoming midsize platform across multiple European cities and countries."
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Thailand plans to swap EV subsidies for import taxes to defend its production base",
-       "url": "https://www.digitimes.com/news/a20260918VL204/subsidies-production-policy-asia-vehicle.html",
-       "date": "2026-09-18",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026it Southeast Asia's fastest-growing \u2f00electric vehicle\u2f01 market, replacing it with a tax structure built to penalize carmakers that import rather than build. Finance\u2026"
-      }
-     ]
-    },
     {
      "term": "natural gas",
      "id": "natural-gas",
@@ -5400,6 +5359,15 @@
      "examples": [
       {
        "publisher": "Container News",
+       "title": "Hanwha Ocean wins ABS AiP for LNG-to-ammonia fuel system",
+       "url": "https://container-news.com/hanwha-ocean-wins-abs-aip-for-lng-to-ammonia-fuel-system/",
+       "date": "2026-09-20",
+       "sector": "Supply chain",
+       "country": "GR",
+       "quote": "\u2026a fuel system designed to allow an \u2f00LNG carrier\u2f01 to transition from LNG to ammonia without replacing its fuel tank or fuel supply system. The approval was pre\u2026"
+      },
+      {
+       "publisher": "Container News",
        "title": "Bureau Veritas and COSCO Shipping LNG deepen cooperation on LNG fleet",
        "url": "https://container-news.com/bureau-veritas-and-cosco-shipping-lng-deepen-cooperation-on-lng-fleet/",
        "date": "2026-09-18",
@@ -5415,15 +5383,6 @@
        "sector": "Energy",
        "country": "US",
        "quote": "At least two \u2f00LNG carriers\u2f01 have transited the Strait of Hormuz so far this week, while two others were detected to have engaged in ship-\u2026"
-      },
-      {
-       "publisher": "Container News",
-       "title": "HD Hyundai Samho and ClassNK develop \u2f00LNG carrier\u2f01 for amended IGC Code",
-       "url": "https://container-news.com/hd-hyundai-samho-and-classnk-develop-lng-carrier-for-amended-igc-code/",
-       "date": "2026-09-17",
-       "sector": "Supply chain",
-       "country": "GR",
-       "quote": "\u2026understanding to jointly develop an \u2f00LNG carrier\u2f01 design that incorporates forthcoming amendments to the IGC Code. The companies signed the agreement during Ga\u2026"
       }
      ]
     },
@@ -5479,6 +5438,15 @@
      "variants": [],
      "examples": [
       {
+       "publisher": "SCMP Business",
+       "title": "China's CXMT touts new chip manufacturing platform as close to \u2018world's most advanced'",
+       "url": "https://www.scmp.com/tech/article/3368154/chinas-cxmt-touts-new-chip-manufacturing-platform-close-worlds-most-advanced?utm_source=rss_feed",
+       "date": "2026-09-20",
+       "sector": "Supply chain",
+       "country": "HK",
+       "quote": "\u2026-generation technology platform for \u2f00mass production\u2f01, narrowing the advantage of global leaders including Samsung Electronics and SK Hynix in manufacturing nodes.\u2026"
+      },
+      {
        "publisher": "The Elec",
        "title": "DeltaX Signs $90 Million ESS Supply Deal With France's Socomec",
        "url": "https://www.thelec.net/news/articleView.html?idxno=14025",
@@ -5495,15 +5463,6 @@
        "sector": "Technology",
        "country": "KR",
        "quote": "\u2026ial applications. The company began \u2f00mass production\u2f01 of LTO batteries for autonomous mobile robots (AMRs) used in factories in August and will also supply LTO bat\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Nvidia roadmap shifts to rack-scale AI with Rubin Ultra",
-       "url": "https://www.digitimes.com/news/a20260917PD230/nvidia-rubin-roadmap-production-gpu.html",
-       "date": "2026-09-18",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026g NVL4, NVL8, and NVL72 moving into \u2f00mass production\u2f01. In the second half of 2027, Vera Rubin Ultra NVL576, HGX Rubin Ultra NBLB and Groq 3 LPX-Next are set to tak\u2026"
       }
      ]
     },
@@ -5584,9 +5543,55 @@
        "quote": "\u2026n a typical configuration, two MP20 \u2f00battery packs\u2f01 can be installed behind the cab. This significantly increases battery capacity, enabling ranges of up to 720\u2026"
       }
      ]
+    },
+    {
+     "term": "battery cell",
+     "id": "battery-cell",
+     "articles": 2,
+     "home": "Autos",
+     "shown": false,
+     "sectors": 2,
+     "direction": "steady",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "Just Auto",
+       "title": "Porsche makes \u2f00battery cells\u2f01 using fully recycled cathode material",
+       "url": "https://www.just-auto.com/news/porsche-battery-cells-recycled-cathode-material/",
+       "date": "2026-09-18",
+       "sector": "Autos",
+       "country": "US",
+       "quote": ""
+      },
+      {
+       "publisher": "Electrive",
+       "title": "Porsche produces cathode active materials from recycled raw materials",
+       "url": "https://www.electrive.com/2026/09/17/porsche-produces-cathode-active-materials-from-recycled-raw-materials/",
+       "date": "2026-09-17",
+       "sector": "Autos",
+       "country": "DE",
+       "quote": "\u2026Porsche has succeeded in producing \u2f00battery cells\u2f01 whose cathode active materials are made from 100 per cent recycled raw materials such as lithium, nickel, cob\u2026"
+      },
+      {
+       "publisher": "Electrive",
+       "title": "Panasonic Energy opens battery development centre in Osaka",
+       "url": "https://www.electrive.com/2026/09/17/panasonic-energy-opens-battery-development-centre-in-osaka/",
+       "date": "2026-09-17",
+       "sector": "Autos",
+       "country": "DE",
+       "quote": "\u2026es the development of materials and \u2f00battery cells\u2f01 through to prototype construction. By 2031, Panasonic aims to double its development efficiency through this\u2026"
+      }
+     ]
     }
    ],
    "examples": [
+    {
+     "publisher": "Container News",
+     "title": "ClassNK grants AiP to HD HHI for 35,000 m\u00b3 LPG/ammonia carrier",
+     "url": "https://container-news.com/classnk-grants-aip-to-hd-hhi-for-35000-m%c2%b3-lpg-ammonia-carrier/",
+     "sector": "Supply chain",
+     "quote": ""
+    },
     {
      "publisher": "Container News",
      "title": "KR grants AiP to HD HHI's new 50,000-cbm LPG carrier design",
@@ -5605,13 +5610,6 @@
      "publisher": "Container News",
      "title": "Yang Ming adds 15,500 TEU LNG dual-fuel vessel to MS2 service",
      "url": "https://container-news.com/yang-ming-adds-15500-teu-lng-dual-fuel-vessel-to-ms2-service/",
-     "sector": "Supply chain",
-     "quote": ""
-    },
-    {
-     "publisher": "Container News",
-     "title": "HD Hyundai Samho and ClassNK develop LNG carrier for amended IGC Code",
-     "url": "https://container-news.com/hd-hyundai-samho-and-classnk-develop-lng-carrier-for-amended-igc-code/",
      "sector": "Supply chain",
      "quote": ""
     }
@@ -6539,6 +6537,15 @@
      "variants": [],
      "examples": [
       {
+       "publisher": "SCMP Business",
+       "title": "China's CXMT touts new chip manufacturing platform as close to \u2018world's most advanced'",
+       "url": "https://www.scmp.com/tech/article/3368154/chinas-cxmt-touts-new-chip-manufacturing-platform-close-worlds-most-advanced?utm_source=rss_feed",
+       "date": "2026-09-20",
+       "sector": "Supply chain",
+       "country": "HK",
+       "quote": "\u2026-generation technology platform for \u2f00mass production\u2f01, narrowing the advantage of global leaders including Samsung Electronics and SK Hynix in manufacturing nodes.\u2026"
+      },
+      {
        "publisher": "The Elec",
        "title": "DeltaX Signs $90 Million ESS Supply Deal With France's Socomec",
        "url": "https://www.thelec.net/news/articleView.html?idxno=14025",
@@ -6555,15 +6562,6 @@
        "sector": "Technology",
        "country": "KR",
        "quote": "\u2026ial applications. The company began \u2f00mass production\u2f01 of LTO batteries for autonomous mobile robots (AMRs) used in factories in August and will also supply LTO bat\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Nvidia roadmap shifts to rack-scale AI with Rubin Ultra",
-       "url": "https://www.digitimes.com/news/a20260917PD230/nvidia-rubin-roadmap-production-gpu.html",
-       "date": "2026-09-18",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026g NVL4, NVL8, and NVL72 moving into \u2f00mass production\u2f01. In the second half of 2027, Vera Rubin Ultra NVL576, HGX Rubin Ultra NBLB and Groq 3 LPX-Next are set to tak\u2026"
       }
      ]
     },
@@ -6635,250 +6633,6 @@
      "url": "https://hr.economictimes.indiatimes.com/news/industry/amazon-enters-ai-safety-fray-calls-for-rigorous-testing-safeguards/134324019",
      "sector": "Labor",
      "quote": ""
-    }
-   ]
-  },
-  {
-   "prior14d": 17,
-   "direction": "falling",
-   "ticker": "MSC",
-   "name": "MSC",
-   "sector": "Supply chain",
-   "borrowed": [
-    "critical infrastructure",
-    "electric vehicle"
-   ],
-   "articles": 58,
-   "articles14d": 6,
-   "terms": [
-    {
-     "term": "critical infrastructure",
-     "id": "critical-infrastructure",
-     "articles": 1,
-     "home": "Technology",
-     "shown": true,
-     "sectors": 2,
-     "direction": "steady",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "Energy Live News",
-       "title": "Former MI6 chief warns UK faces energy security \u2018cliff edge'",
-       "url": "https://www.energylivenews.com/2026/09/18/former-mi6-chief-warns-uk-faces-energy-security-cliff-edge/",
-       "date": "2026-09-18",
-       "sector": "Utilities",
-       "country": "GB",
-       "quote": "\u2026warns our energy strategy has left \u2f00critical infrastructure\u2f01 exposed to potential threats The post Former MI6 chief warns UK faces energy security \u2018cliff edge' appeared f\u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Sam Altman Is Selling Utilities the Cure for a Cyberattack His Own AI Helped Cau",
-       "url": "https://oilprice.com/Energy/Energy-General/Sam-Altman-Is-Selling-Utilities-the-Cure-for-a-Cyberattack-His-Own-AI-Helped-Cau.html",
-       "date": "2026-09-15",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026osing a major and growing threat to \u2f00critical infrastructure\u2f01, including the energy grid. Ninety percent of state government chief intelligence officers recently reported\u2026"
-      },
-      {
-       "publisher": "POWER Magazine",
-       "title": "Generate Capital Closes $117-Million in Financing for Community Solar",
-       "url": "https://www.powermag.com/generate-capital-closes-117-million-in-financing-for-community-solar/",
-       "date": "2026-09-15",
-       "sector": "Utilities",
-       "country": "US",
-       "quote": "\u2026ing investor, owner and operator of \u2f00critical infrastructure\u2f01, on September 15 announced the closing of a $117-million term debt facility with MUFG to finance a portfolio\u2026"
-      }
-     ]
-    },
-    {
-     "term": "electric vehicle",
-     "id": "electric-vehicle",
-     "articles": 1,
-     "home": "Technology",
-     "shown": true,
-     "sectors": 5,
-     "direction": "steady",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "BYD plans four Europe factories as EU tariff pressure rises",
-       "url": "https://www.digitimes.com/news/a20260918PD229/byd-europe-manufacturing-vehicle-spain.html",
-       "date": "2026-09-20",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026pand its customer base. The Chinese \u2f00electric vehicle\u2f01 maker wants three vehicle assembly plants and one EV battery plant, according to company adviser and former F\u2026"
-      },
-      {
-       "publisher": "Electrive",
-       "title": "Lucid and Bolt plot electric Robotaxi service for Europe",
-       "url": "https://www.electrive.com/2026/09/19/lucid-and-bolt-plot-electric-robotaxi-service-for-europe/",
-       "date": "2026-09-19",
-       "sector": "Autos",
-       "country": "DE",
-       "quote": "\u2026o deploy at least 25,000 autonomous \u2f00electric vehicles\u2f01 based on Lucid's upcoming midsize platform across multiple European cities and countries."
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Thailand plans to swap EV subsidies for import taxes to defend its production base",
-       "url": "https://www.digitimes.com/news/a20260918VL204/subsidies-production-policy-asia-vehicle.html",
-       "date": "2026-09-18",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026it Southeast Asia's fastest-growing \u2f00electric vehicle\u2f01 market, replacing it with a tax structure built to penalize carmakers that import rather than build. Finance\u2026"
-      }
-     ]
-    },
-    {
-     "term": "container ship",
-     "id": "container-ship",
-     "articles": 16,
-     "home": "Supply chain",
-     "shown": false,
-     "sectors": 2,
-     "direction": "falling",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "Container News",
-       "title": "Ruscon completes first Northern Sea Route sailing of season",
-       "url": "https://container-news.com/ruscon-completes-first-northern-sea-route-sailing-of-season/",
-       "date": "2026-09-19",
-       "sector": "Supply chain",
-       "country": "GR",
-       "quote": "\u2026ccording to DynaLiners. A 3,700 TEU \u2f00container ship\u2f01 called at Nansha, Taicang and Rizhao before sailing through the Arctic route to St. Petersburg. Ruscon claime\u2026"
-      },
-      {
-       "publisher": "Container News",
-       "title": "Asian carriers order 14 \u2f00container ships\u2f01 in new fleet expansion",
-       "url": "https://container-news.com/asian-carriers-order-14-container-ships-in-new-fleet-expansion/",
-       "date": "2026-09-19",
-       "sector": "Supply chain",
-       "country": "GR",
-       "quote": "\u2026ines have placed firm orders for 14 \u2f00container ships\u2f01, with options potentially increasing the combined total to 16 vessels. The orders cover ships ranging from 1,\u2026"
-      },
-      {
-       "publisher": "Splash247",
-       "title": "Maersk confirms 26-ship newbuilding spree",
-       "url": "https://splash247.com/maersk-confirms-26-ship-newbuilding-spree/",
-       "date": "2026-09-18",
-       "sector": "Supply chain",
-       "country": "SG",
-       "quote": "\u2026k has confirmed orders for 26 large \u2f00containerships\u2f01, ending days of speculation over a major fleet expansion programme. The Danish carrier said on Friday that al\u2026"
-      }
-     ]
-    },
-    {
-     "term": "supply chain",
-     "id": "supply-chain",
-     "articles": 2,
-     "home": "Technology",
-     "shown": false,
-     "sectors": 8,
-     "direction": "falling",
-     "variants": [
-      "global supply chain"
-     ],
-     "examples": [
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Power grids can't keep pace with AI data center boom in EU, US",
-       "url": "https://www.digitimes.com/news/a20260918PD206/aidc-eu-cost-supply-chain-electricity.html",
-       "date": "2026-09-18",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "According to \u2f00supply chain\u2f01 players, most AI data center cost models used by analysts in both China and the West only count electricity c\u2026"
-      },
-      {
-       "publisher": "Container News",
-       "title": "Port of Long Beach positions rail as key to future trade growth",
-       "url": "https://container-news.com/port-of-long-beach-positions-rail-as-key-to-future-trade-growth/",
-       "date": "2026-09-18",
-       "sector": "Supply chain",
-       "country": "GR",
-       "quote": "\u2026EO Dr Noel Hacegaba used the port's \u2f00Supply Chain\u2f01 Insight media briefing to make the strategic case for rail infrastructure as the central enabler of the port'\u2026"
-      },
-      {
-       "publisher": "SCMP Business",
-       "title": "Tesla auditing Chinese suppliers ahead of Optimus roll-out: sources",
-       "url": "https://www.scmp.com/business/companies/article/3368053/tesla-auditing-chinese-suppliers-ahead-optimus-roll-out-sources?utm_source=rss_feed",
-       "date": "2026-09-18",
-       "sector": "Supply chain",
-       "country": "HK",
-       "quote": "\u2026auditing part of the firm's Chinese \u2f00supply chain\u2f01, as Elon Musk's company aims to quickly ramp up production of its Optimus humanoid robot after it hits the gl\u2026"
-      }
-     ]
-    },
-    {
-     "term": "drone attack",
-     "id": "drone-attack",
-     "articles": 1,
-     "home": "Energy",
-     "shown": false,
-     "sectors": 2,
-     "direction": "steady",
-     "variants": [
-      "ukrainian drone"
-     ],
-     "examples": [
-      {
-       "publisher": "OilPrice",
-       "title": "Japanese Refiners Rush for Oman Crude After Saudi Pipeline Shutdown",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Japanese-Refiners-Rush-for-Oman-Crude-After-Saudi-Pipeline-Shutdown.html",
-       "date": "2026-09-16",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026he East-West oil pipeline following \u2f00drone attacks\u2f01 launched from the territory of Iraq close to the Iranian border on Thursday. The shutdown of the pipeline is\u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Drone Strikes Cripple Half of Russia's Top Diesel Refineries",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Drone-Strikes-Cripple-Half-of-Russias-Top-Diesel-Refineries.html",
-       "date": "2026-09-15",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026ne-quarter capacity after Ukrainian \u2f00drone attacks\u2f01 damaged plants that together form the backbone of the country's fuel system. The six refineries Omsk, Kirishi\u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Saudi Oil Pipeline Repairs Could Take Weeks After \u2f00Drone Attack\u2f01",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Oil-Pipeline-Repairs-Could-Take-Weeks-After-Drone-Attack.html",
-       "date": "2026-09-15",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "Last week's \u2f00drone attacks\u2f01 on Saudi Arabia's key East-West oil pipeline have caused damage that could take weeks to repair, potentially\u2026"
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "The Loadstar",
-     "title": "Strong Asia-Latin America lane continues to take in new tonnage",
-     "url": "https://theloadstar.com/strong-asia-latin-america-lane-continues-to-take-in-new-tonnage/",
-     "sector": "Supply chain",
-     "quote": "\u2026ceive capacity. Over the past week, \u2f00MSC\u2f01 took delivery of two sister 10,300 teu ships, MSC Leticia X (pictured above) and MSC Clelia X from Zhoushan C\u2026"
-    },
-    {
-     "publisher": "Container News",
-     "title": "CentrePort Wellington container volumes surge 69% in FY26",
-     "url": "https://container-news.com/centreport-wellington-container-volumes-surge-69-in-fy26/",
-     "sector": "Supply chain",
-     "quote": "\u2026weekly shipping services, including \u2f00MSC\u2f01 Eagle from February 2026 and COSCO/OOCL's weekly ANE service. CentrePort said the additional connections are\u2026"
-    },
-    {
-     "publisher": "Container News",
-     "title": "\u2f00MSC\u2f01 announces Golden Week blank sailing on Emerald service",
-     "url": "https://container-news.com/msc-announces-golden-week-blank-sailing-on-emerald-service/",
-     "sector": "Supply chain",
-     "quote": "\u2f00MSC\u2f01 will adjust capacity on its Asia US East Coast network due to an anticipated slowdown in demand during and af\u2026"
-    },
-    {
-     "publisher": "Container News",
-     "title": "\u2f00MSC\u2f01 partially restores Suez transits on Indusa service",
-     "url": "https://container-news.com/msc-partially-restores-suez-transits-on-indusa-service/",
-     "sector": "Supply chain",
-     "quote": "\u2f00MSC\u2f01 will partially restore Suez Canal transits on its Indusa service following a review of security and operation\u2026"
     }
    ]
   },
@@ -7081,206 +6835,6 @@
      "url": "https://splash247.com/maersk-confirms-26-ship-newbuilding-spree/",
      "sector": "Supply chain",
      "quote": "\u2f00Maersk\u2f01 has confirmed orders for 26 large containerships, ending days of speculation over a major fleet expansion pro\u2026"
-    }
-   ]
-  },
-  {
-   "prior14d": 6,
-   "direction": "rising",
-   "ticker": "TM",
-   "name": "Toyota",
-   "sector": "Autos",
-   "borrowed": [
-    "electric vehicle"
-   ],
-   "articles": 45,
-   "articles14d": 9,
-   "terms": [
-    {
-     "term": "electric vehicle",
-     "id": "electric-vehicle",
-     "articles": 1,
-     "home": "Technology",
-     "shown": true,
-     "sectors": 5,
-     "direction": "steady",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "BYD plans four Europe factories as EU tariff pressure rises",
-       "url": "https://www.digitimes.com/news/a20260918PD229/byd-europe-manufacturing-vehicle-spain.html",
-       "date": "2026-09-20",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026pand its customer base. The Chinese \u2f00electric vehicle\u2f01 maker wants three vehicle assembly plants and one EV battery plant, according to company adviser and former F\u2026"
-      },
-      {
-       "publisher": "Electrive",
-       "title": "Lucid and Bolt plot electric Robotaxi service for Europe",
-       "url": "https://www.electrive.com/2026/09/19/lucid-and-bolt-plot-electric-robotaxi-service-for-europe/",
-       "date": "2026-09-19",
-       "sector": "Autos",
-       "country": "DE",
-       "quote": "\u2026o deploy at least 25,000 autonomous \u2f00electric vehicles\u2f01 based on Lucid's upcoming midsize platform across multiple European cities and countries."
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Thailand plans to swap EV subsidies for import taxes to defend its production base",
-       "url": "https://www.digitimes.com/news/a20260918VL204/subsidies-production-policy-asia-vehicle.html",
-       "date": "2026-09-18",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026it Southeast Asia's fastest-growing \u2f00electric vehicle\u2f01 market, replacing it with a tax structure built to penalize carmakers that import rather than build. Finance\u2026"
-      }
-     ]
-    },
-    {
-     "term": "consumer demand",
-     "id": "consumer-demand",
-     "articles": 1,
-     "home": "Consumer",
-     "shown": false,
-     "sectors": 2,
-     "direction": "rising",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "Trucking Dive",
-       "title": "\u2018Resilient \u2f00consumer demand\u2f01': Shippers' peak season endures",
-       "url": "https://www.truckingdive.com/news/resilient-consumer-demand-shippers-peak-season-endures/830361/",
-       "date": "2026-09-15",
-       "sector": "Supply chain",
-       "country": "US",
-       "quote": ""
-      },
-      {
-       "publisher": "ET Retail",
-       "title": "India's festive demand hits 5-year high",
-       "url": "https://retail.economictimes.indiatimes.com/news/industry/indias-festive-demand-hits-5-year-high-from-cars-and-acs-to-tvs-apparel-and-quick-commerce-retailers-expect-a-bumper-navratri-diwali-season/134250463",
-       "date": "2026-09-15",
-       "sector": "Consumer",
-       "country": "IN",
-       "quote": "\u2f00Consumer demand\u2f01 in India has reached a five-year high during the initial festive period, with sales growth recorded across ho\u2026"
-      },
-      {
-       "publisher": "Grocery Dive",
-       "title": "How can you meet the evolving demands of today's consumers?",
-       "url": "https://www.grocerydive.com/spons/how-can-you-meet-the-evolving-demands-of-todays-consumers/829744/",
-       "date": "2026-09-14",
-       "sector": "Consumer",
-       "country": "US",
-       "quote": "How can you secure success and meet \u2f00consumer demands\u2f01 in the shelf-stable food category?"
-      }
-     ]
-    },
-    {
-     "term": "domestic demand",
-     "id": "domestic-demand",
-     "articles": 1,
-     "home": "Energy",
-     "shown": false,
-     "sectors": 2,
-     "direction": "rising",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "OilPrice",
-       "title": "Kazakhstan Turns to Russian Gas as \u2f00Domestic Demand\u2f01 Surges",
-       "url": "https://oilprice.com/Energy/Energy-General/Kazakhstan-Turns-to-Russian-Gas-as-Domestic-Demand-Surges.html",
-       "date": "2026-09-18",
-       "sector": "Energy",
-       "country": "US",
-       "quote": ""
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "Japan's Top LNG Buyer to Sell Excess Gas in Global Markets",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Top-LNG-Buyer-to-Sell-Excess-Gas-in-Global-Markets.html",
-       "date": "2026-09-16",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026s and sell any excess gas supply if \u2f00domestic demand\u2f01 is low, a senior executive has said. JERA wants to \u201cidentify additional markets where we can sell,\u201d Irtiza Sa\u2026"
-      },
-      {
-       "publisher": "SCMP Business",
-       "title": "Chinese carmakers GAC and FAW eye potential tie-up of their Toyota operations",
-       "url": "https://www.scmp.com/business/china-evs/article/3367538/gac-shares-jump-faw-tie-plans-amid-beijing-drive-car-industry-mergers?utm_source=rss_feed",
-       "date": "2026-09-15",
-       "sector": "Supply chain",
-       "country": "HK",
-       "quote": "\u2026ll for consolidation amid weakening \u2f00domestic demand\u2f01. GAC planned to acquire part of FAW's equity in a joint venture vehicle manufacturer through a share issuance\u2026"
-      }
-     ]
-    },
-    {
-     "term": "rare earth",
-     "id": "rare-earth",
-     "articles": 1,
-     "home": "Materials",
-     "shown": false,
-     "sectors": 4,
-     "direction": "steady",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "Just Auto",
-       "title": "Honda invests in US-based \u2f00rare-earth\u2f01-free magnet company",
-       "url": "https://www.just-auto.com/news/honda-invests-in-us-based-rare-earth-free-magnet-company/",
-       "date": "2026-09-18",
-       "sector": "Autos",
-       "country": "US",
-       "quote": ""
-      },
-      {
-       "publisher": "Mining.com",
-       "title": "China \u2f00Rare Earth\u2f01 eyes indirect stake in MP Materials",
-       "url": "https://www.mining.com/china-rare-earth-eyes-indirect-stake-in-mp-materials/",
-       "date": "2026-09-18",
-       "sector": "Materials",
-       "country": "US",
-       "quote": ""
-      },
-      {
-       "publisher": "The Elec",
-       "title": "POSCO Group Accelerates 'Triple-Core' Strategy in Steel, Lithium and Energy",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=14005",
-       "date": "2026-09-18",
-       "sector": "Technology",
-       "country": "KR",
-       "quote": "\u2026ring early positions in lithium and \u2f00rare earth\u2f01 markets, and expanding its energy business.POSCO Group said it will hold the 2"
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "CnEVPost",
-     "title": "\u2f00Toyota\u2f01 plans China-made extended-range EVs in 2027 to broaden lineup, report says",
-     "url": "https://cnevpost.com/2026/09/20/toyota-plans-china-made-erevs-2027/",
-     "sector": "Autos",
-     "quote": "\u2f00Toyota\u2f01 plans to begin EREV production in China in April 2027 and raise output to about 400,000 units in 2028, Nikkei\u2026"
-    },
-    {
-     "publisher": "Just Auto",
-     "title": "GAC to acquire stake in an FAW (\u2f00Toyota\u2f01) joint venture",
-     "url": "https://www.just-auto.com/news/gac-to-acquire-stake-in-an-faw-toyota-joint-venture/",
-     "sector": "Autos",
-     "quote": ""
-    },
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "China's FAW may become GAC's second-largest shareholder, possibly restructuring the \u2f00Toyota\u2f01 China model",
-     "url": "https://www.digitimes.com/news/a20260917PD209/gac-automotive-industry-automobile-vehicle-sales.html",
-     "sector": "Technology",
-     "quote": ""
-    },
-    {
-     "publisher": "Electrive",
-     "title": "New Hydrogen Alliance Outlines Plans But Only a Little",
-     "url": "https://www.electrive.com/2026/09/15/new-hydrogen-alliance-outlines-plans-but-only-a-little/",
-     "sector": "Autos",
-     "quote": "\u2026on, Daimler Truck, the Volvo Group, \u2f00Toyota\u2f01, Bosch, Air Liquide, TotalEnergies, TEAL Mobility, and MB Energy presented their plans to accelerate the ramp\u2026"
     }
    ]
   },
@@ -7488,6 +7042,210 @@
      "url": "https://www.healthcaredive.com/news/oracle-targets-nurses-with-latest-ai-tool/830279/",
      "sector": "Healthcare",
      "quote": "Nurses in the U.S. can use \u2f00Oracle\u2f01's clinical artificial intelligence agent to search for and navigate patient charts via voice commands and gen\u2026"
+    }
+   ]
+  },
+  {
+   "prior14d": 17,
+   "direction": "falling",
+   "ticker": "MSC",
+   "name": "MSC",
+   "sector": "Supply chain",
+   "borrowed": [
+    "critical infrastructure"
+   ],
+   "articles": 58,
+   "articles14d": 6,
+   "terms": [
+    {
+     "term": "critical infrastructure",
+     "id": "critical-infrastructure",
+     "articles": 1,
+     "home": "Technology",
+     "shown": true,
+     "sectors": 2,
+     "direction": "steady",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "Energy Live News",
+       "title": "Former MI6 chief warns UK faces energy security \u2018cliff edge'",
+       "url": "https://www.energylivenews.com/2026/09/18/former-mi6-chief-warns-uk-faces-energy-security-cliff-edge/",
+       "date": "2026-09-18",
+       "sector": "Utilities",
+       "country": "GB",
+       "quote": "\u2026warns our energy strategy has left \u2f00critical infrastructure\u2f01 exposed to potential threats The post Former MI6 chief warns UK faces energy security \u2018cliff edge' appeared f\u2026"
+      },
+      {
+       "publisher": "OilPrice",
+       "title": "Sam Altman Is Selling Utilities the Cure for a Cyberattack His Own AI Helped Cau",
+       "url": "https://oilprice.com/Energy/Energy-General/Sam-Altman-Is-Selling-Utilities-the-Cure-for-a-Cyberattack-His-Own-AI-Helped-Cau.html",
+       "date": "2026-09-15",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2026osing a major and growing threat to \u2f00critical infrastructure\u2f01, including the energy grid. Ninety percent of state government chief intelligence officers recently reported\u2026"
+      },
+      {
+       "publisher": "POWER Magazine",
+       "title": "Generate Capital Closes $117-Million in Financing for Community Solar",
+       "url": "https://www.powermag.com/generate-capital-closes-117-million-in-financing-for-community-solar/",
+       "date": "2026-09-15",
+       "sector": "Utilities",
+       "country": "US",
+       "quote": "\u2026ing investor, owner and operator of \u2f00critical infrastructure\u2f01, on September 15 announced the closing of a $117-million term debt facility with MUFG to finance a portfolio\u2026"
+      }
+     ]
+    },
+    {
+     "term": "container ship",
+     "id": "container-ship",
+     "articles": 16,
+     "home": "Supply chain",
+     "shown": false,
+     "sectors": 2,
+     "direction": "falling",
+     "variants": [],
+     "examples": [
+      {
+       "publisher": "Container News",
+       "title": "Ruscon completes first Northern Sea Route sailing of season",
+       "url": "https://container-news.com/ruscon-completes-first-northern-sea-route-sailing-of-season/",
+       "date": "2026-09-19",
+       "sector": "Supply chain",
+       "country": "GR",
+       "quote": "\u2026ccording to DynaLiners. A 3,700 TEU \u2f00container ship\u2f01 called at Nansha, Taicang and Rizhao before sailing through the Arctic route to St. Petersburg. Ruscon claime\u2026"
+      },
+      {
+       "publisher": "Container News",
+       "title": "Asian carriers order 14 \u2f00container ships\u2f01 in new fleet expansion",
+       "url": "https://container-news.com/asian-carriers-order-14-container-ships-in-new-fleet-expansion/",
+       "date": "2026-09-19",
+       "sector": "Supply chain",
+       "country": "GR",
+       "quote": "\u2026ines have placed firm orders for 14 \u2f00container ships\u2f01, with options potentially increasing the combined total to 16 vessels. The orders cover ships ranging from 1,\u2026"
+      },
+      {
+       "publisher": "Splash247",
+       "title": "Maersk confirms 26-ship newbuilding spree",
+       "url": "https://splash247.com/maersk-confirms-26-ship-newbuilding-spree/",
+       "date": "2026-09-18",
+       "sector": "Supply chain",
+       "country": "SG",
+       "quote": "\u2026k has confirmed orders for 26 large \u2f00containerships\u2f01, ending days of speculation over a major fleet expansion programme. The Danish carrier said on Friday that al\u2026"
+      }
+     ]
+    },
+    {
+     "term": "supply chain",
+     "id": "supply-chain",
+     "articles": 2,
+     "home": "Technology",
+     "shown": false,
+     "sectors": 8,
+     "direction": "falling",
+     "variants": [
+      "global supply chain"
+     ],
+     "examples": [
+      {
+       "publisher": "DigiTimes Asia",
+       "title": "Power grids can't keep pace with AI data center boom in EU, US",
+       "url": "https://www.digitimes.com/news/a20260918PD206/aidc-eu-cost-supply-chain-electricity.html",
+       "date": "2026-09-18",
+       "sector": "Technology",
+       "country": "TW",
+       "quote": "According to \u2f00supply chain\u2f01 players, most AI data center cost models used by analysts in both China and the West only count electricity c\u2026"
+      },
+      {
+       "publisher": "Container News",
+       "title": "Port of Long Beach positions rail as key to future trade growth",
+       "url": "https://container-news.com/port-of-long-beach-positions-rail-as-key-to-future-trade-growth/",
+       "date": "2026-09-18",
+       "sector": "Supply chain",
+       "country": "GR",
+       "quote": "\u2026EO Dr Noel Hacegaba used the port's \u2f00Supply Chain\u2f01 Insight media briefing to make the strategic case for rail infrastructure as the central enabler of the port'\u2026"
+      },
+      {
+       "publisher": "SCMP Business",
+       "title": "Tesla auditing Chinese suppliers ahead of Optimus roll-out: sources",
+       "url": "https://www.scmp.com/business/companies/article/3368053/tesla-auditing-chinese-suppliers-ahead-optimus-roll-out-sources?utm_source=rss_feed",
+       "date": "2026-09-18",
+       "sector": "Supply chain",
+       "country": "HK",
+       "quote": "\u2026auditing part of the firm's Chinese \u2f00supply chain\u2f01, as Elon Musk's company aims to quickly ramp up production of its Optimus humanoid robot after it hits the gl\u2026"
+      }
+     ]
+    },
+    {
+     "term": "drone attack",
+     "id": "drone-attack",
+     "articles": 1,
+     "home": "Energy",
+     "shown": false,
+     "sectors": 2,
+     "direction": "steady",
+     "variants": [
+      "ukrainian drone"
+     ],
+     "examples": [
+      {
+       "publisher": "OilPrice",
+       "title": "Japanese Refiners Rush for Oman Crude After Saudi Pipeline Shutdown",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Japanese-Refiners-Rush-for-Oman-Crude-After-Saudi-Pipeline-Shutdown.html",
+       "date": "2026-09-16",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2026he East-West oil pipeline following \u2f00drone attacks\u2f01 launched from the territory of Iraq close to the Iranian border on Thursday. The shutdown of the pipeline is\u2026"
+      },
+      {
+       "publisher": "OilPrice",
+       "title": "Drone Strikes Cripple Half of Russia's Top Diesel Refineries",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Drone-Strikes-Cripple-Half-of-Russias-Top-Diesel-Refineries.html",
+       "date": "2026-09-15",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "\u2026ne-quarter capacity after Ukrainian \u2f00drone attacks\u2f01 damaged plants that together form the backbone of the country's fuel system. The six refineries Omsk, Kirishi\u2026"
+      },
+      {
+       "publisher": "OilPrice",
+       "title": "Saudi Oil Pipeline Repairs Could Take Weeks After \u2f00Drone Attack\u2f01",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Oil-Pipeline-Repairs-Could-Take-Weeks-After-Drone-Attack.html",
+       "date": "2026-09-15",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "Last week's \u2f00drone attacks\u2f01 on Saudi Arabia's key East-West oil pipeline have caused damage that could take weeks to repair, potentially\u2026"
+      }
+     ]
+    }
+   ],
+   "examples": [
+    {
+     "publisher": "The Loadstar",
+     "title": "Strong Asia-Latin America lane continues to take in new tonnage",
+     "url": "https://theloadstar.com/strong-asia-latin-america-lane-continues-to-take-in-new-tonnage/",
+     "sector": "Supply chain",
+     "quote": "\u2026ceive capacity. Over the past week, \u2f00MSC\u2f01 took delivery of two sister 10,300 teu ships, MSC Leticia X (pictured above) and MSC Clelia X from Zhoushan C\u2026"
+    },
+    {
+     "publisher": "Container News",
+     "title": "CentrePort Wellington container volumes surge 69% in FY26",
+     "url": "https://container-news.com/centreport-wellington-container-volumes-surge-69-in-fy26/",
+     "sector": "Supply chain",
+     "quote": "\u2026weekly shipping services, including \u2f00MSC\u2f01 Eagle from February 2026 and COSCO/OOCL's weekly ANE service. CentrePort said the additional connections are\u2026"
+    },
+    {
+     "publisher": "Container News",
+     "title": "\u2f00MSC\u2f01 announces Golden Week blank sailing on Emerald service",
+     "url": "https://container-news.com/msc-announces-golden-week-blank-sailing-on-emerald-service/",
+     "sector": "Supply chain",
+     "quote": "\u2f00MSC\u2f01 will adjust capacity on its Asia US East Coast network due to an anticipated slowdown in demand during and af\u2026"
+    },
+    {
+     "publisher": "Container News",
+     "title": "\u2f00MSC\u2f01 partially restores Suez transits on Indusa service",
+     "url": "https://container-news.com/msc-partially-restores-suez-transits-on-indusa-service/",
+     "sector": "Supply chain",
+     "quote": "\u2f00MSC\u2f01 will partially restore Suez Canal transits on its Indusa service following a review of security and operation\u2026"
     }
    ]
   },
@@ -8360,128 +8118,6 @@
    ]
   },
   {
-   "prior14d": 11,
-   "direction": "falling",
-   "ticker": "7211.T",
-   "name": "Mitsubishi Motors",
-   "sector": "Autos",
-   "borrowed": [
-    "electric vehicle"
-   ],
-   "articles": 37,
-   "articles14d": 5,
-   "terms": [
-    {
-     "term": "electric vehicle",
-     "id": "electric-vehicle",
-     "articles": 4,
-     "home": "Technology",
-     "shown": true,
-     "sectors": 5,
-     "direction": "steady",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "BYD plans four Europe factories as EU tariff pressure rises",
-       "url": "https://www.digitimes.com/news/a20260918PD229/byd-europe-manufacturing-vehicle-spain.html",
-       "date": "2026-09-20",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026pand its customer base. The Chinese \u2f00electric vehicle\u2f01 maker wants three vehicle assembly plants and one EV battery plant, according to company adviser and former F\u2026"
-      },
-      {
-       "publisher": "Electrive",
-       "title": "Lucid and Bolt plot electric Robotaxi service for Europe",
-       "url": "https://www.electrive.com/2026/09/19/lucid-and-bolt-plot-electric-robotaxi-service-for-europe/",
-       "date": "2026-09-19",
-       "sector": "Autos",
-       "country": "DE",
-       "quote": "\u2026o deploy at least 25,000 autonomous \u2f00electric vehicles\u2f01 based on Lucid's upcoming midsize platform across multiple European cities and countries."
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Thailand plans to swap EV subsidies for import taxes to defend its production base",
-       "url": "https://www.digitimes.com/news/a20260918VL204/subsidies-production-policy-asia-vehicle.html",
-       "date": "2026-09-18",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026it Southeast Asia's fastest-growing \u2f00electric vehicle\u2f01 market, replacing it with a tax structure built to penalize carmakers that import rather than build. Finance\u2026"
-      }
-     ]
-    },
-    {
-     "term": "scale battery",
-     "id": "scale-battery",
-     "articles": 1,
-     "home": "Utilities",
-     "shown": false,
-     "sectors": 2,
-     "direction": "falling",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "PV Magazine",
-       "title": "Taking system responsibility",
-       "url": "https://www.pv-magazine.com/2026/09/18/taking-system-responsibility/",
-       "date": "2026-09-18",
-       "sector": "Energy",
-       "country": "DE",
-       "quote": "\u2026-forming inverters to connect large-\u2f00scale battery\u2f01 storage systems at the distribution grid level. Such systems can and must provide this capability at scale if\u2026"
-      },
-      {
-       "publisher": "PV Magazine",
-       "title": "BYD launches 62 MWh GC Block for gigawatt-\u2f00scale battery\u2f01 storage plants",
-       "url": "https://www.pv-magazine.com/2026/09/16/byd-launches-62-mwh-gc-block-for-gigawatt-scale-battery-storage-plants/",
-       "date": "2026-09-16",
-       "sector": "Energy",
-       "country": "DE",
-       "quote": "\u2026unches 62 MWh GC Block for gigawatt-\u2f00scale battery\u2f01 storage plants appeared first on pv magazine Global ."
-      },
-      {
-       "publisher": "Energy Storage News",
-       "title": "Axpo and energieUri commission Switzerland's largest operational BESS facility",
-       "url": "https://www.energy-storage.news/axpo-and-energieuri-commission-switzerlands-largest-operational-bess-facility/",
-       "date": "2026-09-11",
-       "sector": "Utilities",
-       "country": "GB",
-       "quote": "\u2026rgieUri have commissioned two large-\u2f00scale battery\u2f01 energy storage system (BESS) projects in Gurtnellen, Canton Uri."
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "Data Center Dynamics",
-     "title": "Mitsubishi invests in Japanese optical quantum startup OptQC",
-     "url": "https://www.datacenterdynamics.com/en/news/mitsubishi-invests-in-japanese-optical-quantum-startup-optqc/",
-     "sector": "Technology",
-     "quote": ""
-    },
-    {
-     "publisher": "Modern Machine Shop",
-     "title": "The Robots Got Easier to Deploy",
-     "url": "https://www.mmsonline.com/articles/imts-2026-on-display-automation-and-robotics-guide",
-     "sector": "Industrials",
-     "quote": ""
-    },
-    {
-     "publisher": "Container News",
-     "title": "ClassNK approves 42,000 m\u00b3 LCO\u2082 carrier design",
-     "url": "https://container-news.com/classnk-approves-42000-m%c2%b3-lco%e2%82%82-carrier-design/",
-     "sector": "Supply chain",
-     "quote": ""
-    },
-    {
-     "publisher": "Splash247",
-     "title": "Japan's big three back standard 42,000 cu m CO2 carrier",
-     "url": "https://splash247.com/japans-big-three-back-standard-42000-cu-m-co2-carrier/",
-     "sector": "Supply chain",
-     "quote": ""
-    }
-   ]
-  },
-  {
    "prior14d": 7,
    "direction": "falling",
    "ticker": "GEV",
@@ -8605,102 +8241,19 @@
      "quote": "\u2026gy company Studsvik AB has selected \u2f00GE Vernova\u2f01 Hitachi Nuclear Energy and Samsung C&T as strategic collaborators for a proposed four-unit BWRX-300 project t\u2026"
     }
    ]
-  },
-  {
-   "prior14d": 2,
-   "direction": null,
-   "ticker": "LCID",
-   "name": "Lucid Motors",
-   "sector": "Autos",
-   "borrowed": [
-    "electric vehicle"
-   ],
-   "articles": 17,
-   "articles14d": 3,
-   "terms": [
-    {
-     "term": "electric vehicle",
-     "id": "electric-vehicle",
-     "articles": 2,
-     "home": "Technology",
-     "shown": true,
-     "sectors": 5,
-     "direction": "steady",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "BYD plans four Europe factories as EU tariff pressure rises",
-       "url": "https://www.digitimes.com/news/a20260918PD229/byd-europe-manufacturing-vehicle-spain.html",
-       "date": "2026-09-20",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026pand its customer base. The Chinese \u2f00electric vehicle\u2f01 maker wants three vehicle assembly plants and one EV battery plant, according to company adviser and former F\u2026"
-      },
-      {
-       "publisher": "Electrive",
-       "title": "Lucid and Bolt plot electric Robotaxi service for Europe",
-       "url": "https://www.electrive.com/2026/09/19/lucid-and-bolt-plot-electric-robotaxi-service-for-europe/",
-       "date": "2026-09-19",
-       "sector": "Autos",
-       "country": "DE",
-       "quote": "\u2026o deploy at least 25,000 autonomous \u2f00electric vehicles\u2f01 based on Lucid's upcoming midsize platform across multiple European cities and countries."
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Thailand plans to swap EV subsidies for import taxes to defend its production base",
-       "url": "https://www.digitimes.com/news/a20260918VL204/subsidies-production-policy-asia-vehicle.html",
-       "date": "2026-09-18",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026it Southeast Asia's fastest-growing \u2f00electric vehicle\u2f01 market, replacing it with a tax structure built to penalize carmakers that import rather than build. Finance\u2026"
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "Electrive",
-     "title": "Lucid and Bolt plot electric Robotaxi service for Europe",
-     "url": "https://www.electrive.com/2026/09/19/lucid-and-bolt-plot-electric-robotaxi-service-for-europe/",
-     "sector": "Autos",
-     "quote": "\u2026o deploy at least 25,000 autonomous \u2f00electric vehicles\u2f01 based on Lucid's upcoming midsize platform across multiple European cities and countries."
-    },
-    {
-     "publisher": "Just Auto",
-     "title": "Lucid, Bolt partner on 25,000 autonomous vehicles for Europe",
-     "url": "https://www.just-auto.com/news/lucid-bolt-25000-autonomous-vehicles-europe/",
-     "sector": "Autos",
-     "quote": ""
-    },
-    {
-     "publisher": "Electrive",
-     "title": "Lucid's market entry in France takes shape",
-     "url": "https://www.electrive.com/2026/09/07/lucids-market-entry-in-france-takes-shape/",
-     "sector": "Autos",
-     "quote": ""
-    },
-    {
-     "publisher": "Just Auto",
-     "title": "Lucid teams up with Emil Frey for French market debut",
-     "url": "https://www.just-auto.com/news/lucid-teams-up-with-emil-frey-for-french-market-debut/",
-     "sector": "Autos",
-     "quote": ""
-    }
-   ]
   }
  ],
  "filings": {},
  "daysCollected": 147,
- "articlesStored": 20543,
- "articlesLive": 16297,
+ "articlesStored": 20561,
+ "articlesLive": 16315,
  "windowDays": 90,
  "terms": [
   {
    "id": "battery-pack",
    "term": "battery pack",
    "direction": "steady",
-   "ratio": 0.26129183854629,
+   "ratio": 0.26099202002816463,
    "display": true,
    "adoptionSpan": 5,
    "pace": "simultaneous",
@@ -9226,7 +8779,7 @@
    "id": "energy-price",
    "term": "energy price",
    "direction": "steady",
-   "ratio": 0.17419455903086,
+   "ratio": 0.1739946800187764,
    "display": true,
    "adoptionSpan": 19,
    "pace": "mixed",
@@ -9405,7 +8958,7 @@
      "new",
      2,
      0,
-     556.2,
+     559.8,
      [
       {
        "title": "Export Constraints Curb Kazakhstan's Ability to Offset the \u2f00Global Oil\u2f01 Shortage",
@@ -9839,8 +9392,8 @@
   {
    "id": "iron-ore",
    "term": "iron ore",
-   "direction": "steady",
-   "ratio": 0.26129183854629,
+   "direction": "rising",
+   "ratio": 0.2936160225316852,
    "display": true,
    "adoptionSpan": 15,
    "pace": "mixed",
@@ -9849,11 +9402,11 @@
    "effectiveSectors": 1.78,
    "newestSector": "Materials",
    "daysSinceNewestSector": 39,
-   "articles14d": 8,
+   "articles14d": 9,
    "articlesPrior14d": 8,
    "publishers": 6,
-   "events": 8,
-   "topPubShare": 0.375,
+   "events": 9,
+   "topPubShare": 0.333,
    "sectors": [
     {
      "name": "Supply chain",
@@ -9895,11 +9448,11 @@
      5
     ],
     [
-     "DE",
-     1
+     "IN",
+     2
     ],
     [
-     "IN",
+     "DE",
      1
     ]
    ],
@@ -9975,6 +9528,24 @@
       ]
      },
      {
+      "sector": "Industrials",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       2
+      ]
+     },
+     {
       "sector": "Autos",
       "n": [
        0,
@@ -9991,24 +9562,6 @@
        0,
        0
       ]
-     },
-     {
-      "sector": "Industrials",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1
-      ]
      }
     ]
    },
@@ -10019,7 +9572,7 @@
      "new",
      2,
      0,
-     92.7,
+     82.9,
      [
       {
        "title": "Billionaire's buying spree stretches beyond iron ore",
@@ -10040,6 +9593,15 @@
     ]
    ],
    "examples": [
+    {
+     "publisher": "ET Manufacturing",
+     "title": "NMDC looks to hit 60 MT \u2f00iron ore\u2f01 production mark this fiscal: Chairman",
+     "url": "https://manufacturing.economictimes.indiatimes.com/news/industry/nmdc-looks-to-hit-60-mt-iron-ore-production-mark-this-fiscal-chairman/134363939",
+     "date": "2026-09-20",
+     "sector": "Industrials",
+     "country": "IN",
+     "quote": ""
+    },
     {
      "publisher": "Northern Miner",
      "title": "Billionaire's buying spree stretches beyond \u2f00iron ore\u2f01",
@@ -10472,21 +10034,21 @@
     },
     {
      "day": "2026-09-20",
-     "n": 0
+     "n": 1
     }
    ],
-   "relRatio": 1.25,
-   "docFreq": 0.0004,
-   "specificity": 0.986,
+   "relRatio": 1.41,
+   "docFreq": 0.0005,
+   "specificity": 0.984,
    "homeShare": 0.714,
-   "daysSeen": 4,
-   "rank": 1.207
+   "daysSeen": 5,
+   "rank": 1.206
   },
   {
    "id": "carbon-dioxide",
    "term": "carbon dioxide",
    "direction": "steady",
-   "ratio": 0.209033470837032,
+   "ratio": 0.2087936160225317,
    "display": true,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -11092,7 +10654,7 @@
    "id": "crude-tanker",
    "term": "crude tanker",
    "direction": "rising",
-   "ratio": 1.04516735418516,
+   "ratio": 1.0439680801126585,
    "display": true,
    "adoptionSpan": 3,
    "pace": "simultaneous",
@@ -11617,7 +11179,7 @@
    "id": "solar-plus-storage",
    "term": "solar plus storage",
    "direction": "steady",
-   "ratio": 0.22396443303967714,
+   "ratio": 0.2237074457384268,
    "display": true,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -12187,7 +11749,7 @@
    "id": "natural-gas",
    "term": "natural gas",
    "direction": "steady",
-   "ratio": 0.17419455903086,
+   "ratio": 0.17399468001877638,
    "display": true,
    "adoptionSpan": 25,
    "pace": "mixed",
@@ -12975,7 +12537,7 @@
    "id": "virtual-power-plant",
    "term": "virtual power plant",
    "direction": "steady",
-   "ratio": 0.26129183854629,
+   "ratio": 0.26099202002816463,
    "display": true,
    "adoptionSpan": 41,
    "pace": "gradual",
@@ -13529,7 +13091,7 @@
    "id": "fossil-fuel",
    "term": "fossil fuel",
    "direction": "steady",
-   "ratio": 0.1866370275330643,
+   "ratio": 0.18642287144868902,
    "display": true,
    "adoptionSpan": 44,
    "pace": "gradual",
@@ -14227,7 +13789,7 @@
    "id": "wind-farm",
    "term": "wind farm",
    "direction": "falling",
-   "ratio": 0.14930962202645143,
+   "ratio": 0.1491382971589512,
    "display": true,
    "adoptionSpan": 16,
    "pace": "mixed",
@@ -14810,7 +14372,7 @@
    "id": "life-science",
    "term": "life science",
    "direction": "steady",
-   "ratio": 0.1959688789097175,
+   "ratio": 0.19574401502112346,
    "display": true,
    "adoptionSpan": 13,
    "pace": "mixed",
@@ -15376,7 +14938,7 @@
    "id": "critical-infrastructure",
    "term": "critical infrastructure",
    "direction": "steady",
-   "ratio": 0.17419455903086,
+   "ratio": 0.1739946800187764,
    "display": true,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -15978,7 +15540,7 @@
    "id": "utility-scale",
    "term": "utility scale",
    "direction": "rising",
-   "ratio": 0.29861924405290285,
+   "ratio": 0.2982765943179024,
    "display": true,
    "adoptionSpan": 32,
    "pace": "gradual",
@@ -16558,7 +16120,7 @@
    "id": "stainless-steel",
    "term": "stainless steel",
    "direction": "steady",
-   "ratio": 0.1959688789097175,
+   "ratio": 0.19574401502112346,
    "display": true,
    "adoptionSpan": 1,
    "pace": "mixed",
@@ -17090,10 +16652,598 @@
    "rank": 0.888
   },
   {
+   "id": "received-approval",
+   "term": "received approval",
+   "direction": "rising",
+   "ratio": 0.43498670004694107,
+   "display": true,
+   "adoptionSpan": 6,
+   "pace": "simultaneous",
+   "kind": "concept",
+   "sectorCount": 2,
+   "effectiveSectors": 2.0,
+   "newestSector": "Supply chain",
+   "daysSinceNewestSector": 20,
+   "articles14d": 5,
+   "articlesPrior14d": 3,
+   "publishers": 3,
+   "events": 5,
+   "topPubShare": 0.4,
+   "sectors": [
+    {
+     "name": "Technology",
+     "firstSeen": "2026-08-25",
+     "recent": 2,
+     "articles": 4,
+     "share": 0.4,
+     "atSectorStart": false,
+     "grip": 0.111,
+     "outlets": 1,
+     "adopt": 63,
+     "daysSince": 26
+    },
+    {
+     "name": "Supply chain",
+     "firstSeen": "2026-08-31",
+     "recent": 3,
+     "articles": 4,
+     "share": 0.6,
+     "atSectorStart": false,
+     "grip": 0.25,
+     "outlets": 2,
+     "adopt": 69,
+     "daysSince": 20
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "KR",
+     4
+    ],
+    [
+     "GR",
+     3
+    ],
+    [
+     "DE",
+     1
+    ],
+    [
+     "HK",
+     1
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-06-23",
+     "2026-06-30",
+     "2026-07-07",
+     "2026-07-14",
+     "2026-07-21",
+     "2026-07-28",
+     "2026-08-04",
+     "2026-08-11",
+     "2026-08-18",
+     "2026-08-25",
+     "2026-09-01",
+     "2026-09-08",
+     "2026-09-15"
+    ],
+    "bands": [
+     {
+      "sector": "Technology",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       2,
+       0,
+       1,
+       1
+      ]
+     },
+     {
+      "sector": "Supply chain",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       3
+      ]
+     },
+     {
+      "sector": "Autos",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "cooc": [
+    [
+     "principle aip",
+     1.0,
+     "new",
+     3,
+     0,
+     419.9,
+     [
+      {
+       "title": "Hanwha Ocean wins ABS AiP for LNG-to-ammonia fuel system",
+       "url": "https://container-news.com/hanwha-ocean-wins-abs-aip-for-lng-to-ammonia-fuel-system/",
+       "publisher": "Container News",
+       "sector": "Supply chain",
+       "quote": "\u2026nwha Ocean has received Approval in \u2f00Principle (AiP\u2f01) from ABS for a fuel system designed to allow an LNG carrier to transition from LNG to ammonia without replac\u2026"
+      },
+      {
+       "title": "Jiangnan Shipyard wins BV approval for electric-propelled ammonia carrier",
+       "url": "https://container-news.com/jiangnan-shipyard-wins-bv-approval-for-electric-propelled-ammonia-carrier/",
+       "publisher": "Container News",
+       "sector": "Supply chain",
+       "quote": "\u2026n Shipyard has received Approval in \u2f00Principle (AiP\u2f01) from Bureau Veritas for a new electric-propelled Very Large Ammonia Carrier (VLAC). The vessel concept combi\u2026"
+      },
+      {
+       "title": "HD KSOE Develops 100MW Floating Power Plant",
+       "url": "https://www.thelec.net/news/articleView.html?idxno=13932",
+       "publisher": "The Elec",
+       "sector": "Technology",
+       "quote": "\u2026pt. 15 that it received Approval in \u2f00Principle (AIP\u2f01) from th"
+      }
+     ],
+     [
+      "power generation"
+     ]
+    ]
+   ],
+   "examples": [
+    {
+     "publisher": "Container News",
+     "title": "Hanwha Ocean wins ABS AiP for LNG-to-ammonia fuel system",
+     "url": "https://container-news.com/hanwha-ocean-wins-abs-aip-for-lng-to-ammonia-fuel-system/",
+     "date": "2026-09-20",
+     "sector": "Supply chain",
+     "country": "GR",
+     "quote": "Hanwha Ocean has \u2f00received Approval\u2f01 in Principle (AiP) from ABS for a fuel system designed to allow an LNG carrier to transition from LNG to ammo\u2026"
+    },
+    {
+     "publisher": "SCMP Business",
+     "title": "US crypto bill stumble sparks call for Hong Kong to seize \u2018critical strategic window'",
+     "url": "https://www.scmp.com/business/cryptocurrency/article/3367694/us-crypto-bill-stumble-sparks-call-hong-kong-seize-critical-strategic-window?utm_source=rss_feed",
+     "date": "2026-09-16",
+     "sector": "Supply chain",
+     "country": "HK",
+     "quote": "\u2026n mainland China, but Hong Kong has \u2f00received approval\u2f01 to develop itself as a digital asset hub, with the stalled push in Washington presenting the city with what..\u2026"
+    },
+    {
+     "publisher": "Container News",
+     "title": "Jiangnan Shipyard wins BV approval for electric-propelled ammonia carrier",
+     "url": "https://container-news.com/jiangnan-shipyard-wins-bv-approval-for-electric-propelled-ammonia-carrier/",
+     "date": "2026-09-16",
+     "sector": "Supply chain",
+     "country": "GR",
+     "quote": "Jiangnan Shipyard has \u2f00received Approval\u2f01 in Principle (AiP) from Bureau Veritas for a new electric-propelled Very Large Ammonia Carrier (VLAC). The ve\u2026"
+    },
+    {
+     "publisher": "The Elec",
+     "title": "HD KSOE Develops 100MW Floating Power Plant",
+     "url": "https://www.thelec.net/news/articleView.html?idxno=13932",
+     "date": "2026-09-16",
+     "sector": "Technology",
+     "country": "KR",
+     "quote": "\u2026es.HD KSOE said on Sept. 15 that it \u2f00received Approval\u2f01 in Principle (AIP) from th"
+    },
+    {
+     "publisher": "The Elec",
+     "title": "GC Biopharma Gets Phase 2 Approval for COVID-19 Vaccine",
+     "url": "https://www.thelec.net/news/articleView.html?idxno=13876",
+     "date": "2026-09-13",
+     "sector": "Technology",
+     "country": "KR",
+     "quote": "\u2026Biopharma said on Sept. 11 that it \u2f00received approval\u2f01 from the Ministry of Food and Drug Safety (MFDS) for an investigational new drug (IND) application to conduct\u2026"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-31",
+     "n": 0
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 0
+    },
+    {
+     "day": "2026-08-04",
+     "n": 0
+    },
+    {
+     "day": "2026-08-05",
+     "n": 0
+    },
+    {
+     "day": "2026-08-06",
+     "n": 0
+    },
+    {
+     "day": "2026-08-07",
+     "n": 0
+    },
+    {
+     "day": "2026-08-08",
+     "n": 0
+    },
+    {
+     "day": "2026-08-09",
+     "n": 0
+    },
+    {
+     "day": "2026-08-10",
+     "n": 0
+    },
+    {
+     "day": "2026-08-11",
+     "n": 0
+    },
+    {
+     "day": "2026-08-12",
+     "n": 0
+    },
+    {
+     "day": "2026-08-13",
+     "n": 0
+    },
+    {
+     "day": "2026-08-14",
+     "n": 0
+    },
+    {
+     "day": "2026-08-15",
+     "n": 0
+    },
+    {
+     "day": "2026-08-16",
+     "n": 0
+    },
+    {
+     "day": "2026-08-17",
+     "n": 1
+    },
+    {
+     "day": "2026-08-18",
+     "n": 0
+    },
+    {
+     "day": "2026-08-19",
+     "n": 0
+    },
+    {
+     "day": "2026-08-20",
+     "n": 0
+    },
+    {
+     "day": "2026-08-21",
+     "n": 0
+    },
+    {
+     "day": "2026-08-22",
+     "n": 0
+    },
+    {
+     "day": "2026-08-23",
+     "n": 0
+    },
+    {
+     "day": "2026-08-24",
+     "n": 0
+    },
+    {
+     "day": "2026-08-25",
+     "n": 1
+    },
+    {
+     "day": "2026-08-26",
+     "n": 0
+    },
+    {
+     "day": "2026-08-27",
+     "n": 0
+    },
+    {
+     "day": "2026-08-28",
+     "n": 1
+    },
+    {
+     "day": "2026-08-29",
+     "n": 0
+    },
+    {
+     "day": "2026-08-30",
+     "n": 0
+    },
+    {
+     "day": "2026-08-31",
+     "n": 1
+    },
+    {
+     "day": "2026-09-01",
+     "n": 0
+    },
+    {
+     "day": "2026-09-02",
+     "n": 0
+    },
+    {
+     "day": "2026-09-03",
+     "n": 0
+    },
+    {
+     "day": "2026-09-04",
+     "n": 0
+    },
+    {
+     "day": "2026-09-05",
+     "n": 0
+    },
+    {
+     "day": "2026-09-06",
+     "n": 0
+    },
+    {
+     "day": "2026-09-07",
+     "n": 0
+    },
+    {
+     "day": "2026-09-08",
+     "n": 0
+    },
+    {
+     "day": "2026-09-09",
+     "n": 0
+    },
+    {
+     "day": "2026-09-10",
+     "n": 0
+    },
+    {
+     "day": "2026-09-11",
+     "n": 0
+    },
+    {
+     "day": "2026-09-12",
+     "n": 0
+    },
+    {
+     "day": "2026-09-13",
+     "n": 1
+    },
+    {
+     "day": "2026-09-14",
+     "n": 0
+    },
+    {
+     "day": "2026-09-15",
+     "n": 0
+    },
+    {
+     "day": "2026-09-16",
+     "n": 3
+    },
+    {
+     "day": "2026-09-17",
+     "n": 0
+    },
+    {
+     "day": "2026-09-18",
+     "n": 0
+    },
+    {
+     "day": "2026-09-19",
+     "n": 0
+    },
+    {
+     "day": "2026-09-20",
+     "n": 1
+    }
+   ],
+   "relRatio": 2.08,
+   "docFreq": 0.0003,
+   "specificity": 0.991,
+   "homeShare": 0.6,
+   "daysSeen": 3,
+   "rank": 0.886
+  },
+  {
    "id": "solid-state",
    "term": "solid state",
    "direction": "steady",
-   "ratio": 0.1662766245294573,
+   "ratio": 0.16608583092701384,
    "display": true,
    "adoptionSpan": 1,
    "pace": "mixed",
@@ -17745,110 +17895,70 @@
    "rank": 0.694
   },
   {
-   "id": "electric-vehicle",
-   "term": "electric vehicle",
+   "id": "global-leader",
+   "term": "global leader",
    "direction": "steady",
-   "ratio": 0.15242023915200248,
+   "ratio": 0.26099202002816463,
    "display": true,
-   "adoptionSpan": 39,
-   "pace": "gradual",
+   "adoptionSpan": 16,
+   "pace": "mixed",
    "kind": "concept",
-   "sectorCount": 5,
-   "effectiveSectors": 3.97,
+   "sectorCount": 2,
+   "effectiveSectors": 1.98,
    "newestSector": "Supply chain",
-   "daysSinceNewestSector": 47,
-   "articles14d": 21,
-   "articlesPrior14d": 36,
-   "publishers": 10,
-   "events": 21,
+   "daysSinceNewestSector": 31,
+   "articles14d": 3,
+   "articlesPrior14d": 3,
+   "publishers": 3,
+   "events": 3,
    "topPubShare": 0.333,
    "sectors": [
     {
-     "name": "Energy",
-     "firstSeen": "2026-06-26",
-     "recent": 1,
-     "articles": 17,
-     "share": 0.05,
-     "atSectorStart": false,
-     "grip": 0.167,
-     "outlets": 1,
-     "adopt": 3,
-     "daysSince": 86
-    },
-    {
      "name": "Technology",
-     "firstSeen": "2026-07-14",
-     "recent": 8,
-     "articles": 42,
-     "share": 0.4,
+     "firstSeen": "2026-08-04",
+     "recent": 1,
+     "articles": 4,
+     "share": 0.5,
      "atSectorStart": false,
      "grip": 0.222,
      "outlets": 2,
-     "adopt": 21,
-     "daysSince": 68
-    },
-    {
-     "name": "Autos",
-     "firstSeen": "2026-07-15",
-     "recent": 5,
-     "articles": 33,
-     "share": 0.25,
-     "atSectorStart": false,
-     "grip": 0.75,
-     "outlets": 3,
-     "adopt": 22,
-     "daysSince": 67
-    },
-    {
-     "name": "Utilities",
-     "firstSeen": "2026-07-29",
-     "recent": 1,
-     "articles": 4,
-     "share": 0.05,
-     "atSectorStart": false,
-     "grip": 0.143,
-     "outlets": 1,
-     "adopt": 36,
-     "daysSince": 53
+     "adopt": 42,
+     "daysSince": 47
     },
     {
      "name": "Supply chain",
-     "firstSeen": "2026-08-04",
-     "recent": 5,
-     "articles": 11,
-     "share": 0.25,
+     "firstSeen": "2026-08-20",
+     "recent": 1,
+     "articles": 3,
+     "share": 0.5,
      "atSectorStart": false,
-     "grip": 0.25,
-     "outlets": 2,
-     "adopt": 42,
-     "daysSince": 47
+     "grip": 0.125,
+     "outlets": 1,
+     "adopt": 58,
+     "daysSince": 31
     }
    ],
    "sinceStart": false,
    "origins": [
     [
-     "DE",
-     26
-    ],
-    [
-     "US",
-     26
+     "GB",
+     3
     ],
     [
      "TW",
-     24
+     3
     ],
     [
-     "KR",
-     17
+     "DE",
+     1
     ],
     [
      "HK",
-     7
+     1
     ],
     [
-     "IN",
-     4
+     "US",
+     1
     ]
    ],
    "flow": {
@@ -17874,52 +17984,16 @@
        0,
        0,
        0,
-       1,
-       0,
-       0,
-       4,
-       4,
-       13,
-       4,
-       9,
-       1,
-       6
-      ]
-     },
-     {
-      "sector": "Autos",
-      "n": [
        0,
        0,
        0,
        1,
-       0,
-       0,
-       9,
-       6,
-       3,
-       8,
        1,
        0,
-       5
-      ]
-     },
-     {
-      "sector": "Energy",
-      "n": [
-       1,
        1,
        0,
        0,
-       0,
-       2,
-       1,
-       3,
-       3,
-       1,
-       4,
-       1,
-       0
+       1
       ]
      },
      {
@@ -17931,13 +18005,31 @@
        0,
        0,
        0,
-       1,
-       1,
+       0,
+       0,
+       2,
+       0,
+       0,
+       0,
+       1
+      ]
+     },
+     {
+      "sector": "Energy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
        1,
        0,
-       5,
-       2,
-       1
+       0,
+       0
       ]
      },
      {
@@ -17948,37 +18040,6 @@
        0,
        0,
        0,
-       2,
-       0,
-       1,
-       0,
-       0,
-       0,
-       0,
-       1
-      ]
-     },
-     {
-      "sector": "Industrials",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       2,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Finance",
-      "n": [
        0,
        0,
        0,
@@ -17986,84 +18047,7 @@
        0,
        0,
        1,
-       0,
-       0,
-       0,
-       0,
-       0,
        0
-      ]
-     },
-     {
-      "sector": "Policy",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Materials",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Labor",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Real estate",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1
       ]
      }
     ]
@@ -18071,112 +18055,31 @@
    "cooc": [],
    "examples": [
     {
-     "publisher": "DigiTimes Asia",
-     "title": "BYD plans four Europe factories as EU tariff pressure rises",
-     "url": "https://www.digitimes.com/news/a20260918PD229/byd-europe-manufacturing-vehicle-spain.html",
-     "date": "2026-09-20",
-     "sector": "Technology",
-     "country": "TW",
-     "quote": "\u2026pand its customer base. The Chinese \u2f00electric vehicle\u2f01 maker wants three vehicle assembly plants and one EV battery plant, according to company adviser and former F\u2026"
-    },
-    {
-     "publisher": "Electrive",
-     "title": "Lucid and Bolt plot electric Robotaxi service for Europe",
-     "url": "https://www.electrive.com/2026/09/19/lucid-and-bolt-plot-electric-robotaxi-service-for-europe/",
-     "date": "2026-09-19",
-     "sector": "Autos",
-     "country": "DE",
-     "quote": "\u2026o deploy at least 25,000 autonomous \u2f00electric vehicles\u2f01 based on Lucid's upcoming midsize platform across multiple European cities and countries."
-    },
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "Thailand plans to swap EV subsidies for import taxes to defend its production base",
-     "url": "https://www.digitimes.com/news/a20260918VL204/subsidies-production-policy-asia-vehicle.html",
-     "date": "2026-09-18",
-     "sector": "Technology",
-     "country": "TW",
-     "quote": "\u2026it Southeast Asia's fastest-growing \u2f00electric vehicle\u2f01 market, replacing it with a tax structure built to penalize carmakers that import rather than build. Finance\u2026"
-    },
-    {
-     "publisher": "Electrive",
-     "title": "Onsemi aims to quadruple power density of EV inverters",
-     "url": "https://www.electrive.com/2026/09/18/onsemi-aims-to-quadruple-power-density-of-ev-inverters/",
-     "date": "2026-09-18",
-     "sector": "Autos",
-     "country": "DE",
-     "quote": "\u2026er losses in traction inverters for \u2f00electric vehicles\u2f01."
-    },
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "Resonac grows 300mm SiC crystal, marking a substrate milestone",
-     "url": "https://www.digitimes.com/news/a20260918PR200/sic-resonac-300mm-substrate-silicon.html",
-     "date": "2026-09-18",
-     "sector": "Technology",
-     "country": "TW",
-     "quote": "\u2026power electronics used worldwide in \u2f00electric vehicles\u2f01, renewable energy systems, data centers, and advanced computing. The achievement underscores the push for lar\u2026"
-    },
-    {
-     "publisher": "Utility Dive",
-     "title": "Trump is stalling EV adoption. Here's how states can step up.",
-     "url": "https://www.utilitydive.com/news/trump-is-stalling-ev-adoption-heres-how-states-can-step-up/829632/",
-     "date": "2026-09-17",
-     "sector": "Utilities",
-     "country": "US",
-     "quote": "While President Trump attacks \u2f00electric vehicles\u2f01, a few states are charting a path to expand electric transportation and reduce residents' costs, writes Kathe\u2026"
-    },
-    {
-     "publisher": "Electrive",
-     "title": "Hybrid vehicles: EU urges China to self-limit imports",
-     "url": "https://www.electrive.com/2026/09/17/hybrid-vehicles-eu-urges-china-to-self-limit-imports/",
-     "date": "2026-09-17",
-     "sector": "Autos",
-     "country": "DE",
-     "quote": "\u2026y, these tariffs only apply to pure \u2f00electric vehicles\u2f01 from China."
-    },
-    {
-     "publisher": "Just Auto",
-     "title": "Thailand eyes 30% excise tax on imported \u2f00electric vehicles\u2f01 report",
-     "url": "https://www.just-auto.com/news/thailand-30-excise-tax-imported-evs/",
-     "date": "2026-09-16",
-     "sector": "Autos",
-     "country": "US",
-     "quote": ""
-    },
-    {
-     "publisher": "CnEVPost",
-     "title": "BYD Denza Z9S to launch on September 23 with up to 1,100 km range",
-     "url": "https://cnevpost.com/2026/09/16/byd-denza-z9s-launch-sept-23/",
-     "date": "2026-09-16",
-     "sector": "Autos",
-     "country": "CN",
-     "quote": "\u2026longest-range mass-produced battery \u2f00electric vehicle\u2f01. For details, please visit CnEVPost (cnev.co)."
-    },
-    {
      "publisher": "SCMP Business",
-     "title": "Tesla revives China discounts; Iran war drives shift to electric cars: 7 EV reads",
-     "url": "https://www.scmp.com/business/china-evs/article/3367677/tesla-revives-china-discounts-iran-war-drives-shift-electric-cars-7-ev-reads?utm_source=rss_feed",
-     "date": "2026-09-16",
+     "title": "China's CXMT touts new chip manufacturing platform as close to \u2018world's most advanced'",
+     "url": "https://www.scmp.com/tech/article/3368154/chinas-cxmt-touts-new-chip-manufacturing-platform-close-worlds-most-advanced?utm_source=rss_feed",
+     "date": "2026-09-20",
      "sector": "Supply chain",
      "country": "HK",
-     "quote": "\u2026s in the world's largest market for \u2f00electric vehicles\u2f01 (EVs). 2. \u2018Key pillar':..."
-    },
-    {
-     "publisher": "Commercial Observer",
-     "title": "New York City Selects It's Electric to Install Curbside EV Charging Ports",
-     "url": "https://commercialobserver.com/2026/09/new-york-city-its-electric-curbside-ev-charging/",
-     "date": "2026-09-15",
-     "sector": "Real estate",
-     "country": "US",
-     "quote": "\u2026tric, a national leader in curbside \u2f00electric vehicle\u2f01 (EV) charging, announced Tuesday that New York City has awarded it an exclusive contract to install and build\u2026"
+     "quote": "\u2026duction, narrowing the advantage of \u2f00global leaders\u2f01 including Samsung Electronics and SK Hynix in manufacturing nodes. CXMT's fifth-generation technology platfor\u2026"
     },
     {
      "publisher": "DigiTimes Asia",
-     "title": "BIS blocks Polestar authorization, forcing new vehicles out of US market from 2027",
-     "url": "https://www.digitimes.com/news/a20260914PD241/polestar-vehicle-2027-market-geely.html",
-     "date": "2026-09-15",
+     "title": "Foxconn Interconnect Technology targets the scaling challenge in AI optical interconnects",
+     "url": "https://www.digitimes.com/news/a20260916PD233/fit-foxconn-subsidiary-communications-2026.html",
+     "date": "2026-09-17",
      "sector": "Technology",
      "country": "TW",
-     "quote": "Polestar, the Swedish \u2f00electric vehicle\u2f01 (EV) brand backed by Geely Holding, is facing a major restructuring of its US operations. In its first-half 2\u2026"
+     "quote": "\u2026r Interconnects,\" bringing together \u2f00global leaders\u2f01 from the optical communications, AI, and semiconductor industries to examine the next generation of AI connec\u2026"
+    },
+    {
+     "publisher": "Energy Storage News",
+     "title": "Anker SOLIX XE: Energy freedom made simple",
+     "url": "https://www.energy-storage.news/anker-solix-xe-energy-freedom-made-simple/",
+     "date": "2026-09-14",
+     "sector": "Utilities",
+     "country": "GB",
+     "quote": "Anker SOLIX, a \u2f00global leader\u2f01 in smart energy, introduces the XE system, the next-generation true all-in-one home energy storage system."
     }
    ],
    "daily": [
@@ -18194,7 +18097,7 @@
     },
     {
      "day": "2026-06-26",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-06-27",
@@ -18218,7 +18121,7 @@
     },
     {
      "day": "2026-07-02",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-07-03",
@@ -18266,11 +18169,11 @@
     },
     {
      "day": "2026-07-14",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-07-15",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-07-16",
@@ -18322,11 +18225,11 @@
     },
     {
      "day": "2026-07-28",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-07-29",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-07-30",
@@ -18342,31 +18245,31 @@
     },
     {
      "day": "2026-08-02",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-08-03",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-08-04",
-     "n": 2
+     "n": 1
     },
     {
      "day": "2026-08-05",
-     "n": 3
+     "n": 0
     },
     {
      "day": "2026-08-06",
-     "n": 3
+     "n": 0
     },
     {
      "day": "2026-08-07",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-08-08",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-08-09",
@@ -18374,23 +18277,23 @@
     },
     {
      "day": "2026-08-10",
-     "n": 6
+     "n": 0
     },
     {
      "day": "2026-08-11",
-     "n": 4
+     "n": 0
     },
     {
      "day": "2026-08-12",
-     "n": 3
+     "n": 0
     },
     {
      "day": "2026-08-13",
-     "n": 6
+     "n": 0
     },
     {
      "day": "2026-08-14",
-     "n": 2
+     "n": 0
     },
     {
      "day": "2026-08-15",
@@ -18398,31 +18301,31 @@
     },
     {
      "day": "2026-08-16",
-     "n": 1
-    },
-    {
-     "day": "2026-08-17",
      "n": 0
     },
     {
+     "day": "2026-08-17",
+     "n": 1
+    },
+    {
      "day": "2026-08-18",
-     "n": 2
+     "n": 0
     },
     {
      "day": "2026-08-19",
-     "n": 4
+     "n": 0
     },
     {
      "day": "2026-08-20",
-     "n": 8
+     "n": 1
     },
     {
      "day": "2026-08-21",
-     "n": 2
+     "n": 0
     },
     {
      "day": "2026-08-22",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-08-23",
@@ -18430,27 +18333,27 @@
     },
     {
      "day": "2026-08-24",
-     "n": 5
+     "n": 1
     },
     {
      "day": "2026-08-25",
-     "n": 3
+     "n": 0
     },
     {
      "day": "2026-08-26",
-     "n": 4
+     "n": 0
     },
     {
      "day": "2026-08-27",
-     "n": 3
+     "n": 0
     },
     {
      "day": "2026-08-28",
-     "n": 3
+     "n": 1
     },
     {
      "day": "2026-08-29",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-08-30",
@@ -18462,19 +18365,19 @@
     },
     {
      "day": "2026-09-01",
-     "n": 2
+     "n": 0
     },
     {
      "day": "2026-09-02",
-     "n": 3
+     "n": 0
     },
     {
      "day": "2026-09-03",
-     "n": 3
+     "n": 0
     },
     {
      "day": "2026-09-04",
-     "n": 4
+     "n": 0
     },
     {
      "day": "2026-09-05",
@@ -18482,11 +18385,11 @@
     },
     {
      "day": "2026-09-06",
-     "n": 4
+     "n": 0
     },
     {
      "day": "2026-09-07",
-     "n": 3
+     "n": 0
     },
     {
      "day": "2026-09-08",
@@ -18498,11 +18401,11 @@
     },
     {
      "day": "2026-09-10",
-     "n": 2
+     "n": 0
     },
     {
      "day": "2026-09-11",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-09-12",
@@ -18518,41 +18421,41 @@
     },
     {
      "day": "2026-09-15",
-     "n": 4
+     "n": 0
     },
     {
      "day": "2026-09-16",
-     "n": 3
+     "n": 0
     },
     {
      "day": "2026-09-17",
-     "n": 2
+     "n": 1
     },
     {
      "day": "2026-09-18",
-     "n": 3
+     "n": 0
     },
     {
      "day": "2026-09-19",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-09-20",
      "n": 1
     }
    ],
-   "relRatio": 0.73,
-   "docFreq": 0.0011,
-   "specificity": 0.963,
-   "homeShare": 0.4,
-   "daysSeen": 10,
-   "rank": 0.514
+   "relRatio": 1.25,
+   "docFreq": 0.0002,
+   "specificity": 0.995,
+   "homeShare": 0.5,
+   "daysSeen": 3,
+   "rank": 0.591
   },
   {
    "id": "container-ship",
    "term": "container ship",
    "direction": "falling",
-   "ratio": 0.139355647224688,
+   "ratio": 0.1391957440150211,
    "display": false,
    "adoptionSpan": 36,
    "pace": "gradual",
@@ -19172,7 +19075,7 @@
    "id": "charging-infrastructure",
    "term": "charging infrastructure",
    "direction": "falling",
-   "ratio": 0.12193619132160201,
+   "ratio": 0.12179627601314348,
    "display": false,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -19337,7 +19240,7 @@
      "steady",
      2,
      2,
-     63.6,
+     64.0,
      [
       {
        "title": "CATL, DHL sign new pact to advance road freight electrification in Europe",
@@ -19795,7 +19698,7 @@
    "id": "capacity-expansion",
    "term": "capacity expansion",
    "direction": "steady",
-   "ratio": 0.235162654691661,
+   "ratio": 0.23489281802534814,
    "display": false,
    "adoptionSpan": 16,
    "pace": "mixed",
@@ -20460,7 +20363,7 @@
    "id": "battery-cell",
    "term": "battery cell",
    "direction": "steady",
-   "ratio": 0.22396443303967714,
+   "ratio": 0.2237074457384268,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -21066,7 +20969,7 @@
    "id": "mass-production",
    "term": "mass production",
    "direction": "falling",
-   "ratio": 0.07548430891337267,
+   "ratio": 0.08119751734209567,
    "display": false,
    "adoptionSpan": 50,
    "pace": "gradual",
@@ -21075,11 +20978,11 @@
    "effectiveSectors": 1.18,
    "newestSector": "Autos",
    "daysSinceNewestSector": 18,
-   "articles14d": 13,
+   "articles14d": 14,
    "articlesPrior14d": 45,
-   "publishers": 3,
-   "events": 9,
-   "topPubShare": 0.556,
+   "publishers": 4,
+   "events": 10,
+   "topPubShare": 0.5,
    "sectors": [
     {
      "name": "Technology",
@@ -21129,7 +21032,7 @@
      2
     ],
     [
-     "IN",
+     "HK",
      1
     ]
    ],
@@ -21239,11 +21142,38 @@
        0,
        0
       ]
+     },
+     {
+      "sector": "Supply chain",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
      }
     ]
    },
    "cooc": [],
    "examples": [
+    {
+     "publisher": "SCMP Business",
+     "title": "China's CXMT touts new chip manufacturing platform as close to \u2018world's most advanced'",
+     "url": "https://www.scmp.com/tech/article/3368154/chinas-cxmt-touts-new-chip-manufacturing-platform-close-worlds-most-advanced?utm_source=rss_feed",
+     "date": "2026-09-20",
+     "sector": "Supply chain",
+     "country": "HK",
+     "quote": "\u2026-generation technology platform for \u2f00mass production\u2f01, narrowing the advantage of global leaders including Samsung Electronics and SK Hynix in manufacturing nodes.\u2026"
+    },
     {
      "publisher": "The Elec",
      "title": "DeltaX Signs $90 Million ESS Supply Deal With France's Socomec",
@@ -21339,15 +21269,6 @@
      "title": "Dongfeng to unveil in-house hybrid solid-liquid battery in October, \u2f00mass production\u2f01 in Q4",
      "url": "https://cnevpost.com/2026/09/09/dongfeng-unveil-hybrid-solid-liquid-battery-oct-2026/",
      "date": "2026-09-09",
-     "sector": "Autos",
-     "country": "CN",
-     "quote": ""
-    },
-    {
-     "publisher": "CnEVPost",
-     "title": "Xpeng opens Iron humanoid robot production line, paving way for year-end \u2f00mass production\u2f01",
-     "url": "https://cnevpost.com/2026/09/08/xpeng-opens-iron-humanoid-robot-production-line/",
-     "date": "2026-09-08",
      "sector": "Autos",
      "country": "CN",
      "quote": ""
@@ -21712,21 +21633,21 @@
     },
     {
      "day": "2026-09-20",
-     "n": 0
+     "n": 1
     }
    ],
-   "relRatio": 0.36,
+   "relRatio": 0.39,
    "docFreq": 0.0007,
-   "specificity": 0.977,
+   "specificity": 0.976,
    "homeShare": 0.769,
-   "daysSeen": 8,
-   "rank": 1.509
+   "daysSeen": 9,
+   "rank": 1.508
   },
   {
    "id": "rooftop-solar",
    "term": "rooftop solar",
    "direction": "steady",
-   "ratio": 0.21378423153787365,
+   "ratio": 0.21353892547758924,
    "display": false,
    "adoptionSpan": 40,
    "pace": "gradual",
@@ -22355,7 +22276,7 @@
    "id": "media-briefing",
    "term": "media briefing",
    "direction": "rising",
-   "ratio": 0.52258367709258,
+   "ratio": 0.5219840400563293,
    "display": false,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -22903,7 +22824,7 @@
    "id": "fast-charging",
    "term": "fast charging",
    "direction": "rising",
-   "ratio": 0.391937757819435,
+   "ratio": 0.3914880300422469,
    "display": false,
    "adoptionSpan": 37,
    "pace": "gradual",
@@ -23482,7 +23403,7 @@
    "id": "capacity-crunch",
    "term": "capacity crunch",
    "direction": "rising",
-   "ratio": 1.04516735418516,
+   "ratio": 1.0439680801126585,
    "display": false,
    "adoptionSpan": 46,
    "pace": "gradual",
@@ -24004,7 +23925,7 @@
    "id": "crude-oil",
    "term": "crude oil",
    "direction": "steady",
-   "ratio": 0.1979483625350682,
+   "ratio": 0.20563007638582667,
    "display": false,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -24013,11 +23934,11 @@
    "effectiveSectors": 1.68,
    "newestSector": "Supply chain",
    "daysSinceNewestSector": 41,
-   "articles14d": 25,
+   "articles14d": 26,
    "articlesPrior14d": 33,
    "publishers": 5,
-   "events": 25,
-   "topPubShare": 0.76,
+   "events": 26,
+   "topPubShare": 0.731,
    "sectors": [
     {
      "name": "Utilities",
@@ -24064,7 +23985,7 @@
     ],
     [
      "IN",
-     6
+     7
     ],
     [
      "GR",
@@ -24147,7 +24068,7 @@
       ]
      },
      {
-      "sector": "Policy",
+      "sector": "Industrials",
       "n": [
        0,
        0,
@@ -24161,11 +24082,11 @@
        0,
        0,
        0,
-       0
+       1
       ]
      },
      {
-      "sector": "Industrials",
+      "sector": "Policy",
       "n": [
        0,
        0,
@@ -24191,7 +24112,7 @@
      "steady",
      2,
      1,
-     16.7,
+     16.1,
      [
       {
        "title": "What goes into \u2f00diesel prices\u2f01?",
@@ -24212,6 +24133,15 @@
     ]
    ],
    "examples": [
+    {
+     "publisher": "ET Manufacturing",
+     "title": "FMCG firms to hold prices despite rise in commodity costs; prioritise volume growth",
+     "url": "https://manufacturing.economictimes.indiatimes.com/news/fmcg/fmcg-firms-to-hold-prices-despite-rise-in-commodity-costs-prioritise-volume-growth/134364460",
+     "date": "2026-09-20",
+     "sector": "Industrials",
+     "country": "IN",
+     "quote": "\u2026h as edible oils, coffee, cocoa and \u2f00crude oil\u2f01 derivatives used in packaging, amid geopolitical disruptions and supply concerns in global markets."
+    },
     {
      "publisher": "SCMP Business",
      "title": "China's crude imports are rising again. What will that mean for oil prices?",
@@ -24310,15 +24240,6 @@
      "sector": "Supply chain",
      "country": "GR",
      "quote": "\u2026hrust measurement system aboard the \u2f00crude oil\u2f01 tanker ENEOS DREAM. The company developed the system to measure vessel propulsion performance more accurately\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "U.S. Oil Inventories Edge Lower as Fuel Demand Softens",
-     "url": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Inventories-Edge-Lower-as-Fuel-Demand-Softens.html",
-     "date": "2026-09-16",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2f00Crude oil\u2f01 inventories in the United States saw a decrease of 600,000 barrels during the week ending September 11, accor\u2026"
     }
    ],
    "daily": [
@@ -24680,19 +24601,19 @@
     },
     {
      "day": "2026-09-20",
-     "n": 0
+     "n": 1
     }
    ],
    "variants": [
     "crude oil price",
     "oil production"
    ],
-   "relRatio": 0.95,
-   "docFreq": 0.0013,
-   "specificity": 0.956,
+   "relRatio": 0.98,
+   "docFreq": 0.0014,
+   "specificity": 0.955,
    "homeShare": 0.84,
-   "daysSeen": 7,
-   "rank": 1.333
+   "daysSeen": 8,
+   "rank": 1.332
   },
   {
    "id": "energy-center",
@@ -25215,7 +25136,7 @@
    "id": "air-defense",
    "term": "air defense",
    "direction": "rising",
-   "ratio": 0.34838911806172,
+   "ratio": 0.3479893600375528,
    "display": false,
    "adoptionSpan": 26,
    "pace": "mixed",
@@ -25749,7 +25670,7 @@
    "id": "solar-panel",
    "term": "solar panel",
    "direction": "falling",
-   "ratio": 0.069677823612344,
+   "ratio": 0.06959787200751055,
    "display": false,
    "adoptionSpan": 46,
    "pace": "gradual",
@@ -26369,7 +26290,7 @@
    "id": "gas-price",
    "term": "gas price",
    "direction": "steady",
-   "ratio": 0.17419455903086,
+   "ratio": 0.1739946800187764,
    "display": false,
    "adoptionSpan": 32,
    "pace": "gradual",
@@ -26981,7 +26902,7 @@
    "id": "energy-demand",
    "term": "energy demand",
    "direction": "rising",
-   "ratio": 0.32661479818286254,
+   "ratio": 0.32624002503520577,
    "display": false,
    "adoptionSpan": 40,
    "pace": "gradual",
@@ -27585,85 +27506,69 @@
    "rank": 1.24
   },
   {
-   "id": "humanoid-robot",
-   "term": "humanoid robot",
-   "direction": "steady",
-   "ratio": 0.17815352628156136,
+   "id": "lng-carrier",
+   "term": "lng carrier",
+   "direction": "rising",
+   "ratio": 0.7177280550774526,
    "display": false,
-   "adoptionSpan": 46,
-   "pace": "gradual",
+   "adoptionSpan": 6,
+   "pace": "simultaneous",
    "kind": "concept",
-   "sectorCount": 3,
-   "effectiveSectors": 1.44,
-   "newestSector": "Supply chain",
-   "daysSinceNewestSector": 13,
-   "articles14d": 15,
-   "articlesPrior14d": 22,
-   "publishers": 4,
-   "events": 16,
-   "topPubShare": 0.562,
+   "sectorCount": 2,
+   "effectiveSectors": 1.72,
+   "newestSector": "Energy",
+   "daysSinceNewestSector": 46,
+   "articles14d": 11,
+   "articlesPrior14d": 4,
+   "publishers": 5,
+   "events": 11,
+   "topPubShare": 0.545,
    "sectors": [
     {
-     "name": "Autos",
-     "firstSeen": "2026-07-23",
-     "recent": 1,
-     "articles": 3,
-     "share": 0.067,
-     "atSectorStart": false,
-     "grip": 0.25,
-     "outlets": 1,
-     "adopt": 30,
-     "daysSince": 59
-    },
-    {
-     "name": "Technology",
-     "firstSeen": "2026-08-04",
-     "recent": 11,
-     "articles": 61,
-     "share": 0.733,
-     "atSectorStart": false,
-     "grip": 0.222,
-     "outlets": 2,
-     "adopt": 42,
-     "daysSince": 47
-    },
-    {
      "name": "Supply chain",
-     "firstSeen": "2026-09-07",
-     "recent": 3,
-     "articles": 3,
+     "firstSeen": "2026-07-30",
+     "recent": 8,
+     "articles": 23,
+     "share": 0.8,
+     "atSectorStart": false,
+     "grip": 0.375,
+     "outlets": 3,
+     "adopt": 37,
+     "daysSince": 52
+    },
+    {
+     "name": "Energy",
+     "firstSeen": "2026-08-05",
+     "recent": 2,
+     "articles": 7,
      "share": 0.2,
      "atSectorStart": false,
-     "grip": 0.125,
+     "grip": 0.167,
      "outlets": 1,
-     "adopt": 76,
-     "daysSince": 13
+     "adopt": 43,
+     "daysSince": 46
     }
    ],
    "sinceStart": false,
    "origins": [
     [
-     "TW",
-     53
+     "SG",
+     12
     ],
     [
-     "KR",
-     7
+     "GR",
+     11
     ],
     [
      "US",
-     4
+     6
     ],
     [
-     "HK",
-     3
-    ],
-    [
-     "CN",
+     "KR",
      1
     ],
     [
-     "JP",
+     "NL",
      1
     ]
    ],
@@ -27685,6 +27590,42 @@
     ],
     "bands": [
      {
+      "sector": "Supply chain",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       3,
+       2,
+       3,
+       6,
+       1,
+       0,
+       0,
+       8
+      ]
+     },
+     {
+      "sector": "Energy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       2,
+       1,
+       0,
+       0,
+       3,
+       0,
+       1
+      ]
+     },
+     {
       "sector": "Technology",
       "n": [
        0,
@@ -27693,198 +27634,150 @@
        0,
        0,
        0,
-       6,
-       7,
-       17,
-       15,
-       7,
-       2,
-       7
-      ]
-     },
-     {
-      "sector": "Autos",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       1,
-       1,
        0,
        0,
        0,
        0,
        0,
        1,
-       0
-      ]
-     },
-     {
-      "sector": "Supply chain",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       2
-      ]
-     },
-     {
-      "sector": "Materials",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Industrials",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
        0
       ]
      }
     ]
    },
-   "cooc": [],
+   "cooc": [
+    [
+     "bangkok thailand",
+     1.0,
+     "new",
+     3,
+     0,
+     305.4,
+     [
+      {
+       "title": "HD Hyundai Samho and ClassNK develop LNG carrier for amended IGC Code",
+       "url": "https://container-news.com/hd-hyundai-samho-and-classnk-develop-lng-carrier-for-amended-igc-code/",
+       "publisher": "Container News",
+       "sector": "Supply chain",
+       "quote": "\u2026he agreement during Gastech 2026 in \u2f00Bangkok, Thailand\u2f01. The International Maritime Organization is expected to adopt the amendments during the 112th session of its\u2026"
+      },
+      {
+       "title": "HD Hyundai Samho, Avikus and ClassNK advance autonomous LNG carrier design",
+       "url": "https://container-news.com/hd-hyundai-samho-avikus-and-classnk-advance-autonomous-lng-carrier-design/",
+       "publisher": "Container News",
+       "sector": "Supply chain",
+       "quote": "\u2026he agreement during Gastech 2026 in \u2f00Bangkok, Thailand\u2f01. The joint development project will integrate Avikus' HINAS Control autonomous navigation solution into a ves\u2026"
+      },
+      {
+       "title": "HD Hyundai to Unveil Next-Generation LNG Carrier Technologies",
+       "url": "https://www.thelec.net/news/articleView.html?idxno=13885",
+       "publisher": "The Elec",
+       "sector": "Technology",
+       "quote": "\u20262026, scheduled for Sept. 14-17 in \u2f00Bangkok, Thailand\u2f01. Five affiliates HD Korea Shipbuilding & Offshore Engineering, HD Hy"
+      }
+     ],
+     []
+    ]
+   ],
    "examples": [
     {
-     "publisher": "SCMP Business",
-     "title": "Tesla auditing Chinese suppliers ahead of Optimus roll-out: sources",
-     "url": "https://www.scmp.com/business/companies/article/3368053/tesla-auditing-chinese-suppliers-ahead-optimus-roll-out-sources?utm_source=rss_feed",
+     "publisher": "Container News",
+     "title": "Hanwha Ocean wins ABS AiP for LNG-to-ammonia fuel system",
+     "url": "https://container-news.com/hanwha-ocean-wins-abs-aip-for-lng-to-ammonia-fuel-system/",
+     "date": "2026-09-20",
+     "sector": "Supply chain",
+     "country": "GR",
+     "quote": "\u2026a fuel system designed to allow an \u2f00LNG carrier\u2f01 to transition from LNG to ammonia without replacing its fuel tank or fuel supply system. The approval was pre\u2026"
+    },
+    {
+     "publisher": "Container News",
+     "title": "Bureau Veritas and COSCO Shipping LNG deepen cooperation on LNG fleet",
+     "url": "https://container-news.com/bureau-veritas-and-cosco-shipping-lng-deepen-cooperation-on-lng-fleet/",
      "date": "2026-09-18",
      "sector": "Supply chain",
-     "country": "HK",
-     "quote": "\u2026y ramp up production of its Optimus \u2f00humanoid robot\u2f01 after it hits the global market later this year, according to sources with knowledge of the matter. Chinese c\u2026"
+     "country": "GR",
+     "quote": "\u2026he development and modernization of \u2f00LNG carriers\u2f01. The agreement expands an existing relationship between the two companies and will cover vessel design, techn\u2026"
     },
     {
-     "publisher": "DigiTimes Asia",
-     "title": "\u2f00Humanoid robots\u2f01 could reshape MEMS demand as physical AI advances",
-     "url": "https://www.digitimes.com/news/a20260917PD202/mems-demand-sensor-adoption-market.html",
+     "publisher": "OilPrice",
+     "title": "LNG Tankers Push Through Hormuz Again as Qatar, UAE Fight Supply Crunch",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/LNG-Tankers-Push-Through-Hormuz-Again-as-Qatar-UAE-Fight-Supply-Crunch.html",
+     "date": "2026-09-18",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "At least two \u2f00LNG carriers\u2f01 have transited the Strait of Hormuz so far this week, while two others were detected to have engaged in ship-\u2026"
+    },
+    {
+     "publisher": "Container News",
+     "title": "HD Hyundai Samho and ClassNK develop \u2f00LNG carrier\u2f01 for amended IGC Code",
+     "url": "https://container-news.com/hd-hyundai-samho-and-classnk-develop-lng-carrier-for-amended-igc-code/",
      "date": "2026-09-17",
-     "sector": "Technology",
-     "country": "TW",
-     "quote": "\u2f00Humanoid robots\u2f01 have not yet reached mass adoption, but their sensor needs are already reshaping supply-chain expectations wo\u2026"
+     "sector": "Supply chain",
+     "country": "GR",
+     "quote": "\u2026understanding to jointly develop an \u2f00LNG carrier\u2f01 design that incorporates forthcoming amendments to the IGC Code. The companies signed the agreement during Ga\u2026"
     },
     {
-     "publisher": "DigiTimes Asia",
-     "title": "General-purpose home robots face sensing test",
-     "url": "https://www.digitimes.com/news/a20260917PD210/digitimes-robot-robotics-beijing.html",
-     "date": "2026-09-17",
-     "sector": "Technology",
-     "country": "TW",
-     "quote": "\u2026obots are the ultimate goal for the \u2f00humanoid robotics\u2f01 industry, but the market remains at an early stage. DIGITIMES analysts said the key to commercialization is n\u2026"
-    },
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "EV batteries cannot simply power \u2f00humanoid robots\u2f01, with energy density and costs posing key hurdles",
-     "url": "https://www.digitimes.com/news/a20260916PD228/technology-robot-vehicle-development-market.html",
+     "publisher": "Container News",
+     "title": "HD Hyundai Samho, Avikus and ClassNK advance autonomous \u2f00LNG carrier\u2f01 design",
+     "url": "https://container-news.com/hd-hyundai-samho-avikus-and-classnk-advance-autonomous-lng-carrier-design/",
      "date": "2026-09-16",
-     "sector": "Technology",
-     "country": "TW",
-     "quote": "\u2026NEV) market, but transferring it to \u2f00humanoid robots\u2f01 presents two major barriers: the need for significant technological upgrades and the difficulty of spreading\u2026"
+     "sector": "Supply chain",
+     "country": "GR",
+     "quote": "\u2026ikus and ClassNK advance autonomous \u2f00LNG carrier\u2f01 design appeared first on Container News ."
     },
     {
-     "publisher": "The Elec",
-     "title": "Wonik Robotics Seeks to Supply \u2f00Humanoid Robots\u2f01 to Samsung Chip Plants",
-     "url": "https://www.thelec.net/news/articleView.html?idxno=13956",
+     "publisher": "Seatrade Maritime",
+     "title": "WindWings lined up for next-generation \u2f00LNG carrier\u2f01 design",
+     "url": "https://www.seatrade-maritime.com/sustainability/windwings-lined-up-for-next-generation-lng-carrier-design",
      "date": "2026-09-16",
-     "sector": "Technology",
-     "country": "KR",
-     "quote": "Wonik Robotics is seeking to supply \u2f00humanoid robots\u2f01 to Samsung Electronics' semiconductor plants.\"We are currently conducting proof-of-concept (PoC) testing of w\u2026"
+     "sector": "Supply chain",
+     "country": "SG",
+     "quote": "\u2026egister and LISCR on a 174,000 cu m \u2f00LNG carrier\u2f01 designed with wind-assisted propulsion."
     },
     {
-     "publisher": "DigiTimes Asia",
-     "title": "AI data centers give idle EV battery capacity a second life",
-     "url": "https://www.digitimes.com/news/a20260914PD233/north-america-capacity-data-growth-automakers.html",
-     "date": "2026-09-15",
-     "sector": "Technology",
-     "country": "TW",
-     "quote": "\u2026rket alongside defense, drones, and \u2f00humanoid robots\u2f01."
+     "publisher": "Container News",
+     "title": "LR and HD KSOE advance AI and hybrid electric technologies for \u2f00LNG carriers\u2f01",
+     "url": "https://container-news.com/lr-and-hd-ksoe-advance-ai-and-hybrid-electric-technologies-for-lng-carriers/",
+     "date": "2026-09-16",
+     "sector": "Supply chain",
+     "country": "GR",
+     "quote": "\u2026efficiency and operation of future \u2f00LNG carriers\u2f01. The developments cover AI-powered machinery optimisation and hybrid electric propulsion, with both projects\u2026"
     },
     {
-     "publisher": "SCMP Business",
-     "title": "Unitree's US$30 billion stock wipe-off spurs regulatory caution on \u2f00humanoid robot\u2f01 IPOs",
-     "url": "https://www.scmp.com/business/china-business/article/3367545/unitrees-us30-billion-stock-wipe-spurs-regulatory-caution-humanoid-robot-ipos?utm_source=rss_feed",
+     "publisher": "Container News",
+     "title": "KR and HD HHI explore WindWings for 174K \u2f00LNG carrier\u2f01",
+     "url": "https://container-news.com/kr-and-hd-hhi-explore-windwings-for-174k-lng-carrier/",
      "date": "2026-09-15",
      "sector": "Supply chain",
-     "country": "HK",
-     "quote": "\u2026e than 40 per cent slump in Chinese \u2f00humanoid robot\u2f01 maker Unitree Robotics since listing has sounded regulatory caution for the industry, with speculation swirli\u2026"
+     "country": "GR",
+     "quote": "\u2026wind-assisted propulsion for a 174K \u2f00LNG carrier\u2f01. The partners signed a Memorandum of Understanding (MoU) at Gastech 2026 in Bangkok. The project will assess\u2026"
     },
     {
-     "publisher": "DigiTimes Asia",
-     "title": "Minebea Mitsumi pauses M&A to chase AI hardware demand",
-     "url": "https://www.digitimes.com/news/a20260915PD226/demand-hardware-data-center-growth-nvidia.html",
+     "publisher": "Splash247",
+     "title": "\u2f00LNG carriers\u2f01 to get the hybrid electric propulsion treatment",
+     "url": "https://splash247.com/lng-carriers-to-get-the-hybrid-electric-propulsion-treatment/",
      "date": "2026-09-15",
-     "sector": "Technology",
-     "country": "TW",
-     "quote": "\u2026re, as demand tied to data centers, \u2f00humanoid robots\u2f01 and Nvidia components accelerates."
-    },
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "China's \u2f00humanoid robot\u2f01 race, Part 1: Mass production outruns proven demand",
-     "url": "https://www.digitimes.com/news/a20260915VL209/robot-production-demand-industrial-shipments.html",
-     "date": "2026-09-15",
-     "sector": "Technology",
-     "country": "TW",
-     "quote": "China's \u2f00humanoid robot\u2f01 industry is moving from prototypes to industrial production. The next test is no longer whether robots can be\u2026"
-    },
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "XPeng's Turing chip expands beyond cars",
-     "url": "https://www.digitimes.com/news/a20260915PD212/xpeng-ai-chip-humanoid-robot-production.html",
-     "date": "2026-09-15",
-     "sector": "Technology",
-     "country": "TW",
-     "quote": "\u2026ligent electric vehicles (EVs) into \u2f00humanoid robots\u2f01, broadening the processor's role in the company's Physical AI strategy. Originally designed for intelligent d\u2026"
-    },
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "Robot supply strategies split between US in-house tech and Chinese local ecosystem",
-     "url": "https://www.digitimes.com/news/a20260914PD230/robot-manufacturing-industrial-development-commercial.html",
-     "date": "2026-09-14",
-     "sector": "Technology",
-     "country": "TW",
-     "quote": "As \u2f00humanoid robots\u2f01 gradually move from laboratory proofs-of-concept and enter industrial manufacturing and commercial service, t\u2026"
+     "sector": "Supply chain",
+     "country": "SG",
+     "quote": "\u2026d up to develop a new generation of \u2f00LNG carriers\u2f01 using hybrid electric propulsion. The companies signed an approval in principle (AiP) at Gastech 2026 in Bang\u2026"
     },
     {
      "publisher": "The Elec",
-     "title": "HD Hyundai Robotics Invests 13 Billion Won in AIDIN ROBOTICS",
-     "url": "https://www.thelec.net/news/articleView.html?idxno=13863",
-     "date": "2026-09-13",
+     "title": "HD Hyundai to Unveil Next-Generation \u2f00LNG Carrier\u2f01 Technologies",
+     "url": "https://www.thelec.net/news/articleView.html?idxno=13885",
+     "date": "2026-09-14",
      "sector": "Technology",
      "country": "KR",
-     "quote": "\u2026TICS to secure key technologies for \u2f00humanoid robots\u2f01.HD Hyundai Robotics said on Sept. 11 that it invested 13 billion won to acquire a stake in AIDIN ROBOTICS. AI\u2026"
+     "quote": "\u2026t-generation liquefied natural gas (\u2f00LNG) carriers\u2f01 and eco-friendly vessel technologies.HD Hyundai said on Sept. 13 that it will participate in Gastech 2026, sc\u2026"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Qatar Moves Six LNG Tankers Toward Gulf as Export Restart Looms",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-Moves-Six-LNG-Tankers-Toward-Gulf-as-Export-Restart-Looms.html",
+     "date": "2026-09-07",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026July, three weeks after one of its \u2f00LNG carriers\u2f01\u2026"
     }
    ],
    "daily": [
@@ -28010,7 +27903,7 @@
     },
     {
      "day": "2026-07-23",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-07-24",
@@ -28034,11 +27927,11 @@
     },
     {
      "day": "2026-07-29",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-07-30",
-     "n": 0
+     "n": 1
     },
     {
      "day": "2026-07-31",
@@ -28046,27 +27939,27 @@
     },
     {
      "day": "2026-08-01",
-     "n": 0
+     "n": 1
     },
     {
      "day": "2026-08-02",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-08-03",
-     "n": 0
+     "n": 1
     },
     {
      "day": "2026-08-04",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-08-05",
-     "n": 1
+     "n": 3
     },
     {
      "day": "2026-08-06",
-     "n": 0
+     "n": 1
     },
     {
      "day": "2026-08-07",
@@ -28074,19 +27967,19 @@
     },
     {
      "day": "2026-08-08",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-08-09",
-     "n": 2
+     "n": 0
     },
     {
      "day": "2026-08-10",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-08-11",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-08-12",
@@ -28094,11 +27987,11 @@
     },
     {
      "day": "2026-08-13",
-     "n": 4
+     "n": 2
     },
     {
      "day": "2026-08-14",
-     "n": 1
+     "n": 2
     },
     {
      "day": "2026-08-15",
@@ -28110,11 +28003,11 @@
     },
     {
      "day": "2026-08-17",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-08-18",
-     "n": 2
+     "n": 1
     },
     {
      "day": "2026-08-19",
@@ -28122,11 +28015,11 @@
     },
     {
      "day": "2026-08-20",
-     "n": 8
+     "n": 2
     },
     {
      "day": "2026-08-21",
-     "n": 2
+     "n": 1
     },
     {
      "day": "2026-08-22",
@@ -28134,7 +28027,7 @@
     },
     {
      "day": "2026-08-23",
-     "n": 3
+     "n": 0
     },
     {
      "day": "2026-08-24",
@@ -28142,23 +28035,23 @@
     },
     {
      "day": "2026-08-25",
-     "n": 3
+     "n": 0
     },
     {
      "day": "2026-08-26",
-     "n": 2
+     "n": 0
     },
     {
      "day": "2026-08-27",
-     "n": 3
+     "n": 1
     },
     {
      "day": "2026-08-28",
-     "n": 5
+     "n": 0
     },
     {
      "day": "2026-08-29",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-08-30",
@@ -28166,7 +28059,7 @@
     },
     {
      "day": "2026-08-31",
-     "n": 2
+     "n": 0
     },
     {
      "day": "2026-09-01",
@@ -28174,15 +28067,15 @@
     },
     {
      "day": "2026-09-02",
-     "n": 2
+     "n": 1
     },
     {
      "day": "2026-09-03",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-09-04",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-09-05",
@@ -28194,11 +28087,11 @@
     },
     {
      "day": "2026-09-07",
-     "n": 3
+     "n": 1
     },
     {
      "day": "2026-09-08",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-09-09",
@@ -28218,7 +28111,7 @@
     },
     {
      "day": "2026-09-13",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-09-14",
@@ -28226,11 +28119,11 @@
     },
     {
      "day": "2026-09-15",
-     "n": 5
+     "n": 2
     },
     {
      "day": "2026-09-16",
-     "n": 2
+     "n": 3
     },
     {
      "day": "2026-09-17",
@@ -28238,7 +28131,7 @@
     },
     {
      "day": "2026-09-18",
-     "n": 1
+     "n": 2
     },
     {
      "day": "2026-09-19",
@@ -28246,24 +28139,21 @@
     },
     {
      "day": "2026-09-20",
-     "n": 0
+     "n": 1
     }
    ],
-   "variants": [
-    "key hurdle"
-   ],
-   "relRatio": 0.85,
-   "docFreq": 0.0008,
-   "specificity": 0.974,
-   "homeShare": 0.733,
-   "daysSeen": 8,
-   "rank": 1.233
+   "relRatio": 3.44,
+   "docFreq": 0.0006,
+   "specificity": 0.981,
+   "homeShare": 0.8,
+   "daysSeen": 7,
+   "rank": 1.236
   },
   {
    "id": "energy-grid",
    "term": "energy grid",
    "direction": "rising",
-   "ratio": 0.391937757819435,
+   "ratio": 0.3914880300422469,
    "display": false,
    "adoptionSpan": 19,
    "pace": "mixed",
@@ -28790,7 +28680,7 @@
    "id": "machine-tool",
    "term": "machine tool",
    "direction": "rising",
-   "ratio": 0.4354863975771501,
+   "ratio": 0.43498670004694107,
    "display": false,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -29325,7 +29215,7 @@
    "id": "image-prime-creative",
    "term": "image prime creative",
    "direction": "rising",
-   "ratio": 0.32661479818286254,
+   "ratio": 0.32624002503520577,
    "display": false,
    "adoptionSpan": 10,
    "pace": "mixed",
@@ -29799,645 +29689,10 @@
    "rank": 1.202
   },
   {
-   "id": "lng-carrier",
-   "term": "lng carrier",
-   "direction": "rising",
-   "ratio": 0.6532295963657251,
-   "display": false,
-   "adoptionSpan": 6,
-   "pace": "simultaneous",
-   "kind": "concept",
-   "sectorCount": 2,
-   "effectiveSectors": 1.74,
-   "newestSector": "Energy",
-   "daysSinceNewestSector": 46,
-   "articles14d": 10,
-   "articlesPrior14d": 4,
-   "publishers": 5,
-   "events": 10,
-   "topPubShare": 0.5,
-   "sectors": [
-    {
-     "name": "Supply chain",
-     "firstSeen": "2026-07-30",
-     "recent": 7,
-     "articles": 22,
-     "share": 0.778,
-     "atSectorStart": false,
-     "grip": 0.375,
-     "outlets": 3,
-     "adopt": 37,
-     "daysSince": 52
-    },
-    {
-     "name": "Energy",
-     "firstSeen": "2026-08-05",
-     "recent": 2,
-     "articles": 7,
-     "share": 0.222,
-     "atSectorStart": false,
-     "grip": 0.167,
-     "outlets": 1,
-     "adopt": 43,
-     "daysSince": 46
-    }
-   ],
-   "sinceStart": false,
-   "origins": [
-    [
-     "SG",
-     12
-    ],
-    [
-     "GR",
-     10
-    ],
-    [
-     "US",
-     6
-    ],
-    [
-     "KR",
-     1
-    ],
-    [
-     "NL",
-     1
-    ]
-   ],
-   "flow": {
-    "weeks": [
-     "2026-06-23",
-     "2026-06-30",
-     "2026-07-07",
-     "2026-07-14",
-     "2026-07-21",
-     "2026-07-28",
-     "2026-08-04",
-     "2026-08-11",
-     "2026-08-18",
-     "2026-08-25",
-     "2026-09-01",
-     "2026-09-08",
-     "2026-09-15"
-    ],
-    "bands": [
-     {
-      "sector": "Supply chain",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       3,
-       2,
-       3,
-       6,
-       1,
-       0,
-       0,
-       7
-      ]
-     },
-     {
-      "sector": "Energy",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       2,
-       1,
-       0,
-       0,
-       3,
-       0,
-       1
-      ]
-     },
-     {
-      "sector": "Technology",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0
-      ]
-     }
-    ]
-   },
-   "cooc": [
-    [
-     "bangkok thailand",
-     1.0,
-     "new",
-     3,
-     0,
-     333.7,
-     [
-      {
-       "title": "HD Hyundai Samho and ClassNK develop LNG carrier for amended IGC Code",
-       "url": "https://container-news.com/hd-hyundai-samho-and-classnk-develop-lng-carrier-for-amended-igc-code/",
-       "publisher": "Container News",
-       "sector": "Supply chain",
-       "quote": "\u2026he agreement during Gastech 2026 in \u2f00Bangkok, Thailand\u2f01. The International Maritime Organization is expected to adopt the amendments during the 112th session of its\u2026"
-      },
-      {
-       "title": "HD Hyundai Samho, Avikus and ClassNK advance autonomous LNG carrier design",
-       "url": "https://container-news.com/hd-hyundai-samho-avikus-and-classnk-advance-autonomous-lng-carrier-design/",
-       "publisher": "Container News",
-       "sector": "Supply chain",
-       "quote": "\u2026he agreement during Gastech 2026 in \u2f00Bangkok, Thailand\u2f01. The joint development project will integrate Avikus' HINAS Control autonomous navigation solution into a ves\u2026"
-      },
-      {
-       "title": "HD Hyundai to Unveil Next-Generation LNG Carrier Technologies",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=13885",
-       "publisher": "The Elec",
-       "sector": "Technology",
-       "quote": "\u20262026, scheduled for Sept. 14-17 in \u2f00Bangkok, Thailand\u2f01. Five affiliates HD Korea Shipbuilding & Offshore Engineering, HD Hy"
-      }
-     ],
-     []
-    ]
-   ],
-   "examples": [
-    {
-     "publisher": "Container News",
-     "title": "Bureau Veritas and COSCO Shipping LNG deepen cooperation on LNG fleet",
-     "url": "https://container-news.com/bureau-veritas-and-cosco-shipping-lng-deepen-cooperation-on-lng-fleet/",
-     "date": "2026-09-18",
-     "sector": "Supply chain",
-     "country": "GR",
-     "quote": "\u2026he development and modernization of \u2f00LNG carriers\u2f01. The agreement expands an existing relationship between the two companies and will cover vessel design, techn\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "LNG Tankers Push Through Hormuz Again as Qatar, UAE Fight Supply Crunch",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/LNG-Tankers-Push-Through-Hormuz-Again-as-Qatar-UAE-Fight-Supply-Crunch.html",
-     "date": "2026-09-18",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "At least two \u2f00LNG carriers\u2f01 have transited the Strait of Hormuz so far this week, while two others were detected to have engaged in ship-\u2026"
-    },
-    {
-     "publisher": "Container News",
-     "title": "HD Hyundai Samho and ClassNK develop \u2f00LNG carrier\u2f01 for amended IGC Code",
-     "url": "https://container-news.com/hd-hyundai-samho-and-classnk-develop-lng-carrier-for-amended-igc-code/",
-     "date": "2026-09-17",
-     "sector": "Supply chain",
-     "country": "GR",
-     "quote": "\u2026understanding to jointly develop an \u2f00LNG carrier\u2f01 design that incorporates forthcoming amendments to the IGC Code. The companies signed the agreement during Ga\u2026"
-    },
-    {
-     "publisher": "Container News",
-     "title": "HD Hyundai Samho, Avikus and ClassNK advance autonomous \u2f00LNG carrier\u2f01 design",
-     "url": "https://container-news.com/hd-hyundai-samho-avikus-and-classnk-advance-autonomous-lng-carrier-design/",
-     "date": "2026-09-16",
-     "sector": "Supply chain",
-     "country": "GR",
-     "quote": "\u2026ikus and ClassNK advance autonomous \u2f00LNG carrier\u2f01 design appeared first on Container News ."
-    },
-    {
-     "publisher": "Seatrade Maritime",
-     "title": "WindWings lined up for next-generation \u2f00LNG carrier\u2f01 design",
-     "url": "https://www.seatrade-maritime.com/sustainability/windwings-lined-up-for-next-generation-lng-carrier-design",
-     "date": "2026-09-16",
-     "sector": "Supply chain",
-     "country": "SG",
-     "quote": "\u2026egister and LISCR on a 174,000 cu m \u2f00LNG carrier\u2f01 designed with wind-assisted propulsion."
-    },
-    {
-     "publisher": "Container News",
-     "title": "LR and HD KSOE advance AI and hybrid electric technologies for \u2f00LNG carriers\u2f01",
-     "url": "https://container-news.com/lr-and-hd-ksoe-advance-ai-and-hybrid-electric-technologies-for-lng-carriers/",
-     "date": "2026-09-16",
-     "sector": "Supply chain",
-     "country": "GR",
-     "quote": "\u2026efficiency and operation of future \u2f00LNG carriers\u2f01. The developments cover AI-powered machinery optimisation and hybrid electric propulsion, with both projects\u2026"
-    },
-    {
-     "publisher": "Container News",
-     "title": "KR and HD HHI explore WindWings for 174K \u2f00LNG carrier\u2f01",
-     "url": "https://container-news.com/kr-and-hd-hhi-explore-windwings-for-174k-lng-carrier/",
-     "date": "2026-09-15",
-     "sector": "Supply chain",
-     "country": "GR",
-     "quote": "\u2026wind-assisted propulsion for a 174K \u2f00LNG carrier\u2f01. The partners signed a Memorandum of Understanding (MoU) at Gastech 2026 in Bangkok. The project will assess\u2026"
-    },
-    {
-     "publisher": "Splash247",
-     "title": "\u2f00LNG carriers\u2f01 to get the hybrid electric propulsion treatment",
-     "url": "https://splash247.com/lng-carriers-to-get-the-hybrid-electric-propulsion-treatment/",
-     "date": "2026-09-15",
-     "sector": "Supply chain",
-     "country": "SG",
-     "quote": "\u2026d up to develop a new generation of \u2f00LNG carriers\u2f01 using hybrid electric propulsion. The companies signed an approval in principle (AiP) at Gastech 2026 in Bang\u2026"
-    },
-    {
-     "publisher": "The Elec",
-     "title": "HD Hyundai to Unveil Next-Generation \u2f00LNG Carrier\u2f01 Technologies",
-     "url": "https://www.thelec.net/news/articleView.html?idxno=13885",
-     "date": "2026-09-14",
-     "sector": "Technology",
-     "country": "KR",
-     "quote": "\u2026t-generation liquefied natural gas (\u2f00LNG) carriers\u2f01 and eco-friendly vessel technologies.HD Hyundai said on Sept. 13 that it will participate in Gastech 2026, sc\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Qatar Moves Six LNG Tankers Toward Gulf as Export Restart Looms",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-Moves-Six-LNG-Tankers-Toward-Gulf-as-Export-Restart-Looms.html",
-     "date": "2026-09-07",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026July, three weeks after one of its \u2f00LNG carriers\u2f01\u2026"
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 0
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 0
-    },
-    {
-     "day": "2026-07-30",
-     "n": 1
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 1
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 1
-    },
-    {
-     "day": "2026-08-04",
-     "n": 0
-    },
-    {
-     "day": "2026-08-05",
-     "n": 3
-    },
-    {
-     "day": "2026-08-06",
-     "n": 1
-    },
-    {
-     "day": "2026-08-07",
-     "n": 0
-    },
-    {
-     "day": "2026-08-08",
-     "n": 0
-    },
-    {
-     "day": "2026-08-09",
-     "n": 0
-    },
-    {
-     "day": "2026-08-10",
-     "n": 0
-    },
-    {
-     "day": "2026-08-11",
-     "n": 0
-    },
-    {
-     "day": "2026-08-12",
-     "n": 0
-    },
-    {
-     "day": "2026-08-13",
-     "n": 2
-    },
-    {
-     "day": "2026-08-14",
-     "n": 2
-    },
-    {
-     "day": "2026-08-15",
-     "n": 0
-    },
-    {
-     "day": "2026-08-16",
-     "n": 0
-    },
-    {
-     "day": "2026-08-17",
-     "n": 0
-    },
-    {
-     "day": "2026-08-18",
-     "n": 1
-    },
-    {
-     "day": "2026-08-19",
-     "n": 1
-    },
-    {
-     "day": "2026-08-20",
-     "n": 2
-    },
-    {
-     "day": "2026-08-21",
-     "n": 1
-    },
-    {
-     "day": "2026-08-22",
-     "n": 0
-    },
-    {
-     "day": "2026-08-23",
-     "n": 0
-    },
-    {
-     "day": "2026-08-24",
-     "n": 1
-    },
-    {
-     "day": "2026-08-25",
-     "n": 0
-    },
-    {
-     "day": "2026-08-26",
-     "n": 0
-    },
-    {
-     "day": "2026-08-27",
-     "n": 1
-    },
-    {
-     "day": "2026-08-28",
-     "n": 0
-    },
-    {
-     "day": "2026-08-29",
-     "n": 0
-    },
-    {
-     "day": "2026-08-30",
-     "n": 0
-    },
-    {
-     "day": "2026-08-31",
-     "n": 0
-    },
-    {
-     "day": "2026-09-01",
-     "n": 1
-    },
-    {
-     "day": "2026-09-02",
-     "n": 1
-    },
-    {
-     "day": "2026-09-03",
-     "n": 0
-    },
-    {
-     "day": "2026-09-04",
-     "n": 0
-    },
-    {
-     "day": "2026-09-05",
-     "n": 0
-    },
-    {
-     "day": "2026-09-06",
-     "n": 0
-    },
-    {
-     "day": "2026-09-07",
-     "n": 1
-    },
-    {
-     "day": "2026-09-08",
-     "n": 0
-    },
-    {
-     "day": "2026-09-09",
-     "n": 0
-    },
-    {
-     "day": "2026-09-10",
-     "n": 0
-    },
-    {
-     "day": "2026-09-11",
-     "n": 0
-    },
-    {
-     "day": "2026-09-12",
-     "n": 0
-    },
-    {
-     "day": "2026-09-13",
-     "n": 0
-    },
-    {
-     "day": "2026-09-14",
-     "n": 1
-    },
-    {
-     "day": "2026-09-15",
-     "n": 2
-    },
-    {
-     "day": "2026-09-16",
-     "n": 3
-    },
-    {
-     "day": "2026-09-17",
-     "n": 1
-    },
-    {
-     "day": "2026-09-18",
-     "n": 2
-    },
-    {
-     "day": "2026-09-19",
-     "n": 0
-    },
-    {
-     "day": "2026-09-20",
-     "n": 0
-    }
-   ],
-   "relRatio": 3.13,
-   "docFreq": 0.0005,
-   "specificity": 0.983,
-   "homeShare": 0.778,
-   "daysSeen": 6,
-   "rank": 1.188
-  },
-  {
    "id": "energy-supply",
    "term": "energy supply",
    "direction": "steady",
-   "ratio": 0.156775103127774,
+   "ratio": 0.15659521201689874,
    "display": false,
    "adoptionSpan": 19,
    "pace": "mixed",
@@ -30580,7 +29835,7 @@
      "new",
      2,
      0,
-     333.7,
+     335.9,
      [
       {
        "title": "Google, esVolta pilot uses battery storage to \u2018time-shift' renewable energy credits",
@@ -31002,7 +30257,7 @@
    "id": "heat-pump",
    "term": "heat pump",
    "direction": "steady",
-   "ratio": 0.1866370275330643,
+   "ratio": 0.18642287144868902,
    "display": false,
    "adoptionSpan": 47,
    "pace": "gradual",
@@ -31618,7 +30873,7 @@
    "id": "pacific-island",
    "term": "pacific island",
    "direction": "rising",
-   "ratio": 0.391937757819435,
+   "ratio": 0.3914880300422469,
    "display": false,
    "adoptionSpan": 24,
    "pace": "mixed",
@@ -32135,7 +31390,7 @@
    "id": "diesel-price",
    "term": "diesel price",
    "direction": "rising",
-   "ratio": 0.34838911806172,
+   "ratio": 0.3479893600375528,
    "display": false,
    "adoptionSpan": 13,
    "pace": "mixed",
@@ -32266,7 +31521,7 @@
      "steady",
      2,
      1,
-     16.7,
+     16.1,
      [
       {
        "title": "What goes into diesel prices?",
@@ -32730,10 +31985,685 @@
    "rank": 1.151
   },
   {
+   "id": "humanoid-robot",
+   "term": "humanoid robot",
+   "direction": "steady",
+   "ratio": 0.18981237820230154,
+   "display": false,
+   "adoptionSpan": 46,
+   "pace": "gradual",
+   "kind": "concept",
+   "sectorCount": 3,
+   "effectiveSectors": 1.49,
+   "newestSector": "Supply chain",
+   "daysSinceNewestSector": 13,
+   "articles14d": 16,
+   "articlesPrior14d": 22,
+   "publishers": 4,
+   "events": 17,
+   "topPubShare": 0.529,
+   "sectors": [
+    {
+     "name": "Autos",
+     "firstSeen": "2026-07-23",
+     "recent": 2,
+     "articles": 4,
+     "share": 0.125,
+     "atSectorStart": false,
+     "grip": 0.25,
+     "outlets": 1,
+     "adopt": 30,
+     "daysSince": 59
+    },
+    {
+     "name": "Technology",
+     "firstSeen": "2026-08-04",
+     "recent": 11,
+     "articles": 61,
+     "share": 0.688,
+     "atSectorStart": false,
+     "grip": 0.222,
+     "outlets": 2,
+     "adopt": 42,
+     "daysSince": 47
+    },
+    {
+     "name": "Supply chain",
+     "firstSeen": "2026-09-07",
+     "recent": 3,
+     "articles": 3,
+     "share": 0.188,
+     "atSectorStart": false,
+     "grip": 0.125,
+     "outlets": 1,
+     "adopt": 76,
+     "daysSince": 13
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "TW",
+     53
+    ],
+    [
+     "KR",
+     7
+    ],
+    [
+     "US",
+     4
+    ],
+    [
+     "HK",
+     3
+    ],
+    [
+     "CN",
+     2
+    ],
+    [
+     "JP",
+     1
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-06-23",
+     "2026-06-30",
+     "2026-07-07",
+     "2026-07-14",
+     "2026-07-21",
+     "2026-07-28",
+     "2026-08-04",
+     "2026-08-11",
+     "2026-08-18",
+     "2026-08-25",
+     "2026-09-01",
+     "2026-09-08",
+     "2026-09-15"
+    ],
+    "bands": [
+     {
+      "sector": "Technology",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       6,
+       7,
+       17,
+       15,
+       7,
+       2,
+       7
+      ]
+     },
+     {
+      "sector": "Autos",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       1,
+       1,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       1
+      ]
+     },
+     {
+      "sector": "Supply chain",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       2
+      ]
+     },
+     {
+      "sector": "Materials",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "sector": "Industrials",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0
+      ]
+     }
+    ]
+   },
+   "cooc": [],
+   "examples": [
+    {
+     "publisher": "CnEVPost",
+     "title": "Dongfeng to trial-produce \u2f00humanoid robots\u2f01 by year-end, targets human-level capability by end of 2027",
+     "url": "https://cnevpost.com/2026/09/20/dongfeng-trial-produce-humanoid-robots-year-end/",
+     "date": "2026-09-20",
+     "sector": "Autos",
+     "country": "CN",
+     "quote": "Dongfeng's \u2f00humanoid robot\u2f01 will enter factories in October to handle sorting and quality inspection, with small-batch trial production t\u2026"
+    },
+    {
+     "publisher": "SCMP Business",
+     "title": "Tesla auditing Chinese suppliers ahead of Optimus roll-out: sources",
+     "url": "https://www.scmp.com/business/companies/article/3368053/tesla-auditing-chinese-suppliers-ahead-optimus-roll-out-sources?utm_source=rss_feed",
+     "date": "2026-09-18",
+     "sector": "Supply chain",
+     "country": "HK",
+     "quote": "\u2026y ramp up production of its Optimus \u2f00humanoid robot\u2f01 after it hits the global market later this year, according to sources with knowledge of the matter. Chinese c\u2026"
+    },
+    {
+     "publisher": "DigiTimes Asia",
+     "title": "\u2f00Humanoid robots\u2f01 could reshape MEMS demand as physical AI advances",
+     "url": "https://www.digitimes.com/news/a20260917PD202/mems-demand-sensor-adoption-market.html",
+     "date": "2026-09-17",
+     "sector": "Technology",
+     "country": "TW",
+     "quote": "\u2f00Humanoid robots\u2f01 have not yet reached mass adoption, but their sensor needs are already reshaping supply-chain expectations wo\u2026"
+    },
+    {
+     "publisher": "DigiTimes Asia",
+     "title": "General-purpose home robots face sensing test",
+     "url": "https://www.digitimes.com/news/a20260917PD210/digitimes-robot-robotics-beijing.html",
+     "date": "2026-09-17",
+     "sector": "Technology",
+     "country": "TW",
+     "quote": "\u2026obots are the ultimate goal for the \u2f00humanoid robotics\u2f01 industry, but the market remains at an early stage. DIGITIMES analysts said the key to commercialization is n\u2026"
+    },
+    {
+     "publisher": "DigiTimes Asia",
+     "title": "EV batteries cannot simply power \u2f00humanoid robots\u2f01, with energy density and costs posing key hurdles",
+     "url": "https://www.digitimes.com/news/a20260916PD228/technology-robot-vehicle-development-market.html",
+     "date": "2026-09-16",
+     "sector": "Technology",
+     "country": "TW",
+     "quote": "\u2026NEV) market, but transferring it to \u2f00humanoid robots\u2f01 presents two major barriers: the need for significant technological upgrades and the difficulty of spreading\u2026"
+    },
+    {
+     "publisher": "The Elec",
+     "title": "Wonik Robotics Seeks to Supply \u2f00Humanoid Robots\u2f01 to Samsung Chip Plants",
+     "url": "https://www.thelec.net/news/articleView.html?idxno=13956",
+     "date": "2026-09-16",
+     "sector": "Technology",
+     "country": "KR",
+     "quote": "Wonik Robotics is seeking to supply \u2f00humanoid robots\u2f01 to Samsung Electronics' semiconductor plants.\"We are currently conducting proof-of-concept (PoC) testing of w\u2026"
+    },
+    {
+     "publisher": "DigiTimes Asia",
+     "title": "AI data centers give idle EV battery capacity a second life",
+     "url": "https://www.digitimes.com/news/a20260914PD233/north-america-capacity-data-growth-automakers.html",
+     "date": "2026-09-15",
+     "sector": "Technology",
+     "country": "TW",
+     "quote": "\u2026rket alongside defense, drones, and \u2f00humanoid robots\u2f01."
+    },
+    {
+     "publisher": "SCMP Business",
+     "title": "Unitree's US$30 billion stock wipe-off spurs regulatory caution on \u2f00humanoid robot\u2f01 IPOs",
+     "url": "https://www.scmp.com/business/china-business/article/3367545/unitrees-us30-billion-stock-wipe-spurs-regulatory-caution-humanoid-robot-ipos?utm_source=rss_feed",
+     "date": "2026-09-15",
+     "sector": "Supply chain",
+     "country": "HK",
+     "quote": "\u2026e than 40 per cent slump in Chinese \u2f00humanoid robot\u2f01 maker Unitree Robotics since listing has sounded regulatory caution for the industry, with speculation swirli\u2026"
+    },
+    {
+     "publisher": "DigiTimes Asia",
+     "title": "Minebea Mitsumi pauses M&A to chase AI hardware demand",
+     "url": "https://www.digitimes.com/news/a20260915PD226/demand-hardware-data-center-growth-nvidia.html",
+     "date": "2026-09-15",
+     "sector": "Technology",
+     "country": "TW",
+     "quote": "\u2026re, as demand tied to data centers, \u2f00humanoid robots\u2f01 and Nvidia components accelerates."
+    },
+    {
+     "publisher": "DigiTimes Asia",
+     "title": "China's \u2f00humanoid robot\u2f01 race, Part 1: Mass production outruns proven demand",
+     "url": "https://www.digitimes.com/news/a20260915VL209/robot-production-demand-industrial-shipments.html",
+     "date": "2026-09-15",
+     "sector": "Technology",
+     "country": "TW",
+     "quote": "China's \u2f00humanoid robot\u2f01 industry is moving from prototypes to industrial production. The next test is no longer whether robots can be\u2026"
+    },
+    {
+     "publisher": "DigiTimes Asia",
+     "title": "XPeng's Turing chip expands beyond cars",
+     "url": "https://www.digitimes.com/news/a20260915PD212/xpeng-ai-chip-humanoid-robot-production.html",
+     "date": "2026-09-15",
+     "sector": "Technology",
+     "country": "TW",
+     "quote": "\u2026ligent electric vehicles (EVs) into \u2f00humanoid robots\u2f01, broadening the processor's role in the company's Physical AI strategy. Originally designed for intelligent d\u2026"
+    },
+    {
+     "publisher": "DigiTimes Asia",
+     "title": "Robot supply strategies split between US in-house tech and Chinese local ecosystem",
+     "url": "https://www.digitimes.com/news/a20260914PD230/robot-manufacturing-industrial-development-commercial.html",
+     "date": "2026-09-14",
+     "sector": "Technology",
+     "country": "TW",
+     "quote": "As \u2f00humanoid robots\u2f01 gradually move from laboratory proofs-of-concept and enter industrial manufacturing and commercial service, t\u2026"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-06-23",
+     "n": 0
+    },
+    {
+     "day": "2026-06-24",
+     "n": 0
+    },
+    {
+     "day": "2026-06-25",
+     "n": 0
+    },
+    {
+     "day": "2026-06-26",
+     "n": 0
+    },
+    {
+     "day": "2026-06-27",
+     "n": 0
+    },
+    {
+     "day": "2026-06-28",
+     "n": 0
+    },
+    {
+     "day": "2026-06-29",
+     "n": 0
+    },
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 1
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 1
+    },
+    {
+     "day": "2026-07-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-31",
+     "n": 0
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 1
+    },
+    {
+     "day": "2026-08-03",
+     "n": 0
+    },
+    {
+     "day": "2026-08-04",
+     "n": 1
+    },
+    {
+     "day": "2026-08-05",
+     "n": 1
+    },
+    {
+     "day": "2026-08-06",
+     "n": 0
+    },
+    {
+     "day": "2026-08-07",
+     "n": 0
+    },
+    {
+     "day": "2026-08-08",
+     "n": 1
+    },
+    {
+     "day": "2026-08-09",
+     "n": 2
+    },
+    {
+     "day": "2026-08-10",
+     "n": 1
+    },
+    {
+     "day": "2026-08-11",
+     "n": 1
+    },
+    {
+     "day": "2026-08-12",
+     "n": 0
+    },
+    {
+     "day": "2026-08-13",
+     "n": 4
+    },
+    {
+     "day": "2026-08-14",
+     "n": 1
+    },
+    {
+     "day": "2026-08-15",
+     "n": 0
+    },
+    {
+     "day": "2026-08-16",
+     "n": 0
+    },
+    {
+     "day": "2026-08-17",
+     "n": 1
+    },
+    {
+     "day": "2026-08-18",
+     "n": 2
+    },
+    {
+     "day": "2026-08-19",
+     "n": 1
+    },
+    {
+     "day": "2026-08-20",
+     "n": 8
+    },
+    {
+     "day": "2026-08-21",
+     "n": 2
+    },
+    {
+     "day": "2026-08-22",
+     "n": 0
+    },
+    {
+     "day": "2026-08-23",
+     "n": 3
+    },
+    {
+     "day": "2026-08-24",
+     "n": 1
+    },
+    {
+     "day": "2026-08-25",
+     "n": 3
+    },
+    {
+     "day": "2026-08-26",
+     "n": 2
+    },
+    {
+     "day": "2026-08-27",
+     "n": 3
+    },
+    {
+     "day": "2026-08-28",
+     "n": 5
+    },
+    {
+     "day": "2026-08-29",
+     "n": 1
+    },
+    {
+     "day": "2026-08-30",
+     "n": 0
+    },
+    {
+     "day": "2026-08-31",
+     "n": 2
+    },
+    {
+     "day": "2026-09-01",
+     "n": 1
+    },
+    {
+     "day": "2026-09-02",
+     "n": 2
+    },
+    {
+     "day": "2026-09-03",
+     "n": 1
+    },
+    {
+     "day": "2026-09-04",
+     "n": 1
+    },
+    {
+     "day": "2026-09-05",
+     "n": 0
+    },
+    {
+     "day": "2026-09-06",
+     "n": 0
+    },
+    {
+     "day": "2026-09-07",
+     "n": 3
+    },
+    {
+     "day": "2026-09-08",
+     "n": 1
+    },
+    {
+     "day": "2026-09-09",
+     "n": 0
+    },
+    {
+     "day": "2026-09-10",
+     "n": 0
+    },
+    {
+     "day": "2026-09-11",
+     "n": 0
+    },
+    {
+     "day": "2026-09-12",
+     "n": 0
+    },
+    {
+     "day": "2026-09-13",
+     "n": 1
+    },
+    {
+     "day": "2026-09-14",
+     "n": 1
+    },
+    {
+     "day": "2026-09-15",
+     "n": 5
+    },
+    {
+     "day": "2026-09-16",
+     "n": 2
+    },
+    {
+     "day": "2026-09-17",
+     "n": 1
+    },
+    {
+     "day": "2026-09-18",
+     "n": 1
+    },
+    {
+     "day": "2026-09-19",
+     "n": 0
+    },
+    {
+     "day": "2026-09-20",
+     "n": 1
+    }
+   ],
+   "variants": [
+    "key hurdle"
+   ],
+   "relRatio": 0.91,
+   "docFreq": 0.0008,
+   "specificity": 0.972,
+   "homeShare": 0.688,
+   "daysSeen": 9,
+   "rank": 1.124
+  },
+  {
    "id": "oil-export",
    "term": "oil export",
    "direction": "falling",
-   "ratio": 0.104516735418516,
+   "ratio": 0.10439680801126584,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -33264,7 +33194,7 @@
    "id": "affordable-housing",
    "term": "affordable housing",
    "direction": "steady",
-   "ratio": 0.156775103127774,
+   "ratio": 0.15659521201689874,
    "display": false,
    "adoptionSpan": 32,
    "pace": "gradual",
@@ -33849,7 +33779,7 @@
    "id": "baltic-exchange",
    "term": "baltic exchange",
    "direction": "rising",
-   "ratio": 1.04516735418516,
+   "ratio": 1.0439680801126585,
    "display": false,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -34367,7 +34297,7 @@
    "id": "data-center",
    "term": "data center",
    "direction": "falling",
-   "ratio": 0.12881870361897516,
+   "ratio": 0.12867089099290632,
    "display": false,
    "adoptionSpan": 38,
    "pace": "gradual",
@@ -34754,7 +34684,7 @@
      "steady",
      3,
      3,
-     11.8,
+     11.9,
      [
       {
        "title": "Bringing a Power Plant's Worth of Load Onto the Grid: NERC's Interconnection Reckoning",
@@ -35268,7 +35198,7 @@
    "id": "cathode-material",
    "term": "cathode material",
    "direction": "steady",
-   "ratio": 0.1959688789097175,
+   "ratio": 0.19574401502112346,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -35807,7 +35737,7 @@
    "id": "oil-price",
    "term": "oil price",
    "direction": "steady",
-   "ratio": 0.16014661072191969,
+   "ratio": 0.1599628509850041,
    "display": false,
    "adoptionSpan": 36,
    "pace": "gradual",
@@ -36563,7 +36493,7 @@
    "id": "drone-attack",
    "term": "drone attack",
    "direction": "steady",
-   "ratio": 0.156775103127774,
+   "ratio": 0.15659521201689874,
    "display": false,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -37128,7 +37058,7 @@
    "id": "chief-economist",
    "term": "chief economist",
    "direction": "steady",
-   "ratio": 0.26129183854629,
+   "ratio": 0.26099202002816463,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -37655,7 +37585,7 @@
    "id": "supply-disruption",
    "term": "supply disruption",
    "direction": "rising",
-   "ratio": 0.391937757819435,
+   "ratio": 0.3914880300422469,
    "display": false,
    "adoptionSpan": 29,
    "pace": "gradual",
@@ -38254,8 +38184,8 @@
   {
    "id": "memory-chip",
    "term": "memory chip",
-   "direction": "steady",
-   "ratio": 0.26129183854629,
+   "direction": "rising",
+   "ratio": 0.3044906900328587,
    "display": false,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -38264,11 +38194,11 @@
    "effectiveSectors": 1.41,
    "newestSector": "Industrials",
    "daysSinceNewestSector": 67,
-   "articles14d": 6,
+   "articles14d": 7,
    "articlesPrior14d": 6,
    "publishers": 3,
-   "events": 6,
-   "topPubShare": 0.667,
+   "events": 7,
+   "topPubShare": 0.571,
    "sectors": [
     {
      "name": "Technology",
@@ -38306,11 +38236,11 @@
      7
     ],
     [
-     "GB",
-     1
+     "HK",
+     2
     ],
     [
-     "HK",
+     "GB",
      1
     ],
     [
@@ -38376,6 +38306,24 @@
       ]
      },
      {
+      "sector": "Supply chain",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       1
+      ]
+     },
+     {
       "sector": "Consumer",
       "n": [
        0,
@@ -38428,29 +38376,20 @@
        0,
        0
       ]
-     },
-     {
-      "sector": "Supply chain",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0
-      ]
      }
     ]
    },
    "cooc": [],
    "examples": [
+    {
+     "publisher": "SCMP Business",
+     "title": "China's CXMT touts new chip manufacturing platform as close to \u2018world's most advanced'",
+     "url": "https://www.scmp.com/tech/article/3368154/chinas-cxmt-touts-new-chip-manufacturing-platform-close-worlds-most-advanced?utm_source=rss_feed",
+     "date": "2026-09-20",
+     "sector": "Supply chain",
+     "country": "HK",
+     "quote": "Chinese \u2f00memory chip\u2f01 giant Changxin Memory Technologies (CXMT) said on Sunday that it adopted its new-generation technology platfo\u2026"
+    },
     {
      "publisher": "ET Manufacturing",
      "title": "Micron to scale up India chip assembly multifold next year as semiconductor mission shifts to execution",
@@ -38883,15 +38822,15 @@
     },
     {
      "day": "2026-09-20",
-     "n": 0
+     "n": 1
     }
    ],
-   "relRatio": 1.25,
-   "docFreq": 0.0003,
-   "specificity": 0.99,
+   "relRatio": 1.46,
+   "docFreq": 0.0004,
+   "specificity": 0.988,
    "homeShare": 0.8,
-   "daysSeen": 3,
-   "rank": 0.987
+   "daysSeen": 4,
+   "rank": 0.986
   },
   {
    "id": "tata-trust",
@@ -39489,7 +39428,7 @@
    "id": "consumer-demand",
    "term": "consumer demand",
    "direction": "rising",
-   "ratio": 0.4354863975771501,
+   "ratio": 0.43498670004694107,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -40109,7 +40048,7 @@
    "id": "drone-strike",
    "term": "drone strike",
    "direction": "steady",
-   "ratio": 0.26129183854629,
+   "ratio": 0.26099202002816463,
    "display": false,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -40631,7 +40570,7 @@
    "id": "red-sea",
    "term": "red sea",
    "direction": "rising",
-   "ratio": 0.33814237929519886,
+   "ratio": 0.3377543788599777,
    "display": false,
    "adoptionSpan": 17,
    "pace": "mixed",
@@ -40814,7 +40753,7 @@
      "new",
      3,
      0,
-     65.0,
+     65.4,
      [
       {
        "title": "Japan's Refiners Have Enough Crude to Last Through November, Industry Body Says",
@@ -41324,7 +41263,7 @@
    "id": "high-speed",
    "term": "high speed",
    "direction": "steady",
-   "ratio": 0.16797332477975785,
+   "ratio": 0.1677805843038201,
    "display": false,
    "adoptionSpan": 3,
    "pace": "simultaneous",
@@ -41953,7 +41892,7 @@
    "id": "electricity-demand",
    "term": "electricity demand",
    "direction": "falling",
-   "ratio": 0.055991108259919285,
+   "ratio": 0.0559268614346067,
    "display": false,
    "adoptionSpan": 41,
    "pace": "gradual",
@@ -42492,7 +42431,7 @@
    "id": "warning-label",
    "term": "warning label",
    "direction": "steady",
-   "ratio": 0.1959688789097175,
+   "ratio": 0.19574401502112346,
    "display": false,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -42997,7 +42936,7 @@
    "id": "domestic-demand",
    "term": "domestic demand",
    "direction": "rising",
-   "ratio": 1.3064591927314502,
+   "ratio": 1.304960100140823,
    "display": false,
    "adoptionSpan": 6,
    "pace": "mixed",
@@ -43604,7 +43543,7 @@
    "id": "electricity-generation",
    "term": "electricity generation",
    "direction": "steady",
-   "ratio": 0.1959688789097175,
+   "ratio": 0.19574401502112346,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -44139,7 +44078,7 @@
    "id": "black-sea",
    "term": "black sea",
    "direction": "steady",
-   "ratio": 0.26129183854629,
+   "ratio": 0.26099202002816463,
    "display": false,
    "adoptionSpan": 33,
    "pace": "gradual",
@@ -44701,7 +44640,7 @@
    "id": "hormuz-disruption",
    "term": "hormuz disruption",
    "direction": "rising",
-   "ratio": 0.391937757819435,
+   "ratio": 0.3914880300422469,
    "display": false,
    "adoptionSpan": 23,
    "pace": "mixed",
@@ -45232,7 +45171,7 @@
    "id": "iran-war",
    "term": "iran war",
    "direction": "falling",
-   "ratio": 0.130645919273145,
+   "ratio": 0.13049601001408231,
    "display": false,
    "adoptionSpan": 29,
    "pace": "gradual",
@@ -45979,7 +45918,7 @@
    "id": "logistics-facility",
    "term": "logistics facility",
    "direction": "rising",
-   "ratio": 1.04516735418516,
+   "ratio": 1.0439680801126585,
    "display": false,
    "adoptionSpan": 9,
    "pace": "mixed",
@@ -46509,7 +46448,7 @@
    "id": "semicon-india",
    "term": "semicon india",
    "direction": "rising",
-   "ratio": 2.09033470837032,
+   "ratio": 2.087936160225317,
    "display": false,
    "adoptionSpan": 17,
    "pace": "mixed",
@@ -46626,7 +46565,7 @@
      "new",
      2,
      0,
-     417.1,
+     335.9,
      [
       {
        "title": "Micron to scale up India chip assembly multifold next year as semiconductor mission shifts to execution",
@@ -47096,7 +47035,7 @@
    "id": "office-space",
    "term": "office space",
    "direction": "rising",
-   "ratio": 0.313550206255548,
+   "ratio": 0.3131904240337975,
    "display": false,
    "adoptionSpan": 37,
    "pace": "gradual",
@@ -47712,7 +47651,7 @@
    "id": "design-technology",
    "term": "design technology",
    "direction": "steady",
-   "ratio": 0.1959688789097175,
+   "ratio": 0.19574401502112346,
    "display": false,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -48251,7 +48190,7 @@
    "id": "energy-cost",
    "term": "energy cost",
    "direction": "steady",
-   "ratio": 0.1959688789097175,
+   "ratio": 0.19574401502112346,
    "display": false,
    "adoptionSpan": 34,
    "pace": "gradual",
@@ -48844,7 +48783,7 @@
    "id": "rare-earth",
    "term": "rare earth",
    "direction": "steady",
-   "ratio": 0.20448926494927044,
+   "ratio": 0.20425462436986797,
    "display": false,
    "adoptionSpan": 50,
    "pace": "gradual",
@@ -49087,7 +49026,7 @@
      "new",
      2,
      0,
-     92.7,
+     82.9,
      [
       {
        "title": "Billionaire's buying spree stretches beyond \u2f00iron ore\u2f01",
@@ -49587,582 +49526,10 @@
    "rank": 0.703
   },
   {
-   "id": "received-approval",
-   "term": "received approval",
-   "direction": "rising",
-   "ratio": 0.34838911806172,
-   "display": false,
-   "adoptionSpan": 6,
-   "pace": "simultaneous",
-   "kind": "concept",
-   "sectorCount": 2,
-   "effectiveSectors": 1.98,
-   "newestSector": "Supply chain",
-   "daysSinceNewestSector": 20,
-   "articles14d": 4,
-   "articlesPrior14d": 3,
-   "publishers": 3,
-   "events": 4,
-   "topPubShare": 0.5,
-   "sectors": [
-    {
-     "name": "Technology",
-     "firstSeen": "2026-08-25",
-     "recent": 2,
-     "articles": 4,
-     "share": 0.5,
-     "atSectorStart": false,
-     "grip": 0.111,
-     "outlets": 1,
-     "adopt": 63,
-     "daysSince": 26
-    },
-    {
-     "name": "Supply chain",
-     "firstSeen": "2026-08-31",
-     "recent": 2,
-     "articles": 3,
-     "share": 0.5,
-     "atSectorStart": false,
-     "grip": 0.25,
-     "outlets": 2,
-     "adopt": 69,
-     "daysSince": 20
-    }
-   ],
-   "sinceStart": false,
-   "origins": [
-    [
-     "KR",
-     4
-    ],
-    [
-     "GR",
-     2
-    ],
-    [
-     "DE",
-     1
-    ],
-    [
-     "HK",
-     1
-    ]
-   ],
-   "flow": {
-    "weeks": [
-     "2026-06-23",
-     "2026-06-30",
-     "2026-07-07",
-     "2026-07-14",
-     "2026-07-21",
-     "2026-07-28",
-     "2026-08-04",
-     "2026-08-11",
-     "2026-08-18",
-     "2026-08-25",
-     "2026-09-01",
-     "2026-09-08",
-     "2026-09-15"
-    ],
-    "bands": [
-     {
-      "sector": "Technology",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       2,
-       0,
-       1,
-       1
-      ]
-     },
-     {
-      "sector": "Supply chain",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       2
-      ]
-     },
-     {
-      "sector": "Autos",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "cooc": [
-    [
-     "power generation",
-     1.0,
-     "new",
-     2,
-     0,
-     278.1,
-     [
-      {
-       "title": "Jiangnan Shipyard wins BV approval for electric-propelled ammonia carrier",
-       "url": "https://container-news.com/jiangnan-shipyard-wins-bv-approval-for-electric-propelled-ammonia-carrier/",
-       "publisher": "Container News",
-       "sector": "Supply chain",
-       "quote": "\u2026sel concept combines ammonia-fueled \u2f00power generation\u2f01 with batteries, fuel cells and wind-assisted propulsion. Jiangnan Shipyard, a subsidiary of China State Shipb\u2026"
-      },
-      {
-       "title": "HD KSOE Develops 100MW Floating Power Plant",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=13932",
-       "publisher": "The Elec",
-       "sector": "Technology",
-       "quote": "\u2026eloped a 100-megawatt (MW) floating \u2f00power generation\u2f01 facility capable of supplying electricity to artificial intelligence (AI) data centers and other facilities.H\u2026"
-      }
-     ],
-     [
-      "principle aip"
-     ]
-    ]
-   ],
-   "examples": [
-    {
-     "publisher": "SCMP Business",
-     "title": "US crypto bill stumble sparks call for Hong Kong to seize \u2018critical strategic window'",
-     "url": "https://www.scmp.com/business/cryptocurrency/article/3367694/us-crypto-bill-stumble-sparks-call-hong-kong-seize-critical-strategic-window?utm_source=rss_feed",
-     "date": "2026-09-16",
-     "sector": "Supply chain",
-     "country": "HK",
-     "quote": "\u2026n mainland China, but Hong Kong has \u2f00received approval\u2f01 to develop itself as a digital asset hub, with the stalled push in Washington presenting the city with what..\u2026"
-    },
-    {
-     "publisher": "Container News",
-     "title": "Jiangnan Shipyard wins BV approval for electric-propelled ammonia carrier",
-     "url": "https://container-news.com/jiangnan-shipyard-wins-bv-approval-for-electric-propelled-ammonia-carrier/",
-     "date": "2026-09-16",
-     "sector": "Supply chain",
-     "country": "GR",
-     "quote": "Jiangnan Shipyard has \u2f00received Approval\u2f01 in Principle (AiP) from Bureau Veritas for a new electric-propelled Very Large Ammonia Carrier (VLAC). The ve\u2026"
-    },
-    {
-     "publisher": "The Elec",
-     "title": "HD KSOE Develops 100MW Floating Power Plant",
-     "url": "https://www.thelec.net/news/articleView.html?idxno=13932",
-     "date": "2026-09-16",
-     "sector": "Technology",
-     "country": "KR",
-     "quote": "\u2026es.HD KSOE said on Sept. 15 that it \u2f00received Approval\u2f01 in Principle (AIP) from th"
-    },
-    {
-     "publisher": "The Elec",
-     "title": "GC Biopharma Gets Phase 2 Approval for COVID-19 Vaccine",
-     "url": "https://www.thelec.net/news/articleView.html?idxno=13876",
-     "date": "2026-09-13",
-     "sector": "Technology",
-     "country": "KR",
-     "quote": "\u2026Biopharma said on Sept. 11 that it \u2f00received approval\u2f01 from the Ministry of Food and Drug Safety (MFDS) for an investigational new drug (IND) application to conduct\u2026"
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-06-23",
-     "n": 0
-    },
-    {
-     "day": "2026-06-24",
-     "n": 0
-    },
-    {
-     "day": "2026-06-25",
-     "n": 0
-    },
-    {
-     "day": "2026-06-26",
-     "n": 0
-    },
-    {
-     "day": "2026-06-27",
-     "n": 0
-    },
-    {
-     "day": "2026-06-28",
-     "n": 0
-    },
-    {
-     "day": "2026-06-29",
-     "n": 0
-    },
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 0
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 0
-    },
-    {
-     "day": "2026-07-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 0
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 0
-    },
-    {
-     "day": "2026-08-04",
-     "n": 0
-    },
-    {
-     "day": "2026-08-05",
-     "n": 0
-    },
-    {
-     "day": "2026-08-06",
-     "n": 0
-    },
-    {
-     "day": "2026-08-07",
-     "n": 0
-    },
-    {
-     "day": "2026-08-08",
-     "n": 0
-    },
-    {
-     "day": "2026-08-09",
-     "n": 0
-    },
-    {
-     "day": "2026-08-10",
-     "n": 0
-    },
-    {
-     "day": "2026-08-11",
-     "n": 0
-    },
-    {
-     "day": "2026-08-12",
-     "n": 0
-    },
-    {
-     "day": "2026-08-13",
-     "n": 0
-    },
-    {
-     "day": "2026-08-14",
-     "n": 0
-    },
-    {
-     "day": "2026-08-15",
-     "n": 0
-    },
-    {
-     "day": "2026-08-16",
-     "n": 0
-    },
-    {
-     "day": "2026-08-17",
-     "n": 1
-    },
-    {
-     "day": "2026-08-18",
-     "n": 0
-    },
-    {
-     "day": "2026-08-19",
-     "n": 0
-    },
-    {
-     "day": "2026-08-20",
-     "n": 0
-    },
-    {
-     "day": "2026-08-21",
-     "n": 0
-    },
-    {
-     "day": "2026-08-22",
-     "n": 0
-    },
-    {
-     "day": "2026-08-23",
-     "n": 0
-    },
-    {
-     "day": "2026-08-24",
-     "n": 0
-    },
-    {
-     "day": "2026-08-25",
-     "n": 1
-    },
-    {
-     "day": "2026-08-26",
-     "n": 0
-    },
-    {
-     "day": "2026-08-27",
-     "n": 0
-    },
-    {
-     "day": "2026-08-28",
-     "n": 1
-    },
-    {
-     "day": "2026-08-29",
-     "n": 0
-    },
-    {
-     "day": "2026-08-30",
-     "n": 0
-    },
-    {
-     "day": "2026-08-31",
-     "n": 1
-    },
-    {
-     "day": "2026-09-01",
-     "n": 0
-    },
-    {
-     "day": "2026-09-02",
-     "n": 0
-    },
-    {
-     "day": "2026-09-03",
-     "n": 0
-    },
-    {
-     "day": "2026-09-04",
-     "n": 0
-    },
-    {
-     "day": "2026-09-05",
-     "n": 0
-    },
-    {
-     "day": "2026-09-06",
-     "n": 0
-    },
-    {
-     "day": "2026-09-07",
-     "n": 0
-    },
-    {
-     "day": "2026-09-08",
-     "n": 0
-    },
-    {
-     "day": "2026-09-09",
-     "n": 0
-    },
-    {
-     "day": "2026-09-10",
-     "n": 0
-    },
-    {
-     "day": "2026-09-11",
-     "n": 0
-    },
-    {
-     "day": "2026-09-12",
-     "n": 0
-    },
-    {
-     "day": "2026-09-13",
-     "n": 1
-    },
-    {
-     "day": "2026-09-14",
-     "n": 0
-    },
-    {
-     "day": "2026-09-15",
-     "n": 0
-    },
-    {
-     "day": "2026-09-16",
-     "n": 3
-    },
-    {
-     "day": "2026-09-17",
-     "n": 0
-    },
-    {
-     "day": "2026-09-18",
-     "n": 0
-    },
-    {
-     "day": "2026-09-19",
-     "n": 0
-    },
-    {
-     "day": "2026-09-20",
-     "n": 0
-    }
-   ],
-   "relRatio": 1.67,
-   "docFreq": 0.0002,
-   "specificity": 0.993,
-   "homeShare": 0.5,
-   "daysSeen": 2,
-   "rank": 0.674
-  },
-  {
    "id": "supply-chain",
    "term": "supply chain",
    "direction": "falling",
-   "ratio": 0.12921024983058296,
+   "ratio": 0.12906198792601548,
    "display": false,
    "adoptionSpan": 41,
    "pace": "gradual",
@@ -50561,7 +49928,7 @@
      "steady",
      3,
      4,
-     20.6,
+     20.7,
      [
       {
        "title": "Nan Ya accelerates AI materials shift with major \u2f00capacity expansion\u2f01",
@@ -51065,7 +50432,7 @@
    ],
    "relRatio": 0.62,
    "docFreq": 0.0047,
-   "specificity": 0.843,
+   "specificity": 0.844,
    "homeShare": 0.506,
    "daysSeen": 11,
    "rank": 0.671
@@ -51074,7 +50441,7 @@
    "id": "processing-facility",
    "term": "processing facility",
    "direction": "steady",
-   "ratio": 0.1959688789097175,
+   "ratio": 0.19574401502112346,
    "display": false,
    "adoptionSpan": 3,
    "pace": "simultaneous",
@@ -51610,7 +50977,7 @@
    "id": "scale-battery",
    "term": "scale battery",
    "direction": "falling",
-   "ratio": 0.14930962202645143,
+   "ratio": 0.1491382971589512,
    "display": false,
    "adoptionSpan": 23,
    "pace": "mixed",
@@ -52154,7 +51521,7 @@
    "id": "feasibility-study",
    "term": "feasibility study",
    "direction": "steady",
-   "ratio": 0.22396443303967714,
+   "ratio": 0.2237074457384268,
    "display": false,
    "adoptionSpan": 21,
    "pace": "mixed",
@@ -52763,7 +52130,7 @@
    "id": "emerging-technology",
    "term": "emerging technology",
    "direction": "steady",
-   "ratio": 0.1959688789097175,
+   "ratio": 0.19574401502112346,
    "display": false,
    "adoptionSpan": 9,
    "pace": "mixed",
@@ -53329,7 +52696,7 @@
    "id": "middle-east",
    "term": "middle east",
    "direction": "steady",
-   "ratio": 0.2130533452762057,
+   "ratio": 0.21280887786911884,
    "display": false,
    "adoptionSpan": 37,
    "pace": "gradual",
@@ -53674,7 +53041,7 @@
      "steady",
      3,
      0,
-     83.9,
+     84.5,
      [
       {
        "title": "Continued fuel price shocks leave emergency surcharges stuck in overdrive",
@@ -54187,7 +53554,7 @@
    "id": "price-pressure",
    "term": "price pressure",
    "direction": "rising",
-   "ratio": 1.04516735418516,
+   "ratio": 1.0439680801126585,
    "display": false,
    "adoptionSpan": 5,
    "pace": "simultaneous",
@@ -54763,7 +54130,7 @@
    "id": "gold-price",
    "term": "gold price",
    "direction": "falling",
-   "ratio": 0.130645919273145,
+   "ratio": 0.13049601001408231,
    "display": false,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -55343,7 +54710,7 @@
    "id": "rizing-cost",
    "term": "rizing cost",
    "direction": "steady",
-   "ratio": 0.20322698553600332,
+   "ratio": 0.20299379335523912,
    "display": false,
    "adoptionSpan": 13,
    "pace": "mixed",
@@ -56002,7 +55369,7 @@
    "id": "raw-material",
    "term": "raw material",
    "direction": "steady",
-   "ratio": 0.156775103127774,
+   "ratio": 0.15659521201689874,
    "display": false,
    "adoptionSpan": 14,
    "pace": "mixed",
@@ -56650,7 +56017,7 @@
    "id": "rizing-demand",
    "term": "rizing demand",
    "direction": "falling",
-   "ratio": 0.1425228210252491,
+   "ratio": 0.14235928365172615,
    "display": false,
    "adoptionSpan": 19,
    "pace": "mixed",
