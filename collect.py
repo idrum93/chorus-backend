@@ -51,7 +51,7 @@ VERSION = "v3"
 # Bump this whenever extraction changes — including companies.json and the
 # stop lists, which feed it. Without a bump, stored grams keep the old rules
 # and the change appears to have done nothing.
-EXTRACT_VERSION = 237
+EXTRACT_VERSION = 238
 UA     = "crosstalk-monitor/3.0 (news language monitoring; crosstalkwire.com)"
 KEY    = os.environ.get("NEWSAPI_AI_KEY", "").strip()
 
@@ -593,6 +593,9 @@ STOCK_PHRASES = {
     "full scale", "large scale", "small scale", "commercial scale",
     "public offering", "public offering ipo", "offering ipo",
     "initial public", "rights issue", "stock exchange listing",
+    "launch event", "product launch", "launch ceremony", "unveiling ceremony",
+    "press conference", "press release", "trade show", "industry event",
+    "networking event", "ribbon cutting", "groundbreaking ceremony",
     "leadership change", "management change", "management shakeup",
     "chief executive", "board member", "annual meeting", "quarterly result",
     "earnings call", "profit warning", "share buyback", "job cut", "job cuts",
