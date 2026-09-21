@@ -182,7 +182,41 @@ def _market_for_card(card_path, odds_path="data/ufc_betting_odds_daily.csv"):
     price presented as current.
     """
     import os
-    # Live API first: it is the only source a CI job can reach.
+    # The ledger FIRST. The capture job has already paid for these prices and
+    # written them down; refresh making its own call was buying the same
+    # numbers twice, at 3 credits a day for nothing. Latest capture per bout.
+    try:
+        from .ledger import read as _lread
+        L = _lread()
+        if not L.empty and "venue" in L.columns:
+            L = L[L.venue == "sportsbook"].sort_values("captured_utc")
+            last = L.groupby(["fighter", "opponent"]).tail(1)
+            out = {}
+            for r in last.itertuples():
+                k = frozenset((_key(r.fighter), _key(r.opponent)))
+                if k not in out:
+                    out[k] = (_key(r.fighter), float(r.p_market_devig), r.books)
+            # Use the ledger only if it actually covers THIS card. The first
+            # version returned early whenever the ledger held any prices at
+            # all — so right after a card advanced, the ledger held only the
+            # finished card's bouts, matched none of the new ones, and the
+            # site showed no market prices while never falling back to the API.
+            try:
+                _, card = parse_card(card_path)
+                want = {frozenset((_key(a), _key(b))) for a, b, *_ in card}
+                have = sum(1 for k in want if k in out)
+                cover = have / len(want) if want else 0.0
+            except Exception:
+                cover = 0.0
+            if out and cover >= 0.5:
+                return out, f"ledger (latest capture, {cover:.0%} of card)"
+            if out:
+                print(f"note: ledger covers only {cover:.0%} of this card - "
+                      f"fetching live instead")
+    except Exception as e:
+        print(f"note: ledger prices unavailable ({e})")
+    # Only if the ledger has nothing — e.g. a card listed before its first
+    # capture — spend a call on it.
     try:
         from .odds_live import fetch_moneylines
         live = fetch_moneylines()
@@ -719,6 +753,14 @@ if __name__ == "__main__":
         # This call was missing entirely: archive_previous() ran inside
         # write_json, so cards were being saved, but nothing ever graded them
         # and site/history.json was never written.
+        try:
+            from .odds_live import read_usage
+            u = read_usage()
+            if u:
+                Path("site/usage.json").write_text(_json.dumps(u, indent=1), encoding="utf-8")
+        except Exception:
+            pass
+
         try:
             grade_archive(f)
         except Exception as e:
