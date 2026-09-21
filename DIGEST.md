@@ -1,6 +1,6 @@
 # Crosstalk — week ending 21 September 2026
 
-*20,710 articles over 148 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*20,924 articles over 173 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
@@ -15,7 +15,7 @@
 
 **iron ore** — rare earth
 **energy price** — global oil
-**power demand** — data center
+**electric vehicle** — power electronics, charging infrastructure
 
 ---
 
