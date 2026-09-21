@@ -51,7 +51,7 @@ VERSION = "v3"
 # Bump this whenever extraction changes — including companies.json and the
 # stop lists, which feed it. Without a bump, stored grams keep the old rules
 # and the change appears to have done nothing.
-EXTRACT_VERSION = 233
+EXTRACT_VERSION = 235
 UA     = "crosstalk-monitor/3.0 (news language monitoring; crosstalkwire.com)"
 KEY    = os.environ.get("NEWSAPI_AI_KEY", "").strip()
 
@@ -140,7 +140,8 @@ venezuela panama suez hormuz malacca baltic arctic texas california alberta
 WATER_FAMILY = {"low water", "water level", "water levels", "river level"}
 # the same thing written two ways, so they should not compete as separate finds
 # url paths that mark paid placement rather than reporting
-SPONSORED = ("/presented/", "/sponsored/", "/partner-content/", "/advertorial",
+SPONSORED = ("/presented/", "/sponsored/", "/spons/", "/sponsor/",
+             "/partner-content/", "/advertorial",
              "/brandvoice/", "/paid-post", "?utm_source=sponsored")
 
 SYNONYM_FAMILIES = [
@@ -278,6 +279,9 @@ framework approach strategy initiative solution opportunity challenge
 landscape ecosystem journey transformation adoption implementation
 outlook sentiment momentum trajectory alignment engagement governance
 stage stages phase phases milestone milestones threshold thresholds
+approval approvals principle principles leader leaders pioneer pioneers
+critical essential vital crucial optimal robust seamless scalable
+specialist specialists provider providers player players innovator
 driver drivers headwind headwinds tailwind tailwinds catalyst catalysts
 priority priorities imperative imperatives enabler enablers
 """.split())
@@ -317,6 +321,8 @@ adding bringing taking making giving putting seeing marking
 powered fuelled fueled driven operated equipped fitted rated flagged
 ultra mega giant huge vast tiny
 eyes mulls weighs touts slams taps bags nabs eyeing mulling weighing
+received receives receiving secured secures securing wins won winning
+aip mou loi fid epc
 remain remains remained remaining stay stays stayed staying
 continue continues continued continuing persist persists persisted
 appear appears appeared seem seems seemed become becomes became
