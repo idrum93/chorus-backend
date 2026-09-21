@@ -51,7 +51,7 @@ VERSION = "v3"
 # Bump this whenever extraction changes — including companies.json and the
 # stop lists, which feed it. Without a bump, stored grams keep the old rules
 # and the change appears to have done nothing.
-EXTRACT_VERSION = 238
+EXTRACT_VERSION = 240
 UA     = "crosstalk-monitor/3.0 (news language monitoring; crosstalkwire.com)"
 KEY    = os.environ.get("NEWSAPI_AI_KEY", "").strip()
 
@@ -315,6 +315,8 @@ judge judges lawmaker lawmakers senator senators governor governors
 spokesperson spokesman spokeswoman chairman chairwoman minister ministers
 official officials regulator regulators analyst analysts
 officer officers executive executives
+investor investors shareholder shareholders stakeholder stakeholders
+lender lenders borrower borrowers buyer buyers seller sellers
 journal gazette chronicle herald tribune dispatch bulletin newswire
 jointly newly recently previously formerly largely widely mainly
 chinese american european japanese korean german indian british french
@@ -3044,6 +3046,22 @@ def main():
 
     # Duplicates must go before anything is recomputed from them.
     drop_syndicated(conn)
+
+    # config decides which sector a publisher belongs to; stored rows follow
+    fixed = 0
+    for sec in cfg.get("sectors", []):
+        for s in sec.get("sources", []):
+            pub = (s.get("publisher") or "").strip()
+            if not pub:
+                continue
+            cur = conn.execute(
+                "UPDATE articles SET sector=? WHERE publisher=? AND sector<>?",
+                (sec["name"], pub, sec["name"]))
+            fixed += cur.rowcount or 0
+    if fixed:
+        conn.commit()
+        print(f"  {fixed:,} stored articles moved to the sector their "
+              f"publisher is configured under")
 
     have_v = extract_version(conn)
     need_rebuild = have_v != EXTRACT_VERSION or args.rebuild or migrated
