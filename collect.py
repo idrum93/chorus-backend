@@ -51,7 +51,7 @@ VERSION = "v3"
 # Bump this whenever extraction changes — including companies.json and the
 # stop lists, which feed it. Without a bump, stored grams keep the old rules
 # and the change appears to have done nothing.
-EXTRACT_VERSION = 235
+EXTRACT_VERSION = 236
 UA     = "crosstalk-monitor/3.0 (news language monitoring; crosstalkwire.com)"
 KEY    = os.environ.get("NEWSAPI_AI_KEY", "").strip()
 
@@ -281,6 +281,10 @@ outlook sentiment momentum trajectory alignment engagement governance
 stage stages phase phases milestone milestones threshold thresholds
 approval approvals principle principles leader leaders pioneer pioneers
 critical essential vital crucial optimal robust seamless scalable
+judge judges lawmaker lawmakers regulator regulators official officials
+minister ministers senator senators governor governors analyst analysts
+officer officers director directors president presidents
+spokesperson spokesman executive executives chairman chairwoman
 specialist specialists provider providers player players innovator
 driver drivers headwind headwinds tailwind tailwinds catalyst catalysts
 priority priorities imperative imperatives enabler enablers
@@ -1015,6 +1019,16 @@ def _fold_places():
         if s != w:
             PLACES.add(s)
 
+# Fields that end in s and are not plurals. A blanket rule on -ics cannot
+# work: semiconductors, dynamics of a market and diagnostics are all plurals
+# people actually write.
+MASS_NOUNS = set("""
+electronics logistics analytics economics robotics plastics ceramics
+physics politics mathematics statistics genomics photonics mechanics
+aeronautics acoustics optics ethics news gas lens series species
+""".split())
+
+
 def singularise(phrase):
     """Fold trailing plurals so 'data center' and 'data centers' are one entry.
 
@@ -1024,6 +1038,8 @@ def singularise(phrase):
     """
     words = phrase.split()
     last = words[-1]
+    if last in MASS_NOUNS:
+        return phrase
     if len(last) > 4 and not last.endswith(("ss", "us", "is", "as")):
         if last.endswith("ies") and len(last) > 5:
             words[-1] = last[:-3] + "y"       # inventories -> inventory
