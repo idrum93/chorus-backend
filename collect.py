@@ -51,7 +51,7 @@ VERSION = "v3"
 # Bump this whenever extraction changes — including companies.json and the
 # stop lists, which feed it. Without a bump, stored grams keep the old rules
 # and the change appears to have done nothing.
-EXTRACT_VERSION = 236
+EXTRACT_VERSION = 237
 UA     = "crosstalk-monitor/3.0 (news language monitoring; crosstalkwire.com)"
 KEY    = os.environ.get("NEWSAPI_AI_KEY", "").strip()
 
@@ -281,10 +281,6 @@ outlook sentiment momentum trajectory alignment engagement governance
 stage stages phase phases milestone milestones threshold thresholds
 approval approvals principle principles leader leaders pioneer pioneers
 critical essential vital crucial optimal robust seamless scalable
-judge judges lawmaker lawmakers regulator regulators official officials
-minister ministers senator senators governor governors analyst analysts
-officer officers director directors president presidents
-spokesperson spokesman executive executives chairman chairwoman
 specialist specialists provider providers player players innovator
 driver drivers headwind headwinds tailwind tailwinds catalyst catalysts
 priority priorities imperative imperatives enabler enablers
@@ -315,6 +311,10 @@ higher lower group line lines solution solutions
 built around across toward towards beyond amid despite via
 rapidly quickly slowly steadily sharply significantly increasingly
 reuters bloomberg nikkei axios cnbc politico afp xinhua kyodo yonhap
+judge judges lawmaker lawmakers senator senators governor governors
+spokesperson spokesman spokeswoman chairman chairwoman minister ministers
+official officials regulator regulators analyst analysts
+officer officers executive executives
 journal gazette chronicle herald tribune dispatch bulletin newswire
 jointly newly recently previously formerly largely widely mainly
 chinese american european japanese korean german indian british french
