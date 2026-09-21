@@ -230,6 +230,35 @@ def test_opening_marker_survives(_unused=None):
                 + " when a later duplicate lacks it")
 
 
+# Features the page must keep. Two of these — the Eastern timestamp and the
+# build marker — were silently lost once: an edit went into the shipped copy,
+# later changes were made to a working copy that never had it, and the copy
+# overwrote the fix. Nothing failed; the site just quietly reverted to UTC.
+# Every feature listed here is one a user asked for by name.
+REQUIRED_SITE_FEATURES = {
+    "function fmtET": "timestamp in US Eastern",
+    "America/New_York": "Eastern timezone",
+    "function showUsage": "Odds API credits in the header",
+    "function gauge": "model/market dial on each tile",
+    "function verdictLine": "one-sentence verdict per bout",
+    "function tale": "tale of the tape",
+    "function baseRatePanel": "conditional base-rate panel",
+    "function fairOdds": "fair price beside each projection",
+    "data-f=\"gaps\"": "disagreement filter",
+    "cornerman build:": "build marker",
+}
+
+
+def test_site_features(_unused=None, path="site/index.html"):
+    import os
+    if not os.path.exists(path):
+        return True, "skipped (no site/index.html in this checkout)"
+    html = open(path, encoding="utf-8").read()
+    missing = [v for k, v in REQUIRED_SITE_FEATURES.items() if k not in html]
+    return (not missing), ("all %d present" % len(REQUIRED_SITE_FEATURES) if not missing
+                           else "MISSING: " + ", ".join(missing))
+
+
 def run_all(fights=None, fighters=None):
     if fights is None:
         fights, fighters, _ = make_corpus(n_fighters=520, n_events=320)
@@ -243,6 +272,7 @@ def run_all(fights=None, fighters=None):
         ("ledger reads old schema", test_ledger_reads_old_schema()),
         ("no resolved prices", test_no_resolved_prices()),
         ("opening marker survives", test_opening_marker_survives()),
+        ("site features intact", test_site_features()),
     ]
     print(f"{'CHECK':<28} {'RESULT':<6}  DETAIL")
     print("-" * 78)

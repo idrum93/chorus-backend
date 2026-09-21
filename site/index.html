@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- cornerman build: dashboard-v3 -->
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -116,6 +117,8 @@
     border-radius:3px;font-weight:700;white-space:nowrap;border:1px solid currentColor}
   .edgeTag.agree{color:var(--dim)} .edgeTag.lean{color:var(--mute)}
   .edgeTag.wide{color:var(--warn)} .edgeTag.hit{color:var(--good)} .edgeTag.miss{color:var(--red)}
+  .ubar{display:inline-block;width:46px;height:3px;background:var(--soft);border-radius:2px;overflow:hidden}
+  .ubar i{display:block;height:100%}
   .intro{position:relative;border:1px solid var(--line);border-left:3px solid var(--bluesoft);
     background:var(--panel);border-radius:4px;padding:14px 16px;margin:12px 0 4px;max-width:900px}
   .intro h3{margin:0 0 6px;font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--bluesoft)}
@@ -214,12 +217,16 @@
   <header>
     <span class="brand">Cornerman</span>
     <div class="evline" id="evline"></div>
-    <div class="mono" id="stamp" style="font-size:10.5px;color:var(--mute);white-space:nowrap"></div>
+    <div style="display:flex;flex-direction:column;align-items:flex-end;gap:3px">
+      <div class="mono" id="stamp" style="font-size:10.5px;color:var(--mute);white-space:nowrap"></div>
+      <div class="mono" id="usage" style="font-size:9.5px;display:flex;align-items:center;gap:6px"></div>
+    </div>
   </header>
   <div id="app" style="padding:4px 0 0"><div class="lbl">Loading…</div></div>
   <footer>
     Not affiliated with the UFC. Statistics from public records. Analysis tool, not betting
     advice — tested at 67% accuracy against 70% for the closing line. It does not beat the market.
+    <span class="mono" style="color:#333A46"> · build dashboard-v3</span>
   </footer>
 </div>
 <div class="scrim" id="scrim"></div>
@@ -229,7 +236,29 @@
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const P1=x=>(x*100).toFixed(1), P0=x=>Math.round(x*100);
 const SEGS=['Main card','Prelims','Early prelims'];
-let DATA=null, HIST=null, BR=null, SC=null, ONLY_GAPS=false;
+function fmtET(iso){
+  // Eastern, to the minute, so you can tell which scheduled run produced
+  // what is on screen. Intl handles the EDT/EST switch in November.
+  if(!iso) return '';
+  const d=new Date(iso); if(isNaN(d)) return '';
+  try{
+    return 'updated '+new Intl.DateTimeFormat('en-US',{timeZone:'America/New_York',
+      month:'short',day:'numeric',hour:'numeric',minute:'2-digit',
+      hour12:true,timeZoneName:'short'}).format(d);
+  }catch(e){ return 'updated '+iso.slice(0,16)+' UTC'; }
+}
+/* Where the month's Odds API budget stands, read from headers the capture job
+   already receives — checking it costs nothing. Amber under 100 credits, red
+   under 30: a 429 in fight week would lose closing prices, the unrecoverable
+   half of every CLV measurement. */
+function showUsage(){
+  const el=document.getElementById('usage'); if(!el||!USG||USG.remaining==null) return;
+  const r=USG.remaining, tot=r+(USG.used||0), pct=tot?r/tot:0;
+  const col=r<30?'var(--red)':r<100?'var(--warn)':'var(--mute)';
+  el.innerHTML=`<span style="color:${col}">odds api: <b>${r}</b> of ${tot} credits left</span>
+    <span class="ubar"><i style="width:${(pct*100).toFixed(0)}%;background:${col}"></i></span>`;
+}
+let DATA=null, HIST=null, BR=null, SC=null, USG=null, ONLY_GAPS=false;
 
 function gap(b){ return b.edge==null?null:Math.abs(b.edge); }
 function tag(b){
@@ -744,12 +773,12 @@ Promise.all([
   fetch('predictions.json',{cache:'no-store'}).then(r=>{ if(!r.ok) throw new Error('predictions.json not found ('+r.status+')'); return r.json(); }),
   fetch('history.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null),
   fetch('baserates.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null),
-  fetch('scorecard.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null)
-]).then(([j,h,br,sc])=>{
-  DATA=j; HIST=h; BR=br; SC=sc;
-  // full timestamp, to the minute: you need to know WHICH run produced this
-  const t=j.generated_utc?j.generated_utc.replace('T',' ').replace(/(\+.*|Z)$/,''):'';
-  document.getElementById('stamp').textContent=t?('updated '+t.slice(0,16)+' UTC'):'';
+  fetch('scorecard.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null),
+  fetch('usage.json',{cache:'no-store'}).then(r=>r.ok?r.json():null).catch(()=>null)
+]).then(([j,h,br,sc,us])=>{
+  DATA=j; HIST=h; BR=br; SC=sc; USG=us;
+  showUsage();
+  document.getElementById('stamp').textContent=fmtET(j.generated_utc);
   render();
 }).catch(e=>{
   document.getElementById('app').innerHTML='<div class="note"><b>Could not load predictions.</b><br>'+
