@@ -1,0 +1,42 @@
+{
+ "features": [
+  "d_age",
+  "d_sapm",
+  "d_kd15",
+  "d_log_exp",
+  "d_log_layoff"
+ ],
+ "mean": [
+  0.0,
+  0.0,
+  0.0,
+  0.0,
+  0.0
+ ],
+ "scale": [
+  5.318977057739631,
+  1.2454597922013588,
+  0.38051111220559664,
+  0.7476793623204891,
+  0.7856536144059942
+ ],
+ "coef": [
+  -0.17069258673726762,
+  -0.1478002901733047,
+  -0.05196858956856491,
+  0.03284740364747918,
+  0.04992729420742417
+ ],
+ "l2": 25.0,
+ "rule": {
+  "min_edge": 0.02,
+  "favourites_only": true,
+  "min_implied": 0.5,
+  "stake": "flat 1 unit",
+  "success": "ROI > +2% over >=300 bets"
+ },
+ "frozen_on": "2026-09-19",
+ "trained_through": "2026-03-28",
+ "n_train_fights": 3698,
+ "note": "Pre-registered in PREREGISTRATION.md addendum 1. Coefficients are FROZEN: capture applies them and never refits. Refitting would quietly turn the forward test back into a retrospective one."
+}

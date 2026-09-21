@@ -1,0 +1,16 @@
+{
+ "method": "rolling base-rate anchor",
+ "window_fights": 300,
+ "note": "P(decision) from the hazard roll-up is well calibrated WITHIN a period but the UFC decision rate itself drifts: 55% in 2019, 44% so far in 2026, a 12.3-point spread across recent years. A fixed Platt correction cannot fix that - fitted on a validation slice where the actual rate was 47.9%, it still predicted 47.7% on a test block where the rate was 52.5%. The anchor shifts the logit so the trailing 300 fights match their own observed rate, which brought the test block to 0.529 predicted vs 0.525 actual. Discrimination is unchanged (AUC .608 to .613) - this fixes the LEVEL only, and the level is what a distance bet is exposed to.",
+ "measured": {
+  "raw_pred": 0.487,
+  "anchored_pred": 0.529,
+  "actual": 0.525,
+  "brier_raw": 0.2487,
+  "brier_anchored": 0.2472,
+  "auc_raw": 0.6077,
+  "auc_anchored": 0.6133,
+  "n_test": 812
+ },
+ "frozen_on": "2026-09-20"
+}

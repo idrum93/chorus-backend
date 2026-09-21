@@ -1,0 +1,22 @@
+# Runs the validation suite on every push. The leakage check is worth nothing
+# if it only runs when someone remembers to run it.
+#
+# Note: the real-data checks need the UFCStats CSVs, which are not committed.
+# So CI runs against the synthetic corpus, which exercises every code path in
+# features.py / state.py / tests.py and will catch a leakage regression.
+name: tests
+on: [push, pull_request]
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: validation suite (synthetic corpus)
+        run: python -m mmastat.tests
+      - name: train on synthetic corpus
+        run: python -m mmastat.train --synth
