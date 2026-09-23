@@ -1,15 +1,15 @@
 # Crosstalk — week ending 23 September 2026
 
-*21,870 articles over 175 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*22,053 articles over 175 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
+**[driver assistance](https://crosstalkwire.com/#driver-assistance)** — Autos, Technology, 5 articles across 4 newsrooms
 **[battery pack](https://crosstalkwire.com/#battery-pack)** — Autos, Technology, 5 articles across 4 newsrooms
 **[crude tanker](https://crosstalkwire.com/#crude-tanker)** — Energy, Supply chain, 6 articles across 3 newsrooms
 **[bond yield](https://crosstalkwire.com/#bond-yield)** — Energy, Finance, 4 articles across 3 newsrooms
 **[autonomous vehicle](https://crosstalkwire.com/#autonomous-vehicle)** — Autos, Technology, 5 articles across 4 newsrooms
 **[wind energy](https://crosstalkwire.com/#wind-energy)** — Energy, Utilities, 4 articles across 4 newsrooms
-**[carbon dioxide](https://crosstalkwire.com/#carbon-dioxide)** — Energy, Policy, 4 articles across 3 newsrooms
 
 ## Crossed into a new sector this week
 
@@ -18,6 +18,8 @@
   - [ATE Energy brings new cable layer into Taiwan market](https://splash247.com/ate-energy-brings-new-cable-layer-into-taiwan-market/) · Splash247 · supply chain
 
 ## Being used more than a fortnight ago
+
+**[driver assistance](https://crosstalkwire.com/#driver-assistance)** — 5 articles, 1.7× the fortnight before, in technology, autos
 
 **[power station](https://crosstalkwire.com/#power-station)** — 5 articles, 1.7× the fortnight before, in utilities, energy
 
