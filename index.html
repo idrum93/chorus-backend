@@ -838,7 +838,7 @@ li.brk i{flex:1;height:0;border-top:1px solid var(--ink-2);opacity:.75}
     <div class="stamps">
       <button class="whatis" id="whatis" type="button" aria-expanded="false"
         aria-controls="whatbox" aria-label="What is Crosstalk?">?</button>
-      <span class="build hide" title="Dashboard build. Quote this if something looks wrong.">build ab49ff5</span>
+      <span class="build hide" title="Dashboard build. Quote this if something looks wrong.">build 0af0a54</span>
       <div class="whatbox hide" id="whatbox" role="note"><b>Crosstalk:</b>
         talk that carries between groups that do not usually share it. This site
         reads 84 trade publications across 14 sectors every few hours and shows
@@ -2067,12 +2067,10 @@ function companions(){
     .forEach(t => (t.cooc || []).forEach(c => {
     const hasCounts = c.length > 3 && typeof c[3] === 'number';
     const n = hasCounts ? c[3] : null, prior = hasCounts ? (c[4] || 0) : null;
-    // the collector's direction comes from the raw pair counts; the row
-    // shows the verified ones. Let the numbers a reader can see decide.
-    const dir = !hasCounts ? (c[2] || 'steady')
-      : !prior ? 'new'
-      : n > prior ? 'rising'
-      : n < prior ? 'falling' : 'steady';
+    // the collector's direction compares a fortnight with the one before,
+    // both on the same basis. The row's article count spans the whole
+    // window, so it cannot decide which section this belongs in.
+    const dir = c[2] || 'steady';
     if (dir !== 'new' && dir !== 'rising') return;
     const lift = c.length > 5 ? c[5] : 0;
     const arts = c.length > 6 && Array.isArray(c[6]) ? c[6] : [];
@@ -2184,8 +2182,7 @@ function companions(){
   const card = (r, i) => {
     const v = r.n || r.weight * 10 || 0;
     const c = r.dir === 'new' ? 'var(--signal)' : 'var(--heat)';
-    const mult = r.prior ? ` · ${(r.n / r.prior).toFixed(1)}×` : '';
-    const aid = 'ca' + i + '-' + (r.phrase.replace(/[^a-z0-9]+/g, '-'));
+      const aid = 'ca' + i + '-' + (r.phrase.replace(/[^a-z0-9]+/g, '-'));
     return `<div class="compcard">
       <span class="bar" style="width:${Math.max(5, Math.round(v / bmax * 100))}%;
         background:${c};opacity:.18;border-left:3px solid ${c}"></span>
@@ -2203,8 +2200,9 @@ function companions(){
               title="Open ${p}">${p}</a>`).join(', ')}${
           r.parents.length > 2 ? ` +${r.parents.length-2}` : ''}</div>
         <div class="compmeta">
-          <span>${r.n === null ? '—' : r.n} article${r.n === 1 ? '' : 's'}${
-            r.prior ? ` · was ${r.prior}${mult}` : ''}</span>
+          <abbr class="why" tabindex="0" data-why="cooccount">${
+            r.n === null ? '—' : r.n} article${r.n === 1 ? '' : 's'}
+            carrying both</abbr>
         </div>
         ${r.arts && r.arts.length ? `
         <button class="showarts" data-arts="${aid}" aria-expanded="false">
@@ -2502,6 +2500,10 @@ const EXPLAIN = {
   micstart: 'This sector\u2019s own coverage began around the same time, so the '
           + 'phrase may have been in use there earlier. It arrived when we started '
           + 'listening, which is not the same as arriving in the sector.',
+  cooccount: 'Articles across the visible window that carry both this '
+           + 'phrase and the one it sits under. The section above says '
+           + 'whether the pairing is new or rising, which compares this '
+           + 'fortnight with the one before.',
   nuance: 'Every companion on this page also appears under its own phrase. This '
         + 'tab gathers only those that changed: pairings not seen in the fortnight '
         + 'before, or ones being used more than they were. A phrase page lists '

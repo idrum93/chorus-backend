@@ -51,7 +51,7 @@ VERSION = "v3"
 # Bump this whenever extraction changes — including companies.json and the
 # stop lists, which feed it. Without a bump, stored grams keep the old rules
 # and the change appears to have done nothing.
-EXTRACT_VERSION = 243
+EXTRACT_VERSION = 244
 UA     = "crosstalk-monitor/3.0 (news language monitoring; crosstalkwire.com)"
 KEY    = os.environ.get("NEWSAPI_AI_KEY", "").strip()
 
@@ -2295,12 +2295,15 @@ def build(conn):
         together, drop_pairs, shown_n = {}, set(), {}
         for o, _n in partners:
             def pair_rows(patterns, limit):
+                # the visible window, not the fortnight: a partner proposed on
+                # a fortnight's counts can be evidenced from the whole period
+                # the phrase page already shows
                 clause = " AND ".join(
                     ["LOWER(title || '. ' || COALESCE(summary,'')) LIKE ?"] * len(patterns))
                 return list(conn.execute(
                     "SELECT title, url, publisher, sector, summary FROM articles "
                     f"WHERE published>=? AND {clause} ORDER BY published DESC LIMIT ?",
-                    tuple([recent_start] + patterns + [limit])))
+                    tuple([window_start] + patterns + [limit])))
 
             rows2 = []
             pg, po = gap_pattern(gram), gap_pattern(o)
