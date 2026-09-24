@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-24T04:44:21.697044+00:00",
+ "generated": "2026-09-24T05:02:01.410724+00:00",
  "placeWords": [
   "africa",
   "alberta",
@@ -9060,7 +9060,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.17,
+   "relRatio": 1.18,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.8,
@@ -9595,7 +9595,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.7,
+   "relRatio": 0.71,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.8,
@@ -10322,7 +10322,7 @@
      "n": 1
     }
    ],
-   "relRatio": 1.26,
+   "relRatio": 1.27,
    "docFreq": 0.0004,
    "specificity": 0.985,
    "homeShare": 0.833,
@@ -10934,7 +10934,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.7,
+   "relRatio": 0.71,
    "docFreq": 0.0003,
    "specificity": 0.99,
    "homeShare": 0.8,
@@ -12114,7 +12114,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.87,
+   "relRatio": 0.88,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.75,
@@ -12714,7 +12714,7 @@
      "n": 1
     }
    ],
-   "relRatio": 0.87,
+   "relRatio": 0.88,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.8,
@@ -14445,7 +14445,7 @@
      "n": 0
     }
    ],
-   "relRatio": 4.2,
+   "relRatio": 4.24,
    "docFreq": 0.0003,
    "specificity": 0.99,
    "homeShare": 0.8,
@@ -15045,7 +15045,7 @@
      "n": 1
     }
    ],
-   "relRatio": 0.7,
+   "relRatio": 0.71,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.75,
@@ -15598,7 +15598,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.7,
+   "relRatio": 0.71,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.8,
@@ -16195,7 +16195,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.17,
+   "relRatio": 1.18,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.667,
@@ -16735,7 +16735,7 @@
      "n": 0
     }
    ],
-   "relRatio": 2.8,
+   "relRatio": 2.83,
    "docFreq": 0.0002,
    "specificity": 0.994,
    "homeShare": 0.667,
@@ -17266,7 +17266,7 @@
      "n": 0
     }
    ],
-   "relRatio": 3.5,
+   "relRatio": 3.54,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.6,
@@ -17913,58 +17913,62 @@
    ]
   },
   {
-   "id": "crew-member",
-   "term": "crew member",
-   "direction": "steady",
-   "ratio": 0.2719716118996694,
+   "id": "stainless-steel",
+   "term": "stainless steel",
+   "direction": "falling",
+   "ratio": 0.18131440793311296,
    "display": true,
-   "adoptionSpan": 4,
-   "pace": "simultaneous",
+   "adoptionSpan": 1,
+   "pace": "mixed",
    "kind": "concept",
    "sectorCount": 2,
-   "effectiveSectors": 1.84,
-   "newestSector": "Supply chain",
-   "daysSinceNewestSector": 44,
+   "effectiveSectors": 1.96,
+   "newestSector": "Materials",
+   "daysSinceNewestSector": 51,
    "articles14d": 3,
-   "articlesPrior14d": 2,
+   "articlesPrior14d": 3,
    "publishers": 3,
    "events": 3,
    "topPubShare": 0.333,
    "sectors": [
     {
-     "name": "Energy",
-     "firstSeen": "2026-08-07",
-     "recent": 1,
-     "articles": 3,
-     "share": 0.333,
-     "atSectorStart": false,
-     "grip": 0.167,
-     "outlets": 1,
-     "adopt": 41,
-     "daysSince": 48
-    },
-    {
-     "name": "Supply chain",
-     "firstSeen": "2026-08-11",
+     "name": "Industrials",
+     "firstSeen": "2026-08-03",
      "recent": 2,
-     "articles": 7,
+     "articles": 6,
      "share": 0.667,
      "atSectorStart": false,
      "grip": 0.286,
      "outlets": 2,
-     "adopt": 45,
-     "daysSince": 44
+     "adopt": 37,
+     "daysSince": 52
+    },
+    {
+     "name": "Materials",
+     "firstSeen": "2026-08-04",
+     "recent": 1,
+     "articles": 4,
+     "share": 0.333,
+     "atSectorStart": false,
+     "grip": 0.2,
+     "outlets": 1,
+     "adopt": 38,
+     "daysSince": 51
     }
    ],
    "sinceStart": false,
    "origins": [
     [
-     "GR",
+     "US",
      6
     ],
     [
-     "US",
+     "IN",
      3
+    ],
+    [
+     "AU",
+     1
     ],
     [
      "SG",
@@ -17989,6 +17993,42 @@
     ],
     "bands": [
      {
+      "sector": "Industrials",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       1,
+       0,
+       0,
+       2,
+       0,
+       2,
+       0
+      ]
+     },
+     {
+      "sector": "Materials",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       2,
+       0,
+       0,
+       1,
+       0,
+       0,
+       1,
+       0
+      ]
+     },
+     {
       "sector": "Supply chain",
       "n": [
        0,
@@ -17997,31 +18037,13 @@
        0,
        0,
        0,
-       4,
-       0,
-       0,
-       1,
-       0,
-       1,
-       1
-      ]
-     },
-     {
-      "sector": "Energy",
-      "n": [
-       0,
-       0,
        0,
        0,
        0,
        1,
        0,
        0,
-       0,
-       1,
-       0,
-       0,
-       1
+       0
       ]
      }
     ]
@@ -18029,31 +18051,31 @@
    "cooc": [],
    "examples": [
     {
-     "publisher": "OilPrice",
-     "title": "Is China's Secret Power Advantage About To Trigger An 89% Crash In U.S. AI Stock",
-     "url": "https://oilprice.com/Energy/Energy-General/Is-Chinas-Secret-Power-Advantage-About-To-Trigger-An-89-Crash-In-US-AI-Stock.html",
-     "date": "2026-09-22",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026ck's 2001: A Space Odyssey. After a \u2f00crew member\u2f01 questions HAL's diagnosis of a faulty antenna, the system secretly lip?reads the astronauts, discovers their\u2026"
-    },
-    {
-     "publisher": "Container News",
-     "title": "25 crew rescued after abandoning MSC Hermes III",
-     "url": "https://container-news.com/25-crew-rescued-after-abandoning-msc-hermes-iii/",
-     "date": "2026-09-22",
-     "sector": "Supply chain",
-     "country": "GR",
-     "quote": "All 25 \u2f00crew members\u2f01 aboard the container vessel MSC Hermes III have been safely rescued after abandoning the ship in a lifeboat,\u2026"
-    },
-    {
-     "publisher": "Seatrade Maritime",
-     "title": "Missing \u2f00crew member\u2f01 from Hercules Star attack found dead",
-     "url": "https://www.seatrade-maritime.com/security/missing-crew-member-from-hercules-star-attack-found-dead",
+     "publisher": "Manufacturers' Monthly",
+     "title": "Lorch expands iQS capabilities with SpeedWave XT technology",
+     "url": "https://www.manmonthly.com.au/lorch-expands-iqs-capabilities-with-speedwave-xt-technology/",
      "date": "2026-09-18",
-     "sector": "Supply chain",
-     "country": "SG",
-     "quote": ""
+     "sector": "Industrials",
+     "country": "AU",
+     "quote": "\u2026d process technology for aluminium, \u2f00stainless steel\u2f01 and applications. The rapid evolution of industrial manufacturing continues to place greater demands on weldi\u2026"
+    },
+    {
+     "publisher": "Modern Machine Shop",
+     "title": "Feeling Challenged with Direct Part Marking on \u2f00Stainless Steel\u2f01?",
+     "url": "https://www.mmsonline.com/articles/feeling-challenged-with-direct-part-marking-on-stainless-steel",
+     "date": "2026-09-17",
+     "sector": "Industrials",
+     "country": "US",
+     "quote": "\u2026arking challenges for medical-grade \u2f00stainless steel\u2f01."
+    },
+    {
+     "publisher": "Mining.com",
+     "title": "EU objects to MMG's Anglo American nickel deal",
+     "url": "https://www.mining.com/eu-objects-to-mmgs-anglo-american-nickel-deal/",
+     "date": "2026-09-16",
+     "sector": "Materials",
+     "country": "US",
+     "quote": "\u2026ow-carbon ferronickel from European \u2f00stainless steel\u2f01 producers."
     }
    ],
    "daily": [
@@ -18207,15 +18229,15 @@
     },
     {
      "day": "2026-08-03",
-     "n": 0
+     "n": 1
     },
     {
      "day": "2026-08-04",
-     "n": 0
+     "n": 1
     },
     {
      "day": "2026-08-05",
-     "n": 0
+     "n": 1
     },
     {
      "day": "2026-08-06",
@@ -18223,7 +18245,7 @@
     },
     {
      "day": "2026-08-07",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-08-08",
@@ -18231,7 +18253,7 @@
     },
     {
      "day": "2026-08-09",
-     "n": 0
+     "n": 1
     },
     {
      "day": "2026-08-10",
@@ -18239,11 +18261,11 @@
     },
     {
      "day": "2026-08-11",
-     "n": 2
+     "n": 0
     },
     {
      "day": "2026-08-12",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-08-13",
@@ -18251,7 +18273,7 @@
     },
     {
      "day": "2026-08-14",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-08-15",
@@ -18303,7 +18325,7 @@
     },
     {
      "day": "2026-08-27",
-     "n": 0
+     "n": 1
     },
     {
      "day": "2026-08-28",
@@ -18315,7 +18337,7 @@
     },
     {
      "day": "2026-08-30",
-     "n": 0
+     "n": 1
     },
     {
      "day": "2026-08-31",
@@ -18331,11 +18353,11 @@
     },
     {
      "day": "2026-09-03",
-     "n": 1
+     "n": 0
     },
     {
      "day": "2026-09-04",
-     "n": 0
+     "n": 1
     },
     {
      "day": "2026-09-05",
@@ -18383,11 +18405,11 @@
     },
     {
      "day": "2026-09-16",
-     "n": 0
+     "n": 1
     },
     {
      "day": "2026-09-17",
-     "n": 0
+     "n": 1
     },
     {
      "day": "2026-09-18",
@@ -18407,7 +18429,7 @@
     },
     {
      "day": "2026-09-22",
-     "n": 2
+     "n": 0
     },
     {
      "day": "2026-09-23",
@@ -18418,12 +18440,12 @@
      "n": 0
     }
    ],
-   "relRatio": 1.05,
+   "relRatio": 0.71,
    "docFreq": 0.0001,
    "specificity": 0.995,
    "homeShare": 0.667,
-   "daysSeen": 2,
-   "rank": 0.89
+   "daysSeen": 3,
+   "rank": 0.875
   },
   {
    "id": "mass-production",
@@ -20411,7 +20433,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.64,
+   "relRatio": 0.65,
    "docFreq": 0.0005,
    "specificity": 0.982,
    "homeShare": 0.889,
@@ -21093,7 +21115,7 @@
      "n": 1
     }
    ],
-   "relRatio": 1.2,
+   "relRatio": 1.21,
    "docFreq": 0.0006,
    "specificity": 0.981,
    "homeShare": 0.9,
@@ -21803,7 +21825,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.05,
+   "relRatio": 1.06,
    "docFreq": 0.0006,
    "specificity": 0.981,
    "homeShare": 0.889,
@@ -22517,7 +22539,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.17,
+   "relRatio": 1.18,
    "docFreq": 0.0007,
    "specificity": 0.976,
    "homeShare": 0.923,
@@ -23145,7 +23167,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.4,
+   "relRatio": 1.41,
    "docFreq": 0.0003,
    "specificity": 0.99,
    "homeShare": 0.833,
@@ -23848,7 +23870,7 @@
      "n": 0
     }
    ],
-   "relRatio": 3.03,
+   "relRatio": 3.06,
    "docFreq": 0.0006,
    "specificity": 0.979,
    "homeShare": 0.917,
@@ -24428,7 +24450,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.93,
+   "relRatio": 0.94,
    "docFreq": 0.0004,
    "specificity": 0.987,
    "homeShare": 0.875,
@@ -25025,7 +25047,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.28,
+   "relRatio": 1.3,
    "docFreq": 0.0005,
    "specificity": 0.982,
    "homeShare": 0.727,
@@ -25658,7 +25680,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.98,
+   "relRatio": 0.99,
    "docFreq": 0.0003,
    "specificity": 0.989,
    "homeShare": 0.833,
@@ -26990,7 +27012,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.78,
+   "relRatio": 0.79,
    "docFreq": 0.0005,
    "specificity": 0.984,
    "homeShare": 0.875,
@@ -27776,7 +27798,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.81,
+   "relRatio": 0.82,
    "docFreq": 0.0015,
    "specificity": 0.951,
    "homeShare": 0.767,
@@ -28450,7 +28472,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.93,
+   "relRatio": 0.94,
    "docFreq": 0.0006,
    "specificity": 0.981,
    "homeShare": 0.909,
@@ -29084,7 +29106,7 @@
      "n": 0
     }
    ],
-   "relRatio": 3.5,
+   "relRatio": 3.54,
    "docFreq": 0.0005,
    "specificity": 0.984,
    "homeShare": 0.857,
@@ -29866,7 +29888,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.47,
+   "relRatio": 0.48,
    "docFreq": 0.0009,
    "specificity": 0.969,
    "homeShare": 0.833,
@@ -30500,7 +30522,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.87,
+   "relRatio": 1.89,
    "docFreq": 0.0008,
    "specificity": 0.974,
    "homeShare": 0.867,
@@ -31336,7 +31358,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.14,
+   "relRatio": 1.15,
    "docFreq": 0.0025,
    "specificity": 0.916,
    "homeShare": 0.824,
@@ -31908,7 +31930,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.7,
+   "relRatio": 0.71,
    "docFreq": 0.0003,
    "specificity": 0.99,
    "homeShare": 0.8,
@@ -32978,7 +33000,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.7,
+   "relRatio": 0.71,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.8,
@@ -33592,7 +33614,7 @@
    "variants": [
     "ukrainian drone attack"
    ],
-   "relRatio": 1.05,
+   "relRatio": 1.06,
    "docFreq": 0.0004,
    "specificity": 0.985,
    "homeShare": 0.857,
@@ -34186,7 +34208,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.93,
+   "relRatio": 0.94,
    "docFreq": 0.0002,
    "specificity": 0.994,
    "homeShare": 0.75,
@@ -34952,7 +34974,7 @@
     "crude oil price",
     "crude oil production"
    ],
-   "relRatio": 1.2,
+   "relRatio": 1.21,
    "docFreq": 0.002,
    "specificity": 0.934,
    "homeShare": 0.846,
@@ -35500,7 +35522,7 @@
      "n": 0
     }
    ],
-   "relRatio": 2.8,
+   "relRatio": 2.83,
    "docFreq": 0.0002,
    "specificity": 0.994,
    "homeShare": 0.75,
@@ -36699,7 +36721,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.23,
+   "relRatio": 1.24,
    "docFreq": 0.0003,
    "specificity": 0.989,
    "homeShare": 0.75,
@@ -37234,7 +37256,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.75,
+   "relRatio": 1.77,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.8,
@@ -37901,7 +37923,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.6,
+   "relRatio": 1.62,
    "docFreq": 0.0008,
    "specificity": 0.974,
    "homeShare": 0.8,
@@ -38378,7 +38400,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.17,
+   "relRatio": 1.18,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.8,
@@ -38936,7 +38958,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.4,
+   "relRatio": 1.41,
    "docFreq": 0.0002,
    "specificity": 0.994,
    "homeShare": 0.75,
@@ -39525,7 +39547,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.7,
+   "relRatio": 0.71,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.8,
@@ -40690,7 +40712,7 @@
      "n": 0
     }
    ],
-   "relRatio": 2.1,
+   "relRatio": 2.12,
    "docFreq": 0.0001,
    "specificity": 0.995,
    "homeShare": 0.667,
@@ -41208,7 +41230,7 @@
      "n": 0
     }
    ],
-   "relRatio": 2.8,
+   "relRatio": 2.83,
    "docFreq": 0.0002,
    "specificity": 0.994,
    "homeShare": 0.75,
@@ -42667,7 +42689,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.93,
+   "relRatio": 0.94,
    "docFreq": 0.0004,
    "specificity": 0.987,
    "homeShare": 0.75,
@@ -43211,7 +43233,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.84,
+   "relRatio": 0.85,
    "docFreq": 0.0003,
    "specificity": 0.99,
    "homeShare": 0.833,
@@ -43846,7 +43868,7 @@
      "n": 2
     }
    ],
-   "relRatio": 1.0,
+   "relRatio": 1.01,
    "docFreq": 0.0005,
    "specificity": 0.984,
    "homeShare": 0.7,
@@ -44663,7 +44685,7 @@
     "liquefied natural gas",
     "natural gas lng"
    ],
-   "relRatio": 0.87,
+   "relRatio": 0.88,
    "docFreq": 0.0015,
    "specificity": 0.95,
    "homeShare": 0.7,
@@ -45257,7 +45279,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.87,
+   "relRatio": 1.89,
    "docFreq": 0.0004,
    "specificity": 0.987,
    "homeShare": 0.833,
@@ -46213,7 +46235,7 @@
     "data center campus",
     "data center developer"
    ],
-   "relRatio": 0.7,
+   "relRatio": 0.71,
    "docFreq": 0.0095,
    "specificity": 0.684,
    "homeShare": 0.749,
@@ -46806,7 +46828,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.62,
+   "relRatio": 0.63,
    "docFreq": 0.0004,
    "specificity": 0.987,
    "homeShare": 0.75,
@@ -47404,7 +47426,7 @@
      "n": 1
     }
    ],
-   "relRatio": 1.4,
+   "relRatio": 1.41,
    "docFreq": 0.0005,
    "specificity": 0.984,
    "homeShare": 0.7,
@@ -48088,7 +48110,7 @@
      "n": 0
     }
    ],
-   "relRatio": 1.63,
+   "relRatio": 1.65,
    "docFreq": 0.0003,
    "specificity": 0.989,
    "homeShare": 0.6,
@@ -48686,7 +48708,7 @@
      "n": 1
     }
    ],
-   "relRatio": 0.7,
+   "relRatio": 0.71,
    "docFreq": 0.0003,
    "specificity": 0.99,
    "homeShare": 0.667,
@@ -49328,7 +49350,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.84,
+   "relRatio": 0.85,
    "docFreq": 0.0003,
    "specificity": 0.99,
    "homeShare": 0.8,
@@ -50654,7 +50676,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.61,
+   "relRatio": 0.62,
    "docFreq": 0.0003,
    "specificity": 0.989,
    "homeShare": 0.714,
@@ -51199,7 +51221,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.52,
+   "relRatio": 0.53,
    "docFreq": 0.0001,
    "specificity": 0.995,
    "homeShare": 0.667,
@@ -51862,7 +51884,7 @@
    "variants": [
     "hormuz tanker"
    ],
-   "relRatio": 2.03,
+   "relRatio": 2.05,
    "docFreq": 0.0014,
    "specificity": 0.953,
    "homeShare": 0.643,
@@ -52437,7 +52459,7 @@
     "air defense system",
     "air defense"
    ],
-   "relRatio": 0.56,
+   "relRatio": 0.57,
    "docFreq": 0.0002,
    "specificity": 0.994,
    "homeShare": 0.667,
@@ -52991,7 +53013,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.87,
+   "relRatio": 0.88,
    "docFreq": 0.0002,
    "specificity": 0.992,
    "homeShare": 0.75,
@@ -53598,7 +53620,7 @@
      "n": 0
     }
    ],
-   "relRatio": 2.45,
+   "relRatio": 2.47,
    "docFreq": 0.0003,
    "specificity": 0.989,
    "homeShare": 0.667,
@@ -54120,7 +54142,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.7,
+   "relRatio": 0.71,
    "docFreq": 0.0002,
    "specificity": 0.994,
    "homeShare": 0.75,
@@ -54655,7 +54677,7 @@
      "n": 0
     }
    ],
-   "relRatio": 2.1,
+   "relRatio": 2.12,
    "docFreq": 0.0001,
    "specificity": 0.995,
    "homeShare": 0.667,
@@ -55244,7 +55266,7 @@
      "n": 0
     }
    ],
-   "relRatio": 2.45,
+   "relRatio": 2.47,
    "docFreq": 0.0003,
    "specificity": 0.989,
    "homeShare": 0.667,
@@ -55822,7 +55844,7 @@
      "n": 0
     }
    ],
-   "relRatio": 0.7,
+   "relRatio": 0.71,
    "docFreq": 0.0001,
    "specificity": 0.995,
    "homeShare": 0.667,
@@ -56725,7 +56747,7 @@
     "middle east conflict",
     "middle eastern"
    ],
-   "relRatio": 1.04,
+   "relRatio": 1.05,
    "docFreq": 0.0033,
    "specificity": 0.891,
    "homeShare": 0.463,
@@ -57370,7 +57392,7 @@
      "n": 0
     }
    ],
-   "relRatio": 7.0,
+   "relRatio": 7.07,
    "docFreq": 0.0005,
    "specificity": 0.984,
    "homeShare": 0.667,
@@ -58393,7 +58415,7 @@
      "n": 0
     }
    ],
-   "relRatio": 2.8,
+   "relRatio": 2.83,
    "docFreq": 0.0002,
    "specificity": 0.994,
    "homeShare": 0.667,
