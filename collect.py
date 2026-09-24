@@ -51,7 +51,7 @@ VERSION = "v3"
 # Bump this whenever extraction changes — including companies.json and the
 # stop lists, which feed it. Without a bump, stored grams keep the old rules
 # and the change appears to have done nothing.
-EXTRACT_VERSION = 240
+EXTRACT_VERSION = 242
 UA     = "crosstalk-monitor/3.0 (news language monitoring; crosstalkwire.com)"
 KEY    = os.environ.get("NEWSAPI_AI_KEY", "").strip()
 
@@ -279,6 +279,7 @@ framework approach strategy initiative solution opportunity challenge
 landscape ecosystem journey transformation adoption implementation
 outlook sentiment momentum trajectory alignment engagement governance
 stage stages phase phases milestone milestones threshold thresholds
+term terms horizon horizons timeframe timeframes outlook
 approval approvals principle principles leader leaders pioneer pioneers
 critical essential vital crucial optimal robust seamless scalable
 specialist specialists provider providers player players innovator
@@ -318,6 +319,7 @@ officer officers executive executives
 investor investors shareholder shareholders stakeholder stakeholders
 lender lenders borrower borrowers buyer buyers seller sellers
 journal gazette chronicle herald tribune dispatch bulletin newswire
+emerging evolving growing expanding broader wider overall
 jointly newly recently previously formerly largely widely mainly
 chinese american european japanese korean german indian british french
 singapore australian canadian brazilian mexican dutch swiss nordic
@@ -595,6 +597,7 @@ STOCK_PHRASES = {
     "full scale", "large scale", "small scale", "commercial scale",
     "public offering", "public offering ipo", "offering ipo",
     "initial public", "rights issue", "stock exchange listing",
+    "stock exchange", "exchange listing", "global network", "global footprint",
     "launch event", "product launch", "launch ceremony", "unveiling ceremony",
     "press conference", "press release", "trade show", "industry event",
     "networking event", "ribbon cutting", "groundbreaking ceremony",
@@ -1954,6 +1957,9 @@ def home_sector(t):
     return max(t["sectors"],
                key=lambda s: (s.get("share", 0), s["articles"]))["name"]
 
+_coocstage = Counter()
+
+
 def build(conn):
     _t0 = time.time()
     days = days_back(WINDOW_DAYS)
@@ -2249,6 +2255,8 @@ def build(conn):
         chosen.sort(key=lambda o: -recent_p[o])
         chosen = chosen[:24]          # lift decides which six survive
         partners = [(o, recent_p[o]) for o in chosen]
+        _coocstage["candidates"] += len(recent_p)
+        _coocstage["after lift"] += len(chosen)
         mx = max([n for _, n in partners], default=1)
         # Lift, as the regional view uses: how much more often this companion
         # appears with this phrase than with the corpus at large. Ranking by raw
@@ -2747,6 +2755,12 @@ def build(conn):
     if fam_shown:
         print("  subjects in the shown list · " + ", ".join(
             f"{f} {n}" for f, n in fam_shown.most_common(6)))
+    if _coocstage:
+        kept = sum(len(t.get("cooc") or []) for t in out if t.get("display", True))
+        print("  companion stages · " + ", ".join(
+            f"{k} {v:,}" for k, v in _coocstage.items())
+            + f", on shown phrases {kept:,}")
+
     mix = Counter(d for t in out if t.get("display", True)
                   for c in (t.get("cooc") or []) for d in [c[2] or "steady"])
     if mix:
