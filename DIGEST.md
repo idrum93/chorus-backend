@@ -1,31 +1,31 @@
 # Crosstalk — week ending 24 September 2026
 
-*22,220 articles over 176 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*22,368 articles over 176 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
-**[driver assistance](https://crosstalkwire.com/#driver-assistance)** — Autos, Technology, 5 articles across 4 newsrooms
+**[driver assistance](https://crosstalkwire.com/#driver-assistance)** — Autos, Technology, 6 articles across 4 newsrooms
+**[energy infrastructure](https://crosstalkwire.com/#energy-infrastructure)** — Energy, Utilities, 10 articles across 5 newsrooms
 **[battery pack](https://crosstalkwire.com/#battery-pack)** — Autos, Technology, 5 articles across 4 newsrooms
-**[energy infrastructure](https://crosstalkwire.com/#energy-infrastructure)** — Energy, Utilities, 9 articles across 5 newsrooms
 **[storage facility](https://crosstalkwire.com/#storage-facility)** — Energy, Utilities, 6 articles across 3 newsrooms
 **[crude tanker](https://crosstalkwire.com/#crude-tanker)** — Energy, Supply chain, 6 articles across 3 newsrooms
-**[autonomous vehicle](https://crosstalkwire.com/#autonomous-vehicle)** — Autos, Technology, 5 articles across 4 newsrooms
-
-## Crossed into a new sector this week
-
-**energy supply** — now in 3 sectors. **Supply chain** picked it up 3d ago; it was first recorded in energy coverage on 3 August 2026.
-  - [DHL ramps up battery logistics network worldwide](https://theloadstar.com/dhl-ramps-up-battery-logistics-network-worldwide/) · The Loadstar · supply chain
-  - [ATE Energy brings new cable layer into Taiwan market](https://splash247.com/ate-energy-brings-new-cable-layer-into-taiwan-market/) · Splash247 · supply chain
+**[power demand](https://crosstalkwire.com/#power-demand)** — Energy, Technology, 5 articles across 4 newsrooms
 
 ## Being used more than a fortnight ago
 
-**[energy infrastructure](https://crosstalkwire.com/#energy-infrastructure)** — 9 articles, 1.8× the fortnight before, in utilities, energy
+**[driver assistance](https://crosstalkwire.com/#driver-assistance)** — 6 articles, 2.0× the fortnight before, in technology, autos
 
-**[energy supply](https://crosstalkwire.com/#energy-supply)** — 7 articles, 1.8× the fortnight before, in energy, technology, supply chain
+**[energy infrastructure](https://crosstalkwire.com/#energy-infrastructure)** — 10 articles, 2.0× the fortnight before, in utilities, energy
 
-**[driver assistance](https://crosstalkwire.com/#driver-assistance)** — 5 articles, 1.7× the fortnight before, in technology, autos
+**[use case](https://crosstalkwire.com/#use-case)** — 6 articles, 2.0× the fortnight before, in technology, autos
 
 **[processing facility](https://crosstalkwire.com/#processing-facility)** — 5 articles, 1.7× the fortnight before, in materials, energy
+
+## Being discussed alongside
+
+**energy infrastructure** — natural gas
+**battery pack** — production equipment
+**autonomous vehicle** — ride hailing
 
 ---
 
