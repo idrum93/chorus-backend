@@ -1,31 +1,29 @@
-# Crosstalk — week ending 23 September 2026
+# Crosstalk — week ending 24 September 2026
 
-*22,107 articles over 175 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*22,209 articles over 176 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
 **[driver assistance](https://crosstalkwire.com/#driver-assistance)** — Autos, Technology, 5 articles across 4 newsrooms
 **[battery pack](https://crosstalkwire.com/#battery-pack)** — Autos, Technology, 5 articles across 4 newsrooms
-**[energy infrastructure](https://crosstalkwire.com/#energy-infrastructure)** — Energy, Utilities, 8 articles across 5 newsrooms
+**[energy infrastructure](https://crosstalkwire.com/#energy-infrastructure)** — Energy, Utilities, 9 articles across 5 newsrooms
+**[storage facility](https://crosstalkwire.com/#storage-facility)** — Energy, Utilities, 6 articles across 3 newsrooms
 **[crude tanker](https://crosstalkwire.com/#crude-tanker)** — Energy, Supply chain, 6 articles across 3 newsrooms
-**[bond yield](https://crosstalkwire.com/#bond-yield)** — Energy, Finance, 4 articles across 3 newsrooms
 **[autonomous vehicle](https://crosstalkwire.com/#autonomous-vehicle)** — Autos, Technology, 5 articles across 4 newsrooms
 
 ## Being used more than a fortnight ago
 
-**[driver assistance](https://crosstalkwire.com/#driver-assistance)** — 5 articles, 1.7× the fortnight before, in technology, autos
+**[energy infrastructure](https://crosstalkwire.com/#energy-infrastructure)** — 9 articles, 1.8× the fortnight before, in utilities, energy
 
-**[power station](https://crosstalkwire.com/#power-station)** — 5 articles, 1.7× the fortnight before, in utilities, energy
+**[driver assistance](https://crosstalkwire.com/#driver-assistance)** — 5 articles, 1.7× the fortnight before, in technology, autos
 
 **[processing facility](https://crosstalkwire.com/#processing-facility)** — 5 articles, 1.7× the fortnight before, in materials, energy
 
-**[stock exchange](https://crosstalkwire.com/#stock-exchange)** — 13 articles, 1.6× the fortnight before, in technology, supply chain, finance
+## Being discussed alongside
 
-**[energy infrastructure](https://crosstalkwire.com/#energy-infrastructure)** — 8 articles, 1.6× the fortnight before, in utilities, energy
-
-**[emerging technology](https://crosstalkwire.com/#emerging-technology)** — 6 articles, 1.5× the fortnight before, in technology, energy
-
-**[storage facility](https://crosstalkwire.com/#storage-facility)** — 7 articles, 1.4× the fortnight before, in utilities, energy
+**autonomous vehicle** — ride hailing
+**grid forming** — battery energy storage
+**processing facility** — critical mineral
 
 ---
 
