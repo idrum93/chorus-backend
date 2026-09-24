@@ -838,7 +838,7 @@ li.brk i{flex:1;height:0;border-top:1px solid var(--ink-2);opacity:.75}
     <div class="stamps">
       <button class="whatis" id="whatis" type="button" aria-expanded="false"
         aria-controls="whatbox" aria-label="What is Crosstalk?">?</button>
-      <span class="build hide" title="Dashboard build. Quote this if something looks wrong.">build b463830</span>
+      <span class="build hide" title="Dashboard build. Quote this if something looks wrong.">build ab49ff5</span>
       <div class="whatbox hide" id="whatbox" role="note"><b>Crosstalk:</b>
         talk that carries between groups that do not usually share it. This site
         reads 84 trade publications across 14 sectors every few hours and shows
@@ -2160,6 +2160,13 @@ function companions(){
     return out;
   };
 
+  // a list of brand new phrases has no coverage for pairings to form in,
+  // which is a different thing from nothing being alongside them
+  const inScope = termsInScope(true).filter(t => t.display !== false);
+  const shownPhrases = inScope.length;
+  const newPhrases = inScope.filter(t => t.direction === 'new'
+    || (t.articlesPrior14d || 0) === 0).length;
+
   const rising = list.filter(r => r.dir === 'rising')
     .sort((a, b) => (b.n / Math.max(1, b.prior)) - (a.n / Math.max(1, a.prior))
                     || ((b.lift || 0) - (a.lift || 0)) || b.growth - a.growth);
@@ -2223,8 +2230,9 @@ function companions(){
               risingCapped)
     + section('First appearance', 'no coverage in the 14 days before — thinner evidence, '
               + 'and a newly added publication can produce these', fresh)
-    : `<p class="empty" style="padding:var(--pad) 2px">Nothing new alongside the tracked
-       phrases in the last 14 days.</p>`;
+    : `<p class="empty" style="padding:var(--pad) 2px;max-width:60ch;line-height:1.5">${newPhrases >= shownPhrases - 1
+        ? `Nothing yet. A pairing needs two articles carrying both phrases inside the fortnight, and almost every phrase on this list arrived this fortnight \u2014 there has not been enough coverage for pairings to form.`
+        : `Nothing new alongside the tracked phrases in the last 14 days.`}</p>`;
 
   const clear = $('comp-clear');
   if (clear) clear.addEventListener('click', e => {
