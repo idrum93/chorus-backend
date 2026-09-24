@@ -51,7 +51,7 @@ VERSION = "v3"
 # Bump this whenever extraction changes — including companies.json and the
 # stop lists, which feed it. Without a bump, stored grams keep the old rules
 # and the change appears to have done nothing.
-EXTRACT_VERSION = 242
+EXTRACT_VERSION = 243
 UA     = "crosstalk-monitor/3.0 (news language monitoring; crosstalkwire.com)"
 KEY    = os.environ.get("NEWSAPI_AI_KEY", "").strip()
 
@@ -317,6 +317,8 @@ spokesperson spokesman spokeswoman chairman chairwoman minister ministers
 official officials regulator regulators analyst analysts
 officer officers executive executives
 investor investors shareholder shareholders stakeholder stakeholders
+member members employee employees worker workers staffer staffers
+resident residents customer customers passenger passengers
 lender lenders borrower borrowers buyer buyers seller sellers
 journal gazette chronicle herald tribune dispatch bulletin newswire
 emerging evolving growing expanding broader wider overall
