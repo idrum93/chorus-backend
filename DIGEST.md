@@ -1,6 +1,6 @@
 # Crosstalk — week ending 24 September 2026
 
-*22,368 articles over 176 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*22,373 articles over 176 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
@@ -23,9 +23,7 @@
 
 ## Being discussed alongside
 
-**energy infrastructure** — natural gas
 **battery pack** — production equipment
-**autonomous vehicle** — ride hailing
 
 ---
 
