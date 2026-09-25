@@ -1,6 +1,6 @@
-# Crosstalk — week ending 24 September 2026
+# Crosstalk — week ending 25 September 2026
 
-*22,558 articles over 176 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*22,633 articles over 177 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
@@ -13,17 +13,20 @@
 
 ## Being used more than a fortnight ago
 
+**[energy infrastructure](https://crosstalkwire.com/#energy-infrastructure)** — 10 articles, 3.3× the fortnight before, in utilities, energy
+
 **[driver assistance](https://crosstalkwire.com/#driver-assistance)** — 6 articles, 2.0× the fortnight before, in technology, autos
 
-**[energy infrastructure](https://crosstalkwire.com/#energy-infrastructure)** — 10 articles, 2.0× the fortnight before, in utilities, energy
-
-**[use case](https://crosstalkwire.com/#use-case)** — 6 articles, 2.0× the fortnight before, in technology, autos
+**[power demand](https://crosstalkwire.com/#power-demand)** — 5 articles, 1.7× the fortnight before, in energy, technology
 
 **[processing facility](https://crosstalkwire.com/#processing-facility)** — 5 articles, 1.7× the fortnight before, in materials, energy
+
+**[storage facility](https://crosstalkwire.com/#storage-facility)** — 6 articles, 1.5× the fortnight before, in utilities, energy
 
 ## Being discussed alongside
 
 **battery pack** — production equipment
+**feasibility study** — gold copper
 
 ---
 
