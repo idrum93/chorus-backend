@@ -1,6 +1,6 @@
 # Crosstalk — week ending 25 September 2026
 
-*22,913 articles over 177 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*22,917 articles over 177 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
@@ -27,7 +27,7 @@
 
 **autonomous vehicle** — ride hailing
 **grid forming** — battery energy storage
-**feasibility study** — gold copper
+**processing facility** — critical mineral
 
 ---
 
