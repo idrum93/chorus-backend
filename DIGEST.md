@@ -1,6 +1,6 @@
 # Crosstalk — week ending 25 September 2026
 
-*22,887 articles over 177 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*22,913 articles over 177 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
@@ -9,7 +9,7 @@
 **[battery technology](https://crosstalkwire.com/#battery-technology)** — Autos, Technology, 5 articles across 4 newsrooms
 **[storage facility](https://crosstalkwire.com/#storage-facility)** — Energy, Utilities, 7 articles across 3 newsrooms
 **[crude tanker](https://crosstalkwire.com/#crude-tanker)** — Energy, Supply chain, 6 articles across 3 newsrooms
-**[power demand](https://crosstalkwire.com/#power-demand)** — Energy, Technology, 5 articles across 4 newsrooms
+**[gas carrier](https://crosstalkwire.com/#gas-carrier)** — Energy, Supply chain, 4 articles across 3 newsrooms
 
 ## Being used more than a fortnight ago
 
@@ -19,12 +19,14 @@
 
 **[storage facility](https://crosstalkwire.com/#storage-facility)** — 7 articles, 1.8× the fortnight before, in utilities, energy
 
-**[power demand](https://crosstalkwire.com/#power-demand)** — 5 articles, 1.7× the fortnight before, in energy, technology
+**[power station](https://crosstalkwire.com/#power-station)** — 5 articles, 1.7× the fortnight before, in utilities, energy
 
 **[processing facility](https://crosstalkwire.com/#processing-facility)** — 5 articles, 1.7× the fortnight before, in materials, energy
 
 ## Being discussed alongside
 
+**autonomous vehicle** — ride hailing
+**grid forming** — battery energy storage
 **feasibility study** — gold copper
 
 ---
