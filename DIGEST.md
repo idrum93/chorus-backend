@@ -1,6 +1,6 @@
 # Crosstalk — week ending 25 September 2026
 
-*22,753 articles over 177 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*22,877 articles over 177 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
@@ -22,6 +22,12 @@
 **[power demand](https://crosstalkwire.com/#power-demand)** — 5 articles, 1.7× the fortnight before, in energy, technology
 
 **[processing facility](https://crosstalkwire.com/#processing-facility)** — 5 articles, 1.7× the fortnight before, in materials, energy
+
+## Being discussed alongside
+
+**autonomous vehicle** — ride hailing
+**grid forming** — battery energy storage
+**processing facility** — critical mineral
 
 ---
 
