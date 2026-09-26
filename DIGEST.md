@@ -1,6 +1,6 @@
 # Crosstalk — week ending 26 September 2026
 
-*22,984 articles over 179 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*22,992 articles over 179 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
@@ -15,11 +15,11 @@
 
 **[energy infrastructure](https://crosstalkwire.com/#energy-infrastructure)** — 12 articles, 4.0× the fortnight before, in utilities, energy
 
+**[power demand](https://crosstalkwire.com/#power-demand)** — 7 articles, 2.3× the fortnight before, in energy, technology
+
 **[driver assistance](https://crosstalkwire.com/#driver-assistance)** — 6 articles, 2.0× the fortnight before, in technology, autos
 
 **[storage facility](https://crosstalkwire.com/#storage-facility)** — 7 articles, 1.8× the fortnight before, in utilities, energy
-
-**[power station](https://crosstalkwire.com/#power-station)** — 5 articles, 1.7× the fortnight before, in utilities, energy
 
 **[operating system](https://crosstalkwire.com/#operating-system)** — 5 articles, 1.7× the fortnight before, in supply chain, technology
 
