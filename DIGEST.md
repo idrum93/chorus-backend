@@ -1,6 +1,6 @@
-# Crosstalk — week ending 26 September 2026
+# Crosstalk — week ending 27 September 2026
 
-*22,996 articles over 179 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*23,000 articles over 180 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
@@ -14,8 +14,6 @@
 ## Being used more than a fortnight ago
 
 **[energy infrastructure](https://crosstalkwire.com/#energy-infrastructure)** — 12 articles, 4.0× the fortnight before, in utilities, energy
-
-**[power demand](https://crosstalkwire.com/#power-demand)** — 7 articles, 2.3× the fortnight before, in energy, technology
 
 **[driver assistance](https://crosstalkwire.com/#driver-assistance)** — 6 articles, 2.0× the fortnight before, in technology, autos
 
