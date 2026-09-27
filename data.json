@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-27T17:08:41.895303+00:00",
+ "generated": "2026-09-27T21:32:10.409733+00:00",
  "placeWords": [
   "africa",
   "alberta",
@@ -2823,7 +2823,7 @@
  "coverage": [
   [
    "US",
-   11056
+   11059
   ],
   [
    "TW",
@@ -2847,7 +2847,7 @@
   ],
   [
    "GR",
-   892
+   894
   ],
   [
    "SG",
@@ -6462,6 +6462,15 @@
      "variants": [],
      "examples": [
       {
+       "publisher": "OilPrice",
+       "title": "The Next \u2f00Global Energy\u2f01 Crisis Won't Come From Just One Direction",
+       "url": "https://oilprice.com/Energy/Energy-General/The-Next-Global-Energy-Crisis-Wont-Come-From-Just-One-Direction.html",
+       "date": "2026-09-27",
+       "sector": "Energy",
+       "country": "US",
+       "quote": "The next \u2f00global energy\u2f01 crisis is just around the corner. If the past four years have taught us anything, it's that an energy crisis\u2026"
+      },
+      {
        "publisher": "Energy Live News",
        "title": "Infrastructure constraints puts pressure on \u2f00global energy\u2f01 security",
        "url": "https://www.energylivenews.com/2026/09/25/infrastructure-constraints-puts-pressure-on-global-energy-security/",
@@ -6478,15 +6487,6 @@
        "sector": "Energy",
        "country": "US",
        "quote": "\u2026building more LNG import capacity, \u2f00Global Energy\u2f01 Monitor reported. The net-zero think tank said there was some 100 GW in new gas-fired power generation capaci\u2026"
-      },
-      {
-       "publisher": "OilPrice",
-       "title": "\u2f00Global Energy\u2f01 Demand Set to Jump 60% by 2060 as Developing Nations Power Up",
-       "url": "https://oilprice.com/Energy/Energy-General/Global-Energy-Demand-Set-to-Jump-60-by-2060-as-Developing-Nations-Power-Up.html",
-       "date": "2026-09-22",
-       "sector": "Energy",
-       "country": "US",
-       "quote": ""
       }
      ]
     },
@@ -7945,15 +7945,15 @@
  ],
  "filings": {},
  "daysCollected": 180,
- "articlesStored": 23034,
- "articlesLive": 18752,
+ "articlesStored": 23039,
+ "articlesLive": 18757,
  "windowDays": 90,
  "terms": [
   {
    "id": "driver-assistance",
    "term": "driver assistance",
    "direction": "steady",
-   "ratio": 0.32283132812134263,
+   "ratio": 0.3226953673373889,
    "display": true,
    "adoptionSpan": 12,
    "pace": "mixed",
@@ -8504,7 +8504,7 @@
    "id": "energy-infrastructure",
    "term": "energy infrastructure",
    "direction": "rising",
-   "ratio": 0.6456626562426853,
+   "ratio": 0.6453907346747778,
    "display": true,
    "adoptionSpan": 10,
    "pace": "mixed",
@@ -9242,7 +9242,7 @@
    "id": "battery-technology",
    "term": "battery technology",
    "direction": "rising",
-   "ratio": 0.4035391601516783,
+   "ratio": 0.40336920917173613,
    "display": true,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -9854,7 +9854,7 @@
    "id": "storage-facility",
    "term": "storage facility",
    "direction": "steady",
-   "ratio": 0.2824774121061748,
+   "ratio": 0.2823584464202153,
    "display": true,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -11020,7 +11020,7 @@
    "id": "gas-carrier",
    "term": "gas carrier",
    "direction": "steady",
-   "ratio": 0.32283132812134263,
+   "ratio": 0.32269536733738885,
    "display": true,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -11547,7 +11547,7 @@
    "id": "critical-infrastructure",
    "term": "critical infrastructure",
    "direction": "falling",
-   "ratio": 0.20176958007583914,
+   "ratio": 0.20168460458586807,
    "display": true,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -12161,7 +12161,7 @@
    "id": "distribution-network",
    "term": "distribution network",
    "direction": "rising",
-   "ratio": 0.48424699218201395,
+   "ratio": 0.4840430510060833,
    "display": true,
    "adoptionSpan": 43,
    "pace": "gradual",
@@ -12758,7 +12758,7 @@
    "id": "power-demand",
    "term": "power demand",
    "direction": "rising",
-   "ratio": 0.5649548242123495,
+   "ratio": 0.5647168928404306,
    "display": true,
    "adoptionSpan": 13,
    "pace": "mixed",
@@ -13381,7 +13381,7 @@
    "id": "bond-yield",
    "term": "bond yield",
    "direction": "falling",
-   "ratio": 0.12913253124853707,
+   "ratio": 0.12907814693495553,
    "display": true,
    "adoptionSpan": 50,
    "pace": "gradual",
@@ -13925,7 +13925,7 @@
    "id": "autonomous-vehicle",
    "term": "autonomous vehicle",
    "direction": "falling",
-   "ratio": 0.16141566406067132,
+   "ratio": 0.16134768366869442,
    "display": true,
    "adoptionSpan": 3,
    "pace": "simultaneous",
@@ -14534,7 +14534,7 @@
    "id": "digital-twin",
    "term": "digital twin",
    "direction": "falling",
-   "ratio": 0.16141566406067132,
+   "ratio": 0.16134768366869445,
    "display": true,
    "adoptionSpan": 14,
    "pace": "mixed",
@@ -15167,7 +15167,7 @@
    "id": "grid-forming",
    "term": "grid forming",
    "direction": "rising",
-   "ratio": 0.9684939843640279,
+   "ratio": 0.9680861020121666,
    "display": true,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -15732,7 +15732,7 @@
    "id": "operating-system",
    "term": "operating system",
    "direction": "steady",
-   "ratio": 0.26902610676778554,
+   "ratio": 0.26891280611449075,
    "display": true,
    "adoptionSpan": 1,
    "pace": "mixed",
@@ -16329,7 +16329,7 @@
    "id": "feasibility-study",
    "term": "feasibility study",
    "direction": "falling",
-   "ratio": 0.21522088541422843,
+   "ratio": 0.21513024489159258,
    "display": true,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -16530,7 +16530,7 @@
      "new",
      2,
      0,
-     828.0,
+     829.5,
      [
       {
        "title": "Meridian's Caba\u00e7al value doubles on higher prices",
@@ -16997,7 +16997,7 @@
    "id": "hybrid-electric",
    "term": "hybrid electric",
    "direction": "rising",
-   "ratio": 0.48424699218201395,
+   "ratio": 0.4840430510060833,
    "display": true,
    "adoptionSpan": 13,
    "pace": "mixed",
@@ -17576,7 +17576,7 @@
    "id": "solid-state",
    "term": "solid state",
    "direction": "falling",
-   "ratio": 0.07337075639121424,
+   "ratio": 0.07333985621304293,
    "display": true,
    "adoptionSpan": 1,
    "pace": "mixed",
@@ -18215,7 +18215,7 @@
    "id": "container-ship",
    "term": "container ship",
    "direction": "falling",
-   "ratio": 0.20543811789539984,
+   "ratio": 0.2053515973965202,
    "display": false,
    "adoptionSpan": 36,
    "pace": "gradual",
@@ -18835,7 +18835,7 @@
    "id": "mass-production",
    "term": "mass production",
    "direction": "falling",
-   "ratio": 0.18724217031037874,
+   "ratio": 0.18716331305568554,
    "display": false,
    "adoptionSpan": 50,
    "pace": "gradual",
@@ -19572,7 +19572,7 @@
    "id": "iron-ore",
    "term": "iron ore",
    "direction": "steady",
-   "ratio": 0.32283132812134263,
+   "ratio": 0.3226953673373889,
    "display": false,
    "adoptionSpan": 15,
    "pace": "mixed",
@@ -19751,7 +19751,7 @@
      "new",
      2,
      0,
-     72.0,
+     72.1,
      [
       {
        "title": "Billionaire's buying spree stretches beyond iron ore",
@@ -20254,7 +20254,7 @@
    "id": "capacity-expansion",
    "term": "capacity expansion",
    "direction": "rising",
-   "ratio": 0.48424699218201395,
+   "ratio": 0.4840430510060833,
    "display": false,
    "adoptionSpan": 16,
    "pace": "mixed",
@@ -20964,7 +20964,7 @@
    "id": "charging-infrastructure",
    "term": "charging infrastructure",
    "direction": "falling",
-   "ratio": 0.13451305338389277,
+   "ratio": 0.13445640305724538,
    "display": false,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -21165,7 +21165,7 @@
      "steady",
      3,
      2,
-     52.3,
+     52.4,
      [
       {
        "title": "CATL, DHL sign new pact to advance road freight electrification in Europe",
@@ -21710,7 +21710,7 @@
    "id": "battery-cell",
    "term": "battery cell",
    "direction": "steady",
-   "ratio": 0.26902610676778554,
+   "ratio": 0.26891280611449075,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -21911,7 +21911,7 @@
      "falling",
      2,
      2,
-     17.7,
+     17.8,
      [
       {
        "title": "Hithium unveils 20,000-cycle sodium-ion cell and 4MWh BESS",
@@ -22396,7 +22396,7 @@
    "id": "lng-carrier",
    "term": "lng carrier",
    "direction": "rising",
-   "ratio": 0.8070783203033566,
+   "ratio": 0.8067384183434722,
    "display": false,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -22539,7 +22539,7 @@
      "new",
      3,
      0,
-     331.2,
+     331.8,
      [
       {
        "title": "HD Hyundai Samho and ClassNK develop LNG carrier for amended IGC Code",
@@ -23049,7 +23049,7 @@
    "id": "diesel-price",
    "term": "diesel price",
    "direction": "rising",
-   "ratio": 0.6779457890548196,
+   "ratio": 0.6776602714085166,
    "display": false,
    "adoptionSpan": 13,
    "pace": "mixed",
@@ -23657,7 +23657,7 @@
    "id": "energy-price",
    "term": "energy price",
    "direction": "rising",
-   "ratio": 0.5649548242123495,
+   "ratio": 0.5647168928404306,
    "display": false,
    "adoptionSpan": 19,
    "pace": "mixed",
@@ -23876,7 +23876,7 @@
      "new",
      2,
      0,
-     1064.6,
+     1066.5,
      [
       {
        "title": "CPC, Taipower pay premiums to secure energy supplies, face financial strain",
@@ -23901,7 +23901,7 @@
      "steady",
      2,
      2,
-     236.6,
+     237.0,
      [
       {
        "title": "Export Constraints Curb Kazakhstan's Ability to Offset the \u2f00Global Oil\u2f01 Shortage",
@@ -24359,7 +24359,7 @@
    "id": "fast-charging",
    "term": "fast charging",
    "direction": "steady",
-   "ratio": 0.22194653808342305,
+   "ratio": 0.22185306504445484,
    "display": false,
    "adoptionSpan": 37,
    "pace": "gradual",
@@ -24956,7 +24956,7 @@
    "id": "rooftop-solar",
    "term": "rooftop solar",
    "direction": "steady",
-   "ratio": 0.36895008928153444,
+   "ratio": 0.3687947055284444,
    "display": false,
    "adoptionSpan": 6,
    "pace": "mixed",
@@ -25612,7 +25612,7 @@
    "id": "oil-price",
    "term": "oil price",
    "direction": "steady",
-   "ratio": 0.2613396465744202,
+   "ratio": 0.26122958308264815,
    "display": false,
    "adoptionSpan": 54,
    "pace": "gradual",
@@ -26398,7 +26398,7 @@
    "id": "electric-cars",
    "term": "electric cars",
    "direction": "falling",
-   "ratio": 0.17935073784519034,
+   "ratio": 0.17927520407632716,
    "display": false,
    "adoptionSpan": 21,
    "pace": "mixed",
@@ -27029,10 +27029,652 @@
    "rank": 1.419
   },
   {
+   "id": "global-energy",
+   "term": "global energy",
+   "direction": "steady",
+   "ratio": 0.25815629386991107,
+   "display": false,
+   "adoptionSpan": 7,
+   "pace": "mixed",
+   "kind": "concept",
+   "sectorCount": 2,
+   "effectiveSectors": 1.63,
+   "newestSector": "Energy",
+   "daysSinceNewestSector": 55,
+   "articles14d": 8,
+   "articlesPrior14d": 5,
+   "publishers": 4,
+   "events": 8,
+   "topPubShare": 0.625,
+   "sectors": [
+    {
+     "name": "Utilities",
+     "firstSeen": "2026-07-27",
+     "recent": 1,
+     "articles": 5,
+     "share": 0.167,
+     "atSectorStart": false,
+     "grip": 0.286,
+     "outlets": 2,
+     "adopt": 27,
+     "daysSince": 62
+    },
+    {
+     "name": "Energy",
+     "firstSeen": "2026-08-03",
+     "recent": 5,
+     "articles": 21,
+     "share": 0.833,
+     "atSectorStart": false,
+     "grip": 0.5,
+     "outlets": 3,
+     "adopt": 34,
+     "daysSince": 55
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "US",
+     20
+    ],
+    [
+     "DE",
+     3
+    ],
+    [
+     "GB",
+     3
+    ],
+    [
+     "GR",
+     3
+    ],
+    [
+     "HK",
+     2
+    ],
+    [
+     "IN",
+     2
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-06-30",
+     "2026-07-07",
+     "2026-07-14",
+     "2026-07-21",
+     "2026-07-28",
+     "2026-08-04",
+     "2026-08-11",
+     "2026-08-18",
+     "2026-08-25",
+     "2026-09-01",
+     "2026-09-08",
+     "2026-09-15",
+     "2026-09-22"
+    ],
+    "bands": [
+     {
+      "sector": "Energy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       1,
+       4,
+       4,
+       1,
+       4,
+       2,
+       0,
+       2,
+       3
+      ]
+     },
+     {
+      "sector": "Utilities",
+      "n": [
+       0,
+       0,
+       0,
+       1,
+       0,
+       2,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       1
+      ]
+     },
+     {
+      "sector": "Supply chain",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       1,
+       2,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "sector": "Materials",
+      "n": [
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "sector": "Finance",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       1,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "sector": "Technology",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       1
+      ]
+     }
+    ]
+   },
+   "cooc": [],
+   "examples": [
+    {
+     "publisher": "OilPrice",
+     "title": "The Next \u2f00Global Energy\u2f01 Crisis Won't Come From Just One Direction",
+     "url": "https://oilprice.com/Energy/Energy-General/The-Next-Global-Energy-Crisis-Wont-Come-From-Just-One-Direction.html",
+     "date": "2026-09-27",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "The next \u2f00global energy\u2f01 crisis is just around the corner. If the past four years have taught us anything, it's that an energy crisis\u2026"
+    },
+    {
+     "publisher": "Energy Live News",
+     "title": "Infrastructure constraints puts pressure on \u2f00global energy\u2f01 security",
+     "url": "https://www.energylivenews.com/2026/09/25/infrastructure-constraints-puts-pressure-on-global-energy-security/",
+     "date": "2026-09-25",
+     "sector": "Utilities",
+     "country": "GB",
+     "quote": "\u2026ucture constraints puts pressure on \u2f00global energy\u2f01 security appeared first on Energy Live News ."
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Southeast Asia Keeps Building Gas Plants Despite Hormuz LNG Shock",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Southeast-Asia-Keeps-Building-Gas-Plants-Despite-Hormuz-LNG-Shock.html",
+     "date": "2026-09-24",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026building more LNG import capacity, \u2f00Global Energy\u2f01 Monitor reported. The net-zero think tank said there was some 100 GW in new gas-fired power generation capaci\u2026"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "\u2f00Global Energy\u2f01 Demand Set to Jump 60% by 2060 as Developing Nations Power Up",
+     "url": "https://oilprice.com/Energy/Energy-General/Global-Energy-Demand-Set-to-Jump-60-by-2060-as-Developing-Nations-Power-Up.html",
+     "date": "2026-09-22",
+     "sector": "Energy",
+     "country": "US",
+     "quote": ""
+    },
+    {
+     "publisher": "Data Center Dynamics",
+     "title": "Microsoft hires new director of \u2f00global energy\u2f01 and sustainability policy",
+     "url": "https://www.datacenterdynamics.com/en/news/microsoft-hires-new-director-of-global-energy-and-sustainability-policy/",
+     "date": "2026-09-22",
+     "sector": "Technology",
+     "country": "US",
+     "quote": ""
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "IEA Chief: Electrification Still Energy's Top Bet Despite AI Fears",
+     "url": "https://oilprice.com/Energy/Energy-General/IEA-Chief-Electrification-Still-Energys-Top-Bet-Despite-AI-Fears.html",
+     "date": "2026-09-17",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026ion rates remain the main pillar of \u2f00global energy\u2f01 investment despite recent concerns about the existential threat that AI could pose for humanity, Fatih Birol,\u2026"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Japan's Top LNG Buyer to Sell Excess Gas in Global Markets",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Top-LNG-Buyer-to-Sell-Excess-Gas-in-Global-Markets.html",
+     "date": "2026-09-16",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026e officer of the newly-created JERA \u2f00Global Energy\u2f01 Solutions, told Bloomberg in an interview published on Wednesday. Earlier this summer, JERA said it is creati\u2026"
+    },
+    {
+     "publisher": "DigiTimes Asia",
+     "title": "Taiwan's Ministry of Economic Affairs shares power grid experience at APEC Energy Ministerial Meeting",
+     "url": "https://www.digitimes.com/news/a20260914PD247/taiwan-apec-moea-industrial-development.html",
+     "date": "2026-09-15",
+     "sector": "Technology",
+     "country": "TW",
+     "quote": "\u2026high-tech industries and a shifting \u2f00global energy\u2f01 landscape driven by ongoing geopolitical changes, Lai outlined Taiwan's approach to achieving stable power su\u2026"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-06-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 1
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 1
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-31",
+     "n": 0
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 1
+    },
+    {
+     "day": "2026-08-04",
+     "n": 1
+    },
+    {
+     "day": "2026-08-05",
+     "n": 2
+    },
+    {
+     "day": "2026-08-06",
+     "n": 0
+    },
+    {
+     "day": "2026-08-07",
+     "n": 2
+    },
+    {
+     "day": "2026-08-08",
+     "n": 1
+    },
+    {
+     "day": "2026-08-09",
+     "n": 0
+    },
+    {
+     "day": "2026-08-10",
+     "n": 0
+    },
+    {
+     "day": "2026-08-11",
+     "n": 3
+    },
+    {
+     "day": "2026-08-12",
+     "n": 0
+    },
+    {
+     "day": "2026-08-13",
+     "n": 1
+    },
+    {
+     "day": "2026-08-14",
+     "n": 0
+    },
+    {
+     "day": "2026-08-15",
+     "n": 0
+    },
+    {
+     "day": "2026-08-16",
+     "n": 0
+    },
+    {
+     "day": "2026-08-17",
+     "n": 2
+    },
+    {
+     "day": "2026-08-18",
+     "n": 1
+    },
+    {
+     "day": "2026-08-19",
+     "n": 0
+    },
+    {
+     "day": "2026-08-20",
+     "n": 0
+    },
+    {
+     "day": "2026-08-21",
+     "n": 1
+    },
+    {
+     "day": "2026-08-22",
+     "n": 0
+    },
+    {
+     "day": "2026-08-23",
+     "n": 0
+    },
+    {
+     "day": "2026-08-24",
+     "n": 0
+    },
+    {
+     "day": "2026-08-25",
+     "n": 0
+    },
+    {
+     "day": "2026-08-26",
+     "n": 3
+    },
+    {
+     "day": "2026-08-27",
+     "n": 1
+    },
+    {
+     "day": "2026-08-28",
+     "n": 1
+    },
+    {
+     "day": "2026-08-29",
+     "n": 1
+    },
+    {
+     "day": "2026-08-30",
+     "n": 0
+    },
+    {
+     "day": "2026-08-31",
+     "n": 1
+    },
+    {
+     "day": "2026-09-01",
+     "n": 1
+    },
+    {
+     "day": "2026-09-02",
+     "n": 1
+    },
+    {
+     "day": "2026-09-03",
+     "n": 0
+    },
+    {
+     "day": "2026-09-04",
+     "n": 0
+    },
+    {
+     "day": "2026-09-05",
+     "n": 0
+    },
+    {
+     "day": "2026-09-06",
+     "n": 0
+    },
+    {
+     "day": "2026-09-07",
+     "n": 1
+    },
+    {
+     "day": "2026-09-08",
+     "n": 0
+    },
+    {
+     "day": "2026-09-09",
+     "n": 0
+    },
+    {
+     "day": "2026-09-10",
+     "n": 1
+    },
+    {
+     "day": "2026-09-11",
+     "n": 0
+    },
+    {
+     "day": "2026-09-12",
+     "n": 0
+    },
+    {
+     "day": "2026-09-13",
+     "n": 0
+    },
+    {
+     "day": "2026-09-14",
+     "n": 0
+    },
+    {
+     "day": "2026-09-15",
+     "n": 1
+    },
+    {
+     "day": "2026-09-16",
+     "n": 1
+    },
+    {
+     "day": "2026-09-17",
+     "n": 1
+    },
+    {
+     "day": "2026-09-18",
+     "n": 0
+    },
+    {
+     "day": "2026-09-19",
+     "n": 0
+    },
+    {
+     "day": "2026-09-20",
+     "n": 0
+    },
+    {
+     "day": "2026-09-21",
+     "n": 0
+    },
+    {
+     "day": "2026-09-22",
+     "n": 2
+    },
+    {
+     "day": "2026-09-23",
+     "n": 0
+    },
+    {
+     "day": "2026-09-24",
+     "n": 1
+    },
+    {
+     "day": "2026-09-25",
+     "n": 1
+    },
+    {
+     "day": "2026-09-26",
+     "n": 0
+    },
+    {
+     "day": "2026-09-27",
+     "n": 1
+    }
+   ],
+   "relRatio": 0.84,
+   "docFreq": 0.0004,
+   "specificity": 0.988,
+   "homeShare": 0.833,
+   "daysSeen": 7,
+   "rank": 1.412
+  },
+  {
    "id": "electricity-demand",
    "term": "electricity demand",
    "direction": "falling",
-   "ratio": 0.08967536892259517,
+   "ratio": 0.08963760203816358,
    "display": false,
    "adoptionSpan": 17,
    "pace": "mixed",
@@ -27175,7 +27817,7 @@
      "steady",
      3,
      1,
-     496.8,
+     497.7,
      [
       {
        "title": "Why Record Heat Failed to Lift U.S. Natural Gas Prices",
@@ -27207,7 +27849,7 @@
      "new",
      2,
      0,
-     397.4,
+     398.2,
      [
       {
        "title": "Why Record Heat Failed to Lift U.S. \u2f00Natural Gas Prices\u2f01",
@@ -27706,643 +28348,10 @@
    "rank": 1.344
   },
   {
-   "id": "global-energy",
-   "term": "global energy",
-   "direction": "steady",
-   "ratio": 0.22598192968493983,
-   "display": false,
-   "adoptionSpan": 7,
-   "pace": "mixed",
-   "kind": "concept",
-   "sectorCount": 2,
-   "effectiveSectors": 1.65,
-   "newestSector": "Energy",
-   "daysSinceNewestSector": 55,
-   "articles14d": 7,
-   "articlesPrior14d": 5,
-   "publishers": 4,
-   "events": 7,
-   "topPubShare": 0.571,
-   "sectors": [
-    {
-     "name": "Utilities",
-     "firstSeen": "2026-07-27",
-     "recent": 1,
-     "articles": 5,
-     "share": 0.2,
-     "atSectorStart": false,
-     "grip": 0.286,
-     "outlets": 2,
-     "adopt": 27,
-     "daysSince": 62
-    },
-    {
-     "name": "Energy",
-     "firstSeen": "2026-08-03",
-     "recent": 4,
-     "articles": 20,
-     "share": 0.8,
-     "atSectorStart": false,
-     "grip": 0.5,
-     "outlets": 3,
-     "adopt": 34,
-     "daysSince": 55
-    }
-   ],
-   "sinceStart": false,
-   "origins": [
-    [
-     "US",
-     19
-    ],
-    [
-     "DE",
-     3
-    ],
-    [
-     "GB",
-     3
-    ],
-    [
-     "GR",
-     3
-    ],
-    [
-     "HK",
-     2
-    ],
-    [
-     "IN",
-     2
-    ]
-   ],
-   "flow": {
-    "weeks": [
-     "2026-06-30",
-     "2026-07-07",
-     "2026-07-14",
-     "2026-07-21",
-     "2026-07-28",
-     "2026-08-04",
-     "2026-08-11",
-     "2026-08-18",
-     "2026-08-25",
-     "2026-09-01",
-     "2026-09-08",
-     "2026-09-15",
-     "2026-09-22"
-    ],
-    "bands": [
-     {
-      "sector": "Energy",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       1,
-       4,
-       4,
-       1,
-       4,
-       2,
-       0,
-       2,
-       2
-      ]
-     },
-     {
-      "sector": "Utilities",
-      "n": [
-       0,
-       0,
-       0,
-       1,
-       0,
-       2,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       1
-      ]
-     },
-     {
-      "sector": "Supply chain",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       1,
-       2,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Materials",
-      "n": [
-       0,
-       0,
-       1,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Finance",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       1,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Technology",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       1
-      ]
-     }
-    ]
-   },
-   "cooc": [],
-   "examples": [
-    {
-     "publisher": "Energy Live News",
-     "title": "Infrastructure constraints puts pressure on \u2f00global energy\u2f01 security",
-     "url": "https://www.energylivenews.com/2026/09/25/infrastructure-constraints-puts-pressure-on-global-energy-security/",
-     "date": "2026-09-25",
-     "sector": "Utilities",
-     "country": "GB",
-     "quote": "\u2026ucture constraints puts pressure on \u2f00global energy\u2f01 security appeared first on Energy Live News ."
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Southeast Asia Keeps Building Gas Plants Despite Hormuz LNG Shock",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Southeast-Asia-Keeps-Building-Gas-Plants-Despite-Hormuz-LNG-Shock.html",
-     "date": "2026-09-24",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026building more LNG import capacity, \u2f00Global Energy\u2f01 Monitor reported. The net-zero think tank said there was some 100 GW in new gas-fired power generation capaci\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "\u2f00Global Energy\u2f01 Demand Set to Jump 60% by 2060 as Developing Nations Power Up",
-     "url": "https://oilprice.com/Energy/Energy-General/Global-Energy-Demand-Set-to-Jump-60-by-2060-as-Developing-Nations-Power-Up.html",
-     "date": "2026-09-22",
-     "sector": "Energy",
-     "country": "US",
-     "quote": ""
-    },
-    {
-     "publisher": "Data Center Dynamics",
-     "title": "Microsoft hires new director of \u2f00global energy\u2f01 and sustainability policy",
-     "url": "https://www.datacenterdynamics.com/en/news/microsoft-hires-new-director-of-global-energy-and-sustainability-policy/",
-     "date": "2026-09-22",
-     "sector": "Technology",
-     "country": "US",
-     "quote": ""
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "IEA Chief: Electrification Still Energy's Top Bet Despite AI Fears",
-     "url": "https://oilprice.com/Energy/Energy-General/IEA-Chief-Electrification-Still-Energys-Top-Bet-Despite-AI-Fears.html",
-     "date": "2026-09-17",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026ion rates remain the main pillar of \u2f00global energy\u2f01 investment despite recent concerns about the existential threat that AI could pose for humanity, Fatih Birol,\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Japan's Top LNG Buyer to Sell Excess Gas in Global Markets",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Japans-Top-LNG-Buyer-to-Sell-Excess-Gas-in-Global-Markets.html",
-     "date": "2026-09-16",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026e officer of the newly-created JERA \u2f00Global Energy\u2f01 Solutions, told Bloomberg in an interview published on Wednesday. Earlier this summer, JERA said it is creati\u2026"
-    },
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "Taiwan's Ministry of Economic Affairs shares power grid experience at APEC Energy Ministerial Meeting",
-     "url": "https://www.digitimes.com/news/a20260914PD247/taiwan-apec-moea-industrial-development.html",
-     "date": "2026-09-15",
-     "sector": "Technology",
-     "country": "TW",
-     "quote": "\u2026high-tech industries and a shifting \u2f00global energy\u2f01 landscape driven by ongoing geopolitical changes, Lai outlined Taiwan's approach to achieving stable power su\u2026"
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-06-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 0
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 1
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 1
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 0
-    },
-    {
-     "day": "2026-07-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 0
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 1
-    },
-    {
-     "day": "2026-08-04",
-     "n": 1
-    },
-    {
-     "day": "2026-08-05",
-     "n": 2
-    },
-    {
-     "day": "2026-08-06",
-     "n": 0
-    },
-    {
-     "day": "2026-08-07",
-     "n": 2
-    },
-    {
-     "day": "2026-08-08",
-     "n": 1
-    },
-    {
-     "day": "2026-08-09",
-     "n": 0
-    },
-    {
-     "day": "2026-08-10",
-     "n": 0
-    },
-    {
-     "day": "2026-08-11",
-     "n": 3
-    },
-    {
-     "day": "2026-08-12",
-     "n": 0
-    },
-    {
-     "day": "2026-08-13",
-     "n": 1
-    },
-    {
-     "day": "2026-08-14",
-     "n": 0
-    },
-    {
-     "day": "2026-08-15",
-     "n": 0
-    },
-    {
-     "day": "2026-08-16",
-     "n": 0
-    },
-    {
-     "day": "2026-08-17",
-     "n": 2
-    },
-    {
-     "day": "2026-08-18",
-     "n": 1
-    },
-    {
-     "day": "2026-08-19",
-     "n": 0
-    },
-    {
-     "day": "2026-08-20",
-     "n": 0
-    },
-    {
-     "day": "2026-08-21",
-     "n": 1
-    },
-    {
-     "day": "2026-08-22",
-     "n": 0
-    },
-    {
-     "day": "2026-08-23",
-     "n": 0
-    },
-    {
-     "day": "2026-08-24",
-     "n": 0
-    },
-    {
-     "day": "2026-08-25",
-     "n": 0
-    },
-    {
-     "day": "2026-08-26",
-     "n": 3
-    },
-    {
-     "day": "2026-08-27",
-     "n": 1
-    },
-    {
-     "day": "2026-08-28",
-     "n": 1
-    },
-    {
-     "day": "2026-08-29",
-     "n": 1
-    },
-    {
-     "day": "2026-08-30",
-     "n": 0
-    },
-    {
-     "day": "2026-08-31",
-     "n": 1
-    },
-    {
-     "day": "2026-09-01",
-     "n": 1
-    },
-    {
-     "day": "2026-09-02",
-     "n": 1
-    },
-    {
-     "day": "2026-09-03",
-     "n": 0
-    },
-    {
-     "day": "2026-09-04",
-     "n": 0
-    },
-    {
-     "day": "2026-09-05",
-     "n": 0
-    },
-    {
-     "day": "2026-09-06",
-     "n": 0
-    },
-    {
-     "day": "2026-09-07",
-     "n": 1
-    },
-    {
-     "day": "2026-09-08",
-     "n": 0
-    },
-    {
-     "day": "2026-09-09",
-     "n": 0
-    },
-    {
-     "day": "2026-09-10",
-     "n": 1
-    },
-    {
-     "day": "2026-09-11",
-     "n": 0
-    },
-    {
-     "day": "2026-09-12",
-     "n": 0
-    },
-    {
-     "day": "2026-09-13",
-     "n": 0
-    },
-    {
-     "day": "2026-09-14",
-     "n": 0
-    },
-    {
-     "day": "2026-09-15",
-     "n": 1
-    },
-    {
-     "day": "2026-09-16",
-     "n": 1
-    },
-    {
-     "day": "2026-09-17",
-     "n": 1
-    },
-    {
-     "day": "2026-09-18",
-     "n": 0
-    },
-    {
-     "day": "2026-09-19",
-     "n": 0
-    },
-    {
-     "day": "2026-09-20",
-     "n": 0
-    },
-    {
-     "day": "2026-09-21",
-     "n": 0
-    },
-    {
-     "day": "2026-09-22",
-     "n": 2
-    },
-    {
-     "day": "2026-09-23",
-     "n": 0
-    },
-    {
-     "day": "2026-09-24",
-     "n": 1
-    },
-    {
-     "day": "2026-09-25",
-     "n": 1
-    },
-    {
-     "day": "2026-09-26",
-     "n": 0
-    },
-    {
-     "day": "2026-09-27",
-     "n": 0
-    }
-   ],
-   "relRatio": 0.74,
-   "docFreq": 0.0003,
-   "specificity": 0.989,
-   "homeShare": 0.8,
-   "daysSeen": 6,
-   "rank": 1.332
-  },
-  {
    "id": "battery-electric",
    "term": "battery electric",
    "direction": "steady",
-   "ratio": 0.3631852441365105,
+   "ratio": 0.3630322882545625,
    "display": false,
    "adoptionSpan": 10,
    "pace": "mixed",
@@ -29011,7 +29020,7 @@
    "id": "nuclear-reactor",
    "term": "nuclear reactor",
    "direction": "falling",
-   "ratio": 0.19369879687280558,
+   "ratio": 0.19361722040243332,
    "display": false,
    "adoptionSpan": 26,
    "pace": "mixed",
@@ -29583,7 +29592,7 @@
    "id": "drone-attack",
    "term": "drone attack",
    "direction": "steady",
-   "ratio": 0.26902610676778554,
+   "ratio": 0.26891280611449075,
    "display": false,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -30206,7 +30215,7 @@
    "id": "crude-oil",
    "term": "crude oil",
    "direction": "steady",
-   "ratio": 0.3158132557708787,
+   "ratio": 0.3156802506561413,
    "display": false,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -30896,7 +30905,7 @@
    "id": "solar-module",
    "term": "solar module",
    "direction": "steady",
-   "ratio": 0.38739759374561117,
+   "ratio": 0.38723444080486663,
    "display": false,
    "adoptionSpan": 1,
    "pace": "mixed",
@@ -31017,7 +31026,7 @@
      "rising",
      3,
      1,
-     92.0,
+     92.2,
      [
       {
        "title": "Solar module imports drop 48% in Brazil in H1",
@@ -31527,7 +31536,7 @@
    "id": "humanoid-robot",
    "term": "humanoid robot",
    "direction": "falling",
-   "ratio": 0.20176958007583914,
+   "ratio": 0.20168460458586804,
    "display": false,
    "adoptionSpan": 46,
    "pace": "gradual",
@@ -32199,7 +32208,7 @@
    "id": "black-sea",
    "term": "black sea",
    "direction": "steady",
-   "ratio": 0.26902610676778554,
+   "ratio": 0.26891280611449075,
    "display": false,
    "adoptionSpan": 7,
    "pace": "mixed",
@@ -33327,7 +33336,7 @@
    "id": "cathode-material",
    "term": "cathode material",
    "direction": "rising",
-   "ratio": 0.6456626562426853,
+   "ratio": 0.6453907346747777,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -34401,7 +34410,7 @@
    "id": "machine-tool",
    "term": "machine tool",
    "direction": "rising",
-   "ratio": 0.4035391601516783,
+   "ratio": 0.40336920917173613,
    "display": false,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -34936,7 +34945,7 @@
    "id": "electricity-price",
    "term": "electricity price",
    "direction": "steady",
-   "ratio": 0.32283132812134263,
+   "ratio": 0.32269536733738885,
    "display": false,
    "adoptionSpan": 1,
    "pace": "mixed",
@@ -35494,7 +35503,7 @@
    "id": "oil-tanker",
    "term": "oil tanker",
    "direction": "falling",
-   "ratio": 0.12913253124853707,
+   "ratio": 0.12907814693495553,
    "display": false,
    "adoptionSpan": 7,
    "pace": "mixed",
@@ -36034,7 +36043,7 @@
    "id": "image-prime-creative",
    "term": "image prime creative",
    "direction": "rising",
-   "ratio": 0.4035391601516783,
+   "ratio": 0.40336920917173613,
    "display": false,
    "adoptionSpan": 10,
    "pace": "mixed",
@@ -36511,7 +36520,7 @@
    "id": "tariff-refund",
    "term": "tariff refund",
    "direction": "rising",
-   "ratio": 0.4035391601516783,
+   "ratio": 0.40336920917173613,
    "display": false,
    "adoptionSpan": 24,
    "pace": "mixed",
@@ -37088,7 +37097,7 @@
    "id": "heat-pump",
    "term": "heat pump",
    "direction": "rising",
-   "ratio": 0.5111496028587925,
+   "ratio": 0.5109343316175324,
    "display": false,
    "adoptionSpan": 43,
    "pace": "gradual",
@@ -37722,7 +37731,7 @@
    "id": "gas-price",
    "term": "gas price",
    "direction": "steady",
-   "ratio": 0.3920094698616303,
+   "ratio": 0.3918443746239722,
    "display": false,
    "adoptionSpan": 40,
    "pace": "gradual",
@@ -37905,7 +37914,7 @@
      "new",
      2,
      0,
-     389.6,
+     390.4,
      [
       {
        "title": "Ineos mothballs three \u2f00chemical plants\u2f01 due to \u2018gas prices'",
@@ -37930,7 +37939,7 @@
      "new",
      2,
      0,
-     233.8,
+     234.2,
      [
       {
        "title": "Why Record Heat Failed to Lift U.S. Natural Gas Prices",
@@ -37955,7 +37964,7 @@
      "steady",
      2,
      2,
-     146.1,
+     146.4,
      [
       {
        "title": "Hormuz Crisis to Push Global \u2f00Coal Demand\u2f01 to Record High",
@@ -38458,7 +38467,7 @@
    "id": "deposit-return",
    "term": "deposit return",
    "direction": "rising",
-   "ratio": 0.48424699218201395,
+   "ratio": 0.4840430510060833,
    "display": false,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -38964,10 +38973,640 @@
    "rank": 1.107
   },
   {
+   "id": "energy-crisis",
+   "term": "energy crisis",
+   "direction": "rising",
+   "ratio": 0.9680861020121666,
+   "display": false,
+   "adoptionSpan": 32,
+   "pace": "gradual",
+   "kind": "concept",
+   "sectorCount": 2,
+   "effectiveSectors": 1.78,
+   "newestSector": "Energy",
+   "daysSinceNewestSector": 57,
+   "articles14d": 12,
+   "articlesPrior14d": 2,
+   "publishers": 5,
+   "events": 12,
+   "topPubShare": 0.667,
+   "sectors": [
+    {
+     "name": "Utilities",
+     "firstSeen": "2026-06-30",
+     "recent": 2,
+     "articles": 6,
+     "share": 0.2,
+     "atSectorStart": false,
+     "grip": 0.286,
+     "outlets": 2,
+     "adopt": 0,
+     "daysSince": 89
+    },
+    {
+     "name": "Energy",
+     "firstSeen": "2026-08-01",
+     "recent": 8,
+     "articles": 17,
+     "share": 0.8,
+     "atSectorStart": false,
+     "grip": 0.167,
+     "outlets": 1,
+     "adopt": 32,
+     "daysSince": 57
+    }
+   ],
+   "sinceStart": true,
+   "origins": [
+    [
+     "US",
+     21
+    ],
+    [
+     "GB",
+     3
+    ],
+    [
+     "IN",
+     1
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-06-30",
+     "2026-07-07",
+     "2026-07-14",
+     "2026-07-21",
+     "2026-07-28",
+     "2026-08-04",
+     "2026-08-11",
+     "2026-08-18",
+     "2026-08-25",
+     "2026-09-01",
+     "2026-09-08",
+     "2026-09-15",
+     "2026-09-22"
+    ],
+    "bands": [
+     {
+      "sector": "Energy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       1,
+       4,
+       1,
+       1,
+       1,
+       1,
+       2,
+       3,
+       3
+      ]
+     },
+     {
+      "sector": "Utilities",
+      "n": [
+       2,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       1,
+       1
+      ]
+     },
+     {
+      "sector": "Policy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0
+      ]
+     },
+     {
+      "sector": "Supply chain",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0
+      ]
+     }
+    ]
+   },
+   "cooc": [],
+   "examples": [
+    {
+     "publisher": "OilPrice",
+     "title": "The Next Global \u2f00Energy Crisis\u2f01 Won't Come From Just One Direction",
+     "url": "https://oilprice.com/Energy/Energy-General/The-Next-Global-Energy-Crisis-Wont-Come-From-Just-One-Direction.html",
+     "date": "2026-09-27",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "The next global \u2f00energy crisis\u2f01 is just around the corner. If the past four years have taught us anything, it's that an energy crisis can be\u2026"
+    },
+    {
+     "publisher": "Renewable Energy World",
+     "title": "Iran war \u2f00energy crisis\u2f01 backs Bangladesh into a corner This Week in Cleantech",
+     "url": "https://www.renewableenergyworld.com/energy-business/iran-war-energy-crisis-backs-bangladesh-into-a-corner-this-week-in-cleantech/",
+     "date": "2026-09-25",
+     "sector": "Utilities",
+     "country": "US",
+     "quote": ""
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Global Biofuels Output Could Surge 70% Amid \u2f00Energy Crisis\u2f01",
+     "url": "https://oilprice.com/Alternative-Energy/Biofuels/Global-Biofuels-Output-Could-Surge-70-Amid-Energy-Crisis.html",
+     "date": "2026-09-24",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026lending mandates in response to the \u2f00energy crisis\u2f01 triggered by the Middle East conflict, a study co-authored by British think tank Chatham House and Forest Ste\u2026"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Can the World Hit 35% Electrification by 2035?",
+     "url": "https://oilprice.com/Energy/Energy-General/Can-the-World-Hit-35-Electrification-by-2035.html",
+     "date": "2026-09-24",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "The \u2f00energy crisis\u2f01 caused by the United States and Israel's war in Iran could be just what the world needed to achieve 35 percen\u2026"
+    },
+    {
+     "publisher": "Climate Home News",
+     "title": "Why the global electrification agenda misses the point on Africa's \u2f00energy crisis\u2f01",
+     "url": "https://www.climatechangenews.com/2026/09/21/why-the-global-electrification-agenda-misses-the-point-on-africas-energy-crisis/",
+     "date": "2026-09-21",
+     "sector": "Policy",
+     "country": "GB",
+     "quote": "\u2026agenda misses the point on Africa's \u2f00energy crisis\u2f01 appeared first on Climate Home News ."
+    },
+    {
+     "publisher": "The Loadstar",
+     "title": "OceanX Radar: Logistics is a people thing; fuel fears; relentless rate rises",
+     "url": "https://theloadstar.com/oceanx-radar-logistics-is-a-people-thing-fuel-fears-relentless-rate-rises/",
+     "date": "2026-09-21",
+     "sector": "Supply chain",
+     "country": "GB",
+     "quote": "\u2026nce warns of a potential \u201cworldwide \u2f00energy crisis\u2f01\u201c. And with the Houthies back in action, there is a second front on. However, so far no attacks on non-Saudi s\u2026"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Pakistan Secures Second Qatari LNG Cargo Through Hormuz After Iran Deal",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Secures-Second-Qatari-LNG-Cargo-Through-Hormuz-After-Iran-Deal.html",
+     "date": "2026-09-21",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026he second Qatari LNG cargo that the \u2f00energy crisis\u2f01-stricken Pakistan would receive in September after some carriers managed to move out of the Persian Gulf earl\u2026"
+    },
+    {
+     "publisher": "Energy Live News",
+     "title": "Gas-fired power stations made billions in profit in the height of the \u2f00energy crisis\u2f01",
+     "url": "https://www.energylivenews.com/2026/09/21/gas-fired-power-stations-made-billions-in-profit-in-the-height-of-the-energy-crisis/",
+     "date": "2026-09-21",
+     "sector": "Utilities",
+     "country": "GB",
+     "quote": "\u2026ions in profit in the height of the \u2f00energy crisis\u2f01 appeared first on Energy Live News ."
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Space-Based Solar Power Could Reach the Grid by 2028",
+     "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/Space-Based-Solar-Power-Could-Reach-the-Grid-by-2028.html",
+     "date": "2026-09-18",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "The artificial intelligence \u2f00energy crisis\u2f01 is catalyzing the development pipeline for space-based solar energy. As the world rushes to build up more ene\u2026"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Export Constraints Curb Kazakhstan's Ability to Offset the Global Oil Shortage",
+     "url": "https://oilprice.com/Energy/Crude-Oil/Export-Constraints-Curb-Kazakhstans-Ability-to-Offset-the-Global-Oil-Shortage.html",
+     "date": "2026-09-16",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026a position to help offset a looming \u2f00energy crisis\u2f01 by expanding production, industry analysts say. With the Strait of Hormuz blocked, Russia sanctioned and Saud\u2026"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Chevron Targets Four Continents in New LNG Expansion Drive",
+     "url": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Targets-Four-Continents-in-New-LNG-Expansion-Drive.html",
+     "date": "2026-09-14",
+     "sector": "Energy",
+     "country": "US",
+     "quote": "\u2026hevron, told Reuters on Monday. The \u2f00energy crisis\u2f01 in the wake of the Middle East conflict that trapped LNG supply from Qatar and the United Arab Emirates (UAE)\u2026"
+    },
+    {
+     "publisher": "OilPrice",
+     "title": "Wealthy Investors Flock To Oil & Gas Assets Amid \u2f00Energy Crisis\u2f01",
+     "url": "https://oilprice.com/Energy/Energy-General/Wealthy-Investors-Flock-To-Oil-Gas-Assets-Amid-Energy-Crisis.html",
+     "date": "2026-09-14",
+     "sector": "Energy",
+     "country": "US",
+     "quote": ""
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-06-30",
+     "n": 1
+    },
+    {
+     "day": "2026-07-01",
+     "n": 0
+    },
+    {
+     "day": "2026-07-02",
+     "n": 0
+    },
+    {
+     "day": "2026-07-03",
+     "n": 0
+    },
+    {
+     "day": "2026-07-04",
+     "n": 0
+    },
+    {
+     "day": "2026-07-05",
+     "n": 0
+    },
+    {
+     "day": "2026-07-06",
+     "n": 1
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 1
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-31",
+     "n": 0
+    },
+    {
+     "day": "2026-08-01",
+     "n": 1
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 0
+    },
+    {
+     "day": "2026-08-04",
+     "n": 0
+    },
+    {
+     "day": "2026-08-05",
+     "n": 0
+    },
+    {
+     "day": "2026-08-06",
+     "n": 1
+    },
+    {
+     "day": "2026-08-07",
+     "n": 1
+    },
+    {
+     "day": "2026-08-08",
+     "n": 1
+    },
+    {
+     "day": "2026-08-09",
+     "n": 1
+    },
+    {
+     "day": "2026-08-10",
+     "n": 0
+    },
+    {
+     "day": "2026-08-11",
+     "n": 0
+    },
+    {
+     "day": "2026-08-12",
+     "n": 0
+    },
+    {
+     "day": "2026-08-13",
+     "n": 0
+    },
+    {
+     "day": "2026-08-14",
+     "n": 0
+    },
+    {
+     "day": "2026-08-15",
+     "n": 0
+    },
+    {
+     "day": "2026-08-16",
+     "n": 0
+    },
+    {
+     "day": "2026-08-17",
+     "n": 1
+    },
+    {
+     "day": "2026-08-18",
+     "n": 0
+    },
+    {
+     "day": "2026-08-19",
+     "n": 0
+    },
+    {
+     "day": "2026-08-20",
+     "n": 1
+    },
+    {
+     "day": "2026-08-21",
+     "n": 0
+    },
+    {
+     "day": "2026-08-22",
+     "n": 0
+    },
+    {
+     "day": "2026-08-23",
+     "n": 0
+    },
+    {
+     "day": "2026-08-24",
+     "n": 0
+    },
+    {
+     "day": "2026-08-25",
+     "n": 0
+    },
+    {
+     "day": "2026-08-26",
+     "n": 0
+    },
+    {
+     "day": "2026-08-27",
+     "n": 0
+    },
+    {
+     "day": "2026-08-28",
+     "n": 1
+    },
+    {
+     "day": "2026-08-29",
+     "n": 0
+    },
+    {
+     "day": "2026-08-30",
+     "n": 0
+    },
+    {
+     "day": "2026-08-31",
+     "n": 1
+    },
+    {
+     "day": "2026-09-01",
+     "n": 1
+    },
+    {
+     "day": "2026-09-02",
+     "n": 0
+    },
+    {
+     "day": "2026-09-03",
+     "n": 0
+    },
+    {
+     "day": "2026-09-04",
+     "n": 0
+    },
+    {
+     "day": "2026-09-05",
+     "n": 0
+    },
+    {
+     "day": "2026-09-06",
+     "n": 0
+    },
+    {
+     "day": "2026-09-07",
+     "n": 0
+    },
+    {
+     "day": "2026-09-08",
+     "n": 0
+    },
+    {
+     "day": "2026-09-09",
+     "n": 0
+    },
+    {
+     "day": "2026-09-10",
+     "n": 0
+    },
+    {
+     "day": "2026-09-11",
+     "n": 0
+    },
+    {
+     "day": "2026-09-12",
+     "n": 0
+    },
+    {
+     "day": "2026-09-13",
+     "n": 0
+    },
+    {
+     "day": "2026-09-14",
+     "n": 2
+    },
+    {
+     "day": "2026-09-15",
+     "n": 0
+    },
+    {
+     "day": "2026-09-16",
+     "n": 1
+    },
+    {
+     "day": "2026-09-17",
+     "n": 0
+    },
+    {
+     "day": "2026-09-18",
+     "n": 1
+    },
+    {
+     "day": "2026-09-19",
+     "n": 0
+    },
+    {
+     "day": "2026-09-20",
+     "n": 0
+    },
+    {
+     "day": "2026-09-21",
+     "n": 4
+    },
+    {
+     "day": "2026-09-22",
+     "n": 0
+    },
+    {
+     "day": "2026-09-23",
+     "n": 0
+    },
+    {
+     "day": "2026-09-24",
+     "n": 2
+    },
+    {
+     "day": "2026-09-25",
+     "n": 1
+    },
+    {
+     "day": "2026-09-26",
+     "n": 0
+    },
+    {
+     "day": "2026-09-27",
+     "n": 1
+    }
+   ],
+   "relRatio": 3.16,
+   "docFreq": 0.0006,
+   "specificity": 0.981,
+   "homeShare": 0.8,
+   "daysSeen": 7,
+   "rank": 1.105
+  },
+  {
    "id": "natural-gas",
    "term": "natural gas",
    "direction": "steady",
-   "ratio": 0.2526506046167029,
+   "ratio": 0.25254420052491305,
    "display": false,
    "adoptionSpan": 25,
    "pace": "mixed",
@@ -39270,7 +39909,7 @@
      "steady",
      3,
      0,
-     110.4,
+     110.6,
      [
       {
        "title": "Why Record Heat Failed to Lift U.S. Natural Gas Prices",
@@ -39785,7 +40424,7 @@
    "id": "producer-responsibility",
    "term": "producer responsibility",
    "direction": "rising",
-   "ratio": 0.48424699218201395,
+   "ratio": 0.4840430510060833,
    "display": false,
    "adoptionSpan": 25,
    "pace": "mixed",
@@ -40295,657 +40934,10 @@
    "rank": 1.091
   },
   {
-   "id": "energy-crisis",
-   "term": "energy crisis",
-   "direction": "rising",
-   "ratio": 0.8877861523336922,
-   "display": false,
-   "adoptionSpan": 32,
-   "pace": "gradual",
-   "kind": "concept",
-   "sectorCount": 2,
-   "effectiveSectors": 1.8,
-   "newestSector": "Energy",
-   "daysSinceNewestSector": 57,
-   "articles14d": 11,
-   "articlesPrior14d": 2,
-   "publishers": 5,
-   "events": 11,
-   "topPubShare": 0.636,
-   "sectors": [
-    {
-     "name": "Utilities",
-     "firstSeen": "2026-06-30",
-     "recent": 2,
-     "articles": 6,
-     "share": 0.222,
-     "atSectorStart": false,
-     "grip": 0.286,
-     "outlets": 2,
-     "adopt": 0,
-     "daysSince": 89
-    },
-    {
-     "name": "Energy",
-     "firstSeen": "2026-08-01",
-     "recent": 7,
-     "articles": 16,
-     "share": 0.778,
-     "atSectorStart": false,
-     "grip": 0.167,
-     "outlets": 1,
-     "adopt": 32,
-     "daysSince": 57
-    }
-   ],
-   "sinceStart": true,
-   "origins": [
-    [
-     "US",
-     20
-    ],
-    [
-     "GB",
-     3
-    ],
-    [
-     "IN",
-     1
-    ]
-   ],
-   "flow": {
-    "weeks": [
-     "2026-06-30",
-     "2026-07-07",
-     "2026-07-14",
-     "2026-07-21",
-     "2026-07-28",
-     "2026-08-04",
-     "2026-08-11",
-     "2026-08-18",
-     "2026-08-25",
-     "2026-09-01",
-     "2026-09-08",
-     "2026-09-15",
-     "2026-09-22"
-    ],
-    "bands": [
-     {
-      "sector": "Energy",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       1,
-       4,
-       1,
-       1,
-       1,
-       1,
-       2,
-       3,
-       2
-      ]
-     },
-     {
-      "sector": "Utilities",
-      "n": [
-       2,
-       0,
-       1,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       1,
-       1
-      ]
-     },
-     {
-      "sector": "Policy",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0
-      ]
-     },
-     {
-      "sector": "Supply chain",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0
-      ]
-     }
-    ]
-   },
-   "cooc": [
-    [
-     "data center",
-     0.5,
-     "steady",
-     2,
-     1,
-     2.0,
-     [
-      {
-       "title": "Space-Based Solar Power Could Reach the Grid by 2028",
-       "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/Space-Based-Solar-Power-Could-Reach-the-Grid-by-2028.html",
-       "publisher": "OilPrice",
-       "sector": "Energy",
-       "quote": "\u2026ep up with skyrocketing demand from \u2f00data center\u2f01 hyperscalers, the public and private sectors alike are increasingly adopting an all-of-the-above approach to\u2026"
-      },
-      {
-       "title": "Solar pulled South Africa out of an energy crisis. \u2f00Data centers\u2f01 now want preferential access to that grid",
-       "url": "https://www.renewableenergyworld.com/solar/solar-pulled-south-africa-out-of-an-energy-crisis-data-centers-now-want-preferential-access-to-that-grid/",
-       "publisher": "Renewable Energy World",
-       "sector": "Utilities",
-       "quote": "The \u2f00data center\u2f01 boom threatens the resilience of South Africa's electricity grid, which was bolstered by solar power after a\u2026"
-      }
-     ],
-     []
-    ]
-   ],
-   "examples": [
-    {
-     "publisher": "Renewable Energy World",
-     "title": "Iran war \u2f00energy crisis\u2f01 backs Bangladesh into a corner This Week in Cleantech",
-     "url": "https://www.renewableenergyworld.com/energy-business/iran-war-energy-crisis-backs-bangladesh-into-a-corner-this-week-in-cleantech/",
-     "date": "2026-09-25",
-     "sector": "Utilities",
-     "country": "US",
-     "quote": ""
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Global Biofuels Output Could Surge 70% Amid \u2f00Energy Crisis\u2f01",
-     "url": "https://oilprice.com/Alternative-Energy/Biofuels/Global-Biofuels-Output-Could-Surge-70-Amid-Energy-Crisis.html",
-     "date": "2026-09-24",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026lending mandates in response to the \u2f00energy crisis\u2f01 triggered by the Middle East conflict, a study co-authored by British think tank Chatham House and Forest Ste\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Can the World Hit 35% Electrification by 2035?",
-     "url": "https://oilprice.com/Energy/Energy-General/Can-the-World-Hit-35-Electrification-by-2035.html",
-     "date": "2026-09-24",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "The \u2f00energy crisis\u2f01 caused by the United States and Israel's war in Iran could be just what the world needed to achieve 35 percen\u2026"
-    },
-    {
-     "publisher": "Climate Home News",
-     "title": "Why the global electrification agenda misses the point on Africa's \u2f00energy crisis\u2f01",
-     "url": "https://www.climatechangenews.com/2026/09/21/why-the-global-electrification-agenda-misses-the-point-on-africas-energy-crisis/",
-     "date": "2026-09-21",
-     "sector": "Policy",
-     "country": "GB",
-     "quote": "\u2026agenda misses the point on Africa's \u2f00energy crisis\u2f01 appeared first on Climate Home News ."
-    },
-    {
-     "publisher": "The Loadstar",
-     "title": "OceanX Radar: Logistics is a people thing; fuel fears; relentless rate rises",
-     "url": "https://theloadstar.com/oceanx-radar-logistics-is-a-people-thing-fuel-fears-relentless-rate-rises/",
-     "date": "2026-09-21",
-     "sector": "Supply chain",
-     "country": "GB",
-     "quote": "\u2026nce warns of a potential \u201cworldwide \u2f00energy crisis\u2f01\u201c. And with the Houthies back in action, there is a second front on. However, so far no attacks on non-Saudi s\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Pakistan Secures Second Qatari LNG Cargo Through Hormuz After Iran Deal",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Secures-Second-Qatari-LNG-Cargo-Through-Hormuz-After-Iran-Deal.html",
-     "date": "2026-09-21",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026he second Qatari LNG cargo that the \u2f00energy crisis\u2f01-stricken Pakistan would receive in September after some carriers managed to move out of the Persian Gulf earl\u2026"
-    },
-    {
-     "publisher": "Energy Live News",
-     "title": "Gas-fired power stations made billions in profit in the height of the \u2f00energy crisis\u2f01",
-     "url": "https://www.energylivenews.com/2026/09/21/gas-fired-power-stations-made-billions-in-profit-in-the-height-of-the-energy-crisis/",
-     "date": "2026-09-21",
-     "sector": "Utilities",
-     "country": "GB",
-     "quote": "\u2026ions in profit in the height of the \u2f00energy crisis\u2f01 appeared first on Energy Live News ."
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Space-Based Solar Power Could Reach the Grid by 2028",
-     "url": "https://oilprice.com/Alternative-Energy/Solar-Energy/Space-Based-Solar-Power-Could-Reach-the-Grid-by-2028.html",
-     "date": "2026-09-18",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "The artificial intelligence \u2f00energy crisis\u2f01 is catalyzing the development pipeline for space-based solar energy. As the world rushes to build up more ene\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Export Constraints Curb Kazakhstan's Ability to Offset the Global Oil Shortage",
-     "url": "https://oilprice.com/Energy/Crude-Oil/Export-Constraints-Curb-Kazakhstans-Ability-to-Offset-the-Global-Oil-Shortage.html",
-     "date": "2026-09-16",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026a position to help offset a looming \u2f00energy crisis\u2f01 by expanding production, industry analysts say. With the Strait of Hormuz blocked, Russia sanctioned and Saud\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Chevron Targets Four Continents in New LNG Expansion Drive",
-     "url": "https://oilprice.com/Latest-Energy-News/World-News/Chevron-Targets-Four-Continents-in-New-LNG-Expansion-Drive.html",
-     "date": "2026-09-14",
-     "sector": "Energy",
-     "country": "US",
-     "quote": "\u2026hevron, told Reuters on Monday. The \u2f00energy crisis\u2f01 in the wake of the Middle East conflict that trapped LNG supply from Qatar and the United Arab Emirates (UAE)\u2026"
-    },
-    {
-     "publisher": "OilPrice",
-     "title": "Wealthy Investors Flock To Oil & Gas Assets Amid \u2f00Energy Crisis\u2f01",
-     "url": "https://oilprice.com/Energy/Energy-General/Wealthy-Investors-Flock-To-Oil-Gas-Assets-Amid-Energy-Crisis.html",
-     "date": "2026-09-14",
-     "sector": "Energy",
-     "country": "US",
-     "quote": ""
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-06-30",
-     "n": 1
-    },
-    {
-     "day": "2026-07-01",
-     "n": 0
-    },
-    {
-     "day": "2026-07-02",
-     "n": 0
-    },
-    {
-     "day": "2026-07-03",
-     "n": 0
-    },
-    {
-     "day": "2026-07-04",
-     "n": 0
-    },
-    {
-     "day": "2026-07-05",
-     "n": 0
-    },
-    {
-     "day": "2026-07-06",
-     "n": 1
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 1
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 0
-    },
-    {
-     "day": "2026-07-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 1
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 0
-    },
-    {
-     "day": "2026-08-04",
-     "n": 0
-    },
-    {
-     "day": "2026-08-05",
-     "n": 0
-    },
-    {
-     "day": "2026-08-06",
-     "n": 1
-    },
-    {
-     "day": "2026-08-07",
-     "n": 1
-    },
-    {
-     "day": "2026-08-08",
-     "n": 1
-    },
-    {
-     "day": "2026-08-09",
-     "n": 1
-    },
-    {
-     "day": "2026-08-10",
-     "n": 0
-    },
-    {
-     "day": "2026-08-11",
-     "n": 0
-    },
-    {
-     "day": "2026-08-12",
-     "n": 0
-    },
-    {
-     "day": "2026-08-13",
-     "n": 0
-    },
-    {
-     "day": "2026-08-14",
-     "n": 0
-    },
-    {
-     "day": "2026-08-15",
-     "n": 0
-    },
-    {
-     "day": "2026-08-16",
-     "n": 0
-    },
-    {
-     "day": "2026-08-17",
-     "n": 1
-    },
-    {
-     "day": "2026-08-18",
-     "n": 0
-    },
-    {
-     "day": "2026-08-19",
-     "n": 0
-    },
-    {
-     "day": "2026-08-20",
-     "n": 1
-    },
-    {
-     "day": "2026-08-21",
-     "n": 0
-    },
-    {
-     "day": "2026-08-22",
-     "n": 0
-    },
-    {
-     "day": "2026-08-23",
-     "n": 0
-    },
-    {
-     "day": "2026-08-24",
-     "n": 0
-    },
-    {
-     "day": "2026-08-25",
-     "n": 0
-    },
-    {
-     "day": "2026-08-26",
-     "n": 0
-    },
-    {
-     "day": "2026-08-27",
-     "n": 0
-    },
-    {
-     "day": "2026-08-28",
-     "n": 1
-    },
-    {
-     "day": "2026-08-29",
-     "n": 0
-    },
-    {
-     "day": "2026-08-30",
-     "n": 0
-    },
-    {
-     "day": "2026-08-31",
-     "n": 1
-    },
-    {
-     "day": "2026-09-01",
-     "n": 1
-    },
-    {
-     "day": "2026-09-02",
-     "n": 0
-    },
-    {
-     "day": "2026-09-03",
-     "n": 0
-    },
-    {
-     "day": "2026-09-04",
-     "n": 0
-    },
-    {
-     "day": "2026-09-05",
-     "n": 0
-    },
-    {
-     "day": "2026-09-06",
-     "n": 0
-    },
-    {
-     "day": "2026-09-07",
-     "n": 0
-    },
-    {
-     "day": "2026-09-08",
-     "n": 0
-    },
-    {
-     "day": "2026-09-09",
-     "n": 0
-    },
-    {
-     "day": "2026-09-10",
-     "n": 0
-    },
-    {
-     "day": "2026-09-11",
-     "n": 0
-    },
-    {
-     "day": "2026-09-12",
-     "n": 0
-    },
-    {
-     "day": "2026-09-13",
-     "n": 0
-    },
-    {
-     "day": "2026-09-14",
-     "n": 2
-    },
-    {
-     "day": "2026-09-15",
-     "n": 0
-    },
-    {
-     "day": "2026-09-16",
-     "n": 1
-    },
-    {
-     "day": "2026-09-17",
-     "n": 0
-    },
-    {
-     "day": "2026-09-18",
-     "n": 1
-    },
-    {
-     "day": "2026-09-19",
-     "n": 0
-    },
-    {
-     "day": "2026-09-20",
-     "n": 0
-    },
-    {
-     "day": "2026-09-21",
-     "n": 4
-    },
-    {
-     "day": "2026-09-22",
-     "n": 0
-    },
-    {
-     "day": "2026-09-23",
-     "n": 0
-    },
-    {
-     "day": "2026-09-24",
-     "n": 2
-    },
-    {
-     "day": "2026-09-25",
-     "n": 1
-    },
-    {
-     "day": "2026-09-26",
-     "n": 0
-    },
-    {
-     "day": "2026-09-27",
-     "n": 0
-    }
-   ],
-   "relRatio": 2.89,
-   "docFreq": 0.0005,
-   "specificity": 0.983,
-   "homeShare": 0.778,
-   "daysSeen": 6,
-   "rank": 1.062
-  },
-  {
    "id": "memory-chip",
    "term": "memory chip",
    "direction": "steady",
-   "ratio": 0.2824774121061748,
+   "ratio": 0.2823584464202153,
    "display": false,
    "adoptionSpan": 2,
    "pace": "mixed",
@@ -41587,7 +41579,7 @@
    "id": "subsea-cable",
    "term": "subsea cable",
    "direction": "steady",
-   "ratio": 0.23059380580095903,
+   "ratio": 0.23049669095527778,
    "display": false,
    "adoptionSpan": 23,
    "pace": "mixed",
@@ -42189,7 +42181,7 @@
    "id": "data-center",
    "term": "data center",
    "direction": "steady",
-   "ratio": 0.22435762111577584,
+   "ratio": 0.2242631326464243,
    "display": false,
    "adoptionSpan": 28,
    "pace": "gradual",
@@ -43200,7 +43192,7 @@
    "id": "production-base",
    "term": "production base",
    "direction": "falling",
-   "ratio": 0.21522088541422843,
+   "ratio": 0.21513024489159258,
    "display": false,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -43762,7 +43754,7 @@
    "id": "affordable-housing",
    "term": "affordable housing",
    "direction": "steady",
-   "ratio": 0.32283132812134263,
+   "ratio": 0.3226953673373889,
    "display": false,
    "adoptionSpan": 32,
    "pace": "gradual",
@@ -44374,7 +44366,7 @@
    "id": "hormuz-crisis",
    "term": "hormuz crisis",
    "direction": "rising",
-   "ratio": 1.2913253124853705,
+   "ratio": 1.2907814693495554,
    "display": false,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -44980,7 +44972,7 @@
    "id": "drone-strike",
    "term": "drone strike",
    "direction": "falling",
-   "ratio": 0.20176958007583914,
+   "ratio": 0.20168460458586807,
    "display": false,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -45511,7 +45503,7 @@
    "id": "oil-production",
    "term": "oil production",
    "direction": "falling",
-   "ratio": 0.1434805902761523,
+   "ratio": 0.14342016326106172,
    "display": false,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -46104,7 +46096,7 @@
    "id": "power-infrastructure",
    "term": "power infrastructure",
    "direction": "falling",
-   "ratio": 0.16141566406067132,
+   "ratio": 0.16134768366869445,
    "display": false,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -46702,7 +46694,7 @@
    "id": "consumer-electronics",
    "term": "consumer electronics",
    "direction": "steady",
-   "ratio": 0.24212349609100697,
+   "ratio": 0.24202152550304165,
    "display": false,
    "adoptionSpan": 43,
    "pace": "gradual",
@@ -47326,7 +47318,7 @@
    "id": "solar-farm",
    "term": "solar farm",
    "direction": "rising",
-   "ratio": 0.8070783203033566,
+   "ratio": 0.8067384183434723,
    "display": false,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -47879,7 +47871,7 @@
    "id": "red-sea",
    "term": "red sea",
    "direction": "rising",
-   "ratio": 0.5429435972949853,
+   "ratio": 0.5427149359765177,
    "display": false,
    "adoptionSpan": 17,
    "pace": "mixed",
@@ -48062,7 +48054,7 @@
      "falling",
      2,
      2,
-     67.1,
+     67.3,
      [
       {
        "title": "Suez return cuts India-Savannah \u2f00transit times\u2f01 by up to 14 days",
@@ -48565,7 +48557,7 @@
    "id": "semicon-india",
    "term": "semicon india",
    "direction": "rising",
-   "ratio": 1.7755723046673844,
+   "ratio": 1.7748245203556388,
    "display": false,
    "adoptionSpan": 17,
    "pace": "mixed",
@@ -48700,7 +48692,7 @@
      "new",
      2,
      0,
-     301.1,
+     301.6,
      [
       {
        "title": "Micron to scale up India chip assembly multifold next year as semiconductor mission shifts to execution",
@@ -49188,7 +49180,7 @@
    "id": "middle-east",
    "term": "middle east",
    "direction": "steady",
-   "ratio": 0.29458358691072517,
+   "ratio": 0.29445952269536735,
    "display": false,
    "adoptionSpan": 78,
    "pace": "gradual",
@@ -50548,7 +50540,7 @@
    "id": "pacific-island",
    "term": "pacific island",
    "direction": "rising",
-   "ratio": 0.48424699218201395,
+   "ratio": 0.4840430510060833,
    "display": false,
    "adoptionSpan": 24,
    "pace": "mixed",
@@ -51065,7 +51057,7 @@
    "id": "office-space",
    "term": "office space",
    "direction": "falling",
-   "ratio": 0.13451305338389277,
+   "ratio": 0.13445640305724538,
    "display": false,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -51676,7 +51668,7 @@
    "id": "wind-turbine",
    "term": "wind turbine",
    "direction": "falling",
-   "ratio": 0.12106174804550349,
+   "ratio": 0.12101076275152083,
    "display": false,
    "adoptionSpan": 28,
    "pace": "gradual",
@@ -52229,7 +52221,7 @@
    "id": "energy-demand",
    "term": "energy demand",
    "direction": "falling",
-   "ratio": 0.16141566406067132,
+   "ratio": 0.16134768366869445,
    "display": false,
    "adoptionSpan": 12,
    "pace": "mixed",
@@ -52836,7 +52828,7 @@
    "id": "pushed-back",
    "term": "pushed back",
    "direction": "steady",
-   "ratio": 0.24212349609100697,
+   "ratio": 0.24202152550304165,
    "display": false,
    "adoptionSpan": 18,
    "pace": "mixed",
@@ -53411,7 +53403,7 @@
    "id": "logistics-facility",
    "term": "logistics facility",
    "direction": "rising",
-   "ratio": 0.6456626562426853,
+   "ratio": 0.6453907346747777,
    "display": false,
    "adoptionSpan": 9,
    "pace": "mixed",
@@ -53941,7 +53933,7 @@
    "id": "chief-economist",
    "term": "chief economist",
    "direction": "falling",
-   "ratio": 0.12913253124853707,
+   "ratio": 0.12907814693495553,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -54486,7 +54478,7 @@
    "id": "high-temperature",
    "term": "high temperature",
    "direction": "steady",
-   "ratio": 0.32283132812134263,
+   "ratio": 0.3226953673373889,
    "display": false,
    "adoptionSpan": 38,
    "pace": "gradual",
@@ -55084,7 +55076,7 @@
    "id": "nuclear-fuel",
    "term": "nuclear fuel",
    "direction": "rising",
-   "ratio": 0.6456626562426853,
+   "ratio": 0.6453907346747777,
    "display": false,
    "adoptionSpan": 4,
    "pace": "mixed",
@@ -55652,7 +55644,7 @@
    "id": "iran-war",
    "term": "iran war",
    "direction": "falling",
-   "ratio": 0.14442454152796907,
+   "ratio": 0.1443637169667266,
    "display": false,
    "adoptionSpan": 36,
    "pace": "gradual",
@@ -56411,7 +56403,7 @@
    "id": "zero-emission",
    "term": "zero emission",
    "direction": "falling",
-   "ratio": 0.09684939843640279,
+   "ratio": 0.09680861020121666,
    "display": false,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -57044,7 +57036,7 @@
    "id": "rare-earth",
    "term": "rare earth",
    "direction": "falling",
-   "ratio": 0.20625334852196892,
+   "ratio": 0.20616648468777624,
    "display": false,
    "adoptionSpan": 37,
    "pace": "gradual",
@@ -57299,7 +57291,7 @@
      "falling",
      4,
      4,
-     108.0,
+     108.2,
      [
       {
        "title": "Rinehart's nine-deal spree takes her well beyond iron ore",
@@ -57338,7 +57330,7 @@
      "new",
      2,
      0,
-     72.0,
+     72.1,
      [
       {
        "title": "Billionaire's buying spree stretches beyond \u2f00iron ore\u2f01",
