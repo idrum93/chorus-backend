@@ -1,6 +1,6 @@
 # Crosstalk — week ending 28 September 2026
 
-*23,279 articles over 180 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*23,418 articles over 181 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
@@ -20,8 +20,6 @@
 **[feasibility study](https://crosstalkwire.com/#feasibility-study)** — 8 articles, 1.6× the fortnight before, in materials, energy
 
 **[solar storage](https://crosstalkwire.com/#solar-storage)** — 7 articles, 1.4× the fortnight before, in energy, utilities
-
-**[carbon dioxide](https://crosstalkwire.com/#carbon-dioxide)** — 7 articles, 1.4× the fortnight before, in policy, energy
 
 ## Being discussed alongside
 
