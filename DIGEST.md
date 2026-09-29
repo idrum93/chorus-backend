@@ -1,30 +1,29 @@
-# Crosstalk — week ending 28 September 2026
+# Crosstalk — week ending 29 September 2026
 
-*23,418 articles over 181 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*23,542 articles over 181 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
-**[energy infrastructure](https://crosstalkwire.com/#energy-infrastructure)** — Energy, Utilities, 11 articles across 4 newsrooms
 **[solar storage](https://crosstalkwire.com/#solar-storage)** — Energy, Utilities, 7 articles across 0 newsrooms
 **[battery technology](https://crosstalkwire.com/#battery-technology)** — Autos, Technology, 5 articles across 4 newsrooms
+**[power producer](https://crosstalkwire.com/#power-producer)** — Energy, Utilities, 4 articles across 3 newsrooms
+**[iron ore](https://crosstalkwire.com/#iron-ore)** — Materials, Supply chain, 10 articles across 5 newsrooms
+**[energy price](https://crosstalkwire.com/#energy-price)** — Energy, Supply chain, 7 articles across 4 newsrooms
 **[gas plant](https://crosstalkwire.com/#gas-plant)** — Energy, Technology, 4 articles across 3 newsrooms
-**[critical infrastructure](https://crosstalkwire.com/#critical-infrastructure)** — Technology, Utilities, 5 articles across 5 newsrooms
-**[solid state](https://crosstalkwire.com/#solid-state)** — Autos, Technology, 7 articles across 0 newsrooms
 
 ## Being used more than a fortnight ago
 
-**[energy infrastructure](https://crosstalkwire.com/#energy-infrastructure)** — 11 articles, 3.7× the fortnight before, in utilities, energy
+**[solar storage](https://crosstalkwire.com/#solar-storage)** — 7 articles, 2.3× the fortnight before, in energy, utilities
 
-**[critical infrastructure](https://crosstalkwire.com/#critical-infrastructure)** — 5 articles, 1.7× the fortnight before, in utilities, technology
+**[energy price](https://crosstalkwire.com/#energy-price)** — 7 articles, 2.3× the fortnight before, in energy, supply chain
 
-**[feasibility study](https://crosstalkwire.com/#feasibility-study)** — 8 articles, 1.6× the fortnight before, in materials, energy
-
-**[solar storage](https://crosstalkwire.com/#solar-storage)** — 7 articles, 1.4× the fortnight before, in energy, utilities
+**[fossil fuel](https://crosstalkwire.com/#fossil-fuel)** — 17 articles, 1.5× the fortnight before, in policy, energy, utilities
 
 ## Being discussed alongside
 
+**iron ore** — rare earth
+**energy price** — prices elevated, global oil
 **gas plant** — data center
-**feasibility study** — gold copper
 
 ---
 
