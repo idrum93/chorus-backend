@@ -1,21 +1,27 @@
 # Crosstalk — week ending 29 September 2026
 
-*23,743 articles over 181 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*23,930 articles over 181 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
 **[battery technology](https://crosstalkwire.com/#battery-technology)** — Autos, Technology, 6 articles across 4 newsrooms
-**[solar storage](https://crosstalkwire.com/#solar-storage)** — Energy, Utilities, 7 articles across 0 newsrooms
+**[solar storage](https://crosstalkwire.com/#solar-storage)** — Energy, Utilities, 8 articles across 0 newsrooms
 **[power producer](https://crosstalkwire.com/#power-producer)** — Energy, Utilities, 4 articles across 3 newsrooms
 **[renewable generation](https://crosstalkwire.com/#renewable-generation)** — Energy, Utilities, 4 articles across 3 newsrooms
-**[iron ore](https://crosstalkwire.com/#iron-ore)** — Materials, Supply chain, 10 articles across 5 newsrooms
-**[gas plant](https://crosstalkwire.com/#gas-plant)** — Energy, Technology, 4 articles across 3 newsrooms
+**[iron ore](https://crosstalkwire.com/#iron-ore)** — Energy, Industrials, Materials and 1 more, 13 articles across 8 newsrooms
+**[energy consumption](https://crosstalkwire.com/#energy-consumption)** — Energy, Technology, 4 articles across 4 newsrooms
+
+## Crossed into a new sector this week
+
+**steel mill** — now in 3 sectors. **Industrials** picked it up 6d ago; it was first recorded in materials coverage on 7 August 2026.
+  - [Trump unveils plans to build $15B ⼀steel mill⼁ in Iowa](https://www.manufacturingdive.com/news/trump-plans-to-build-largest-us-steel-mill-iowa-mesabi-metallics/831622/) · Manufacturing Dive · industrials
+  - [Mesabi Metallics to build a $15B lower-carbon ⼀steel mill⼁ in Iowa](https://www.canarymedia.com/articles/green-steel/mesabi-metallics-steel-mill-iowa) · Canary Media · energy
 
 ## Being used more than a fortnight ago
 
-**[solar storage](https://crosstalkwire.com/#solar-storage)** — 7 articles, 2.3× the fortnight before, in energy, utilities
+**[solar storage](https://crosstalkwire.com/#solar-storage)** — 8 articles, 2.7× the fortnight before, in energy, utilities
 
-**[fossil fuel](https://crosstalkwire.com/#fossil-fuel)** — 17 articles, 1.5× the fortnight before, in policy, energy, utilities
+**[iron ore](https://crosstalkwire.com/#iron-ore)** — 13 articles, 1.4× the fortnight before, in energy, supply chain, materials
 
 ## Being discussed alongside
 
