@@ -1,13 +1,13 @@
 # Crosstalk — week ending 30 September 2026
 
-*24,087 articles over 182 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*24,320 articles over 182 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
+**[renewable generation](https://crosstalkwire.com/#renewable-generation)** — Energy, Utilities, 5 articles across 4 newsrooms
 **[solar storage](https://crosstalkwire.com/#solar-storage)** — Energy, Utilities, 7 articles across 0 newsrooms
 **[iron ore](https://crosstalkwire.com/#iron-ore)** — Energy, Industrials, Materials and 1 more, 12 articles across 8 newsrooms
-**[renewable generation](https://crosstalkwire.com/#renewable-generation)** — Energy, Utilities, 4 articles across 3 newsrooms
-**[battery cell](https://crosstalkwire.com/#battery-cell)** — Autos, Technology, Utilities, 13 articles across 5 newsrooms
+**[battery cell](https://crosstalkwire.com/#battery-cell)** — Autos, Technology, Utilities, 14 articles across 5 newsrooms
 **[energy consumption](https://crosstalkwire.com/#energy-consumption)** — Energy, Technology, 4 articles across 4 newsrooms
 **[gas plant](https://crosstalkwire.com/#gas-plant)** — Energy, Technology, 4 articles across 3 newsrooms
 
