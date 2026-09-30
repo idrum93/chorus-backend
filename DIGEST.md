@@ -1,33 +1,35 @@
-# Crosstalk — week ending 29 September 2026
+# Crosstalk — week ending 30 September 2026
 
-*23,930 articles over 181 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*24,087 articles over 182 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
-**[battery technology](https://crosstalkwire.com/#battery-technology)** — Autos, Technology, 6 articles across 4 newsrooms
-**[solar storage](https://crosstalkwire.com/#solar-storage)** — Energy, Utilities, 8 articles across 0 newsrooms
-**[power producer](https://crosstalkwire.com/#power-producer)** — Energy, Utilities, 4 articles across 3 newsrooms
+**[solar storage](https://crosstalkwire.com/#solar-storage)** — Energy, Utilities, 7 articles across 0 newsrooms
+**[iron ore](https://crosstalkwire.com/#iron-ore)** — Energy, Industrials, Materials and 1 more, 12 articles across 8 newsrooms
 **[renewable generation](https://crosstalkwire.com/#renewable-generation)** — Energy, Utilities, 4 articles across 3 newsrooms
-**[iron ore](https://crosstalkwire.com/#iron-ore)** — Energy, Industrials, Materials and 1 more, 13 articles across 8 newsrooms
+**[battery cell](https://crosstalkwire.com/#battery-cell)** — Autos, Technology, Utilities, 13 articles across 5 newsrooms
 **[energy consumption](https://crosstalkwire.com/#energy-consumption)** — Energy, Technology, 4 articles across 4 newsrooms
+**[gas plant](https://crosstalkwire.com/#gas-plant)** — Energy, Technology, 4 articles across 3 newsrooms
 
 ## Crossed into a new sector this week
 
-**steel mill** — now in 3 sectors. **Industrials** picked it up 6d ago; it was first recorded in materials coverage on 7 August 2026.
+**steel mill** — now in 3 sectors. **Industrials** picked it up 7d ago; it was first recorded in materials coverage on 7 August 2026.
   - [Trump unveils plans to build $15B ⼀steel mill⼁ in Iowa](https://www.manufacturingdive.com/news/trump-plans-to-build-largest-us-steel-mill-iowa-mesabi-metallics/831622/) · Manufacturing Dive · industrials
   - [Mesabi Metallics to build a $15B lower-carbon ⼀steel mill⼁ in Iowa](https://www.canarymedia.com/articles/green-steel/mesabi-metallics-steel-mill-iowa) · Canary Media · energy
 
 ## Being used more than a fortnight ago
 
-**[solar storage](https://crosstalkwire.com/#solar-storage)** — 8 articles, 2.7× the fortnight before, in energy, utilities
+**[digital infrastructure](https://crosstalkwire.com/#digital-infrastructure)** — 9 articles, 3.0× the fortnight before, in technology, finance, real estate
 
-**[iron ore](https://crosstalkwire.com/#iron-ore)** — 13 articles, 1.4× the fortnight before, in energy, supply chain, materials
+**[solar storage](https://crosstalkwire.com/#solar-storage)** — 7 articles, 1.8× the fortnight before, in energy, utilities
+
+**[feasibility study](https://crosstalkwire.com/#feasibility-study)** — 7 articles, 1.4× the fortnight before, in materials, energy
 
 ## Being discussed alongside
 
-**battery technology** — solid state
 **iron ore** — rare earth
 **gas plant** — data center
+**feasibility study** — gold copper
 
 ---
 
