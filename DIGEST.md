@@ -1,15 +1,15 @@
 # Crosstalk — week ending 30 September 2026
 
-*24,320 articles over 182 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*24,527 articles over 182 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
 **[renewable generation](https://crosstalkwire.com/#renewable-generation)** — Energy, Utilities, 5 articles across 4 newsrooms
 **[solar storage](https://crosstalkwire.com/#solar-storage)** — Energy, Utilities, 7 articles across 0 newsrooms
-**[iron ore](https://crosstalkwire.com/#iron-ore)** — Energy, Industrials, Materials and 1 more, 12 articles across 8 newsrooms
-**[battery cell](https://crosstalkwire.com/#battery-cell)** — Autos, Technology, Utilities, 14 articles across 5 newsrooms
-**[energy consumption](https://crosstalkwire.com/#energy-consumption)** — Energy, Technology, 4 articles across 4 newsrooms
+**[battery cell](https://crosstalkwire.com/#battery-cell)** — Autos, Technology, Utilities, 15 articles across 6 newsrooms
+**[iron ore](https://crosstalkwire.com/#iron-ore)** — Energy, Industrials, Materials and 1 more, 13 articles across 8 newsrooms
 **[gas plant](https://crosstalkwire.com/#gas-plant)** — Energy, Technology, 4 articles across 3 newsrooms
+**[power producer](https://crosstalkwire.com/#power-producer)** — Energy, Utilities, 3 articles across 3 newsrooms
 
 ## Crossed into a new sector this week
 
@@ -22,6 +22,10 @@
 **[digital infrastructure](https://crosstalkwire.com/#digital-infrastructure)** — 9 articles, 3.0× the fortnight before, in technology, finance, real estate
 
 **[solar storage](https://crosstalkwire.com/#solar-storage)** — 7 articles, 1.8× the fortnight before, in energy, utilities
+
+**[energy cost](https://crosstalkwire.com/#energy-cost)** — 7 articles, 1.8× the fortnight before, in energy, utilities
+
+**[iron ore](https://crosstalkwire.com/#iron-ore)** — 13 articles, 1.4× the fortnight before, in energy, supply chain, materials
 
 **[feasibility study](https://crosstalkwire.com/#feasibility-study)** — 7 articles, 1.4× the fortnight before, in materials, energy
 
