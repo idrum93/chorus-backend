@@ -1,25 +1,27 @@
 # Crosstalk — week ending 1 October 2026
 
-*24,609 articles over 183 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*24,798 articles over 183 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
 **[renewable generation](https://crosstalkwire.com/#renewable-generation)** — Energy, Utilities, 5 articles across 4 newsrooms
 **[solar storage](https://crosstalkwire.com/#solar-storage)** — Energy, Utilities, 7 articles across 0 newsrooms
-**[battery cell](https://crosstalkwire.com/#battery-cell)** — Autos, Technology, 12 articles across 5 newsrooms
+**[battery cell](https://crosstalkwire.com/#battery-cell)** — Autos, Technology, 13 articles across 5 newsrooms
+**[digital infrastructure](https://crosstalkwire.com/#digital-infrastructure)** — Finance, Real estate, Technology, 11 articles across 6 newsrooms
 **[gas plant](https://crosstalkwire.com/#gas-plant)** — Energy, Technology, 4 articles across 3 newsrooms
 **[power producer](https://crosstalkwire.com/#power-producer)** — Energy, Utilities, 3 articles across 3 newsrooms
-**[energy cost](https://crosstalkwire.com/#energy-cost)** — Energy, Utilities, 7 articles across 5 newsrooms
 
 ## Being used more than a fortnight ago
 
-**[digital infrastructure](https://crosstalkwire.com/#digital-infrastructure)** — 9 articles, 3.0× the fortnight before, in technology, finance, real estate
+**[digital infrastructure](https://crosstalkwire.com/#digital-infrastructure)** — 11 articles, 3.7× the fortnight before, in technology, finance, real estate
 
-**[battery cell](https://crosstalkwire.com/#battery-cell)** — 12 articles, 2.4× the fortnight before, in technology, autos
+**[solar panel](https://crosstalkwire.com/#solar-panel)** — 11 articles, 2.8× the fortnight before, in energy, materials, waste & water
+
+**[battery cell](https://crosstalkwire.com/#battery-cell)** — 13 articles, 2.6× the fortnight before, in technology, autos
 
 **[solar storage](https://crosstalkwire.com/#solar-storage)** — 7 articles, 2.3× the fortnight before, in energy, utilities
 
-**[energy cost](https://crosstalkwire.com/#energy-cost)** — 7 articles, 1.8× the fortnight before, in energy, utilities
+**[energy infrastructure](https://crosstalkwire.com/#energy-infrastructure)** — 10 articles, 1.7× the fortnight before, in utilities, energy
 
 ## Being discussed alongside
 
