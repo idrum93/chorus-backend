@@ -1,39 +1,30 @@
-# Crosstalk — week ending 30 September 2026
+# Crosstalk — week ending 1 October 2026
 
-*24,527 articles over 182 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*24,609 articles over 183 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
 **[renewable generation](https://crosstalkwire.com/#renewable-generation)** — Energy, Utilities, 5 articles across 4 newsrooms
 **[solar storage](https://crosstalkwire.com/#solar-storage)** — Energy, Utilities, 7 articles across 0 newsrooms
-**[battery cell](https://crosstalkwire.com/#battery-cell)** — Autos, Technology, Utilities, 15 articles across 6 newsrooms
-**[iron ore](https://crosstalkwire.com/#iron-ore)** — Energy, Industrials, Materials and 1 more, 13 articles across 8 newsrooms
+**[battery cell](https://crosstalkwire.com/#battery-cell)** — Autos, Technology, 12 articles across 5 newsrooms
 **[gas plant](https://crosstalkwire.com/#gas-plant)** — Energy, Technology, 4 articles across 3 newsrooms
 **[power producer](https://crosstalkwire.com/#power-producer)** — Energy, Utilities, 3 articles across 3 newsrooms
-
-## Crossed into a new sector this week
-
-**steel mill** — now in 3 sectors. **Industrials** picked it up 7d ago; it was first recorded in materials coverage on 7 August 2026.
-  - [Trump unveils plans to build $15B ⼀steel mill⼁ in Iowa](https://www.manufacturingdive.com/news/trump-plans-to-build-largest-us-steel-mill-iowa-mesabi-metallics/831622/) · Manufacturing Dive · industrials
-  - [Mesabi Metallics to build a $15B lower-carbon ⼀steel mill⼁ in Iowa](https://www.canarymedia.com/articles/green-steel/mesabi-metallics-steel-mill-iowa) · Canary Media · energy
+**[energy cost](https://crosstalkwire.com/#energy-cost)** — Energy, Utilities, 7 articles across 5 newsrooms
 
 ## Being used more than a fortnight ago
 
 **[digital infrastructure](https://crosstalkwire.com/#digital-infrastructure)** — 9 articles, 3.0× the fortnight before, in technology, finance, real estate
 
-**[solar storage](https://crosstalkwire.com/#solar-storage)** — 7 articles, 1.8× the fortnight before, in energy, utilities
+**[battery cell](https://crosstalkwire.com/#battery-cell)** — 12 articles, 2.4× the fortnight before, in technology, autos
+
+**[solar storage](https://crosstalkwire.com/#solar-storage)** — 7 articles, 2.3× the fortnight before, in energy, utilities
 
 **[energy cost](https://crosstalkwire.com/#energy-cost)** — 7 articles, 1.8× the fortnight before, in energy, utilities
 
-**[iron ore](https://crosstalkwire.com/#iron-ore)** — 13 articles, 1.4× the fortnight before, in energy, supply chain, materials
-
-**[feasibility study](https://crosstalkwire.com/#feasibility-study)** — 7 articles, 1.4× the fortnight before, in materials, energy
-
 ## Being discussed alongside
 
-**iron ore** — rare earth
 **gas plant** — data center
-**feasibility study** — gold copper
+**electricity demand** — natural gas price, data center
 
 ---
 
