@@ -1,6 +1,6 @@
 # Crosstalk — week ending 3 October 2026
 
-*25,463 articles over 186 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*25,474 articles over 186 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
@@ -9,11 +9,9 @@
 **[distribution network](https://crosstalkwire.com/#distribution-network)** — Consumer, Supply chain, 4 articles across 3 newsrooms
 **[solar storage](https://crosstalkwire.com/#solar-storage)** — Energy, Utilities, 6 articles across 0 newsrooms
 **[digital infrastructure](https://crosstalkwire.com/#digital-infrastructure)** — Finance, Real estate, Technology, 13 articles across 7 newsrooms
-**[grid operator](https://crosstalkwire.com/#grid-operator)** — Energy, Utilities, 5 articles across 3 newsrooms
+**[wind energy](https://crosstalkwire.com/#wind-energy)** — Energy, Technology, 4 articles across 3 newsrooms
 
 ## Being used more than a fortnight ago
-
-**[energy price](https://crosstalkwire.com/#energy-price)** — 10 articles, 2.5× the fortnight before, in energy, supply chain
 
 **[battery cell](https://crosstalkwire.com/#battery-cell)** — 13 articles, 2.2× the fortnight before, in technology, autos
 
@@ -24,7 +22,6 @@
 ## Being discussed alongside
 
 **gas plant** — data center
-**energy price** — prices elevated
 **engineering procurement** — construction contract
 
 ---
