@@ -1869,6 +1869,95 @@ def org_fragments(conn, window_start):
 def add_days(day, n):
     return (datetime.fromisoformat(day).date() + timedelta(days=n)).isoformat()
 
+
+# ---------------------------------------------------------------------------
+# Share prices, as a record of what happened alongside the language.
+#
+# Ten rounds of testing found no evidence that a phrase spreading across
+# sectors precedes a price move; the most recent filings backtest put the
+# breadth premium at -1.1 points with p = 0.624. So these figures are not a
+# signal and must never be framed as one. What they are for is saving the
+# reader a tab: the page already says a company is being described in another
+# industry's words, and the obvious next question is what its shares have
+# done over exactly that stretch. Showing it — including where the answer is
+# "nothing" or "fell" — is the honest way to answer that question. Hiding it
+# would not make the site more careful, only less useful.
+#
+# Every figure is a completed, backward-looking move against a stated date.
+# ---------------------------------------------------------------------------
+
+PRICE_STALE_DAYS = 14   # beyond this, show nothing rather than something old
+
+# One source of truth for which ETF stands for which sector: prices.py, which
+# is what actually fetches them. Copying the table here is how two files drift.
+try:
+    from prices import SECTOR_ETF as _SECTOR_ETF
+    SECTOR_ETF_SYMBOL = {k: v[0] for k, v in _SECTOR_ETF.items()}
+except Exception:
+    SECTOR_ETF_SYMBOL = {}          # prices.py absent; companies show no benchmark
+
+
+def price_series(conn, symbol):
+    """Daily closes for a symbol, oldest first. Missing prices are normal:
+    the table only holds what a provider actually served."""
+    if not symbol:
+        return []
+    try:
+        return list(conn.execute(
+            "SELECT day, close FROM prices WHERE symbol=? ORDER BY day",
+            (symbol,)))
+    except sqlite3.OperationalError:
+        return []          # no price table yet; the dashboard copes
+
+
+def close_at(series, day):
+    """The last close at or before a date. Exchanges are shut at weekends and
+    these dates come from publication days, so an exact match is the exception
+    rather than the rule — the close before is the right answer, not a gap."""
+    out = None
+    for d, c in series:
+        if d > day:
+            break
+        out = c
+    return out
+
+
+def move(a, b):
+    return None if not a or not b else round((b - a) / a * 100, 1)
+
+
+def price_block(conn, symbol, fortnight_start, cross_day=None, today=None):
+    """Two completed moves for one symbol: the fortnight the article counts
+    cover, and the stretch since a phrase reached this company's industry.
+
+    Returns None rather than a partial figure when the series is missing or
+    stale, because a silently out-of-date percentage is worse than no
+    percentage at all."""
+    series = price_series(conn, symbol)
+    if len(series) < 2:
+        return None
+    last_day, last_close = series[-1]
+    today = today or datetime.now(timezone.utc).date().isoformat()
+    try:
+        age = (datetime.fromisoformat(today).date()
+               - datetime.fromisoformat(last_day).date()).days
+    except ValueError:
+        age = 0
+    if age > PRICE_STALE_DAYS:
+        return None
+    out = {"symbol": symbol, "asof": last_day, "close": round(last_close, 2),
+           "d14": move(close_at(series, fortnight_start), last_close)}
+    if cross_day and cross_day < last_day:
+        base = close_at(series, cross_day)
+        since = move(base, last_close)
+        if since is not None:
+            out["sinceCross"] = since
+            out["crossDay"] = cross_day
+    if out["d14"] is None and "sinceCross" not in out:
+        return None
+    return out
+
+
 def sector_overlap(conn, window_start):
     """For each pair of sectors, the share of vocabulary they hold in common.
 
@@ -3172,6 +3261,7 @@ def main():
             titles = list(conn.execute(
                 f"SELECT title, summary, sector, published, url, publisher FROM articles "
                 f"WHERE id IN ({qs}) ORDER BY published DESC", arts))
+            own = meta.get(ticker, {}).get("sector", "")
             # which tracked phrases appear in this company's coverage
             attached = []
             for t in terms:
@@ -3186,7 +3276,16 @@ def main():
                             if secs else "")
                     if t.get("kind") == "place":
                         continue      # a place is not borrowed vocabulary
+                    # the day this language reached THIS company's industry,
+                    # which is the crossing the row is reporting. Where the
+                    # company's sector is not among the phrase's, fall back to
+                    # the phrase's own first appearance anywhere.
+                    mine = next((s for s in secs if s.get("name") == own), None)
+                    cross = ((mine or {}).get("firstSeen")
+                             or (min((s.get("firstSeen") for s in secs
+                                      if s.get("firstSeen")), default=None)))
                     attached.append({"term": t["term"], "id": t["id"],
+                                     "cross": cross,
                                      "articles": len(hits),
                                      "home": home, "shown": t.get("display", True),
                                      "sectors": t["sectorCount"],
@@ -3218,7 +3317,6 @@ def main():
 
             if not attached or recent_n < CO_MIN_ARTICLES:
                 continue          # one article is a name match, not coverage
-            own = meta.get(ticker, {}).get("sector", "")
             borrowed = [a for a in attached
                         if a["sectors"] >= CO_MIN_PHRASE_SECTORS
                         and a.get("shown")
@@ -3227,7 +3325,23 @@ def main():
                 continue          # only ever discussed in its own sector's words
             # lead with the language it borrowed, not the language it owns
             attached.sort(key=lambda a: (a not in borrowed, -a["articles"]))
+            # The crossing this row is about is the first borrowed phrase, so
+            # that is the date the "since" figure counts from. Naming it on the
+            # page is what keeps the number a measurement rather than a claim.
+            lead_cross = borrowed[0].get("cross")
+            px = price_block(conn, ticker, recent, lead_cross)
+            if px:
+                # the same fortnight for the company's whole industry. Without
+                # it a reader cannot tell a company move from a market move,
+                # and in a rising market every row would read as confirmation.
+                etf = SECTOR_ETF_SYMBOL.get(own)
+                bench = price_block(conn, etf, recent, lead_cross) if etf else None
+                if bench:
+                    px["sector14d"] = bench.get("d14")
+                    if "sinceCross" in px and "sinceCross" in bench:
+                        px["sectorSinceCross"] = bench["sinceCross"]
             companies.append({
+                "price": px,
                 "prior14d": prior_n,
                 "direction": (None if max(recent_n, prior_n) < CO_DIR_MIN else
                               "new" if prior_n == 0 else

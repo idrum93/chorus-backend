@@ -46,6 +46,17 @@ To run by hand: **Actions → collect → Run workflow**. Leave `backfill_weeks`
 **Actions → probe** tests all 43 feeds plus the price providers and names
 anything broken. Run it after editing `config.json`.
 
+**Actions → prices** fetches daily closes for the US-listed companies the
+Companies tab is showing. It runs itself once a day and is deliberately not a
+step inside `collect`: the free Twelve Data tier allows eight requests a
+minute, so pricing sixty companies takes several minutes, and collection has a
+25 minute budget that belongs to the articles. Each run only fetches symbols
+whose latest close is more than three days old, so most runs finish quickly.
+The first run is the slow one.
+
+If prices are missing entirely nothing else breaks — company rows appear
+without a figure, which is the honest state rather than a broken one.
+
 ---
 
 ## Reading a run
@@ -70,7 +81,7 @@ three days are named for removal.
 
 | name | needed for |
 |---|---|
-| `TWELVEDATA_KEY` | Sector prices. Free, email signup |
+| `TWELVEDATA_KEY` | Sector and company prices. Free, email signup |
 | `EDGAR_UA` | SEC probe. Format: `crosstalk-research you@crosstalkwire.com` |
 
 Settings → Secrets and variables → Actions.

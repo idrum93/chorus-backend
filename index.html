@@ -67,7 +67,7 @@ a:hover{text-decoration:underline}
 .wordmark span{color:var(--heat)}
 .covkey b,.originkey b{font-weight:inherit}
 .rshort{display:none}
-@media (){ .rfull{display:none} .rshort{display:inline} }
+@media (max-width:760px){ .rfull{display:none} .rshort{display:inline} }
 
 /* the distinctiveness figure wraps to its own line rather than pushing the
    topic links off the edge */
@@ -213,10 +213,11 @@ a:hover{text-decoration:underline}
 .shell{display:grid;grid-template-columns:330px minmax(0,1fr);gap:1px;background:var(--rule)}
 /* the overview is the map; a list beside it repeats the same phrases in a
    different order and disagrees with what the left column means elsewhere.
-   The tabs stay, so the column collapses to their height and the map takes
-   the full width beneath them. */
+   The tab bar now sits above the shell, so the whole left column goes rather
+   than just the list inside it — an empty column would still claim a grid
+   track and leave a seam down the page. */
 .shell.wide{grid-template-columns:minmax(0,1fr)}
-.shell.wide #listpane{display:none}
+.shell.wide > .col:first-child{display:none}
 .col{background:var(--ground);min-width:0;max-width:100%;display:flex;
   flex-direction:column}
 .pane{min-width:0}
@@ -238,14 +239,17 @@ table{max-width:100%}
 .pane-head{display:flex;align-items:baseline;gap:10px;margin-bottom:11px}
 .pane-head .eyebrow{flex:1}
 
-/* tabs */
-.tabs{display:flex;flex-wrap:wrap;border-bottom:1px solid var(--rule);background:var(--panel)}
+/* tabs — a page-wide bar above both columns, the way the overview already
+   showed them. Being outside .shell is what lets them span it; inside the
+   left column they could only ever be 330px wide except on the overview,
+   where that column happened to be the whole page. */
+.tabs{display:flex;flex-wrap:wrap;border-bottom:1px solid var(--rule);
+  background:var(--panel);position:relative;z-index:2}
 .tab{flex:1 1 auto;min-width:max-content;padding:10px 11px;font-family:var(--mono);font-size:10px;
   letter-spacing:.06em;text-transform:uppercase;color:var(--muted);text-align:center;
-  border-right:1px solid var(--ink-2);border-bottom:1px solid var(--rule);
+  border-right:1px solid var(--ink-2);
   white-space:nowrap;overflow:visible}
 .count{display:inline}
-@media (){ .tab{font-size:9px;padding:9px 8px;letter-spacing:.03em} }
 .tabs .tab:last-child{border-right:none}
 .tab[aria-selected="true"]{background:var(--ink);color:var(--ground)}
 .tab .count{opacity:.6}
@@ -275,6 +279,18 @@ table{max-width:100%}
 .cometa{font-size:11.5px;color:var(--muted);margin-top:2px}
 .coterms{font-size:12.5px;color:var(--ink-2);margin-top:5px;line-height:1.45}
 .coterms a{color:var(--ink);text-decoration:none;border-bottom:1px solid var(--rule)}
+/* share price. Deliberately quieter than the article counts beside it: the
+   counts are the evidence, this is the record of what happened next to them. */
+.copx{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 16px;margin-top:7px;
+  padding-top:7px;border-top:1px dotted var(--rule);font-family:var(--mono);font-size:11px}
+.copx .lab{color:var(--muted);letter-spacing:.05em;text-transform:uppercase;font-size:9.5px}
+.copx .fig{font-size:12.5px;font-weight:600;letter-spacing:-.01em}
+.copx .up{color:var(--good)} .copx .down{color:var(--heat)} .copx .flat{color:var(--muted)}
+.copx .bench{color:var(--muted);font-size:10.5px}
+.copx .asof{color:var(--muted);font-size:9.5px;letter-spacing:.05em;
+  text-transform:uppercase;margin-left:auto}
+.copx-none{margin-top:6px;font-family:var(--mono);font-size:10px;
+  letter-spacing:.05em;text-transform:uppercase;color:var(--muted)}
 .coterms a:hover{border-bottom-color:var(--ink)}
 .listshape{margin:0 0 10px;font-size:11.5px;line-height:1.45;color:var(--muted)}
 .listshape b{color:var(--ink);font-weight:600}
@@ -283,7 +299,9 @@ table{max-width:100%}
   max-height:calc(100vh - 178px);min-height:0;
   overflow-y:auto;overscroll-behavior:contain}
 .termlist:has(> .empty){min-height:0}
-.shell > .shell > .col:first-child{position:sticky;top:0;align-self:start}
+/* was ".shell > .shell > .col" — a descendant that does not exist, so the
+   column never actually stuck */
+.shell > .col:first-child{position:sticky;top:0;align-self:start}
 @media (max-width:900px){
   .shell > .col:first-child{position:static;align-self:auto}
   /* the list becomes a short scroller so it cannot fill the screen and
@@ -291,9 +309,8 @@ table{max-width:100%}
   .termlist{max-height:calc(5 * 52px);min-height:0}
 }
 
-@media (){
-  .termlist{max-height:calc(5 * 52px);min-height:0;overflow-y:auto}
-}
+/* was an empty @media, so it never applied; the 900px block above already
+   carries the same cap, which is why nothing looked wrong */
 
 
 .termlist::-webkit-scrollbar{width:9px}
@@ -803,8 +820,11 @@ li.brk i{flex:1;height:0;border-top:1px solid var(--ink-2);opacity:.75}
 }
 
 /* Phones: the two-column shell, the capped scrolling list and the wide maps
-   all assume a desktop. Undo each so the page becomes one readable column. */
-@media (){
+   all assume a desktop. Undo each so the page becomes one readable column.
+   This block was written with an empty "@media ()", which is not a valid
+   query — so every rule in it has been discarded by the browser since the day
+   it was added, and phones have been getting the 900px rules and nothing more. */
+@media (max-width:620px){
   body{font-size:15px}
   .masthead{flex-direction:column;align-items:flex-start;gap:12px;padding:16px 14px}
   .headright{align-items:flex-start;margin-left:0}
@@ -862,14 +882,15 @@ li.brk i{flex:1;height:0;border-top:1px solid var(--ink-2);opacity:.75}
   </div>
 </header>
 
+<div class="tabs" role="tablist">
+  <button class="tab" id="tab-map" role="tab" aria-selected="true">Overview</button>
+  <button class="tab" id="tab-all" role="tab" aria-selected="false">Phrases <span class="count" id="c-all"></span></button>
+  <button class="tab" id="tab-comp" role="tab" aria-selected="false">Nuance <span class="count" id="c-comp"></span></button>
+  <button class="tab" id="tab-co" role="tab" aria-selected="false">Companies <span class="count" id="c-co"></span></button>
+</div>
+
 <div class="shell">
   <div class="col">
-    <div class="tabs" role="tablist">
-      <button class="tab" id="tab-map" role="tab" aria-selected="true">Overview</button>
-      <button class="tab" id="tab-all" role="tab" aria-selected="false">Phrases <span class="count" id="c-all"></span></button>
-      <button class="tab" id="tab-comp" role="tab" aria-selected="false">Nuance <span class="count" id="c-comp"></span></button>
-      <button class="tab" id="tab-co" role="tab" aria-selected="false">Companies <span class="count" id="c-co"></span></button>
-    </div>
     <section class="pane" id="listpane">
       <div class="filters" id="filters" role="group" aria-label="Filter by sector"></div>
       <label class="paceswitch"><input type="checkbox" id="hide-events">
@@ -888,10 +909,21 @@ li.brk i{flex:1;height:0;border-top:1px solid var(--ink-2);opacity:.75}
       <div id="co-list"></div>
       <p class="panenote" style="margin:14px 0 0;font-size:12px;color:var(--muted);line-height:1.45">
         Ordered by how many of the listed phrases a company appears alongside,
-        not by how often it is mentioned \u2014 a firm named in four different
+        not by how often it is mentioned &mdash; a firm named in four different
         crossings says more than one named repeatedly in a single story. A
         ticker is shown where the company has one; its absence means private or
-        listed elsewhere, not smaller.</p>
+        listed elsewhere, not smaller.
+        <br><br>
+        <b style="color:var(--ink-2)">About the share prices.</b> Daily closes
+        for US&#8209;listed names, shown over the same fortnight as the article
+        count beside them and from the day that phrase reached the company's own
+        industry, each against its sector&rsquo;s ETF over the identical stretch.
+        They are a record of what already happened, not a signal and not a
+        recommendation: testing on ten years of filings found a phrase spreading
+        across industries carried no information about the price that followed
+        (&minus;1.1 points, p&nbsp;=&nbsp;0.62). They are here so you can see the
+        market alongside the evidence instead of opening another tab &mdash;
+        including, often, that the two disagree.</p>
     </section>
 
         <section class="pane hide" id="comp-view">
@@ -1216,6 +1248,7 @@ function readHash(){
   if (!raw) return out;
   if (raw === 'nuance'){ out.view = 'comp'; return out; }
   if (raw === 'phrases'){ out.view = 'all'; return out; }
+  if (raw === 'companies'){ out.view = 'co'; return out; }
   // older links carried v= and t=; keep reading them
   if (raw.includes('=')){
     raw.split('&').forEach(part => {
@@ -1237,6 +1270,7 @@ function saveHash(){
   let frag = '';
   if (tab === 'all') frag = active || 'phrases';
   else if (tab === 'comp') frag = 'nuance';
+  else if (tab === 'co') frag = 'companies';
   // replaceState rather than location.replace: the latter treats a bare
   // pathname as a navigation and reloads the page
   history.replaceState(null, '', frag ? '#' + frag : location.pathname);
@@ -1279,7 +1313,7 @@ async function boot(){
     active = wantedTerm; tab = 'all';        // a shared link opens the phrase
   } else {
     active = DATA.terms[0].id;
-    if (wantedView && ['all','comp'].includes(wantedView)) tab = wantedView;
+    if (wantedView && ['all','comp','co','map'].includes(wantedView)) tab = wantedView;
   }
   const bf = $('buildfoot'), bh = document.querySelector('.build');
   if (bf && bh) bf.textContent = bh.textContent;
@@ -1301,28 +1335,86 @@ async function boot(){
     since.textContent = d.toLocaleDateString(undefined,
       { month: 'long', year: 'numeric' });
   }
-  masthead(); leadLine(); crossCountry(); foldNotes(); fillExplains();
-  const _shell = document.querySelector('.shell');
-  if (_shell) _shell.classList.toggle('wide', tab === 'map');
-  renderFilters(); renderDetail(); companions();
-
-  const onMap = tab === 'map';
-  TABS.forEach(([id, name]) => $(id).setAttribute('aria-selected', name === tab));
-  $('map-view').classList.toggle('hide', !onMap);
-  $('comp-view').classList.toggle('hide', tab !== 'comp');
-  $('co-view').classList.toggle('hide', tab !== 'co');
-  if (tab === 'co') companiesTab();
-  ['term-detail','term-charts','term-map','term-pair','term-geo','term-cos','term-duo','term-flow','term-filings']
-    .forEach(x => $(x).classList.toggle('hide', tab !== 'all'));
-  if (onMap){ treemap(); sectorHeat(); }
-  renderList();
-  scheduleFit();
+  masthead(); leadLine(); crossCountry(); fillExplains();
+  renderFilters();
+  applyTab(tab);
 }
 
 /* ---------------- list ---------------- */
 const TABS = [['tab-map','map'],['tab-all','all'],['tab-comp','comp'],
               ['tab-co','co'],
               ];
+
+// Every pane that belongs to a single phrase. Named once so that adding a pane
+// never again means remembering to add it in seven places.
+const DETAIL_PANES = ['term-detail','term-charts','term-map','term-pair',
+                      'term-geo','term-cos','term-duo','term-flow','term-filings'];
+
+/* The only place that decides what a tab shows.
+   This logic had been copied into seven call sites and they drifted: the copy
+   on the tab buttons was written before the Companies tab existed, so clicking
+   Companies left the phrase detail on screen and never unhid the pane or
+   filled it. One function, called from everywhere, is the fix — the bug cannot
+   come back by being half-updated. */
+function applyTab(name){
+  tab = name;
+  TABS.forEach(([id, n]) => {
+    const b = $(id);
+    if (b) b.setAttribute('aria-selected', String(n === name));
+  });
+  const shell = document.querySelector('.shell');
+  if (shell) shell.classList.toggle('wide', name === 'map');
+  [['map-view','map'], ['comp-view','comp'], ['co-view','co']].forEach(([id, n]) => {
+    const el = $(id);
+    if (el) el.classList.toggle('hide', name !== n);
+  });
+  DETAIL_PANES.forEach(x => {
+    const el = $(x);
+    if (el) el.classList.toggle('hide', name !== 'all');
+  });
+  // companions() fills COMP_PARENTS, which renderList reads on every tab,
+  // so it runs before the list regardless of which tab is open.
+  companions();
+  if (name === 'map'){ treemap(); sectorHeat(); }
+  if (name === 'co') companiesTab();
+  renderList();
+  renderDetail();            // re-hides term-geo / term-cos when they are empty
+  setTimeout(foldNotes, 0);
+  scheduleFit();
+}
+
+// Open a phrase from anywhere — a treemap tile, a companion chip, a company
+// row. Previously each of these carried its own copy of the pane juggling.
+function openPhrase(id){
+  if (!id) return;
+  active = id;
+  applyTab('all');
+  saveHash();
+}
+
+/* Open a phrase from a link inside another panel and put it in view. It used
+   to live inside companions(), so the Companies tab's own links referred to a
+   name that was not in scope there and threw on click. */
+function openParent(el){
+  if (!el || !el.dataset.jump) return;
+  openPhrase(el.dataset.jump);
+  const toTop = () => {
+    if ((window.innerWidth || 1200) < 900){
+      const d = $('term-detail');          // stacked columns: the top of the
+      if (d) {                             // page is the list, not the phrase
+        const y = d.getBoundingClientRect().top + window.pageYOffset - 8;
+        window.scrollTo(0, Math.max(0, y));
+        return;
+      }
+    }
+    window.scrollTo(0, 0);
+    document.documentElement.scrollTop = 0;
+    if (document.body) document.body.scrollTop = 0;
+  };
+  toTop(); revealActive(); toTop();
+  setTimeout(toTop, 60);
+  setTimeout(toTop, 160);
+}
 
 const MAP_IDS = new Set();     // the phrases the treemap actually had room for
 const MAP_ORDER = [];          // and the order it drew them in
@@ -1347,7 +1439,10 @@ function visible(anyTab){
   return DATA.terms.filter(t =>
     t.display !== false &&
     !(hideEvents && t.pace === 'simultaneous') &&
-    (anyTab || tab === 'all' ||
+    // 'co' shows the same list as 'all'. The alternative was a left column
+    // reading "no phrases match that filter" beside a full company list,
+    // because this test had no case for the tab at all.
+    (anyTab || tab === 'all' || tab === 'co' ||
      (tab === 'map' && (MAP_IDS.size === 0 || MAP_IDS.has(t.id))) ||
      (tab === 'comp' && COMP_PARENTS.has(t.id))) &&
     t.sectors.some(s => inSectors(s.name)) &&
@@ -1952,12 +2047,7 @@ function treemap(){
   $('treemap').innerHTML = s + '</svg>';
   $('treemap').querySelectorAll('.tile').forEach(g =>
     g.addEventListener('click', () => {
-      active = g.dataset.id; tab = 'all'; saveHash();
-      ['tab-all','tab-map','tab-comp'].forEach((id,k) =>
-        $(id).setAttribute('aria-selected', k === 0));
-      $('map-view').classList.add('hide');
-      ['term-detail','term-charts','term-map','term-pair','term-geo','term-cos','term-duo','term-flow','term-filings'].forEach(x => $(x).classList.remove('hide'));
-      renderList(); renderDetail();
+      openPhrase(g.dataset.id);
       revealActive();
       landOn('term-detail');
     }));
@@ -2036,13 +2126,7 @@ function wireJumps(root){
   root.querySelectorAll('[data-jump]').forEach(a =>
     a.addEventListener('click', e => {
       e.preventDefault();
-      active = a.dataset.jump; tab = 'all'; saveHash();
-      TABS.forEach(([id, n]) => $(id).setAttribute('aria-selected', n === 'all'));
-      ['map-view','comp-view','co-view']
-        .forEach(x => $(x).classList.add('hide'));
-      ['term-detail','term-charts','term-map','term-pair','term-geo','term-cos','term-duo','term-flow','term-filings']
-        .forEach(x => $(x).classList.remove('hide'));
-      renderList(); renderDetail();
+      openPhrase(a.dataset.jump);
       const toTop = () => {
         if ((window.innerWidth || 1200) < 900){
           const d = $('term-detail');          // the columns are stacked here,
@@ -2264,35 +2348,6 @@ function companions(){
   if (clear) clear.addEventListener('click', e => {
     e.stopPropagation(); compFocus.clear(); companions(); renderList();
   });
-  // Removed by an earlier rewrite while its call sites survived, so every click
-  // threw instead of navigating.
-  const openParent = el => {
-    if (!el.dataset.jump) return;
-    active = el.dataset.jump; tab = 'all'; saveHash();
-    TABS.forEach(([id, n]) => $(id).setAttribute('aria-selected', n === 'all'));
-    ['map-view','comp-view','co-view']
-      .forEach(x => $(x).classList.add('hide'));
-    ['term-detail','term-charts','term-map','term-pair','term-geo','term-cos','term-duo','term-flow','term-filings']
-      .forEach(x => $(x).classList.remove('hide'));
-    renderList(); renderDetail();
-    const toTop = () => {
-      if ((window.innerWidth || 1200) < 900){
-        const d = $('term-detail');
-        if (d) {
-          const y = d.getBoundingClientRect().top + window.pageYOffset - 8;
-          window.scrollTo(0, Math.max(0, y));
-          return;
-        }
-      }
-      window.scrollTo(0, 0);
-      document.documentElement.scrollTop = 0;
-      if (document.body) document.body.scrollTop = 0;
-    };
-    toTop(); revealActive(); toTop();
-    setTimeout(toTop, 60);
-    setTimeout(toTop, 160);
-  };
-
   wireArts($('comp-grid'));
 
   $('comp-grid').querySelectorAll('.withtopics [data-jump]').forEach(a =>
@@ -2443,6 +2498,7 @@ function refresh(){
   // and left the board showing an unfiltered ranking.
   if (tab === 'map'){ treemap(); sectorHeat(); }
   if (tab === 'comp') companions();
+  if (tab === 'co') companiesTab();   // same omission, one tab later
   renderList();
   scheduleFit();
 }
@@ -2532,7 +2588,10 @@ const EXPLAIN = {
        + 'own sector. Ordered by how many of the listed phrases each appears '
        + 'alongside \u2014 not by how often it is mentioned, which would '
        + 'measure how much of this collection covers the firm rather than '
-       + 'anything about the firm.',
+       + 'anything about the firm. Share prices are a record of what happened '
+       + 'over the same period, each against its sector, and are not a signal: '
+       + 'testing found a phrase spreading carried no information about the '
+       + 'price that followed.',
   cooccount: 'Articles across the visible window that carry both this '
            + 'phrase and the one it sits under. The section above says '
            + 'whether the pairing is new or rising, which compares this '
@@ -2621,6 +2680,65 @@ function listShape(){
     : '';
 }
 
+/* Share price, as a completed move against a stated date.
+
+   Nothing here is a recommendation and nothing here is a forecast. The site's
+   own backtest put the breadth premium at -1.1 points with p = 0.624, so a
+   phrase spreading tells you nothing about what a share will do next. What
+   these figures answer is the question a reader of this row would otherwise
+   open another tab to answer: while this company was being described in
+   another industry's words, what did its shares actually do?
+
+   The benchmark beside each figure is what makes it readable. +4% in a
+   fortnight means one thing when the sector did -1% and nothing at all when
+   the sector did +4%. Showing the move without the market it sat in would be
+   the dishonest version of this. */
+const shortDay = s => {
+  const d = new Date(s + 'T00:00:00');
+  return isNaN(d) ? s : d.toLocaleDateString('en-GB',
+    { day: 'numeric', month: 'short' });
+};
+
+/* A ticker worth printing. companies.json also carries foreign symbols
+   (2603.TW, VOLV-B.ST) and PRIVATE-… placeholders, and printing those as if
+   they were tickers tells a reader they can buy something they cannot. The
+   two places that show a ticker used to test this differently, so the same
+   company appeared with a symbol in one panel and without it in the other. */
+const tickerOf = c => {
+  const t = (c && c.ticker || '').trim();
+  return /^[A-Z]{1,5}$/.test(t) && t !== c.name ? t : '';
+};
+
+function pxFig(v){
+  if (v === null || v === undefined) return '';
+  const cls = v > 0.05 ? 'up' : v < -0.05 ? 'down' : 'flat';
+  const sign = v > 0 ? '+' : '';
+  return `<span class="fig ${cls}">${sign}${v.toFixed(1)}%</span>`;
+}
+
+// Reads as: "its shares did X over the same fortnight; its sector did Y."
+function priceRow(c){
+  const p = c.price;
+  if (!p || (p.d14 === null && p.sinceCross === undefined))
+    return `<div class="copx-none">no listed price — private, or listed `
+         + `outside the US</div>`;
+  // A bare percentage with no market beside it is the misleading version of
+  // this panel, so where the sector's own series is missing the row says that
+  // rather than letting the number stand on its own.
+  const bench = v => v === null || v === undefined
+    ? ` <span class="bench">sector n/a</span>`
+    : ` <span class="bench">sector ${v > 0 ? '+' : ''}${v.toFixed(1)}%</span>`;
+  const bits = [];
+  if (p.d14 !== null && p.d14 !== undefined)
+    bits.push(`<span><span class="lab">same fortnight</span> ${
+      pxFig(p.d14)}${bench(p.sector14d)}</span>`);
+  if (p.sinceCross !== undefined)
+    bits.push(`<span><span class="lab">since ${shortDay(p.crossDay)}</span> ${
+      pxFig(p.sinceCross)}${bench(p.sectorSinceCross)}</span>`);
+  bits.push(`<span class="asof">close ${shortDay(p.asof)}</span>`);
+  return `<div class="copx">${bits.join('')}</div>`;
+}
+
 // Ordered by how many listed phrases a company appears alongside, not by
 // mention count. Mention count measures how much of your feed list covers a
 // firm; phrase reach measures how far its language travels, which is what
@@ -2628,19 +2746,40 @@ function listShape(){
 function companiesTab(){
   const el = $('co-list');
   if (!el) return;
-  const rows = (DATA.companies || [])
+  // The sector chips and the search box belong to the whole page, so they
+  // narrow this list too. A company counts for a sector if it sits in it or if
+  // one of the phrases it borrowed reaches it — the tab is about language
+  // crossing between industries, so both ends of a crossing count.
+  const touches = c => {
+    if (sectors.size === 0) return true;
+    if (c.sector && inSectors(c.sector)) return true;
+    return (c.borrowed || []).some(term => {
+      const m = (DATA.terms || []).find(x => x.term === term);
+      return m && m.sectors.some(s => inSectors(s.name));
+    });
+  };
+  const matches = c => !query
+    || (c.name || '').toLowerCase().includes(query)
+    || (c.ticker || '').toLowerCase().includes(query)
+    || (c.borrowed || []).some(t => t.toLowerCase().includes(query));
+
+  const all = (DATA.companies || [])
     .map(c => ({ ...c, reach: (c.borrowed || []).length,
                  spread: (c.terms || []).length }))
-    .filter(c => c.reach > 0)
+    .filter(c => c.reach > 0);
+  const rows = all.filter(c => touches(c) && matches(c))
     .sort((a, b) => b.reach - a.reach || b.spread - a.spread
                  || (b.articles || 0) - (a.articles || 0))
     .slice(0, 30);
   const n = $('c-co');
-  if (n) n.textContent = rows.length ? rows.length : '';
+  if (n) n.textContent = all.length ? all.length : '';
   if (!rows.length){
     el.innerHTML = `<p class="empty" style="padding:var(--pad) 2px;max-width:60ch;`
-      + `line-height:1.5">No company on the list is using language from outside `
-      + `its own sector this fortnight.</p>`;
+      + `line-height:1.5">${all.length
+        ? 'No company matches that filter. Clear the sector chips or the search '
+          + 'box to see all of them.'
+        : 'No company on the list is using language from outside its own sector '
+          + 'this fortnight.'}</p>`;
     return;
   }
   el.innerHTML = rows.map(c => {
@@ -2648,8 +2787,7 @@ function companiesTab(){
       const m = (DATA.terms || []).find(x => x.term === t);
       return m ? `<a href="#${m.id}" data-jump="${m.id}">${t}</a>` : t;
     }).join(', ');
-    const tick = c.ticker && !/^[0-9]/.test(c.ticker) && c.ticker.length <= 5
-      ? ` <span class="coticker">${c.ticker}</span>` : '';
+    const tick = tickerOf(c) ? ` <span class="coticker">${tickerOf(c)}</span>` : '';
     const dir = c.direction && c.direction !== 'steady'
       ? ` <abbr class="dir ${c.direction}" tabindex="0" data-why="dir">${
           c.direction === 'new' ? 'new here' : c.direction}</abbr>` : '';
@@ -2658,6 +2796,7 @@ function companiesTab(){
       <div class="cometa">${c.sector || 'unlisted sector'} \u00b7 ${
         c.articles} article${c.articles === 1 ? '' : 's'}</div>
       <div class="coterms">using ${borrowed}</div>
+      ${priceRow(c)}
     </div>`;
   }).join('');
   el.querySelectorAll('[data-jump]').forEach(a =>
@@ -2740,13 +2879,7 @@ function leadLine(){
   const a = el.querySelector('[data-jump]');
   if (a) a.addEventListener('click', e => {
     e.preventDefault();
-    active = a.dataset.jump; tab = 'all'; saveHash();
-    TABS.forEach(([id, n]) => $(id).setAttribute('aria-selected', n === 'all'));
-    ['map-view','comp-view','co-view']
-      .forEach(x => $(x).classList.add('hide'));
-    ['term-detail','term-charts','term-map','term-pair','term-geo','term-cos','term-duo','term-flow','term-filings']
-      .forEach(x => $(x).classList.remove('hide'));
-    renderList(); renderDetail();
+    openPhrase(a.dataset.jump);
     const row = $('termlist') && $('termlist').querySelector('[data-on="true"]');
     if (row && row.scrollIntoView) row.scrollIntoView({ block: 'nearest' });
   });
@@ -2771,8 +2904,7 @@ function renderDetail(){
   let t = DATA.terms.find(x => x.id === active);
   if (!t && active !== null) t = DATA.terms[0];
   if (!t){
-    ['term-detail','term-charts','term-map','term-pair','term-geo','term-cos','term-duo','term-flow','term-filings']
-      .forEach(x => $(x) && $(x).classList.add('hide'));
+    DETAIL_PANES.forEach(x => $(x) && $(x).classList.add('hide'));
     return;
   }
 
@@ -2882,16 +3014,28 @@ function renderDetail(){
     `<li title="${g.n} of ${geoTot} articles carrying this phrase"><b>${
       cname(g.cc)}</b><em>${g.lift.toFixed(1)}\u00d7</em></li>`).join('');
 
-  const named = (DATA.companies || []).filter(c => (c.borrowed || []).includes(t.term));
+  // Listed names first \u2014 a reader asking "who is in this" can act on a traded
+  // company and cannot act on a private one, so the ones with a price lead.
+  // Within each group the order is still coverage, not share price.
+  const named = (DATA.companies || [])
+    .filter(c => (c.borrowed || []).includes(t.term))
+    .sort((a, b) => (b.price ? 1 : 0) - (a.price ? 1 : 0)
+                 || (b.articles14d || 0) - (a.articles14d || 0));
   $('term-cos').classList.toggle('hide', !named.length || tab !== 'all');
   $('term-pair').classList.toggle('hide',
     tab !== 'all' || (!named.length && !geo.length));
+  // Only the fortnight move here, never the since-crossing one: a company's
+  // crossing date belongs to whichever phrase it borrowed first, which is not
+  // necessarily the phrase on screen. The fortnight is the same fortnight as
+  // the article count beside it, so the two can be read against each other.
   $('d-cos').innerHTML = named.map(c => `
     <li data-d="${c.direction || ''}">
-      <b>${c.name}${c.name === c.ticker ? ''
-        : ` <span class="tick">${c.ticker}</span>`}</b>
+      <b>${c.name}${tickerOf(c) ? ` <span class="tick">${tickerOf(c)}</span>` : ''}</b>
       <em>${c.sector ? c.sector.toLowerCase() + ' \u00b7 ' : ''}${
-        c.articles14d} article${c.articles14d === 1 ? '' : 's'}</em>
+        c.articles14d} article${c.articles14d === 1 ? '' : 's'}${
+        c.price && c.price.d14 !== null && c.price.d14 !== undefined
+          ? ` \u00b7 shares ${c.price.d14 > 0 ? '+' : ''}${
+              c.price.d14.toFixed(1)}% over the same 14 days` : ''}</em>
       ${(c.examples || []).length
         ? `<button class="showarts" data-arts="co-${c.ticker}">where it appears</button>
            <ul class="arts hide" id="co-${c.ticker}">${(c.examples || []).map(a => `
@@ -2984,25 +3128,8 @@ $('flowmode').addEventListener('click', e => {
   if (t) flowChart(t);
 });
 
-TABS.forEach(([id,name]) =>
-  $(id).addEventListener('click', () => {
-    tab = name;
-    saveHash();
-    TABS.forEach(([t,n]) => $(t).setAttribute('aria-selected', n === name));
-    const isMap = name === 'map', isComp = name === 'comp';
-    $('map-view').classList.toggle('hide', !isMap);
-    const shell = document.querySelector('.shell');
-    if (shell) shell.classList.toggle('wide', isMap);
-    $('comp-view').classList.toggle('hide', !isComp);
-      ['term-detail','term-charts','term-map','term-pair','term-geo','term-cos','term-duo','term-flow','term-filings']
-      .forEach(x => $(x).classList.toggle('hide', isMap || isComp));
-    if (isComp) companions();      // fills COMP_PARENTS before the list is drawn
-    setTimeout(foldNotes, 0);
-    if (isMap){ treemap(); sectorHeat(); }   // fills MAP_IDS before the list is drawn
-    renderList();
-    renderDetail();
-    scheduleFit();
-  }));
+TABS.forEach(([id, name]) =>
+  $(id).addEventListener('click', () => { applyTab(name); saveHash(); }));
 
 boot();
 </script>

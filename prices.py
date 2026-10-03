@@ -23,7 +23,7 @@ becomes a script rather than a project. Collecting now costs nothing and removes
 a dependency from that future decision.
 """
 
-import argparse, csv, io, json, os, sqlite3, sys, time
+import argparse, csv, io, json, os, re, sqlite3, sys, time
 import urllib.request, urllib.error
 from datetime import datetime, timedelta, timezone
 
@@ -233,11 +233,116 @@ def collect(conn, since_days=4000, verbose=True):
     return total, ok, len(SECTOR_ETF)
 
 
+# ---------------------------------------------------------------------------
+# Individual companies.
+#
+# The sector ETFs above answer "what did this industry's shares do while the
+# phrase was spreading". A reader looking at a company row wants the same
+# question one level down, about that company. Same table, same meaning: a
+# record of what already happened, running alongside the article counts. It is
+# not a signal, and the dashboard copy must keep saying so.
+# ---------------------------------------------------------------------------
+
+# A plain one-to-five-letter ticker is the US convention; everything else in
+# companies.json carries an exchange suffix (VOLV-B.ST, 2603.TW) or is a
+# placeholder for a private firm. We do not trust the pattern on its own —
+# a symbol only counts as listed once a provider actually returns a series
+# for it, which is a fact rather than a guess.
+US_TICKER = re.compile(r"^[A-Z]{1,5}$")
+
+
+def company_symbols(limit=None):
+    """Tickers worth pricing: the ones the dashboard is currently showing,
+    falling back to the full roster before the first run has produced one.
+
+    Pricing all 198 US-listed names costs 198 requests, and Twelve Data's free
+    tier allows eight a minute. Pricing only what is on screen costs a third of
+    that and tracks the page by construction — a company that stops appearing
+    stops being fetched."""
+    want, seen = [], set()
+    for path, key in ((os.path.join(HERE, "data.json"), "companies"),
+                      (os.path.join(HERE, "companies.json"), "companies")):
+        try:
+            with open(path, encoding="utf-8") as fh:
+                doc = json.load(fh)
+        except (OSError, ValueError):
+            continue
+        for c in doc.get(key, []):
+            t = (c.get("ticker") or "").strip().upper()
+            if t and t not in seen and US_TICKER.match(t):
+                seen.add(t)
+                want.append((t, c.get("sector") or "", c.get("name") or t))
+        if want:
+            break          # data.json answered; no need for the full roster
+    return want[:limit] if limit else want
+
+
+def fresh_symbols(conn, within_days=3):
+    """Symbols whose latest close is recent enough to leave alone. Re-fetching
+    a full history every six hours would spend the daily request budget on
+    numbers that have not changed."""
+    edge = (datetime.now(timezone.utc).date()
+            - timedelta(days=within_days)).isoformat()
+    return {r[0] for r in conn.execute(
+        "SELECT symbol FROM prices GROUP BY symbol HAVING MAX(day) >= ?", (edge,))}
+
+
+def collect_companies(conn, since_days=800, pace=8.0, limit=None, verbose=True):
+    """One request per company, paced under the free tier's eight a minute.
+
+    A symbol no provider serves is skipped rather than recorded as zero: an
+    absent price must read as 'not listed here', never as 'did not move'."""
+    cutoff = (datetime.now(timezone.utc).date() - timedelta(days=since_days)).isoformat()
+    syms = company_symbols(limit)
+    skip = fresh_symbols(conn)
+    todo = [s for s in syms if s[0] not in skip]
+    if verbose:
+        print(f"\nCompany prices: {len(syms)} US-listed tickers, "
+              f"{len(syms) - len(todo)} already current, {len(todo)} to fetch")
+        if todo:
+            print(f"  about {len(todo) * pace / 60:.0f} minutes at the free "
+                  f"tier's rate\n")
+    total, ok, missing = 0, 0, []
+    for ticker, sector, name in todo:
+        try:
+            rows = [(d, c) for d, c in fetch_csv(ticker) if d >= cutoff]
+            if not rows:
+                raise RuntimeError("no rows in range")
+            for day, close in rows:
+                conn.execute("INSERT INTO prices VALUES(?,?,?,?) "
+                             "ON CONFLICT(day,symbol) DO UPDATE SET close=?",
+                             (day, ticker, sector, close, close))
+            conn.commit()
+            total += len(rows); ok += 1
+            if verbose:
+                print(f"  ok   {ticker:<6} {len(rows):>5} days  {name[:34]}")
+        except Exception as e:
+            missing.append(ticker)
+            if verbose:
+                print(f"  --   {ticker:<6} {str(e)[:66]}")
+        time.sleep(pace)
+    if verbose and missing:
+        print(f"\n  {len(missing)} without a price this run: "
+              f"{', '.join(missing[:12])}{'…' if len(missing) > 12 else ''}")
+        print("  They are shown without a figure rather than with a blank one.")
+    return total, ok, len(todo)
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--probe", action="store_true")
     ap.add_argument("--report", action="store_true")
     ap.add_argument("--days", type=int, default=4000)
+    ap.add_argument("--companies", action="store_true",
+                    help="also fetch daily closes for the listed companies "
+                         "the dashboard is showing")
+    ap.add_argument("--only-companies", action="store_true",
+                    help="skip the sector ETFs (they change slowly and are "
+                         "already stored)")
+    ap.add_argument("--pace", type=float, default=8.0,
+                    help="seconds between company requests")
+    ap.add_argument("--limit", type=int, default=None,
+                    help="cap how many companies to fetch in one run")
     args = ap.parse_args()
 
     if args.probe:
@@ -247,10 +352,15 @@ def main():
     conn.executescript(SCHEMA)
     conn.commit()
 
-    if not args.report:
+    if not args.report and not args.only_companies:
         print(f"Fetching daily closes for {len(SECTOR_ETF)} sectors")
         total, ok, tried = collect(conn, args.days)
         print(f"\n  {total} price-days stored · {ok}/{tried} sectors")
+
+    if (args.companies or args.only_companies) and not args.report:
+        ctotal, cok, ctried = collect_companies(
+            conn, pace=args.pace, limit=args.limit)
+        print(f"\n  {ctotal} price-days stored · {cok}/{ctried} companies")
 
     rows = list(conn.execute(
         "SELECT sector, COUNT(*), MIN(day), MAX(day) FROM prices GROUP BY sector ORDER BY sector"))
