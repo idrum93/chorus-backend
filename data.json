@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-03T05:31:27.407850+00:00",
+ "generated": "2026-10-03T11:53:01.943654+00:00",
  "placeWords": [
   "africa",
   "alberta",
@@ -324,7 +324,7 @@
    },
    {
     "day": "2026-10-02",
-    "close": 109.72
+    "close": 109.75
    }
   ],
   "Supply chain": [
@@ -824,7 +824,7 @@
    },
    {
     "day": "2026-10-02",
-    "close": 48.88
+    "close": 48.86
    }
   ],
   "Energy": [
@@ -1082,7 +1082,7 @@
    },
    {
     "day": "2026-10-02",
-    "close": 62.84
+    "close": 62.82
    }
   ],
   "Finance": [
@@ -1340,7 +1340,7 @@
    },
    {
     "day": "2026-10-02",
-    "close": 53.47
+    "close": 53.49
    }
   ],
   "Industrials": [
@@ -1598,7 +1598,7 @@
    },
    {
     "day": "2026-10-02",
-    "close": 169.97
+    "close": 169.95
    }
   ],
   "Technology": [
@@ -2110,7 +2110,7 @@
    },
    {
     "day": "2026-10-02",
-    "close": 40.8
+    "close": 40.81
    }
   ],
   "Utilities": [
@@ -2622,7 +2622,7 @@
    },
    {
     "day": "2026-10-02",
-    "close": 166.15
+    "close": 166.18
    }
   ],
   "Consumer": [
@@ -2887,7 +2887,7 @@
  "coverage": [
   [
    "US",
-   12096
+   12104
   ],
   [
    "TW",
@@ -2895,7 +2895,7 @@
   ],
   [
    "IN",
-   1808
+   1811
   ],
   [
    "GB",
@@ -2907,11 +2907,11 @@
   ],
   [
    "DE",
-   1090
+   1096
   ],
   [
    "GR",
-   1007
+   1013
   ],
   [
    "SG",
@@ -2923,7 +2923,7 @@
   ],
   [
    "HK",
-   446
+   447
   ],
   [
    "JP",
@@ -5918,8 +5918,8 @@
    "borrowed": [
     "energy price"
    ],
-   "articles": 160,
-   "articles14d": 37,
+   "articles": 161,
+   "articles14d": 38,
    "terms": [
     {
      "term": "energy price",
@@ -6111,6 +6111,13 @@
    "examples": [
     {
      "publisher": "Container News",
+     "title": "\u2f00Maersk\u2f01 and CMA CGM to end ASAS2 cooperation",
+     "url": "https://container-news.com/maersk-and-cma-cgm-to-end-asas2-cooperation/",
+     "sector": "Supply chain",
+     "quote": "\u2f00Maersk\u2f01 and CMA CGM will end their cooperation on the ASAS2 service connecting Asia with the East Coast of South Amer\u2026"
+    },
+    {
+     "publisher": "Container News",
      "title": "\u2f00Maersk\u2f01 introduces Europe-South Africa peak season surcharge",
      "url": "https://container-news.com/maersk-introduces-europe-south-africa-peak-season-surcharge/",
      "sector": "Supply chain",
@@ -6129,13 +6136,6 @@
      "url": "https://container-news.com/maersk-updates-nordic-and-baltic-inland-energy-surcharges/",
      "sector": "Supply chain",
      "quote": "\u2f00Maersk\u2f01 has updated its Emergency Inland Fuel/Energy Surcharge for Store Door shipments across seven Nordic and Balti\u2026"
-    },
-    {
-     "publisher": "Supply Chain Dive",
-     "title": "Puma taps \u2f00Maersk\u2f01 to manage North America distribution network",
-     "url": "https://www.supplychaindive.com/news/puma-taps-maersk-to-manage-north-america-distribution-network/831623/",
-     "sector": "Supply chain",
-     "quote": "\u2026centers will be available to other \u2f00Maersk\u2f01 customers."
     }
    ]
   },
@@ -7199,9 +7199,9 @@
   }
  ],
  "filings": {},
- "daysCollected": 185,
- "articlesStored": 25439,
- "articlesLive": 21157,
+ "daysCollected": 186,
+ "articlesStored": 25463,
+ "articlesLive": 21181,
  "windowDays": 90,
  "terms": [
   {
@@ -7738,7 +7738,7 @@
    "id": "power-producer",
    "term": "power producer",
    "direction": "steady",
-   "ratio": 0.23726413771833907,
+   "ratio": 0.23697511936265245,
    "display": true,
    "adoptionSpan": 42,
    "pace": "gradual",
@@ -8279,7 +8279,7 @@
    "id": "distribution-network",
    "term": "distribution network",
    "direction": "steady",
-   "ratio": 0.2847169652620069,
+   "ratio": 0.28437014323518295,
    "display": true,
    "adoptionSpan": 43,
    "pace": "gradual",
@@ -8885,7 +8885,7 @@
    "id": "solar-storage",
    "term": "solar storage",
    "direction": "steady",
-   "ratio": 0.2135377239465052,
+   "ratio": 0.21327760742638718,
    "display": true,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -9423,7 +9423,7 @@
    "id": "digital-infrastructure",
    "term": "digital infrastructure",
    "direction": "rising",
-   "ratio": 0.9253301371015225,
+   "ratio": 0.9242029655143446,
    "display": true,
    "adoptionSpan": 13,
    "pace": "mixed",
@@ -10170,7 +10170,7 @@
    "id": "grid-operator",
    "term": "grid operator",
    "direction": "steady",
-   "ratio": 0.17794810328875432,
+   "ratio": 0.17773133952198936,
    "display": true,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -10737,7 +10737,7 @@
    "id": "battery-cell",
    "term": "battery cell",
    "direction": "steady",
-   "ratio": 0.3084433790338408,
+   "ratio": 0.30806765517144813,
    "display": true,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -11421,7 +11421,7 @@
    "id": "gas-plant",
    "term": "gas plant",
    "direction": "steady",
-   "ratio": 0.2847169652620069,
+   "ratio": 0.28437014323518295,
    "display": true,
    "adoptionSpan": 23,
    "pace": "mixed",
@@ -11574,7 +11574,7 @@
      "steady",
      6,
      1,
-     5.4,
+     5.5,
      [
       {
        "title": "New Era signs 20-year gas PPA with Vistra subsidiary to power 250MW \u2f00data center\u2f01 in Ector County, Texas",
@@ -12609,7 +12609,7 @@
    "id": "energy-price",
    "term": "energy price",
    "direction": "rising",
-   "ratio": 0.35589620657750864,
+   "ratio": 0.3554626790439787,
    "display": true,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -12828,7 +12828,7 @@
      "new",
      2,
      0,
-     747.0,
+     751.4,
      [
       {
        "title": "CPC, Taipower pay premiums to secure energy supplies, face financial strain",
@@ -13322,7 +13322,7 @@
    "id": "global-lithium",
    "term": "global lithium",
    "direction": "rising",
-   "ratio": 0.4270754478930104,
+   "ratio": 0.42655521485277437,
    "display": true,
    "adoptionSpan": 30,
    "pace": "gradual",
@@ -14445,7 +14445,7 @@
    "id": "trade-policy",
    "term": "trade policy",
    "direction": "steady",
-   "ratio": 0.18981131017467126,
+   "ratio": 0.18958009549012195,
    "display": true,
    "adoptionSpan": 12,
    "pace": "mixed",
@@ -15091,7 +15091,7 @@
    "id": "gas-carrier",
    "term": "gas carrier",
    "direction": "steady",
-   "ratio": 0.18981131017467126,
+   "ratio": 0.18958009549012195,
    "display": true,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -15773,7 +15773,7 @@
      "new",
      5,
      0,
-     1383.3,
+     1391.4,
      [
       {
        "title": "KKB unit bags Shell deal for Malaysian offshore developments",
@@ -16242,7 +16242,7 @@
    "id": "credit-facility",
    "term": "credit facility",
    "direction": "steady",
-   "ratio": 0.18981131017467126,
+   "ratio": 0.18958009549012195,
    "display": true,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -16820,7 +16820,7 @@
    "id": "steel-mill",
    "term": "steel mill",
    "direction": "rising",
-   "ratio": 0.8541508957860208,
+   "ratio": 0.8531104297055487,
    "display": true,
    "adoptionSpan": 47,
    "pace": "gradual",
@@ -17386,16 +17386,16 @@
    "id": "fast-charging",
    "term": "fast charging",
    "direction": "steady",
-   "ratio": 0.18981131017467126,
+   "ratio": 0.20537843678096543,
    "display": false,
    "adoptionSpan": 37,
    "pace": "gradual",
    "kind": "concept",
    "sectorCount": 2,
-   "effectiveSectors": 1.44,
+   "effectiveSectors": 1.43,
    "newestSector": "Technology",
    "daysSinceNewestSector": 23,
-   "articles14d": 12,
+   "articles14d": 13,
    "articlesPrior14d": 9,
    "publishers": 3,
    "events": 6,
@@ -17404,9 +17404,9 @@
     {
      "name": "Autos",
      "firstSeen": "2026-08-04",
-     "recent": 10,
-     "articles": 30,
-     "share": 0.909,
+     "recent": 11,
+     "articles": 31,
+     "share": 0.917,
      "atSectorStart": false,
      "grip": 0.5,
      "outlets": 2,
@@ -17418,7 +17418,7 @@
      "firstSeen": "2026-09-10",
      "recent": 1,
      "articles": 4,
-     "share": 0.091,
+     "share": 0.083,
      "atSectorStart": false,
      "grip": 0.111,
      "outlets": 1,
@@ -17430,7 +17430,7 @@
    "origins": [
     [
      "DE",
-     26
+     27
     ],
     [
      "GB",
@@ -17485,7 +17485,7 @@
        2,
        4,
        4,
-       6
+       7
       ]
      },
      {
@@ -17528,6 +17528,15 @@
    },
    "cooc": [],
    "examples": [
+    {
+     "publisher": "Electrive",
+     "title": "South Korea: Water to open 23 \u2f00fast-charging\u2f01 sites with 400 kW chargers",
+     "url": "https://www.electrive.com/2026/10/03/south-korea-water-to-open-23-fast-charging-sites-with-400-kw-chargers/",
+     "date": "2026-10-03",
+     "sector": "Autos",
+     "country": "DE",
+     "quote": "\u2026has announced plans to open 23 new \u2f00fast-charging\u2f01 sites along highways across the country. It has already opened the first site ahead of the scheduled October\u2026"
+    },
     {
      "publisher": "Electrive",
      "title": "Polestar launches new \u2f00fast-charging\u2f01 tariffs",
@@ -17626,15 +17635,6 @@
      "sector": "Autos",
      "country": "DE",
      "quote": "\u2026flagship charging site with twelve \u2f00fast-charging\u2f01 points at its headquarters in Karlsruhe. The site uses new XCharge C7 chargers and will also serve as a testb\u2026"
-    },
-    {
-     "publisher": "Electrive",
-     "title": "Sunwoda to integrate 15C battery into megawatt charging ecosystem",
-     "url": "https://www.electrive.com/2026/09/21/sunwoda-to-integrate-15c-battery-into-megawatt-charging-ecosystem/",
-     "date": "2026-09-21",
-     "sector": "Autos",
-     "country": "DE",
-     "quote": "\u2026s advancing its plans for extremely \u2f00fast charging\u2f01 with megawatt charging systems (MCS). The Chinese battery manufacturer wants to build a charging ecosystem ar\u2026"
     }
    ],
    "daily": [
@@ -17996,21 +17996,21 @@
     },
     {
      "day": "2026-10-03",
-     "n": 0
+     "n": 1
     }
    ],
-   "relRatio": 0.78,
+   "relRatio": 0.85,
    "docFreq": 0.0005,
-   "specificity": 0.983,
-   "homeShare": 0.909,
-   "daysSeen": 8,
-   "rank": 1.893
+   "specificity": 0.982,
+   "homeShare": 0.917,
+   "daysSeen": 9,
+   "rank": 1.913
   },
   {
    "id": "mass-production",
    "term": "mass production",
    "direction": "rising",
-   "ratio": 0.36137153283254725,
+   "ratio": 0.3609313356446553,
    "display": false,
    "adoptionSpan": 50,
    "pace": "gradual",
@@ -18700,7 +18700,7 @@
    "id": "driver-assistance",
    "term": "driver assistance",
    "direction": "rising",
-   "ratio": 0.4982546892085121,
+   "ratio": 0.49764775066157013,
    "display": false,
    "adoptionSpan": 12,
    "pace": "mixed",
@@ -19260,7 +19260,7 @@
    "id": "freight-cost",
    "term": "freight cost",
    "direction": "rising",
-   "ratio": 0.4270754478930104,
+   "ratio": 0.42655521485277437,
    "display": false,
    "adoptionSpan": 58,
    "pace": "gradual",
@@ -19828,7 +19828,7 @@
    "id": "crude-oil",
    "term": "crude oil",
    "direction": "steady",
-   "ratio": 0.2619396080410464,
+   "ratio": 0.2616205317763683,
    "display": false,
    "adoptionSpan": 28,
    "pace": "gradual",
@@ -20526,7 +20526,7 @@
    "id": "diesel-price",
    "term": "diesel price",
    "direction": "rising",
-   "ratio": 0.35589620657750864,
+   "ratio": 0.3554626790439787,
    "display": false,
    "adoptionSpan": 13,
    "pace": "mixed",
@@ -21134,7 +21134,7 @@
    "id": "oil-price",
    "term": "oil price",
    "direction": "steady",
-   "ratio": 0.2847169652620069,
+   "ratio": 0.28437014323518295,
    "display": false,
    "adoptionSpan": 31,
    "pace": "gradual",
@@ -21908,7 +21908,7 @@
    "id": "battery-electric",
    "term": "battery electric",
    "direction": "steady",
-   "ratio": 0.2313325342753806,
+   "ratio": 0.23105074137858614,
    "display": false,
    "adoptionSpan": 10,
    "pace": "mixed",
@@ -22634,7 +22634,7 @@
    "id": "electric-cars",
    "term": "electric cars",
    "direction": "rising",
-   "ratio": 0.47452827543667814,
+   "ratio": 0.4739502387253049,
    "display": false,
    "adoptionSpan": 21,
    "pace": "mixed",
@@ -23268,7 +23268,7 @@
    "id": "black-sea",
    "term": "black sea",
    "direction": "falling",
-   "ratio": 0.14235848263100345,
+   "ratio": 0.14218507161759147,
    "display": false,
    "adoptionSpan": 7,
    "pace": "mixed",
@@ -23848,7 +23848,7 @@
    "id": "rooftop-solar",
    "term": "rooftop solar",
    "direction": "falling",
-   "ratio": 0.15817609181222606,
+   "ratio": 0.15798341290843496,
    "display": false,
    "adoptionSpan": 6,
    "pace": "mixed",
@@ -24486,7 +24486,7 @@
    "id": "cooling-system",
    "term": "cooling system",
    "direction": "rising",
-   "ratio": 0.3796226203493425,
+   "ratio": 0.3791601909802439,
    "display": false,
    "adoptionSpan": 12,
    "pace": "mixed",
@@ -25084,7 +25084,7 @@
    "id": "scale-energy",
    "term": "scale energy",
    "direction": "rising",
-   "ratio": 0.5694339305240138,
+   "ratio": 0.5687402864703659,
    "display": false,
    "adoptionSpan": 13,
    "pace": "mixed",
@@ -26184,7 +26184,7 @@
    "id": "industrial-park",
    "term": "industrial park",
    "direction": "rising",
-   "ratio": 0.8541508957860208,
+   "ratio": 0.8531104297055487,
    "display": false,
    "adoptionSpan": 58,
    "pace": "gradual",
@@ -27352,7 +27352,7 @@
    "id": "gas-supply",
    "term": "gas supply",
    "direction": "falling",
-   "ratio": 0.12654087344978085,
+   "ratio": 0.12638673032674796,
    "display": false,
    "adoptionSpan": 39,
    "pace": "gradual",
@@ -27972,7 +27972,7 @@
    "id": "humanoid-robot",
    "term": "humanoid robot",
    "direction": "falling",
-   "ratio": 0.09490565508733563,
+   "ratio": 0.09479004774506097,
    "display": false,
    "adoptionSpan": 46,
    "pace": "gradual",
@@ -28626,7 +28626,7 @@
    "id": "solar-cell",
    "term": "solar cell",
    "direction": "steady",
-   "ratio": 0.2313325342753806,
+   "ratio": 0.23105074137858614,
    "display": false,
    "adoptionSpan": 15,
    "pace": "mixed",
@@ -29264,7 +29264,7 @@
    "id": "oil-export",
    "term": "oil export",
    "direction": "rising",
-   "ratio": 0.4626650685507612,
+   "ratio": 0.4621014827571723,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -29862,7 +29862,7 @@
    "id": "consumer-electronics",
    "term": "consumer electronics",
    "direction": "steady",
-   "ratio": 0.23726413771833907,
+   "ratio": 0.23697511936265245,
    "display": false,
    "adoptionSpan": 43,
    "pace": "gradual",
@@ -30477,7 +30477,7 @@
    "id": "charging-infrastructure",
    "term": "charging infrastructure",
    "direction": "steady",
-   "ratio": 0.20336926090143348,
+   "ratio": 0.20312153088227353,
    "display": false,
    "adoptionSpan": 11,
    "pace": "mixed",
@@ -30678,7 +30678,7 @@
      "falling",
      2,
      2,
-     99.6,
+     100.2,
      [
       {
        "title": "Nio and Geely integrate charging and \u2f00battery-swapping\u2f01 operations",
@@ -30703,7 +30703,7 @@
      "rising",
      8,
      2,
-     44.3,
+     44.5,
      [
       {
        "title": "California pushes for greater energy security with \u2f00electric vehicles\u2f01",
@@ -31216,7 +31216,7 @@
    "id": "feasibility-study",
    "term": "feasibility study",
    "direction": "falling",
-   "ratio": 0.09490565508733563,
+   "ratio": 0.09479004774506097,
    "display": false,
    "adoptionSpan": 7,
    "pace": "simultaneous",
@@ -31417,7 +31417,7 @@
      "new",
      2,
      0,
-     1660.0,
+     1669.7,
      [
       {
        "title": "Meridian's Caba\u00e7al value doubles on higher prices",
@@ -31848,7 +31848,7 @@
    "id": "energy-bill",
    "term": "energy bill",
    "direction": "rising",
-   "ratio": 0.42707544789301033,
+   "ratio": 0.4265552148527744,
    "display": false,
    "adoptionSpan": 4,
    "pace": "mixed",
@@ -32451,7 +32451,7 @@
    "id": "battery-plant",
    "term": "battery plant",
    "direction": "steady",
-   "ratio": 0.18981131017467126,
+   "ratio": 0.18958009549012195,
    "display": false,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -33035,7 +33035,7 @@
    "id": "solar-module",
    "term": "solar module",
    "direction": "rising",
-   "ratio": 0.5694339305240138,
+   "ratio": 0.5687402864703658,
    "display": false,
    "adoptionSpan": 1,
    "pace": "mixed",
@@ -33633,7 +33633,7 @@
    "id": "electric-truck",
    "term": "electric truck",
    "direction": "falling",
-   "ratio": 0.08541508957860207,
+   "ratio": 0.08531104297055488,
    "display": false,
    "adoptionSpan": 12,
    "pace": "mixed",
@@ -34267,7 +34267,7 @@
    "id": "cathode-material",
    "term": "cathode material",
    "direction": "steady",
-   "ratio": 0.18981131017467126,
+   "ratio": 0.18958009549012195,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -34414,7 +34414,7 @@
      "rising",
      9,
      1,
-     415.0,
+     417.4,
      [
       {
        "title": "Posco Future M lands KRW1.1 trillion LFP cathode deal with SK On",
@@ -34873,7 +34873,7 @@
    "id": "mainland-china",
    "term": "mainland china",
    "direction": "steady",
-   "ratio": 0.17521044016123502,
+   "ratio": 0.17499701122165104,
    "display": false,
    "adoptionSpan": 13,
    "pace": "mixed",
@@ -35503,7 +35503,7 @@
    "id": "nuclear-reactor",
    "term": "nuclear reactor",
    "direction": "steady",
-   "ratio": 0.23726413771833907,
+   "ratio": 0.23697511936265245,
    "display": false,
    "adoptionSpan": 26,
    "pace": "mixed",
@@ -36066,7 +36066,7 @@
    "id": "gas-production",
    "term": "gas production",
    "direction": "rising",
-   "ratio": 0.8541508957860208,
+   "ratio": 0.8531104297055487,
    "display": false,
    "adoptionSpan": 2,
    "pace": "simultaneous",
@@ -36598,7 +36598,7 @@
    "id": "production-base",
    "term": "production base",
    "direction": "steady",
-   "ratio": 0.2847169652620069,
+   "ratio": 0.28437014323518295,
    "display": false,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -37182,7 +37182,7 @@
    "id": "retail-property",
    "term": "retail property",
    "direction": "rising",
-   "ratio": 0.35589620657750864,
+   "ratio": 0.3554626790439787,
    "display": false,
    "adoptionSpan": 23,
    "pace": "mixed",
@@ -37713,7 +37713,7 @@
    "id": "iran-war",
    "term": "iran war",
    "direction": "falling",
-   "ratio": 0.1256104258508854,
+   "ratio": 0.12545741613316894,
    "display": false,
    "adoptionSpan": 18,
    "pace": "mixed",
@@ -37980,7 +37980,7 @@
      "new",
      2,
      0,
-     90.5,
+     91.1,
      [
       {
        "title": "Pakistan Weighs Direct LNG Imports for Power Plants to Ease \u2f00Energy Crisis\u2f01",
@@ -38005,7 +38005,7 @@
      "steady",
      3,
      1,
-     47.4,
+     47.7,
      [
       {
        "title": "Asia's \u2f00Crude Imports\u2f01 Hit Highest Level Since the Iran War Began",
@@ -38515,10 +38515,652 @@
    ]
   },
   {
+   "id": "mercedes-benz",
+   "term": "mercedes benz",
+   "direction": "rising",
+   "ratio": 0.8531104297055487,
+   "display": false,
+   "adoptionSpan": 25,
+   "pace": "mixed",
+   "kind": "concept",
+   "sectorCount": 2,
+   "effectiveSectors": 1.57,
+   "newestSector": "Technology",
+   "daysSinceNewestSector": 40,
+   "articles14d": 12,
+   "articlesPrior14d": 2,
+   "publishers": 0,
+   "events": 0,
+   "topPubShare": null,
+   "sectors": [
+    {
+     "name": "Autos",
+     "firstSeen": "2026-07-30",
+     "recent": 7,
+     "articles": 20,
+     "share": 0.7,
+     "atSectorStart": false,
+     "grip": 0.75,
+     "outlets": 3,
+     "adopt": 24,
+     "daysSince": 65
+    },
+    {
+     "name": "Technology",
+     "firstSeen": "2026-08-24",
+     "recent": 3,
+     "articles": 4,
+     "share": 0.3,
+     "atSectorStart": false,
+     "grip": 0.222,
+     "outlets": 2,
+     "adopt": 49,
+     "daysSince": 40
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "DE",
+     11
+    ],
+    [
+     "US",
+     7
+    ],
+    [
+     "GB",
+     3
+    ],
+    [
+     "KR",
+     3
+    ],
+    [
+     "AU",
+     1
+    ],
+    [
+     "TW",
+     1
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-07-06",
+     "2026-07-13",
+     "2026-07-20",
+     "2026-07-27",
+     "2026-08-03",
+     "2026-08-10",
+     "2026-08-17",
+     "2026-08-24",
+     "2026-08-31",
+     "2026-09-07",
+     "2026-09-14",
+     "2026-09-21",
+     "2026-09-28"
+    ],
+    "bands": [
+     {
+      "sector": "Autos",
+      "n": [
+       0,
+       0,
+       0,
+       1,
+       4,
+       3,
+       3,
+       0,
+       0,
+       1,
+       1,
+       2,
+       5
+      ]
+     },
+     {
+      "sector": "Technology",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1,
+       2
+      ]
+     },
+     {
+      "sector": "Waste & water",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     },
+     {
+      "sector": "Real estate",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   "cooc": [],
+   "examples": [
+    {
+     "publisher": "Electrive",
+     "title": "LG Energy Solution to supply 46,100 round cells to Mercedes",
+     "url": "https://www.electrive.com/2026/10/03/lg-energy-solution-to-supply-46100-round-cells-to-mercedes/",
+     "date": "2026-10-03",
+     "sector": "Autos",
+     "country": "DE",
+     "quote": "\u2026millimeters - a novel format - for \u2f00Mercedes-Benz\u2f01's next-gen EVs. Deliveries are set to begin in 2028."
+    },
+    {
+     "publisher": "The Elec",
+     "title": "LG Energy Solution to Supply Tesla-Style Batteries to \u2f00Mercedes-Benz\u2f01 EVs",
+     "url": "https://www.thelec.net/news/articleView.html?idxno=14363",
+     "date": "2026-10-02",
+     "sector": "Technology",
+     "country": "KR",
+     "quote": "\u2026t-generation electric vehicles from \u2f00Mercedes-Benz\u2f01. The 46100 is a new 46-Series cylindrical battery format that LG Energy Solution has not previously disclosed\u2026"
+    },
+    {
+     "publisher": "Electrive",
+     "title": "How is \u2f00Mercedes-Benz\u2f01 Trucks scaling the electric truck, Michael Scheib?",
+     "url": "https://www.electrive.com/2026/10/01/how-is-mercedes-benz-trucks-scaling-the-electric-truck-michael-scheib/",
+     "date": "2026-10-01",
+     "sector": "Autos",
+     "country": "DE",
+     "quote": "\u2f00Mercedes-Benz\u2f01 Trucks is expanding its electric portfolio and preparing the next technological leap in charging. At the IAA\u2026"
+    },
+    {
+     "publisher": "Commercial Observer",
+     "title": "\u2f00Mercedes-Benz\u2f01 Miami Project's $1.1B Financing Package Speeds Closer to Completion",
+     "url": "https://commercialobserver.com/2026/09/mercedes-benz-miami-construction-jpmorgan/",
+     "date": "2026-09-30",
+     "sector": "Real estate",
+     "country": "US",
+     "quote": "\u2026dies and gents, start your engines. \u2f00Mercedes-Benz\u2f01 Places Miami's construction financing is officially off to the races, sources confirmed to Commercial Observe\u2026"
+    },
+    {
+     "publisher": "Electrive",
+     "title": "US order books open for 2027 \u2f00Mercedes-Benz\u2f01 G 580 Electric",
+     "url": "https://www.electrive.com/2026/09/29/us-order-books-open-for-2027-mercedes-benz-g-580-electric/",
+     "date": "2026-09-29",
+     "sector": "Autos",
+     "country": "DE",
+     "quote": "\u2f00Mercedes-Benz\u2f01 is now accepting orders for the 2027 G 580 Electric in the US, with the luxury off-roader receiving a revised\u2026"
+    },
+    {
+     "publisher": "DigiTimes Asia",
+     "title": "\u2f00Mercedes-Benz\u2f01 and ProLogium expand solid-state battery testing partnership",
+     "url": "https://www.digitimes.com/news/a20260929PD247/mercedes-benz-testing-prologium-solid-state-battery-partnership.html",
+     "date": "2026-09-29",
+     "sector": "Technology",
+     "country": "TW",
+     "quote": "\u2026gned a joint testing agreement with \u2f00Mercedes-Benz\u2f01, giving the automaker priority access to evaluate the battery maker's latest Gen4 cells. The companies said t\u2026"
+    },
+    {
+     "publisher": "Electrive",
+     "title": "\u2f00Mercedes-Benz\u2f01 to assemble electric GLC in Thailand",
+     "url": "https://www.electrive.com/2026/09/28/mercedes-benz-to-assemble-electric-glc-in-thailand/",
+     "date": "2026-09-28",
+     "sector": "Autos",
+     "country": "DE",
+     "quote": ""
+    },
+    {
+     "publisher": "Automotive Dive",
+     "title": "A \u2f00Mercedes-Benz\u2f01 dealership's service director embraces AI to improve turn time",
+     "url": "https://www.wardsauto.com/news/a-mercedes-benz-dealerships-service-director-embraces-ai-to-improve-turn-t/830839/",
+     "date": "2026-09-28",
+     "sector": "Autos",
+     "country": "US",
+     "quote": ""
+    },
+    {
+     "publisher": "Waste Management Review",
+     "title": "REMONDIS trials zero-emission waste collection trucks",
+     "url": "https://wastemanagementreview.com.au/remondis-trials-zero-emission-waste-collection-trucks/",
+     "date": "2026-09-28",
+     "sector": "Waste & water",
+     "country": "AU",
+     "quote": "\u2026ro-exhaust-emission technology from \u2f00Mercedes-Benz\u2f01 Trucks. REMONDIS put the Mercedes-Benz eEconic 6\u00d72 model truck through commercial waste collection trials in\u2026"
+    },
+    {
+     "publisher": "Electrive",
+     "title": "Mercedes tests new Gen4 battery cells from ProLogium",
+     "url": "https://www.electrive.com/2026/09/25/mercedes-tests-new-gen4-battery-cells-from-prologium/",
+     "date": "2026-09-25",
+     "sector": "Autos",
+     "country": "DE",
+     "quote": "\u2f00Mercedes-Benz\u2f01 is expanding its collaboration with ProLogium and is gaining preferential access to its new Gen4 battery tech\u2026"
+    },
+    {
+     "publisher": "The Elec",
+     "title": "[Snapdragon Summit] Qualcomm, Liquid AI Unveil Proactive AI Agent With Persistent Memory",
+     "url": "https://www.thelec.net/news/articleView.html?idxno=14179",
+     "date": "2026-09-25",
+     "sector": "Technology",
+     "country": "KR",
+     "quote": "\u2026a Snapdragon computing platform for \u2f00Mercedes-Benz\u2f01 as it moves toward commercial deployment.Ramin Hasani, co-founder and chief executive officer of Liq"
+    },
+    {
+     "publisher": "Just Auto",
+     "title": "\u2f00Mercedes-Benz\u2f01, Wayve agree production deal for AI driving system",
+     "url": "https://www.just-auto.com/news/mercedes-benz-wayve-ai-driving-system/",
+     "date": "2026-09-23",
+     "sector": "Autos",
+     "country": "US",
+     "quote": ""
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-07-06",
+     "n": 0
+    },
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 1
+    },
+    {
+     "day": "2026-07-31",
+     "n": 0
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 0
+    },
+    {
+     "day": "2026-08-04",
+     "n": 2
+    },
+    {
+     "day": "2026-08-05",
+     "n": 0
+    },
+    {
+     "day": "2026-08-06",
+     "n": 1
+    },
+    {
+     "day": "2026-08-07",
+     "n": 1
+    },
+    {
+     "day": "2026-08-08",
+     "n": 0
+    },
+    {
+     "day": "2026-08-09",
+     "n": 0
+    },
+    {
+     "day": "2026-08-10",
+     "n": 0
+    },
+    {
+     "day": "2026-08-11",
+     "n": 2
+    },
+    {
+     "day": "2026-08-12",
+     "n": 1
+    },
+    {
+     "day": "2026-08-13",
+     "n": 0
+    },
+    {
+     "day": "2026-08-14",
+     "n": 0
+    },
+    {
+     "day": "2026-08-15",
+     "n": 0
+    },
+    {
+     "day": "2026-08-16",
+     "n": 0
+    },
+    {
+     "day": "2026-08-17",
+     "n": 1
+    },
+    {
+     "day": "2026-08-18",
+     "n": 1
+    },
+    {
+     "day": "2026-08-19",
+     "n": 1
+    },
+    {
+     "day": "2026-08-20",
+     "n": 0
+    },
+    {
+     "day": "2026-08-21",
+     "n": 0
+    },
+    {
+     "day": "2026-08-22",
+     "n": 0
+    },
+    {
+     "day": "2026-08-23",
+     "n": 0
+    },
+    {
+     "day": "2026-08-24",
+     "n": 1
+    },
+    {
+     "day": "2026-08-25",
+     "n": 0
+    },
+    {
+     "day": "2026-08-26",
+     "n": 0
+    },
+    {
+     "day": "2026-08-27",
+     "n": 0
+    },
+    {
+     "day": "2026-08-28",
+     "n": 0
+    },
+    {
+     "day": "2026-08-29",
+     "n": 0
+    },
+    {
+     "day": "2026-08-30",
+     "n": 0
+    },
+    {
+     "day": "2026-08-31",
+     "n": 0
+    },
+    {
+     "day": "2026-09-01",
+     "n": 0
+    },
+    {
+     "day": "2026-09-02",
+     "n": 0
+    },
+    {
+     "day": "2026-09-03",
+     "n": 0
+    },
+    {
+     "day": "2026-09-04",
+     "n": 0
+    },
+    {
+     "day": "2026-09-05",
+     "n": 0
+    },
+    {
+     "day": "2026-09-06",
+     "n": 0
+    },
+    {
+     "day": "2026-09-07",
+     "n": 0
+    },
+    {
+     "day": "2026-09-08",
+     "n": 0
+    },
+    {
+     "day": "2026-09-09",
+     "n": 0
+    },
+    {
+     "day": "2026-09-10",
+     "n": 0
+    },
+    {
+     "day": "2026-09-11",
+     "n": 1
+    },
+    {
+     "day": "2026-09-12",
+     "n": 0
+    },
+    {
+     "day": "2026-09-13",
+     "n": 0
+    },
+    {
+     "day": "2026-09-14",
+     "n": 0
+    },
+    {
+     "day": "2026-09-15",
+     "n": 0
+    },
+    {
+     "day": "2026-09-16",
+     "n": 0
+    },
+    {
+     "day": "2026-09-17",
+     "n": 1
+    },
+    {
+     "day": "2026-09-18",
+     "n": 0
+    },
+    {
+     "day": "2026-09-19",
+     "n": 0
+    },
+    {
+     "day": "2026-09-20",
+     "n": 0
+    },
+    {
+     "day": "2026-09-21",
+     "n": 0
+    },
+    {
+     "day": "2026-09-22",
+     "n": 0
+    },
+    {
+     "day": "2026-09-23",
+     "n": 1
+    },
+    {
+     "day": "2026-09-24",
+     "n": 0
+    },
+    {
+     "day": "2026-09-25",
+     "n": 2
+    },
+    {
+     "day": "2026-09-26",
+     "n": 0
+    },
+    {
+     "day": "2026-09-27",
+     "n": 0
+    },
+    {
+     "day": "2026-09-28",
+     "n": 3
+    },
+    {
+     "day": "2026-09-29",
+     "n": 2
+    },
+    {
+     "day": "2026-09-30",
+     "n": 1
+    },
+    {
+     "day": "2026-10-01",
+     "n": 1
+    },
+    {
+     "day": "2026-10-02",
+     "n": 1
+    },
+    {
+     "day": "2026-10-03",
+     "n": 1
+    }
+   ],
+   "relRatio": 3.51,
+   "docFreq": 0.0005,
+   "specificity": 0.983,
+   "homeShare": 0.7,
+   "daysSeen": 8,
+   "rank": 1.141
+  },
+  {
    "id": "private-placement",
    "term": "private placement",
    "direction": "rising",
-   "ratio": 0.35589620657750864,
+   "ratio": 0.3554626790439787,
    "display": false,
    "adoptionSpan": 5,
    "pace": "simultaneous",
@@ -39089,7 +39731,7 @@
    "id": "hormuz-crisis",
    "term": "hormuz crisis",
    "direction": "rising",
-   "ratio": 0.9253301371015225,
+   "ratio": 0.9242029655143446,
    "display": false,
    "adoptionSpan": 16,
    "pace": "mixed",
@@ -39747,7 +40389,7 @@
    "id": "supply-disruption",
    "term": "supply disruption",
    "direction": "falling",
-   "ratio": 0.11863206885916953,
+   "ratio": 0.11848755968132622,
    "display": false,
    "adoptionSpan": 49,
    "pace": "gradual",
@@ -39930,7 +40572,7 @@
      "new",
      2,
      0,
-     1992.0,
+     2003.6,
      [
       {
        "title": "BHP's Escondida restart eases \u2f00tight copper\u2f01 supply woes",
@@ -40370,7 +41012,7 @@
    "id": "data-center",
    "term": "data center",
    "direction": "steady",
-   "ratio": 0.21879256726509927,
+   "ratio": 0.21852604966730502,
    "display": false,
    "adoptionSpan": 25,
    "pace": "mixed",
@@ -40776,12 +41418,58 @@
    },
    "cooc": [
     [
+     "cooling equipment",
+     0.6,
+     "new",
+     5,
+     0,
+     21.9,
+     [
+      {
+       "title": "LG Electronics to Build US Chiller Plant for AI Data Centers",
+       "url": "https://www.thelec.net/news/articleView.html?idxno=14349",
+       "publisher": "The Elec",
+       "sector": "Technology",
+       "quote": "\u2026meet surging demand for data-center \u2f00cooling equipment\u2f01.\u200bLG Electroni"
+      },
+      {
+       "title": "Samsung invests US$1 billion in ex-AWS chief's AI data center venture, joining Nvidia as a founding investor",
+       "url": "https://www.digitimes.com/news/a20260929VL201/samsung-data-center-nvidia-data-investment.html",
+       "publisher": "DigiTimes Asia",
+       "sector": "Technology",
+       "quote": "\u2026could become a buyer of its chips, \u2f00cooling equipment\u2f01, batteries and construction services."
+      },
+      {
+       "title": "Samsung Electronics to Build AI Data Center \u2f00Cooling Equipment\u2f01 Line in Gwangju",
+       "url": "https://www.thelec.net/news/articleView.html?idxno=14059",
+       "publisher": "The Elec",
+       "sector": "Technology",
+       "quote": "\u2026nt for artificial intelligence (AI) \u2f00data centers\u2f01 at its Gwangju operations site. The company will invest about 240 billion won, with operations scheduled to b\u2026"
+      },
+      {
+       "title": "SLB Makes $3.4 Billion Bet on AI Data Center Boom",
+       "url": "https://oilprice.com/Latest-Energy-News/World-News/SLB-Makes-34-Billion-Bet-on-AI-Data-Center-Boom.html",
+       "publisher": "OilPrice",
+       "sector": "Energy",
+       "quote": "\u2026said Monday it will acquire German \u2f00cooling equipment\u2f01 maker Kelvion, more than doubling the revenue opportunity per gigawatt of delivering capacity, according to t\u2026"
+      },
+      {
+       "title": "Samsung, LG ramp up India for AI cooling and appliances",
+       "url": "https://www.digitimes.com/news/a20260826PD206/samsung-lg-cooling-production-data-center.html",
+       "publisher": "DigiTimes Asia",
+       "sector": "Technology",
+       "quote": "\u2026upply-chain base for AI data center \u2f00cooling equipment\u2f01 and LG Electronics investing hundreds of billions of won to build a third home appliance plant. But whether I\u2026"
+      }
+     ],
+     []
+    ],
+    [
      "water use",
      1.0,
      "new",
      7,
      0,
-     21.7,
+     21.9,
      [
       {
        "title": "Victoria, Australia, proposes rules requiring data centers to secure own renewable energy supply",
@@ -40824,52 +41512,6 @@
        "publisher": "OilPrice",
        "sector": "Energy",
        "quote": "The massive \u2f00data center\u2f01 capacity scale-up underway has focused attention on the scale of water required for these facilities to opera\u2026"
-      }
-     ],
-     []
-    ],
-    [
-     "cooling equipment",
-     0.6,
-     "new",
-     5,
-     0,
-     21.7,
-     [
-      {
-       "title": "LG Electronics to Build US Chiller Plant for AI Data Centers",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=14349",
-       "publisher": "The Elec",
-       "sector": "Technology",
-       "quote": "\u2026meet surging demand for data-center \u2f00cooling equipment\u2f01.\u200bLG Electroni"
-      },
-      {
-       "title": "Samsung invests US$1 billion in ex-AWS chief's AI data center venture, joining Nvidia as a founding investor",
-       "url": "https://www.digitimes.com/news/a20260929VL201/samsung-data-center-nvidia-data-investment.html",
-       "publisher": "DigiTimes Asia",
-       "sector": "Technology",
-       "quote": "\u2026could become a buyer of its chips, \u2f00cooling equipment\u2f01, batteries and construction services."
-      },
-      {
-       "title": "Samsung Electronics to Build AI Data Center \u2f00Cooling Equipment\u2f01 Line in Gwangju",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=14059",
-       "publisher": "The Elec",
-       "sector": "Technology",
-       "quote": "\u2026nt for artificial intelligence (AI) \u2f00data centers\u2f01 at its Gwangju operations site. The company will invest about 240 billion won, with operations scheduled to b\u2026"
-      },
-      {
-       "title": "SLB Makes $3.4 Billion Bet on AI Data Center Boom",
-       "url": "https://oilprice.com/Latest-Energy-News/World-News/SLB-Makes-34-Billion-Bet-on-AI-Data-Center-Boom.html",
-       "publisher": "OilPrice",
-       "sector": "Energy",
-       "quote": "\u2026said Monday it will acquire German \u2f00cooling equipment\u2f01 maker Kelvion, more than doubling the revenue opportunity per gigawatt of delivering capacity, according to t\u2026"
-      },
-      {
-       "title": "Samsung, LG ramp up India for AI cooling and appliances",
-       "url": "https://www.digitimes.com/news/a20260826PD206/samsung-lg-cooling-production-data-center.html",
-       "publisher": "DigiTimes Asia",
-       "sector": "Technology",
-       "quote": "\u2026upply-chain base for AI data center \u2f00cooling equipment\u2f01 and LG Electronics investing hundreds of billions of won to build a third home appliance plant. But whether I\u2026"
       }
      ],
      []
@@ -41453,7 +42095,7 @@
    "id": "red-sea",
    "term": "red sea",
    "direction": "falling",
-   "ratio": 0.16608489640283736,
+   "ratio": 0.16588258355385668,
    "display": false,
    "adoptionSpan": 17,
    "pace": "mixed",
@@ -41636,7 +42278,7 @@
      "new",
      6,
      0,
-     177.9,
+     178.9,
      [
       {
        "title": "Hapag-Lloyd confirms first SE1 sailings via Red Sea and Suez Canal",
@@ -42167,7 +42809,7 @@
    "id": "power-supply",
    "term": "power supply",
    "direction": "steady",
-   "ratio": 0.2847169652620069,
+   "ratio": 0.2843701432351829,
    "display": false,
    "adoptionSpan": 17,
    "pace": "mixed",
@@ -42382,7 +43024,7 @@
      "steady",
      3,
      1,
-     13.6,
+     13.7,
      [
       {
        "title": "Aeonus Tests Mobile ESS Power Supply in Japan",
@@ -42811,7 +43453,7 @@
    "id": "energy-crisis",
    "term": "energy crisis",
    "direction": "rising",
-   "ratio": 0.3914858272352595,
+   "ratio": 0.39100894694837657,
    "display": false,
    "adoptionSpan": 26,
    "pace": "mixed",
@@ -43432,7 +44074,7 @@
    "id": "closed-loop",
    "term": "closed loop",
    "direction": "rising",
-   "ratio": 0.5694339305240138,
+   "ratio": 0.5687402864703659,
    "display": false,
    "adoptionSpan": 29,
    "pace": "gradual",
@@ -44001,643 +44643,10 @@
    "rank": 1.073
   },
   {
-   "id": "mercedes-benz",
-   "term": "mercedes benz",
-   "direction": "rising",
-   "ratio": 0.782971654470519,
-   "display": false,
-   "adoptionSpan": 25,
-   "pace": "mixed",
-   "kind": "concept",
-   "sectorCount": 2,
-   "effectiveSectors": 1.59,
-   "newestSector": "Technology",
-   "daysSinceNewestSector": 40,
-   "articles14d": 11,
-   "articlesPrior14d": 2,
-   "publishers": 0,
-   "events": 0,
-   "topPubShare": null,
-   "sectors": [
-    {
-     "name": "Autos",
-     "firstSeen": "2026-07-30",
-     "recent": 6,
-     "articles": 19,
-     "share": 0.667,
-     "atSectorStart": false,
-     "grip": 0.75,
-     "outlets": 3,
-     "adopt": 24,
-     "daysSince": 65
-    },
-    {
-     "name": "Technology",
-     "firstSeen": "2026-08-24",
-     "recent": 3,
-     "articles": 4,
-     "share": 0.333,
-     "atSectorStart": false,
-     "grip": 0.222,
-     "outlets": 2,
-     "adopt": 49,
-     "daysSince": 40
-    }
-   ],
-   "sinceStart": false,
-   "origins": [
-    [
-     "DE",
-     10
-    ],
-    [
-     "US",
-     7
-    ],
-    [
-     "GB",
-     3
-    ],
-    [
-     "KR",
-     3
-    ],
-    [
-     "AU",
-     1
-    ],
-    [
-     "TW",
-     1
-    ]
-   ],
-   "flow": {
-    "weeks": [
-     "2026-07-06",
-     "2026-07-13",
-     "2026-07-20",
-     "2026-07-27",
-     "2026-08-03",
-     "2026-08-10",
-     "2026-08-17",
-     "2026-08-24",
-     "2026-08-31",
-     "2026-09-07",
-     "2026-09-14",
-     "2026-09-21",
-     "2026-09-28"
-    ],
-    "bands": [
-     {
-      "sector": "Autos",
-      "n": [
-       0,
-       0,
-       0,
-       1,
-       4,
-       3,
-       3,
-       0,
-       0,
-       1,
-       1,
-       2,
-       4
-      ]
-     },
-     {
-      "sector": "Technology",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0,
-       1,
-       2
-      ]
-     },
-     {
-      "sector": "Waste & water",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1
-      ]
-     },
-     {
-      "sector": "Real estate",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       1
-      ]
-     }
-    ]
-   },
-   "cooc": [],
-   "examples": [
-    {
-     "publisher": "The Elec",
-     "title": "LG Energy Solution to Supply Tesla-Style Batteries to \u2f00Mercedes-Benz\u2f01 EVs",
-     "url": "https://www.thelec.net/news/articleView.html?idxno=14363",
-     "date": "2026-10-02",
-     "sector": "Technology",
-     "country": "KR",
-     "quote": "\u2026t-generation electric vehicles from \u2f00Mercedes-Benz\u2f01. The 46100 is a new 46-Series cylindrical battery format that LG Energy Solution has not previously disclosed\u2026"
-    },
-    {
-     "publisher": "Electrive",
-     "title": "How is \u2f00Mercedes-Benz\u2f01 Trucks scaling the electric truck, Michael Scheib?",
-     "url": "https://www.electrive.com/2026/10/01/how-is-mercedes-benz-trucks-scaling-the-electric-truck-michael-scheib/",
-     "date": "2026-10-01",
-     "sector": "Autos",
-     "country": "DE",
-     "quote": "\u2f00Mercedes-Benz\u2f01 Trucks is expanding its electric portfolio and preparing the next technological leap in charging. At the IAA\u2026"
-    },
-    {
-     "publisher": "Commercial Observer",
-     "title": "\u2f00Mercedes-Benz\u2f01 Miami Project's $1.1B Financing Package Speeds Closer to Completion",
-     "url": "https://commercialobserver.com/2026/09/mercedes-benz-miami-construction-jpmorgan/",
-     "date": "2026-09-30",
-     "sector": "Real estate",
-     "country": "US",
-     "quote": "\u2026dies and gents, start your engines. \u2f00Mercedes-Benz\u2f01 Places Miami's construction financing is officially off to the races, sources confirmed to Commercial Observe\u2026"
-    },
-    {
-     "publisher": "Electrive",
-     "title": "US order books open for 2027 \u2f00Mercedes-Benz\u2f01 G 580 Electric",
-     "url": "https://www.electrive.com/2026/09/29/us-order-books-open-for-2027-mercedes-benz-g-580-electric/",
-     "date": "2026-09-29",
-     "sector": "Autos",
-     "country": "DE",
-     "quote": "\u2f00Mercedes-Benz\u2f01 is now accepting orders for the 2027 G 580 Electric in the US, with the luxury off-roader receiving a revised\u2026"
-    },
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "\u2f00Mercedes-Benz\u2f01 and ProLogium expand solid-state battery testing partnership",
-     "url": "https://www.digitimes.com/news/a20260929PD247/mercedes-benz-testing-prologium-solid-state-battery-partnership.html",
-     "date": "2026-09-29",
-     "sector": "Technology",
-     "country": "TW",
-     "quote": "\u2026gned a joint testing agreement with \u2f00Mercedes-Benz\u2f01, giving the automaker priority access to evaluate the battery maker's latest Gen4 cells. The companies said t\u2026"
-    },
-    {
-     "publisher": "Electrive",
-     "title": "\u2f00Mercedes-Benz\u2f01 to assemble electric GLC in Thailand",
-     "url": "https://www.electrive.com/2026/09/28/mercedes-benz-to-assemble-electric-glc-in-thailand/",
-     "date": "2026-09-28",
-     "sector": "Autos",
-     "country": "DE",
-     "quote": ""
-    },
-    {
-     "publisher": "Automotive Dive",
-     "title": "A \u2f00Mercedes-Benz\u2f01 dealership's service director embraces AI to improve turn time",
-     "url": "https://www.wardsauto.com/news/a-mercedes-benz-dealerships-service-director-embraces-ai-to-improve-turn-t/830839/",
-     "date": "2026-09-28",
-     "sector": "Autos",
-     "country": "US",
-     "quote": ""
-    },
-    {
-     "publisher": "Waste Management Review",
-     "title": "REMONDIS trials zero-emission waste collection trucks",
-     "url": "https://wastemanagementreview.com.au/remondis-trials-zero-emission-waste-collection-trucks/",
-     "date": "2026-09-28",
-     "sector": "Waste & water",
-     "country": "AU",
-     "quote": "\u2026ro-exhaust-emission technology from \u2f00Mercedes-Benz\u2f01 Trucks. REMONDIS put the Mercedes-Benz eEconic 6\u00d72 model truck through commercial waste collection trials in\u2026"
-    },
-    {
-     "publisher": "Electrive",
-     "title": "Mercedes tests new Gen4 battery cells from ProLogium",
-     "url": "https://www.electrive.com/2026/09/25/mercedes-tests-new-gen4-battery-cells-from-prologium/",
-     "date": "2026-09-25",
-     "sector": "Autos",
-     "country": "DE",
-     "quote": "\u2f00Mercedes-Benz\u2f01 is expanding its collaboration with ProLogium and is gaining preferential access to its new Gen4 battery tech\u2026"
-    },
-    {
-     "publisher": "The Elec",
-     "title": "[Snapdragon Summit] Qualcomm, Liquid AI Unveil Proactive AI Agent With Persistent Memory",
-     "url": "https://www.thelec.net/news/articleView.html?idxno=14179",
-     "date": "2026-09-25",
-     "sector": "Technology",
-     "country": "KR",
-     "quote": "\u2026a Snapdragon computing platform for \u2f00Mercedes-Benz\u2f01 as it moves toward commercial deployment.Ramin Hasani, co-founder and chief executive officer of Liq"
-    },
-    {
-     "publisher": "Just Auto",
-     "title": "\u2f00Mercedes-Benz\u2f01, Wayve agree production deal for AI driving system",
-     "url": "https://www.just-auto.com/news/mercedes-benz-wayve-ai-driving-system/",
-     "date": "2026-09-23",
-     "sector": "Autos",
-     "country": "US",
-     "quote": ""
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-07-06",
-     "n": 0
-    },
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 0
-    },
-    {
-     "day": "2026-07-30",
-     "n": 1
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 0
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 0
-    },
-    {
-     "day": "2026-08-04",
-     "n": 2
-    },
-    {
-     "day": "2026-08-05",
-     "n": 0
-    },
-    {
-     "day": "2026-08-06",
-     "n": 1
-    },
-    {
-     "day": "2026-08-07",
-     "n": 1
-    },
-    {
-     "day": "2026-08-08",
-     "n": 0
-    },
-    {
-     "day": "2026-08-09",
-     "n": 0
-    },
-    {
-     "day": "2026-08-10",
-     "n": 0
-    },
-    {
-     "day": "2026-08-11",
-     "n": 2
-    },
-    {
-     "day": "2026-08-12",
-     "n": 1
-    },
-    {
-     "day": "2026-08-13",
-     "n": 0
-    },
-    {
-     "day": "2026-08-14",
-     "n": 0
-    },
-    {
-     "day": "2026-08-15",
-     "n": 0
-    },
-    {
-     "day": "2026-08-16",
-     "n": 0
-    },
-    {
-     "day": "2026-08-17",
-     "n": 1
-    },
-    {
-     "day": "2026-08-18",
-     "n": 1
-    },
-    {
-     "day": "2026-08-19",
-     "n": 1
-    },
-    {
-     "day": "2026-08-20",
-     "n": 0
-    },
-    {
-     "day": "2026-08-21",
-     "n": 0
-    },
-    {
-     "day": "2026-08-22",
-     "n": 0
-    },
-    {
-     "day": "2026-08-23",
-     "n": 0
-    },
-    {
-     "day": "2026-08-24",
-     "n": 1
-    },
-    {
-     "day": "2026-08-25",
-     "n": 0
-    },
-    {
-     "day": "2026-08-26",
-     "n": 0
-    },
-    {
-     "day": "2026-08-27",
-     "n": 0
-    },
-    {
-     "day": "2026-08-28",
-     "n": 0
-    },
-    {
-     "day": "2026-08-29",
-     "n": 0
-    },
-    {
-     "day": "2026-08-30",
-     "n": 0
-    },
-    {
-     "day": "2026-08-31",
-     "n": 0
-    },
-    {
-     "day": "2026-09-01",
-     "n": 0
-    },
-    {
-     "day": "2026-09-02",
-     "n": 0
-    },
-    {
-     "day": "2026-09-03",
-     "n": 0
-    },
-    {
-     "day": "2026-09-04",
-     "n": 0
-    },
-    {
-     "day": "2026-09-05",
-     "n": 0
-    },
-    {
-     "day": "2026-09-06",
-     "n": 0
-    },
-    {
-     "day": "2026-09-07",
-     "n": 0
-    },
-    {
-     "day": "2026-09-08",
-     "n": 0
-    },
-    {
-     "day": "2026-09-09",
-     "n": 0
-    },
-    {
-     "day": "2026-09-10",
-     "n": 0
-    },
-    {
-     "day": "2026-09-11",
-     "n": 1
-    },
-    {
-     "day": "2026-09-12",
-     "n": 0
-    },
-    {
-     "day": "2026-09-13",
-     "n": 0
-    },
-    {
-     "day": "2026-09-14",
-     "n": 0
-    },
-    {
-     "day": "2026-09-15",
-     "n": 0
-    },
-    {
-     "day": "2026-09-16",
-     "n": 0
-    },
-    {
-     "day": "2026-09-17",
-     "n": 1
-    },
-    {
-     "day": "2026-09-18",
-     "n": 0
-    },
-    {
-     "day": "2026-09-19",
-     "n": 0
-    },
-    {
-     "day": "2026-09-20",
-     "n": 0
-    },
-    {
-     "day": "2026-09-21",
-     "n": 0
-    },
-    {
-     "day": "2026-09-22",
-     "n": 0
-    },
-    {
-     "day": "2026-09-23",
-     "n": 1
-    },
-    {
-     "day": "2026-09-24",
-     "n": 0
-    },
-    {
-     "day": "2026-09-25",
-     "n": 2
-    },
-    {
-     "day": "2026-09-26",
-     "n": 0
-    },
-    {
-     "day": "2026-09-27",
-     "n": 0
-    },
-    {
-     "day": "2026-09-28",
-     "n": 3
-    },
-    {
-     "day": "2026-09-29",
-     "n": 2
-    },
-    {
-     "day": "2026-09-30",
-     "n": 1
-    },
-    {
-     "day": "2026-10-01",
-     "n": 1
-    },
-    {
-     "day": "2026-10-02",
-     "n": 1
-    },
-    {
-     "day": "2026-10-03",
-     "n": 0
-    }
-   ],
-   "relRatio": 3.22,
-   "docFreq": 0.0005,
-   "specificity": 0.985,
-   "homeShare": 0.667,
-   "daysSeen": 7,
-   "rank": 1.064
-  },
-  {
    "id": "wind-energy",
    "term": "wind energy",
    "direction": "falling",
-   "ratio": 0.14235848263100345,
+   "ratio": 0.14218507161759145,
    "display": false,
    "adoptionSpan": 14,
    "pace": "mixed",
@@ -45216,7 +45225,7 @@
    "id": "electric-utility",
    "term": "electric utility",
    "direction": "rising",
-   "ratio": 0.5694339305240138,
+   "ratio": 0.5687402864703659,
    "display": false,
    "adoptionSpan": 3,
    "pace": "mixed",
@@ -45707,7 +45716,7 @@
    "id": "utility-scale",
    "term": "utility scale",
    "direction": "steady",
-   "ratio": 0.17794810328875432,
+   "ratio": 0.17773133952198936,
    "display": false,
    "adoptionSpan": 3,
    "pace": "mixed",
@@ -45864,7 +45873,7 @@
      "new",
      2,
      0,
-     747.0,
+     751.4,
      [
       {
        "title": "In global first, a next-gen \u2f00geothermal plant\u2f01 goes live at utility scale",
@@ -46402,7 +46411,7 @@
    "id": "oil-production",
    "term": "oil production",
    "direction": "rising",
-   "ratio": 0.3203065859197578,
+   "ratio": 0.31991641113958086,
    "display": false,
    "adoptionSpan": 0,
    "pace": "simultaneous",
@@ -47004,7 +47013,7 @@
    "id": "export-route",
    "term": "export route",
    "direction": "rising",
-   "ratio": 0.4270754478930104,
+   "ratio": 0.42655521485277437,
    "display": false,
    "adoptionSpan": 20,
    "pace": "mixed",
@@ -47562,7 +47571,7 @@
    "id": "natural-gas",
    "term": "natural gas",
    "direction": "steady",
-   "ratio": 0.18981131017467126,
+   "ratio": 0.18958009549012195,
    "display": false,
    "adoptionSpan": 25,
    "pace": "mixed",
@@ -47865,7 +47874,7 @@
      "new",
      3,
      0,
-     88.9,
+     89.4,
      [
       {
        "title": "Why Record Heat Failed to Lift U.S. Natural Gas Prices",
@@ -47897,7 +47906,7 @@
      "new",
      5,
      0,
-     42.4,
+     42.7,
      [
       {
        "title": "U.S. Deploys Patriots to Shield Saudi Oil and Qatari Gas Facilities",
@@ -48424,7 +48433,7 @@
    "id": "lfp-battery",
    "term": "lfp battery",
    "direction": "rising",
-   "ratio": 0.35589620657750864,
+   "ratio": 0.3554626790439787,
    "display": false,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -48581,7 +48590,7 @@
      "new",
      9,
      0,
-     426.9,
+     429.3,
      [
       {
        "title": "Samsung SDI targets AI data centers with cylindrical LFP batteries and fire-propagation safeguards",
@@ -49049,7 +49058,7 @@
    "id": "fuel-supply",
    "term": "fuel supply",
    "direction": "rising",
-   "ratio": 0.5694339305240138,
+   "ratio": 0.5687402864703659,
    "display": false,
    "adoptionSpan": 6,
    "pace": "simultaneous",
@@ -49625,7 +49634,7 @@
    "id": "maritime-trade",
    "term": "maritime trade",
    "direction": "rising",
-   "ratio": 0.4270754478930104,
+   "ratio": 0.42655521485277437,
    "display": false,
    "adoptionSpan": 13,
    "pace": "mixed",
@@ -50142,7 +50151,7 @@
    "id": "gas-price",
    "term": "gas price",
    "direction": "steady",
-   "ratio": 0.2669221549331315,
+   "ratio": 0.266597009282984,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -50325,7 +50334,7 @@
      "new",
      2,
      0,
-     664.0,
+     667.9,
      [
       {
        "title": "Ineos mothballs three \u2f00chemical plants\u2f01 due to \u2018gas prices'",
@@ -50350,7 +50359,7 @@
      "steady",
      2,
      2,
-     332.0,
+     333.9,
      [
       {
        "title": "Hormuz Crisis to Push Global \u2f00Coal Demand\u2f01 to Record High",
@@ -50375,7 +50384,7 @@
      "new",
      2,
      0,
-     189.7,
+     190.8,
      [
       {
        "title": "Why Record Heat Failed to Lift U.S. Natural Gas Prices",
@@ -50878,7 +50887,7 @@
    "id": "crude-price",
    "term": "crude price",
    "direction": "steady",
-   "ratio": 0.17794810328875432,
+   "ratio": 0.17773133952198936,
    "display": false,
    "adoptionSpan": 49,
    "pace": "gradual",
@@ -51431,7 +51440,7 @@
    "id": "tariff-refund",
    "term": "tariff refund",
    "direction": "rising",
-   "ratio": 0.5694339305240138,
+   "ratio": 0.5687402864703659,
    "display": false,
    "adoptionSpan": 24,
    "pace": "mixed",
@@ -51999,7 +52008,7 @@
    "id": "officially-opened",
    "term": "officially opened",
    "direction": "rising",
-   "ratio": 0.5694339305240138,
+   "ratio": 0.5687402864703659,
    "display": false,
    "adoptionSpan": 35,
    "pace": "gradual",
@@ -52160,7 +52169,7 @@
      "new",
      2,
      0,
-     933.8,
+     939.2,
      [
       {
        "title": "New Cork surgical hub expected to deliver \u2018significant' additional capacity",
@@ -52627,7 +52636,7 @@
    "id": "effective-date",
    "term": "effective date",
    "direction": "rising",
-   "ratio": 0.5694339305240138,
+   "ratio": 0.5687402864703659,
    "display": false,
    "adoptionSpan": 21,
    "pace": "mixed",
@@ -53127,7 +53136,7 @@
    "id": "noel-tata",
    "term": "noel tata",
    "direction": "falling",
-   "ratio": 0.08541508957860207,
+   "ratio": 0.08531104297055486,
    "display": false,
    "adoptionSpan": 4,
    "pace": "simultaneous",
@@ -53650,7 +53659,7 @@
    "id": "middle-east",
    "term": "middle east",
    "direction": "falling",
-   "ratio": 0.1449947508278739,
+   "ratio": 0.1448181284993987,
    "display": false,
    "adoptionSpan": 51,
    "pace": "gradual",
@@ -54494,7 +54503,7 @@
    "id": "tata-trust",
    "term": "tata trust",
    "direction": "falling",
-   "ratio": 0.07117924131550173,
+   "ratio": 0.07109253580879572,
    "display": false,
    "adoptionSpan": 1,
    "pace": "simultaneous",
@@ -55057,7 +55066,7 @@
    "id": "contract-worth",
    "term": "contract worth",
    "direction": "rising",
-   "ratio": 0.5694339305240138,
+   "ratio": 0.5687402864703659,
    "display": false,
    "adoptionSpan": 8,
    "pace": "mixed",
@@ -55605,7 +55614,7 @@
    "id": "rare-earth",
    "term": "rare earth",
    "direction": "falling",
-   "ratio": 0.15734358606584592,
+   "ratio": 0.15715192126154845,
    "display": false,
    "adoptionSpan": 32,
    "pace": "gradual",
@@ -55836,7 +55845,7 @@
      "steady",
      5,
      1,
-     237.1,
+     238.5,
      [
       {
        "title": "ERI becomes strategic investor in \u2f00Cyclic Materials\u2f01",
@@ -56360,7 +56369,7 @@
    "id": "oil-tanker",
    "term": "oil tanker",
    "direction": "falling",
-   "ratio": 0.09490565508733563,
+   "ratio": 0.09479004774506097,
    "display": false,
    "adoptionSpan": 7,
    "pace": "mixed",
