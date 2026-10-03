@@ -1,0 +1,85 @@
+name: prices
+
+# Company share prices, once a day.
+#
+# Why this is not a step inside collect.yml: Twelve Data's free tier allows
+# eight requests a minute, so pricing the companies on the dashboard takes
+# several minutes of waiting. Collection runs every six hours and has a 25
+# minute budget; a slow price fetch inside it would eventually eat the budget
+# that belongs to the articles. Daily is also the right cadence — the figures
+# shown are a fortnight move and a move since a phrase crossed, and neither
+# changes meaningfully between breakfast and lunch.
+
+on:
+  schedule:
+    - cron: "41 5 * * *"
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: "Cap how many companies to fetch (blank = all)"
+        required: false
+        default: ""
+
+permissions:
+  contents: read
+
+# Shared with collect and edgar so two jobs never write the database at once.
+concurrency:
+  group: crosstalk-write
+  cancel-in-progress: false
+
+jobs:
+  prices:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+
+      - name: Fetch database
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
+        run: |
+          pip install awscli --quiet
+          aws s3 cp s3://crosstalk/chorus.db chorus.db \
+            --endpoint-url ${{ secrets.R2_ENDPOINT }}
+          ls -lh chorus.db
+
+      # Prices are context. If every provider is down the dashboard simply
+      # shows company rows without a figure, which is the honest state anyway.
+      - name: Company prices
+        continue-on-error: true
+        env:
+          TWELVEDATA_KEY: ${{ secrets.TWELVEDATA_KEY }}
+          ALPHAVANTAGE_KEY: ${{ secrets.ALPHAVANTAGE_KEY }}
+        run: |
+          set -o pipefail
+          python3 prices.py --only-companies \
+            ${{ github.event.inputs.limit && format('--limit {0}', github.event.inputs.limit) || '' }} \
+            2>&1 | tee prices.txt
+
+      - name: Report
+        if: always()
+        run: |
+          {
+            echo "## Company prices"
+            echo '```'
+            tail -40 prices.txt 2>/dev/null || echo "no output"
+            echo '```'
+          } >> $GITHUB_STEP_SUMMARY
+
+      # Written back even on a partial run: the symbols that did answer are
+      # worth keeping, and the next run skips whatever is already current.
+      - name: Store database
+        if: always()
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          AWS_DEFAULT_REGION: auto
+        run: |
+          test -f chorus.db || { echo "::error::no database to store"; exit 1; }
+          aws s3 cp chorus.db s3://crosstalk/chorus.db \
+            --endpoint-url ${{ secrets.R2_ENDPOINT }}
