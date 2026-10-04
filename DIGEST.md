@@ -1,15 +1,15 @@
 # Crosstalk — week ending 4 October 2026
 
-*25,490 articles over 187 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*25,496 articles over 187 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
 **[renewable generation](https://crosstalkwire.com/#renewable-generation)** — Energy, Utilities, 5 articles across 4 newsrooms
 **[distribution network](https://crosstalkwire.com/#distribution-network)** — Consumer, Supply chain, 4 articles across 3 newsrooms
 **[solar storage](https://crosstalkwire.com/#solar-storage)** — Energy, Utilities, 6 articles across 0 newsrooms
-**[power producer](https://crosstalkwire.com/#power-producer)** — Energy, Utilities, 4 articles across 3 newsrooms
 **[grid operator](https://crosstalkwire.com/#grid-operator)** — Energy, Utilities, 5 articles across 3 newsrooms
 **[digital infrastructure](https://crosstalkwire.com/#digital-infrastructure)** — Finance, Real estate, Technology, 13 articles across 7 newsrooms
+**[wind energy](https://crosstalkwire.com/#wind-energy)** — Energy, Technology, 4 articles across 3 newsrooms
 
 ## Being used more than a fortnight ago
 
@@ -21,9 +21,9 @@
 
 ## Being discussed alongside
 
+**battery cell** — mass produce, electric vehicle
 **gas plant** — data center
 **iron ore** — steel mill
-**steel mill** — iron ore mine
 
 ---
 
