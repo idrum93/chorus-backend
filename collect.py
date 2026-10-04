@@ -51,7 +51,7 @@ VERSION = "v3"
 # Bump this whenever extraction changes — including companies.json and the
 # stop lists, which feed it. Without a bump, stored grams keep the old rules
 # and the change appears to have done nothing.
-EXTRACT_VERSION = 253
+EXTRACT_VERSION = 254
 UA     = "crosstalk-monitor/3.0 (news language monitoring; crosstalkwire.com)"
 KEY    = os.environ.get("NEWSAPI_AI_KEY", "").strip()
 
@@ -71,6 +71,12 @@ ONE_FEED_HARD = 0.6     # this much from one newsroom is that newsroom's own
                          # usage however many others also carry it
 ONE_FEED_SHARE = 0.55     # a phrase this concentrated in one publisher, with few
                          # others carrying it, is that newsroom writing to habit
+# How hard the coined-against-compositional reading pulls on the rank.
+# FLOOR is what a phrase keeps when its head is the most productive word
+# in the corpus; 1.0 is what a phrase with a head of its own gets. Raise
+# the floor toward 1.0 to soften it, lower it to let boundness dominate.
+COIN_FLOOR = 0.5
+COIN_CEIL  = 3000       # a head in this many phrases is fully generic
 EVERYWHERE_SHARE = 0.5   # a phrase in more than half the sectors is what they
                          # all already say, not language crossing between them
 COMMON_CEILING = 0.03    # a phrase in more than this share of all coverage is
@@ -973,6 +979,7 @@ def companies_in(text):
     return out
 
 FIRST_NAMES = set("""
+gavin keir rishi ursula olaf emmanuel narendra shigeru
 james john robert michael william david richard joseph thomas charles christopher
 daniel matthew anthony donald paul steven andrew kenneth george joshua kevin
 brian edward ronald timothy jason jeffrey ryan jacob gary nicholas eric stephen
@@ -2069,13 +2076,28 @@ def boundness(terms, prod):
         words = [w for w in t["term"].split() if w]
         if not words:
             continue
+        # A name is maximally bound by construction — "newsom" and "guinea"
+        # occur in one phrase because there is one Gavin Newsom and one Papua
+        # New Guinea, not because a trade coined a term. The first run of this
+        # diagnostic returned a place, a politician and a stock-photo credit in
+        # its top eight, which is the measure working exactly as defined and
+        # answering the wrong question. Names are already removed from the list
+        # by other rules; they are removed here so the reading is about the
+        # phrases that actually compete for a place.
+        if t.get("kind") == "place":
+            continue
+        if any(w in PLACES or w in FIRST_NAMES or w in INSTITUTION_WORDS
+               for w in words):
+            continue
+        if t["term"] in seen_companies or singularise(t["term"]) in seen_companies:
+            continue
         head = words[-1]
         rarest = min(words, key=lambda w: prod.get(w, 1))
         out.append({"term": t["term"], "word": head,
                     "n": prod.get(head, 1),
                     "rare": rarest, "rareN": prod.get(rarest, 1),
                     "articles": t.get("articles14d", 0),
-                    "shown": t.get("display", True)})
+                    "shown": bool(t.get("_visible"))})
     # a word nobody else uses, inside a phrase nobody reads, is not a coined
     # term — just a rare one. The article count rides alongside the score so
     # that case is visible rather than hidden behind a good-looking number.
@@ -2771,6 +2793,12 @@ def build(conn):
     homeless = bunched = everywhere = oneshop = oneevent = unsourced = 0
     places = thin = 0
     all_sectors = {s["name"] for t in out for s in t["sectors"]}
+    # how many distinct phrases each word turns up in, read once and used
+    # both by the rank below and by the diagnostic at the end
+    try:
+        PROD = word_productivity(conn, window_start)
+    except sqlite3.OperationalError:
+        PROD = {}
     for t in out:
         freq = t["articles14d"] / corpus
         t["docFreq"] = round(freq, 4)
@@ -2823,9 +2851,24 @@ def build(conn):
         # sector's own output, so a quiet trade press is not drowned out
         grip = max((s.get("grip") or 0) for s in t["sectors"]) if t["sectors"] else 0
         odd = 0.6 + 0.4 * min(1.0, grip / GRIP_FULL)
+        # compositional against coined. "wind ENERGY" and "renewable
+        # GENERATION" are built on heads that carry thousands of other
+        # phrases, so two desks reaching the same words means only that
+        # both described the same object. "digital TWIN" had to be coined,
+        # so a second sector using it means somebody carried the word
+        # across — which is the event this site exists to catch. Kept as a
+        # soft multiplier in the same 0.5-1.0 range as fresh and odd, not
+        # a filter: boundness is a good signal and a terrible gate, since
+        # proper nouns are maximally bound by construction.
+        t["bound"] = PROD.get(t["term"].split()[-1], 1) if PROD else None
+        coin = (COIN_FLOOR + (1 - COIN_FLOOR) * (1 - min(1.0,
+                math.log10(max(t["bound"], 1) + 1) / math.log10(COIN_CEIL)))
+                if t["bound"] else 1.0)
+        t["coin"] = round(coin, 3)
         t["rank"] = round(reach_weight(t["effectiveSectors"])
                           * (0.35 + 0.65 * t["specificity"])
-                          * (home_share ** HOME_WEIGHT) * fresh * odd, 3)
+                          * (home_share ** HOME_WEIGHT) * fresh * odd
+                          * coin, 3)
     out.sort(key=lambda t: (-t["rank"], t["daysSinceNewestSector"]))
 
     # "iran war" and "iran conflict" are one story; "energy storage" and
@@ -2921,6 +2964,9 @@ def build(conn):
         if rep is not None and rep is not t:
             rep.setdefault("alsoHeld", []).append(t["term"])
     shown = (spread + refill)[:SHOW_TERMS]
+    for t in shown:
+        t["_visible"] = True       # the 17 a reader actually sees, as opposed
+                                   # to "display", which means merely eligible
     for t in (spread + refill)[SHOW_TERMS:] + rest:
         t["display"] = False
         pool.append(t)
@@ -3044,8 +3090,7 @@ def build(conn):
     # asked is whether a phrase had to be coined or was merely assembled, and
     # the test is whether this ordering matches what a reader would pick out.
     try:
-        prod = word_productivity(conn, window_start)
-        band = boundness(out, prod)
+        band = boundness(out, PROD)
         if band:
             seen = [r for r in band if r["articles"] >= 3]
             coined = seen[:8]
@@ -3073,6 +3118,10 @@ def build(conn):
     if dropped_frags or dropped_swallow:
         print(f"  dropped · {dropped_frags} institution fragments, "
               f"{dropped_swallow} swallowed by a longer phrase")
+    # dropped only now: the diagnostic above is the last reader, and popping
+    # it beside _daily would have emptied it before that line ran
+    for t in out:
+        t.pop("_visible", None)
     phase("tail", _t1)
     return out[:MAX_TERMS]
 
