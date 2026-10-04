@@ -51,7 +51,7 @@ VERSION = "v3"
 # Bump this whenever extraction changes — including companies.json and the
 # stop lists, which feed it. Without a bump, stored grams keep the old rules
 # and the change appears to have done nothing.
-EXTRACT_VERSION = 251
+EXTRACT_VERSION = 252
 UA     = "crosstalk-monitor/3.0 (news language monitoring; crosstalkwire.com)"
 KEY    = os.environ.get("NEWSAPI_AI_KEY", "").strip()
 
@@ -280,6 +280,19 @@ project projects announce buy sell hold
 # that names a department is not language moving between departments. It stays
 # a head word rather than a blocked phrase, so "policy rate" is untouched and
 # all of them remain available as companions.
+#
+# "producer" joins provider, player, specialist, leader and pioneer above: all
+# of them name a kind of company rather than a subject. A power producer, an
+# oil producer and a lithium producer are categories of firm, and the two
+# sectors most likely to share one — Energy and Utilities — are already the
+# closest pair in the corpus at 9% vocabulary overlap, so a phrase crossing
+# between them on a firm type is one subject covered by two desks.
+#
+# "risk" names a worry rather than a thing: security risk, climate risk,
+# regulatory risk, credit risk. Nobody files a story about the risk; they file
+# about what it attaches to, which is already the phrase in front of it. This
+# subsumes "geopolitical risk", named individually further down before the
+# pattern was visible.
 FRAME_HEADS = set("""
 management capacity environment experience agreement investment application
 framework approach strategy initiative solution opportunity challenge
@@ -294,6 +307,8 @@ specialist specialists provider providers player players innovator
 driver drivers headwind headwinds tailwind tailwinds catalyst catalysts
 priority priorities imperative imperatives enabler enablers
 policy policies
+producer producers
+risk risks
 """.split())
 
 EDGE_STOP = set("""
@@ -592,6 +607,11 @@ STOCK_PHRASES = {
     "digital asset", "digital assets", "digital currency", "crypto asset",
     "energy vehicle", "energy vehicles",
 
+    # analyst furniture. "There are trade-offs between cost and speed" is a
+    # sentence about weighing things, not about a subject either desk covers.
+    # The tokeniser keeps letters only, so the hyphenated form arrives here as
+    # two words and the stored form is singular.
+    "trade off", "trade offs",
     "balance sheet", "key growth", "growth driver", "key driver",
     # a concern rather than a subject: no desk is writing about the thing
     "geopolitical tension", "geopolitical risk", "geopolitical uncertainty",
