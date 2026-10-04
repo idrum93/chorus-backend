@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-04T04:39:03.258172+00:00",
+ "generated": "2026-10-04T04:50:32.062403+00:00",
  "placeWords": [
   "africa",
   "alberta",
@@ -3337,6 +3337,22 @@
    {
     "day": "2026-09-28",
     "close": 79.07
+   },
+   {
+    "day": "2026-09-29",
+    "close": 79.46
+   },
+   {
+    "day": "2026-09-30",
+    "close": 78.52
+   },
+   {
+    "day": "2026-10-01",
+    "close": 79.04
+   },
+   {
+    "day": "2026-10-02",
+    "close": 80.2
    }
   ],
   "Materials": [
@@ -7655,380 +7671,6 @@
    ]
   },
   {
-   "price": {
-    "symbol": "TSLA",
-    "asof": "2026-10-02",
-    "close": 370.59,
-    "d14": -1.3,
-    "sinceCross": 15.3,
-    "crossDay": "2026-08-05",
-    "sector14d": 0.2,
-    "sectorSinceCross": 3.1
-   },
-   "prior14d": 30,
-   "direction": "steady",
-   "ticker": "TSLA",
-   "name": "Tesla",
-   "sector": "Autos",
-   "borrowed": [
-    "credit facility"
-   ],
-   "articles": 119,
-   "articles14d": 29,
-   "terms": [
-    {
-     "term": "credit facility",
-     "id": "credit-facility",
-     "cross": "2026-08-05",
-     "articles": 1,
-     "home": "Technology",
-     "shown": true,
-     "sectors": 2,
-     "direction": "steady",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "GMI Cloud secures NT$14.05 billion loan for AI factory",
-       "url": "https://www.digitimes.com/news/a20261002PD200/cloud-taiwan-loan-financing-infrastructure.html",
-       "date": "2026-10-02",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026n (about US$445 million) syndicated \u2f00credit facility\u2f01 to fund Taiwan's first AI factory. The deal is the first in Taiwan to fully back GPU financing with a commerc\u2026"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "GMI Cloud raises $668m in funding",
-       "url": "https://www.datacenterdynamics.com/en/news/gmi-cloud-raises-668m-in-funding/",
-       "date": "2026-10-01",
-       "sector": "Technology",
-       "country": "US",
-       "quote": "Combination of equity and \u2f00credit facility\u2f01"
-      },
-      {
-       "publisher": "Recycling Today",
-       "title": "Metycle secures $150M \u2f00credit facility\u2f01",
-       "url": "https://www.recyclingtoday.com/metycle",
-       "date": "2026-09-28",
-       "sector": "Materials",
-       "country": "US",
-       "quote": ""
-      }
-     ]
-    },
-    {
-     "term": "humanoid robot",
-     "id": "humanoid-robot",
-     "cross": "2026-07-23",
-     "articles": 7,
-     "home": "Technology",
-     "shown": false,
-     "sectors": 3,
-     "direction": "falling",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Tesla cuts AI5, AI6 memory specs to protect Optimus",
-       "url": "https://www.digitimes.com/news/a20261002PD222/tesla-optimus-production-ceo-elon-musk.html",
-       "date": "2026-10-02",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026the downgrades will not affect the \u2f00humanoid robot\u2f01's performance."
-      },
-      {
-       "publisher": "Semiconductor Engineering",
-       "title": "Memory At The Edge: Non-Volatile Memory Challenges And Requirements For \u2f00Humanoid Robots\u2f01",
-       "url": "https://semiengineering.com/memory-at-the-edge-non-volatile-memory-challenges-and-requirements-for-humanoid-robots/",
-       "date": "2026-10-01",
-       "sector": "Technology",
-       "country": "US",
-       "quote": "\u2026ory Challenges And Requirements For \u2f00Humanoid Robots\u2f01 appeared first on Semiconductor Engineering ."
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "China's generative AI user base tops 700 million, driving adoption into manufacturing and \u2f00humanoid robots\u2f01",
-       "url": "https://www.digitimes.com/news/a20260930PD226/adoption-genai-manufacturing-2026-internet.html",
-       "date": "2026-09-30",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": ""
-      }
-     ]
-    },
-    {
-     "term": "electric truck",
-     "id": "electric-truck",
-     "cross": "2026-08-05",
-     "articles": 6,
-     "home": "Autos",
-     "shown": false,
-     "sectors": 2,
-     "direction": "falling",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "Canary Media",
-       "title": "Diesel prices are rising worldwide. So are \u2f00electric truck\u2f01 sales.",
-       "url": "https://www.canarymedia.com/articles/clean-fleets/diesel-prices-electric-truck-sales",
-       "date": "2026-10-02",
-       "sector": "Energy",
-       "country": "US",
-       "quote": "\u2026de, sales of medium- and heavy-duty \u2f00electric trucks\u2f01 hit a record high in the first half of this year, according to research firm\u2026"
-      },
-      {
-       "publisher": "Electrive",
-       "title": "How is Mercedes-Benz Trucks scaling the \u2f00electric truck\u2f01, Michael Scheib?",
-       "url": "https://www.electrive.com/2026/10/01/how-is-mercedes-benz-trucks-scaling-the-electric-truck-michael-scheib/",
-       "date": "2026-10-01",
-       "sector": "Autos",
-       "country": "DE",
-       "quote": ""
-      },
-      {
-       "publisher": "Electrive",
-       "title": "India: Dalmia Cement deploys 24 electric heavy-duty trucks",
-       "url": "https://www.electrive.com/2026/10/01/india-dalmia-cement-deploys-24-electric-heavy-duty-trucks/",
-       "date": "2026-10-01",
-       "sector": "Autos",
-       "country": "DE",
-       "quote": "\u2026tchLabs and Pune, Maharashtra-based \u2f00electric truck\u2f01 manufacturer Energy In Motion for this initiative."
-      }
-     ]
-    },
-    {
-     "term": "mass production",
-     "id": "mass-production",
-     "cross": "2026-09-02",
-     "articles": 4,
-     "home": "Technology",
-     "shown": false,
-     "sectors": 3,
-     "direction": "steady",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "The Elec",
-       "title": "\u200bSamsung Electronics Starts \u2f00Mass Production\u2f01 of Exynos 2700 With 10% Higher Volume",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=14397",
-       "date": "2026-10-02",
-       "sector": "Technology",
-       "country": "KR",
-       "quote": "Samsung Electronics has begun \u2f00mass production\u2f01 of the Exynos 2700, the application processor (AP) that will power its Galaxy S27 smartphone series. Producti\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Advanced packaging race expands beyond chipmakers as display, materials, equipment suppliers chase new footholds",
-       "url": "https://www.digitimes.com/news/a20261002PD208/packaging-equipment-materials-display-chipmakers.html",
-       "date": "2026-10-02",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026tical communications move closer to \u2f00mass production\u2f01, semiconductor equipment, materials, and optoelectronics suppliers are all moving to capture a share of the e\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "UNEEC shifts ODM focus to racks as L11 rises to 18%",
-       "url": "https://www.digitimes.com/news/a20261002PD217/2026-odm-president-revenue-plant.html",
-       "date": "2026-10-02",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026new models such as VR200 will enter \u2f00mass production\u2f01 in the fourth quarter, helping revenue recover toward the company's former monthly level of more than NT$1 bi\u2026"
-      }
-     ]
-    },
-    {
-     "term": "solar cell",
-     "id": "solar-cell",
-     "cross": "2026-08-05",
-     "articles": 4,
-     "home": "Energy",
-     "shown": false,
-     "sectors": 2,
-     "direction": "steady",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "Tesla secures US$30B credit package to fuel AI and robot capex race",
-       "url": "https://www.digitimes.com/news/a20260930PD227/tesla-spacex-ai-robot-capex-2026.html",
-       "date": "2026-09-30",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026e across AI compute infrastructure, \u2f00solar cell\u2f01 manufacturing, and a semiconductor wafer project with SpaceX."
-      },
-      {
-       "publisher": "PV Magazine",
-       "title": "Scientists propose \u2f00solar cell\u2f01 taxonomy based on absorber integration",
-       "url": "https://www.pv-magazine.com/2026/09/29/scientists-propose-solar-cell-taxonomy-based-on-absorber-integration/",
-       "date": "2026-09-29",
-       "sector": "Energy",
-       "country": "DE",
-       "quote": "\u2026ctures. The post Scientists propose \u2f00solar cell\u2f01 taxonomy based on absorber integration appeared first on pv magazine Global ."
-      },
-      {
-       "publisher": "PV Magazine",
-       "title": "Heterojunction \u2f00solar cell\u2f01 based on molybdenum oxide achieves 24.9% efficiency",
-       "url": "https://www.pv-magazine.com/2026/09/29/heterojunction-solar-cell-based-on-molybdenum-oxide-achieves-24-9-efficiency/",
-       "date": "2026-09-29",
-       "sector": "Energy",
-       "country": "DE",
-       "quote": "\u2026developed a silicon heterojunction \u2f00solar cell\u2f01 with a PMA/MoO\u2093 hole-selective contact that achieved 24.9% efficiency. The ultrathin PMA interlayer reduced i\u2026"
-      }
-     ]
-    },
-    {
-     "term": "data center",
-     "id": "data-center",
-     "cross": "2026-07-07",
-     "articles": 3,
-     "home": "Technology",
-     "shown": false,
-     "sectors": 9,
-     "direction": "steady",
-     "variants": [
-      "data center power",
-      "power demand",
-      "power supply"
-     ],
-     "examples": [
-      {
-       "publisher": "Construction Dive",
-       "title": "Punch List: $750M biotech project breaks ground, Nvidia taps Jacobs for \u2f00data center\u2f01 digital twin",
-       "url": "https://www.constructiondive.com/news/punch-list-750m-biotech-project-breaks-ground-nvidia-taps-jacobs-for-dat/831991/",
-       "date": "2026-10-02",
-       "sector": "Real estate",
-       "country": "US",
-       "quote": ""
-      },
-      {
-       "publisher": "Construction Dive",
-       "title": "\u2f00Data center\u2f01 construction spending raced further ahead in August",
-       "url": "https://www.constructiondive.com/news/data-center-construction-spending-august/831954/",
-       "date": "2026-10-02",
-       "sector": "Real estate",
-       "country": "US",
-       "quote": ""
-      },
-      {
-       "publisher": "The Elec",
-       "title": "\u200bLS Cable Expands AI \u2f00Data Center\u2f01 Power Solutions Business",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=14385",
-       "date": "2026-10-02",
-       "sector": "Technology",
-       "country": "KR",
-       "quote": "\u2026ns for artificial intelligence (AI) \u2f00data centers\u2f01.\u200bTHE ELEC reported on October 2 that LS Cable & System signed a memorandum of understanding (MOU) with HARTIN\u2026"
-      }
-     ]
-    },
-    {
-     "term": "driver assistance",
-     "id": "driver-assistance",
-     "cross": "2026-09-01",
-     "articles": 2,
-     "home": "Autos",
-     "shown": false,
-     "sectors": 2,
-     "direction": "rising",
-     "variants": [
-      "driver assistance system"
-     ],
-     "examples": [
-      {
-       "publisher": "Electrive",
-       "title": "Momenta develops \u2f00driver assistance\u2f01 systems for Peugeot and Jeep",
-       "url": "https://www.electrive.com/2026/09/29/momenta-develops-driver-assistance-systems-for-peugeot-and-jeep/",
-       "date": "2026-09-29",
-       "sector": "Autos",
-       "country": "DE",
-       "quote": "\u2026utomotive Technology to develop new \u2f00driver assistance\u2f01 systems for future Peugeot and Jeep models. Based on Momenta's R7 World Model, the systems are due to be intr\u2026"
-      },
-      {
-       "publisher": "Electrive",
-       "title": "EU vote on Tesla FSD not expected before December",
-       "url": "https://www.electrive.com/2026/09/28/eu-vote-on-tesla-fsd-not-expected-before-december/",
-       "date": "2026-09-28",
-       "sector": "Autos",
-       "country": "DE",
-       "quote": "The EU-wide approval of Tesla's \u2f00driver assistance\u2f01 system called \"Full Self-Driving (Supervised)\" is facing further delays. At the next meeting of the responsib\u2026"
-      },
-      {
-       "publisher": "CnEVPost",
-       "title": "Momenta to develop advanced \u2f00driver assistance\u2f01 for Peugeot, Jeep in China and overseas",
-       "url": "https://cnevpost.com/2026/09/28/momenta-develop-driver-assistance-peugeot-jeep/",
-       "date": "2026-09-28",
-       "sector": "Autos",
-       "country": "CN",
-       "quote": ""
-      }
-     ]
-    },
-    {
-     "term": "changxin memory technology",
-     "id": "changxin-memory-technology",
-     "cross": "2026-08-04",
-     "articles": 1,
-     "home": "Technology",
-     "shown": false,
-     "sectors": 2,
-     "direction": "falling",
-     "variants": [
-      "memory technology",
-      "memory technologies cxmt"
-     ],
-     "examples": [
-      {
-       "publisher": "SCMP Business",
-       "title": "China's CXMT to favour domestic suppliers in US$5.2b memory-chip capacity push: source",
-       "url": "https://www.scmp.com/tech/tech-trends/article/3369192/chinas-cxmt-favour-domestic-suppliers-us52b-memory-chip-capacity-push-source?utm_source=rss_feed",
-       "date": "2026-09-29",
-       "sector": "Finance",
-       "country": "HK",
-       "quote": "Chinese memory chip giant \u2f00ChangXin Memory Technologies\u2f01 (CXMT) plans to invest 34.9 billion yuan (US$5.2 billion) in expansion, with a large portion of the capital g\u2026"
-      },
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "CXMT to spend US$5.2 billion on R&D and testing as DRAM supply stays tight",
-       "url": "https://www.digitimes.com/news/a20260929VL207/cxmt-testing-dram-capacity-technology.html",
-       "date": "2026-09-29",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "China's \u2f00ChangXin Memory Technologies\u2f01 (CXMT) plans to invest CNY34.9 billion (approx. US$5.2 billion) in technology R&D and additional back-end DRA\u2026"
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "CnEVPost",
-     "title": "\u2f00Tesla\u2f01 beats Q3 delivery expectations but falls further behind BYD in BEV sales",
-     "url": "https://cnevpost.com/2026/10/02/tesla-q3-delivery-byd-bev-sales/",
-     "sector": "Autos",
-     "quote": "\u2f00Tesla\u2f01 delivered 486,532 vehicles globally in the third quarter, down 2.13% year-on-year but above market expectatio\u2026"
-    },
-    {
-     "publisher": "Electrive",
-     "title": "\u2f00Teslas\u2f01 can now drive off with a charging cable connected",
-     "url": "https://www.electrive.com/2026/10/02/teslas-can-now-drive-off-with-a-charging-cable-connected/",
-     "sector": "Autos",
-     "quote": "\u2f00Tesla\u2f01 has introduced a new feature for its electric vehicles called 'Emergency Drive Away', which allows drivers to\u2026"
-    },
-    {
-     "publisher": "Electrive",
-     "title": "Q3 figures: \u2f00Tesla\u2f01 factories regains production footing",
-     "url": "https://www.electrive.com/2026/10/02/q3-figures-tesla-factories-regains-production-footing/",
-     "sector": "Autos",
-     "quote": "\u2f00Tesla\u2f01 has regained its footing in production and delivery. After a mixed year in 2025, the first three quarters of\u2026"
-    },
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "\u2f00Tesla\u2f01 cuts AI5, AI6 memory specs to protect Optimus",
-     "url": "https://www.digitimes.com/news/a20261002PD222/tesla-optimus-production-ceo-elon-musk.html",
-     "sector": "Technology",
-     "quote": "\u2026g a prolonged memory supply crunch, \u2f00Tesla\u2f01 CEO Elon Musk has announced steep cuts to the memory specifications of the company's AI5 and AI6 chips to sec\u2026"
-    }
-   ]
-  },
-  {
    "price": null,
    "prior14d": 5,
    "direction": "steady",
@@ -8998,175 +8640,6 @@
      "publisher": "The Register",
      "title": "City council may be waking from its \u2f00Oracle\u2f01 nightmare but the accounting hangover continues",
      "url": "https://www.theregister.com/public-sector/2026/09/24/city-council-may-be-waking-from-its-oracle-nightmare-but-the-accounting-hangover-continues/5298824",
-     "sector": "Technology",
-     "quote": ""
-    }
-   ]
-  },
-  {
-   "price": null,
-   "prior14d": 20,
-   "direction": "falling",
-   "ticker": "TATAMOTORS.NS",
-   "name": "Tata Motors",
-   "sector": "Autos",
-   "borrowed": [
-    "credit facility"
-   ],
-   "articles": 86,
-   "articles14d": 10,
-   "terms": [
-    {
-     "term": "credit facility",
-     "id": "credit-facility",
-     "cross": "2026-08-05",
-     "articles": 1,
-     "home": "Technology",
-     "shown": true,
-     "sectors": 2,
-     "direction": "steady",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "GMI Cloud secures NT$14.05 billion loan for AI factory",
-       "url": "https://www.digitimes.com/news/a20261002PD200/cloud-taiwan-loan-financing-infrastructure.html",
-       "date": "2026-10-02",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026n (about US$445 million) syndicated \u2f00credit facility\u2f01 to fund Taiwan's first AI factory. The deal is the first in Taiwan to fully back GPU financing with a commerc\u2026"
-      },
-      {
-       "publisher": "Data Center Dynamics",
-       "title": "GMI Cloud raises $668m in funding",
-       "url": "https://www.datacenterdynamics.com/en/news/gmi-cloud-raises-668m-in-funding/",
-       "date": "2026-10-01",
-       "sector": "Technology",
-       "country": "US",
-       "quote": "Combination of equity and \u2f00credit facility\u2f01"
-      },
-      {
-       "publisher": "Recycling Today",
-       "title": "Metycle secures $150M \u2f00credit facility\u2f01",
-       "url": "https://www.recyclingtoday.com/metycle",
-       "date": "2026-09-28",
-       "sector": "Materials",
-       "country": "US",
-       "quote": ""
-      }
-     ]
-    },
-    {
-     "term": "data center",
-     "id": "data-center",
-     "cross": "2026-07-07",
-     "articles": 2,
-     "home": "Technology",
-     "shown": false,
-     "sectors": 9,
-     "direction": "steady",
-     "variants": [
-      "data center power",
-      "power demand",
-      "power supply"
-     ],
-     "examples": [
-      {
-       "publisher": "Construction Dive",
-       "title": "Punch List: $750M biotech project breaks ground, Nvidia taps Jacobs for \u2f00data center\u2f01 digital twin",
-       "url": "https://www.constructiondive.com/news/punch-list-750m-biotech-project-breaks-ground-nvidia-taps-jacobs-for-dat/831991/",
-       "date": "2026-10-02",
-       "sector": "Real estate",
-       "country": "US",
-       "quote": ""
-      },
-      {
-       "publisher": "Construction Dive",
-       "title": "\u2f00Data center\u2f01 construction spending raced further ahead in August",
-       "url": "https://www.constructiondive.com/news/data-center-construction-spending-august/831954/",
-       "date": "2026-10-02",
-       "sector": "Real estate",
-       "country": "US",
-       "quote": ""
-      },
-      {
-       "publisher": "The Elec",
-       "title": "\u200bLS Cable Expands AI \u2f00Data Center\u2f01 Power Solutions Business",
-       "url": "https://www.thelec.net/news/articleView.html?idxno=14385",
-       "date": "2026-10-02",
-       "sector": "Technology",
-       "country": "KR",
-       "quote": "\u2026ns for artificial intelligence (AI) \u2f00data centers\u2f01.\u200bTHE ELEC reported on October 2 that LS Cable & System signed a memorandum of understanding (MOU) with HARTIN\u2026"
-      }
-     ]
-    },
-    {
-     "term": "battery cell",
-     "id": "battery-cell",
-     "cross": "2026-08-11",
-     "articles": 1,
-     "home": "Autos",
-     "shown": true,
-     "sectors": 2,
-     "direction": "steady",
-     "variants": [],
-     "examples": [
-      {
-       "publisher": "DigiTimes Asia",
-       "title": "GM begins U.S. \u2f00battery cell\u2f01 trial runs with South Korean equipment",
-       "url": "https://www.digitimes.com/news/a20261001PD229/equipment-general-motors-production-michigan-lithium.html",
-       "date": "2026-10-01",
-       "sector": "Technology",
-       "country": "TW",
-       "quote": "\u2026GM) has started trial runs at a new \u2f00battery cell\u2f01 line in Warren, Michigan, moving into the validation stage of its next-generation mass production plan. The l\u2026"
-      },
-      {
-       "publisher": "Electrive",
-       "title": "T&E analysis: sufficient European \u2f00battery cells\u2f01 by 2030",
-       "url": "https://www.electrive.com/2026/10/01/te-analysis-sufficient-european-battery-cells-by-2030/",
-       "date": "2026-10-01",
-       "sector": "Autos",
-       "country": "DE",
-       "quote": "\u2026a sufficient number of 'Made in EU' \u2f00battery cells\u2f01 will be available by 2030. This contradicts the current claims of the automotive industry."
-      },
-      {
-       "publisher": "Automotive Dive",
-       "title": "Ultium Cells boasts $1B investment for future affordable GM EV batteries",
-       "url": "https://www.wardsauto.com/news/ultium-cells-boasts-1b-investment-for-future-affordable-gm-ev-batteries/831720/",
-       "date": "2026-09-30",
-       "sector": "Autos",
-       "country": "US",
-       "quote": "\u2026st in the world to mass-produce LMR \u2f00battery cells\u2f01, which it has targeted for electric trucks and more."
-      }
-     ]
-    }
-   ],
-   "examples": [
-    {
-     "publisher": "ET HRWorld",
-     "title": "Noel Tata seeks Tata Sons meeting video, minutes; questions legal opinions on Chandrasekaran reappointment",
-     "url": "https://hr.economictimes.indiatimes.com/news/industry/noel-tata-seeks-tata-sons-meeting-video-minutes-questions-legal-opinions-on-chandrasekaran-reappointment/134650703",
-     "sector": "Labor",
-     "quote": ""
-    },
-    {
-     "publisher": "ET HRWorld",
-     "title": "Tata Trusts vice chairman Vijay Singh flags SDTT 'meddling' in Tata Sons",
-     "url": "https://hr.economictimes.indiatimes.com/news/industry/tata-trusts-vice-chairman-vijay-singh-flags-sdtt-meddling-in-tata-sons/134630282",
-     "sector": "Labor",
-     "quote": ""
-    },
-    {
-     "publisher": "ET BFSI",
-     "title": "Tata Sons: Holding companies reshape businesses as RBI regulatory net tightens",
-     "url": "https://bfsi.economictimes.indiatimes.com/articles/tata-sons-holding-companies-reshape-businesses-as-rbi-regulatory-net-tightens/134576783",
-     "sector": "Finance",
-     "quote": ""
-    },
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "Linde secures Sanand land as global materials suppliers race to localize for India's first fabs",
-     "url": "https://www.digitimes.com/news/a20260930VL205/materials-fab-packaging-supply-chain-industrial.html",
      "sector": "Technology",
      "quote": ""
     }
@@ -16575,584 +16048,6 @@
    "rank": 1.018
   },
   {
-   "id": "credit-facility",
-   "term": "credit facility",
-   "direction": "steady",
-   "ratio": 0.19082268663451504,
-   "display": true,
-   "adoptionSpan": 2,
-   "pace": "simultaneous",
-   "kind": "concept",
-   "sectorCount": 2,
-   "effectiveSectors": 1.99,
-   "newestSector": "Materials",
-   "daysSinceNewestSector": 58,
-   "articles14d": 4,
-   "articlesPrior14d": 3,
-   "publishers": 3,
-   "events": 3,
-   "topPubShare": 0.333,
-   "sectors": [
-    {
-     "name": "Technology",
-     "firstSeen": "2026-08-05",
-     "recent": 3,
-     "articles": 5,
-     "share": 0.75,
-     "atSectorStart": false,
-     "grip": 0.222,
-     "outlets": 2,
-     "adopt": 29,
-     "daysSince": 60
-    },
-    {
-     "name": "Materials",
-     "firstSeen": "2026-08-07",
-     "recent": 1,
-     "articles": 4,
-     "share": 0.25,
-     "atSectorStart": false,
-     "grip": 0.2,
-     "outlets": 1,
-     "adopt": 31,
-     "daysSince": 58
-    }
-   ],
-   "sinceStart": false,
-   "origins": [
-    [
-     "US",
-     10
-    ],
-    [
-     "IN",
-     4
-    ],
-    [
-     "GB",
-     3
-    ],
-    [
-     "TW",
-     2
-    ],
-    [
-     "AU",
-     1
-    ]
-   ],
-   "flow": {
-    "weeks": [
-     "2026-07-07",
-     "2026-07-14",
-     "2026-07-21",
-     "2026-07-28",
-     "2026-08-04",
-     "2026-08-11",
-     "2026-08-18",
-     "2026-08-25",
-     "2026-09-01",
-     "2026-09-08",
-     "2026-09-15",
-     "2026-09-22",
-     "2026-09-29"
-    ],
-    "bands": [
-     {
-      "sector": "Technology",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       1,
-       0,
-       1,
-       0,
-       0,
-       0,
-       0,
-       0,
-       3
-      ]
-     },
-     {
-      "sector": "Utilities",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       2,
-       0,
-       0,
-       0,
-       0,
-       3,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Finance",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       1,
-       2,
-       0,
-       0,
-       1,
-       0,
-       0,
-       0,
-       0
-      ]
-     },
-     {
-      "sector": "Materials",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       1,
-       1,
-       0,
-       1,
-       0,
-       0,
-       0,
-       1,
-       0
-      ]
-     },
-     {
-      "sector": "Real estate",
-      "n": [
-       0,
-       0,
-       0,
-       0,
-       2,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0,
-       0
-      ]
-     }
-    ]
-   },
-   "cooc": [],
-   "examples": [
-    {
-     "publisher": "DigiTimes Asia",
-     "title": "GMI Cloud secures NT$14.05 billion loan for AI factory",
-     "url": "https://www.digitimes.com/news/a20261002PD200/cloud-taiwan-loan-financing-infrastructure.html",
-     "date": "2026-10-02",
-     "sector": "Technology",
-     "country": "TW",
-     "quote": "\u2026n (about US$445 million) syndicated \u2f00credit facility\u2f01 to fund Taiwan's first AI factory. The deal is the first in Taiwan to fully back GPU financing with a commerc\u2026"
-    },
-    {
-     "publisher": "Data Center Dynamics",
-     "title": "GMI Cloud raises $668m in funding",
-     "url": "https://www.datacenterdynamics.com/en/news/gmi-cloud-raises-668m-in-funding/",
-     "date": "2026-10-01",
-     "sector": "Technology",
-     "country": "US",
-     "quote": "Combination of equity and \u2f00credit facility\u2f01"
-    },
-    {
-     "publisher": "Recycling Today",
-     "title": "Metycle secures $150M \u2f00credit facility\u2f01",
-     "url": "https://www.recyclingtoday.com/metycle",
-     "date": "2026-09-28",
-     "sector": "Materials",
-     "country": "US",
-     "quote": ""
-    }
-   ],
-   "daily": [
-    {
-     "day": "2026-07-07",
-     "n": 0
-    },
-    {
-     "day": "2026-07-08",
-     "n": 0
-    },
-    {
-     "day": "2026-07-09",
-     "n": 0
-    },
-    {
-     "day": "2026-07-10",
-     "n": 0
-    },
-    {
-     "day": "2026-07-11",
-     "n": 0
-    },
-    {
-     "day": "2026-07-12",
-     "n": 0
-    },
-    {
-     "day": "2026-07-13",
-     "n": 0
-    },
-    {
-     "day": "2026-07-14",
-     "n": 0
-    },
-    {
-     "day": "2026-07-15",
-     "n": 0
-    },
-    {
-     "day": "2026-07-16",
-     "n": 0
-    },
-    {
-     "day": "2026-07-17",
-     "n": 0
-    },
-    {
-     "day": "2026-07-18",
-     "n": 0
-    },
-    {
-     "day": "2026-07-19",
-     "n": 0
-    },
-    {
-     "day": "2026-07-20",
-     "n": 0
-    },
-    {
-     "day": "2026-07-21",
-     "n": 0
-    },
-    {
-     "day": "2026-07-22",
-     "n": 0
-    },
-    {
-     "day": "2026-07-23",
-     "n": 0
-    },
-    {
-     "day": "2026-07-24",
-     "n": 0
-    },
-    {
-     "day": "2026-07-25",
-     "n": 0
-    },
-    {
-     "day": "2026-07-26",
-     "n": 0
-    },
-    {
-     "day": "2026-07-27",
-     "n": 0
-    },
-    {
-     "day": "2026-07-28",
-     "n": 0
-    },
-    {
-     "day": "2026-07-29",
-     "n": 0
-    },
-    {
-     "day": "2026-07-30",
-     "n": 0
-    },
-    {
-     "day": "2026-07-31",
-     "n": 0
-    },
-    {
-     "day": "2026-08-01",
-     "n": 0
-    },
-    {
-     "day": "2026-08-02",
-     "n": 0
-    },
-    {
-     "day": "2026-08-03",
-     "n": 0
-    },
-    {
-     "day": "2026-08-04",
-     "n": 1
-    },
-    {
-     "day": "2026-08-05",
-     "n": 2
-    },
-    {
-     "day": "2026-08-06",
-     "n": 1
-    },
-    {
-     "day": "2026-08-07",
-     "n": 1
-    },
-    {
-     "day": "2026-08-08",
-     "n": 0
-    },
-    {
-     "day": "2026-08-09",
-     "n": 0
-    },
-    {
-     "day": "2026-08-10",
-     "n": 2
-    },
-    {
-     "day": "2026-08-11",
-     "n": 2
-    },
-    {
-     "day": "2026-08-12",
-     "n": 0
-    },
-    {
-     "day": "2026-08-13",
-     "n": 0
-    },
-    {
-     "day": "2026-08-14",
-     "n": 1
-    },
-    {
-     "day": "2026-08-15",
-     "n": 0
-    },
-    {
-     "day": "2026-08-16",
-     "n": 0
-    },
-    {
-     "day": "2026-08-17",
-     "n": 0
-    },
-    {
-     "day": "2026-08-18",
-     "n": 0
-    },
-    {
-     "day": "2026-08-19",
-     "n": 1
-    },
-    {
-     "day": "2026-08-20",
-     "n": 0
-    },
-    {
-     "day": "2026-08-21",
-     "n": 0
-    },
-    {
-     "day": "2026-08-22",
-     "n": 0
-    },
-    {
-     "day": "2026-08-23",
-     "n": 0
-    },
-    {
-     "day": "2026-08-24",
-     "n": 0
-    },
-    {
-     "day": "2026-08-25",
-     "n": 0
-    },
-    {
-     "day": "2026-08-26",
-     "n": 0
-    },
-    {
-     "day": "2026-08-27",
-     "n": 0
-    },
-    {
-     "day": "2026-08-28",
-     "n": 0
-    },
-    {
-     "day": "2026-08-29",
-     "n": 0
-    },
-    {
-     "day": "2026-08-30",
-     "n": 0
-    },
-    {
-     "day": "2026-08-31",
-     "n": 1
-    },
-    {
-     "day": "2026-09-01",
-     "n": 0
-    },
-    {
-     "day": "2026-09-02",
-     "n": 0
-    },
-    {
-     "day": "2026-09-03",
-     "n": 1
-    },
-    {
-     "day": "2026-09-04",
-     "n": 0
-    },
-    {
-     "day": "2026-09-05",
-     "n": 0
-    },
-    {
-     "day": "2026-09-06",
-     "n": 0
-    },
-    {
-     "day": "2026-09-07",
-     "n": 0
-    },
-    {
-     "day": "2026-09-08",
-     "n": 1
-    },
-    {
-     "day": "2026-09-09",
-     "n": 0
-    },
-    {
-     "day": "2026-09-10",
-     "n": 1
-    },
-    {
-     "day": "2026-09-11",
-     "n": 0
-    },
-    {
-     "day": "2026-09-12",
-     "n": 0
-    },
-    {
-     "day": "2026-09-13",
-     "n": 0
-    },
-    {
-     "day": "2026-09-14",
-     "n": 1
-    },
-    {
-     "day": "2026-09-15",
-     "n": 0
-    },
-    {
-     "day": "2026-09-16",
-     "n": 0
-    },
-    {
-     "day": "2026-09-17",
-     "n": 0
-    },
-    {
-     "day": "2026-09-18",
-     "n": 0
-    },
-    {
-     "day": "2026-09-19",
-     "n": 0
-    },
-    {
-     "day": "2026-09-20",
-     "n": 0
-    },
-    {
-     "day": "2026-09-21",
-     "n": 0
-    },
-    {
-     "day": "2026-09-22",
-     "n": 0
-    },
-    {
-     "day": "2026-09-23",
-     "n": 0
-    },
-    {
-     "day": "2026-09-24",
-     "n": 0
-    },
-    {
-     "day": "2026-09-25",
-     "n": 0
-    },
-    {
-     "day": "2026-09-26",
-     "n": 0
-    },
-    {
-     "day": "2026-09-27",
-     "n": 0
-    },
-    {
-     "day": "2026-09-28",
-     "n": 1
-    },
-    {
-     "day": "2026-09-29",
-     "n": 0
-    },
-    {
-     "day": "2026-09-30",
-     "n": 1
-    },
-    {
-     "day": "2026-10-01",
-     "n": 1
-    },
-    {
-     "day": "2026-10-02",
-     "n": 1
-    },
-    {
-     "day": "2026-10-03",
-     "n": 0
-    },
-    {
-     "day": "2026-10-04",
-     "n": 0
-    }
-   ],
-   "relRatio": 0.8,
-   "docFreq": 0.0002,
-   "specificity": 0.994,
-   "homeShare": 0.75,
-   "daysSeen": 4,
-   "rank": 0.963,
-   "alsoHeld": [
-    "tax credit"
-   ]
-  },
-  {
    "id": "trade-offs",
    "term": "trade offs",
    "direction": "steady",
@@ -20166,6 +19061,616 @@
     "carbon emission",
     "carbon capture"
    ]
+  },
+  {
+   "id": "security-risk",
+   "term": "security risk",
+   "direction": "rising",
+   "ratio": 0.7155850748794313,
+   "display": true,
+   "adoptionSpan": 29,
+   "pace": "gradual",
+   "kind": "concept",
+   "sectorCount": 3,
+   "effectiveSectors": 2.97,
+   "newestSector": "Policy",
+   "daysSinceNewestSector": 23,
+   "articles14d": 5,
+   "articlesPrior14d": 1,
+   "publishers": 6,
+   "events": 7,
+   "topPubShare": 0.286,
+   "sectors": [
+    {
+     "name": "Technology",
+     "firstSeen": "2026-08-13",
+     "recent": 1,
+     "articles": 3,
+     "share": 0.25,
+     "atSectorStart": false,
+     "grip": 0.444,
+     "outlets": 4,
+     "adopt": 37,
+     "daysSince": 52
+    },
+    {
+     "name": "Supply chain",
+     "firstSeen": "2026-08-21",
+     "recent": 1,
+     "articles": 4,
+     "share": 0.25,
+     "atSectorStart": false,
+     "grip": 0.143,
+     "outlets": 1,
+     "adopt": 45,
+     "daysSince": 44
+    },
+    {
+     "name": "Policy",
+     "firstSeen": "2026-09-11",
+     "recent": 2,
+     "articles": 3,
+     "share": 0.5,
+     "atSectorStart": false,
+     "grip": 0.2,
+     "outlets": 1,
+     "adopt": 66,
+     "daysSince": 23
+    }
+   ],
+   "sinceStart": false,
+   "origins": [
+    [
+     "US",
+     5
+    ],
+    [
+     "GB",
+     3
+    ],
+    [
+     "SG",
+     3
+    ],
+    [
+     "KR",
+     1
+    ]
+   ],
+   "flow": {
+    "weeks": [
+     "2026-07-07",
+     "2026-07-14",
+     "2026-07-21",
+     "2026-07-28",
+     "2026-08-04",
+     "2026-08-11",
+     "2026-08-18",
+     "2026-08-25",
+     "2026-09-01",
+     "2026-09-08",
+     "2026-09-15",
+     "2026-09-22",
+     "2026-09-29"
+    ],
+    "bands": [
+     {
+      "sector": "Supply chain",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       2,
+       0,
+       0,
+       1,
+       0
+      ]
+     },
+     {
+      "sector": "Technology",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       1
+      ]
+     },
+     {
+      "sector": "Policy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1,
+       1,
+       0,
+       1
+      ]
+     },
+     {
+      "sector": "Energy",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       1,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0
+      ]
+     },
+     {
+      "sector": "Finance",
+      "n": [
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       0,
+       1
+      ]
+     }
+    ]
+   },
+   "cooc": [],
+   "examples": [
+    {
+     "publisher": "Climate Home News",
+     "title": "Jordan's mega-plan for water \u2f00security risks\u2f01 locking in fossil gas demand",
+     "url": "https://www.climatechangenews.com/2026/10/01/jordans-mega-plan-for-water-security-risks-locking-in-fossil-gas-demand/",
+     "date": "2026-10-01",
+     "sector": "Policy",
+     "country": "GB",
+     "quote": "\u2026e post Jordan's mega-plan for water \u2f00security risks\u2f01 locking in fossil gas demand appeared first on Climate Home News ."
+    },
+    {
+     "publisher": "The Elec",
+     "title": "Jiransecurity Launches Platform to Manage Employee Cybersecurity Risks",
+     "url": "https://www.thelec.net/news/articleView.html?idxno=14335",
+     "date": "2026-10-01",
+     "sector": "Technology",
+     "country": "KR",
+     "quote": "\u2026udFix Index (MFI), to calculate the \u2f00security risk\u2f01 level"
+    },
+    {
+     "publisher": "The Register",
+     "title": "Irony alert: OpenAI whines that Chinese model stole its special IP that it stole from everybody else",
+     "url": "https://www.theregister.com/security/2026/09/30/irony-alert-openai-whines-that-chinese-model-stole-its-special-ip-that-it-stole-from-everybody-else/5300285",
+     "date": "2026-09-30",
+     "sector": "Technology",
+     "country": "US",
+     "quote": "\u2026ut distilling theirs is a 'national \u2f00security risk\u2f01'"
+    },
+    {
+     "publisher": "Banking Dive",
+     "title": "Fed's \u2018collective lack of action' let info \u2f00security risks\u2f01 fester: OIG",
+     "url": "https://www.bankingdive.com/news/federal-reserve-information-security-risks-former-employee-oig-report/831638/",
+     "date": "2026-09-29",
+     "sector": "Finance",
+     "country": "US",
+     "quote": ""
+    },
+    {
+     "publisher": "Seatrade Maritime",
+     "title": "Union urges Modi to protect Indian crews as ship attacks rise",
+     "url": "https://www.seatrade-maritime.com/security/union-urges-modi-to-protect-indian-crews-as-ship-attacks-rise",
+     "date": "2026-09-24",
+     "sector": "Supply chain",
+     "country": "SG",
+     "quote": "\u2026protection amid escalating regional \u2f00security risks\u2f01."
+    },
+    {
+     "publisher": "Climate Home News",
+     "title": "Climate change and energy transition rise up national security agenda",
+     "url": "https://www.climatechangenews.com/2026/09/22/new-york-climate-week-energy-transition-security-leaders/",
+     "date": "2026-09-21",
+     "sector": "Policy",
+     "country": "GB",
+     "quote": "Leaders highlighted the national \u2f00security risks\u2f01 posed by global warming and fossil fuel dependency at New York Climate Week The post Climate change and energ\u2026"
+    }
+   ],
+   "daily": [
+    {
+     "day": "2026-07-07",
+     "n": 0
+    },
+    {
+     "day": "2026-07-08",
+     "n": 0
+    },
+    {
+     "day": "2026-07-09",
+     "n": 0
+    },
+    {
+     "day": "2026-07-10",
+     "n": 0
+    },
+    {
+     "day": "2026-07-11",
+     "n": 0
+    },
+    {
+     "day": "2026-07-12",
+     "n": 0
+    },
+    {
+     "day": "2026-07-13",
+     "n": 0
+    },
+    {
+     "day": "2026-07-14",
+     "n": 0
+    },
+    {
+     "day": "2026-07-15",
+     "n": 0
+    },
+    {
+     "day": "2026-07-16",
+     "n": 0
+    },
+    {
+     "day": "2026-07-17",
+     "n": 0
+    },
+    {
+     "day": "2026-07-18",
+     "n": 0
+    },
+    {
+     "day": "2026-07-19",
+     "n": 0
+    },
+    {
+     "day": "2026-07-20",
+     "n": 0
+    },
+    {
+     "day": "2026-07-21",
+     "n": 0
+    },
+    {
+     "day": "2026-07-22",
+     "n": 0
+    },
+    {
+     "day": "2026-07-23",
+     "n": 0
+    },
+    {
+     "day": "2026-07-24",
+     "n": 0
+    },
+    {
+     "day": "2026-07-25",
+     "n": 0
+    },
+    {
+     "day": "2026-07-26",
+     "n": 0
+    },
+    {
+     "day": "2026-07-27",
+     "n": 0
+    },
+    {
+     "day": "2026-07-28",
+     "n": 0
+    },
+    {
+     "day": "2026-07-29",
+     "n": 0
+    },
+    {
+     "day": "2026-07-30",
+     "n": 0
+    },
+    {
+     "day": "2026-07-31",
+     "n": 0
+    },
+    {
+     "day": "2026-08-01",
+     "n": 0
+    },
+    {
+     "day": "2026-08-02",
+     "n": 0
+    },
+    {
+     "day": "2026-08-03",
+     "n": 0
+    },
+    {
+     "day": "2026-08-04",
+     "n": 0
+    },
+    {
+     "day": "2026-08-05",
+     "n": 0
+    },
+    {
+     "day": "2026-08-06",
+     "n": 1
+    },
+    {
+     "day": "2026-08-07",
+     "n": 0
+    },
+    {
+     "day": "2026-08-08",
+     "n": 0
+    },
+    {
+     "day": "2026-08-09",
+     "n": 0
+    },
+    {
+     "day": "2026-08-10",
+     "n": 0
+    },
+    {
+     "day": "2026-08-11",
+     "n": 0
+    },
+    {
+     "day": "2026-08-12",
+     "n": 0
+    },
+    {
+     "day": "2026-08-13",
+     "n": 1
+    },
+    {
+     "day": "2026-08-14",
+     "n": 0
+    },
+    {
+     "day": "2026-08-15",
+     "n": 0
+    },
+    {
+     "day": "2026-08-16",
+     "n": 0
+    },
+    {
+     "day": "2026-08-17",
+     "n": 0
+    },
+    {
+     "day": "2026-08-18",
+     "n": 0
+    },
+    {
+     "day": "2026-08-19",
+     "n": 0
+    },
+    {
+     "day": "2026-08-20",
+     "n": 0
+    },
+    {
+     "day": "2026-08-21",
+     "n": 1
+    },
+    {
+     "day": "2026-08-22",
+     "n": 0
+    },
+    {
+     "day": "2026-08-23",
+     "n": 0
+    },
+    {
+     "day": "2026-08-24",
+     "n": 0
+    },
+    {
+     "day": "2026-08-25",
+     "n": 0
+    },
+    {
+     "day": "2026-08-26",
+     "n": 0
+    },
+    {
+     "day": "2026-08-27",
+     "n": 0
+    },
+    {
+     "day": "2026-08-28",
+     "n": 0
+    },
+    {
+     "day": "2026-08-29",
+     "n": 0
+    },
+    {
+     "day": "2026-08-30",
+     "n": 0
+    },
+    {
+     "day": "2026-08-31",
+     "n": 0
+    },
+    {
+     "day": "2026-09-01",
+     "n": 1
+    },
+    {
+     "day": "2026-09-02",
+     "n": 0
+    },
+    {
+     "day": "2026-09-03",
+     "n": 0
+    },
+    {
+     "day": "2026-09-04",
+     "n": 2
+    },
+    {
+     "day": "2026-09-05",
+     "n": 0
+    },
+    {
+     "day": "2026-09-06",
+     "n": 0
+    },
+    {
+     "day": "2026-09-07",
+     "n": 0
+    },
+    {
+     "day": "2026-09-08",
+     "n": 0
+    },
+    {
+     "day": "2026-09-09",
+     "n": 0
+    },
+    {
+     "day": "2026-09-10",
+     "n": 0
+    },
+    {
+     "day": "2026-09-11",
+     "n": 1
+    },
+    {
+     "day": "2026-09-12",
+     "n": 0
+    },
+    {
+     "day": "2026-09-13",
+     "n": 0
+    },
+    {
+     "day": "2026-09-14",
+     "n": 0
+    },
+    {
+     "day": "2026-09-15",
+     "n": 0
+    },
+    {
+     "day": "2026-09-16",
+     "n": 0
+    },
+    {
+     "day": "2026-09-17",
+     "n": 0
+    },
+    {
+     "day": "2026-09-18",
+     "n": 0
+    },
+    {
+     "day": "2026-09-19",
+     "n": 0
+    },
+    {
+     "day": "2026-09-20",
+     "n": 0
+    },
+    {
+     "day": "2026-09-21",
+     "n": 1
+    },
+    {
+     "day": "2026-09-22",
+     "n": 0
+    },
+    {
+     "day": "2026-09-23",
+     "n": 0
+    },
+    {
+     "day": "2026-09-24",
+     "n": 1
+    },
+    {
+     "day": "2026-09-25",
+     "n": 0
+    },
+    {
+     "day": "2026-09-26",
+     "n": 0
+    },
+    {
+     "day": "2026-09-27",
+     "n": 0
+    },
+    {
+     "day": "2026-09-28",
+     "n": 0
+    },
+    {
+     "day": "2026-09-29",
+     "n": 1
+    },
+    {
+     "day": "2026-09-30",
+     "n": 0
+    },
+    {
+     "day": "2026-10-01",
+     "n": 2
+    },
+    {
+     "day": "2026-10-02",
+     "n": 0
+    },
+    {
+     "day": "2026-10-03",
+     "n": 0
+    },
+    {
+     "day": "2026-10-04",
+     "n": 0
+    }
+   ],
+   "relRatio": 3.0,
+   "docFreq": 0.0002,
+   "specificity": 0.993,
+   "homeShare": 0.5,
+   "daysSeen": 4,
+   "rank": 0.819
   },
   {
    "id": "fast-charging",
