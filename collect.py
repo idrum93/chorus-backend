@@ -51,7 +51,7 @@ VERSION = "v3"
 # Bump this whenever extraction changes — including companies.json and the
 # stop lists, which feed it. Without a bump, stored grams keep the old rules
 # and the change appears to have done nothing.
-EXTRACT_VERSION = 252
+EXTRACT_VERSION = 253
 UA     = "crosstalk-monitor/3.0 (news language monitoring; crosstalkwire.com)"
 KEY    = os.environ.get("NEWSAPI_AI_KEY", "").strip()
 
@@ -298,6 +298,7 @@ management capacity environment experience agreement investment application
 framework approach strategy initiative solution opportunity challenge
 landscape ecosystem journey transformation adoption implementation
 outlook sentiment momentum trajectory alignment engagement governance
+expansion expansions rollout rollouts buildout buildouts
 stage stages phase phases milestone milestones threshold thresholds
 term terms horizon horizons timeframe timeframes outlook
 case cases scenario scenarios example examples instance instances
@@ -317,6 +318,7 @@ sets set setting cuts cut cutting raises raise raised keeps keep kept leaves lea
 makes make made takes take took gives give gave sees see saw goes go went comes come came
 gets get got puts put adds add added shows show showed tells tell told asks ask asked
 begins begin began ends end ended starts start started stops stop stopped
+pushed pushes pushing back
 administration administrations official officials spokesperson spokesman spokeswoman
 president senator governor secretary minister chairman commissioner
 must should despite ongoing amid whether toward
@@ -332,6 +334,7 @@ drive drives driving offer offers offered help helps helped record records
 reit reits maker makers court courts sale sales fssai pricing
 industry industries sector sectors segment segments market markets
 sharp steep sudden modest slight duty national sovereign long short heavy fresh
+rapid swift gradual steady marked
 higher lower group line lines solution solutions
 built around across toward towards beyond amid despite via
 rapidly quickly slowly steadily sharply significantly increasingly
@@ -2014,6 +2017,72 @@ def price_block(conn, symbol, fortnight_start, cross_day=None, today=None):
     return out
 
 
+def word_productivity(conn, window_start):
+    """For each word, how many distinct phrases it turns up in.
+
+    "operator" heads grid operator, system operator, network operator, plant
+    operator — productive, a word either desk can bolt onto anything. "twin"
+    turns up in one phrase and nowhere else, because somebody had to coin
+    "digital twin" to say the thing at all.
+    """
+    phrases_with = defaultdict(set)
+    for (gram,) in conn.execute(
+            "SELECT DISTINCT gram FROM grams WHERE day>=?", (window_start,)):
+        for w in gram.split():
+            phrases_with[w].add(gram)
+    return {w: len(ps) for w, ps in phrases_with.items()}
+
+
+def boundness(terms, prod):
+    """How exclusive a phrase's head word is to that phrase.
+
+    The distinction being tested is compositional against coined. "grid
+    operator" is an operator, of a grid: two words each desk already owns,
+    assembled on the spot, so two desks arriving at it independently means
+    only that both described the same object. "digital twin" cannot be built
+    out of "digital" and "twin" — it had to be invented — so a second sector
+    using it means somebody carried the word across. That is the event this
+    site exists to catch, and the two look identical by every measure tried
+    so far.
+
+    Reported, never ranked on. Six earlier attempts to separate real phrases
+    from generic ones — shared surroundings, sector-pair rarity, vocabulary
+    overlap, article coherence, grammatical subject share, company-kept
+    co-occurrence — each looked right in argument and died on this corpus.
+    This one earns its way into the ranking only if it first agrees with a
+    reader's eye on a real list.
+
+    The score is the HEAD word's productivity, not the rarest word's. Scoring
+    on the rarest put "solar storage" top of a test vocabulary, because the
+    modifier happened to be uncommon — but "solar" being rare says nothing;
+    "storage" being productive is what marks the phrase as assembled. The
+    coinage, where there is one, lives in the head: digital TWIN, rare EARTH,
+    iron ORE.
+
+    Known blind spot: a term coined in its modifier — "small modular reactor",
+    "mRNA vaccine" — has an ordinary head and will score as loose. The rarest
+    word is carried alongside so those are visible rather than silently
+    mis-sorted.
+    """
+    out = []
+    for t in terms:
+        words = [w for w in t["term"].split() if w]
+        if not words:
+            continue
+        head = words[-1]
+        rarest = min(words, key=lambda w: prod.get(w, 1))
+        out.append({"term": t["term"], "word": head,
+                    "n": prod.get(head, 1),
+                    "rare": rarest, "rareN": prod.get(rarest, 1),
+                    "articles": t.get("articles14d", 0),
+                    "shown": t.get("display", True)})
+    # a word nobody else uses, inside a phrase nobody reads, is not a coined
+    # term — just a rare one. The article count rides alongside the score so
+    # that case is visible rather than hidden behind a good-looking number.
+    out.sort(key=lambda r: (r["n"], -r["articles"]))
+    return out
+
+
 def sector_overlap(conn, window_start):
     """For each pair of sectors, the share of vocabulary they hold in common.
 
@@ -2970,6 +3039,33 @@ def build(conn):
     if busiest:
         print("  busiest phrases · " + ", ".join(
             f"{t['term']} {t.get('docFreq', 0):.1%}" for t in busiest))
+
+    # Diagnostic only — nothing below reads these numbers. The question being
+    # asked is whether a phrase had to be coined or was merely assembled, and
+    # the test is whether this ordering matches what a reader would pick out.
+    try:
+        prod = word_productivity(conn, window_start)
+        band = boundness(out, prod)
+        if band:
+            seen = [r for r in band if r["articles"] >= 3]
+            coined = seen[:8]
+            if coined:
+                print("  most bound (head word, phrases it appears in) · "
+                      + ", ".join(f"{r['term']} [{r['word']} {r['n']}]"
+                                  + ("" if r["shown"] else "*") for r in coined))
+            loose = sorted(seen, key=lambda r: -r["n"])[:8]
+            if loose:
+                print("  least bound · " + ", ".join(
+                    f"{r['term']} [{r['word']} {r['n']}]"
+                    + ("" if r["shown"] else "*") for r in loose))
+            on_list = [r for r in band if r["shown"]]
+            if on_list:
+                mid = sorted(r["n"] for r in on_list)[len(on_list) // 2]
+                print(f"  boundness · {len(seen)} phrases scored, median on the "
+                      f"shown list {mid} · lower means more coined · "
+                      f"* marks a pooled phrase")
+    except sqlite3.OperationalError:
+        pass          # no grams table on a cold start; the line simply absent
     print(f"  companions · {n_cooc} attachments, {n_uniq} distinct")
     if SYNDICATED[0]:
         print(f"  {SYNDICATED[0]} syndicated copies skipped "
