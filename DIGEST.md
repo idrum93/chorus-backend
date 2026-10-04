@@ -1,6 +1,6 @@
 # Crosstalk — week ending 4 October 2026
 
-*25,496 articles over 187 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*25,509 articles over 187 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
@@ -13,6 +13,8 @@
 
 ## Being used more than a fortnight ago
 
+**[power demand](https://crosstalkwire.com/#power-demand)** — 8 articles, 2.7× the fortnight before, in technology, energy
+
 **[battery cell](https://crosstalkwire.com/#battery-cell)** — 13 articles, 2.2× the fortnight before, in technology, autos
 
 **[low carbon](https://crosstalkwire.com/#low-carbon)** — 10 articles, 1.7× the fortnight before, in energy, technology, materials
@@ -21,9 +23,9 @@
 
 ## Being discussed alongside
 
-**battery cell** — mass produce, electric vehicle
 **iron ore** — steel mill
 **gas plant** — data center
+**steel mill** — iron ore mine
 
 ---
 
