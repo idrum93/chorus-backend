@@ -1,28 +1,29 @@
-# Crosstalk — week ending 3 October 2026
+# Crosstalk — week ending 4 October 2026
 
-*25,481 articles over 186 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*25,487 articles over 187 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
 **[renewable generation](https://crosstalkwire.com/#renewable-generation)** — Energy, Utilities, 5 articles across 4 newsrooms
-**[power producer](https://crosstalkwire.com/#power-producer)** — Energy, Utilities, 5 articles across 3 newsrooms
 **[distribution network](https://crosstalkwire.com/#distribution-network)** — Consumer, Supply chain, 4 articles across 3 newsrooms
 **[solar storage](https://crosstalkwire.com/#solar-storage)** — Energy, Utilities, 6 articles across 0 newsrooms
+**[power producer](https://crosstalkwire.com/#power-producer)** — Energy, Utilities, 4 articles across 3 newsrooms
+**[grid operator](https://crosstalkwire.com/#grid-operator)** — Energy, Utilities, 5 articles across 3 newsrooms
 **[digital infrastructure](https://crosstalkwire.com/#digital-infrastructure)** — Finance, Real estate, Technology, 13 articles across 7 newsrooms
-**[wind energy](https://crosstalkwire.com/#wind-energy)** — Energy, Technology, 4 articles across 3 newsrooms
 
 ## Being used more than a fortnight ago
 
 **[battery cell](https://crosstalkwire.com/#battery-cell)** — 13 articles, 2.2× the fortnight before, in technology, autos
 
-**[power producer](https://crosstalkwire.com/#power-producer)** — 5 articles, 1.7× the fortnight before, in utilities, energy
+**[low carbon](https://crosstalkwire.com/#low-carbon)** — 10 articles, 1.7× the fortnight before, in energy, technology, materials
 
 **[solar storage](https://crosstalkwire.com/#solar-storage)** — 6 articles, 1.5× the fortnight before, in energy, utilities
 
 ## Being discussed alongside
 
+**power producer** — renewable energy
+**battery cell** — mass produce, electric vehicle
 **gas plant** — data center
-**engineering procurement** — construction contract
 
 ---
 
