@@ -1,6 +1,6 @@
 # Crosstalk — week ending 4 October 2026
 
-*25,487 articles over 187 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*25,490 articles over 187 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
@@ -21,9 +21,9 @@
 
 ## Being discussed alongside
 
-**power producer** — renewable energy
-**battery cell** — mass produce, electric vehicle
 **gas plant** — data center
+**iron ore** — steel mill
+**steel mill** — iron ore mine
 
 ---
 
