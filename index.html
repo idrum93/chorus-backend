@@ -235,7 +235,7 @@ table{max-width:100%}
 .pane:last-child{border-bottom:none}
 /* only one of these is ever visible, so a rule under either is a rule
    across the page with nothing beneath it */
-#map-view,#comp-view{border-bottom:none}
+#map-view{border-bottom:none}
 .pane-head{display:flex;align-items:baseline;gap:10px;margin-bottom:11px}
 .pane-head .eyebrow{flex:1}
 
@@ -553,8 +553,6 @@ li.brk i{flex:1;height:0;border-top:1px solid var(--ink-2);opacity:.75}
 .regrow span{font-family:var(--mono);font-size:9.5px;letter-spacing:.04em;color:var(--muted)}
 .regrow:hover b{color:var(--heat)}
 
-.focuschips{display:flex;flex-wrap:wrap;gap:6px;align-items:center;margin:-4px 0 14px}
-.focuschips:empty{margin:0}
 .focuschip{display:inline-flex;align-items:center;gap:7px;font-size:12.5px;
   padding:4px 8px 4px 10px;border:1px solid var(--ink-2);border-radius:2px;
   background:var(--panel);color:var(--ink)}
@@ -868,7 +866,7 @@ li.brk i{flex:1;height:0;border-top:1px solid var(--ink-2);opacity:.75}
     <div class="stamps">
       <button class="whatis" id="whatis" type="button" aria-expanded="false"
         aria-controls="whatbox" aria-label="What is Crosstalk?">?</button>
-      <span class="build hide" title="Dashboard build. Quote this if something looks wrong.">build 7eb4f03</span>
+      <span class="build hide" title="Dashboard build. Quote this if something looks wrong.">build 4c1a90e</span>
       <div class="whatbox hide" id="whatbox" role="note"><b>Crosstalk:</b>
         talk that carries between groups that do not usually share it. This site
         reads 84 trade publications across 14 sectors every few hours and shows
@@ -885,7 +883,6 @@ li.brk i{flex:1;height:0;border-top:1px solid var(--ink-2);opacity:.75}
 <div class="tabs" role="tablist">
   <button class="tab" id="tab-map" role="tab" aria-selected="true">Overview</button>
   <button class="tab" id="tab-all" role="tab" aria-selected="false">Phrases <span class="count" id="c-all"></span></button>
-  <button class="tab" id="tab-comp" role="tab" aria-selected="false">Nuance <span class="count" id="c-comp"></span></button>
   <button class="tab" id="tab-co" role="tab" aria-selected="false">Companies <span class="count" id="c-co"></span></button>
 </div>
 
@@ -924,16 +921,6 @@ li.brk i{flex:1;height:0;border-top:1px solid var(--ink-2);opacity:.75}
         (&minus;1.1 points, p&nbsp;=&nbsp;0.62). They are here so you can see the
         market alongside the evidence instead of opening another tab &mdash;
         including, often, that the two disagree.</p>
-    </section>
-
-        <section class="pane hide" id="comp-view">
-      <div class="pane-head">
-        <span class="eyebrow" id="comp-head"><abbr class="why" tabindex="0"
-          data-why="nuance">Pairings that changed this fortnight</abbr></span>
-      </div>
-      <div id="comp-chips" class="focuschips"></div>
-      <div id="comp-grid"></div>
-      <p class="panenote" style="margin:14px 0 0;font-size:12px;color:var(--muted);line-height:1.45">A companion is a phrase that appears in the same articles as the one it sits under, far more often than chance would put them there. It says what a topic is being discussed alongside right now. First appearances are pairings not seen in the fortnight before; the rest were already there and are being used more.</p>
     </section>
 
     <section class="pane hide" id="map-view">
@@ -1246,7 +1233,11 @@ function readHash(){
   const raw = decodeURIComponent(location.hash.slice(1));
   const out = { term: null, view: null };
   if (!raw) return out;
-  if (raw === 'nuance'){ out.view = 'comp'; return out; }
+  // links shared before the Nuance tab was cut still arrive; send them to
+  // the phrase list, where companions now live under each phrase, and mark
+  // them so the retired fragment does not stay in the address bar to be
+  // shared onward
+  if (raw === 'nuance'){ out.view = 'all'; out.retired = true; return out; }
   if (raw === 'phrases'){ out.view = 'all'; return out; }
   if (raw === 'companies'){ out.view = 'co'; return out; }
   // older links carried v= and t=; keep reading them
@@ -1269,7 +1260,6 @@ function saveHash(){
   // nothing at all on the overview
   let frag = '';
   if (tab === 'all') frag = active || 'phrases';
-  else if (tab === 'comp') frag = 'nuance';
   else if (tab === 'co') frag = 'companies';
   // replaceState rather than location.replace: the latter treats a bare
   // pathname as a navigation and reloads the page
@@ -1313,7 +1303,7 @@ async function boot(){
     active = wantedTerm; tab = 'all';        // a shared link opens the phrase
   } else {
     active = DATA.terms[0].id;
-    if (wantedView && ['all','comp','co','map'].includes(wantedView)) tab = wantedView;
+    if (wantedView && ['all','co','map'].includes(wantedView)) tab = wantedView;
   }
   const bf = $('buildfoot'), bh = document.querySelector('.build');
   if (bf && bh) bf.textContent = bh.textContent;
@@ -1338,12 +1328,11 @@ async function boot(){
   masthead(); leadLine(); crossCountry(); fillExplains();
   renderFilters();
   applyTab(tab);
+  if (_h.retired) saveHash();      // rewrite #nuance to where it landed
 }
 
 /* ---------------- list ---------------- */
-const TABS = [['tab-map','map'],['tab-all','all'],['tab-comp','comp'],
-              ['tab-co','co'],
-              ];
+const TABS = [['tab-map','map'],['tab-all','all'],['tab-co','co']];
 
 // Every pane that belongs to a single phrase. Named once so that adding a pane
 // never again means remembering to add it in seven places.
@@ -1364,7 +1353,7 @@ function applyTab(name){
   });
   const shell = document.querySelector('.shell');
   if (shell) shell.classList.toggle('wide', name === 'map');
-  [['map-view','map'], ['comp-view','comp'], ['co-view','co']].forEach(([id, n]) => {
+  [['map-view','map'], ['co-view','co']].forEach(([id, n]) => {
     const el = $(id);
     if (el) el.classList.toggle('hide', name !== n);
   });
@@ -1372,9 +1361,6 @@ function applyTab(name){
     const el = $(x);
     if (el) el.classList.toggle('hide', name !== 'all');
   });
-  // companions() fills COMP_PARENTS, which renderList reads on every tab,
-  // so it runs before the list regardless of which tab is open.
-  companions();
   if (name === 'map'){ treemap(); sectorHeat(); }
   if (name === 'co') companiesTab();
   renderList();
@@ -1393,7 +1379,7 @@ function openPhrase(id){
 }
 
 /* Open a phrase from a link inside another panel and put it in view. It used
-   to live inside companions(), so the Companies tab's own links referred to a
+   to live inside the companions board, so the Companies tab's links referred to a
    name that was not in scope there and threw on click. */
 function openParent(el){
   if (!el || !el.dataset.jump) return;
@@ -1443,8 +1429,7 @@ function visible(anyTab){
     // reading "no phrases match that filter" beside a full company list,
     // because this test had no case for the tab at all.
     (anyTab || tab === 'all' || tab === 'co' ||
-     (tab === 'map' && (MAP_IDS.size === 0 || MAP_IDS.has(t.id))) ||
-     (tab === 'comp' && COMP_PARENTS.has(t.id))) &&
+     (tab === 'map' && (MAP_IDS.size === 0 || MAP_IDS.has(t.id)))) &&
     t.sectors.some(s => inSectors(s.name)) &&
     t.term.toLowerCase().includes(query));
 }
@@ -1454,8 +1439,7 @@ function visible(anyTab){
 function scopeTerms(){
   return (DATA.terms || []).filter(t =>
     t.display !== false &&
-    !(hideEvents && t.pace === 'simultaneous') &&
-    (tab !== 'comp' || COMP_PARENTS.has(t.id)));
+    !(hideEvents && t.pace === 'simultaneous'));
 }
 
 function renderFilters(){
@@ -1535,7 +1519,7 @@ function renderList(){
   $('termlist').innerHTML = list.length ? list.map((t, i) => `
     ${i === firstPast ? '<li class="brk"><span>being used less</span><i></i></li>' : ''}
     <li><div class="termrow${t.direction === 'falling' ? ' past' : ''}"
-        data-on="${tab === 'comp' ? compFocus.has(t.id) : t.id===active}">
+        data-on="${t.id === active}">
       <button class="termbtn" data-id="${t.id}">
         <span class="term-name"><span class="phr">${t.term}</span>${
           t.pace === 'simultaneous'
@@ -1560,11 +1544,7 @@ function renderList(){
   $('termlist').querySelectorAll('.termbtn').forEach(b =>
     b.addEventListener('click', () => {
       active = b.dataset.id; saveHash();
-      if (tab === 'comp'){
-        compFocus.has(active) ? compFocus.delete(active) : compFocus.add(active);
-        companions(); renderList();
-      }
-      else if (tab === 'map'){ treemap(); renderList(); }
+      if (tab === 'map'){ treemap(); renderList(); }
       else { renderList(); renderDetail(); }
       // deliberately no re-fit: changing the cap changes the maximum scroll
       // position, and the browser then pulls you up the list
@@ -2165,195 +2145,12 @@ function wireArts(root){
   });
 }
 
-const COMP_PARENTS = new Set();
-// A set: selecting several topics compares their companions against each other,
-// which is the question "what are these conversations turning toward together".
-let compFocus = new Set();
-
-function companions(){
-  COMP_PARENTS.clear();
-  const rows = [];
-  // only phrases a reader can also find in the list: a card saying "within X"
-  // where X is not listed is a reference they cannot follow back
-  termsInScope(true).filter(t => t.display !== false)
-    .forEach(t => (t.cooc || []).forEach(c => {
-    const hasCounts = c.length > 3 && typeof c[3] === 'number';
-    const n = hasCounts ? c[3] : null, prior = hasCounts ? (c[4] || 0) : null;
-    // the collector's direction compares a fortnight with the one before,
-    // both on the same basis. The row's article count spans the whole
-    // window, so it cannot decide which section this belongs in.
-    const dir = c[2] || 'steady';
-    if (dir !== 'new' && dir !== 'rising') return;
-    const lift = c.length > 5 ? c[5] : 0;
-    const arts = c.length > 6 && Array.isArray(c[6]) ? c[6] : [];
-    if (hasCounts && n < 2) return;          // one article is not a turn
-    rows.push({ phrase: c[0], parent: t.term, parentId: t.id, dir, n, prior, lift, arts,
-      twins: c[7] || [],   // companions folded in because their articles were the same
-                pace: t.pace, weight: c[1] || 0,
-                growth: hasCounts ? n - prior : (c[1] || 0) });
-  }));
-
-  // the same companion can sit under several topics; keep the strongest and
-  // remember the others, since "appears with" is itself the interesting part
-  const best = {};
-  rows.forEach(r => {
-    const cur = best[r.phrase];
-    if (!cur){ best[r.phrase] = { ...r, parents: [r.parent], parentIds: [r.parentId] }; return; }
-    if (r.arts && r.arts.length > (cur.arts || []).length) cur.arts = r.arts;
-    if (r.pace !== 'simultaneous') cur.pace = r.pace;   // one slow parent is enough
-    if (!cur.parents.includes(r.parent)){ cur.parents.push(r.parent); cur.parentIds.push(r.parentId); }
-    if (r.growth > cur.growth)
-      Object.assign(cur, r, { parents: cur.parents, parentIds: cur.parentIds });
-  });
-
-  let list = Object.values(best)
-    .filter(r => !(DATA.terms || []).some(t => t.term === r.phrase))   // not a topic already listed
-    .sort((a, b) => (b.growth - a.growth) || (b.n - a.n));
-  list.forEach(r => r.parentIds.forEach(id => COMP_PARENTS.add(id)));
-  if (compFocus.size)
-    list = list.filter(r => r.parentIds.some(id => compFocus.has(id)));
-  list = list.slice(0, 40);
-
-  const names = [...compFocus]
-    .map(id => (DATA.terms || []).find(t => t.id === id))
-    .filter(Boolean).map(t => t.term);
-  const head = $('comp-head');
-  if (head) head.innerHTML = why('nuance', names.length
-    ? `Pairings that changed, within ${
-        names.length === 1 ? 'this phrase' : 'these phrases'}`
-    : 'Pairings that changed this fortnight');
-
-  const chips = $('comp-chips');
-  if (chips){
-    const held = [...compFocus]
-      .map(id => (DATA.terms || []).find(t => t.id === id)).filter(Boolean);
-    chips.innerHTML = held.length
-      ? held.map(t => `<button class="focuschip" data-drop="${t.id}"
-          title="Remove ${t.term}">${t.term}<span>\u00d7</span></button>`).join('')
-        + `<button id="comp-clear" class="clearfocus">clear all</button>`
-      : '';
-    chips.querySelectorAll('[data-drop]').forEach(b =>
-      b.addEventListener('click', () => {
-        compFocus.delete(b.dataset.drop); companions(); renderList();
-      }));
-  }
-  // Rising and first-appearance are different claims measured in different
-  // units — a delta against a level — so ranking them in one list let a thin
-  // newcomer outrank a phrase with four times the evidence. They are now
-  // separate sections, and neither can displace the other.
-  const bmax = Math.max(...list.map(r => r.n || r.weight * 10 || 0), 1);
-  // no more than three companions from any one topic, so a single busy story
-  // cannot fill the board
-  // one story, several namings: same shared word, comparable volume
-  const mergeTwins = arr => {
-    const out = [];
-    for (const r of arr){
-      const w = new Set(r.phrase.split(' '));
-      const twin = out.find(k => {
-        const kw = k.phrase.split(' ');
-        const shared = kw.filter(x => w.has(x)).length;
-        const vol = Math.min(r.n || 0, k.n || 0) / Math.max(1, k.n || 0);
-        return shared / Math.min(kw.length, w.size) >= 0.5 && vol >= 0.6;
-      });
-      if (twin){ (twin.twins = twin.twins || []).push(r.phrase); continue; }
-      out.push(r);
-    }
-    return out;
-  };
-
-  const capByParent = arr => {
-    const seen = {}, out = [];
-    for (const r of arr){
-      const p = r.parents[0] || '';
-      if ((seen[p] = (seen[p] || 0) + 1) <= 3) out.push(r);
-    }
-    return out;
-  };
-
-  // a list of brand new phrases has no coverage for pairings to form in,
-  // which is a different thing from nothing being alongside them
-  const inScope = termsInScope(true).filter(t => t.display !== false);
-  const shownPhrases = inScope.length;
-  const newPhrases = inScope.filter(t => t.direction === 'new'
-    || (t.articlesPrior14d || 0) === 0).length;
-
-  const rising = list.filter(r => r.dir === 'rising')
-    .sort((a, b) => (b.n / Math.max(1, b.prior)) - (a.n / Math.max(1, a.prior))
-                    || ((b.lift || 0) - (a.lift || 0)) || b.growth - a.growth);
-  // merge across both lists: the same phrase in two spellings can sit in
-  // different directions, and they never met when each list merged alone
-  const merged = mergeTwins([...rising,
-    ...list.filter(r => r.dir === 'new')
-           .sort((a, b) => (b.n - a.n) || ((b.lift || 0) - (a.lift || 0)))]);
-  const risingCapped = capByParent(merged.filter(r => r.dir !== 'new'));
-  const fresh = capByParent(merged.filter(r => r.dir === 'new')).slice(0, 18);
-
-  // the badge counts what the tab actually draws, after merging and capping
-  $('c-comp').textContent = risingCapped.length + fresh.length;
-
-  const card = (r, i) => {
-    const v = r.n || r.weight * 10 || 0;
-    const c = r.dir === 'new' ? 'var(--signal)' : 'var(--heat)';
-      const aid = 'ca' + i + '-' + (r.phrase.replace(/[^a-z0-9]+/g, '-'));
-    return `<div class="compcard">
-      <span class="bar" style="width:${Math.max(5, Math.round(v / bmax * 100))}%;
-        background:${c};opacity:.18;border-left:3px solid ${c}"></span>
-      <div class="comprank">${i + 1}</div>
-      <div class="compbody">
-        ${r.lift ? `<span class="liftcorner">${why('lift',
-          r.n >= 6 ? (r.lift >= 100 ? '100×+' : r.lift.toFixed(r.lift < 10 ? 1 : 0) + '×')
-                   : 'rare')}</span>` : ''}
-        <div class="compmain"><b>${r.phrase}</b>${r.pace === 'simultaneous'
-          ? ` <abbr class="kindtag" tabindex="0" data-why="pace">all at once</abbr>` : ''}</div>
-        <div class="alsoline">${r.twins && r.twins.length
-              ? 'also ' + r.twins.join(', ') : ''}</div>
-        <div class="withtopics">within ${r.parents.slice(0,2).map((p, k) =>
-          `<a href="#${r.parentIds[k]}" data-jump="${r.parentIds[k]}"
-              title="Open ${p}">${p}</a>`).join(', ')}${
-          r.parents.length > 2 ? ` +${r.parents.length-2}` : ''}</div>
-        <div class="compmeta">
-          <abbr class="why" tabindex="0" data-why="cooccount">${
-            r.n === null ? '—' : r.n} article${r.n === 1 ? '' : 's'}
-            carrying both</abbr>
-        </div>
-        ${r.arts && r.arts.length ? `
-        <button class="showarts" data-arts="${aid}" aria-expanded="false">
-          where they appear together</button>
-        <ul class="compArts hide" id="${aid}">
-          ${r.arts.map(a => `<li>
-            <span class="src">${a.publisher} · ${a.sector}${
-              a.date ? ` · ${shortDate(a.date)}` : ''}</span>
-            ${a.url ? `<a href="${a.url}" target="_blank" rel="noopener">${mark(a.title)}</a>`
-                    : mark(a.title)}
-            ${a.quote ? `<p class="quote">${mark(a.quote)}</p>` : ''}</li>`).join('')}
-        </ul>` : ''}
-      </div>
-    </div>`;
-  };
-
-  const section = (title, note, items) => items.length ? `
-    <div class="bandhead"><span>${title}</span><em>${items.length}</em></div>
-    <div class="compgrid">${items.map((r, i) => card(r, i)).join('')}</div>` : '';
-
-  $('comp-grid').innerHTML = (rising.length || fresh.length)
-    ? section('Being used more', 'already present, and used more than the 14 days before',
-              risingCapped)
-    + section('First appearance', 'no coverage in the 14 days before — thinner evidence, '
-              + 'and a newly added publication can produce these', fresh)
-    : `<p class="empty" style="padding:var(--pad) 2px;max-width:60ch;line-height:1.5">${newPhrases >= shownPhrases - 1
-        ? `Nothing yet. A pairing needs two articles carrying both phrases inside the fortnight, and almost every phrase on this list arrived this fortnight \u2014 there has not been enough coverage for pairings to form.`
-        : `Nothing new alongside the tracked phrases in the last 14 days.`}</p>`;
-
-  const clear = $('comp-clear');
-  if (clear) clear.addEventListener('click', e => {
-    e.stopPropagation(); compFocus.clear(); companions(); renderList();
-  });
-  wireArts($('comp-grid'));
-
-  $('comp-grid').querySelectorAll('.withtopics [data-jump]').forEach(a =>
-    a.addEventListener('click', e => { e.preventDefault(); openParent(a); }));
-  fillExplains();          // this board draws badges too
-}
+/* The companions board lived here. It was removed when the Nuance tab was
+   cut: 221 verified pairings survived every quality gate last run and 8
+   reached the board, the rest discarded only because their parent phrase
+   was not among the 17 shown. That coupling, not the evidence, was the
+   limit. Companions still appear under each phrase, drawn from t.cooc in
+   renderDetail, which never depended on this code. */
 
 function squarifyBox(items, W, H){
   const out = [];
@@ -2497,7 +2294,6 @@ function refresh(){
   // The companions board was missing here, so filtering moved the left column
   // and left the board showing an unfiltered ranking.
   if (tab === 'map'){ treemap(); sectorHeat(); }
-  if (tab === 'comp') companions();
   if (tab === 'co') companiesTab();   // same omission, one tab later
   renderList();
   scheduleFit();
@@ -2509,7 +2305,7 @@ function refresh(){
 function foldNotes(){
   // Panes whose note becomes a mark beside the heading: the space a toggle
   // reserved is worth more to the chart than to a button.
-  document.querySelectorAll('#term-map, #term-filings, #comp-view, #term-flow')
+  document.querySelectorAll('#term-map, #term-filings, #term-flow')
     .forEach(pane => {
     const head = pane.querySelector('.pane-head .eyebrow');
     const note = pane.querySelector('.panenote') || pane.querySelector(':scope > p');
@@ -2596,10 +2392,6 @@ const EXPLAIN = {
            + 'phrase and the one it sits under. The section above says '
            + 'whether the pairing is new or rising, which compares this '
            + 'fortnight with the one before.',
-  nuance: 'Every companion on this page also appears under its own phrase. This '
-        + 'tab gathers only those that changed: pairings not seen in the fortnight '
-        + 'before, or ones being used more than they were. A phrase page lists '
-        + 'everything it is discussed alongside, changed or not.',
   sweep: 'Every country in this region over-represents this phrase, not just one. '
        + 'A single country standing out can be its own economy; a whole region '
        + 'doing so is a broader shift in what that trade press covers.',
