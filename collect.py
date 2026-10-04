@@ -51,7 +51,7 @@ VERSION = "v3"
 # Bump this whenever extraction changes — including companies.json and the
 # stop lists, which feed it. Without a bump, stored grams keep the old rules
 # and the change appears to have done nothing.
-EXTRACT_VERSION = 250
+EXTRACT_VERSION = 251
 UA     = "crosstalk-monitor/3.0 (news language monitoring; crosstalkwire.com)"
 KEY    = os.environ.get("NEWSAPI_AI_KEY", "").strip()
 
@@ -615,6 +615,15 @@ STOCK_PHRASES = {
     # "chain" cannot be a head word because supply chain is real.
     "value chain", "supply value chain",
     "full scale", "large scale", "small scale", "commercial scale",
+    # financing instruments. Every firm in every sector arranges one, and the
+    # wording is the lender's rather than the desk's — which is why it reads as
+    # the most event-bound phrase in the corpus at 1.3 mentions a story. The
+    # substitutes are named alongside it: block "credit facility" alone and
+    # "revolving credit" simply takes its place, the way "street journal"
+    # survived blocking the masthead. "facility" cannot be a head word, since a
+    # manufacturing, storage or recycling facility is a real subject.
+    "credit facility", "revolving credit", "term loan",
+    "debt facility", "loan facility", "financing facility",
     "public offering", "public offering ipo", "offering ipo",
     "initial public", "rights issue", "stock exchange listing",
     "stock exchange", "exchange listing", "global network", "global footprint",
