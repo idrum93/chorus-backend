@@ -58,6 +58,9 @@ CREATE TABLE IF NOT EXISTS prices(
   PRIMARY KEY(day, symbol)
 );
 CREATE INDEX IF NOT EXISTS idx_prices_sector ON prices(sector, day);
+CREATE TABLE IF NOT EXISTS price_misses(
+  symbol TEXT PRIMARY KEY, last_try TEXT, tries INTEGER
+);
 """
 
 
@@ -287,6 +290,42 @@ def fresh_symbols(conn, within_days=3):
         "SELECT symbol FROM prices GROUP BY symbol HAVING MAX(day) >= ?", (edge,))}
 
 
+def backed_off(conn, today=None):
+    """Symbols no provider serves, held back so they are not retried daily.
+
+    HYMTF is Hyundai's over-the-counter ADR and no free provider carries it.
+    Without this it would be requested every run forever, and every run's log
+    would end with a failure that means nothing. After three misses a symbol
+    drops to a weekly attempt — rare enough to be cheap, often enough that a
+    listing which later becomes available is picked up."""
+    today = today or datetime.now(timezone.utc).date()
+    if isinstance(today, str):
+        today = datetime.fromisoformat(today).date()
+    held = set()
+    for sym, last, tries in conn.execute(
+            "SELECT symbol, last_try, tries FROM price_misses"):
+        if (tries or 0) < 3:
+            continue
+        try:
+            waited = (today - datetime.fromisoformat(last).date()).days
+        except (TypeError, ValueError):
+            continue
+        if waited < 7:
+            held.add(sym)
+    return held
+
+
+def record_miss(conn, symbol, today=None):
+    today = today or datetime.now(timezone.utc).date().isoformat()
+    conn.execute(
+        "INSERT INTO price_misses VALUES(?,?,1) ON CONFLICT(symbol) "
+        "DO UPDATE SET last_try=?, tries=tries+1", (symbol, today, today))
+
+
+def clear_miss(conn, symbol):
+    conn.execute("DELETE FROM price_misses WHERE symbol=?", (symbol,))
+
+
 def collect_companies(conn, since_days=800, pace=8.0, limit=None, verbose=True):
     """One request per company, paced under the free tier's eight a minute.
 
@@ -295,10 +334,15 @@ def collect_companies(conn, since_days=800, pace=8.0, limit=None, verbose=True):
     cutoff = (datetime.now(timezone.utc).date() - timedelta(days=since_days)).isoformat()
     syms = company_symbols(limit)
     skip = fresh_symbols(conn)
-    todo = [s for s in syms if s[0] not in skip]
+    held = backed_off(conn)
+    todo = [s for s in syms if s[0] not in skip and s[0] not in held]
     if verbose:
         print(f"\nCompany prices: {len(syms)} US-listed tickers, "
-              f"{len(syms) - len(todo)} already current, {len(todo)} to fetch")
+              f"{len(syms) - len(todo) - len(held & {s[0] for s in syms})} "
+              f"already current, {len(todo)} to fetch")
+        if held:
+            print(f"  {len(held)} held back as unavailable, retried weekly: "
+                  f"{', '.join(sorted(held)[:8])}")
         if todo:
             print(f"  about {len(todo) * pace / 60:.0f} minutes at the free "
                   f"tier's rate\n")
@@ -312,12 +356,15 @@ def collect_companies(conn, since_days=800, pace=8.0, limit=None, verbose=True):
                 conn.execute("INSERT INTO prices VALUES(?,?,?,?) "
                              "ON CONFLICT(day,symbol) DO UPDATE SET close=?",
                              (day, ticker, sector, close, close))
+            clear_miss(conn, ticker)
             conn.commit()
             total += len(rows); ok += 1
             if verbose:
                 print(f"  ok   {ticker:<6} {len(rows):>5} days  {name[:34]}")
         except Exception as e:
             missing.append(ticker)
+            record_miss(conn, ticker)
+            conn.commit()
             if verbose:
                 print(f"  --   {ticker:<6} {str(e)[:66]}")
         time.sleep(pace)

@@ -51,7 +51,7 @@ VERSION = "v3"
 # Bump this whenever extraction changes — including companies.json and the
 # stop lists, which feed it. Without a bump, stored grams keep the old rules
 # and the change appears to have done nothing.
-EXTRACT_VERSION = 249
+EXTRACT_VERSION = 250
 UA     = "crosstalk-monitor/3.0 (news language monitoring; crosstalkwire.com)"
 KEY    = os.environ.get("NEWSAPI_AI_KEY", "").strip()
 
@@ -273,6 +273,13 @@ project projects announce buy sell hold
 # frame with a topic bolted to the front: energy MANAGEMENT, annual CAPACITY,
 # purchase AGREEMENT, customer EXPERIENCE. Stopping the head rather than the
 # phrase catches the ones nobody has written yet.
+#
+# "policy" earns its place here as the name of a beat rather than a crossing:
+# trade policy, energy policy, industrial policy, monetary policy are the
+# headings desks file under, and one of them is a sector on this site. A phrase
+# that names a department is not language moving between departments. It stays
+# a head word rather than a blocked phrase, so "policy rate" is untouched and
+# all of them remain available as companions.
 FRAME_HEADS = set("""
 management capacity environment experience agreement investment application
 framework approach strategy initiative solution opportunity challenge
@@ -286,6 +293,7 @@ critical essential vital crucial optimal robust seamless scalable
 specialist specialists provider providers player players innovator
 driver drivers headwind headwinds tailwind tailwinds catalyst catalysts
 priority priorities imperative imperatives enabler enablers
+policy policies
 """.split())
 
 EDGE_STOP = set("""
@@ -326,6 +334,7 @@ emerging evolving growing expanding broader wider overall
 jointly newly recently previously formerly largely widely mainly
 chinese american european japanese korean german indian british french
 singapore australian canadian brazilian mexican dutch swiss nordic
+global
 automaker automakers carmaker carmakers manufacturer manufacturers
 listed based headquartered incorporated domiciled owned operated
 adding bringing taking making giving putting seeing marking
@@ -571,7 +580,15 @@ STOCK_PHRASES = {
     "regulatory approval", "regulatory framework", "final approval",
     "forms part", "asset management", "order book", "general manager",
     "power system", "management system", "water system", "energy technology",
-    
+    # fixed technical vocabulary rather than language travelling: every
+    # technology desk writes "operating system" every week. Named here beside
+    # the other "… system" entries on the line above rather than made a head
+    # word, because a grid system and a transmission system are real subjects.
+    "operating system",
+    # the back half of "battery cell production". "battery cell" is the phrase;
+    # this is the same subject arriving a second time wearing fewer words.
+    "cell production",
+
     "digital asset", "digital assets", "digital currency", "crypto asset",
     "energy vehicle", "energy vehicles",
 
@@ -632,9 +649,19 @@ STOCK_PHRASES = {
     "share purchase", "letter of intent",
 }
 
+# Pairs that only ever meet because a comma or an ampersand stood between them
+# and the tokeniser keeps letters only. "Engineering, procurement and
+# construction" becomes the bigram "engineering procurement", which no one has
+# ever written as a phrase. EPC itself is already an edge stop; the expansion
+# needs catching separately because neither of its words is suspicious alone.
 CONJUNCTION_WRECKS = {
     "oil gas", "gas oil", "power water", "water power", "health safety",
     "oil chemical", "food beverage", "mergers acquisition", "research development",
+    "mergers acquisitions", "merger acquisition",
+    "engineering procurement", "procurement construction",
+    "transmission distribution", "distribution transmission",
+    "generation transmission", "design build", "build operate",
+    "operate transfer", "wind solar", "solar wind",
 }
 
 COMPANY_PHRASES = set()
