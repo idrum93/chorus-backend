@@ -8,8 +8,8 @@
 **[distribution network](https://crosstalkwire.com/#distribution-network)** — Consumer, Supply chain, 4 articles across 3 newsrooms
 **[solar storage](https://crosstalkwire.com/#solar-storage)** — Energy, Utilities, 6 articles across 0 newsrooms
 **[grid operator](https://crosstalkwire.com/#grid-operator)** — Energy, Utilities, 5 articles across 3 newsrooms
+**[battery cell](https://crosstalkwire.com/#battery-cell)** — Autos, Technology, 13 articles across 6 newsrooms
 **[digital infrastructure](https://crosstalkwire.com/#digital-infrastructure)** — Finance, Real estate, Technology, 13 articles across 7 newsrooms
-**[wind energy](https://crosstalkwire.com/#wind-energy)** — Energy, Technology, 4 articles across 3 newsrooms
 
 ## Being used more than a fortnight ago
 
@@ -22,8 +22,8 @@
 ## Being discussed alongside
 
 **battery cell** — mass produce, electric vehicle
-**gas plant** — data center
 **iron ore** — steel mill
+**gas plant** — data center
 
 ---
 
