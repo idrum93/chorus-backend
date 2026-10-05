@@ -1,13 +1,13 @@
 # Crosstalk — week ending 5 October 2026
 
-*25,633 articles over 187 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*25,820 articles over 187 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
 **[driver assistance](https://crosstalkwire.com/#driver-assistance)** — Autos, Technology, 8 articles across 3 newsrooms
 **[trade truce](https://crosstalkwire.com/#trade-truce)** — Supply chain, Technology, 8 articles across 4 newsrooms
 **[renewable generation](https://crosstalkwire.com/#renewable-generation)** — Energy, Utilities, 5 articles across 4 newsrooms
-**[distribution network](https://crosstalkwire.com/#distribution-network)** — Consumer, Supply chain, 4 articles across 3 newsrooms
+**[distribution network](https://crosstalkwire.com/#distribution-network)** — Consumer, Supply chain, 5 articles across 3 newsrooms
 **[solar storage](https://crosstalkwire.com/#solar-storage)** — Energy, Utilities, 6 articles across 0 newsrooms
 **[battery cell](https://crosstalkwire.com/#battery-cell)** — Autos, Technology, 13 articles across 6 newsrooms
 
