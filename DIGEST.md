@@ -1,23 +1,21 @@
-# Crosstalk — week ending 5 October 2026
+# Crosstalk — week ending 6 October 2026
 
-*25,820 articles over 187 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*25,963 articles over 188 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
-**[driver assistance](https://crosstalkwire.com/#driver-assistance)** — Autos, Technology, 8 articles across 3 newsrooms
 **[trade truce](https://crosstalkwire.com/#trade-truce)** — Supply chain, Technology, 8 articles across 4 newsrooms
-**[renewable generation](https://crosstalkwire.com/#renewable-generation)** — Energy, Utilities, 5 articles across 4 newsrooms
+**[battery material](https://crosstalkwire.com/#battery-material)** — Autos, Technology, 9 articles across 5 newsrooms
 **[distribution network](https://crosstalkwire.com/#distribution-network)** — Consumer, Supply chain, 5 articles across 3 newsrooms
+**[driver assistance](https://crosstalkwire.com/#driver-assistance)** — Autos, Technology, 6 articles across 3 newsrooms
+**[renewable generation](https://crosstalkwire.com/#renewable-generation)** — Energy, Utilities, 4 articles across 4 newsrooms
 **[solar storage](https://crosstalkwire.com/#solar-storage)** — Energy, Utilities, 6 articles across 0 newsrooms
-**[battery cell](https://crosstalkwire.com/#battery-cell)** — Autos, Technology, 13 articles across 6 newsrooms
 
 ## Being used more than a fortnight ago
 
-**[battery cell](https://crosstalkwire.com/#battery-cell)** — 13 articles, 2.6× the fortnight before, in technology, autos
+**[solar storage](https://crosstalkwire.com/#solar-storage)** — 6 articles, 2.0× the fortnight before, in energy, utilities
 
-**[grid operator](https://crosstalkwire.com/#grid-operator)** — 5 articles, 1.7× the fortnight before, in energy, utilities
-
-**[solar storage](https://crosstalkwire.com/#solar-storage)** — 6 articles, 1.5× the fortnight before, in energy, utilities
+**[driver assistance](https://crosstalkwire.com/#driver-assistance)** — 6 articles, 1.5× the fortnight before, in technology, autos
 
 **[critical infrastructure](https://crosstalkwire.com/#critical-infrastructure)** — 6 articles, 1.5× the fortnight before, in utilities, technology
 
@@ -25,7 +23,6 @@
 
 **trade truce** — state visit
 **steel mill** — iron ore mine
-**rare earth** — cyclic material
 
 ---
 
