@@ -1,6 +1,6 @@
 # Crosstalk — week ending 7 October 2026
 
-*26,758 articles over 189 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*26,934 articles over 190 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
@@ -15,9 +15,9 @@
 
 **[deal worth](https://crosstalkwire.com/#deal-worth)** — 7 articles, 2.3× the fortnight before, in technology, supply chain
 
-**[critical infrastructure](https://crosstalkwire.com/#critical-infrastructure)** — 7 articles, 1.8× the fortnight before, in utilities, technology
+**[energy cost](https://crosstalkwire.com/#energy-cost)** — 10 articles, 2.0× the fortnight before, in energy, utilities
 
-**[energy infrastructure](https://crosstalkwire.com/#energy-infrastructure)** — 12 articles, 1.5× the fortnight before, in utilities, energy
+**[critical infrastructure](https://crosstalkwire.com/#critical-infrastructure)** — 7 articles, 1.8× the fortnight before, in utilities, technology
 
 **[grid connection](https://crosstalkwire.com/#grid-connection)** — 10 articles, 1.4× the fortnight before, in technology, utilities, energy
 
