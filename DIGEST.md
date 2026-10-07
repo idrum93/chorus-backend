@@ -1,6 +1,6 @@
 # Crosstalk — week ending 7 October 2026
 
-*26,563 articles over 189 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*26,758 articles over 189 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
@@ -24,8 +24,8 @@
 ## Being discussed alongside
 
 **trade truce** — state visit
+**battery material** — seeks partner
 **grid connection** — battery energy storage
-**energy infrastructure** — natural gas, battery storage
 
 ---
 
