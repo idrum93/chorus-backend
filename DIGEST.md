@@ -1,17 +1,19 @@
 # Crosstalk — week ending 8 October 2026
 
-*27,249 articles over 190 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*27,430 articles over 190 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
+**[wood mackenzie](https://crosstalkwire.com/#wood-mackenzie)** — Energy, Utilities, 5 articles across 4 newsrooms
 **[distribution network](https://crosstalkwire.com/#distribution-network)** — Supply chain, Technology, 5 articles across 3 newsrooms
+**[warehouse space](https://crosstalkwire.com/#warehouse-space)** — Materials, Supply chain, 5 articles across 4 newsrooms
 **[air conditioner](https://crosstalkwire.com/#air-conditioner)** — Consumer, Energy, 4 articles across 3 newsrooms
 **[trade truce](https://crosstalkwire.com/#trade-truce)** — Supply chain, Technology, 8 articles across 4 newsrooms
 **[renewable generation](https://crosstalkwire.com/#renewable-generation)** — Energy, Utilities, 4 articles across 4 newsrooms
-**[industrial park](https://crosstalkwire.com/#industrial-park)** — Real estate, Technology, 5 articles across 4 newsrooms
-**[battery material](https://crosstalkwire.com/#battery-material)** — Autos, Technology, 9 articles across 5 newsrooms
 
 ## Being used more than a fortnight ago
+
+**[energy cost](https://crosstalkwire.com/#energy-cost)** — 11 articles, 3.7× the fortnight before, in energy, utilities
 
 **[digital infrastructure](https://crosstalkwire.com/#digital-infrastructure)** — 13 articles, 3.2× the fortnight before, in technology, finance, real estate
 
@@ -19,9 +21,9 @@
 
 ## Being discussed alongside
 
+**wood mackenzie** — energy storage
+**warehouse space** — contract logistics
 **trade truce** — state visit
-**battery material** — seeks partner
-**iron ore** — steel mill
 
 ---
 
