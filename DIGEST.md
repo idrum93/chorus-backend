@@ -1,29 +1,29 @@
-# Crosstalk — week ending 8 October 2026
+# Crosstalk — week ending 9 October 2026
 
-*27,430 articles over 190 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*27,519 articles over 191 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
-**[wood mackenzie](https://crosstalkwire.com/#wood-mackenzie)** — Energy, Utilities, 5 articles across 4 newsrooms
+**[deal cover](https://crosstalkwire.com/#deal-cover)** — Supply chain, Technology, 4 articles across 4 newsrooms
+**[solar farm](https://crosstalkwire.com/#solar-farm)** — Energy, Utilities, 4 articles across 3 newsrooms
 **[distribution network](https://crosstalkwire.com/#distribution-network)** — Supply chain, Technology, 5 articles across 3 newsrooms
-**[warehouse space](https://crosstalkwire.com/#warehouse-space)** — Materials, Supply chain, 5 articles across 4 newsrooms
-**[air conditioner](https://crosstalkwire.com/#air-conditioner)** — Consumer, Energy, 4 articles across 3 newsrooms
+**[industrial park](https://crosstalkwire.com/#industrial-park)** — Real estate, Technology, 6 articles across 4 newsrooms
+**[wood mackenzie](https://crosstalkwire.com/#wood-mackenzie)** — Energy, Utilities, 4 articles across 4 newsrooms
 **[trade truce](https://crosstalkwire.com/#trade-truce)** — Supply chain, Technology, 8 articles across 4 newsrooms
-**[renewable generation](https://crosstalkwire.com/#renewable-generation)** — Energy, Utilities, 4 articles across 4 newsrooms
 
 ## Being used more than a fortnight ago
 
 **[energy cost](https://crosstalkwire.com/#energy-cost)** — 11 articles, 3.7× the fortnight before, in energy, utilities
 
-**[digital infrastructure](https://crosstalkwire.com/#digital-infrastructure)** — 13 articles, 3.2× the fortnight before, in technology, finance, real estate
+**[digital infrastructure](https://crosstalkwire.com/#digital-infrastructure)** — 11 articles, 1.8× the fortnight before, in technology, finance, real estate
 
-**[distribution network](https://crosstalkwire.com/#distribution-network)** — 5 articles, 1.7× the fortnight before, in technology, supply chain
+**[industrial park](https://crosstalkwire.com/#industrial-park)** — 6 articles, 1.5× the fortnight before, in real estate, technology
 
 ## Being discussed alongside
 
-**wood mackenzie** — energy storage
-**warehouse space** — contract logistics
 **trade truce** — state visit
+**battery material** — seeks partner
+**steel mill** — iron ore mine
 
 ---
 
