@@ -1,23 +1,23 @@
 # Crosstalk — week ending 10 October 2026
 
-*27,813 articles over 192 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
+*27,875 articles over 193 days of collection. Every figure is a count of articles actually read; nothing is modelled, estimated or forecast.*
 
 ## What is crossing now
 
 **[solar farm](https://crosstalkwire.com/#solar-farm)** — Energy, Utilities, 4 articles across 3 newsrooms
-**[distribution network](https://crosstalkwire.com/#distribution-network)** — Supply chain, Technology, 5 articles across 3 newsrooms
 **[industrial park](https://crosstalkwire.com/#industrial-park)** — Real estate, Technology, 6 articles across 4 newsrooms
 **[renewable generation](https://crosstalkwire.com/#renewable-generation)** — Energy, Utilities, 4 articles across 4 newsrooms
 **[trade truce](https://crosstalkwire.com/#trade-truce)** — Supply chain, Technology, 8 articles across 4 newsrooms
 **[wind turbine](https://crosstalkwire.com/#wind-turbine)** — Supply chain, Utilities, 4 articles across 4 newsrooms
+**[distribution network](https://crosstalkwire.com/#distribution-network)** — Consumer, Supply chain, Technology, 6 articles across 4 newsrooms
 
 ## Being used more than a fortnight ago
 
-**[distribution network](https://crosstalkwire.com/#distribution-network)** — 5 articles, 1.7× the fortnight before, in technology, supply chain
+**[distribution network](https://crosstalkwire.com/#distribution-network)** — 6 articles, 2.0× the fortnight before, in consumer, technology, supply chain
+
+**[affordable housing](https://crosstalkwire.com/#affordable-housing)** — 10 articles, 1.7× the fortnight before, in real estate, waste & water
 
 **[industrial park](https://crosstalkwire.com/#industrial-park)** — 6 articles, 1.5× the fortnight before, in real estate, technology
-
-**[affordable housing](https://crosstalkwire.com/#affordable-housing)** — 9 articles, 1.5× the fortnight before, in real estate, waste & water
 
 **[digital infrastructure](https://crosstalkwire.com/#digital-infrastructure)** — 10 articles, 1.4× the fortnight before, in technology, finance, real estate
 
