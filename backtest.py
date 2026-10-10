@@ -30,6 +30,32 @@ from datetime import datetime, timedelta, timezone
 HERE = os.path.dirname(os.path.abspath(__file__))
 DB   = os.environ.get("CHORUS_DB", os.path.join(HERE, "chorus.db"))
 
+# The prices table holds two kinds of row since company prices were added:
+# one per sector ETF, and one per listed company, both tagged with a sector.
+# Reading it by sector alone silently mixed Vistra's share price into the
+# Utilities series and whichever row landed last won. Only the ETFs stand for
+# a sector, so only the ETFs are read here.
+try:
+    from prices import SECTOR_ETF
+    ETF_SYMBOLS = {v[0] for v in SECTOR_ETF.values()}
+except Exception:
+    ETF_SYMBOLS = set()
+
+
+def sector_closes(conn):
+    """Daily closes per sector, from the sector ETFs only."""
+    daily = defaultdict(dict)
+    rows = conn.execute("SELECT sector, symbol, day, close FROM prices")
+    for sec, symbol, day, close in rows:
+        if ETF_SYMBOLS and symbol not in ETF_SYMBOLS:
+            continue
+        if not ETF_SYMBOLS and "." not in (symbol or ""):
+            continue          # fallback: ETF symbols carry a suffix, tickers do not
+        daily[sec][day] = close
+    return daily
+
+
+
 # ---- pre-registered, before any result has been seen -----------------------
 MIN_HISTORY_DAYS = 180     # a baseline needs this much behind it
 MIN_EVENTS       = 100     # below this the answer is noise, whatever it says
@@ -90,7 +116,9 @@ def load(conn):
             grams[gram][sector][day] = arts / tot
     prices = defaultdict(dict)
     try:
-        for sector, day, close in conn.execute("SELECT sector, day, close FROM prices"):
+        for sector, day, close in conn.execute(
+                "SELECT sector, day, close FROM prices WHERE symbol IN "
+                "(%s)" % ",".join("?" * len(ETF_SYMBOLS)), tuple(ETF_SYMBOLS)):
             prices[sector][day] = close
     except sqlite3.OperationalError:
         pass
