@@ -51,7 +51,7 @@ VERSION = "v3"
 # Bump this whenever extraction changes — including companies.json and the
 # stop lists, which feed it. Without a bump, stored grams keep the old rules
 # and the change appears to have done nothing.
-EXTRACT_VERSION = 254
+EXTRACT_VERSION = 255
 UA     = "crosstalk-monitor/3.0 (news language monitoring; crosstalkwire.com)"
 KEY    = os.environ.get("NEWSAPI_AI_KEY", "").strip()
 
@@ -316,6 +316,7 @@ priority priorities imperative imperatives enabler enablers
 policy policies
 producer producers
 risk risks
+cost costs
 """.split())
 
 EDGE_STOP = set("""
@@ -325,6 +326,7 @@ makes make made takes take took gives give gave sees see saw goes go went comes 
 gets get got puts put adds add added shows show showed tells tell told asks ask asked
 begins begin began ends end ended starts start started stops stop stopped
 pushed pushes pushing back
+sized cover covers covered covering
 administration administrations official officials spokesperson spokesman spokeswoman
 president senator governor secretary minister chairman commissioner
 must should despite ongoing amid whether toward
@@ -637,7 +639,17 @@ STOCK_PHRASES = {
     "wall street journal", "wall street", "financial times", "new york times",
     "south china morning", "morning post", "nikkei asia", "associated press",
     "washington post", "business insider", "sunday times",
+    # research houses the trade press quotes. Attribution, not subject —
+    # the same reason the mastheads above are here. Their names are bound by
+    # construction, so the coined reading promotes them hard.
+    "wood mackenzie", "rystad energy", "ihs markit", "benchmark mineral",
+    "think tank", "research firm", "trade body", "industry body",
+    "trade group", "industry group", "pre order",
     "basis point", "percentage point", "price point", "data point",
+    # units, not subjects. A square meter is how much of something there is,
+    # the same way a basis point is — neither names the thing being measured.
+    "square meter", "square metre", "square foot", "cubic meter",
+    "cubic metre", "metric ton", "square kilometer", "square kilometre",
     # events every firm in every sector has: two desks reporting them is not
     # a phrase crossing between desks
     # everything is somewhere in a value chain, so saying so locates nothing.
@@ -653,6 +665,8 @@ STOCK_PHRASES = {
     # manufacturing, storage or recycling facility is a real subject.
     "credit facility", "revolving credit", "term loan",
     "debt facility", "loan facility", "financing facility",
+    "private placement", "debt financing", "equity financing",
+    "bridge financing", "convertible note",
     "public offering", "public offering ipo", "offering ipo",
     "initial public", "rights issue", "stock exchange listing",
     "stock exchange", "exchange listing", "global network", "global footprint",
