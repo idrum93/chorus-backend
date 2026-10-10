@@ -21,7 +21,7 @@ on:
         default: ""
 
 permissions:
-  contents: read
+  contents: write
 
 # Shared with collect and edgar so two jobs never write the database at once.
 concurrency:
@@ -39,13 +39,9 @@ jobs:
 
       - name: Fetch database
         env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
-          AWS_DEFAULT_REGION: auto
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          pip install awscli --quiet
-          aws s3 cp s3://crosstalk/chorus.db chorus.db \
-            --endpoint-url ${{ secrets.R2_ENDPOINT }}
+          gh release download database --pattern chorus.db --clobber
           ls -lh chorus.db
 
       # Prices are context. If every provider is down the dashboard simply
@@ -73,13 +69,16 @@ jobs:
 
       # Written back even on a partial run: the symbols that did answer are
       # worth keeping, and the next run skips whatever is already current.
+      #
+      # The GitHub release, not R2. This workflow was written against R2 while
+      # collect reads the release, so every company price it fetched landed in
+      # a database nothing else opens — which is why no price has ever reached
+      # the Companies tab.
       - name: Store database
         if: always()
         env:
-          AWS_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
-          AWS_DEFAULT_REGION: auto
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           test -f chorus.db || { echo "::error::no database to store"; exit 1; }
-          aws s3 cp chorus.db s3://crosstalk/chorus.db \
-            --endpoint-url ${{ secrets.R2_ENDPOINT }}
+          gh release upload database chorus.db --clobber
+          echo "Stored $(du -h chorus.db | cut -f1) to the database release."
