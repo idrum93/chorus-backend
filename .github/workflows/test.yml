@@ -15,6 +15,14 @@ on:
         type: choice
         options: [status, filings, news]
 
+# Reads only, but it must not read while collect, edgar or prices is midway
+# through writing. Without this, queueing edgar and then test runs the test
+# against the database as it stood BEFORE edgar finished — which reads as
+# "no filing history" and sends you looking for a bug that is not there.
+concurrency:
+  group: crosstalk-write
+  cancel-in-progress: false
+
 jobs:
   test:
     runs-on: ubuntu-latest
@@ -48,6 +56,9 @@ jobs:
         run: python3 backtest.py 2>&1 | tee out.txt
 
       - name: Report
+        if: always()
+        run: |
+          { echo "## Result"; echo '```'; cat out.txt; echo '```'; } >> $GITHUB_STEP_SUMMARY
         if: always()
         run: |
           { echo "## Result"; echo '```'; cat out.txt; echo '```'; } >> $GITHUB_STEP_SUMMARY
