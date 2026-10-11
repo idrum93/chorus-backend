@@ -437,10 +437,30 @@ def main():
     if not os.path.exists(DB):
         print("No database yet."); return 1
     conn = sqlite3.connect(DB)
-    try:
-        conn.execute("SELECT 1 FROM filings LIMIT 1")
-    except sqlite3.OperationalError:
-        print("\n  No filing history yet. Run the edgar workflow in build mode first.\n")
+    # Say which database this is before saying what is wrong with it. A missing
+    # table can mean the edgar build never ran, or it ran and this is a copy
+    # from before it did — and those need opposite responses.
+    import time
+    print(f"\n  database  {DB}")
+    print(f"            {os.path.getsize(DB)/1e6:.1f} MB · written "
+          f"{time.strftime('%Y-%m-%d %H:%M UTC', time.gmtime(os.path.getmtime(DB)))}")
+    tables = {r[0]: 0 for r in conn.execute(
+        "SELECT name FROM sqlite_master WHERE type='table' ORDER BY name")}
+    for t in list(tables):
+        try:
+            tables[t] = conn.execute(f"SELECT COUNT(*) FROM {t}").fetchone()[0]
+        except sqlite3.DatabaseError:
+            tables[t] = -1
+    print("            " + ", ".join(f"{t} {n:,}" for t, n in tables.items()))
+
+    if "filings" not in tables or not tables["filings"]:
+        print("\n  No filing history in THIS copy of the database.")
+        if tables.get("articles"):
+            print("  The articles are here, so this is the live database and the")
+            print("  edgar build either has not run or did not store its result.")
+        print("  If the edgar workflow reported rows stored, check that this test")
+        print("  did not start while that workflow was still running — both now")
+        print("  share a concurrency group, which prevents exactly that.\n")
         return 1
 
     shares, prices = load(conn)
